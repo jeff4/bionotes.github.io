@@ -1,8 +1,8 @@
-## Textbook: *Life, The Science of Biology* by Sadava et al.
+# Textbook: *Life, The Science of Biology* by Sadava et al.
 * [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
-### Chapter 2
+## Chapter 2
 * Review of electron orbitals p. 25 (Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?).
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
 	* Remember:
@@ -16,7 +16,7 @@
 
 
 
-### Notes on various versions of Intro Bio course at MIT 7.01
+## Notes on various versions of Intro Bio course at MIT 7.01
 
 [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for independent study and OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
 
