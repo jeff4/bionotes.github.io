@@ -3,7 +3,7 @@
 * Review of electron orbitals p. 25 (Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?).
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
 	* Remember:
-		* First Shell: *1s^2* = total of **2 electrons** in this shell.
+		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell.
 		* Second Shell: *2s^2 + 2p^6* = total of **8 electrons** in this shell.
 		* Third Shell: *3s^2 + 3p^6 + 3d^10* = total of **18 electrons** in this shell.
 		* Fourth Shell: *4s^2 + 4p^6 + 4d^10 + 4f^14* = total of **32 electrons** in this shell.
