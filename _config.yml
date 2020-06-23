@@ -1,5 +1,5 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: BioNotes.Org
+description: Some personal notes I've been taking on biology
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
