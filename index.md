@@ -4,10 +4,10 @@
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
 	* Remember:
 		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell.
-		* Second Shell: *2s^2 + 2p^6* = total of **8 electrons** in this shell.
-		* Third Shell: *3s^2 + 3p^6 + 3d^10* = total of **18 electrons** in this shell.
-		* Fourth Shell: *4s^2 + 4p^6 + 4d^10 + 4f^14* = total of **32 electrons** in this shell.
-		* Fifth Shell: *5s^2 + 5p^6 + 5d^10 + 5f^14 + 5g^18* = total of **50 electrons** in this shell.
+		* Second Shell: *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
+		* Third Shell: *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
+		* Fourth Shell: *4s<sup>2</sup> + 4p<sup>6</sup> + 4d<sup>10</sup> + 4f<sup>14</sup>* = total of **32 electrons** in this shell.
+		* Fifth Shell: *5s<sup>2</sup> + 5p<sup>6</sup> + 5d<sup>10</sup> + 5f<sup>14</sup> + 5g<sup>18</sup>* = total of **50 electrons** in this shell.
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
 		* 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s, etc.
 
