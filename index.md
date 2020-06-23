@@ -1,5 +1,7 @@
-### Saturday 2020.06.20
-* Life, The Science of Biology (Tenth Edition, 2014) by Sadava, Hillis, Heller, and Berenbaum
+## Notes on Textbook
+* *Life, The Science of Biology* (Tenth Edition, 2014) by Sadava, Hillis, Heller, and Berenbaum
+
+### Chapter 2
 * Review of electron orbitals p. 25 (Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?).
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
 	* Remember:
