@@ -14,7 +14,7 @@
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
 		* 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s, etc.
 
-#### Table 2.1 Chemical Bonds - p. 26
+### Table 2.1 Chemical Bonds - p. 26
 
 | Type of Bond              | Description                                                         | Bond Energy (kcal/mol) |
 |---------------------------|---------------------------------------------------------------------|------------------------|
@@ -25,11 +25,11 @@
 | van der Waals interaction | Interaction of electrons of nonpolar substances                     | 1                      |
 
 
-## Concept of Electronegativity - p. 28
+### Concept of Electronegativity - p. 28
 * When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.
 	* p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
 
-## Ionic attractions - p. 28-29
+### Ionic attractions - p. 28-29
 * When 2 interacting atoms have a large enough difference in electronegativity, ions form as the more powerfully electronegative nucleus strips electrons away from the weakly electronegative (aka positive atom). 
 * Example of sodium Na and chlorine Cl
 	* Na has its 1st two shells filled (aka *1s<sup>2</sup>* + *2s<sup>2</sup> + 2p<sup>6</sup>*). Also, as a [Group I element](https://iupac.org/what-we-do/periodic-table-of-elements/), it also has an extra electron in the next subshell: 3s<sup>2</sup> aka the first electron to appear in Shell M. It is easy to lose this electron.
@@ -38,7 +38,7 @@
 	* This produces a **positive cation** Na<sup>+</sup> and a **negative anion**  Cl<sup>-</sup> .
 * This also explains the octet rule for molecules formed by atoms where *s<sup>2</sup> and p<sup>6</sup>* subshells are concerned.
 
-## Salts and interactions with polar molecules - p. 29
+### Salts and interactions with polar molecules - p. 29
 * Lorem ipsum
 * 
 
