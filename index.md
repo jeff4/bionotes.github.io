@@ -14,7 +14,15 @@
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
 		* 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s, etc.
 
+## Table 2.1 Chemical Bonds - p. 26
 
+| Type of Bond              | Description                                                         | Bond Energy (kcal/mol) |
+|---------------------------|---------------------------------------------------------------------|------------------------|
+| Covalent bond             | Sharing of electron pairs                                           | 50-110                 |
+| Ionic attraction          | Opposite charges, usually different molecules                       | 3-7                    |
+| Hydrogen bond             | Attractio between bonded H+ atom and electronegative atom           | 3-7                    |
+| Hydrophobic interaction   | Nonpolar substances in presence of water (or other polar substrate) | 1-2                    |
+| van der Waals interaction | Interaction of electrons of nonpolar substances                     | 1                      |
 
 ## Notes on various versions of Intro Bio course at MIT 7.01
 
