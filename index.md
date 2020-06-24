@@ -24,6 +24,11 @@
 | Hydrophobic interaction   | Nonpolar substances in presence of water (or other polar substrate) | 1-2                    |
 | van der Waals interaction | Interaction of electrons of nonpolar substances                     | 1                      |
 
+
+## Concept of Electronegativity - p. 28
+* When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.
+	* p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
+
 ## Notes on various versions of Intro Bio course at MIT 7.01
 
 [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for independent study and OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
