@@ -14,7 +14,7 @@
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
 		* 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s, etc.
 
-## Table 2.1 Chemical Bonds - p. 26
+### Table 2.1 Chemical Bonds - p. 26
 
 | Type of Bond              | Description                                                         | Bond Energy (kcal/mol) |
 |---------------------------|---------------------------------------------------------------------|------------------------|
