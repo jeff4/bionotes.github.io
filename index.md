@@ -32,8 +32,8 @@
 ## Ionic attractions - p. 28-29
 * When 2 interacting atoms have a large enough difference in electronegativity, ions form as the more powerfully electronegative nucleus strips electrons away from the weakly electronegative (aka positive atom). 
 * Example of sodium Na and chlorine Cl
-	* Na has its 1st two shells filled (aka *1s<sup>2</sup>* +  *2s<sup>2</sup> + 2p<sup>6</sup>* and as a [Group I element](https://iupac.org/what-we-do/periodic-table-of-elements/), it also has an extra electron in the next subshell: 3s<sup>2</sup> aka the first electron to appear in Shell M. It is easy to lose this electron.
-	* Meanwhile, Cl only has 7 electrons in its  *3s<sup>2</sup> + 3p<sup>6</sup>* subshells. But ideally it would "like" 8 electrons to complete subshell *3p<sup>6</sup>*. 
+	* Na has its 1st two shells filled (aka *1s<sup>2</sup>* + *2s<sup>2</sup> + 2p<sup>6</sup>*). Also, as a [Group I element](https://iupac.org/what-we-do/periodic-table-of-elements/), it also has an extra electron in the next subshell: 3s<sup>2</sup> aka the first electron to appear in Shell M. It is easy to lose this electron.
+	* Meanwhile, Cl only has 7 electrons in its  *3s<sup>2</sup> + 3p<sup>6</sup>* subshells. But ideally it would "like" **8 electrons** to complete subshell *3p<sup>6</sup>*. 
 	* So in solution, Cl's more electronegative (aka more positive) nucleus "steals" the sole electron in Na's outermost subshell 3s<sup>2</sup>.
 	* This produces a **positive cation** Na<sup>+</sup> and a **negative anion**  Cl<sup>-</sup> .
 * This also explains the octet rule for molecules formed by atoms where *s<sup>2</sup> and p<sup>6</sup>* subshells are concerned.
