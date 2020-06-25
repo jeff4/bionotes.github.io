@@ -43,7 +43,7 @@
 * 
 
 ### Misc
-* Good interactive page on hemoglobin and primary, secondary, tertiary, and quartenary structure
+* Good interactive page on [hemoglobin and primary, secondary, tertiary, and quartenary structure](https://www.labxchange.org/library/items/lb:LabXchange:99c39c9f:lx_simulation:1)
 
 ## Notes on various versions of Intro Bio course at MIT 7.01
 
