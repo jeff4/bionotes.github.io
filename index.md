@@ -20,7 +20,7 @@
 |---------------------------|---------------------------------------------------------------------|------------------------|
 | Covalent bond             | Sharing of electron pairs                                           | 50-110                 |
 | Ionic attraction          | Example NaCl — electrons stolen to complete octets in valence shell to produce *+cations* and *-anions*   | 3-7                    |
-| Hydrogen bond             | Attraction between bonded H+ atom and electronegative atom. Important for [secondary structure within a protein molecule](https://en.wikipedia.org/wiki/Protein_secondary_structure) but also occurs between molecules   | 3-7                    |
+| Hydrogen bond             | Attraction between bonded H<sup>+</sup> atom and electronegative atom. Important for [secondary structure within a protein molecule](https://en.wikipedia.org/wiki/Protein_secondary_structure) but also occurs between molecules   | 3-7                    |
 | Hydrophobic interaction   | Nonpolar substances in presence of water (or other polar substrate) | 1-2                    |
 | van der Waals interaction | Interaction of electrons of nonpolar substances                     | 1                      |
 
