@@ -51,9 +51,15 @@
 
 ### Chapter 2.4: H<sub>2</sub>0 has special properties - p. 32-34
 * **Electronegativity causes strongly polar covalent bonds.** Water has a tetrahedral shape with oxygen in the center, two of the tetrahedral vertices occupied by hydrogen atoms, and the two remaining vertices occupied by an unbonded electron pair. Because oxygen has a high electronegativity relative to hydrogen, there is a  partial *delta-positive* charge on each hydrogen. Conversely, there is a partial *delta-negative* charge on each unbonded electron pair on the other two vertices. 
-* Highly polar bonds then cause multiple and powerful hydrogen bonds between water molecules.
-	* In a liquid state, water molecules are connected to each other by hydrogen bonds. Special properties of liquid water thanks to multiple strings of hydrogen bonds:
-	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. In a frozen state, hydrogen bonds give solid water aka ice these special properties:
+* Highly polar bonds then cause multiple and powerful hydrogen bonds between water molecules. Can also refer to these hydrogen bonds as intermolecular forces.
+	* In a liquid state, water molecules are connected to each other by chains of powerful but intermittent hydrogen bonds. Special properties of liquid water thanks to multiple strings of hydrogen bonds:
+		* High surface tension
+		* High cohesion (water to water) and high adhesion (water to other substances) which are critical to [upward water flow in plant xylem](https://en.wikipedia.org/wiki/Xylem#Main_function_–_upwards_water_transport) 
+		* High surface tension (water striders) and allows beads of water droplets (ants carrying a ball of water)
+		* Lower vapor pressure (aka evaporation)
+		* High specific heat
+		* High boiling point aka heat of vaporization
+	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to 4 other water molecules in a 3-d tetrahedral shape. In a frozen state, hydrogen bonds give solid water aka ice these special properties:
 
 ### Misc
 
