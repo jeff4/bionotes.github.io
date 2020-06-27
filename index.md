@@ -21,7 +21,7 @@
 | Type of Bond              | Description                                                         | Bond Energy (kcal/mol) |
 |---------------------------|---------------------------------------------------------------------|------------------------|
 | Covalent bond             | Sharing of electron pairs                                           | 50-110                 |
-| Ionic attraction          | Example NaCl — electrons stolen to complete octets in valence shell to produce *+cations* and *-anions*   | 3-7                    |
+| Ionic bond          | Example NaCl — electrons stolen to complete octets in valence shell to produce *+cations* and *-anions*   | 3-7                    |
 | Hydrogen bond             | Attraction between bonded H<sup>+</sup> atom and electronegative atom. Important for [secondary structure within a protein molecule](https://en.wikipedia.org/wiki/Protein_secondary_structure) but also occurs between molecules   | 3-7                    |
 | Hydrophobic interaction   | Nonpolar substances in presence of water (or other polar substrate) | 1-2                    |
 | van der Waals interaction | Interaction of electrons of nonpolar substances                     | 1                      |
@@ -31,10 +31,10 @@
 * When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.2
 	* p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
 	* Extreme electronegativity = powerful positive proton nuclues which leads to ability to attract greater than "fair share" of shared electrons in a molecule
-	* maps to having almost having enough electrons in valencce shell to complete s2p6 octet
-	* in general, most electronegative columns in the periodic table are Groups 16 & 17 because they have 6 & 7 electrons, respectively in their outer valence shell.
-	* conversely, the least electronegative groups in the periodic table are Groups 1 & 2 which respectively have 1 & 2 electrons in their outermost shell and these are the easiest electrons to lose.
-	* at the limit, when superstrong-electronegative and superweakly-electronegative elements interact, they don't just form a hyper-polar covalent bond; instead actually turn into an Ionic Bond.
+	* Maps to having almost having enough electrons in valencce shell to complete s2p6 octet
+	* In general, most electronegative columns in the periodic table are Groups 16 & 17 because they have 6 & 7 electrons, respectively in their outer valence shell.
+	* Conversely, the least electronegative groups in the periodic table are Groups 1 & 2 which respectively have 1 & 2 electrons in their outermost shell and these are the easiest electrons to lose.
+	* At the limit, when superstrong-electronegative and superweakly-electronegative elements interact, they don't just form a hyper-polar covalent bond; instead actually turn into an Ionic Bond.
 
 ### Ionic Bonds - p. 28-29
 * When 2 interacting atoms have a large enough difference in electronegativity, ions form as the more powerfully electronegative nucleus strips electrons away from the weakly electronegative (aka positive atom). 
