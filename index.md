@@ -29,12 +29,12 @@
 
 ### Concept of Electronegativity - p. 28
 * When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.2
-	* p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
-	* Extreme electronegativity = powerful positive proton nuclues which leads to ability to attract greater than "fair share" of shared electrons in a molecule
-	* Maps to having almost having enough electrons in valencce shell to complete s2p6 octet
-	* In general, most electronegative columns in the periodic table are Groups 16 & 17 because they have 6 & 7 electrons, respectively in their outer valence shell.
-	* Conversely, the least electronegative groups in the periodic table are Groups 1 & 2 which respectively have 1 & 2 electrons in their outermost shell and these are the easiest electrons to lose.
-	* At the limit, when superstrong-electronegative and superweakly-electronegative elements interact, they don't just form a hyper-polar covalent bond; instead actually turn into an Ionic Bond.
+* p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
+* Extreme electronegativity = powerful positive proton nuclues which leads to ability to attract greater than "fair share" of shared electrons in a molecule
+* Maps to having almost having enough electrons in valencce shell to complete s2p6 octet
+* In general, most electronegative columns in the periodic table are Groups 16 & 17 because they have 6 & 7 electrons, respectively in their outer valence shell.
+* Conversely, the least electronegative groups in the periodic table are Groups 1 & 2 which respectively have 1 & 2 electrons in their outermost shell and these are the easiest electrons to lose.
+* At the limit, when superstrong-electronegative and superweakly-electronegative elements interact, they don't just form a hyper-polar covalent bond; instead actually turn into an Ionic Bond.
 
 ### Ionic Bonds - p. 28-29
 * When 2 interacting atoms have a large enough difference in electronegativity, ions form as the more powerfully electronegative nucleus strips electrons away from the weakly electronegative (aka positive atom). 
