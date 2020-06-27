@@ -59,7 +59,7 @@
 		* Lower vapor pressure (aka evaporation)
 		* High specific heat
 		* High boiling point aka heat of vaporization
-	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to 4 other water molecules in a 3-d tetrahedral shape. In a frozen state, hydrogen bonds give solid water aka ice these special properties:
+	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to 4 other water molecules in a 3-d tetrahedral shape. 
 
 ### Misc
 
