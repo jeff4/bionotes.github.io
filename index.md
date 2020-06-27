@@ -3,7 +3,9 @@
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
 ## Chapter 2: Inorganic Chem Fundamentals - p. 21-38
-* Review of electron orbitals p. 25 (Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?).
+
+### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
+* Review of electron orbitals p. 24-25 
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
 	* Remember:
 		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell.
@@ -39,8 +41,10 @@
 * This also explains the octet rule for molecules formed by atoms where *s<sup>2</sup> and p<sup>6</sup>* subshells are concerned.
 
 ### Salts and interactions with polar molecules - p. 29
-* Lorem ipsum
-* 
+
+### Chapter 2.4: H<sub>2</sub>0 has special properties - p. 32-34
+*
+
 
 ### Misc
 * Good interactive page on [hemoglobin and primary, secondary, tertiary, and quartenary structure](https://www.labxchange.org/library/items/lb:LabXchange:99c39c9f:lx_simulation:1)
