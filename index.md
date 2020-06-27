@@ -50,9 +50,10 @@
 * Good interactive page on [hemoglobin and primary, secondary, tertiary, and quartenary structure](https://www.labxchange.org/library/items/lb:LabXchange:99c39c9f:lx_simulation:1)
 
 ### Chapter 2.4: H<sub>2</sub>0 has special properties - p. 32-34
-* Water has a tetrahedral shape with oxygen in the center, two of the tetrahedral vertices occupied by hydrogen atoms, and the two remaining vertices occupied by an unbonded electron pair. Because oxygen has a high electronegativity relative to hydrogen, there is a  partial *delta-positive* charge on each hydrogen. Conversely, there is a partial *delta-negative* charge on each unbonded electron pair on the other two vertices. 
-* In a liquid state, water molecules are connected to each other by hydrogen bonds. These strings of water molecules give water cohesion as well as a very high boiling point (to break the hydrogen bonds).
-* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. 
+* **Electronegativity causes strongly polar covalent bonds.** Water has a tetrahedral shape with oxygen in the center, two of the tetrahedral vertices occupied by hydrogen atoms, and the two remaining vertices occupied by an unbonded electron pair. Because oxygen has a high electronegativity relative to hydrogen, there is a  partial *delta-positive* charge on each hydrogen. Conversely, there is a partial *delta-negative* charge on each unbonded electron pair on the other two vertices. 
+* Highly polar bonds then cause multiple and powerful hydrogen bonds between water molecules.
+	* In a liquid state, water molecules are connected to each other by hydrogen bonds. Special properties of liquid water thanks to multiple strings of hydrogen bonds:
+	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. In a frozen state, hydrogen bonds give solid water aka ice these special properties:
 
 ### Misc
 
