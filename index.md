@@ -59,11 +59,15 @@
 		* Lower vapor pressure (aka evaporation)
 		* High specific heat
 		* High boiling point aka heat of vaporization
-	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to 4 other water molecules in a 3-d tetrahedral shape. 
+	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to [4 other water molecules in a 3-d tetrahedral shape](https://www.youtube.com/watch?v=BxCnDJSE1ck&t=157s). 
 
-### Misc
+###pH, acid and base in aqueous solutions
+*
 
-## Notes on various versions of Intro Bio course at MIT 7.01
+
+# Miscellaneous notes
+
+## Different versions of 7.01 Intro Bio (course at MIT)
 
 [Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for independent study and OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
 
