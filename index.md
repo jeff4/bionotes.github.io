@@ -39,17 +39,15 @@
 	* So in solution, Cl's more electronegative (aka more positive) nucleus "steals" the sole electron in Na's outermost subshell 3s<sup>2</sup>.
 	* This produces a **positive cation** Na<sup>+</sup> and a **negative anion**  Cl<sup>-</sup> .
 * This also explains the octet rule for molecules formed by atoms where *s<sup>2</sup> and p<sup>6</sup>* subshells are concerned.
-* Salts and interactions with polar molecules - p. 29
 
 ### Hydrogen bonds
+* Salts and interactions with polar molecules - p. 29
 * Good interactive page on [hemoglobin and primary, secondary, tertiary, and quartenary structure](https://www.labxchange.org/library/items/lb:LabXchange:99c39c9f:lx_simulation:1)
 
 ### Chapter 2.4: H<sub>2</sub>0 has special properties - p. 32-34
 * Water has a tetrahedral shape with oxygen in the center, two of the tetrahedral vertices occupied by hydrogen atoms, and the two remaining vertices occupied by an unbonded electron pair. Because oxygen has a high electronegativity relative to hydrogen, there is a  partial *delta-positive* charge on each hydrogen. Conversely, there is a partial *delta-negative* charge on each unbonded electron pair on the other two vertices. 
-* 
-* These charge regions create hydrogen bond attractions between different water molecules.
-* 
-
+* In a liquid state, water molecules are connected to each other by hydrogen bonds. These strings of water molecules give water cohesion as well as a very high boiling point (to break the hydrogen bonds).
+* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. 
 
 ### Misc
 
