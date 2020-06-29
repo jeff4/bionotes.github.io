@@ -81,7 +81,8 @@
 	* [*sp<sup>1</sup>* hybridization](https://youtu.be/BRHfy7envyQ) by AAMC + Khan Academy
 	* Not yet watched: [How to find the hybridization of atoms in organic molecules](https://youtu.be/GuaozMpFS3w) by AAMC + Khan Academy
 
-* interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
+* Interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
+* Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
 
 # Miscellaneous notes
 
