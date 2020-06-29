@@ -71,7 +71,7 @@
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
-* VSEPR theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MCJ Chapter 9.2 (p. 309-318)
+* Valence Shell Electron-Pair Repulsion (VSEPR) theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MCJ Chapter 9.2 (p. 309-318)
 * See also these videos at Khan Academy:
 	* [*sp<sup>3</sup>* hybridized orbitals and sigma bonds](https://youtu.be/u1eGSL6J6Fo) by Sal
 	* [Pi bonds and *sp<sup>2</sup>* hybridized orbitals](https://youtu.be/lJX8DxoPRfk) by Sal
