@@ -28,7 +28,7 @@
 
 
 ### Concept of Electronegativity - p. 28
-* When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.2
+* When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.
 * p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
 * Extreme electronegativity = powerful positive proton nuclues which leads to ability to attract greater than "fair share" of shared electrons in a molecule
 * Maps to having almost having enough electrons in valencce shell to complete s2p6 octet
