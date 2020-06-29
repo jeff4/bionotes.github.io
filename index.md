@@ -69,7 +69,10 @@
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
-* See **MCJ** Chapter 9, and these videos at Khan Academy
+* **MCJ** Chapter 9
+* Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
+* VSEPR theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MCJ Chapter 9.2 (p. 309-318)
+* See also these videos at Khan Academy:
 	* [*sp<sup>3</sup>* hybridized orbitals and sigma bonds](https://youtu.be/u1eGSL6J6Fo) by Sal
 	* [Pi bonds and *sp<sup>2</sup>* hybridized orbitals](https://youtu.be/lJX8DxoPRfk) by Sal
 	* [*sp<sup>3</sup>* hybridization](https://youtu.be/JHgTNNX01r4) by AAMC + Khan Academy
@@ -77,8 +80,6 @@
 	* [*sp<sup>2</sup>* hybridization](https://youtu.be/ROzkyTgscGg) by AAMC + Khan Academy
 	* [*sp<sup>1</sup>* hybridization](https://youtu.be/BRHfy7envyQ) by AAMC + Khan Academy
 	* Not yet watched: [How to find the hybridization of atoms in organic molecules](https://youtu.be/GuaozMpFS3w) by AAMC + Khan Academy
-* Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
-* VSEPR theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MCJ Chapter 9.2 (p. 309-318)
 
 # Miscellaneous notes
 
