@@ -5,8 +5,7 @@
 ## Chapters 2,3: Review of subatomic and chemical foundations, small molecules, macromolecules  - p. 21-61
 
 ### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
-* Review of atomic orbitals p. 24-25 
-	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
+* Review of [atomic orbitals](https://en.wikipedia.org/wiki/Electron_shell) p. 24-25 
 	* An atomic orbital can hold at most two electrons.
 	* Remember:
 		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell. Only an s-orbital shape and 1 orbital.
@@ -66,10 +65,10 @@
 *
 
 # Principles of Chemistry: The Molecular Science
-* [General chemistry textbook](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010. Abbreviated **MCJ**.
+* [General chemistry textbook](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010. Abbreviated **MSJ**.
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
-## The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MCJ** Chapter 7.5, p. 237-242
+## The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MSJ** Chapter 7.5, p. 237-242
 
 * List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
 
@@ -88,7 +87,7 @@
 * *&#8467;=3* = **subshell f**, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
 ### Magnetic quantum number "*m<sub>&#8467;</sub>*"
-* Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l* and describes the **orientation** of each atomic orbital "lobe". See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number) or in MCJ p. 240, Table 7.3.
+* Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l* and describes the **orientation** of each atomic orbital "lobe". See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number) or in MSJ p. 240, Table 7.3.
 * For subshell s where *&#8467;=0*, there is only one value for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = 0. Holds 2 electrons
 * For subshell p where *&#8467;=1*, there are 3 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-1,0,+1}. Holds 6 electrons.
 * For subshell d where *&#8467;=2*, there are 5 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-2,-1,0,+1,+1,+2}. Holds 10 electrons.
@@ -98,9 +97,9 @@
 * Describes the [spin of an electron](https://en.wikipedia.org/wiki/Spin_quantum_number), values of +1/2 or -1/2, and at most two electrons can occupy an atomic orbital. If they are paired, then the electrons must have opposite spin. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) uses the variable name *s* for spin quantum number but textbooks and [Khan Academy](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/v/quantum-numbers) use the m<sub>s</sub> notation instead.
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
-* **MCJ** Chapter 9
+* **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
-* Valence Shell Electron-Pair Repulsion (VSEPR) theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MCJ Chapter 9.2 (p. 309-318)
+* Valence Shell Electron-Pair Repulsion (VSEPR) theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MSJ Chapter 9.2 (p. 309-318)
 * See also these videos at Khan Academy:
 	* [*sp<sup>3</sup>* hybridized orbitals and sigma bonds](https://youtu.be/u1eGSL6J6Fo) by Sal
 	* [Pi bonds and *sp<sup>2</sup>* hybridized orbitals](https://youtu.be/lJX8DxoPRfk) by Sal
