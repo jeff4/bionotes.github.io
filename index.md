@@ -70,26 +70,26 @@
 
 ## Quantum numbers, Energy levels, and Atomic orbitals –**MCJ** Chapter 7.5, p. 237-242
 
-### Principal quantum number *n*
+### Principal quantum number "*n*"
 * Has of values 1, 2, 3, 4,... aka which electron shell or principal energy level. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
 * *n=1* has 1 subshell s with 2 electrons. 
 * *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
 * *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
 * Etc.
 
-### Azimuthal quantum number *&#8467;* aka subshell
+### Azimuthal quantum number "*&#8467;*" aka subshell
 * Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the shape of the orbital: s, p, d, f, g, etc...
-* *l=0* = subshell s, maximum of 2 electrons. Spherical shape.
-* *l=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
-* *l=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
-* *l=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
+* *&#8467;=0* = subshell s, maximum of 2 electrons. Spherical shape.
+* *&#8467;=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
+* *&#8467;=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
+* *&#8467;=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
-### Magnetic quantum number *m<sub>l</sub>*
-* Values of *m<sub>l</sub>* are dependent on the subshell / azimuthal quantum number *l*. See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number).
-* For subshell s where *l=0*, there is only one value for *m<sub>l</sub>* which is *m<sub>l</sub> = 0*. Holds 2 electrons
-* For subshell p where *l=1*, there are 3 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {-1,0,+1}*. Holds 6 electrons.
-* For subshell d where *l=2*, there are 5 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {-2,-1,0,+1,+1,+2}*. Holds 10 electrons.
-* For subshell f where *l=3*, there are 7 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {=3,-2,-1,0,+1,+1,+2,+3}*. Holds 14 electrons.
+### Magnetic quantum number "*m<sub>&#8467;</sub>*"
+* Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l*. See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number).
+* For subshell s where *&#8467;=0*, there is only one value for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = 0. Holds 2 electrons
+* For subshell p where *&#8467;=1*, there are 3 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-1,0,+1}. Holds 6 electrons.
+* For subshell d where *&#8467;=2*, there are 5 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-2,-1,0,+1,+1,+2}. Holds 10 electrons.
+* For subshell f where *&#8467;=3*, there are 7 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {=3,-2,-1,0,+1,+1,+2,+3}. Holds 14 electrons.
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
@@ -106,6 +106,17 @@
 
 * Interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Miscellaneous notes
