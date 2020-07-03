@@ -142,10 +142,10 @@ See illustration on p. 251; all the species in the same column have the same col
 According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/), these courses were recorded in the following years
 
 * [Fall, 2004](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/index.htm) - **7.012** with Professors Eric Lander and Robert Weinberg, focuses on genomics, neurobiology, and cancer cell biology.  
+* [Spring, 2005](https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/) - **7.014**, with Professors Graham Walker and Penny Chisholm, focuses on ecology and environment.
 * **7.013** with Professors Hazel Sive and Tyler Jacks, focuses on development and cancer cell biology has been recorded twice:
 	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The Savada 10th Ed textbook I have is for this version of 7.013)*
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
-* [Spring, 2005](https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/) - **7.014**, with Professors Graham Walker and Penny Chisholm, focuses on ecology and environment.
 
 
 ## Recommended organic chemistry textbooks
