@@ -72,12 +72,17 @@
 
 ### Principal quantum number *n*
 * Has of values 1, 2, 3, 4,... aka which electron shell or principal energy level. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number). For example,
-	* *n=1* has 1 subshell s with 2 electrons. 
-	* *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
-	* *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
-	* Etc.
+		* *n=1* has 1 subshell s with 2 electrons. 
+		* *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
+		* *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
+		* Etc.
 
-
+### Azimuthal quantum number *l* aka subshell
+* Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the shape of the orbital: s, p, d, f, g, etc...
+* *l=0* = subshell s, maximum of 2 electrons. Spherical shape.
+* *l=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
+* *l=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
+* *l=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
