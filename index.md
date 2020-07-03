@@ -84,6 +84,13 @@
 * *l=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 * *l=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
+### Magnetic quantum number *m<sub>l</sub>*
+* Values of *m<sub>l</sub>* are dependent on the subshell / azimuthal quantum number *l*. See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number).
+* For subshell s where *l=0*, there is only one value for *m<sub>l</sub>* which is *m<sub>l</sub> = 0*. Holds 2 electrons
+* For subshell p where *l=1*, there are 3 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {-1,0,+1}*. Holds 6 electrons.
+* For subshell d where *l=2*, there are 5 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {-2,-1,0,+1,+1,+2}*. Holds 10 electrons.
+* For subshell f where *l=3*, there are 7 possible values for *m<sub>l</sub>* which is *m<sub>l</sub> = {=3,-2,-1,0,+1,+1,+2,+3}*. Holds 14 electrons.
+
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
@@ -99,6 +106,7 @@
 
 * Interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
+
 
 # Miscellaneous notes
 
