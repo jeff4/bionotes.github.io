@@ -82,10 +82,10 @@
 
 ### Azimuthal quantum number "&#8467;" aka subshell
 * Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the **shape of the electron orbital**: s, p, d, f, g, etc...
-* *&#8467;=0* = subshell s, maximum of 2 electrons. Spherical shape.
-* *&#8467;=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
-* *&#8467;=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
-* *&#8467;=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
+* *&#8467;=0* = **subshell s**, maximum of 2 electrons. Spherical shape.
+* *&#8467;=1* = **subshell p**, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
+* *&#8467;=2* = **subshell d**, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
+* *&#8467;=3* = **subshell f**, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
 ### Magnetic quantum number "*m<sub>&#8467;</sub>*"
 * Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l* and describes the **orientation** of each atomic orbital "lobe". See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number) or in MCJ p. 240, Table 7.3.
