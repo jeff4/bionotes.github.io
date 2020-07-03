@@ -68,6 +68,17 @@
 * [General chemistry textbook](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010. Abbreviated **MCJ**.
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
+## Quantum numbers, Energy levels, and Atomic orbitals –**MCJ** Chapter 7.5, p. 237-242
+
+### Principal quantum number *n*
+* Has of values 1, 2, 3, 4,... aka which electron shell or principal energy level. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number). For example,
+	* *n=1* has 1 subshell s with 2 electrons. 
+	* *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
+	* *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
+	* Etc.
+
+
+
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
