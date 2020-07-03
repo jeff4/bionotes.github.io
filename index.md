@@ -12,7 +12,7 @@
 		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell. Only an s-orbital shape and 1 orbital.
 		* Second Shell: *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell. Two subshells. The *s* subshell has one spherical orbital in it. The *p* subshell has 3 dumbbell-shaped orbitals. Thus there are a total of 4 orbitals.
 		* Third Shell: *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell. Three subshells: s, p, d. As expected, the s subshell contains one s orbital. The p subshell contains 3 p orbitals. The d subshell has 5 d orbitals. 1+3+5=**9 orbitals** which collectively hold a maximum of 18 electrons.
-		* Fourth Shell: *4s<sup>2</sup> + 4p<sup>6</sup> + 4d<sup>10</sup> + 4f<sup>14</sup>* = total of **32 electrons** in this shell.
+		* Fourth Shell: *4s<sup>2</sup> + 4p<sup>6</sup> + 4d<sup>10</sup> + 4f<sup>14</sup>* = total of **32 electrons** in this shell. 1+3+5+7 = **16 orbitals** which can hold a maximum of 32 electrons  
 		* Fifth Shell: *5s<sup>2</sup> + 5p<sup>6</sup> + 5d<sup>10</sup> + 5f<sup>14</sup> + 5g<sup>18</sup>* = total of **50 electrons** in this shell.
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
 		* 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s, etc.
