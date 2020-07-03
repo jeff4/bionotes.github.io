@@ -99,7 +99,11 @@
 ## Periodic Table Trends
 
 ### Isoelectronic Ions and Atoms
-* **MSJ** *Chapter 7.8 Ion Electron Configurations* - **Isoelectronic** atoms and ions have the same number of electrons and in the same orbital configurations. Group 1-3 metals do this by becoming positive cations (aka lose electrons). Group 14-17 (aka 4A - 7A) nonmetals do this by become negative anions (aka gain electrons). They ultimately have the "desired" octet of valence electrons equivalent to the noble gas (Group 18) in  their associated period. For Group 14-17 ions, they stay in the same period. For Group 1-3 metals, they lose electrons to get "demoted" back to the noble gas in the previous period. See illustration on p. 251; all the species in the same column have the same color and are *isoelectronic* with each other.
+* **MSJ** *Chapter 7.8 Ion Electron Configurations* - **Isoelectronic** atoms and ions have the same number of electrons and in the same orbital configurations.
+* Group 1-3 metals do this by becoming positive cations (aka lose electrons).
+* Group 14-17 (aka 4A - 7A) nonmetals do this by become negative anions (aka gain electrons). They ultimately have the "desired" octet of valence electrons equivalent to the noble gas (Group 18) in  their associated period. For Group 14-17 ions, they stay in the same period. 
+* For Group 1-3 metals, these atoms become cations by losing electrons to get "demoted" back to the noble gas in the previous period. 
+See illustration on p. 251; all the species in the same column have the same color and are *isoelectronic* with each other.
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
