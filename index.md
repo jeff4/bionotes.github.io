@@ -77,7 +77,7 @@
 * *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
 * Etc.
 
-### Azimuthal quantum number *l* aka subshell
+### Azimuthal quantum number *&#8467;* aka subshell
 * Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the shape of the orbital: s, p, d, f, g, etc...
 * *l=0* = subshell s, maximum of 2 electrons. Spherical shape.
 * *l=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
