@@ -5,12 +5,13 @@
 ## Chapters 2,3: Review of subatomic and chemical foundations, small molecules, macromolecules  - p. 21-61
 
 ### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
-* Review of electron orbitals p. 24-25 
+* Review of atomic orbitals p. 24-25 
 	* See also [this Wiki article](https://en.wikipedia.org/wiki/Electron_shell)
+	* An atomic orbital can hold at most two electrons.
 	* Remember:
-		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell.
-		* Second Shell: *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
-		* Third Shell: *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
+		* First Shell: *1s<sup>2</sup>* = total of **2 electrons** in this shell. Only an s-orbital shape and 1 orbital.
+		* Second Shell: *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell. Two subshells. The *s* subshell has one spherical orbital in it. The *p* subshell has 3 dumbbell-shaped orbitals. Thus there are a total of 4 orbitals.
+		* Third Shell: *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell. Three subshells: s, p, d. As expected, the s subshell contains one s orbital. The p subshell contains 3 p orbitals. The d subshell has 5 d orbitals. 1+3+5=**9 orbitals** which collectively hold a maximum of 18 electrons.
 		* Fourth Shell: *4s<sup>2</sup> + 4p<sup>6</sup> + 4d<sup>10</sup> + 4f<sup>14</sup>* = total of **32 electrons** in this shell.
 		* Fifth Shell: *5s<sup>2</sup> + 5p<sup>6</sup> + 5d<sup>10</sup> + 5f<sup>14</sup> + 5g<sup>18</sup>* = total of **50 electrons** in this shell.
 	* Filling order is based on [the Aufbau principle](https://en.wikipedia.org/wiki/Aufbau_principle) aka the [Madelung energy ordering rule](https://en.wikipedia.org/wiki/Aufbau_principle#Madelung_energy_ordering_rule):
@@ -68,28 +69,33 @@
 * [General chemistry textbook](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010. Abbreviated **MCJ**.
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
-## Quantum numbers, Energy levels, and Atomic orbitals –**MCJ** Chapter 7.5, p. 237-242
+## The Four Quantum Numbers: *n*, *&#8467;*,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MCJ** Chapter 7.5, p. 237-242
+
+* List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
 
 ### Principal quantum number "*n*"
-* Has of values 1, 2, 3, 4,... aka which electron shell or principal energy level. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
+* Has of values 1, 2, 3, 4,... aka which electron shell, principal energy level, or "size" of the electron orbital. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
 * *n=1* has 1 subshell s with 2 electrons. 
 * *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
 * *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
 * Etc.
 
 ### Azimuthal quantum number "*&#8467;*" aka subshell
-* Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the shape of the orbital: s, p, d, f, g, etc...
+* Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the **shape of the electron orbital**: s, p, d, f, g, etc...
 * *&#8467;=0* = subshell s, maximum of 2 electrons. Spherical shape.
 * *&#8467;=1* = subshell p, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
 * *&#8467;=2* = subshell d, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 * *&#8467;=3* = subshell f, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
 ### Magnetic quantum number "*m<sub>&#8467;</sub>*"
-* Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l*. See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number).
+* Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l* and describes the **orientation** of each atomic orbital "lobe". See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number) or in MCJ p. 240, Table 7.3.
 * For subshell s where *&#8467;=0*, there is only one value for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = 0. Holds 2 electrons
 * For subshell p where *&#8467;=1*, there are 3 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-1,0,+1}. Holds 6 electrons.
 * For subshell d where *&#8467;=2*, there are 5 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-2,-1,0,+1,+1,+2}. Holds 10 electrons.
-* For subshell f where *&#8467;=3*, there are 7 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {=3,-2,-1,0,+1,+1,+2,+3}. Holds 14 electrons.
+* For subshell f where *&#8467;=3*, there are 7 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-3,-2,-1,0,+1,+1,+2,+3}. Holds 14 electrons.
+
+### Spin quantum number "*m<sub>s</sub>*"
+* Describes the [spin of an electron](https://en.wikipedia.org/wiki/Spin_quantum_number), values of +1/2 or -1/2, and at most two electrons can occupy an atomic orbital. If they are paired, then the electrons must have opposite spin. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) uses the variable name *s* for spin quantum number but textbooks and [Khan Academy](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/v/quantum-numbers) use the m<sub>s</sub> notation instead.
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MCJ** Chapter 9
