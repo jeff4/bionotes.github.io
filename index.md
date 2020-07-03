@@ -96,6 +96,11 @@
 ### Spin quantum number "*m<sub>s</sub>*"
 * Describes the [spin of an electron](https://en.wikipedia.org/wiki/Spin_quantum_number), values of +1/2 or -1/2, and at most two electrons can occupy an atomic orbital. If they are paired, then the electrons must have opposite spin. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) uses the variable name *s* for spin quantum number but textbooks and [Khan Academy](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/v/quantum-numbers) use the m<sub>s</sub> notation instead.
 
+## Periodic Table Trends
+
+### Isoelectronic Ions and Atoms
+* **MSJ** *Chapter 7.8 Ion Electron Configurations* - **Isoelectronic** atoms and ions have the same number of electrons and in the same orbital configurations. Group 1-3 metals do this by becoming positive cations (aka lose electrons). Group 14-17 (aka 4A - 7A) nonmetals do this by become negative anions (aka gain electrons). They ultimately have the "desired" octet of valence electrons equivalent to the noble gas (Group 18) in  their associated period. For Group 14-17 ions, they stay in the same period. For Group 1-3 metals, they lose electrons to get "demoted" back to the noble gas in the previous period. See illustration on p. 251; all the species in the same column have the same color and are *isoelectronic* with each other.
+
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
