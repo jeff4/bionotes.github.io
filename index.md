@@ -28,7 +28,7 @@
 
 
 ### Concept of Electronegativity - p. 28
-* When two atoms of different elements are covalently bonded in a molecule, there electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.
+* When two atoms of different elements are covalently bonded in a molecule, their electrons are not equally shared. So one of the positively charged nuclei may exert a greater attractive force on the shared electron pair than the other nucleus. This attractive force is called **electronegativity**.
 * p. 28: atoms with similar electronegativity = **nonpolar covalent bond**. Atoms with different electronegativity produce a **polar covalent bond**.
 * Extreme electronegativity = powerful positive proton nuclues which leads to ability to attract greater than "fair share" of shared electrons in a molecule
 * Maps to having almost having enough electrons in valencce shell to complete s2p6 octet
@@ -103,7 +103,7 @@
 * Group 1-3 metals do this by becoming positive cations (aka lose electrons).
 * Group 14-17 (aka 4A - 7A) nonmetals do this by become negative anions (aka gain electrons). They ultimately have the "desired" octet of valence electrons equivalent to the noble gas (Group 18) in  their associated period. For Group 14-17 ions, they stay in the same period. 
 * For Group 1-3 metals, these atoms become cations by losing electrons to get "demoted" back to the noble gas in the previous period. 
-See illustration on p. 251; all the species in the same column have the same color and are *isoelectronic* with each other.
+See illustration on p. 251; all the species in the same row have the same color and are *isoelectronic* with each other.
 
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
