@@ -35,7 +35,7 @@
 * In general, most electronegative columns in the periodic table are Groups 16 & 17 because they have 6 & 7 electrons, respectively in their outer valence shell.
 * Conversely, the least electronegative groups in the periodic table are Groups 1 & 2 which respectively have 1 & 2 electrons in their outermost shell and these are the easiest electrons to lose.
 * At the limit, when superstrong-electronegative and superweakly-electronegative elements interact, they don't just form a hyper-polar covalent bond; instead actually turn into an Ionic Bond.
-
+* good illustration of this in **MSJ** p. 288, Figure 8.5.
 ### Ionic Bonds - p. 28-29
 * When 2 interacting atoms have a large enough difference in electronegativity, ions form as the more powerfully electronegative nucleus strips electrons away from the weakly electronegative (aka positive atom). 
 * Example of sodium Na and chlorine Cl
