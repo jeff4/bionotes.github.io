@@ -105,6 +105,15 @@
 * For Group 1-3 metals, these atoms become cations by losing electrons to get "demoted" back to the noble gas in the previous period. 
 See illustration on p. 251; all the species in the same row have the same color and are *isoelectronic* with each other.
 
+### Electron Affinity 
+* **MSJ** Chapter 7.12, p. 260 - 261.
+* Not to be confused with electronegativity, even though they seem similar in concept and share the same trends on the periodic table (aka highest in upper right near Fluorine, lowest near lower left near Francium).
+* Electronegativity is a dimensionless measure whose range was arbitrarily set by Linus Pauling and only relevant within a molecule.
+* Electron affinity is a directly measured *unit of energy* released when an electron is added to a neutral atom in the gaseous state to form a negative ion. aka, the amt of energy you need to **add* to a anion to get it to give up its extra electron(s) to become a neutral atom. 
+* Thus, main group metals in Groups 1 and 2 have low electron affinities because it's super easy for them to give up electrons b/c they prefer to be positive cations.
+* High electron affinity atoms "want" electrons more, e.g., non metals like Flurorine in Group 17 (7A) with low periods like period 2 or 3. These elements strongly prefer to be negative anions and you need to add a lot of energy to it to have them give up their extra electrons to become neutral atoms. 
+* Some good answers on [this message board page](https://lavelle.chem.ucla.edu/forum/viewtopic.php?t=35085).
+
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
