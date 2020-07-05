@@ -128,8 +128,8 @@ See illustration on p. 251; all the species in the same row have the same color 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
 ## Chapter 9
-* **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, triganol planar, triganol bipyramidal, tetrahedral, octahedral. 
-
+* **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, trigonal planar, trigonal bipyramidal, tetrahedral, octahedral. 
+* p. 316, Figure 9.6 table illustrating more exotic shapes with 5 or 6 shared electron bonds and/or lone pairs surrounding a central atom: trigonal bipyramidal, seesaw, T-shaped, linear, octahedral, square pyramidal, square planar
 ### Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
