@@ -127,8 +127,10 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Whereas **alkanes** ( p.277) are necessarily saturated (aka have maximum # of hydrogens possible aka no double bonds between carbons), **alkenes** (p. 280) are hydrocarbons that have at least 1 C=C double bond. 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
+## Chapter 9
+* **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, triganol planar, triganol bipyramidal, tetrahedral, octahedral. 
 
-## Hybridization of orbitals, sigma bonds, pi bonds, steric number
+### Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
 * Valence Shell Electron-Pair Repulsion (VSEPR) theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MSJ Chapter 9.2 (p. 309-318)
