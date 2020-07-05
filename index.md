@@ -117,6 +117,14 @@ See illustration on p. 251; all the species in the same row have the same color 
 * High electron affinity atoms "want" electrons more, e.g., non metals like Flurorine in Group 17 (7A) with low periods like period 2 or 3. These elements strongly prefer to be negative anions and you need to add a lot of energy to it to have them give up their extra electrons to become neutral atoms. 
 * Some good answers on [this message board page](https://lavelle.chem.ucla.edu/forum/viewtopic.php?t=35085).
 
+## Chapter 8 Covalent Bonding
+
+* Lewis structures and various hydrocarbons
+* p. 277 saturated hydrocarbons like butane VS. 2methylpropane branched chain
+* p. 277 cyclopropane, cyclobutane, cyclopentane, cyclohexane 
+* p. 278 C=O is a carbonyl group.
+* p. 278-279 Aldehydes are hydrocarbons that have a -CHO functional group aka an "adldehyde functional group" which necessarily includes a carbonyl. 
+
 ## Hybridization of orbitals, sigma bonds, pi bonds, steric number
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
