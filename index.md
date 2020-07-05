@@ -97,6 +97,8 @@
 * Describes the [spin of an electron](https://en.wikipedia.org/wiki/Spin_quantum_number), values of +1/2 or -1/2, and at most two electrons can occupy an atomic orbital. If they are paired, then the electrons must have opposite spin. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) uses the variable name *s* for spin quantum number but textbooks and [Khan Academy](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/v/quantum-numbers) use the m<sub>s</sub> notation instead.
 
 ## Periodic Table Trends
+* Chapter 7, sections 7.9 - 7.12, p. 254 - 269
+* Examples of trends across periodic table: Isoelectricity / ion electron configs, size of atoms, size of associated ions, ionization energies, and electron affinities.
 
 ### Isoelectronic Ions and Atoms
 * **MSJ** *Chapter 7.8 Ion Electron Configurations* - **Isoelectronic** atoms and ions have the same number of electrons and in the same orbital configurations.
