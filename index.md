@@ -127,6 +127,23 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Whereas **alkanes** ( p.277) are necessarily saturated (aka have maximum # of hydrogens possible aka no double bonds between carbons), **alkenes** (p. 280) are hydrocarbons that have at least 1 C=C double bond. 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
+### Table of first ~10 alkanes, alkenes, alkynes
+
+| No._of_carbons | Alkanes  | Alkenes                 | Alkynes                |
+|----------------|----------|-------------------------|------------------------|
+| 1              | methane  | n/a                     | n/a                    |
+| 2              | ethane   | ethene_aka_"etylene"    | ethyne_aka_"acetylene" |
+| 3              | propane  | propene_aka_"propylene" | propyne                |
+| 4              | butane   | 1-butene                | 1-butyne               |
+| 5              | pentane  | 1-pentene               | 1-pentyne              |
+| 6              | hexane   | 1-hexene                | 1-hexyne               |
+| 7              | heptane  | 1-heptene               | 1-heptyne              |
+| 8              | octane   | 1-octene                | 1-octyne               |
+| 9              | nonane   | 1-nonene                | 1-nonyne               |
+| 10             | decane   | 1-decene                | 1-decyne               |
+| 11             | undecane | 1-undecene              | 1-undecyne             |
+
+
 ## Chapter 9
 * **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, trigonal planar, trigonal bipyramidal, tetrahedral, octahedral. 
 * p. 316, Figure 9.6 table illustrating more exotic shapes with 5 or 6 shared electron bonds and/or lone pairs surrounding a central atom: trigonal bipyramidal, seesaw, T-shaped, linear, octahedral, square pyramidal, square planar
