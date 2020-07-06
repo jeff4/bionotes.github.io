@@ -132,8 +132,8 @@ See illustration on p. 251; all the species in the same row have the same color 
 | No. of carbons | Alkanes  | Alkenes                 | Alkynes                |
 |----------------|----------|-------------------------|------------------------|
 | 1              | methane  | –                     | –                    |
-| 2              | ethane   | ethene aka "ethylene"    | ethyne aka "acetylene" |
-| 3              | propane  | propene aka "propylene" | propyne                |
+| 2              | ethane   | ethene aka **ethylene**    | ethyne aka **acetylene** |
+| 3              | propane  | propene aka **propylene** | propyne                |
 | 4              | butane   | 1-butene                | 1-butyne               |
 | 5              | pentane  | 1-pentene               | 1-pentyne              |
 | 6              | hexane   | 1-hexene                | 1-hexyne               |
