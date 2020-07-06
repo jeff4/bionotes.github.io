@@ -127,7 +127,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Whereas **alkanes** ( p.277) are necessarily saturated (aka have maximum # of hydrogens possible aka no double bonds between carbons), **alkenes** (p. 280) are hydrocarbons that have at least 1 C=C double bond. 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
-### Table of first ~10 alkanes, alkenes, alkynes
+### Names of first several saturated and unsaturated hydrocarbons
 
 | No. of carbons | Alkanes  | Alkenes                 | Alkynes                |
 |----------------|----------|-------------------------|------------------------|
