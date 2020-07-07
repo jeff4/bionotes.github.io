@@ -68,6 +68,10 @@
 * [General chemistry textbook](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010. Abbreviated **MSJ**.
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
+## Chapter 5
+* Intro to acids (contributes H<sup>+</sup>) and bases (contributes OH<sup>-</sup>)
+
+
 ## The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MSJ** Chapter 7.5, p. 237-242
 
 * List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
