@@ -165,6 +165,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 * **MSJ** Chapter 9
 * Lone pair = pair of valence electrons that are not bonded/shared covalently with another atom. Eg., ammonia NH<sub>3</sub> has steric number of 4 = 3 sigma bonds to hydrogen + 1 lone pair.
 * Valence Shell Electron-Pair Repulsion (VSEPR) theory. See [Wiki article](https://en.wikipedia.org/wiki/VSEPR_theory) and MSJ Chapter 9.2 (p. 309-318)
+* Interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
 * See also these videos at Khan Academy:
 	* [*sp<sup>3</sup>* hybridized orbitals and sigma bonds](https://youtu.be/u1eGSL6J6Fo) by Sal
 	* [Pi bonds and *sp<sup>2</sup>* hybridized orbitals](https://youtu.be/lJX8DxoPRfk) by Sal
@@ -174,8 +175,17 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* [*sp<sup>1</sup>* hybridization](https://youtu.be/BRHfy7envyQ) by AAMC + Khan Academy
 	* Not yet watched: [How to find the hybridization of atoms in organic molecules](https://youtu.be/GuaozMpFS3w) by AAMC + Khan Academy
 
-* Interesting summary of sp linear, sp2 trigonal, sp3 tetrahedral at [this page](http://faculty.otterbein.edu/DJohnston/chem220/tutorial1/carbon.html)
-* Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
+### Section 9.5: Molecular Polarity
+* p. 325 caused by both difference in electronegativity between different atoms in a molecule *and* the organization of charges in the molecular structure
+* For example, compare CF<sub>4</sub> is nonpolar because of molecular symmetry while CHF<sub>3</sub> is *polar* because the hydrogen atom throws off tetrahedral symmetry - p. 327
+
+### Section 9.6: Noncovalent Interactions
+ * Noncovalent interactions refer to all forces of attraction apart from covalent bonds, ionic bonds, and metallic bonds. p. 329
+ * Noncovalent bonds can refer to both intramolecular and intermolecular forces
+ * Primary categories: London Forces, Dipole-Dipole Forces, and Hydrogen Bonds
+
+
+
 
 
 
@@ -190,6 +200,9 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 
 # Miscellaneous notes
+
+* Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
+
 
 ## Different versions of 7.01 Intro Bio (course at MIT)
 
