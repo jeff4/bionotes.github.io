@@ -69,7 +69,10 @@
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
 ## Chapter 5
-* Intro to acids (contributes H<sup>+</sup>) and bases (contributes OH<sup>-</sup>)
+* p. 143-145 Intro to acids (contributes H<sup>+</sup>) and bases (contributes OH<sup>-</sup>)
+* p. 146 -148 Neutralization reactions. Acid + Base --> H<sub>2</sub>0 + Salt
+* p. 150 Gas-forming exchange reactions, e.g., Calcium carbonate wtih hydrochloric acid yields gaseous CO<sub>2</sub> and aqueous calcium chloride
+	* CaCO<sub>3</sub> + 2 HCl (aq) --> CaCl<sub>2</sub> (aq) + *intermediate* **H<sub>2</sub>CO<sub>3</sub>** --> CaCl<sub>2</sub> (aq) + **H<sub>2</sub>O (liquid) + CO<sub>2</sub> (gaseous)**
 
 
 ## The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MSJ** Chapter 7.5, p. 237-242
