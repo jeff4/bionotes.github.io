@@ -158,7 +158,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 | 11             | undecane | 1-undecene              | 1-undecyne             |
 
 
-## Chapter 9
+## Chapter 9: Molecular Structures, VSEPR, Orbital Hybridization, Noncovalent Interactions, and Intermolecular Forces
 * **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, trigonal planar, trigonal bipyramidal, tetrahedral, octahedral. 
 * p. 316, Figure 9.6 table illustrating more exotic shapes with 5 or 6 shared electron bonds and/or lone pairs surrounding a central atom: trigonal bipyramidal, seesaw, T-shaped, linear, octahedral, square pyramidal, square planar
 ### Hybridization of orbitals, sigma bonds, pi bonds, steric number
