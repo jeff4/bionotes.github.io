@@ -131,9 +131,9 @@ See illustration on p. 251; all the species in the same row have the same color 
 * High electron affinity atoms "want" electrons more, e.g., non metals like Flurorine in Group 17 (7A) with low periods like period 2 or 3. These elements strongly prefer to be negative anions and you need to add a lot of energy to it to have them give up their extra electrons to become neutral atoms. 
 * Some good answers on [this message board page](https://lavelle.chem.ucla.edu/forum/viewtopic.php?t=35085).
 
-## Chapter 8 Covalent Bonding
+## Chapter 8: Covalent Bonding, Intro to Lewis Structures, Hydrocarbons, Molecular Orbital Theory
 
-* Lewis structures and various hydrocarbons
+* p. 297 - contrast between *atomic* orbital theory and *molecular* orbital theory in Section 8.10 to explain **paramagnetism** in O<sub>2</sub> implying unpaired electrons, even though naive Lewis structure predicts **diamagnetism**
 * p. 277 saturated hydrocarbons like butane VS. 2methylpropane branched chain
 * p. 277 cyclopropane, cyclobutane, cyclopentane, cyclohexane 
 * p. 278 C=O is a carbonyl group.
