@@ -71,11 +71,18 @@
 ## Chapter 5
 * p. 143-145 Intro to acids (contributes H<sup>+</sup>) and bases (contributes OH<sup>-</sup>)
 * p. 146 -148 Neutralization reactions. Acid + Base --> H<sub>2</sub>0 + Salt
-* p. 150 Gas-forming exchange reactions, e.g., Calcium carbonate wtih hydrochloric acid yields gaseous CO<sub>2</sub> and aqueous calcium chloride
+* p. 150 Gas-forming exchange reactions, e.g.:
+	* calcium carbonate wtih hydrochloric acid yields gaseous CO<sub>2</sub> and aqueous calcium chloride *aka*
 	* CaCO<sub>3</sub> + 2 HCl (aq) --> CaCl<sub>2</sub> (aq) + *intermediate* **H<sub>2</sub>CO<sub>3</sub>** --> CaCl<sub>2</sub> (aq) + **H<sub>2</sub>O (liquid) + CO<sub>2</sub> (gaseous)**
 
+### Redox Reactions, p. 151-158 
+* **GER** = Reduction causes Gain of Electrons *aka* loss of oxygen from the molecule
+* **LEO** = Oxidation causes Loss of Electrons *aka* **combines with oxygen**
+* Common oxidizing and reducing agents p. 152-154
 
-## The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MSJ** Chapter 7.5, p. 237-242
+## Chapter 7: Quantum Theory, Structure of Atom, Electron Configurations, Atomic Orbitals, and Consequences for Periodic Table Trends
+
+### The Four Quantum Numbers: *n*, &#8467;,  *m<sub>&#8467;</sub>*, *m<sub>s</sub>* – **MSJ** Chapter 7.5, p. 237-242
 
 * List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
 
