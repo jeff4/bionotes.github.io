@@ -87,7 +87,7 @@
 * List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
 
 #### Principal quantum number "*n*"
-* Has of values 1, 2, 3, 4,... aka which electron shell, principal energy level, or "size" of the electron orbital. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
+* Values = {1, 2, 3, 4,...} *aka* which electron shell, principal energy level, or "size" of the electron orbital. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
 * *n=1* has 1 subshell s with 2 electrons. 
 * *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
 * *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
