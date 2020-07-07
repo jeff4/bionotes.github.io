@@ -86,35 +86,35 @@
 
 * List of four quantum numbers is [here](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) and a general description of atomic orbitals is on [this wiki page](https://en.wikipedia.org/wiki/Atomic_orbital#Types_of_orbitals).
 
-### Principal quantum number "*n*"
+#### Principal quantum number "*n*"
 * Has of values 1, 2, 3, 4,... aka which electron shell, principal energy level, or "size" of the electron orbital. See also [the wiki article](https://en.wikipedia.org/wiki/Principal_quantum_number).
 * *n=1* has 1 subshell s with 2 electrons. 
 * *n=2* has 2 subshells. *2s<sup>2</sup> + 2p<sup>6</sup>* = total of **8 electrons** in this shell.
 * *n=3* has 3 subshells. *3s<sup>2</sup> + 3p<sup>6</sup> + 3d<sup>10</sup>* = total of **18 electrons** in this shell.
 * Etc.
 
-### Azimuthal quantum number "&#8467;" aka subshell
+#### Azimuthal quantum number "&#8467;" aka subshell
 * Specifies the [quantum number for an atomic orbital](https://en.wikipedia.org/wiki/Azimuthal_quantum_number) which determines its orbital angular momentum as well as the **shape of the electron orbital**: s, p, d, f, g, etc...
 * *&#8467;=0* = **subshell s**, maximum of 2 electrons. Spherical shape.
 * *&#8467;=1* = **subshell p**, maximum of 6 electrons. Dumbell shapes, one for each axis: p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>
 * *&#8467;=2* = **subshell d**, maximum of 10 electrons. For shape, look at the third row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 * *&#8467;=3* = **subshell f**, maximum of 14 electrons. For shape, look at the fourth row of [this Wiki  image](https://en.wikipedia.org/wiki/File:Spherical_Harmonics.png)
 
-### Magnetic quantum number "*m<sub>&#8467;</sub>*"
+#### Magnetic quantum number "*m<sub>&#8467;</sub>*"
 * Values of *m<sub>&#8467;;</sub>* are dependent on the subshell / azimuthal quantum number *l* and describes the **orientation** of each atomic orbital "lobe". See sample values in the table in [this wiki article](https://en.wikipedia.org/wiki/Magnetic_quantum_number) or in MSJ p. 240, Table 7.3.
 * For subshell s where *&#8467;=0*, there is only one value for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = 0. Holds 2 electrons
 * For subshell p where *&#8467;=1*, there are 3 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-1,0,+1}. Holds 6 electrons.
 * For subshell d where *&#8467;=2*, there are 5 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-2,-1,0,+1,+1,+2}. Holds 10 electrons.
 * For subshell f where *&#8467;=3*, there are 7 possible values for *m<sub>&#8467;</sub>* which is *m<sub>&#8467;</sub>* = {-3,-2,-1,0,+1,+1,+2,+3}. Holds 14 electrons.
 
-### Spin quantum number "*m<sub>s</sub>*"
+#### Spin quantum number "*m<sub>s</sub>*"
 * Describes the [spin of an electron](https://en.wikipedia.org/wiki/Spin_quantum_number), values of +1/2 or -1/2, and at most two electrons can occupy an atomic orbital. If they are paired, then the electrons must have opposite spin. [Wikipedia](https://en.wikipedia.org/wiki/Quantum_number#Electron_in_an_atom) uses the variable name *s* for spin quantum number but textbooks and [Khan Academy](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/v/quantum-numbers) use the m<sub>s</sub> notation instead.
 
-## Periodic Table Trends
+### Periodic Table Trends
 * Chapter 7, sections 7.9 - 7.12, p. 254 - 269
 * Examples of trends across periodic table: Isoelectricity / ion electron configs, size of atoms, size of associated ions, ionization energies, and electron affinities.
 
-### Isoelectronic Ions and Atoms
+#### Isoelectronic Ions and Atoms
 * **MSJ** Chapter 7.8 Ion Electron Configurations, p. 251-252
 * **Isoelectronic** atoms and ions have the same number of electrons and in the same orbital configurations.
 * Group 1-3 metals do this by becoming positive cations (aka lose electrons).
@@ -122,7 +122,7 @@
 * For Group 1-3 metals, these atoms become cations by losing electrons to get "demoted" back to the noble gas in the previous period. 
 See illustration on p. 251; all the species in the same row have the same color and are *isoelectronic* with each other.
 
-### Electron Affinity 
+#### Electron Affinity 
 * **MSJ** Chapter 7.12, p. 260 - 261.
 * Not to be confused with electronegativity, even though they seem similar in concept and share the same trends on the periodic table (aka highest in upper right near Fluorine, lowest near lower left near Francium).
 * Electronegativity is a dimensionless measure whose range was arbitrarily set by Linus Pauling and only relevant within a molecule.
