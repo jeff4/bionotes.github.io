@@ -1,4 +1,4 @@
-# Biology textbook by Sadava et al.
+# Biology textbook
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
@@ -64,7 +64,7 @@
 ### pH, acid and base in aqueous solutions
 *
 
-# Chemistry textbook by MSJ
+# General Chem textbook
 * [Principles of Chemistry: The Molecular Science](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010.
 * Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
 
