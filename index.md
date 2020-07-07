@@ -137,7 +137,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 * p. 277 saturated hydrocarbons like butane VS. 2methylpropane branched chain
 * p. 277 cyclopropane, cyclobutane, cyclopentane, cyclohexane 
 * p. 278 C=O is a carbonyl group.
-* p. 278-279 Aldehydes are hydrocarbons that have a -CHO functional group aka an "adldehyde functional group" which necessarily includes a carbonyl. 
+* p. 278-279 Aldehydes are hydrocarbons that have a -CHO functional group aka an "aldehyde functional group" which necessarily includes a carbonyl. 
 * Whereas **alkanes** ( p.277) are necessarily saturated (aka have maximum # of hydrogens possible aka no double bonds between carbons), **alkenes** (p. 280) are hydrocarbons that have at least 1 C=C double bond. 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
