@@ -66,7 +66,7 @@
 
 # General Chem textbook
 * [Principles of Chemistry: The Molecular Science](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010.
-* Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society)
+* Authors: [John W. Moore](https://www2.chem.wisc.edu/users/jwmoore), [Conrad Stanitski](https://www.fandm.edu/conrad-stanitski), [Peter C. Jurs](https://news.psu.edu/story/169275/2010/03/17/academics/peter-jurs-named-fellow-american-chemical-society) abbreviated as **MSJ**
 
 ## Chapter 5
 * p. 143-145 Intro to acids (contributes H<sup>+</sup>) and bases (contributes OH<sup>-</sup>)
