@@ -76,10 +76,10 @@
 	* CaCO<sub>3</sub> + 2 HCl (aq) --> CaCl<sub>2</sub> (aq) + *intermediate* **H<sub>2</sub>CO<sub>3</sub>** --> CaCl<sub>2</sub> (aq) + **H<sub>2</sub>O (liquid) + CO<sub>2</sub> (gaseous)**
 
 ### Redox Reactions, p. 151-158 
-* **GER** = Reduction causes Gain of Electrons *aka* loss of oxygen from the molecule *aka* **reduces the postive charge**.
-* eg, see what happens to Hydrogen in magnesium reaction on p. 646. The "positive **+1** charge" charge of aqueous HCl *reduces* its positivity to **0** in the resulting H<sub>2</sub> gas.
+* p. 152-154, common oxidizing and reducing agents 
 * **LEO** = Oxidation causes Loss of Electrons *aka* **combines with oxygen**
-* Common oxidizing and reducing agents p. 152-154
+* **GER** = Reduction causes Gain of Electrons *aka* loss of oxygen from the molecule *aka* **reduces the postive charge**.
+	* eg, see what happens to Hydrogen in magnesium reaction on p. 646. The "positive **+1** charge" charge of aqueous HCl *reduces* its positivity to **0** in the resulting H<sub>2</sub> gas.
 
 ## Chapter 7: Quantum Theory, Structure of Atom, Electron Configurations, Atomic Orbitals, and Consequences for Periodic Table Trends
 
