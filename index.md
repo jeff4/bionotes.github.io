@@ -192,7 +192,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 1. concentration
 1. temperature
 1. presence and concentration of catalyst (if any)
-In addition, if we are talking about input/output that are in different phases aka a **heterogeneous reaction**:
+* In addition, if we are talking about input/output that are in different phases aka a **heterogeneous reaction**:
 1. area of reaction surface
 1. nature of reaction surface
 
