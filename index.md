@@ -186,7 +186,15 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 
 ## Chapter 12: Chemical Kinetics, Rate Law, Mechanisms, Catalysts, Enzymes
-* Example of methane combustion in bunsen burner with and without fire. CH<sub>4</sub> + 2 O<sub>2</sub> --> CO<sub>2</sub> + 2 H<sub>2</sub>O
+* Example of methane combustion in bunsen burner with and without fire. CH<sub>4</sub> + 2 O<sub>2</sub> --> CO<sub>2</sub> + 2 H<sub>2</sub>O - p. 415
+* Four factors that impact speed of reaction when all reactants and products are in the same phase (eg all are gases or all are in solution) *aka* in a **homogeneous reaction**:
+1. molecular structure and bonds
+1. concentration
+1. temperature
+1. presence and concentration of catalyst (if any)
+In addition, if we are talking about input/output that are in different phases aka a **heterogeneous reaction**:
+1. area of reaction surface
+1. nature of reaction surface
 
 
 
