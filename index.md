@@ -61,8 +61,6 @@
 		* High boiling point aka heat of vaporization
 	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to [4 other water molecules in a 3-d tetrahedral structure](https://www.youtube.com/watch?v=BxCnDJSE1ck&t=157s). 
 
-### pH, acid and base in aqueous solutions
-*
 
 # General Chem textbook
 * [Principles of Chemistry: The Molecular Science](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010.
