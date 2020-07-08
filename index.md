@@ -185,9 +185,8 @@ See illustration on p. 251; all the species in the same row have the same color 
  * Primary categories: London Forces, Dipole-Dipole Forces, and Hydrogen Bonds
 
 
-
-
-
+## Chapter 12: Chemical Kinetics, Rate Law, Mechanisms, Catalysts, Enzymes
+* Example of methane combustion in bunsen burner with and without fire. CH<sub>4<\sub> + 2 O<sub>2<\sub> --> CO<sub>2<\sub> + 2 H<sub>2<\sub>O
 
 
 
