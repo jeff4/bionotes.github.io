@@ -188,14 +188,18 @@ See illustration on p. 251; all the species in the same row have the same color 
 ## Chapter 12: Chemical Kinetics, Rate Law, Mechanisms, Catalysts, Enzymes
 * Example of methane combustion in bunsen burner with and without fire. CH<sub>4</sub> + 2 O<sub>2</sub> --> CO<sub>2</sub> + 2 H<sub>2</sub>O - p. 415
 * Four factors that impact speed of reaction when all reactants and products are in the same phase (eg all are gases or all are in solution) *aka* in a **homogeneous reaction**:
-1. molecular structure and bonds
-1. concentration
-1. temperature
-1. presence and concentration of catalyst (if any)
+	1. molecular structure and bonds
+	1. concentration
+	1. temperature
+	1. presence and concentration of catalyst (if any)
 * In addition, if we are talking about input/output that are in different phases aka a **heterogeneous reaction**:
-1. area of reaction surface
-1. nature of reaction surface
+	1. area of reaction surface
+	1. nature of reaction surface
 
+* p. 417-418, example of colorful crystal violet dye (abbreviated Cv<sup>+</sup>) combining with hydroxide ion (OH<sup>-</sup>) to produce colorless product CvOH.
+	* Actually, the full formula is crystal violet chloride combining with sodium hydroxide to form the CvOH and sodium chloride: **CvCl** (ions in solution) + **NaOH** (ions in solution) --> **CvOH** (colorless product) + **NaCl** (ions in solution)
+* Brackets is the notation for "concentration of" e.g., [Cv<sup>+</sup>] is pronounced "concentration of crystal violet dye".
+* Average reaction rate is delta [Cv<sup>+</sup>] / delta time. And since the concentration of Cv<sup>+</sup> decreases over time but reaction rate is usually measured as a positive rate, the final equation has a negative in it. Average reaction rate from time t<sub>1</sub> to t<sub>2</sub> =   **- &#916;[Cv<sup>+</sup>] / &#916;t**
 
 
 
@@ -228,3 +232,4 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by Wade and Simek; the 7th Edition hardcover from 2009 is available for about $15.
 * MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
+
