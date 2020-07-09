@@ -197,9 +197,10 @@ See illustration on p. 251; all the species in the same row have the same color 
 	1. nature of reaction surface
 
 ### Example of crystal violet Cv<sup>+</sup> reaction rate
-* Colorful crystal violet dye (abbreviated Cv<sup>+</sup>) combining with hydroxide ion (OH<sup>-</sup>) to produce colorless product CvOH\ on p. 417-419. The full formula is crystal violet chloride combining with sodium hydroxide to form the CvOH and sodium chloride: **CvCl** (ions in solution) + **NaOH** (ions in solution) --> **CvOH** (colorless product) + **NaCl** (ions in solution)
+* Colorful crystal violet dye (abbreviated Cv<sup>+</sup>) combining with hydroxide ion (OH<sup>-</sup>) to produce colorless product CvOH\ on p. 417-419. The full formula is crystal violet chloride combining with sodium hydroxide to form the CvOH and sodium chloride:
+	* **CvCl** (ions in solution) + **NaOH** (ions in solution) --> **CvOH** (colorless product) + **NaCl** (ions in solution)
 * The notation for "concentration of" uses brakets. e.g., [Cv<sup>+</sup>] is pronounced "concentration of crystal violet dye".
-* Average reaction rate is delta [Cv<sup>+</sup>] / delta time. And since the concentration of Cv<sup>+</sup> decreases over time but reaction rate is usually measured as a positive rate, the final equation has a negative in it. Average reaction rate from time t<sub>1</sub> to t<sub>2</sub> =   **- &#916;[Cv<sup>+</sup>] / &#916;t**
+* Average reainction rate is delta [Cv<sup>+</sup>] / delta time. And since the concentration of Cv<sup>+</sup> decreases over time but reaction rate is usually measured as a positive rate, the final equation has a negative in it. Average reaction rate from time t<sub>1</sub> to t<sub>2</sub> =   **- &#916;[Cv<sup>+</sup>] / &#916;t**
 
 
 
