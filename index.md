@@ -233,7 +233,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 # Miscellaneous notes
 
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
-
+* Awesome [before and after elevator video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off Blender
 
 ## Different versions of 7.01 Intro Bio (course at MIT)
 
