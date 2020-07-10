@@ -214,9 +214,12 @@ See illustration on p. 251; all the species in the same row have the same color 
 		* Rate = + (1/**d**)(&#916;[**D**]/&#916;t) *product D*
 
 
-
-
-
+## Sections 12.2 and 12.3 Concentration and Rate Laws for 0th-, 1st, and 2nd-order Reactions (p. 422-431)
+* constant k is the specific rate a reacion will run at a given temperature, multiplied by a relevant concentration of a reactant or product.
+* Zeroth Order Reaction = k * [A]<sup>0</sup> = k * 1 = k. means that reaction proceeds independently of concentration of A.
+* First Order Reaction = k * [A]<sup>1</sup> reaction directly proportional to concentration of A
+* Second Order Reaction = k * [A]<sup>2</sup> means reaction proportional to square of [A]
+* For more info see [this page]()
 ---
 
 # Miscellaneous notes
