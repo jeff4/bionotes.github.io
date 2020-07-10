@@ -196,13 +196,13 @@ See illustration on p. 251; all the species in the same row have the same color 
 	1. area of reaction surface
 	1. nature of reaction surface
 
-### Example of crystal violet Cv<sup>+</sup> reaction rate
+### Example of crystal violet Cv<sup>+</sup> reaction rate (p. 417)
 * Colorful crystal violet dye (abbreviated Cv<sup>+</sup>) combining with hydroxide ion (OH<sup>-</sup>) to produce colorless product CvOH\ on p. 417-419. The full formula is crystal violet chloride combining with sodium hydroxide to form the CvOH and sodium chloride:
 	* **CvCl** (ions in solution) + **NaOH** (ions in solution) --> **CvOH** (colorless product) + **NaCl** (ions in solution)
 * The notation for "concentration of" uses brackets. e.g., [Cv<sup>+</sup>] is pronounced "concentration of crystal violet dye".
 * Average reainction rate is delta [Cv<sup>+</sup>] / delta time. And since the concentration of Cv<sup>+</sup> decreases over time but reaction rate is usually measured as a positive rate, the final equation has a negative in it. Average reaction rate from time t<sub>1</sub> to t<sub>2</sub> =   **- &#916;[Cv<sup>+</sup>] / &#916;t**
 
-### Example of NO<sub>2</sub> --> NO + O<sub>2</sub>, p. 419-420
+### Example of NO<sub>2</sub> --> NO + O<sub>2</sub>, (p. 419)
 * The crystal violet Cv<sup>+</sup> example from p. 417, one mole of each reactant (aqueous Cv<sup>+</sup> and aqueous OH<sup>-</sup>) produces one mole of the colorless product CvOH.  A nice one-to-one ratio so the reaction rate is *the same* regardless of whether we are measuring **[Cv<sup>+</sup> cation in solution]**, **[OH<sup>-</sup> anion in solution]**, or **[CvOH molecule]**
 * In contrast, consider the reaction **2 NO<sub>2</sub> (gas) --> 2 NO (g) + O<sub>2</sub> (g)**. There is a 2:1 ratio between the reactant NO<sub>2</sub> and the product O<sub>2</sub>. This means the reaction rate seems different depending on if we measure [NO<sub>2</sub>] or [O<sub>2</sub>].
 * To resolve this, we define reaction rate using stoichiometry with Equation 12.3 (p. 419): 
