@@ -208,10 +208,10 @@ See illustration on p. 251; all the species in the same row have the same color 
 * To resolve this, we define reaction rate using stoichiometry with Equation 12.3 (p. 419): 
 	* Let lowercase a,b,c,d be coefficients and upper case A,B,C,D be chemicals in the following reaction formula: aA +bB --> cC + dD
 	* Then the uniform reaction rate is equivalent for the following:
-		* Rate = - (1/**a**)(&#916;[**A**]/&#916;t)
-		* Rate = - (1/**b**)(&#916;[**B**]/&#916;t)
-		* Rate = + (1/**c**)(&#916;[**C**]/&#916;t)
-		* Rate = + (1/**d**)(&#916;[**D**]/&#916;t)
+		* Rate = - (1/**a**)(&#916;[**A**]/&#916;t) *reactant A*
+		* Rate = - (1/**b**)(&#916;[**B**]/&#916;t) *reactant B*
+		* Rate = + (1/**c**)(&#916;[**C**]/&#916;t) *product C*
+		* Rate = + (1/**d**)(&#916;[**D**]/&#916;t) *product D*
 
 
 
