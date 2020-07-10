@@ -202,8 +202,16 @@ See illustration on p. 251; all the species in the same row have the same color 
 * The notation for "concentration of" uses brackets. e.g., [Cv<sup>+</sup>] is pronounced "concentration of crystal violet dye".
 * Average reainction rate is delta [Cv<sup>+</sup>] / delta time. And since the concentration of Cv<sup>+</sup> decreases over time but reaction rate is usually measured as a positive rate, the final equation has a negative in it. Average reaction rate from time t<sub>1</sub> to t<sub>2</sub> =   **- &#916;[Cv<sup>+</sup>] / &#916;t**
 
-
-
+### Example of NO<sub>2</sub> --> NO + O<sub>2</sub>, p. 419-420
+* The crystal violet Cv<sup>+</sup> example from p. 417, one mole of each reactant (aqueous Cv<sup>+</sup> and aqueous OH<sup>-</sup>) produces one mole of the colorless product CvOH.  A nice one-to-one ratio so the reaction rate is *the same* regardless of whether we are measuring **[Cv<sup>+</sup> cation in solution]**, **[OH<sup>-</sup> anion in solution]**, or **[CvOH molecule]**
+* In contrast, consider the reaction **2 NO<sub>2</sub> (gas) --> 2 NO (g) + O<sub>2</sub> (g)**. There is a 2:1 ratio between the reactant NO<sub>2</sub> and the product O<sub>2</sub>. This means the reaction rate seems different depending on if we measure [NO<sub>2</sub>] or [O<sub>2</sub>].
+* To resolve this, we define reaction rate using stoichiometry with Equation 12.3 (p. 419): 
+	* Let lowercase a,b,c,d be coefficients and upper case A,B,C,D be chemicals in the following reaction formula: aA +bB --> cC + dD
+	* Then the uniform reaction rate is equivalent for the following:
+		* Rate = - (1/**a**)(&#916;[**A**]/&#916;t)
+		* Rate = - (1/**b**)(&#916;[**B**]/&#916;t)
+		* Rate = - (1/**c**)(&#916;[**C**]/&#916;t)
+		* Rate = - (1/**d**)(&#916;[**D**]/&#916;t)
 
 
 
