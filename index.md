@@ -210,8 +210,8 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* Then the uniform reaction rate is equivalent for the following:
 		* Rate = - (1/**a**)(&#916;[**A**]/&#916;t)
 		* Rate = - (1/**b**)(&#916;[**B**]/&#916;t)
-		* Rate = - (1/**c**)(&#916;[**C**]/&#916;t)
-		* Rate = - (1/**d**)(&#916;[**D**]/&#916;t)
+		* Rate = + (1/**c**)(&#916;[**C**]/&#916;t)
+		* Rate = + (1/**d**)(&#916;[**D**]/&#916;t)
 
 
 
