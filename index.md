@@ -219,7 +219,15 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Zeroth Order Reaction = k * [A]<sup>0</sup> = k * 1 = k. means that reaction proceeds independently of concentration of A.
 * First Order Reaction = k * [A]<sup>1</sup> reaction directly proportional to concentration of A
 * Second Order Reaction = k * [A]<sup>2</sup> means reaction proportional to square of [A]
-* For more info see [this page]()
+* For more info see [this page](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/Rate_Laws/The_Rate_Law)
+
+
+
+
+
+
+
+
 ---
 
 # Miscellaneous notes
