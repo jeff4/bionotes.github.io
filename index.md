@@ -216,10 +216,14 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 ## Sections 12.2 and 12.3: Concentration and Rate Laws for 0th-, 1st-, and 2nd-order Reactions (p. 422-431)
 * Constant k is the specific rate a reacion will run at a given temperature, multiplied by a relevant concentration of a reactant or product.
-* Zeroth Order Reaction = k * [A]<sup>0</sup> = k * 1 = k. means that reaction proceeds independently of concentration of A.
-* First Order Reaction = k * [A]<sup>1</sup> reaction directly proportional to concentration of A
-* Second Order Reaction = k * [A]<sup>2</sup> means reaction proportional to square of [A]
+* **Zeroth Order Reaction = k * [A]<sup>0</sup>** = k * 1 = k. means that reaction proceeds independently of concentration of A.
+* **First Order Reaction = k * [A]<sup>1</sup>** reaction directly proportional to concentration of A
+* **Second Order Reaction = k * [A]<sup>2</sup>** means reaction proportional to square of [A]
 * For more info see [this page](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/Rate_Laws/The_Rate_Law)
+* Intermediate form in the process of moving from reactant to product is called the **transition state** aka **activated complex**. (p. 433)
+* All reactions can be decomposed to **elementary reactions** (aka subreactions). which are themselves **unimolecular**, **bimolecular**, or **termolucular** ( requiring 3 reactants). 
+	* Per [Wikipedia](https://en.wikipedia.org/wiki/Molecularity#Termolecular_reactions), "Reactions of higher molecularity [than 3] are *not observed* due to very small probability of simultaneous interaction between 4 or more molecule." 
+	* See [this video](https://www.youtube.com/watch?v=S84Llf1vqiM) for a good explanation of how to express rate laws for elementary reactions involving 1, 2, or 3 reactants.
 
 
 
