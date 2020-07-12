@@ -227,6 +227,12 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Intermediate form in the process of moving from reactant to product is called the **transition state** aka **activated complex**. (p. 433)
 
 ### Section 12.5: Arrhenius Equation to determine k
+* k = Ae <sup>-E<sub>a</sub>/RT</sup> where:
+	* **k** = rate constant
+	* **A** = Arrhenius frequency factor, which depends on (a) how often molecules collide when all concentratrions are at 1 mol per liter and on (b) whether molecules are properly oriented when they collide
+	* **E<sub>a</sub>** = activation energy
+	* **R** = [gas law constant](https://en.wikipedia.org/wiki/Gas_constant), 8.314 joules/ (mol * temperature in degrees Kelvin)
+	* **T** = temperature in degrees Kelvin
 
 ### Section 12.6:
 
