@@ -225,6 +225,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* See [this video](https://www.youtube.com/watch?v=S84Llf1vqiM) for a good explanation of how to express rate laws for elementary reactions involving 1, 2, or 3 reactants.
 * **Activation Energy** (abbreviated **E<sub>a</sub>**) needed to get over the hump plus if the end state is lower energy, the reaction is *exothermic*. Conversely if final product is higher energy state, then the reaction is *endothermic*. (p, 434)
 * Intermediate form in the process of moving from reactant to product is called the **transition state** aka **activated complex**. (p. 433)
+* See example of transition between *cis*-2-butene to *trans*-2-butene on p. 433-434.
 
 ### Section 12.5: Arrhenius Equation to determine k
 * k = Ae <sup>-E<sub>a</sub>/RT</sup> where:
