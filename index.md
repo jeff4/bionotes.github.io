@@ -226,7 +226,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 * **Activation Energy** (abbreviated **E<sub>a</sub>**) needed to get over the hump plus if the end state is lower energy, the reaction is *exothermic*. Conversely if final product is higher energy state, then the reaction is *endothermic*. (p, 434)
 * Intermediate form in the process of moving from reactant to product is called the **transition state** aka **activated complex**. (p. 433)
 
-
+## Section 12.4 and 12.5: Catalysts and Enzymes
 
 
 
