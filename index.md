@@ -214,7 +214,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 		* Rate = + (1/**d**)(&#916;[**D**]/&#916;t) *product D*
 
 
-## Sections 12.2 - 12.4: Rate Laws for 0th-, 1st-, and 2nd-order Reactions; Unimolecular, Bimolecular, and Termolecular Elementary Reactions; E<sub>a</sub>, exo- & endothermic reactions(p. 422-436)
+### Sections 12.2 - 12.4: Rate Laws for 0th-, 1st-, and 2nd-order Reactions; Unimolecular, Bimolecular, and Termolecular Elementary Reactions; E<sub>a</sub>, exothermic and endothermic rxns(p. 422-436)
 * Constant k is the specific rate a reacion will run at a given temperature, multiplied by a relevant concentration of a reactant or product.
 	* **Zeroth Order Reaction = k * [A]<sup>0</sup>** = k * 1 = k. means that reaction proceeds independently of concentration of A.
 	* **First Order Reaction = k * [A]<sup>1</sup>** reaction directly proportional to concentration of A
@@ -226,9 +226,15 @@ See illustration on p. 251; all the species in the same row have the same color 
 * **Activation Energy** (abbreviated **E<sub>a</sub>**) needed to get over the hump plus if the end state is lower energy, the reaction is *exothermic*. Conversely if final product is higher energy state, then the reaction is *endothermic*. (p, 434)
 * Intermediate form in the process of moving from reactant to product is called the **transition state** aka **activated complex**. (p. 433)
 
-## Section 12.4 and 12.5: Catalysts and Enzymes
+### Section 12.5: Arrhenius Equation to determine k
 
+### Section 12.6:
 
+### Section 12.7: 
+
+### Section 12.8 - 12.10: Catalysts and Enzymes
+
+## Chapter 13: Chemical Equilibrium
 
 
 
