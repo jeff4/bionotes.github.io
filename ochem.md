@@ -1,5 +1,5 @@
 ---
-title: "Organic Chem"
+title: Organic Chem
 permalink: /ochem/
 ---
 
