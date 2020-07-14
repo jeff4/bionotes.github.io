@@ -235,12 +235,11 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* **R** = [gas law constant](https://en.wikipedia.org/wiki/Gas_constant), 8.314 joules/ (mol * temperature in degrees Kelvin)
 	* **T** = temperature in degrees Kelvin
 
-### Section 12.7: Reaction Mechanisms p. 442-444
-* Complicated reactions can be considered a sequential chain of elementary unimolecular, bimolecular, and termolecular component reactions. The chain of these altogether is called the **reaction mechanism**.
-* The slowest elementary reaction in the mechanism is called the rate limiting step and it determine the rate of the overall reaction.
+### Section 12.6:
+
+### Section 12.7: 
 
 ### Section 12.8 - 12.10: Catalysts and Enzymes
-* example of how gaseous molecular iodine (I<sub>2</sub>) acts as a catalyst for the transition from *cis*-2-butene to *trans*-2-butene. (p. 445-447)
 
 ## Chapter 13: Chemical Equilibrium
 
