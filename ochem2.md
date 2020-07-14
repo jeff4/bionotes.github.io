@@ -1,5 +1,5 @@
 ---
-permalink: /ochem2.html
+permalink: /ochem2/
 ---
 
 test
