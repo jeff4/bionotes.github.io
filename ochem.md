@@ -1,6 +1,6 @@
 ---
 title: "Organic Chem"
-permalink: /ochem2/
+permalink: /ochem/
 ---
 
 content on Organic Chem goes here
