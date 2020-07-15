@@ -66,6 +66,11 @@ title: Home
 	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to [4 other water molecules in a 3-d tetrahedral structure](https://www.youtube.com/watch?v=BxCnDJSE1ck&t=157s). 
 
 ---
+# Notes on MIT 7.00x at EdX
+* *Course started: July 14, 2020*
+* Seems like intro lectures by Eric Lander were recorded in the fall of 2012, because he references this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) and [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
+
+---
 
 # General Chem textbook
 * [Principles of Chemistry: The Molecular Science](https://www.amazon.com/gp/offer-listing/0495390798/) published by Cengage, 2010.
