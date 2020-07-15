@@ -68,7 +68,24 @@ title: Home
 ---
 # Notes on MIT 7.00x at EdX
 * *Course started: July 14, 2020*
-* Seems like intro lectures by Eric Lander were recorded in the fall of 2012, because he references this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) and [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
+
+## Lecture 1: Introduction and the Biochemistry of Life
+* Seems like intro lectures by Eric Lander were recorded in the fall of 2012, because he references this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) and [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html). Also, he refers to an early lecture earlier that morning at the Broad Institute (probably by [Feng Zhang](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) or a close collaborator) about work that was not yet published and about new developments in applying CRISPR/Cas9 to precisely edit DNA in mammalian systems.
+* Timeline
+	* **4.5 billion** years ago: Earth formed
+	* **4.0 B** ya: Earth cooled enough for life
+	* **3.7 B** ya: first evidence of prokaryotic life
+	* **1.5 B** ya: first eukaryotic life with nucleus
+	* **500 mya**: first multicellular life just prior to Cambrian Explosion
+	* **5 mya**: first hominids aka Australopithecina or Hominina subtribe within the Hominidae Family.
+	* **100,000 ya**: first homo sapiens
+	* 1861 AD: MIT founded
+* Fundamental principles and intellectual unification of biology
+	* Biochemistry in ~1900: purification and analysis of unique proteins, nucleic acids, etc.
+	* Genetics in ~1900: Organism minus one component, aka mutant. This component which they called a gene.
+	* 1953: structure of DNA discovered by Watson & Crick, combining the two streams of biochem and genetics into the new unified science of **molecular biology**.
+	* 1970s: Invention of **recombinant DNA** to isolate specific gene, read what protein it encodes. Take a protein and decide which gene codes for it.
+	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
 ---
 
