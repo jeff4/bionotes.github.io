@@ -137,7 +137,7 @@ title: Home
 # Miscellaneous notes
 
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
-* Awesome [before and after elevator video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
+* Awesome [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
 
 ## Different versions of 7.01 Intro Bio (course at MIT)
 
@@ -150,4 +150,3 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * **7.013** with Professors Hazel Sive and Tyler Jacks, focuses on development and cancer cell biology has been recorded twice:
 	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The Savada 10th Ed textbook I have is for this version of 7.013)*
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
-
