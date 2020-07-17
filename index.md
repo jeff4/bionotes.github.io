@@ -2,9 +2,9 @@
 title: Home
 ---
 
-See also:
-* Notes on [organic chemistry](/organic-chemistry/)
+*See also*
 * Notes on [general chemistry](/general-chemistry/)
+* Notes on [organic chemistry](/organic-chemistry/)
 
 # Biology textbook
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
