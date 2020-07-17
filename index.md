@@ -90,10 +90,20 @@ title: Home
 	* The smaller limit of proteins is around **51 amino acids** for *[insulin](https://en.wikipedia.org/wiki/Insulin)* with molecular weight of 5,733.
 	* The upper limit of protein chain size is around **27,000 amino acid** for the muscle protein *[titin](https://en.wikipedia.org/wiki/Titin)* with a molecular weight of almost 3 million.
 * Polypeptide chains are linear (*aka* unbranched) sequences of covalently linked amino acids.
-* Amino acids have 3 functional groups plus 1 hydrogen surrounding the central *&#945;* carbon:
+* Amino acids have 3 functional groups plus 1 hydrogen surrounding the central *&#945;*-carbon:
 	1. **carboxyl functional group** -COOH ionizes to -COO<sup>-</sup>
 	1.  **amine group** -NH<sub>2</sub> ionizes to -NH<sub>3</sub><sup>+</sup>
 	1. **R side chain**
+* Amino acids can appear as optical isomers with **D- for righthand** and **L- for lefthand** configurations. (d-amino acids for the Latin *dextro*; l-amino acids for the Latin *levo*). Only L- configurations appear in nature / are used by living cells with the [rare exception of some structural proteins used in bacterial cell walls](http://www.phschool.com/science/biology_place/biocoach/bioprop/landd.html).
+* See Table 3.2 on p. 44 for good categorization of 20 amino acids based on R side chains.
+* Amino acids are combined using a condensation / dehydration reaction that forms a **peptide linkage**. The N- terminus all the way on the left of the protein is by considered the "beginning" of the sentence and the C- terminus all the way at the right end is considered the "end" of the protein "sentence".
+
+#### Primary structure of proteins
+
+#### Secondary structure of proteins
+* *&#945;*-helices
+* Pleated  *&#946;*-sheets
+
 
 **Proteins and associated functions**
 
