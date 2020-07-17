@@ -86,6 +86,11 @@ title: Home
 * Reverse reaction of Reactant Polymer ---> breaking into smaller monomers by adding water and releasing energy from the reactant  (exothermic reaction). Called **hydrolysis**.
 
 ### Proteins
+* The protein alphabet of monomers cosists of 20 amino acids. All proteins consist of a permutation of these 20 elemental units. 
+	* The smaller limit of proteins is around **51 amino acids** for *[insulin](https://en.wikipedia.org/wiki/Insulin)* with molecular weight of 5,733.
+	* The upper limit of protein chain size is around **27,000 amino acid** for the muscle protein *[titin](https://en.wikipedia.org/wiki/Titin)* with a molecular weight of almost 3 million.
+* Polypeptide chains are linear (*aka* unbranched) sequences of covalently linked amino acids.
+* Amino acids have a carboxyl functional group (-COOH ionizes to -COO<sup>-</sup>) on one end an amine group (-NH<sub>2</sub> ionizes to -NH<sub>3</sub><sup>+</sup>) on the other.
 
 **Proteins and associated functions**
 
