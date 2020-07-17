@@ -6,7 +6,7 @@ title: Home
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
-## Chapters 2,3: Review of subatomic and chemical foundations, small molecules, macromolecules  - p. 21-61
+## Chapter 2: Review of chemistry and small molecules p. 21-61
 
 ### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
 * Review of [atomic orbitals](https://en.wikipedia.org/wiki/Electron_shell) p. 24-25 
@@ -64,6 +64,13 @@ title: Home
 		* High specific heat
 		* High boiling point aka heat of vaporization
 	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to [4 other water molecules in a 3-d tetrahedral structure](https://www.youtube.com/watch?v=BxCnDJSE1ck&t=157s). 
+
+### Review of Acids, Bases, and Buffers - p. 33-36
+
+
+## Chapter 3: Review of Proteins, Carbohydrates, Lipids p. 39-61
+
+
 
 ---
 # Notes on MIT 7.00x at EdX
