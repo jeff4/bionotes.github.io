@@ -1,6 +1,6 @@
 ---
 title: Organic Chem
-permalink: /ochem/
+permalink: /organic-chemistry/
 ---
 
 # Organic Chemistry 
