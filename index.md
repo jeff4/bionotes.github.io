@@ -292,6 +292,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Organic Chemistry
-* See Jeff's notes on ochem [here](/ochem/)
+* See Jeff's notes on ochem [here](/organic-chemistry/)
 
 
