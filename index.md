@@ -2,6 +2,10 @@
 title: Home
 ---
 
+See also:
+* Notes on [organic chemistry](/organic-chemistry/)
+* Notes on [general chemistry](/general-chemistry/)
+
 # Biology textbook
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
@@ -146,10 +150,4 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * **7.013** with Professors Hazel Sive and Tyler Jacks, focuses on development and cancer cell biology has been recorded twice:
 	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The Savada 10th Ed textbook I have is for this version of 7.013)*
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
-
-
-## Other notes
-* Notes on [organic chemistry](/organic-chemistry/)
-* Notes on [general chemistry](/general-chemistry/)
-
 
