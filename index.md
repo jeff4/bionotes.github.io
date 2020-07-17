@@ -90,7 +90,10 @@ title: Home
 	* The smaller limit of proteins is around **51 amino acids** for *[insulin](https://en.wikipedia.org/wiki/Insulin)* with molecular weight of 5,733.
 	* The upper limit of protein chain size is around **27,000 amino acid** for the muscle protein *[titin](https://en.wikipedia.org/wiki/Titin)* with a molecular weight of almost 3 million.
 * Polypeptide chains are linear (*aka* unbranched) sequences of covalently linked amino acids.
-* Amino acids have a carboxyl functional group (-COOH ionizes to -COO<sup>-</sup>) on one end an amine group (-NH<sub>2</sub> ionizes to -NH<sub>3</sub><sup>+</sup>) on the other.
+* Amino acids have 3 functional groups plus 1 hydrogen surrounding the central *&#945;* carbon:
+	1. **carboxyl functional group** -COOH ionizes to -COO<sup>-</sup>
+	1.  **amine group** -NH<sub>2</sub> ionizes to -NH<sub>3</sub><sup>+</sup>
+	1. **R side chain**
 
 **Proteins and associated functions**
 
