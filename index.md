@@ -6,7 +6,7 @@ title: Home
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
-## Chapter 2: Review of chemistry and small molecules p. 21-61
+## Chapter 2: Review of atomic structure and the chemistry of small molecules p. 21-61
 
 ### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
 * Review of [atomic orbitals](https://en.wikipedia.org/wiki/Electron_shell) p. 24-25 
@@ -68,7 +68,41 @@ title: Home
 ### Review of Acids, Bases, and Buffers - p. 33-36
 
 
-## Chapter 3: Review of Proteins, Carbohydrates, Lipids p. 39-61
+## Chapter 3: Macromolecules I - Proteins, Carbohydrates, Lipids (p. 39-61)
+* Four kinds of macromolecules: proteins, carbohydrates, lipids, and nucleic acids
+* Macromolecular polymers are made of different types of monomers:
+	* Proteins are made up of **amino acid** monomers.
+	* Carbohydrates are made up of simple **sugar** monomers.
+	* Lipids are made up of lipid monomers connected by *noncovalent bonds*
+* In general, only polymers with molecular weights > 1000 are considered macromolecules.
+* Figure 3.1 (p. 40) has a good diagram of various functional groups, categories of compounds, and example compounds.
+* Figure 3.3 (p. 41) has good % breakdown of macromolecules in living tissue.
+* Reactants Monomer<sub>1</sub> + ... + Monomer<sub>n</sub> --> Polymer via removal of H<sub>2</sub>0 and addition of energy (endothermic reaction). Also called **condensation** or **dehydration reaction**.
+* Reverse reaction of Reactant Polymer ---> breaking into smaller monomers by adding water and releasing energy from the reactant  (exothermic reaction). Called **hydrolysis**.
+
+### Proteins
+
+**Proteins and associated functions**
+
+| Category                 | Function                                                    |
+|--------------------------|-------------------------------------------------------------|
+| Enzymes                  | Catalyze biochemical reactions                              |
+| Structural proteins      | Provide physical stability and movement                     |
+| Defensive proteins       | Recognize and react to nonself substances (e.g. antibodies) |
+| Signaling proteins       | Control physiological processes (e.g. hormones)             |
+| Receptor proteins        | Receive and respond to chemical signals                     |
+| Membrane transporters    | Regulate passage of substances across cell membranes        |
+| Storage proteins         | Store amino acids for later use                             |
+| Transport proteins       | Bind and carry substances within the organism               |
+| Gene regulatory proteins | Determine rate of expression of genes                       |
+
+
+## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
+*
+
+
+
+
 
 
 
