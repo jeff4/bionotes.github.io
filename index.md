@@ -158,11 +158,13 @@ title: Home
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
 * Awesome [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
 
-## Different versions of 7.01 Intro Bio (course at MIT)
+## Different versions of Intro Bio course at MIT
 
-[Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for independent study and OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
+There is a special version of 7.01 that was optimized for EdX called 7.00x, Introduction to Biology - The Secret of Life taught by Langer. Current lectures seem to have been recorded in 2012 with updates etc. ~2015.
 
-According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/), these courses were recorded in the following years
+Separately, [7.01 Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
+
+According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/), these versions of 7.01 were recorded in the following years:
 
 * [Fall, 2004](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/index.htm) - **7.012** with Professors Eric Lander and Robert Weinberg, focuses on genomics, neurobiology, and cancer cell biology.  
 * [Spring, 2005](https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/) - **7.014**, with Professors Graham Walker and Penny Chisholm, focuses on ecology and environment.
