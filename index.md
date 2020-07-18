@@ -151,6 +151,17 @@ title: Home
 	* 1970s: Invention of **recombinant DNA** to isolate specific gene, read what protein it encodes. Take a protein and decide which gene codes for it.
 	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
+## Lecture 2: Biochemistry
+* Eduard Buchner and the founding of biochemistry. 
+	* During a [series of experimnts from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
+	* However, [in 1897](https://en.wikipedia.org/wiki/Eduard_Buchner#Research), Buchner showed that if one took a mass of yeast and crushed all the living cells to death, one could extract dead "yeast juice" that could still perform fermentation. This showed that a nonliving enzyme ([zymaseproduced](https://en.wikipedia.org/wiki/Zymase)) by yeast was responsible for fermentation. 
+* Fractionating life / Molecular composition of cells
+	* 
+
+
+
+
+
 ---
 
 # Miscellaneous notes
@@ -160,7 +171,7 @@ title: Home
 
 ## Different versions of Intro Bio course at MIT
 
-There is a special version of 7.01 that was optimized for EdX called 7.00x, Introduction to Biology - The Secret of Life taught by Langer. Current lectures seem to have been recorded in 2012 with updates etc. ~2015.
+There is a special version of the MIT intro bio course that was optimized for EdX called [7.00x, Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) taught by Langer. Current lectures seem to have been recorded in 2012 with updates etc. ~2015.
 
 Separately, [7.01 Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
 
