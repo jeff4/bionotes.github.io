@@ -162,7 +162,7 @@ title: Home
 		* 15% carbohydrate
 		* 15% nucleic acids
 		* 10% lipids and fats
-	* Covalent bonds. Number of bonds formed for an octet satisifed atom: H 1, C 4, N 3, P 5, S 2, O 2.
+	* Covalent bonds. Number of bonds formed for an octet satisifed atom: **H1**, **C4**, **N3**, **P5**, **S2**, **O2**.
 * Noncovalent bonds, including hydrogen bonds (5 kcal/mol), ionic bonds, Van Der Waals forces
 * Lipids and phosphlipids
 		
