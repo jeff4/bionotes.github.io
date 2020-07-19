@@ -11,6 +11,17 @@ title: Home
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 
+### Species count as of 2008 - p. 8
+
+| Taxon    | Number of currently described species | Estimated total number of living species |
+|----------|---------------------------------------|------------------------------------------|
+| Bacteria | 10,000                                | Millions                                 |
+| Archea   | 300                                   | 1k - 1M                                  |
+| Protists | 80,000                                | 500k - 1M                                |
+| Plants   | 270,000                               | 400-500k                                 |
+| Fungi    | 100,000                               | 1-2M                                     |
+| Animals  | 1,300,000                             | 10M - 100M                               |
+
 ## Chapter 2: Review of [General Chemistry](/general-chemistry/)
 
 ### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
