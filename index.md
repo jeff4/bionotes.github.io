@@ -13,7 +13,7 @@ title: Home
 
 ### Species count as of 2008 - p. 8
 
-| Taxon    | Number of currently described species | Estimated total number of living species |
+| Taxon    | Currently described species | *Estimated* number of living species |
 |----------|---------------------------------------|------------------------------------------|
 | Bacteria | 10,000                                | Millions                                 |
 | Archea   | 300                                   | 1k - 1M                                  |
