@@ -108,13 +108,26 @@ title: Home
 * Amino acids can appear as optical isomers with **D- for righthand** and **L- for lefthand** configurations. (d-amino acids for the Latin *dextro*; l-amino acids for the Latin *levo*). Only L- configurations appear in nature / are used by living cells with the [rare exception of some structural proteins used in bacterial cell walls](http://www.phschool.com/science/biology_place/biocoach/bioprop/landd.html).
 * See Table 3.2 on p. 44 for good categorization of 20 amino acids based on R side chains.
 * Amino acids are combined using a condensation / dehydration reaction that forms a **peptide linkage**. The N- terminus all the way on the left of the protein is by considered the "beginning" of the sentence and the C- terminus all the way at the right end is considered the "end" of the protein "sentence".
-
-#### Primary structure of proteins
+* Primary structure is the sequence of repeating -N-C-C-N-C-C-
+* Good diagram of primary, secondary, tertiary, and quartenary structure on p. 46.
+* Each monomer is an amino acid. A short sequence of amino acids is called a **peptide**. Multiple peptides together form polypeptides and protein subunits.
 
 #### Secondary structure of proteins
-* *&#945;*-helices
+* *&#945;*-helices are right-handed and the R-groups extend outward from the central axis of the -N-C-C-N-C-C- chain in a steady spiral. Coiling results from the hydrogen bonding between the small &#948;<sup>+</sup> of the H<sup>+</sup> on the N and the &#948;<sup>-</sup> on the carbonyl oxygen C=O of another amino acid in the chain.
 * Pleated  *&#946;*-sheets
 
+#### Tertiary structure of proteins
+* Definitive 3D structure of a protein, which usually includes a polar (hydrophilic) exterior region and nonpolar (hydrophobic) interior where reactions happen.
+* &#945;-helices and  &#946; pleatedsheets secondary structures are determined by hydrogen bonds. Meanwhile, tertiary structure is caused by nonovalent interactions between the **various -R side chains functional groups** hanging off the central polypeptide -N-C-C-N-C-C- . Examples:
+	* Covalent disulfide bridges
+	* Hydrogen bonds between side chains
+	* Hydrophobic side chains an aggregate together in the interior of the protein. These close interactions are stabilized by van der Waals forces.
+	* Ionic bonds can form salt bridges between positively and negatively charged side chains.
+* p. 48 interesting example of how [Christian Anfinsen used ribonuclease A](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma) to prove that primary structure contains all the info needed to determine tertiary structure.
+
+#### Quartenary structure
+* When a protein consists of two or more polypeptides, called **subunits**, each of these subunits fold into their own tertiary structure.
+* The interaction of these subunits is the **quartenary structure**.
 
 **Proteins and associated functions**
 
