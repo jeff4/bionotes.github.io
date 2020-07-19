@@ -177,7 +177,14 @@ title: Home
 * Noncovalent bonds, including hydrogen bonds (5 kcal/mol), ionic bonds, Van Der Waals forces
 * Lipids and phosphlipids
 		
+---
 
+# Molecular Biology of the Cell
+* Albert et al., Fifth Edition (2008)
+* p. 20 - defintion of **homologs**: All related genes that result from duplication 
+	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
+	* Duplicate genes within a single genome are **paralogs**
+	* Orthologs and paralogs are subsets of the larger containing set of homologs
 
 
 
