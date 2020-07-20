@@ -125,10 +125,6 @@ title: Home
 * When a protein consists of two or more polypeptides, called **subunits**, each of these subunits fold into their own tertiary structure.
 * The interaction of these subunits is the **quartenary structure**.
 
-### Carbohydrates p. 51
-* Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
-
-
 **Proteins and associated functions**
 
 | Category                 | Function                                                    |
@@ -142,6 +138,13 @@ title: Home
 | Storage proteins         | Store amino acids for later use                             |
 | Transport proteins       | Bind and carry substances within the organism               |
 | Gene regulatory proteins | Determine rate of expression of genes                       |
+
+
+### Carbohydrates p. 51
+* Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
+
+
+
 
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
