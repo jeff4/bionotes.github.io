@@ -2,11 +2,6 @@
 title: Home
 ---
 
-<!-- *See also*
-* Notes on [general chemistry](/general-chemistry/)
-* Notes on [organic chemistry](/organic-chemistry/)
--->
-
 # Biology textbook
 * *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
@@ -111,6 +106,7 @@ title: Home
 * Primary structure is the sequence of repeating -N-C-C-N-C-C-
 * Good diagram of primary, secondary, tertiary, and quartenary structure on p. 46.
 * Each monomer is an amino acid. A short sequence of amino acids is called a **peptide**. Multiple peptides together form polypeptides and protein subunits.
+* Concept of [molecular chaperones](https://en.wikipedia.org/wiki/Chaperone_(protein)) which help guide proper folding of proteins directly after peptide synthesis or after denaturation to refold. Cancer cells produce chaperones to help secure proper folding for cancer-promoting proteins (p. 51). See p. 51 also for example of HSP60 cage + lid.
 
 #### Secondary structure of proteins
 * *&#945;*-helices are right-handed and the R-groups extend outward from the central axis of the -N-C-C-N-C-C- chain in a steady spiral. Coiling results from the hydrogen bonding between the small &#948;<sup>+</sup> of the H<sup>+</sup> on the N and the &#948;<sup>-</sup> on the carbonyl oxygen C=O of another amino acid in the chain.
@@ -128,6 +124,10 @@ title: Home
 #### Quartenary structure
 * When a protein consists of two or more polypeptides, called **subunits**, each of these subunits fold into their own tertiary structure.
 * The interaction of these subunits is the **quartenary structure**.
+
+### Carbohydrates p. 51
+* Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
+
 
 **Proteins and associated functions**
 
@@ -221,3 +221,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * **7.013** with Professors Hazel Sive and Tyler Jacks, focuses on development and cancer cell biology has been recorded twice:
 	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The Savada 10th Ed textbook I have is for this version of 7.013)*
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
+
+<!-- *See also*
+* Notes on [general chemistry](/general-chemistry/)
+* Notes on [organic chemistry](/organic-chemistry/)
+-->
+
