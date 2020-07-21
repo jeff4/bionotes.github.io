@@ -199,6 +199,10 @@ title: Home
 	*  Fatty acids are a type of carboxylic acid. If you attach 3 of them to an alcolhol like glycerol, we create a "Tri-acyl-glyceride", aka triglyceride. This is a lipid
 	* Lipids are [amphipathic](https://en.wikipedia.org/wiki/Amphiphile) with a hydrophlic head and hydrophobic tail.
 	* When placed in a polar solvent like water, lipids spontaneously form globular structures like [micelles](https://en.wikipedia.org/wiki/Micelle) (monolayer with hydrophilic heads out, tails in) or [liposomes (bilayered)](https://en.wikipedia.org/wiki/Liposome). See also <a Href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/01%3A_LIPID_STRUCTURE/1.2%3A_Lipids_in_Water/1.2A%3A_Micelles_and_Bilayers">this page</a>
+* ATP - adenosine triphosophate
+* Carbohydrates
+	* glucose = monosaccharide. Can form disaccharides, polysaccharides, etc.
+* Van Der Waals forces are used by Geckos to cling to walls
 
 
 ---
