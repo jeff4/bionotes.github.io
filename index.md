@@ -191,8 +191,16 @@ title: Home
 		* 10% lipids and fats
 	* Covalent bonds. Number of bonds formed for an octet satisifed atom: **H1**, **C4**, **N3**, **P5**, **S2**, **O2**.
 * Noncovalent bonds, including hydrogen bonds (5 kcal/mol), ionic bonds, Van Der Waals forces
-* Lipids and phosphlipids
-		
+* Lipids and phospholipids
+	* Oil and water don't mix b/c the polar water gets "offended" by the nonpolar interlopers interrupting the "desired" hydrogen bonding between water molecules
+	* A nonpolar hydrocarbon (like cyclohexane C<sub>6</sub>H<sub>14</sub>) can be turned polar by converting them to:
+		* Alcohols have a hydroxl -OH group attached.
+		* Carboxylic Acids contain one or more -COOH groups.
+	*  Fatty acids are a type of carboxylic acid. If you attach 3 of them to an alcolhol like glycerol, we create a "Tri-acyl-glyceride", aka triglyceride. This is a lipid
+	* Lipids are [amphipathic](https://en.wikipedia.org/wiki/Amphiphile) with a hydrophlic head and hydrophobic tail.
+	* When placed in a polar solvent like water, lipids spontaneously form globular structures like [micelles](https://en.wikipedia.org/wiki/Micelle) (monolayer with hydrophilic heads out, tails in) or [liposomes (bilayered)](https://en.wikipedia.org/wiki/Liposome). See also <a Href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/01%3A_LIPID_STRUCTURE/1.2%3A_Lipids_in_Water/1.2A%3A_Micelles_and_Bilayers">this page</a>
+
+
 ---
 
 # Molecular Biology of the Cell
