@@ -166,8 +166,10 @@ title: Home
 * Glycogen
 * Cellulose
 * Chemically modified carbs which have undergone redox reactions and/or had functional groups like phosphate, amino, or N-acteyl gropus added. Cartilage and chitin.
+* Also refer to carbohydrate panels in Alberts 5th, p. 112-113.
 
 ### Lipids and phospholipids - p. 56
+* see lipid panels on Alberts 5th Ed, 114-115.
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 *
