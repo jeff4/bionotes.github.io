@@ -29,4 +29,5 @@ permalink: /organic-chemistry/
 | 10             | decane   | 1-decene                | 1-decyne               |
 | 11             | undecane | 1-undecene              | 1-undecyne             |
 
+* See Sadava *Biology*, p. 40, Table 3.1 for a good visual table on Functional Groups. 
 
