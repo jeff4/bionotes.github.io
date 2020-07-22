@@ -140,7 +140,7 @@ title: Home
 | Gene regulatory proteins | Determine rate of expression of genes                       |
 
 
-### Carbohydrates p. 51
+### Carbohydrates - p. 51
 * Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
 * Carbohydrates have important roles in energy storage/transport and structure like cellulose in plants. 
 * *Chemically modified carbohydrates* also play critical structural roles in biology:  
@@ -158,6 +158,16 @@ title: Home
 * *Hexoses* are 6-carbon sugars such as glucose, fructose, mannose, and galactose.
 	* **Glucose** are 6-carbon sugars that can take the form of straight carbon chains or rings in chair configuration. The ring consists of 5 carbons and an oxygen; the 6th carbon hangs off of the ring at the 5-carbon.
 	* Glucose comes in [both &#945;- and &#946;-isomers](https://www.worldofmolecules.com/3D/what-is-the-difference-between-alpha-and-beta-glucose.html) which convert to each other readily in aqeous solution and are in equilibrium.
+* Dehydration synthesis reactions connects monosaccharides into disaccharides, oligosaccharides, and polysaccharides via [glycosidic linkages](https://en.wikipedia.org/wiki/Glycosidic_bond)
+
+#### Polysaccharides
+* Whereas proteins are ultimately a linear chain of amino acids, monosaccharides can bond in many branching ways to form polysaccharides.
+* Starch
+* Glycogen
+* Cellulose
+* Chemically modified carbs which have undergone redox reactions and/or had functional groups like phosphate, amino, or N-acteyl gropus added. Cartilage and chitin.
+
+### Lipids and phospholipids - p. 56
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 *
