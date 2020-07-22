@@ -37,7 +37,8 @@ permalink: /organic-chemistry/
 |<br>[Sulfhydryl group](https://en.wikibooks.org/wiki/Structural_Biochemistry/Organic_Chemistry/Organic_Functional_Group/Sulfhydryl)<br>R-**SH**            | *Thiols* like mercaptoethanol                 | Two -SH groups can each give up H and form a disulfide bridge that stabilizes protein structure.                                                      |
 
 <br>
-For more details, see Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
+* See Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
+* See also panels on Alberts 5th Ed, p. 107
 
 ### Miscellaneous notes: other textbooks
 * List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
