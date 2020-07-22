@@ -19,7 +19,7 @@ title: Home
 
 ## Chapter 2: Review of [General Chemistry](/general-chemistry/)
 
-### Chapter 2.1: How does Atomic Structure Explain the Properties of Matter?
+### Section 2.1: How does Atomic Structure Explain the Properties of Matter?
 * Review of [atomic orbitals](https://en.wikipedia.org/wiki/Electron_shell) p. 24-25 
 	* An atomic orbital can hold at most two electrons.
 	* Remember:
