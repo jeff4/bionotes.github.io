@@ -142,10 +142,22 @@ title: Home
 
 ### Carbohydrates p. 51
 * Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
+* Carbohydrates have important roles in energy storage/transport and structure like cellulose in plants. 
+* *Chemically modified carbohydrates* also play critical structural roles in biology:  
+	* **galactosamine** is a major part of cartilage (p. 55)
+	* a derivative of **glucosamine** is a component of chitin which is important in arthropods and fungi.
+* Four categories of carbohydrates based on number of monomers:
+	1. **Monosaccharides** like glucose
+	1. **Disaccharides** like sucrose, a combination of glucose and fructose
+	1. **Oligosaccharides** are made up of about 3-20 monosaccharides
+	1. **Polysaccharides** are made up of hundreds or thousands of monosaccharides. Examples: starch, glycogen, cellulose.
 
-
-
-
+#### Monosaccharides
+* In living systems, most monosaccharides are the dextro- / D- / (right-handed) optical isomer.
+* *Pentoses* are five-carbon sugars, including [ribose](https://en.wikipedia.org/wiki/Ribose) which is part of the sugar-phosphate backbone of RNA and [deoxyribose](https://en.wikipedia.org/wiki/Deoxyribose) which forms the sugar-phosphate backbane of DNA.  
+* *Hexoses* are 6-carbon sugars such as glucose, fructose, mannose, and galactose.
+	* **Glucose** are 6-carbon sugars that can take the form of straight carbon chains or rings in chair configuration. The ring consists of 5 carbons and an oxygen; the 6th carbon hangs off of the ring at the 5-carbon.
+	* Glucose comes in [both &#945;- and &#946;-isomers](https://www.worldofmolecules.com/3D/what-is-the-difference-between-alpha-and-beta-glucose.html) which convert to each other readily in aqeous solution and are in equilibrium.
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 *
