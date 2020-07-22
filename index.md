@@ -125,7 +125,7 @@ title: Home
 * When a protein consists of two or more polypeptides, called **subunits**, each of these subunits fold into their own tertiary structure.
 * The interaction of these subunits is the **quartenary structure**.
 
-#### Proteins and associated functions
+#### Proteins and associated functions - p.42
 
 | Category                 | Function                                                    |
 |--------------------------|-------------------------------------------------------------|
