@@ -29,5 +29,16 @@ permalink: /organic-chemistry/
 | 10             | decane   | 1-decene                | 1-decyne               |
 | 11             | undecane | 1-undecene              | 1-undecyne             |
 
-* See Sadava *Biology*, p. 40, Table 3.1 for a good visual table on Functional Groups. 
+### Functional groups
 
+| Functional group                  | Class and/or example                        | Properties                                                                                                                                            |
+|-----------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hydroxyl:  **-OH**                | Alcohols like ethanol                       | Polar. Hydrogen bonds with water to help dissolve molecules. Enables linkage to other molecules by deydration/condensation synthesis reaction         |
+| Aldehyide:  **H-C=O**             | Acetalaldehyde                              | Very reactive and important in building molecules and energy-releasing reactions                                                                      |
+| Keto:   R<sub>2</sub>-**C=O**     | Ketones like acetone                        | C=O group is very important in carbohydrates and energy reactions                                                                                     |
+| Carboxyl:  **-COOH**              | Carboxylic acids like acetic acid           | Acidic. Ionizes in living tissues to form -COO<sup>-</sup> and H<sup>+</sup>. Enters dehydration/condensation reactions by giving up -OH.             |
+| Amino:  **-NH<sub>2</sub>**       | amines like methylamine                     | Basic. Accepts H<sup>+</sup> in living tissues to form -NH<sub>3</sub><sup>+</sup>. Enters dehydration synthesis reactions by giving up H<sup>+</sup> |
+| Phosophate:  R-**PO<sub>4</sub>** | organic phosophates like 3-phosphoglycerate | Acidic. Enters dehydration synthesis reactions by giving up -OH. Hydrolysis releases a lot of energy when bonded to another phosphate.                |
+| Sulfhydryl:   R-**SH**            | Thiols like mercaptoethanol                 | Two -SH groups can each give up H and form a disulfide bridge that stabilizes protein structure.                                                      |
+
+*For more details, see Sadava *Biology*, p. 40*
