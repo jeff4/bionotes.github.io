@@ -7,12 +7,6 @@ permalink: /organic-chemistry/
 * [Seventh Edition](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) (2010) by Leroy G. Wade
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
-### Other textbooks recommended
-* List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
-* MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade. *Currently using this book.*
-* MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
-
-
 ### Names of first several saturated and unsaturated hydrocarbons
 
 | No. of carbons | Alkanes  | Alkenes                 | Alkynes                |
@@ -44,3 +38,8 @@ permalink: /organic-chemistry/
 
 <br>
 For more details, see Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
+
+### Miscellaneous notes: other textbooks
+* List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
+* MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade. *Currently using this book.*
+* MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
