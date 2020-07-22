@@ -31,7 +31,7 @@ permalink: /organic-chemistry/
 
 ### Functional groups
 
-| Group name and structure                  | Compound class name and example                        | Properties                                                                                                                                            |
+| Group name                  | Class name & example                        | Properties                                                                                                                                            |
 |-----------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hydroxyl<br>**-OH**                | *Alcohols* like ethanol                       | Polar. Hydrogen bonds with water to help dissolve molecules. Enables linkage to other molecules by deydration/condensation synthesis reaction         |
 | [Aldehyde (carbonyl) group](http://dept.harpercollege.edu/chemistry/chm/100/dgodambe/thedisk/qual/9back6.htm)<br>**H-C=O**             | *Aldehydes* like Acetalaldehyde                              | Very reactive and important in building molecules and energy-releasing reactions                                                                      |
