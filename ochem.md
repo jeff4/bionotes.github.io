@@ -41,4 +41,4 @@ permalink: /organic-chemistry/
 | Phosophate:  R-**PO<sub>4</sub>** | *Organic phosophates* like 3-phosphoglycerate | Acidic. Enters dehydration synthesis reactions by giving up -OH. Hydrolysis releases a lot of energy when bonded to another phosphate.                |
 | Sulfhydryl:   R-**SH**            | *Thiols* like mercaptoethanol                 | Two -SH groups can each give up H and form a disulfide bridge that stabilizes protein structure.                                                      |
 
-*For more details, see Sadava *Biology*, p. 40*
+For more details, see Sadava *Biology* (2014), p. 40
