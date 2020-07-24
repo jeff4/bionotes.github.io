@@ -161,9 +161,11 @@ title: Home
 * Dehydration synthesis reactions connects monosaccharides into disaccharides, oligosaccharides, and polysaccharides via [glycosidic linkages](https://en.wikipedia.org/wiki/Glycosidic_bond)
 
 #### Polysaccharides
-* Whereas proteins are ultimately a linear chain of amino acids, monosaccharides can bond in many branching ways to form polysaccharides.
-* Starch
-* Glycogen
+* Whereas all proteins are linear chains of amino acids, monosaccharides can bond in many branching ways to form polysaccharides.
+* **Starches** are polysaccharides which are often [branched](https://en.wikibooks.org/wiki/Structural_Biochemistry/Carbohydrates/Polysaccharides) made up of glucose monomers via with &#945;-glycosidic linkages. 
+	* These branches attach from the via 1-&#945; carbon of glucose monomer A to either the 4 or 6 carbon on the glucose molecule B.
+	* Starch is the primary energy storage for plants. Some plant starches are unbranched like [amylose](https://en.wikipedia.org/wiki/Amylose) which can consist of 300-3000 (or even more) monomeric glucoses.
+* **Glycogen**
 * Cellulose
 * Chemically modified carbs which have undergone redox reactions and/or had functional groups like phosphate, amino, or N-acteyl gropus added. Cartilage and chitin.
 * Also refer to carbohydrate panels in Alberts 5th, p. 112-113.
