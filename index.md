@@ -165,8 +165,11 @@ title: Home
 * **Starches** are polysaccharides which are often [branched](https://en.wikibooks.org/wiki/Structural_Biochemistry/Carbohydrates/Polysaccharides) made up of glucose monomers via with &#945;-glycosidic linkages. 
 	* These branches attach from the via 1-&#945; carbon of glucose monomer A to either the 4 or 6 carbon on the glucose molecule B.
 	* Starch is the primary energy storage for plants. Some plant starches are unbranched like [amylose](https://en.wikipedia.org/wiki/Amylose) which can consist of 300-3000 (or even more) monomeric glucoses.
-* **Glycogen**
-* Cellulose
+* **Glycogen** is highly branched and used in animals. 
+	* Similarly to starch for plants, glycogen acts as an energy store for animals in the liver and in the muscles. 
+	* The branches occur every 10-14 glucose monomers between the carbon 6 of the main branch and the 1-&#945; carbon of the branched glucose. See this [Wiki link on the brancher enzyme](https://en.wikipedia.org/wiki/Glycogen_branching_enzyme#Function) for more.
+	* Unlike glucose which is readily soluble in water, glycogen is nonpolar and thus does not dissolve in water which relieve osmotic pressure in animal cells allowing more compact storage. 
+* **Cellulose** is a critical componet of plant cell walls. Connected via glycosidic linkages at the 1-&#946; carbon (instead of the 1-&#945; carbon seen in starch and glycogen). This makes it much harder to break down cellulose.
 * Chemically modified carbs which have undergone redox reactions and/or had functional groups like phosphate, amino, or N-acteyl gropus added. Cartilage and chitin.
 * Also refer to carbohydrate panels in Alberts 5th, p. 112-113.
 
