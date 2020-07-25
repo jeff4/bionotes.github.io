@@ -176,6 +176,23 @@ title: Home
 ### Lipids and phospholipids - p. 56
 * see lipid panels on Alberts 5th Ed, 114-115.
 
+* Types of lipids
+	* Fats and oils (triglycerides) store energy.
+	* Phosopholipids provide structure to membranes.
+	* Carotenoids and chlorophylls capture light energy for plants.
+	* Steroids and modified fatty acids play regulatory roles as hormones as vitamins.
+	* Fat in animals provides thermal insulation
+	* Myelin (fatty sheath) surrounding neuronal axons provide electrical insulation to speed the action potential.
+	* Oil and wax on the surface of skin and leaves helps repel water and prevents excess evaporation.
+* Simple lipids like fats and oils consist of **triglycerides**. 
+	* A triglyceride typically combines an alcohol (like glyceryl with 3 -OH hydroxyl groups) with three fatty acids which are simply long chains of hydrocarbons. 
+	* The glycerol and fatty acids are bonded by 3 dehydration/condensation synthesis reactions that yield 3 water molecules.
+	* The resulting bonds are ester linkages with a central oxygen between each fatty acid and the glycerol molecule.
+	* Saturated fatty acid = full of hydrogen atoms, no double bonding
+	* Unsaturated fatty acid = some missing hydrogen atoms *aka* some double or triple bonding somewhere.
+* **Phospholipids** are amphipathic; have a polar phosphate end and a nonpolar hydrocarbon chain end.
+* **Carotenoids**
+
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 *
 
