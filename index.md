@@ -191,10 +191,13 @@ title: Home
 	* Saturated fatty acid = full of hydrogen atoms, no double bonding
 	* Unsaturated fatty acid = some missing hydrogen atoms *aka* some double or triple bonding somewhere.
 * **Phospholipids** are amphipathic; have a polar phosphate end and a nonpolar hydrocarbon chain end.
-* **Carotenoids**
+* **Carotenoids** are a family of light-absorbing pigments found in plants and animals. &#946;-carotene aka betacarotene is part of the photosynthesis process for plants. Meanwhile, betacarotine breaks down to two vitamin A molecules for humans as part of the visual system.
+* **Steroids** are multiply linked rings of hydrocarbons that are important as membrane components as well as signals in the hormone system.
+* **Vitamins** A, D, E, and K are lipids, aka they are fat soluble.
+* **Waxes**
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
-*
+* See Alberts 5th edition notes
 
 
 
