@@ -23,6 +23,11 @@ permalink: /organic-chemistry/
 | 10             | decane   | 1-decene                | 1-decyne               |
 | 11             | undecane | 1-undecene              | 1-undecyne             |
 
+* Note that hydrocarbons are divided into [aliphatic](https://en.wikipedia.org/wiki/Aliphatic_compound) versus aromatic subcategories. 
+	* Aromatic hydrocarbons include benzene and other resonant ring-structures. 
+	* Aliphatic aka non-aromatic hydrocarbons include straight chain alkanes like hexane as well as cyclic (non-resonant) molecules like cyclohexane. Aliphatic hydrocarbons can be saturated or unsaturated.
+
+
 ### Functional groups
 
 | Group name                  | Class name & example                        | Properties                                                                                                                                            |
