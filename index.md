@@ -194,7 +194,7 @@ title: Home
 * **Carotenoids** are a family of light-absorbing pigments found in plants and animals. &#946;-carotene aka betacarotene is part of the photosynthesis process for plants. Meanwhile, betacarotine breaks down to two vitamin A molecules for humans as part of the visual system.
 * **Steroids** are multiply linked rings of hydrocarbons that are important as membrane components as well as signals in the hormone system.
 * **Vitamins** A, D, E, and K are lipids, aka they are fat soluble.
-* **Waxes**
+* **Waxes** are hydrophobic and at room temperature, malleable/plastic. Each wax molecule sonists of a saturated long-chain fatty acid connected via an ester linkage to a long-chain alochol. As such, they have between 40-60 CH<sub>2</sub> groups.
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 * See Alberts 5th edition notes
