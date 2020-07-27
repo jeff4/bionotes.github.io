@@ -200,7 +200,7 @@ title: Home
 	* Carboxyl groups -COOH give rise to: (a) ionized form -COO<sup>-</sup>, (b) esters, (c) amides.
 	* Phospholipids where one of the 3 fatty acids attached to the glycerol backbone is replaced by a hydrophilic  **phosphate group -PO<sub>4</sub><sup>3-</sup>** . Thus forming a hydrophilic head and 2 hydrophobic tails. 
 	* The phosophate group can also attach to other moeities, such as choline in the example of [phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine).
-	* Isoprene units like [2-methyl-1,3 butadiene](https://en.wikipedia.org/wiki/Isoprene)
+	* Isoprene units like [2-methyl-1,3 butadiene](https://en.wikipedia.org/wiki/Isoprene). See also the [Organic Chemistry section](/organic-chemistry/).
 
 
 
