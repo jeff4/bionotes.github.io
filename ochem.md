@@ -47,8 +47,9 @@ permalink: /organic-chemistry/
 
 ### Isoprenes
 * Started with Alberts 5th Edition, p. 115
+* Using molecular model kit helps emphasize that this almost the entire isoprene unit is planar. Very flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
 * [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
-* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička). 
+* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
 	
 
 
