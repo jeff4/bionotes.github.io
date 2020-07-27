@@ -45,6 +45,13 @@ permalink: /organic-chemistry/
 * See Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
 * See also panels about Functional Groups on p. 107 of Alberts 5th Ed.
 
+### Isoprenes
+* Started with Alberts 5th Edition, p. 115
+* [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
+* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička). 
+	
+
+
 ### Miscellaneous notes: other textbooks
 * List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade. *Currently using this book.*
