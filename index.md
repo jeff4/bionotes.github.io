@@ -174,8 +174,6 @@ title: Home
 * Also refer to carbohydrate panels in Alberts 5th, p. 112-113.
 
 ### Lipids and phospholipids - p. 56
-* see lipid panels on Alberts 5th Ed, 114-115.
-
 * Types of lipids
 	* Fats and oils (triglycerides) store energy.
 	* Phosopholipids provide structure to membranes.
@@ -195,6 +193,16 @@ title: Home
 * **Steroids** are multiply linked rings of hydrocarbons that are important as membrane components as well as signals in the hormone system.
 * **Vitamins** A, D, E, and K are lipids, aka they are fat soluble.
 * **Waxes** are hydrophobic and at room temperature, malleable/plastic. Each wax molecule sonists of a saturated long-chain fatty acid connected via an ester linkage to a long-chain alochol. As such, they have between 40-60 CH<sub>2</sub> groups.
+* Lipid panels on Alberts 5th Ed, 114-115
+	* Stearic acid (C18) and palmitic acid (c16) are saturated aka full of hydrogens and only carbon single bonds.
+	* Oleic acid (C18) is unsaturated with a single double bond between C9 and C10.
+	* Glycerol is a 3-carbon alcohol with an -OH hydroxyl attached to C1, C2, and C3 respectively. It serves as the backbone for triglycerides when 3 fatty acids attach via dehydration/condensation synthesis at the ester linkage.
+	* Carboxyl groups -COOH give rise to: (a) ionized form -COO<sup>-</sup>, (b) esters, (c) amides.
+	* Phospholipids where one of the 3 fatty acids attached to the glycerol backbone is replaced by a hydrophilic  **phosphate group -PO<sub>4</sub><sup>3-</sup>** . Thus forming a hydrophilic head and 2 hydrophobic tails. 
+	* The phosophate group can also attach to other moeities, such as choline in the example of [phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine).
+	* Isoprene units like [2-methyl-1,3 butadiene](https://en.wikipedia.org/wiki/Isoprene)
+
+
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 * See Alberts 5th edition notes
@@ -251,7 +259,12 @@ title: Home
 * ATP - adenosine triphosophate
 * Carbohydrates
 	* glucose = monosaccharide. Can form disaccharides, polysaccharides, etc.
-* Van Der Waals forces are used by Geckos to cling to walls
+* Remember, here are the types of forces that Lander emphasizes:
+	1. **Ionic Bonds**
+	2. **Covalent Bonds** (polar like O-H, N-H, C=O, vs. nonpolar like C-H, C-C, C=C, etc.)
+	3. **Hydrogen Bonds** (O----H---O,  N----H---O ,  etc.)
+	4. **Hydrophobic forces** that force hydrophobic molecules together, so that the liquid H<sub>2</sub>O molecules around them can form hydrogen bonds easily "as desired". 
+	1. **Van Der Waals Forces** which are temporary charges that can add up to a lot, e.g,  geckos use these to climb walls
 
 
 ---
