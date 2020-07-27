@@ -7,6 +7,14 @@ permalink: /organic-chemistry/
 * [Seventh Edition](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) (2010) by Leroy G. Wade
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
+### Isoprenes and Terpenes
+* Referred to in lipid panels, Alberts 5th Edition, p. 115
+* Both isoprenes and terpenes are alkenes, but derived compounds that include oxygen and other moeities are called *isoprenoids* and *terpenoids*.
+* Mini-molecular model kit emphasizes that the entire isoprene unit is planar. Completely flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
+* [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
+* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
+
+
 ### Names of first several saturated and unsaturated hydrocarbons
 
 | No. of carbons | Alkanes  | Alkenes                 | Alkynes                |
@@ -45,11 +53,6 @@ permalink: /organic-chemistry/
 * See Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
 * See also panels about Functional Groups on p. 107 of Alberts 5th Ed.
 
-### Isoprenes
-* Started with Alberts 5th Edition, p. 115
-* Using molecular model kit helps emphasize that this almost the entire isoprene unit is planar. Very flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
-* [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
-* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
 	
 
 
