@@ -193,7 +193,7 @@ title: Home
 * **Steroids** are multiply linked rings of hydrocarbons that are important as membrane components as well as signals in the hormone system.
 * **Vitamins** A, D, E, and K are lipids, aka they are fat soluble.
 * **Waxes** are hydrophobic and at room temperature, malleable/plastic. Each wax molecule sonists of a saturated long-chain fatty acid connected via an ester linkage to a long-chain alochol. As such, they have between 40-60 CH<sub>2</sub> groups.
-* Lipid panels on Alberts 5th Ed, 114-115
+* Lipid panels in **Alberts 5th Ed**, p. 114-115
 	* Stearic acid (C18) and palmitic acid (c16) are saturated aka full of hydrogens and only carbon single bonds.
 	* Oleic acid (C18) is unsaturated with a single double bond between C9 and C10.
 	* Glycerol is a 3-carbon alcohol with an -OH hydroxyl attached to C1, C2, and C3 respectively. It serves as the backbone for triglycerides when 3 fatty acids attach via dehydration/condensation synthesis at the ester linkage.
