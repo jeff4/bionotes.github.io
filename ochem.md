@@ -11,19 +11,19 @@ permalink: /organic-chemistry/
 * Referred to in lipid panels, Alberts 5th Edition, p. 115
 * Both isoprenes and terpenes are alkenes, but derived compounds that include oxygen and other moeities are called *isoprenoids* and *terpenoids*.
 * Mini-molecular model kit emphasizes that the entire isoprene unit is planar. Completely flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
-* [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
-* Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
+* [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) such as [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf) and ultimately steroids which are lipids.
+* Each [terpene](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
 
 ### Naming of terpene compounds
 
 | # of carbons | # of isoprenes | # of terpenes | Name          |
 |--------------|----------------|---------------|---------------|
-| 10           | 2              | 1             | Monoterpene   |
-| 15           | 3              | 1.5           | Sesquiterpene |
-| 20           | 4              | 2             | Diterpene     |
-| 25           | 5              | 2.5           | Sesterpene    |
-| 30           | 6              | 3             | Triterpene    |
-| 40           | 8              | 4             | Tetraterpene  |
+| 10           | 2              | 1             | monoterpene   |
+| 15           | 3              | 1.5           | sesquiterpene |
+| 20           | 4              | 2             | diterpene     |
+| 25           | 5              | 2.5           | sesterpene    |
+| 30           | 6              | 3             | triterpene    |
+| 40           | 8              | 4             | tetraterpene  |
 
 
 
