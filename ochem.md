@@ -14,6 +14,18 @@ permalink: /organic-chemistry/
 * [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) aka [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf). 
 * Each [terpine](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
 
+### Naming of terpene compounds
+
+| # of carbons | # of isoprenes | # of terpenes | Name          |
+|--------------|----------------|---------------|---------------|
+| 10           | 2              | 1             | Monoterpene   |
+| 15           | 3              | 1.5           | Sesquiterpene |
+| 20           | 4              | 2             | Diterpene     |
+| 25           | 5              | 2.5           | Sesterpene    |
+| 30           | 6              | 3             | Triterpene    |
+| 40           | 8              | 4             | Tetraterpene  |
+
+
 
 ### Names of first several saturated and unsaturated hydrocarbons
 
