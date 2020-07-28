@@ -8,11 +8,11 @@ permalink: /organic-chemistry/
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
 ### Isoprenes and Terpenes
-* Referred to in lipid panels, Alberts 5th Edition, p. 115
 * Both isoprenes and terpenes are alkenes, but derived compounds that include oxygen and other moeities are called *isoprenoids* and *terpenoids*.
 * Mini-molecular model kit emphasizes that the entire isoprene unit is planar. Completely flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
 * [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) such as [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf) and ultimately steroids which are lipids.
 * Each [terpene](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
+* See also Alberts 5th Edition p. 115 and JH notes from 7/28/2020 and Khan Academy lectures 1 and 2 on terpenes and steroids.
 
 ### Naming of terpene compounds
 
