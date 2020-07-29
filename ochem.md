@@ -18,12 +18,12 @@ permalink: /organic-chemistry/
 
 | # of carbons | # of isoprenes | # of terpenes | Name          |
 |--------------|----------------|---------------|---------------|
-| 10           | 2              | 1             | monoterpene   |
-| 15           | 3              | 1.5           | sesquiterpene |
-| 20           | 4              | 2             | diterpene     |
-| 25           | 5              | 2.5           | sesterpene    |
-| 30           | 6              | 3             | triterpene    |
-| 40           | 8              | 4             | tetraterpene  |
+| 10           | 2              | 1             | mono-terpene   |
+| 15           | 3              | 1.5           | sesqui-terpene |
+| 20           | 4              | 2             | di-terpene     |
+| 25           | 5              | 2.5           | ses-terpene    |
+| 30           | 6              | 3             | tri-terpene    |
+| 40           | 8              | 4             | tetra-terpene  |
 
 
 
