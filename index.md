@@ -276,6 +276,9 @@ title: Home
 	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
 
+## Chapter 3: Proteins
+* See Alberts p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
+
 
 
 ---
