@@ -15,14 +15,14 @@ permalink: /organic-chemistry/
 * See also Alberts 5th Edition p. 115 and JH notes from 7/28/2020 and Khan Academy [lectures 1](https://www.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system/v/terpenes-to-steroids1) and [2](https://www.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system/v/terpenes-to-steroids2) on terpenes and steroids.
 * List of terpenes covered in JH notes:
 	* **OPP** = [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate) of 2 linked PO<sub>4</sub><sup>3-</sup> connected to isoprenes as part of isoprene/terpene synthesis
-	* dimethyl allyl pyrophosphate aka [DMAPP](https://en.wikipedia.org/wiki/Dimethylallyl_pyrophosphate)
-	* [Isopentenyl pyrophosphate](https://en.wikipedia.org/wiki/Isopentenyl_pyrophosphate) aka IPP
-	* [Geranyl pyrophosphate](https://en.wikipedia.org/wiki/Geranyl_pyrophosphate) aka GPP
-	* [Farnesyl pyrophosphate](https://en.wikipedia.org/wiki/Farnesyl_pyrophosphate) aka FPP
+	* dimethyl allyl pyrophosphate aka [**DMAPP**](https://en.wikipedia.org/wiki/Dimethylallyl_pyrophosphate)
+	* [Isopentenyl pyrophosphate](https://en.wikipedia.org/wiki/Isopentenyl_pyrophosphate) aka **IPP**
+	* [Geranyl pyrophosphate](https://en.wikipedia.org/wiki/Geranyl_pyrophosphate) aka **GPP**
+	* [Farnesyl pyrophosphate](https://en.wikipedia.org/wiki/Farnesyl_pyrophosphate) aka **FPP**
 	* [Squalene](https://en.wikipedia.org/wiki/Squalene), a 30-carbon triterpene that is a precursor to all plant and animal sterols, including cholesterol and all human steroid hormones
 	* Human steroids
-		* Sex hormones: E1 Estrone, E2 Estradiol, E3 Estriol, progesterone, testosterone, and androsterone
-		* Adrenal hormones: Cortisone, Cortisol, Aldosterone
+		* Sex hormones: [E1 Estrone](https://en.wikipedia.org/wiki/Estrone), [E2 Estradiol](https://en.wikipedia.org/wiki/Estradiol), [E3 Estriol](https://en.wikipedia.org/wiki/Estriol), [progesterone (P4)](https://en.wikipedia.org/wiki/Progesterone); and [testosterone](https://en.wikipedia.org/wiki/Testosterone) along with other [androgens](https://en.wikipedia.org/wiki/Androgen)
+		* Adrenal hormones: [Cortisone](https://en.wikipedia.org/wiki/Cortisone), [Cortisol](https://en.wikipedia.org/wiki/Cortisol), [Aldosterone](https://en.wikipedia.org/wiki/Aldosterone)
 	* Steroids in other species
 		* Plants: [Stigmasterol](https://en.wikipedia.org/wiki/Stigmasterol)
 		* Amphibians, reptiles, rodents, birds: [corticosterone](https://en.wikipedia.org/wiki/Corticosterone)
