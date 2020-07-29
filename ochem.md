@@ -28,7 +28,7 @@ permalink: /organic-chemistry/
 ### List of terpenes and steroids covered in JH notes:
 
 * **OPP** = [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate) of 2 linked PO<sub>4</sub><sup>3-</sup> connected to isoprenes as part of isoprene/terpene synthesis
-* **dimethyl allyl pyrophosphate** aka [DMAPP](https://en.wikipedia.org/wiki/Dimethylallyl_pyrophosphate)
+* [dimethyl allyl pyrophosphate](https://en.wikipedia.org/wiki/Dimethylallyl_pyrophosphate) aka **DMAPP**
 * [Isopentenyl pyrophosphate](https://en.wikipedia.org/wiki/Isopentenyl_pyrophosphate) aka **IPP**
 * [Geranyl pyrophosphate](https://en.wikipedia.org/wiki/Geranyl_pyrophosphate) aka **GPP**
 * [Farnesyl pyrophosphate](https://en.wikipedia.org/wiki/Farnesyl_pyrophosphate) aka **FPP**
