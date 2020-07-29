@@ -25,7 +25,7 @@ permalink: /organic-chemistry/
 | 30           | 6              | 3             | tri-terpene    |
 | 40           | 8              | 4             | tetra-terpene  |
 
-### List of terpenes covered in JH notes:
+### List of terpenes and steroids covered in JH notes:
 
 * **OPP** = [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate) of 2 linked PO<sub>4</sub><sup>3-</sup> connected to isoprenes as part of isoprene/terpene synthesis
 * dimethyl allyl pyrophosphate aka [**DMAPP**](https://en.wikipedia.org/wiki/Dimethylallyl_pyrophosphate)
