@@ -8,15 +8,6 @@ title: Home
 
 ### Species count as of 2014 - p. 8
 
-| Taxon    | Currently described species | *Estimated* number of living species |
-|----------|---------------------------------------|------------------------------------------|
-| Bacteria | 10,000                                | Millions                                 |
-| Archea   | 300                                   | 1k - 1M                                  |
-| Protists | 80,000                                | 500k - 1M                                |
-| Plants   | 270,000                               | 400-500k                                 |
-| Fungi    | 100,000                               | 1-2M                                     |
-| Animals  | 1,300,000                             | 10M - 100M                               |
-
 ## Chapter 2: Review of [General Chemistry](/general-chemistry/)
 
 ### Section 2.1: How does Atomic Structure Explain the Properties of Matter?
