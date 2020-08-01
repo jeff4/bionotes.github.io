@@ -7,6 +7,10 @@ permalink: /organic-chemistry/
 * [Seventh Edition](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) (2010) by Leroy G. Wade
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
+### July 31st, 2000
+* Experimentation with molecular model kit showed specific atoms involved in hydrogen bonds that help keep the alpha-helix chain in shape. Per diagram on Alberts p. 134, consider N1-C1a-C1b-N2-C2a-C2b-N3-C3a-C3b-N4-C4a-C4b-N5-C5a-C5b-...
+
+
 ### Isoprenes and Terpenes
 * Both isoprenes and terpenes are alkenes, but derived compounds that include oxygen and other moeities are called *isoprenoids* and *terpenoids*.
 * Mini-molecular model kit emphasizes that the entire isoprene unit is planar. Completely flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
