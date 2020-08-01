@@ -287,7 +287,14 @@ title: Home
 		* Ionic bonds between side chains
 		* Hydrogen bonds between side chains
 		* Van der Waals forces between side chains
-	* X-Ray Crystallography
+	* X-Ray Protein Structure supplemental lecture by x-ray crystallographer Brian, a  scientist at MIT:
+		* Metaphor of throwing basketballs and ping pong balls, first at a single parked car. Then, dropping many of these balls onto an entire parking lot full of regularly spaced parked cars.
+		* To prepare them for scanning, proteins are first purified and then crystallized so they are in a regular repeating pattern (like in an orderly parking lot)
+		* Enzyme: lysozyme used to break down bacterial walls
+
+## Lecture 4: Enzymes
+* Channel proteins
+
 
 ---
 
