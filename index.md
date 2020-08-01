@@ -282,7 +282,12 @@ title: Home
 		* Alpha-helix. 3.7 amino acids per 360-degree turn of the alpha helix.
 		* Beta-sheets
 		* All other is called "loops" or "random coils"
-	* Tertiary structure
+	* Tertiary structure and quartenary structure is determined in part by the following types of interactions between sidechain groups:
+		* Disulfide bonds (esp. cysteine side chain)
+		* Ionic bonds between side chains
+		* Hydrogen bonds between side chains
+		* Van der Waals forces between side chains
+	* X-Ray Crystallography
 
 ---
 
