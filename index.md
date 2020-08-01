@@ -294,6 +294,17 @@ title: Home
 
 ## Lecture 4: Enzymes
 * Channel proteins
+* Design guideline: allow molecules of about 600 molecular weight, polar but no net charge (either positive or negative)
+* Solution: **OmpF channel protein**. (No wiki article available but see [related OmpA article](https://en.wikipedia.org/wiki/OmpA-like_transmembrane_domain).)
+	* "residue" = synonym for side chain
+	* has charged residues on the inside to repel potential passengers who are positively charged or negatively charged. The fact that these residues are polar will also keep out nonpolar passengers which we do not want to pass
+	* Has hydrophobic sidechains along the exterior of the barrel so that it embedds properly with the hydrophobic C-H tails inside the phospholipid bilayer
+	* Has a lot of charged residues
+* Enzyme: [Triose Phosphate Isomerase](https://en.wikipedia.org/wiki/Triosephosphate_isomerase) *aka* TIM *aka* TPI
+	* See Jeremy Knowles and W.J. Albery [TIM paper (1977)](https://pubs.acs.org/doi/10.1021/ar50112a001)
+	* TIM interconverts between two isomers of triose phosphate
+	* Essential to process of glycolysis in muscles for fast efficient energy production
+	* See also [Protopedia article](https://proteopedia.org/wiki/index.php/Triosephosphate_Isomerase)
 
 
 ---
