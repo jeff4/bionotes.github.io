@@ -9,13 +9,13 @@ permalink: /organic-chemistry/
 
 ### July 31st, 2000
 * Experimentation with molecular model kit showed specific atoms involved in hydrogen bonds that help keep the alpha-helix chain in shape.
-	* Per diagram on Alberts p. 134, consider N1-C1a-C1b-N2-C2a-C2b-N3-C3a-C3b-N4-C4a-C4b-N5-C5a-C5b-...
-	* There is a hydrogen attached to N1, N2, N3, etc.
-	* For carbon Cxb there is a double bonded oxygen; a carbonyl group. x = 1,2,3,...
-	* The hydrogen at N1 hydrogen bonds to the oxygen at C3b.
-	* The hydrogen at N2 hydrogen bonds to the oxygen at C4b.
-	* The hydrogen at N3 hydrogen bonds to the oxygen at C5b.
-	* and so on...
+	* Per diagram on Alberts p. 134, consider **N1**-C1a-C1b-**N2**-C2a-C2b-**N3**-C3a-C3b-**N4**-C4a-C4b-**N5**-C5a-C5b-...
+	* There is a hydrogen attached to N1, N2, N3, etc.; the "left-side" amide terminus of each amino acid.
+	* Let *x* = 1,2,3,... There is an oxygen double-bonded to each carbon C*x*b. Aka there is a carbonyl group on the "right-side" acid terminus of each amino acid. 
+	* The hydrogen at **N1** hydrogen bonds to the **oxygen at C3b**.
+	* The hydrogen at **N2** hydrogen bonds to the **oxygen at C4b**.
+	* The hydrogen at **N3** hydrogen bonds to the **oxygen at C5b**.
+	* *and so on...*
 
 
 ### Isoprenes and Terpenes
