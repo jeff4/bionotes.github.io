@@ -267,6 +267,23 @@ title: Home
 	1. **Van Der Waals Forces** which are temporary charges that can add up to a lot, e.g,  geckos use these to climb walls
 
 
+## Lecture 3: Proteins
+* Relatively constant planes in peptide with pivot points at the alpha carbons aka the carbons that the -R sidechains hang off of. See also Alberts p. 127
+* Subcategories of the 20 amino acids
+	* **Polar and charged**: Serine, Threonine, Aspargine, Glutamine
+	* **Polar, negatively charged**: Aspartic acid, glutamic acid
+	* **Polar, positively charged**: lysine, arginine, histidine
+	* **Nonpolar (hydrophobic)**: Alanine, Valine, Methionine (with a sulfur), Leucine, Isoleucine, Phenylalanine, Tyrosine, Tryptophan
+	* **Special**:
+		* Glycine very flexible, simple CH<sub>3</sub>
+		* Proline (ring that bonds with the amino group)-- technically an imino acid, not an amino acid.
+		* Cysteine with sulfur at the end. Can form disulfide bond.
+	* Secondary structure
+		* Alpha-helix. 3.7 amino acids per 360-degree turn of the alpha helix.
+		* Beta-sheets
+		* All other is called "loops" or "random coils"
+	* Tertiary structure
+
 ---
 
 # Molecular Biology of the Cell
