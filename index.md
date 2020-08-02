@@ -246,7 +246,13 @@ title: Home
 		* 15% carbohydrate
 		* 15% nucleic acids
 		* 10% lipids and fats
-	* Covalent bonds. Number of bonds formed for an octet satisifed atom: **H1**, **C4**, **N3**, **P5**, **S2**, **O2**.
+	* Covalent bonds for 6 most important elements: **C,H,O** and **N, P, Sulfur**. Number of bonds formed for an octet satisifed atom under biological conditions: 
+		* Carbon = 4
+		* Hydrogen = 1
+		* Oxygen = 2
+		* **Nitrogen = 3 or 4**
+		* **Phosphorus = 5**
+		* **Sulfur = sometimes 2** but up to **6 bonds**
 * Noncovalent bonds, including hydrogen bonds (5 kcal/mol), ionic bonds, Van Der Waals forces
 * Lipids and phospholipids
 	* Oil and water don't mix b/c the polar water gets "offended" by the nonpolar interlopers interrupting the "desired" hydrogen bonding between water molecules
@@ -305,6 +311,11 @@ title: Home
 	* TIM interconverts between two isomers of triose phosphate
 	* Essential to process of glycolysis in muscles for fast efficient energy production
 	* See also [Protopedia article](https://proteopedia.org/wiki/index.php/Triosephosphate_Isomerase)
+	* Convert G3P aka (glyceraldehyde 3-phosphate) to (DHAP) dihydroxyacetone phosphate via intermediate transition state (cis-enediol) which without TIM would take 26 kcal/mol
+	* TIM stabilizes the transition state and also prevents the side-reaction of G3P losing it's phosophate group which tends to happen in water.
+	* TIM increases speed of reaction by 10<sup>10</sup>. Aka, the difference in length of time between ~1 second and 300 years!
+	* TIM is about 150x the size of reactant G3P and product DHAP. 
+	* 
 
 
 ---
