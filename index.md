@@ -298,7 +298,7 @@ title: Home
 		* To prepare them for scanning, proteins are first purified and then crystallized so they are in a regular repeating pattern (like in an orderly parking lot)
 		* He uses the example of lysozym, an enzyme used to break down bacterial walls
 
-## Lecture 4: Enzymes
+## Lecture 4: Enzymes - Channel proteins, &#946;-barrels, TIM, flu burglar
 * Channel proteins
 	* Design guideline: allow molecules of about 600 molecular weight, polar but no net charge (either positive or negative)
 	* Solution: **OmpF channel protein**. (No wiki article available but see [related OmpA article](https://en.wikipedia.org/wiki/OmpA-like_transmembrane_domain).)
