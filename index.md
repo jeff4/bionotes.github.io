@@ -315,7 +315,11 @@ title: Home
 	* TIM stabilizes the transition state and also prevents the side-reaction of G3P losing it's phosophate group which tends to happen in water.
 	* TIM increases speed of reaction by 10<sup>10</sup>. Aka, the difference in length of time between ~1 second and 300 years!
 	* TIM is about 150x the size of reactant G3P and product DHAP. 
-	* 
+	* Three strategies used by TIM/TPI:
+		1. Hydrogen proton transfer between the oxygens attached to carbon1 and carbon2. (see drawings in JH notes 8/02/2020 to 8/03/2020). Glutamine-165 and Histidine-95 are the residues that make this happen. If the glutamine residue is replaced by similar Asparagine, reaction performs 1000x worse. Note that Glu and Asp sidechains are exactly identical *except*  that Asp has just one more CH<sub>2</sub>  in its chain.
+		2. There is a lid that keeps the triose phosphate reactant/intermediate/product safe from hydrophilic attack by H<sub>2</sub> molecules. Without this lid, the reaction would perform 100,000x worse. 
+		3. Lysine at position 12 is used to create hydrogen bonds that connect to the various oxygens of triose phoshate to stabilize the molecule as the reaciton proceeds. If we use arginine instead of lysine, the reaction performs 200x less efficiently.
+	* "Burglar tools" used by influenza virus to exscape the lysosome acidic pH trap.
 
 
 ---
