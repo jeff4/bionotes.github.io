@@ -149,6 +149,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* The activation barrier is very high.
 		* But even there is enough TIM, because of entropy and relative concentration of product/reactant, there will always be *some* reactant left at equilibrium
 		* The way to understand whether the forward or reverse reaction is favored is based on delta G  **&#916;G** (distinct from &#916;G<sup>0</sup>' above).
+		* See also handwritten JH notes 8/03/2020
+	* Tricks to make a reaction move forward even when &#916;G is positive (favoring reverse rxn)
+		* Trick #1: Direct coupling
+			* Couple 2 reactions together. Aka even if A --> B is unfavorable, if C--> D is extremely favorable, then A+C --> B+D might move forward. Example, pair reaction with ATP
+			* Convert ATP to ADP (adenosine diphosphate). ATP --> ADP has a &#916;G = -7.3 kcal/mol
+		* Trick #2: Indirect coupling
+			* Have a "next step" reaction, e.g., B--> C which is highly favorable.
+			* So again, assume A --> B has positive &#916;G (and is not favorable in forward direction).
+			* Assume B --> has a very negative &#916;G (and is very favorable in forward direction)
+			* Then the overall reaction A --> B --> C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A-->B
+
 
 
 
