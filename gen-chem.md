@@ -372,14 +372,14 @@ See illustration on p. 251; all the species in the same row have the same color 
 ---
 
 # Molecular Biology of the Cell
-* Albert et al., Fifth Edition (2008)
+* Alberts et al., Fifth Edition (2008)
 * p. 20 - defintion of **homologs**: All related genes that result from duplication 
 	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
 	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
 
 ## Chapter 3: Proteins
-* See Alberts p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
+* See p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
 
 
 
