@@ -145,10 +145,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Biochemical pathways in fermentation
 * How does yeast change a hexose sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) into CO<sub>2</sub> and alcohol? Multi-step pathway
 * Energetics of a single reaction
-	* G3P --> DHAP. Lower free energy in this reaction. Gibbs free energy change is about -1.86 kcal/mol. **&#916G<sup>0</sup>'** prounounced "delta G zero prime"
+	* G3P --> DHAP. Lower free energy in this reaction. Gibbs free energy change is about -1.86 kcal/mol. **&#916;G<sup>0</sup>'** prounounced "delta G zero prime"
 		* The activation barrier is very high.
 		* But even there is enough TIM, because of entropy and relative concentration of product/reactant, there will always be *some* reactant left at equilibrium
-		* The way to understand whether the forward or reverse reaction is favored is based on delta G  **&#916G** (distinct from &#916G<sup>0</sup>' above).
+		* The way to understand whether the forward or reverse reaction is favored is based on delta G  **&#916;G** (distinct from &#916;G<sup>0</sup>' above).
 
 
 
