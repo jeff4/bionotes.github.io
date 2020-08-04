@@ -4,7 +4,7 @@ title: Home
 
 ### Different versions of Intro Bio course at MIT
 
-There is a special version of the MIT intro bio course that was optimized for EdX called [7.00x, Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) taught by Langer. Current lectures seem to have been recorded in 2012 with updates etc. ~2015.
+There is a special version of the MIT intro bio course that was optimized for EdX called [7.00x, Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) taught by [Lander](https://www.broadinstitute.org/bios/eric-s-lander). Current lectures seem to have been recorded in 2012 with updates circa 2015.
 
 Separately, [7.01 Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. In addition, each version of the subject has its own distinctive material.
 
