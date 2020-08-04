@@ -242,12 +242,6 @@ See illustration on p. 251; all the species in the same row have the same color 
 		* High boiling point aka heat of vaporization
 	* When water freezes and turns into a solid, the daisy chain of randomly appearing/disappearing hydrogen bonds form into more permanent hydrogen bonds. These new hydrogen bonds follow from the partial delta-charges; the result is a  "hollow" crystal structure for ice which is why is less dense than liquid water. Each water molecule is connected to [4 other water molecules in a 3-d tetrahedral structure](https://www.youtube.com/watch?v=BxCnDJSE1ck&t=157s). 
 
-### Review of Acids, Bases, and Buffers - p. 33-36
-* *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014
-* Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
-
-# Biology Textbook
-
 ## Chapter 3: Macromolecules I - Proteins, Carbohydrates, Lipids (p. 39-61)
 * Four kinds of macromolecules: proteins, carbohydrates, lipids, and nucleic acids
 * Macromolecular polymers are made of different types of monomers:
@@ -373,7 +367,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
-* See Alberts 5th edition notes
+* See Alberts 5th edition below
 
 ---
 
