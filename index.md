@@ -145,20 +145,20 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Biochemical pathways in fermentation
 * How does yeast change a hexose sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) into CO<sub>2</sub> and alcohol? Multi-step pathway
 * Energetics of a single reaction
-	* G3P --> DHAP. Lower free energy in this reaction. Gibbs free energy change is about -1.86 kcal/mol. **&#916;G<sup>0</sup>'** pronounced "delta G zero prime"
+	* G3P &#8594; DHAP. Lower free energy in this reaction. Gibbs free energy change is about -1.86 kcal/mol. **&#916;G<sup>0</sup>'** pronounced "delta G zero prime"
 		* The activation barrier is very high.
 		* But even there is enough TIM, because of entropy and relative concentration of product/reactant, there will always be *some* reactant left at equilibrium
 		* The way to understand whether the forward or reverse reaction is favored is based on delta G  **&#916;G** (distinct from &#916;G<sup>0</sup>' above).
 		* See also handwritten JH notes 8/03/2020
 	* Tricks to make a reaction move forward even when &#916;G is positive (favoring reverse rxn)
 		* Trick #1: Direct coupling
-			* Couple 2 reactions together. Aka even if A --> B is unfavorable, if C--> D is extremely favorable, then A+C --> B+D might move forward. Example, pair reaction with ATP
-			* Convert ATP to ADP (adenosine diphosphate). ATP --> ADP has a &#916;G = -7.3 kcal/mol
+			* Couple 2 reactions together. Aka even if A &#8594; B is unfavorable, if C &#8594; D is extremely favorable, then A+C &#8594; B+D might move forward. Example, pair reaction with ATP
+			* Convert ATP to ADP (adenosine diphosphate). ATP &#8594; ADP has a &#916;G = -7.3 kcal/mol
 		* Trick #2: Indirect coupling
-			* Have a "next step" reaction, e.g., B--> C which is highly favorable.
-			* So again, assume A --> B has positive &#916;G (and is not favorable in forward direction).
-			* Assume B --> has a very negative &#916;G (and is very favorable in forward direction)
-			* Then the overall reaction A --> B --> C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A-->B
+			* Have a "next step" reaction, e.g., B &#8594; C which is highly favorable.
+			* So again, assume A &#8594; B has positive &#916;G (and is not favorable in forward direction).
+			* Assume B &#8594; C has a very negative &#916;G (and is very favorable in forward direction)
+			* Then the overall reaction A &#8594; B &#8594; C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A &#8594; B
 		* Intro to glycolysis: the breaking of sugar
 
 
