@@ -33,6 +33,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * *Course started: July 14, 2020*
 
 ## Lecture 1: Introduction and the Biochemistry of Life
+* *July 14 - 20, 2020*
 * Seems like intro lectures by Eric Lander were recorded in the fall of 2012, because he references this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) and [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html). Also, he refers to an early lecture earlier that morning at the Broad Institute (probably by [Feng Zhang](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) or a close collaborator) about work that was not yet published and about new developments in applying CRISPR/Cas9 to precisely edit DNA in mammalian systems.
 * Timeline
 	* **4.5 billion** years ago: Earth formed
@@ -51,6 +52,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
 ## Lecture 2: Biochemistry
+* *July 21 - 28, 2020*
 * Eduard Buchner and the founding of biochemistry. 
 	* During a [series of experimnts from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
 	* However, [in 1897](https://en.wikipedia.org/wiki/Eduard_Buchner#Research), Buchner showed that if one took a mass of yeast and crushed all the living cells to death, one could extract dead "yeast juice" that could still perform fermentation. This showed that a nonliving enzyme ([zymaseproduced](https://en.wikipedia.org/wiki/Zymase)) by yeast was responsible for fermentation. 
@@ -89,6 +91,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 3: Proteins
+* *July 25 - 31, 2020*
 * Relatively constant planes in peptide with pivot points at the alpha carbons aka the carbons that the -R sidechains hang off of. See also Alberts p. 127
 * Subcategories of the 20 amino acids
 	* **Polar and charged**: Serine, Threonine, Aspargine, Glutamine
@@ -114,6 +117,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* He uses the example of lysozym, an enzyme used to break down bacterial walls
 
 ## Lecture 4: Enzymes - Channel proteins, &#946;-barrels, TIM, flu burglar
+* *August 1, 2020*
 * Channel proteins
 	* Design guideline: allow molecules of about 600 molecular weight, polar but no net charge (either positive or negative)
 	* Solution: **OmpF channel protein**. (No wiki article available but see [related OmpA article](https://en.wikipedia.org/wiki/OmpA-like_transmembrane_domain).)
@@ -137,6 +141,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* "Burglar tools" used by influenza virus to exscape the lysosome acidic pH trap.
 
 ## Lecture 5: Glycolysis and pathways
+* *August 3, 2020*
 * Biochemical pathways in fermentation
 * How does yeast change a hexose sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) into CO<sub>2</sub> and alcohol? Multi-step pathway
 * Energetics of a single reaction
