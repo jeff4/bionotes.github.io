@@ -159,6 +159,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 			* So again, assume A --> B has positive &#916;G (and is not favorable in forward direction).
 			* Assume B --> has a very negative &#916;G (and is very favorable in forward direction)
 			* Then the overall reaction A --> B --> C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A-->B
+		* Intro to glycolysis: the breaking of sugar
 
 
 
