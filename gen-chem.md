@@ -81,23 +81,6 @@ See illustration on p. 251; all the species in the same row have the same color 
 * Whereas **alkanes** ( p.277) are necessarily saturated (aka have maximum # of hydrogens possible aka no double bonds between carbons), **alkenes** (p. 280) are hydrocarbons that have at least 1 C=C double bond. 
 * **Alkynes** are unsaturated hydrocarbons as well, but unlike alkenes, alkynes have triple bonds between carbon atoms. 
 
-### Names of first several saturated and unsaturated hydrocarbons
-
-| No. of carbons | Alkanes  | Alkenes                 | Alkynes                |
-|----------------|----------|-------------------------|------------------------|
-| 1              | methane  | –                     | –                    |
-| 2              | ethane   | ethene *aka* **ethylene**    | ethyne *aka* **acetylene** |
-| 3              | propane  | propene *aka* **propylene** | propyne                |
-| 4              | butane   | 1-butene                | 1-butyne               |
-| 5              | pentane  | 1-pentene               | 1-pentyne              |
-| 6              | hexane   | 1-hexene                | 1-hexyne               |
-| 7              | heptane  | 1-heptene               | 1-heptyne              |
-| 8              | octane   | 1-octene                | 1-octyne               |
-| 9              | nonane   | 1-nonene                | 1-nonyne               |
-| 10             | decane   | 1-decene                | 1-decyne               |
-| 11             | undecane | 1-undecene              | 1-undecyne             |
-
-
 ## Chapter 9: Molecular Structures, VSEPR, Orbital Hybridization, Noncovalent Interactions, and Intermolecular Forces
 * **MSJ** p. 310, Figure 9.4 table listing names and shapes of common molecular structures around a central atom: linear, trigonal planar, trigonal bipyramidal, tetrahedral, octahedral. 
 * p. 316, Figure 9.6 table illustrating more exotic shapes with 5 or 6 shared electron bonds and/or lone pairs surrounding a central atom: trigonal bipyramidal, seesaw, T-shaped, linear, octahedral, square pyramidal, square planar
