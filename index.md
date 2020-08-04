@@ -30,7 +30,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ---
 # Notes on MIT 7.00x at EdX
-### Course started: July 14, 2020
+*Course started: July 14, 2020*
 
 ## Lecture 1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
@@ -52,7 +52,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
 ## Lecture 2: Biochemistry
-### July 21 - 28, 2020*
+### July 21 - 28, 2020
 * Eduard Buchner and the founding of biochemistry. 
 	* During a [series of experimnts from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
 	* However, [in 1897](https://en.wikipedia.org/wiki/Eduard_Buchner#Research), Buchner showed that if one took a mass of yeast and crushed all the living cells to death, one could extract dead "yeast juice" that could still perform fermentation. This showed that a nonliving enzyme ([zymaseproduced](https://en.wikipedia.org/wiki/Zymase)) by yeast was responsible for fermentation. 
