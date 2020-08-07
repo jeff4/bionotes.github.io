@@ -159,15 +159,20 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 			* So again, assume A &#8594; B has positive &#916;G (and is not favorable in forward direction).
 			* Assume B &#8594; C has a very negative &#916;G (and is very favorable in forward direction)
 			* Then the overall reaction A &#8594; B &#8594; C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A &#8594; B
-		* Intro to glycolysis: the breaking of sugar. See JH handwritten notes and textbook references:
-			* **Alberts** p.80-83: ATP and NAD<sup>+</sup>/NADH. 
-				* Chapter 14: Mitochondria and Chloroplasts. p. 817 Citric Acid Cycle (fka Krebs Cycle). p. 819 diagram of overall citric acid cycle, Figure 14-10
-			* **Sadava** Chapter 9, p.165 - 182
-				* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide
-				* p. 168: summary diagram of glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
-				* p. 177: more detailed summary of reactants and products for glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
-				* p. 169: detailed chemical diagram from input glucose to output pyruvate
-				* p. 170: diagram of citric acid cycle
+* Intro to glycolysis: the breaking of sugar. See JH handwritten notes and textbook references:
+* asdfadsf
+	* **Alberts** p.80-83: ATP and NAD<sup>+</sup>/NADH. 
+		* Chapter 14: Mitochondria and Chloroplasts. p. 817 Citric Acid Cycle (fka Krebs Cycle). p. 819 diagram of overall citric acid cycle, Figure 14-10
+	* **Sadava** Chapter 9, p.165 - 182
+		* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide
+		* p. 168: summary diagram of glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
+		* p. 177: more detailed summary of reactants and products for glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
+		* p. 169: detailed chemical diagram from input glucose to output pyruvate
+		* p. 170: diagram of citric acid cycle
+* Regulation of pathways. Negative feedback loops aka balancing loops.
+	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A -> B -> C -> D -> E. If/when [E] is too high we want E to act as a regulator to change the performance of the C->D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C -> D reaction.
+* 
+ 
 		
 
 ---
