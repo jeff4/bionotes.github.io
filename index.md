@@ -141,7 +141,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* "Burglar tools" used by influenza virus to exscape the lysosome acidic pH trap.
 
 ## Lecture 5: Glycolysis and pathways
-### August 3, 2020
+### August 3-6, 2020
 * Biochemical pathways in fermentation
 * How does yeast change a hexose sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) into CO<sub>2</sub> and alcohol? Multi-step pathway
 * Energetics of a single reaction
