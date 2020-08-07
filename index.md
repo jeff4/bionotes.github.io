@@ -172,6 +172,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Regulation of pathways. Negative feedback loops aka balancing loops.
 	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A -> B -> C -> D -> E. If/when [E] is too high we want E to act as a regulator to change the performance of the C->D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C -> D reaction. aka **feedback inhibition**
 * In contrast, **feedforward activation** if there is too much reactant and not enough product and we want the mechanism to work faster. This upregulates the activity of the relevant enzymes
+* Cellular respiration and fermentation
+
+## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
+### August 6, 2020
 * 
  
 		
