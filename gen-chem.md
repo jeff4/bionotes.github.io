@@ -15,6 +15,7 @@ permalink: /general-chemistry/
 	* CaCO<sub>3</sub> + 2 HCl (aq) --> CaCl<sub>2</sub> (aq) + *intermediate* **H<sub>2</sub>CO<sub>3</sub>** --> CaCl<sub>2</sub> (aq) + **H<sub>2</sub>O (liquid) + CO<sub>2</sub> (gaseous)**
 
 ### Redox Reactions, p. 151-158 
+* See JH handwritten notes 8/06/2020 for redox diagram which draws on material from: Alberts p.71, Sadava p.167, MSJ p. 151-155, especially the table on MSJ p. 155.
 * p. 152-154, common oxidizing and reducing agents 
 * **LEO** = Oxidation causes Loss of Electrons *aka* **combines with oxygen**
 * **GER** = Reduction causes Gain of Electrons *aka* loss of oxygen from the molecule *aka* **reduces the postive charge**.
