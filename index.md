@@ -138,7 +138,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		1. Hydrogen proton transfer between the oxygens attached to carbon1 and carbon2. (see drawings in JH notes 8/02/2020 to 8/03/2020). Glutamine-165 and Histidine-95 are the residues that make this happen. If the glutamine residue is replaced by similar Asparagine, reaction performs 1000x worse. Note that Glu and Asp sidechains are exactly identical *except*  that Asp has just one more CH<sub>2</sub>  in its chain.
 		2. There is a lid that keeps the triose phosphate reactant/intermediate/product safe from hydrophilic attack by H<sub>2</sub> molecules. Without this lid, the reaction would perform 100,000x worse. 
 		3. Lysine at position 12 is used to create hydrogen bonds that connect to the various oxygens of triose phoshate to stabilize the molecule as the reaciton proceeds. If we use arginine instead of lysine, the reaction performs 200x less efficiently.
-	* "Burglar tools" used by influenza virus to exscape the lysosome acidic pH trap.
+	* "Burglar tools" used by influenza virus to escape the lysosome acidic pH trap.
 
 ## Lecture 5: Glycolysis and pathways
 ### August 3-6, 2020
@@ -169,6 +169,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* p. 177: more detailed summary of reactants and products for glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
 		* p. 169: detailed chemical diagram from input glucose to output pyruvate
 		* p. 170: diagram of citric acid cycle
+	* For detailed handwritten diagram of redox reactions, see JH notes 8/06/2020
 * Regulation of pathways. Negative feedback loops aka balancing loops.
 	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A -> B -> C -> D -> E. If/when [E] is too high we want E to act as a regulator to change the performance of the C->D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C -> D reaction. aka **feedback inhibition**
 * In contrast, **feedforward activation** if there is too much reactant and not enough product and we want the mechanism to work faster. This upregulates the activity of the relevant enzymes
