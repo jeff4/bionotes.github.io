@@ -161,15 +161,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 			* Then the overall reaction A &#8594; B &#8594; C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A &#8594; B
 * Intro to glycolysis: the breaking of sugar. See JH handwritten notes and textbook references:
 	* **Alberts** 
-		* Chapter 2: p.80-83: ATP and NAD<sup>+</sup>/NADH. See detailed 10 step version of glycolysis in Panel 2-8 on p. 120-121. 
+		* Chapter 2: p.80-83: ATP and NAD<sup>+</sup>/NADH. See detailed 10 step version of glycolysis in Panel 2-8 on p. 120-121. **See also JH handwritten notes of this 10-step process August 7-9, 2020** 
 		* Chapter 14: Mitochondria and Chloroplasts. p. 817 Citric Acid Cycle (fka Krebs Cycle). p. 819 diagram of overall citric acid cycle, Figure 14-10
 	* **Sadava** Chapter 9, p.165 - 182
-		* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide
+		* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide. **For best version of Jeff's redox diagram, see JH notes 8/06/2020**
 		* p. 168: summary diagram of glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
 		* p. 177: more detailed summary of reactants and products for glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
 		* p. 169: detailed chemical diagram from input glucose to output pyruvate
 		* p. 170: diagram of citric acid cycle
-	* For detailed handwritten diagram of redox reactions, see JH notes 8/06/2020
 * Regulation of pathways. Negative feedback loops aka balancing loops.
 	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A -> B -> C -> D -> E. If/when [E] is too high we want E to act as a regulator to change the performance of the C->D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C -> D reaction. aka **feedback inhibition**
 * In contrast, **feedforward activation** if there is too much reactant and not enough product and we want the mechanism to work faster. This upregulates the activity of the relevant enzymes
