@@ -351,7 +351,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
-* See Alberts 5th edition below
+* See Alberts 5th edition 
 
 ---
 
@@ -361,6 +361,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
 	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
+* p. **Glycolysis from glucose to pyruvate in 10 detailed steps**. See JH handwritten notes August 7-9, 2020 as well Alberts p. 120-121, Panel 2-8.
 
 ## Chapter 3: Proteins
 * See p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
