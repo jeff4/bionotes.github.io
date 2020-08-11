@@ -65,7 +65,7 @@ permalink: /organic-chemistry/
 |<br>[Phosophate group](http://www.chem.ucla.edu/~harding/IGOC/P/phosphate_group.html)<br>R-**PO<sub>4</sub>** | *Organic phosophates*  | Acidic. Enters dehydration synthesis reactions by giving up -OH. Hydrolysis releases a lot of energy when bonded to another phosphate.                |
 |<br>[Sulfhydryl group](https://en.wikibooks.org/wiki/Structural_Biochemistry/Organic_Chemistry/Organic_Functional_Group/Sulfhydryl)<br>R-**SH**            | *Thiols* like mercaptoethanol                 | Two -SH groups can each give up H and form a disulfide bridge that stabilizes protein structure.                                                      |
 
-<br>
+
 * See Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
 * See also panels about Functional Groups on p. 107 of Alberts 5th Ed.
 * See JH handwritten notes from August 10, 2020
