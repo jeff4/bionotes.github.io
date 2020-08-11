@@ -57,7 +57,7 @@ permalink: /organic-chemistry/
 |-----------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |<br>Hydroxyl<br>**-OH**                |<br> *Alcohols* like ethanol                       |<br>Polar. Hydrogen bonds with water to help dissolve molecules. Enables linkage to other molecules by deydration/condensation synthesis reaction         |
 |<br>[Aldehyde (carbonyl) group](http://dept.harpercollege.edu/chemistry/chm/100/dgodambe/thedisk/qual/9back6.htm)<br>**H-C=O**            | *Aldehydes* like Acetalaldehyde                              | Very reactive and important in building molecules and energy-releasing reactions                                                                      |
-|<br>[Acetyl group](https://en.wikipedia.org/wiki/Acetyl_group)<br>R-**C=O-NH<sub>2</sub>**<br>     | n/a                        | n/a                                                                                     |
+|<br>[Acetyl group](https://en.wikipedia.org/wiki/Acetyl_group)<br> (carbonyl group) R-**C=O-NH<sub>2</sub>**<br>     | n/a                        | n/a                                                                                     |
 |<br>[Ketone (carbonyl) group](https://en.wikipedia.org/wiki/Carbonyl_group)<br>R<sub>2</sub>-**C=O**<br>     | *Ketones* like acetone                        | C=O group is very important in carbohydrates and energy reactions                                                                                     |
 |<br>[Ester (carbonyl) group](https://en.wikipedia.org/wiki/Ester)<br>R-**O-C**(R)**=O**             | [*Carboxylate esters*](https://en.wikipedia.org/wiki/Carbonyl_group#Carbonyl_compounds) like vinyl acetate                      | Derived from an acid where at least one hydroxl group (-OH) is replaced by an -O-alkyl (alkoxy) group. *Glycerides* are fatty acid esters of glycerol. [Usually](https://en.wikipedia.org/wiki/Ester) derived from combining a carboxylic acid and an alcohol.   |
 |<br>[Carboxyl group](https://byjus.com/chemistry/carboxyl-group/)<br>**-COOH**              | *Carboxylic acids* like [acetic acid](https://en.wikipedia.org/wiki/Acetic_acid)           | Acidic. Ionizes in living tissues to form -COO<sup>-</sup> and H<sup>+</sup>. Enters dehydration/condensation reactions by giving up -OH.             |
@@ -68,6 +68,7 @@ permalink: /organic-chemistry/
 <br>
 * See Sadava *Biology* (2014), p. 40 or <a href="https://bio.libretexts.org/Courses/University_of_California_Davis/BIS_2A%3A_Introductory_Biology_(Britt)/Readings/08%3A_Functional_Groups">table at Biology LIbreText</a> 
 * See also panels about Functional Groups on p. 107 of Alberts 5th Ed.
+* See JH handwritten notes from August 10, 2020
 
 ### Names of first several saturated and unsaturated hydrocarbons
 
