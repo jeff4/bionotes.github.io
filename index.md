@@ -182,7 +182,7 @@ Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the
 ## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
 ### August 6, 2020
 * Biography of Mendel, initial pea experiments
-* Definitions of genetic terms
+* Definitions of genetic terms:
  
 		
 
