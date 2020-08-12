@@ -94,10 +94,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### July 25 - 31, 2020
 * Relatively constant planes in peptide with pivot points at the alpha carbons aka the carbons that the -R sidechains hang off of. See also Alberts p. 127
 * Subcategories of the 20 amino acids
-	* **Polar and charged**: Serine, Threonine, Aspargine, Glutamine
+	* **Nonpolar and Noncharged (hydrophobic)**: Alanine, Valine, Methionine (with a sulfur), Leucine, Isoleucine, Phenylalanine, Tyrosine, Tryptophan
+	* **Polar and Uncharged**: Serine, Threonine, Aspargine, Glutamine
 	* **Polar, negatively charged**: Aspartic acid, glutamic acid
 	* **Polar, positively charged**: lysine, arginine, histidine
-	* **Nonpolar (hydrophobic)**: Alanine, Valine, Methionine (with a sulfur), Leucine, Isoleucine, Phenylalanine, Tyrosine, Tryptophan
+	
 	* **Special**:
 		* Glycine very flexible, simple CH<sub>3</sub>
 		* Proline (ring that bonds with the amino group)-- technically an imino acid, not an amino acid.
@@ -182,7 +183,7 @@ Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the
 ## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
 ### August 6, 2020
 * Biography of Mendel, initial pea experiments
-* Definitions of genetic terms:
+* Definitions of genetic terms
  
 		
 
