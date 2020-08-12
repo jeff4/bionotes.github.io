@@ -177,11 +177,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Handwritten notes on 10 steps of glycolysis and NAD<sup>+</sup> &#8594; NADH
 * Drawn from Alberts Chapter 2: p.80-83: ATP and NAD<sup>+</sup>/NADH. See detailed 10 step version of glycolysis in Panel 2-8 on p. 120-121. \
 * See also JH handwritten notes August 7-9, 2020 have detailed drawings of [NAD (Nictonamide Adenine Dinucleotide)](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide) in both oxidized NAD<sup>+</sup> and reduced NADH forms.
-* Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the nucleobase by itself. [Adenosine](https://en.wikipedia.org/wiki/Adenosine) refers to adenine covalently bonded to a ribose sugar like in RNA or in NAD.
+Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the nucleobase by itself. [Adenosine](https://en.wikipedia.org/wiki/Adenosine) refers to adenine covalently bonded to a ribose sugar like in [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate), [NAD](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide), or [RNA](https://en.wikipedia.org/wiki/RNA).
 
 ## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
 ### August 6, 2020
-* 
+* Biography of Mendel, initial pea experiments
+* Definitions of genetic terms
  
 		
 
