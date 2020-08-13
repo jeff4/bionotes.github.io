@@ -362,6 +362,12 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
 * p. **Glycolysis from glucose to pyruvate in 10 detailed steps**. See JH handwritten notes August 7-9, 2020 as well Alberts p. 120-121, Panel 2-8.
+	1. Phosphorylation of glucose to glucose-6-phosphate using ATP #1
+	2. Equilibrium between ring <--> open chain forms of glucose-6-phosphate. Phosphoglucose isomerase then converts glucose to Fructose-6-phosphate. Equilibrium between open chain <--> ring versions of fructose.
+	3.  Phosphorylation of fructose to fructose-1,6-biphosphate using ATP#2
+	4. Equilibrium between ring <--> open chain forms of fructose-1,6-biphosphate. Aldolase converts fructose to DHAP and G3P
+	5. DHAP converted by triose phosphate isomerase to a second molecule of G3P
+	6. Two molecules of G3P use 2 molecules of NAD<sup>+</sup> to be converted to 2 molecules of 1,3-biphosphoglycerate.
 
 ## Chapter 3: Proteins
 * See p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
