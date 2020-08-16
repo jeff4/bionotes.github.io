@@ -189,8 +189,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		
 ## Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
+<del>Lectures 1, 2, 3</del>
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
+<del>Lectures 4, 5</del>
 ### Unit 3: Genetics
+Lectures 6,7
 ### Unit 4: Human and Biochemical Genetics
 ### Unit 5 : Molecular Biology I - DNA Replication
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
