@@ -5,7 +5,7 @@ permalink: /glycolysis/
 
 ## 10 Steps from glucose to pyruvate
 
-Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH handwritten notes August 7-13, 2020,  Alberts p. 120-121 (Panel 2-8), [Lander Lecture 5](/index.html) and table below.
+Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH handwritten notes August 7-13, 2020,  Alberts p. 120-121 (Panel 2-8), [Lander Lecture 5](/index) and table below.
 
 
 | Step   | Primary reactant                                | Enzyme                   | Primary Product                             | Other reactants                | Other products                                                 | Comments                                                                                                                                                                                                                                                                                                                                                              |
