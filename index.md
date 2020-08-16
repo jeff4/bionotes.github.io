@@ -29,7 +29,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 | Animals  | 1,300,000                             | 10M - 100M                               |
 
 ---
-# Notes on MIT 7.00x at EdX
+# Notes on MIT 7.00x at edX
 *Course started: July 14, 2020*
 
 ## Lecture 1: Introduction and the Biochemistry of Life
