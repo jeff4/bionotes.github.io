@@ -187,6 +187,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Definitions of genetic terms
  
 		
+## Checklist
+### <del>Unit 1: Introduction and the Biochemistry of Life</del>
+### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
+### Unit 3: Genetics
+### Unit 4: Human and Biochemical Genetics
+### Unit 5 : Molecular Biology I - DNA Replication
+### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
+### Unit 7: Recombinant DNA
+### Unit 8: Genomics I - Human Genome
+### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
+### Unit 10: Disease, Science, and Society
 
 ---
 
