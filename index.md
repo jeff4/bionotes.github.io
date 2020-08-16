@@ -186,8 +186,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Biography of Mendel, initial pea experiments
 * Definitions of genetic terms
  
-		
-## Checklist
+---		
+# Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
 <del>Lectures 1, 2, 3</del>
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
