@@ -364,7 +364,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 
 ### 10 Steps of Glycolysis
 
-Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH handwritten notes August 7-13, 2020,  Alberts p. 120-121 (Panel 2-8), and this table. 
+Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH handwritten notes August 7-13, 2020,  Alberts p. 120-121 (Panel 2-8), and [this page](/glycolysis). 
 
 
 ## Chapter 3: Proteins
