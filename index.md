@@ -205,11 +205,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Fruit flies and linkage among chromosomes. Thomas Hunt Morgan was a great skeptic and did not trust that people kept inventing "inheritance factors" just to explain new data  a posteri. Should have an a priori model that is then properly tested
 * Pictures of fruitflies with various traits. "+" = "wildtype" phenotype = "wt"
 * See Handwritten notes for multiple generations of wildtype versus mutant flies for Body phenotype: (either dominant **wt** or recessive **black body**) and for Wing phenotype: (either **wt** or recessive **vestigial wing**)
-* Experimentally, TH Morgan found 
-	* 965 parent 1 (wt b * wt vg = heterozygous for both Body and Wing)
-	* 944 parent 2 (bb * vg vg = homozygous recessive for Body, homozygous recessive for Wing)
-	* 206 new recombinant fly (wt b * vg vg = heterozygous for Body and homozygous recessive vestigial wing for Wing)
-	* 105 new recombinant fly ( b b * wt vg = homozygous for recessive black Body and heterozygous for Wing)
+* Experimentally, TH Morgan found among the children of Parent 1 ( wt  b * wt vg) crossed with Parent 2 (b b * vg vg) these children: 
+	* **965 identical to parent 1** (wt b * wt vg = heterozygous for both Body and Wing)
+	* **944 identical to parent 2** (bb * vg vg = homozygous recessive for Body, homozygous recessive for Wing)
+	* **206 new recombinant fly** (wt b * vg vg = heterozygous for Body and homozygous recessive vestigial wing for Wing)
+	* **105 new recombinant fly** ( b b * wt vg = homozygous for recessive black Body and heterozygous for Wing)
  
 ---		
 # Checklist
