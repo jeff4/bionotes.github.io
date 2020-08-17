@@ -196,12 +196,20 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Mendel's Second Law:  Independent Assortment
 * Circa 1890, cytology led to discovery of these mysterious "colored organelles" or colored bodies which were named "chromosomes". Organization of chromoses into bundles used during cell division aka mitosis.
 * Description of Mitosis and Meiosis
-* Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes.
+* Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes???
 
 ## Lecture 7: Meiosis
 ### August 16, 2020
 * During meiosis, homologs
 * Review of Mendelian inheritance versus chromosomal inheritance
+* Fruit flies and linkage among chromosomes. Thomas Hunt Morgan was a great skeptic and did not trust that people kept inventing "inheritance factors" just to explain new data  a posteri. Should have an a priori model that is then properly tested
+* Pictures of fruitflies with various traits. "+" = "wildtype" phenotype = "wt"
+* See Handwritten notes for multiple generations of wildtype versus mutant flies for Body phenotype: (either dominant **wt** or recessive **black body**) and for Wing phenotype: (either **wt** or recessive **vestigial wing**)
+* Experimentally, TH Morgan found 
+	* 965 parent 1 (wt b * wt vg = heterozygous for both Body and Wing)
+	* 944 parent 2 (bb * vg vg = homozygous recessive for Body, homozygous recessive for Wing)
+	* 206 new recombinant fly (wt b * vg vg = heterozygous for Body and homozygous recessive vestigial wing for Wing)
+	* 105 new recombinant fly ( b b * wt vg = homozygous for recessive black Body and heterozygous for Wing)
  
 ---		
 # Checklist
