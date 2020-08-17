@@ -210,6 +210,22 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* **944 identical to parent 2** (bb * vg vg = homozygous recessive for Body, homozygous recessive for Wing)
 	* **206 new recombinant fly** (wt b * vg vg = heterozygous for Body and homozygous recessive vestigial wing for Wing)
 	* **105 new recombinant fly** ( b b * wt vg = homozygous for recessive black Body and heterozygous for Wing)
+
+### Linkage Maps
+
+* In 1911, 19-year-old Columbia undergraduate [Alfred H. Sturtevant](https://en.wikipedia.org/wiki/Alfred_Sturtevant) took the *frequency of recombination* ratio data home from the Morgan fruit fly lab and created the [first genetic linkage maps](https://en.wikipedia.org/wiki/Genetic_linkage).
+* "The recombination frequency equals the number of recombinants divided by the total progeny times 100. A longer distance between two genes increases the chance of crossover between two genes. A recombination frequency between 0 and 50 indicates that the genes are located on the same chromosome. Genes that are far apart on the same chromosome or lie on different chromosomes show a recombination frequency of 50%. Since the most extreme case of un-linkage is independent assortment, which gives 50% recombinant offspring, the maximum value for the recombination frequency is 50%."
+* the recessive traits black body and vestigial wing assort together about 17% of the time.
+* Sturtevant is doing "pairwise" aka 2-factor crosses for 2 different genes
+* Further, let's consider a **3-factor cross**. How many gametes are possible when 2 parents mate when one considers three phenotopic traits (aka 3 genes)? Answer is 8 = 2<sup>3</sup>.
+
+### Linkage Mapping
+* Sample drosophila mutations: [Antennapedia](https://en.wikipedia.org/wiki/Antennapedia) and [Double Wing aka Ultrabithorax](https://en.wikipedia.org/wiki/Ultrabithorax)
+ * Test question on Linkage Mapping: "The maximum recombination frequency seen between any two genes on the same chromosome is about 50%. Why this is the case?"
+	* *Answer:* Imagine a case where the two genes are located on different chromosomes, so that during meiosis the segregation of alleles of one gene is completely independent of the alleles of the other gene (this is stated in Mendel's Second Law and is known as the law of independent assortment). On average, you would see the parental arrangement 50% of the time. When the two genes are far apart on the same chromosome, there can be 1, 2, 3, or more recombination events between the two genes. In this case, it is random whether there will be an even or odd number of recombination events, so on average, you would see the parental arrangement 50% of the time.
+ 
+### Sex-linked traits
+* See notes on Mac bionotes directory including *.png screenshot. Also see supplemental  [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc. by Michelle, MIT PhD student studying meiosis 
  
 ---		
 # Checklist
