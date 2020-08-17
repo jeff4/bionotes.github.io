@@ -211,11 +211,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 3: Genetics
 <del>Lectures 6</del>, 7
 ### Unit 4: Human and Biochemical Genetics
-Lectures 8,9
+Lectures 8, 9
 ### Unit 5 : Molecular Biology I - DNA Replication
-Lectures 10,11
+Lectures 10, 11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
-Lectures 12,13, 14
+Lectures 12, 13, 14
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
 ### Unit 8: Genomics I - Human Genome
