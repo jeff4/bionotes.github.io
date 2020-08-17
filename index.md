@@ -227,6 +227,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Sex-linked traits
 * See notes on Mac bionotes directory including *.png screenshot. Also see supplemental  [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc. by Michelle, MIT PhD student studying meiosis 
  
+## Lecture 8: Basics of Human Genetics
+ ### August 17, 2020
+ 
 ---		
 # Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
