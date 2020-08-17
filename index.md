@@ -182,7 +182,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the nucleobase by itself. [Adenosine](https://en.wikipedia.org/wiki/Adenosine) refers to adenine covalently bonded to a ribose sugar like in [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate), [NAD](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide), or [RNA](https://en.wikipedia.org/wiki/RNA).
 
 ## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
-### August 6, 2020
+### August 6-15, 2020
 * Biography of Mendel, initial pea experiments
 * Definitions of genetic terms
 	* Gene: discrete factors of inheritance
@@ -199,6 +199,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes.
 
 ## Lecture 7: Meiosis
+### August 16, 2020
 * During meiosis, homologs
 * Review of Mendelian inheritance versus chromosomal inheritance
  
