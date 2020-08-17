@@ -185,6 +185,22 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### August 6, 2020
 * Biography of Mendel, initial pea experiments
 * Definitions of genetic terms
+	* Gene: discrete factors of inheritance
+	* Allele: Alternative versions of a gene, e.g., A vs. a
+	* Genotype: The two alleles carried by an organism
+	* Homozygote: Two of the same allele. e.g., AA or aa
+	* Heterozygote: Two different alleles in a genotype, e.g., Aa
+	* Phenotype: External appearance or trait. 
+* Important distinction. There are **no such things as dominant and recessive alleles**. ONLY dominant versus recessive phenotypic traits. Especially important because the same gene can contribute to multiple traits, some of which are dominant and some of which are recessive.
+* Error in video lecture. Prof. Lander says that green is dominant to yellow color in pea pants. It's actually the reverse; yellow pea color is dominant vs. green peas
+* Mendel's Second Law:  Independent Assortment
+* Circa 1890, cytology led to discovery of these mysterious "colored organelles" or colored bodies which were named "chromosomes". Organization of chromoses into bundles used during cell division aka mitosis.
+* Description of Mitosis and Meiosis
+* Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes.
+
+## Lecture 7: Meiosis
+* During meiosis, homologs
+* Review of Mendelian inheritance versus chromosomal inheritance
  
 ---		
 # Checklist
@@ -193,15 +209,21 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 ### Unit 3: Genetics
-Lectures 6,7
+<del>Lectures 6</del>, 7
 ### Unit 4: Human and Biochemical Genetics
+Lectures 8,9
 ### Unit 5 : Molecular Biology I - DNA Replication
+Lectures 10,11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
+Lectures 12,13, 14
 ### Unit 7: Recombinant DNA
+Lectures 15, 16, 17
 ### Unit 8: Genomics I - Human Genome
+Lectures 18, 19
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
+Lectures 20, 21
 ### Unit 10: Disease, Science, and Society
-
+Lectures 22, 23, 24
 ---
 
 # Miscellaneous notes
