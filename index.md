@@ -224,11 +224,20 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  * Test question on Linkage Mapping: "The maximum recombination frequency seen between any two genes on the same chromosome is about 50%. Why this is the case?"
 	* *Answer:* Imagine a case where the two genes are located on different chromosomes, so that during meiosis the segregation of alleles of one gene is completely independent of the alleles of the other gene (this is stated in Mendel's Second Law and is known as the law of independent assortment). On average, you would see the parental arrangement 50% of the time. When the two genes are far apart on the same chromosome, there can be 1, 2, 3, or more recombination events between the two genes. In this case, it is random whether there will be an even or odd number of recombination events, so on average, you would see the parental arrangement 50% of the time.
  
-### Sex-linked traits
-* See notes on Mac bionotes directory including *.png screenshot. Also see supplemental  [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc. by Michelle, MIT PhD student studying meiosis 
+* **Sex-linked traits** See notes on Mac bionotes directory including *.png screenshot. 
+
+ 
+### Meiosis review by PhD student Michelle
+ * Diploid number refers to the number of total chromosomes = 2n where n refers to the number of pairs. e.g., human beings have n = 23 for **23 pairs of chromosomes**. So humans diploid number = 2n = 2 * 23 = **46 chromosomes** where each chromosome has a **homologous** "semi-duplicate" chromosome with the same genes but possibly different alleles at each gene loci. 
+ * See also supplemental [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc.  
+ 
+
  
 ## Lecture 8: Basics of Human Genetics
- ### August 17, 2020
+### August 17, 2020
+ 
+ 
+ 
  
 ---		
 # Checklist
@@ -237,7 +246,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 ### Unit 3: Genetics
-<del>Lectures 6</del>, 7
+<del>Lectures 6, 7</del>
 ### Unit 4: Human and Biochemical Genetics
 Lectures 8, 9
 ### Unit 5 : Molecular Biology I - DNA Replication
