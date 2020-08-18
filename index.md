@@ -245,7 +245,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 <del>Lectures 1, 2, 3</del>
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
-### Unit 3: Genetics
+### <del>Unit 3: Genetics</del>
 <del>Lectures 6, 7</del>
 ### Unit 4: Human and Biochemical Genetics
 Lectures 8, 9
@@ -261,6 +261,7 @@ Lectures 18, 19
 Lectures 20, 21
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
+
 ---
 
 # Miscellaneous notes
