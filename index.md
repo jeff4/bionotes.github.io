@@ -235,11 +235,33 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  
 ## Lecture 8: Basics of Human Genetics
 ### August 17, 2020
+
+### X-linked Recessive Inheritance. 
+ * All men who receive this mutation express it. Women can be carriers or only express trait if they are homozygous recessive on both X chromosomes. Examples: red-green color blindness, hemophilia. Rules include:
+	 * Predominantly affects males because women are only affected when they inherit allele on both of their X chromosomes.
+	 * Affected men do not pass this trait on to sons unless man mates with a woman who has the recessive allele. (b/c sons will always get their X chromosome from their mom.) This characteristic is what led to the idea of traits "skipping a generation"
+	 * A woman who is a carrier who has sons will see this trait show up in 50% of her sons.
+	 * A woman who is affected by this trait is homozygous recessive (+/+) will pass this trait onto 100% of her sons.
+ * Population genetics. Relationship between phenotype and mutant allele. E.g., red-green color blindness occurs in 8% of the male popuation. This means that 8% of all X chromosomes have this allele. Allele frequence = 8%.
+
+### Autosomal dominant inheritance
+ * Autosome = chromosomes that are not sex chromosomes. Humans have 22 pairs of autosomes, 1 pair of sex chromosomes.
+ * Autosomal dominant inherited traits. Example: [Huntington's disease](https://en.wikipedia.org/wiki/Huntington%27s_disease). Population frequency is quite low: ~5 in 100,000 people have Huntington's. 
+ * Another example: Familial hypercholesterolemia aka FH affects 1 in 500 people. Using a Punnett Square / [Hardy-Weinberg](https://en.wikipedia.org/wiki/Hardy–Weinberg_principle) quadratic equation, we can derive that this allele will occur in roughly 2q aka ~1 in 1000 chromosomes
+ * Rules
+	 * 50% of offspring are affected
+	 * Affects all genders equally
+	 * Unaffected never transmits
+	 * Never "skips a generation"
+	 * If a parent is homozygous for this mutant dominant allele, that means that 100% of their offspring will have express this trait.
  
  
+## Lecture 9: Biochemical Genetics
+### August 22, 2020 
  
  
 ---		
+
 # Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
 <del>Lectures 1, 2, 3</del>
