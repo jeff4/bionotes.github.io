@@ -353,6 +353,15 @@ See illustration on p. 251; all the species in the same row have the same color 
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 * See Alberts 5th edition 
 
+
+## Chapter 12: Inheritance, Genes, Chromosomes (p. 232 - 258)
+* p. 234 - Character is a phenotypic attribute and a trait is a particular value for that attribute.
+* A gene can have more than 2 alleles in the population. Example of the C gene in rabbits that determines rabbit coat color (p. 242):
+	* The dominant wild-type *C* allele produces a dark gray coat
+	* *c<sup>chd</sup>* recessive allele produces a [Chinchilla coat](https://en.wikipedia.org/wiki/Chinchilla_rabbit)
+	* *c<sup>h</sup>* recessive allele produces a Himalayan coat aka [point coloration](https://en.wikipedia.org/wiki/Point_coloration#In_rabbits_and_rodents) where color is restricted to ears, feet, and other tips.
+	* *c* recessive allele produces an [albino rabbit](https://www.cuteness.com/article/albino-rabbits) with white fur
+
 ---
 
 # Molecular Biology of the Cell
