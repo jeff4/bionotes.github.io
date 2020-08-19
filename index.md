@@ -234,7 +234,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
  
 ## Lecture 8: Basics of Human Genetics
-### August 17, 2020
+### August 17-18, 2020
 
 ### X-linked Recessive Inheritance. 
  * All men who receive this mutation express it. Women can be carriers or only express trait if they are homozygous recessive on both X chromosomes. Examples: red-green color blindness, hemophilia. Rules include:
@@ -254,11 +254,33 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	 * Unaffected never transmits
 	 * Never "skips a generation"
 	 * If a parent is homozygous for this mutant dominant allele, that means that 100% of their offspring will have express this trait.
+ * Breast cancer for example of penetrance and sex-limited traits.
+	 * Full penetrance of a dominant trait. Huntington's and FH are full penetrance.There can be incomplete penetrance of a dominant trait. Breast cancer in the form of both BRCA1 (chromosome 17) and BRCA2 (chromosome 13) are examples of incomplete penetrance. About 60% of the women who have either allele will develop breast cancer (not 100% which we would expect for an automsomal domaninant full penetrance type gene).
+	 * Also, males still exhibit some incidence of breast cancer, at 1% for male carriers of BRCA1 and 6.5% for male carriers of BRCA2. This is a *sex-limited* disease.
+ 
+### Autosomal recessive inheritance
+* Rules: (1) Trait does not appear in every generation (illusion of "skipping a generation"). (2) Parents of affected children generally are not affected.
+* Example of cystic fibrosis. About 1 in 2000 chromosomes have this mutant allele which produces the recessive trait of CF. aka q<sup>2</sup> = 1/2000. So the % of the population that has CF is q= square root (1/2000) aka q = about 1/44. about 1/22 of people are carriers for CF allele on chromosome 7.
+* Predicted Mendelian ratio is that two carrier parents should have 1/4 of their offspring exhibit CF. However, the observed ratio was 1/3. The reason was because humans have small families and so there was an *undercounting* of families that should include people with CF allele. If humans typicially had 1000 children per family, the expected ratio of 1/4 would probably be observed.
+
+
+### How Real Human Genetics differs from the simple rules in intro biology textbooks
+* Example of [Charles Davenport](https://en.wikipedia.org/wiki/Charles_Davenport) who produced a [pedigree chart](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-pedigrees/a/hs-pedigrees-review) that claimed that the tendency of people to become sea captains conformed to Mendelian genetics. This was called [thalassophilia](https://dnalc.cshl.edu/view/15914-Thalassophilia-pedigree.html).
+* Example of early 20th-century scientists who thought that [pellagra](https://en.wikipedia.org/wiki/Pellagra) was inherited rather than caused by poverty and malnutrition.
+* Important to be careful!
+
+### Archibald Garrod and Alkaptonuria
+* In early 20th century London. [Alkaptonuria](https://en.wikipedia.org/wiki/Alkaptonuria) = "black urine" in infants. In 8 of the 17 cases, the affected children were the result of first cousin marriages. If only 1 grandparent has a single Alkaptonuria allele (which expresses a recessive trait), and assuming that the spouses who marry into the family in the F1 generation are 100% wildtype, and assuming that first cousins in the F2 generation intermarry, then there is a 1/16 chance that the great-grandchildren born in the F3 generation will be homozygous for the alkap allele and express the recessive trait.
+* Next Dr. Garrod studied the chemical compound in the urine that turns things black in air is [homogentisic acid (HGA)](https://en.wikipedia.org/wiki/Homogentisic_acid). The oxidation of HGA creates this black color. The phenol ring looks like amino acids phenylalanine and tyrosine. Experimentally, when Garrod fed these babies extra protein, extra phenylalanine, and extra tyrosine, more HGA was produced.
+* He knows that in  wildtype human digestion, protein is broken down into --> amino acids (like Phe, Tyr) --> homogentisic acid (HGA) --> further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
+
+### Josh and Pedigree Analysis
+
  
  
-## Lecture 9: Biochemical Genetics
-### August 22, 2020 
- 
+## Lecture 9: Genetic basis of biochemistry
+### August 18, 2020 
+*  
  
 ---		
 
@@ -268,9 +290,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 ### <del>Unit 3: Genetics</del>
-<del>Lectures 6, 7</del>
+<del>Lectures 6, 7</del>  *watch final grad student video on meiosis for lecture 7*
 ### Unit 4: Human and Biochemical Genetics
-Lectures 8, 9
+<del>Lectures 8,</del> 9 *watch final grad student video on pedegrees for lecture 8*
 ### Unit 5 : Molecular Biology I - DNA Replication
 Lectures 10, 11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
