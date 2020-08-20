@@ -199,7 +199,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes???
 
 ## Lecture 7: Meiosis
-### August 16, 2020
+### August 16-18, 2020
 * During meiosis, homologs
 * Review of Mendelian inheritance versus chromosomal inheritance
 * Fruit flies and linkage among chromosomes. Thomas Hunt Morgan was a great skeptic and did not trust that people kept inventing "inheritance factors" just to explain new data  a posteri. Should have an a priori model that is then properly tested
@@ -275,12 +275,24 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * He knows that in  wildtype human digestion, protein is broken down into --> amino acids (like Phe, Tyr) --> homogentisic acid (HGA) --> further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
 
 ### Josh Meisel and Pedigree Analysis
-* Meisel, former PhD student at Dennis Kim C. elegans lab at MIT and current postdoc in [Vamsi Mootha's mitochondria lab](http://mootha.med.harvard.edu/members.html) at Harvard Medical School. 
+* Meisel, C. elegans and infectious bacteria PhD advised by [Dennis Kim](http://kimlab.mit.edu/people.html) and  current postdoc in [Vamsi Mootha's mitochondria lab](http://mootha.med.harvard.edu/members.html) at Harvard Medical School. 
  
  
 ## Lecture 9: Genetic basis of biochemistry
-### August 18, 2020 
-*  
+### August 19, 2020 
+*  [George Beadle](https://en.wikipedia.org/wiki/George_Beadle) and [Edward Tatum](https://en.wikipedia.org/wiki/Edward_Tatum) work. After a lot of frustrating work with the chimeric eyes of mutant drosphila, they switched to a model organism [Neurospora](https://en.wikipedia.org/wiki/Neurospora), single celled fungus.
+* For purposes of today's lecture, Lander will instead talk about Saccharomyces cerevisiae ([S.cerevisiae](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)) common baker's yeast.
+* S. cerevisiae are true eukaryotes. 2n = 16 pairs of chromosomes. n = 32 total chromosomes, counting homologous.
+	* Diploid cells undergo mitosis.
+	* Also, yeast diploid cells (with 2n chromosomes each) can undergo meiosis to create haploid gametes (with n chromosomes each) that can mate like humans, producing F1 cells with diploid chromosomes again.
+	* Finally (unlike humans), yeast gametes can themselves undergo mitosis without need for mating etc.
+* Auxotrophs vs. prototrophs
+* Esther Lederberg makeup compact to do replica plating. Much more efficient than individual scrapings of yeast colonies with a toothpick
+* Prefer to screen potential mutants using haploid cells because they can determine a mutant allele whether it is dominant or recessive. Using diploid yeast would only pick up dominant allele.
+* Haploinsufficiency
+* Characterizing mutants test #1: Dominant or Recessive?
+	* Simple cross with a wildtype haploid through mating. 
+	
  
 ---		
 
@@ -292,7 +304,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 3: Genetics</del>
 <del>Lectures 6, 7 *including final PhD student Michellevideo on recombination dureing meiosis per [Barbara McClintock's work on corn](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
 ### Unit 4: Human and Biochemical Genetics
-<del>Lectures 8,</del> 9 *watch final grad student video on pedegrees for lecture 8*
+<del>Lectures 8,</del> **9** *watch final Meisel PhD video on pedegrees for lecture 8*
 ### Unit 5 : Molecular Biology I - DNA Replication
 Lectures 10, 11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
