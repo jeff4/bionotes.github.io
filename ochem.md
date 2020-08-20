@@ -96,7 +96,7 @@ permalink: /organic-chemistry/
 ### Miscellaneous notes: other textbooks
 * List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) taught by Dr. Sarah Tabacco and Prof. Barbara Imperiali used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade.
-	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/.
+	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/).
 	* I think this course appeals to me more, starts with discussion of Resonance, etc.
 * MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) taught by Dr. Kimberly Berkowski and Prof. Sarah O'Connor used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
 	* Set of lecture notes, including some garish powerpoint slides, [here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/lecture-handouts/).
