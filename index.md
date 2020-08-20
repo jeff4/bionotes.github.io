@@ -274,8 +274,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Next Dr. Garrod studied the chemical compound in the urine that turns things black in air is [homogentisic acid (HGA)](https://en.wikipedia.org/wiki/Homogentisic_acid). The oxidation of HGA creates this black color. The phenol ring looks like amino acids phenylalanine and tyrosine. Experimentally, when Garrod fed these babies extra protein, extra phenylalanine, and extra tyrosine, more HGA was produced.
 * He knows that in  wildtype human digestion, protein is broken down into --> amino acids (like Phe, Tyr) --> homogentisic acid (HGA) --> further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
 
-### Josh and Pedigree Analysis
-
+### Josh Meisel and Pedigree Analysis
+* Meisel, former PhD student at Dennis Kim C. elegans lab at MIT and current postdoc in [Vamsi Mootha's mitochondria lab](http://mootha.med.harvard.edu/members.html) at Harvard Medical School. 
  
  
 ## Lecture 9: Genetic basis of biochemistry
@@ -290,7 +290,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 ### <del>Unit 3: Genetics</del>
-<del>Lectures 6, 7</del>  *watch final grad student video on meiosis for lecture 7*
+<del>Lectures 6, 7 *including final PhD student Michellevideo on recombination dureing meiosis per [Barbara McClintock's work on corn](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
 ### Unit 4: Human and Biochemical Genetics
 <del>Lectures 8,</del> 9 *watch final grad student video on pedegrees for lecture 8*
 ### Unit 5 : Molecular Biology I - DNA Replication
