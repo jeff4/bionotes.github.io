@@ -319,7 +319,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 4: Human and Biochemical Genetics
 * <del>Lectures 8, 9
-* Watch lecture 8 final video clip of Meisel PhD video on pedegree analysis
+* Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
 * **Finish problem set for Unit 4**
 
 ### Unit 5 : Molecular Biology I - DNA Replication
