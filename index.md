@@ -279,7 +279,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  
  
 ## Lecture 9: Genetic basis of biochemistry
-### August 19, 2020 
+### August 19-20, 2020 
 *  [George Beadle](https://en.wikipedia.org/wiki/George_Beadle) and [Edward Tatum](https://en.wikipedia.org/wiki/Edward_Tatum) work. After a lot of frustrating work with the chimeric eyes of mutant drosphila, they switched to a model organism [Neurospora](https://en.wikipedia.org/wiki/Neurospora), single celled fungus.
 * For purposes of today's lecture, Lander will instead talk about Saccharomyces cerevisiae ([S.cerevisiae](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)) common baker's yeast.
 * S. cerevisiae are true eukaryotes. 2n = 16 pairs of chromosomes. n = 32 total chromosomes, counting homologous.
@@ -305,6 +305,28 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Interesting [history](https://en.wikipedia.org/wiki/Epistasis#History) about how the idea of epistasis has evolved from the early days of genetics in the first decades of the 20th century.
 * Ryan, PhD video on lab techniques with S. cerevisiae
  
+## Lecture 10: Intro to DNA
+### August 20-22, 2020 
+* [Frederick Griffith's](https://en.wikipedia.org/wiki/Frederick_Griffith) search for the "S-Transforming Principle". 
+	* Griffith's [S. pneumoniae bacteria](https://en.wikipedia.org/wiki/Streptococcus_pneumoniae) experiments with [rough vs smooth bacteria](https://en.wikipedia.org/wiki/Griffith%27s_experiment) infecting mice.
+	* "The Transforming Principle" aka alchemical substance.  
+	* Pnuemococcus caused 50% of the deaths in the Great Influenza of 1918-1920
+* [Oswald Avery, Colin MacCleod, and Maclyn McCarty experiments](https://en.wikipedia.org/wiki/Avery–MacLeod–McCarty_experiment)
+	* Through repeated purification of the S-transforming principles, eliminated protein, eliminated proteins, etc. All they are left with is DNA. In 1943, publish the paper claiming that DNA is the hereditary material. People don't believe it b/c reviewers worry that there was protein contamination b/c DNA seemed to be too simple to be the hereditary material.
+* Structure of DNA
+	* Pentose deoxyribose is missing a hydroxyl at the 2'-carbon.
+	* Bases. Purines (A, G) have 2 carbon rings. Pyramidines (T, C) have 1 carbon ring. These bases are connected to the 1'-carbon of deoxyribose
+* [Al Hershey and Barbara Chase experiments](https://en.wikipedia.org/wiki/Hershey–Chase_experiment) on E. coli bacteriophage viruses. 
+	* Uniquely tagged protein with radioactive isotopes of sulfur. Since DNA doesn't have sulfur, DNA will *not* be radioactively tagged.
+	* Alternately, DNA has phosphorus atoms but if you choose the right proteins, amino acids do not.
+* Now, there are two converging lines of evidence that DNA is the genetic material: Avery-MacCleod-MacCarty experiments and Hershey-Chase experiments.
+* [Erwin Chargaff](https://en.wikipedia.org/wiki/Erwin_Chargaff) did a lot of experiments and formulated [Chargaff's rules](https://en.wikipedia.org/wiki/Chargaff's_rules), which indicates that the number of A = T and C = G regardless of what species examined.
+* Linus Pauling's proposed triple axis model for DNA structure has phosphates in the center axis which can't work b/c they are all strongly negative and will repel each other.
+
+## Lecture 11: DNA Replication
+*
+ 
+ 
 ---		
 
 # Checklist
@@ -315,15 +337,18 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### <del>Unit 3: Genetics including meiosis</del>
 * <del> Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
-* **Finish problem set for Unit 3**
+* **Finish problem set for Unit 3: Genetics I**
 
 ### Unit 4: Human and Biochemical Genetics
 * <del>Lectures 8, 9
 * Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
-* **Finish problem set for Unit 4**
+* **Finish problem set for Unit 4: Genetics II**
 
 ### Unit 5 : Molecular Biology I - DNA Replication
-Lectures 10, 11
+* <del>Lecture 10</del>
+* Finish final three animated video clips for lecture 10
+* Lecture 11
+
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
 Lectures 12, 13, 14
 ### Unit 7: Recombinant DNA
