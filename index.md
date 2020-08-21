@@ -292,12 +292,18 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Haploinsufficiency
 * Characterizing mutants test #1: Dominant or Recessive?
 	* Simple cross with a wildtype haploid through mating.
-*  Complementation Test
+*  Test #2: Find complementation groups
+	* Definition of [complementation](https://bio.libretexts.org/Bookshelves/Genetics/Book%3A_Working_with_Molecular_Genetics_(Hardison)/Unit_I%3A_Genes%2C_Nucleic_Acids%2C_Genomes_and_Chromosomes/1%3A_Fundamental_Properties_of_Genes/1.4%3A_Complementation_and_Recombination): "the ability of two mutants in combination to restore a wildtype phenotype". Meanwhile, "dominance in a heterozygote indicates the ability of a wildtype allel to complement loss-of-function alleles.
 	* Start with 50 different mutants of yeast; none of them can produce arginine. They are all called "arginine [auxotrophs](https://en.wikipedia.org/wiki/Auxotrophy)". 
 	* Cross some of them to clarify if these mutants are based on one or multiple genes.
 	* Doubly heterozygous aka "double het". 
 	* Gene that makes arginine is called arg1 which may have various mutations: m1, m2, m3.
 	* A second gene that contributes to the production of arginine is called arg2
+	* Failure to complement means that two mutants are on the same gene. B/c a successful complementation means that one of them is a dominant allele on the same gene. 
+* Test #3: [Epistasis](https://en.wikipedia.org/wiki/Epistasis) Test
+	* Mutations in a sequential biochemical pathway to indicate which enzymes are affected.
+	* Interesting [history](https://en.wikipedia.org/wiki/Epistasis#History) about how the idea of epistasis has evolved from the early days of genetics in the first decades of the 20th century.
+* Ryan, PhD video on lab techniques with S. cerevisiae
  
 ---		
 
@@ -307,9 +313,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 ### <del>Unit 3: Genetics including meiosis</del>
-<del>Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
+* <del> Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
+* **Finish problem set for Unit 3**
 ### Unit 4: Human and Biochemical Genetics
-<del>Lectures 8,</del> **9** *watch final Meisel PhD video on pedegrees for lecture 8*
+* <del>Lectures 8, 9
+* Watch lecture 8 final video clip of Meisel PhD video on pedegree analysis
+* **Finish problem set for Unit 4**
 ### Unit 5 : Molecular Biology I - DNA Replication
 Lectures 10, 11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
