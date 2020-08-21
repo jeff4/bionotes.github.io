@@ -312,13 +312,16 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 <del>Lectures 1, 2, 3</del>
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
+
 ### <del>Unit 3: Genetics including meiosis</del>
 * <del> Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
 * **Finish problem set for Unit 3**
+
 ### Unit 4: Human and Biochemical Genetics
 * <del>Lectures 8, 9
 * Watch lecture 8 final video clip of Meisel PhD video on pedegree analysis
 * **Finish problem set for Unit 4**
+
 ### Unit 5 : Molecular Biology I - DNA Replication
 Lectures 10, 11
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
