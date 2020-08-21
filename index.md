@@ -291,8 +291,13 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Prefer to screen potential mutants using haploid cells because they can determine a mutant allele whether it is dominant or recessive. Using diploid yeast would only pick up dominant allele.
 * Haploinsufficiency
 * Characterizing mutants test #1: Dominant or Recessive?
-	* Simple cross with a wildtype haploid through mating. 
-	
+	* Simple cross with a wildtype haploid through mating.
+*  Complementation Test
+	* Start with 50 different mutants of yeast; none of them can produce arginine. They are all called "arginine [auxotrophs](https://en.wikipedia.org/wiki/Auxotrophy)". 
+	* Cross some of them to clarify if these mutants are based on one or multiple genes.
+	* Doubly heterozygous aka "double het". 
+	* Gene that makes arginine is called arg1 which may have various mutations: m1, m2, m3.
+	* A second gene that contributes to the production of arginine is called arg2
  
 ---		
 
@@ -301,8 +306,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 <del>Lectures 1, 2, 3</del>
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
-### <del>Unit 3: Genetics</del>
-<del>Lectures 6, 7 *including final PhD student Michellevideo on recombination dureing meiosis per [Barbara McClintock's work on corn](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
+### <del>Unit 3: Genetics including meiosis</del>
+<del>Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
 ### Unit 4: Human and Biochemical Genetics
 <del>Lectures 8,</del> **9** *watch final Meisel PhD video on pedegrees for lecture 8*
 ### Unit 5 : Molecular Biology I - DNA Replication
