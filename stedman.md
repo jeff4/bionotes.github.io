@@ -23,6 +23,9 @@ Viewed: August 21, 2020*
 | Eukarya > Vertebrata | [Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)                           | ~1,500              | ~22,600    | zebrafish                                                                             |
 | Eukarya > Vertebrata | [Mus musculus](https://en.wikipedia.org/wiki/House_mouse)                        | ~3,500              | ~22,600    |                                                                                       |
 | Eukarya > Vertebrata | Homo sapiens sapiens                                                             | ~3,500              | ~22,400    |                                                                                       |
+
+---
+
 thermophilic, extremopbilic, and [thermoacidophile](https://en.wikipedia.org/wiki/Thermoacidophile)	 
 
 ## Molecular Biology Bi334 Winter 2017 video links
