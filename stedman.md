@@ -13,8 +13,11 @@ permalink: /stedman/
 
 
 
+### Lecture 2
+* Model organisms
+
 ## Molecular Biology Bi334 Winter 2017
-* [Lecture 1](https://youtu.be/BU_-o4g6WeE)
+* <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
 * [Lecture 2](https://youtu.be/H1egC1mxXZg)
 * [Lecture 3](https://youtu.be/e4E9kQPks9k)
 * [Lecture 4](https://youtu.be/y2s9L4WJYN0)
