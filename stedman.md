@@ -21,9 +21,9 @@ Viewed: August 21, 2020*
 | Eukarya              | [C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)               | 130                 | ~21000     | exactly 959 cells                                                                     |
 | Eukarya              | [Arabidopsis thaliana](https://en.wikipedia.org/wiki/Arabidopsis_thaliana)       | ~220                | ~26,000    | mustard plant                                                                         |
 | Eukarya              | [Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster) | ~200                | ~15,000    |                                                                                       |
-| Eukarya > Vertebrata | [Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)                           | ~1,500              | ~22,600    | zebrafish                                                                             |
-| Eukarya > Vertebrata | [Mus musculus](https://en.wikipedia.org/wiki/House_mouse)                        | ~3,500              | ~22,600    |                                                                                       |
-| Eukarya > Vertebrata | Homo sapiens sapiens                                                             | ~3,500              | ~22,400    |                                                                                       |
+| Eukarya  | [Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)                           | ~1,500              | ~22,600    | zebrafish vertebrate                                                                 |
+| Eukarya  | [Mus musculus](https://en.wikipedia.org/wiki/House_mouse)                        | ~3,500              | ~22,600    | mouse vertebrate                                                      |
+| Eukarya  | Homo sapiens sapiens                                                             | ~3,500              | ~22,400    |     human  vertebrate                                                                  |
 
 ---
 
