@@ -22,7 +22,7 @@ permalink: /stedman/
 * [Lecture 6](https://youtu.be/aVJeKqS4yus)
 * [Lecture 7](https://youtu.be/YsBjFEc_9jo)
 * [Lecture 8](https://youtu.be/OzkeLDYh0DE)
-* [Review #1](https://youtu.be/0zHWCewKUCU)
+* [**Review #1**](https://youtu.be/0zHWCewKUCU)
 * [Lecture 9](https://youtu.be/deuMy31kP7M)
 * [Lecture 10](https://youtu.be/qkw0Dl8vq5Q)
 * [Lecture 11](https://youtu.be/nYRv9g84yIc)
@@ -31,7 +31,7 @@ permalink: /stedman/
 * [Lecture 14](https://youtu.be/F7MOTQnpVZ0)
 * [Lecture 15](https://youtu.be/OalDTaImVSY)
 * [Lecture 16](https://youtu.be/N_J2RjTNZCk)
-* [Review #2](https://youtu.be/5lkNFM4DA6k)
+* [**Review #2**](https://youtu.be/5lkNFM4DA6k)
 * [Lecture 17](https://youtu.be/Ttb3Cb1G998)
 * [Lecture 18](https://youtu.be/J9T-PrMo_nA)
 * [Lecture 19](https://youtu.be/x5CmjNEesNo)
@@ -40,5 +40,5 @@ permalink: /stedman/
 * [Lecture 22](https://youtu.be/xXY2I0uijpA)
 * Lecture 23 is missing?? This is the MB Winter 2015 version of [lecture 23](https://youtu.be/AKahJ3RX7fE).
 * [Lecture 24](https://youtu.be/AbSmjBgt3e4)
-* [Review #3](https://youtu.be/lvT40Zcu3eY)
+* [**Review #3**](https://youtu.be/lvT40Zcu3eY)
 
