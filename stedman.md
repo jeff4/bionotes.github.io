@@ -13,21 +13,18 @@ permalink: /stedman/
 Viewed: August 21, 2020*
 #### Model organisms (23:25)
 
-| Domain               | Species                                                                          | # of base pairs (M) | # of genes | Notes
-|----------------------|----------------------------------------------------------------------------------|---------------------|------------|---------------------------------------------------------------------------------------|
-| Bacteria             | [E. coli](https://en.wikipedia.org/wiki/Escherichia_coli)                        | 4.6                 | 4,289      |                                                                                       |
-| Archaea              | [Sulfolobus solfataricus](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) | 3                   | 2,977      | extremopbilic and [thermoacidophilic](https://en.wikipedia.org/wiki/Thermoacidophile) |
-| Eukarya              | [S. cerevisiae](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)          | 12                  | ~6,300     |                                                                                       |
-| Eukarya              | [C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)               | 130                 | ~21000     | exactly 959 cells                                                                     |
-| Eukarya              | [Arabidopsis thaliana](https://en.wikipedia.org/wiki/Arabidopsis_thaliana)       | ~220                | ~26,000    | mustard plant                                                                         |
-| Eukarya              | [Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster) | ~200                | ~15,000    |                                                                                       |
-| Eukarya  | [Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)                           | ~1,500              | ~22,600    | zebrafish vertebrate                                                                 |
-| Eukarya  | [Mus musculus](https://en.wikipedia.org/wiki/House_mouse)                        | ~3,500              | ~22,600    | mouse vertebrate                                                      |
-| Eukarya  | Homo sapiens sapiens                                                             | ~3,500              | ~22,400    |     human  vertebrate                                                                  |
+| Domain   | Species                                                                          | Common name   | # of base pairs (M) | # of genes | Notes                                                                                 |
+|----------|----------------------------------------------------------------------------------|---------------|---------------------|------------|---------------------------------------------------------------------------------------|
+| Bacteria | [*E. coli*](https://en.wikipedia.org/wiki/Escherichia_coli)                        | n/a           | 4.6                 | 4,289      |                                                                                       |
+| Archaea  | [Sulfolobus solfataricus](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) | n/a           | 3                   | 2,977      | extremopbilic and [thermoacidophilic](https://en.wikipedia.org/wiki/Thermoacidophile) |
+| Eukarya  | [*S. cerevisiae*](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)          | baker's yeast | 12                  | ~6,300     |                                                                                       |
+| Eukarya  | [*C. elegans*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)               | nematode      | 130                 | ~21000     | exactly 959 cells                                                                     |
+| Eukarya  | [*Arabidopsis thaliana*](https://en.wikipedia.org/wiki/Arabidopsis_thaliana)       | mustard plant | ~220                | ~26,000    |                                                                                       |
+| Eukarya  | [*Drosophila melanogaster*](https://en.wikipedia.org/wiki/Drosophila_melanogaster) | fruit fly     | ~200                | ~15,000    |                                                                                       |
+| Eukarya  | [*Danio rerio*](https://en.wikipedia.org/wiki/Zebrafish)                           | zebrafish     | ~1,500              | ~22,600    |                                                                                       |
+| Eukarya  | [*Mus musculus*](https://en.wikipedia.org/wiki/House_mouse)                        | mouse         | ~3,500              | ~22,600    |                                                                                       |
+| Eukarya  | *Homo sapiens sapiens*                                                             | human         | ~3,500              | ~22,400    |                                                                                       |
 
----
-
-thermophilic, extremopbilic, and [thermoacidophile](https://en.wikipedia.org/wiki/Thermoacidophile)	 
 
 ## Molecular Biology Bi334 Winter 2017 video links
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
