@@ -8,13 +8,22 @@ permalink: /stedman/
 * Lectures recorded for Bi334 at PSU January -April 2019
 
 
-## Molecular Biology Bi334 Winter 2019
-* [Lecture 1](https://www.youtube.com/watch?v=qm7AvX-jyTg): Introduction
-
-
-
 ### Lecture 2
-* Model organisms
+#### Recorded: January 11, 2017
+#### Viewed: August 21, 2020
+#### Model organisms (23:25)
+* **Bacteria** *[E. coli](https://en.wikipedia.org/wiki/Escherichia_coli)* has 4.6 million base pairs; 4,289 genes
+* **Archaea** *[Sulfolobus solfataricus](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus)*, thermophilic, extremopbilic, and [thermoacidophile](https://en.wikipedia.org/wiki/Thermoacidophile) with 3.0 Mbp; 2,977 genes
+* **Eukarya**
+	* *[S. cerevisiae](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)* single cell eukaryote baker's yeast with 12 million base pairs; 6300 genes
+	* *[C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)* nematode worm with exactly 959 cells, ~130 million base pairs; 21,000 genes
+	* *[Arabidopsis thaliana](https://en.wikipedia.org/wiki/Arabidopsis_thaliana)* mustard plant with ~220 Mbp; ~26,000 genes
+	* *[Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster)* fruit fly with ~200 Mbp; ~15,000 genes
+	* Vertebrates
+		* *[Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)* zebrafish with ~1.5 Gbp aka 1.5 billion base pairs; ~22,600 genes
+		* *[Mus musculus](https://en.wikipedia.org/wiki/House_mouse)* mouse with ~3.5 Gbp; ~22,600 genes
+		* *Homo sapiens sapiens* humans with ~3.5 Gbp; ~22,400 genes
+	 
 
 ## Molecular Biology Bi334 Winter 2017
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
@@ -44,4 +53,10 @@ permalink: /stedman/
 * Lecture 23 is missing?? This is the MB Winter 2015 version of [lecture 23](https://youtu.be/AKahJ3RX7fE).
 * [Lecture 24](https://youtu.be/AbSmjBgt3e4)
 * [**Review #3**](https://youtu.be/lvT40Zcu3eY)
+
+
+---
+## Molecular Biology Bi334 Winter 2019
+* [Lecture 1](https://www.youtube.com/watch?v=qm7AvX-jyTg): Introduction
+* Rest of 2019 lectures are missing?
 
