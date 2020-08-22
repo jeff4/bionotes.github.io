@@ -5,12 +5,12 @@ permalink: /stedman/
 
 # Portland State University Molecular Biology Lectures
 * Instructor: [Professor Ken Stedman](https://www.extremeviruses.org/people) at Portland State University. YouTube page is [here]().
-* Lectures recorded for Bi334 at PSU January -April 2019
+* Lectures recorded for Bi334 at PSU January -April 2017
 
 
 ### Lecture 2
-#### Recorded: January 11, 2017
-#### Viewed: August 21, 2020
+*Recorded: January 11, 2017
+Viewed: August 21, 2020*
 #### Model organisms (23:25)
 * **Bacteria** *[E. coli](https://en.wikipedia.org/wiki/Escherichia_coli)* has 4.6 million base pairs; 4,289 genes
 * **Archaea** *[Sulfolobus solfataricus](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus)*, thermophilic, extremopbilic, and [thermoacidophile](https://en.wikipedia.org/wiki/Thermoacidophile) with 3.0 Mbp; 2,977 genes
@@ -25,7 +25,7 @@ permalink: /stedman/
 		* *Homo sapiens sapiens* humans with ~3.5 Gbp; ~22,400 genes
 	 
 
-## Molecular Biology Bi334 Winter 2017
+## Molecular Biology Bi334 Winter 2017 video links
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
 * [Lecture 2](https://youtu.be/H1egC1mxXZg)
 * [Lecture 3](https://youtu.be/e4E9kQPks9k)
