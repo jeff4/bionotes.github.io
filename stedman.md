@@ -5,7 +5,7 @@ permalink: /stedman/
 
 # PSU Molec Bio Lectures
 * Instructor: [Professor Ken Stedman](https://www.extremeviruses.org/people) at [**Portland State University**](https://www.pdx.edu/biology/biology-research). YouTube page is [here](https://www.youtube.com/c/KenStedman/playlists).
-* Lectures recorded for [Bi334: Molecular Biology](http://pdx.smartcatalogiq.com/2020-2021/Bulletin/Courses/Bi-Biology/300/Bi-334) at PSU January—April 2017
+* Lectures recorded for [Bi334: Molecular Biology](http://pdx.smartcatalogiq.com/2020-2021/Bulletin/Courses/Bi-Biology/300/Bi-334) at PSU January - April, 2017
 
 ## Lecture 1: Class Introduction and Review
 *Viewed: August 20, 2020*
@@ -42,11 +42,12 @@ Viewed: August 21, 2020*
 	* Anabolic pathways use up ATP to synthesize large macromolecules through polymerization. Entropy decreases.
 * Dissasociation constant K<sub>d</sub> important for binding of substrates and pharmacology drug-target interactions.
 
-## Lecture 3
-*Recorded: January 11, 2017<br>
+## Lecture 3: Review of Proteins
+*Recorded: January 13, 2017<br>
 Viewed: August 22, 2020*
+* Outline: amino acids, peptide bonds, secondary structure, protein folding, domains/motifs, mulltimers, protein families, modeling, allostery
 
-
+----
 
 ## Molecular Biology Bi334 Winter 2017 video links
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
