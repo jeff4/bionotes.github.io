@@ -3,9 +3,9 @@ title: Stedman Molecular Biology Lectures
 permalink: /stedman/
 ---
 
-# Portland State University Molecular Biology Lectures
-* Instructor: [Professor Ken Stedman](https://www.extremeviruses.org/people) at Portland State University. YouTube page is [here]().
-* Lectures recorded for Bi334 at PSU January -April 2017
+# PSU Bi334 Lectures
+* Instructor: [Professor Ken Stedman](https://www.extremeviruses.org/people) at [**Portland State University**](https://www.pdx.edu/biology/biology-research). YouTube page is [here]().
+* Lectures recorded for [Bi334: Molecular Biology](http://pdx.smartcatalogiq.com/2020-2021/Bulletin/Courses/Bi-Biology/300/Bi-334) at PSU January—April 2017
 
 
 ### Lecture 2
