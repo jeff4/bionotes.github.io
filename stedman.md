@@ -9,7 +9,7 @@ permalink: /stedman/
 
 
 ### Lecture 2
-*Recorded: January 11, 2017
+*Recorded: January 11, 2017<br>
 Viewed: August 21, 2020*
 #### Model organisms (23:25)
 * **Bacteria** *[E. coli](https://en.wikipedia.org/wiki/Escherichia_coli)* has 4.6 million base pairs; 4,289 genes
