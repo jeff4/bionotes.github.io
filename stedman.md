@@ -7,11 +7,18 @@ permalink: /stedman/
 * Instructor: [Professor Ken Stedman](https://www.extremeviruses.org/people) at [**Portland State University**](https://www.pdx.edu/biology/biology-research). YouTube page is [here](https://www.youtube.com/c/KenStedman/playlists).
 * Lectures recorded for [Bi334: Molecular Biology](http://pdx.smartcatalogiq.com/2020-2021/Bulletin/Courses/Bi-Biology/300/Bi-334) at PSU January—April 2017
 
+## Lecture 1: Class Introduction and Review
+*Viewed: August 20, 2020*
 
-### Lecture 2
+## Lecture 2: More Review
 *Recorded: January 11, 2017<br>
 Viewed: August 21, 2020*
-#### Model organisms (23:25)
+
+### Review of these topics
+* Central Dogma: DNA replicates plus DNA --> mRNA --> tRNA --> protein
+* Genomes
+* Gene Families: paralogs are parallel *within* a single organism. Orthologs are homologous across taxons. All of the above are homologs. See also Alberts p. 20
+* Model Organisms (23:25). See table below:
 
 | Domain   | Species                                                                          | Common name   | # of base pairs (M) | # of genes | Notes                                                                                 |
 |----------|----------------------------------------------------------------------------------|---------------|---------------------|------------|---------------------------------------------------------------------------------------|
@@ -25,10 +32,25 @@ Viewed: August 21, 2020*
 | Eukarya  | [*Mus musculus*](https://en.wikipedia.org/wiki/House_mouse)                        | mouse         | ~3,500              | ~22,600    |                                                                                       |
 | Eukarya  | *Homo sapiens sapiens*                                                             | human         | ~3,500              | ~22,400    |                                                                                       |
 
+### Review of general chemistry
+* Noncovalent bonds: ionic bonds, van der Waals, hydrophobic interactions, hydrogen bonds
+* Acid-base chemistry
+* Chemical composition of life. 70% of water, 30% other. Of that 30%,
+* Review of hydrolysis (energetically favorable - &#916;G) vs. condensation/dehydration synthesis which is energetically unfavorable and requires usage of ATP.
+* Catabolic vs. anabolic pathways
+	* Catalysis aka catabolic pathways breakdown food into useful monomers of macromolecules as well as creating ATP. 
+	* Anabolic pathways use up ATP to synthesize large macromolecules through polymerization. Entropy decreases.
+* Dissasociation constant K<sub>d</sub> important for binding of substrates and pharmacology drug-target interactions.
+
+## Lecture 3
+*Recorded: January 11, 2017<br>
+Viewed: August 22, 2020*
+
+
 
 ## Molecular Biology Bi334 Winter 2017 video links
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
-* [Lecture 2](https://youtu.be/H1egC1mxXZg)
+* <del>[Lecture 2](https://youtu.be/H1egC1mxXZg)</del>
 * [Lecture 3](https://youtu.be/e4E9kQPks9k)
 * [Lecture 4](https://youtu.be/y2s9L4WJYN0)
 * [Lecture 5](https://youtu.be/oZX4dV4RAmE)
