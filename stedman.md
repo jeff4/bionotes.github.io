@@ -12,6 +12,7 @@ permalink: /stedman/
 *Recorded: January 11, 2017<br>
 Viewed: August 21, 2020*
 #### Model organisms (23:25)
+
 | Domain               | Species                                                                          | # of base pairs (M) | # of genes | Notes
 |----------------------|----------------------------------------------------------------------------------|---------------------|------------|---------------------------------------------------------------------------------------|
 | Bacteria             | [E. coli](https://en.wikipedia.org/wiki/Escherichia_coli)                        | 4.6                 | 4,289      |                                                                                       |
