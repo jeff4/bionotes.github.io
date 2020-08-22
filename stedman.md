@@ -19,7 +19,7 @@ permalink: /stedman/
 	* *[C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)* nematode worm with exactly 959 cells, ~130 million base pairs; 21,000 genes
 	* *[Arabidopsis thaliana](https://en.wikipedia.org/wiki/Arabidopsis_thaliana)* mustard plant with ~220 Mbp; ~26,000 genes
 	* *[Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster)* fruit fly with ~200 Mbp; ~15,000 genes
-	* Vertebrates
+	* **Vertebrates**
 		* *[Danio rerio](https://en.wikipedia.org/wiki/Zebrafish)* zebrafish with ~1.5 Gbp aka 1.5 billion base pairs; ~22,600 genes
 		* *[Mus musculus](https://en.wikipedia.org/wiki/House_mouse)* mouse with ~3.5 Gbp; ~22,600 genes
 		* *Homo sapiens sapiens* humans with ~3.5 Gbp; ~22,400 genes
