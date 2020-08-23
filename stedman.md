@@ -47,11 +47,16 @@ Viewed: August 21, 2020*
 *Recorded: January 13, 2017<br>
 Viewed: August 22, 2020*
 * Outline: amino acids, peptide bonds, secondary structure, protein folding, domains/motifs, mulltimers, protein families, modeling, allostery
+* Residue = particular side-chain for an amino acid
 * There are only 5 amino acids that are polar with a net electrical charge on their molecule: Lysine, Arginine, Histidine, Aspartate, and Glutamate.
 * **Histidine** is particularly interesting b/c unlike all the other amino acids, it is *either* **neutral or positively charged (aka basic pH) depending on the surrounding environment**. This is because histidine's [pK<sub>a</sub>](https://en.wikipedia.org/wiki/Acid_dissociation_constant#Equilibrium_constant) = ~6.5. See [this page](http://www.russelllab.org/aas/charged.html) for further info.
 * Main amino acids to be concerned about for this course (19:00):
 	* **Basic amino acids**: [Lysine](https://en.wikipedia.org/wiki/Lysine) (Lys, K) and [Arginine](https://en.wikipedia.org/wiki/Arginine) (Arg, R). Both of these are polar and charged, with a **net positive charge**.
 	* **Acidic amino acids**: Aspartic Acid ([Aspartate](https://en.wikipedia.org/wiki/Aspartic_acid), Asp, D) and Glutamic Acid ([Glutamate](https://en.wikipedia.org/wiki/Glutamic_acid), Glu, E). They are both polar and charged, with a **net negative charge**.
+* Protein structure. "Leucine zipper" creates a coiled coil. Note also that leucines are nonpolar sidechains (aka hydrophobic); so these leucines "hide" inthe interior of the coiled coil, away from the hydrophilic water environment. (36:31)
+* Domain is a separately folded subsection of a protein. 
+* Structure prediction (43:00). Interesting principle that has been empirically determined. Let's say we have two different DNA sequences (a and b) that code for two different proteins (A and B). Assume we know the protein structure of A but not of protein B. If the DNA sequence of a and b are at least 30% the same (measured by bp or nucleotides), then there is a 99% chance that the resultant A and B proteins have the same structure!
+	* Example of Elastase compared to Chymotrypsin. See Figures 3-12 and 3-13 on Alberts 5e p. 138.
 
 ----
 
