@@ -43,6 +43,8 @@ Viewed: August 21, 2020*
 	* Anabolic pathways use up ATP to synthesize large macromolecules through polymerization. Entropy decreases.
 * Dissasociation constant K<sub>d</sub> important for binding of substrates and pharmacology drug-target interactions.
 
+---
+
 ## Lecture 3: Review of Proteins
 *Recorded: January 13, 2017<br>
 Viewed: August 22, 2020*
