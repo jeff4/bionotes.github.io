@@ -322,6 +322,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Now, there are two converging lines of evidence that DNA is the genetic material: Avery-MacCleod-MacCarty experiments and Hershey-Chase experiments.
 * [Erwin Chargaff](https://en.wikipedia.org/wiki/Erwin_Chargaff) did a lot of experiments and formulated [Chargaff's rules](https://en.wikipedia.org/wiki/Chargaff's_rules), which indicates that the number of A = T and C = G regardless of what species examined.
 * Linus Pauling's proposed triple axis model for DNA structure has phosphates in the center axis which can't work b/c they are all strongly negative and will repel each other.
+* Supplemental vidoes. 
+	* dsDNA = double-stranded aka the most common formation <a href="https://microbenotes.com/different-forms-of-dna-b-form-a-form-z-form/">B-form DNA</a>
+	* Shirleen PhD student. Replication occurs at [origin of replication](https://en.wikipedia.org/wiki/Origin_of_replication) on the DNA strand. Enzymes involved: helicase, topoisomerase, DNApolymerase, primase, RNAseH, ligase. Okazaki framgnets
 
 ## Lecture 11: DNA Replication
 *
@@ -346,7 +349,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 5 : Molecular Biology I - DNA Replication
 * <del>Lecture 10</del>
-* Finish final three animated video clips for lecture 10
 * Lecture 11
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
