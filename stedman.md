@@ -8,7 +8,8 @@ permalink: /stedman/
 * Lectures recorded for [Bi334: Molecular Biology](http://pdx.smartcatalogiq.com/2020-2021/Bulletin/Courses/Bi-Biology/300/Bi-334) at PSU January - April, 2017
 
 ## Lecture 1: Class Introduction and Review
-*Viewed: August 20, 2020*
+*Recorded: January 9, 2017<br>
+Viewed: August 20, 2020*
 
 ## Lecture 2: More Review
 *Recorded: January 11, 2017<br>
