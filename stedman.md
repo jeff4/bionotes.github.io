@@ -49,7 +49,7 @@ Viewed: August 22, 2020*
 * There are only 5 amino acids that are polar with a net electrical charge on their molecule: Lysine, Arginine, Histidine, Aspartate, and Glutamate.
 * **Histidine** is particularly interesting b/c unlike all the other amino acids, it is *either* **neutral or positively charged (aka basic pH) depending on the surrounding environment**. This is because histidine's [pK<sub>a</sub>](https://en.wikipedia.org/wiki/Acid_dissociation_constant#Equilibrium_constant) = ~6.5. See [this page](http://www.russelllab.org/aas/charged.html) for further info.
 * Main amino acids to be concerned about for this course (19:00):
-	* **Basic amino acids**: Lysine (Lys, K) and Arginine (Arg, R). Both of these are polar and charged, with a **net positive charge**.
+	* **Basic amino acids**: [Lysine](https://en.wikipedia.org/wiki/Lysine) (Lys, K) and [Arginine](https://en.wikipedia.org/wiki/Arginine) (Arg, R). Both of these are polar and charged, with a **net positive charge**.
 	* **Acidic amino acids**: Aspartic Acid ([Aspartate](https://en.wikipedia.org/wiki/Aspartic_acid), Asp, D) and Glutamic Acid ([Glutamate](https://en.wikipedia.org/wiki/Glutamic_acid), Glu, E). They are both polar and charged, with a **net negative charge**.
 
 ----
