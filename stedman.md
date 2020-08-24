@@ -67,7 +67,7 @@ Viewed: August 22, 2020*
 ## Molecular Biology Bi334 Winter 2017 video links
 * <del>[Lecture 1](https://youtu.be/BU_-o4g6WeE)</del>
 * <del>[Lecture 2](https://youtu.be/H1egC1mxXZg)</del>
-* [Lecture 3](https://youtu.be/e4E9kQPks9k)
+* <del>[Lecture 3](https://youtu.be/e4E9kQPks9k)</del>
 * [Lecture 4](https://youtu.be/y2s9L4WJYN0)
 * [Lecture 5](https://youtu.be/oZX4dV4RAmE)
 * [Lecture 6](https://youtu.be/aVJeKqS4yus)
