@@ -361,6 +361,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* *c<sup>chd</sup>* recessive allele produces a [Chinchilla coat](https://en.wikipedia.org/wiki/Chinchilla_rabbit)
 	* *c<sup>h</sup>* recessive allele produces a Himalayan coat aka [point coloration](https://en.wikipedia.org/wiki/Point_coloration#In_rabbits_and_rodents) where color is restricted to ears, feet, and other tips.
 	* *c* recessive allele produces an [albino rabbit](https://www.cuteness.com/article/albino-rabbits) with white fur
+* asdkfhja
 
 ---
 
@@ -370,6 +371,7 @@ See illustration on p. 251; all the species in the same row have the same color 
 	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
 	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
+* Dehydration Synthesis (aka Condensation Synthesis) vs. Hydrolysis. See Alberts 5e Fig. 2-64 and 2-65 on p. 85, Alberts 5e Fig. 2-19 on p. 57, and JH handwritten notes (8/22/2020)
 
 ### 10 Steps of Glycolysis
 
