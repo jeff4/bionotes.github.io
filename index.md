@@ -329,6 +329,21 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 11: Central Dogma 1 - DNA Replication
 * Matthew Meselson and Franklin Stahl experiments proving the [semi-conservative nature of DNA replication](https://en.wikipedia.org/wiki/Meselson–Stahl_experiment). Used regular N14 nitrogen and heavy nitrogen N15 to specifically label the strands of DNA, proving that replication is semi-conservative
 
+### Basic Replication
+* DNA Polymerase
+	* 1956, Arthur Kornberg manually adds radioactively tagged dATP, dCTP, dGTP, and dTTP. Short for dexoyadenosine triphosphate (dATP), deoxycytidine triphosphate (dCTP), deoxyguanosine triphosphate (dGTP), and deoxythymidine triphosphate (dTTP). See table on [this wiki page](https://en.wikipedia.org/wiki/Nucleoside#Use_in_medicine_and_technology).
+	* Explanation of why DNA must grow in the 5' --> 3' direction; otherwise, the last monomer on the growing chain might hydrolyze
+* Other enzymes involved:
+	* **Helicase** unwinds helix
+	* **Primase** creates the RNA primer to get the replication started
+	* **DNA Polymerase** attaches the the RNA primer and adds new monomeric nuclueotides to the growing DNA polymer strand (for both leading and lagging strands of the replication fork)
+	* As replication proceeds, there is greater and greater tension ahead of the replication fork. **Topoisomerase** releases this tension by making strategic cuts in the parent DNA double strand.
+	* **Ligase** "glues up" and seals the separated Okazaki fragments on the lagging strand by forming phosphodiester bonds betwen the 3' OH and the 5' phosphate group adjacent fragments.
+
+
+### Methods that ensure replication fidelity
+* 
+
 
 
 ## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
