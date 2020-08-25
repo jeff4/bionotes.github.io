@@ -327,6 +327,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Shirleen PhD student. Replication occurs at [origin of replication](https://en.wikipedia.org/wiki/Origin_of_replication) on the DNA strand. Enzymes involved: helicase, topoisomerase, DNApolymerase, primase, RNAseH, ligase. Okazaki framgnets
 
 ## Lecture 11: Central Dogma 1 - DNA Replication
+### August 22-25, 2020
 * Matthew Meselson and Franklin Stahl experiments proving the [semi-conservative nature of DNA replication](https://en.wikipedia.org/wiki/Meselson–Stahl_experiment). Used regular N14 nitrogen and heavy nitrogen N15 to specifically label the strands of DNA, proving that replication is semi-conservative
 
 ### Basic Replication
@@ -340,9 +341,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* As replication proceeds, there is greater and greater tension ahead of the replication fork. **Topoisomerase** releases this tension by making strategic cuts in the parent DNA double strand.
 	* **Ligase** "glues up" and seals the separated Okazaki fragments on the lagging strand by forming phosphodiester bonds betwen the 3' OH and the 5' phosphate group adjacent fragments.
 
-
 ### Methods that ensure replication fidelity
-* 
+* DNA Polymerase does proofreading.
+* Exonuclease runs in the 3'-->5' direction and takes bases off of the chain (opposite activity compared to DNA Polymerase). Improves accuracy from 1/1000 to 1/1,000,000. One error in every 10<sup>3</sup> becomes after exonuclease one error in every million 10<sup>6</sup>.
+* Another method: mismatch detection and repair. When a basepair shows a mismatch between two nucleotides, how does E.coli know which one is the "correct" nucleotide and which is the new "wrong" nucleotide? Luckly, there is a methylation process that marks the original parent strand of DNA. New, daugher strands of DNA lack these methylization markers for a bit. So E.Coli only repairs the unmethylated "newborn" DNA strand.
+* After combining proofreading, exonuclease, and mismatch repair, error rate becomes about one in a billion bp (aka 1 in 10<sup>8</sup>). Given that the human genome is only about 3 billion bp, this means that there are only a total of 30-40 errors per replication.
 
 
 
