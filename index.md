@@ -326,8 +326,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* dsDNA = double-stranded aka the most common formation <a href="https://microbenotes.com/different-forms-of-dna-b-form-a-form-z-form/">B-form DNA</a>
 	* Shirleen PhD student. Replication occurs at [origin of replication](https://en.wikipedia.org/wiki/Origin_of_replication) on the DNA strand. Enzymes involved: helicase, topoisomerase, DNApolymerase, primase, RNAseH, ligase. Okazaki framgnets
 
-## Lecture 11: DNA Replication
-* Matthew Meselson and Franklin Stahl experiments proving the [semi-conservative nature of DNA replication](https://en.wikipedia.org/wiki/Meselson–Stahl_experiment).
+## Lecture 11: Central Dogma 1 - DNA Replication
+* Matthew Meselson and Franklin Stahl experiments proving the [semi-conservative nature of DNA replication](https://en.wikipedia.org/wiki/Meselson–Stahl_experiment). Used regular N14 nitrogen and heavy nitrogen N15 to specifically label the strands of DNA, proving that replication is semi-conservative
+
+
+
+## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
+* 
+
+## Lecture 13: Central Dogma 3 - Variations from the Dogma
+
+
  
  
 ---		
