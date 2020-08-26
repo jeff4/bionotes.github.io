@@ -1,6 +1,6 @@
 ---
 title: MBOC Alberts 5th Edition
-permalink: /alberts5e/
+permalink: /alberts-5e/
 ---
 
 
