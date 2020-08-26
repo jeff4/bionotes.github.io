@@ -5,7 +5,8 @@ permalink: /alberts-5e/
 
 
 # Molecular Biology of the Cell
-* Alberts et al., Fifth Edition (2008)
+* Fifth Edition (2008)
+* Authors: Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
 
 ## Chapter 1: Cells and Genomes
 * p. 20 - defintion of **homologs**: All related genes that result from duplication 
