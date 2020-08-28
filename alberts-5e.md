@@ -27,3 +27,11 @@ permalink: /alberts-5e/
 *  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes 8/26/2020.
 	* Adenosine–Thymine on 8/26
 	* Guanine–Cystosine on 8/27
+
+### DNA Replication
+* Major enzymes involved:
+	* Helicase
+	* Primase
+	* DNA Polymerase and  Exonuclease
+	* Ligase
+	* Topoisomerase
