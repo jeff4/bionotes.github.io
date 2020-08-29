@@ -24,9 +24,8 @@ permalink: /alberts-5e/
 * See p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
 
 ## Chapter 5: DNA Replication and Repair
-*  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes 8/26/2020.
-	* Adenosine–Thymine on 8/26
-	* Guanine–Cystosine on 8/27
+*  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes August 25-29, 2020.
+* p. 206 - avg. size of a human gene is ~27,000 bp.
 
 ### DNA Replication
 * Major enzymes involved:
