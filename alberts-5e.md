@@ -32,7 +32,7 @@ permalink: /alberts-5e/
 
 ## Chapter 5: DNA Replication and Repair
 *  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes August 25-29, 2020.
-* asdfasd
+* Mutation rates in DNA are surprisingly low across multiple genera. It is about 1 mutation in 10<sup>9</sup> in both *E. coli* and *C. elegans* aka 1 base pair change per 1 billion bp. (p. 264-265)
 
 
 ### DNA Replication
