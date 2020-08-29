@@ -33,10 +33,15 @@ permalink: /alberts-5e/
 ## Chapter 5: DNA Replication and Repair
 *  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes August 25-29, 2020.
 * Mutation rates in DNA are surprisingly low across multiple genera. It is about 1 mutation in 10<sup>9</sup> in both *E. coli* and *C. elegans* aka 1 base pair change per 1 billion bp. In addition, more indirect methods in humans using fibrinopeptides, fibrinogen, and fibrin formation during blood clotting have also produced a similar 1 in a billion figure (p. 264-265).
-* 
+
 ### History of discoveries
 * [DNA Polymerase I](https://en.wikipedia.org/wiki/DNA_polymerase_I) was discovered by Arthur Kornberg in 1956 ( p. 266)
-* [Okazaki fragments](https://en.wikipedia.org/wiki/Okazaki_fragments#Experiments) discovered in mid- to late-1960s in Japan. This along with other evidence disproved earlier hypothesis that DNA polymerases could act in both 5' &#8594; 3' and in the 3'&#8594;5' direction. 
+* [Okazaki fragments](https://en.wikipedia.org/wiki/Okazaki_fragments) discovered in mid- to late-1960s in Japan. This along with other evidence disproved earlier hypothesis that DNA polymerases could act in both 5' &#8594; 3' and in the 3'&#8594;5' direction.
+* Proofreading mechanisms:
+	1. First, a free nucleotide base pairs with the template DNA strand via hydrogen bonding. Obviously, the correct nucleotide is energetically more favorable. However, DNA polymerase is like a right hand whose fingers must tighten for the next step: covalently creating the phosphodiester bond on the backbone. It's hard to do that with the wrong nucleotide. So even if the wrong nucleotide slips in for step 1a, it's hard to "permanently" lock it in with the "finger-closing step". (p. 269 and Fig 5-4b)
+	1. 
+
+
 
 ### DNA Replication
 * Major enzymes involved:
