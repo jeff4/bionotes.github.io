@@ -23,9 +23,17 @@ permalink: /alberts-5e/
 ## Chapter 3: Proteins
 * See p. 127-129 to see tables and panels of categories of polar vs. nonpolar sidechain/amino acids, acidic vs. basic sidechains, etc.
 
+## Chapter 4: Chromosome Structure and Genomes
+* Avg. size of a human gene is ~27,000 bp including both introns and exons. However, avg size of genes is only 1300 bp when all the introns are thrown out.  (p. 206) 
+* See other interesting stats on human genes in Table 4-1 on p. 206.
+* [Shared synteny](https://en.wikipedia.org/wiki/Synteny#Shared_synteny) aka conserved synteny = not only are DNA sequences / genes conserved, but the exact order of these genes are conserved across species (p. 207). 
+* Three specialized DNA sequences are special on the chromosome: (1) [origin of replication](https://en.wikipedia.org/wiki/Origin_of_replication); prokaryotes have 1 origin per chromosome while eukaryotes have multiple ori's; (2) [centromere](https://en.wikipedia.org/wiki/Centromere); (3) [telomere](https://en.wikipedia.org/wiki/Telomere).
+
+
 ## Chapter 5: DNA Replication and Repair
 *  DNA structure on Panel 2-6 Alberts p. 116-17 and Figure 4-4 and 4-5 on p. 198-199. See also JH handwritten notes August 25-29, 2020.
-* p. 206 - avg. size of a human gene is ~27,000 bp.
+* asdfasd
+
 
 ### DNA Replication
 * Major enzymes involved:
