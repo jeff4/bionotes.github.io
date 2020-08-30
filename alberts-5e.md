@@ -36,7 +36,7 @@ permalink: /alberts-5e/
 
 ### History of discoveries
 * [DNA Polymerase I](https://en.wikipedia.org/wiki/DNA_polymerase_I) was discovered by Arthur Kornberg in 1956 ( p. 266)
-* [Okazaki fragments](https://en.wikipedia.org/wiki/Okazaki_fragments) discovered in mid- to late-1960s in Japan. This along with other evidence disproved earlier hypothesis that DNA polymerases could act in both 5' &#8594; 3' and in the 3'&#8594;5' direction.
+* [Okazaki fragments](https://en.wikipedia.org/wiki/Okazaki_fragments) discovered in mid- to late-1960s in Japan. This along with other evidence disproved earlier hypothesis that DNA polymerases could act in both 5'&#8594; 3' and in the 3'&#8594; 5' direction.
 * Proofreading mechanisms:
 	1. First, a free nucleotide base pairs with the template DNA strand via hydrogen bonding. Obviously, the correct nucleotide is energetically more favorable. However, DNA polymerase is like a right hand whose fingers must tighten for the next step: covalently creating the phosphodiester bond on the backbone. It's hard to do that with the wrong nucleotide. So even if the wrong nucleotide slips in for step 1a, it's hard to "permanently" lock it in with the "finger-closing step". (p. 269 and Fig 5-4b)
 	1. [Exonucleolytic proof-reading](https://en.wikipedia.org/wiki/Exonuclease)
