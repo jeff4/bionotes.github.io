@@ -44,10 +44,9 @@ permalink: /alberts-5e/
 	* In prokaryotes like E.coli, by looking for unmethlyated A's. In bacteria, new strands eventually get all the A's in the sequence *GATC* methylated. Fresh new daughter strands have not gotten their A's methylated so that is the strand that is corrected. (p. 276-277)
 	* Eukaryotes rarely (never?) have their A's methylated. Fresh, new daughter strands are identified because they have frequent ss nicks where ligase has not performed it's function.
 
-### DNA Replication
-* Major enzymes involved:
-	* Helicase to make the initial cut to start the replication fork
-	* Primase to add short RNA primers as a starting point for DNA Polymerase
-	* DNA Polymerase and associated Exonuclease catalytic sites
-	* Ligase to join together short Okazaki fragments on the lagging strand
-	* Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
+### Major enzymes involved in DNA Replication
+* Helicase to make the initial cut to start the replication fork
+* Primase to add short RNA primers as a starting point for DNA Polymerase
+* DNA Polymerase and associated Exonuclease catalytic sites
+* Ligase to join together short Okazaki fragments on the lagging strand
+* Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
