@@ -40,16 +40,17 @@ permalink: /alberts-5e/
 * Proofreading mechanisms:
 	1.  ***Delay* between initial base pair hydrogen bonding and permanent phosophodiester covalent bonding**. First, a free nucleotide base pairs with the template DNA strand via hydrogen bonding. Obviously, the correct nucleotide is energetically more favorable. However, DNA polymerase is like a right hand whose fingers must tighten for the next step: covalently creating the phosphodiester bond on the backbone. It's hard to do that with the wrong nucleotide. So even if the wrong nucleotide slips in for step 1a, it's hard to "permanently" lock it in with the "finger-closing step". (p. 269 and Fig 5-4b)
 	1. [**Exonucleolytic proof-reading**](https://en.wikipedia.org/wiki/Exonuclease) that excise nucleotides dNMP (aka 2'-**d**eoxyribose **n**ucleotide **m**ono **p**hosphates) one at a time from the new daughter strand. The exonuclease is actually a separate catalytic site on DNA polymerase. DNA Poly "absolutely requires a previously formed base-paired 3'-OH end of the primer strand." If the wrong dNMP is at the end of the daughter strand, the exonuclease is engaged and excised in the opposite 3'&#8594; 5' direction from the Poly's regular growing 5'&#8594; 3' direction.  (See Fig. 5-8 and 5-9 on p. 270.)
-	1. **Strand-Directed Mismatch Repair System** which is a post-replication complex that catches errors missed in the initial multi-enzyme replication machine (p. 276-277)
-
+	1. **Strand-Directed Mismatch Repair System** which is a post-replication complex that catches errors missed in the initial multi-enzyme replication machine. This system finds mismatched base-pairs between a template and daughter strand. How does it know which is the template and which is the new strand? 
+		* In prokaryotes like E.coli, by looking for unmethlyated A's. In bacteria, new strands eventually get all the A's in the sequence *GATC* methylated. Fresh new daughter strands have not gotten their A's methylated so that is the strand that is corrected. (p. 276-277)
+		* Eukaryotes rarely (never?) have their A's methylated. Fresh, new daughter strands are identified because they have frequent ss nicks where ligase has not performed it's function.
 
 * see also Table 5-1 on p. 271 to see how the 3 different error correcting mechanisms of 5'&#8594; 3' polymerization, 3'&#8594; 5' exonuclease proofreading, and strand-directed mismatch repair together combine to provide a 1 error per 10<sup>9</sup> bp during DNA replication.
 
 
 ### DNA Replication
 * Major enzymes involved:
-	* Helicase
-	* Primase
-	* DNA Polymerase and  Exonuclease
-	* Ligase
-	* Topoisomerase
+	* Helicase to make the initial cut to start the replication fork
+	* Primase to add short RNA primers as a starting point for DNA Polymerase
+	* DNA Polymerase and associated Exonuclease catalytic sites
+	* Ligase to join together short Okazaki fragments on the lagging strand
+	* Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
