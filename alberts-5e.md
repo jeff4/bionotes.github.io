@@ -65,3 +65,6 @@ For answer, see Fig. 5-10 p. 271
 * DNA Polymerase and associated Exonuclease catalytic sites
 * Ligase to join together short Okazaki fragments on the lagging strand
 * Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
+
+### Oxford video
+* According to [this video](https://www.youtube.com/watch?v=0Ha9nppnwOc), the three phases of replication are: Initiation, Elongation, and Termination.
