@@ -70,3 +70,4 @@ For answer, see Fig. 5-10 p. 271
 * [Video 1 on basic replication](https://www.youtube.com/watch?v=0Ha9nppnwOc), the three phases of replication are: Initiation, Elongation, and Termination. Poly III is the "regular polymerase". Poly III falls off of the lagging strand once it encounters an RNA primer. Then, Poly I attaches to replace the RNA primer with a proper DNA segment.
 * [Video 2](https://www.youtube.com/watch?v=QMX7IpME7X8) describes the replication complex as "Replication Fork Coupling". 
 * This next video from Oxford describes [Transcription]()
+* And here is the [entire playlist](https://www.youtube.com/playlist?list=PL3MAPgqN8JWib86aCRPB6hPcIMvJqR975) from Oxford.
