@@ -55,7 +55,9 @@ For answer, see Fig. 5-10 p. 271
 * **Sliding clamp** and **clamp loader** to keep DNA Poly machinery attached to template strand
 * [**Single-Stranded DNA Binding Protein**](https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein) (aka SSB) used only on the lagging strand 
 * **Ligase** used on lagging strand to stitch together the various Okazaki fragments and to replace RNA primers with proper DNA segments.
-
+* Also two other items:
+	* topo I and topo II to relieve DNA helix torsion ahead of the replication fork.
+	* strand-directed mismatch repair, keyed to unmethylated A nucleotides in GATC sequences.
 
 ### Major enzymes involved in DNA Replication per Lander lecture
 * Helicase to make the initial cut to start the replication fork
