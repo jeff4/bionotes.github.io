@@ -65,3 +65,30 @@ For answer, see Fig. 5-10 p. 271
 * DNA Polymerase and associated Exonuclease catalytic sites
 * Ligase to join together short Okazaki fragments on the lagging strand
 * Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
+
+### Different types of DNA Polymerase
+#### Prokaryotic DNA Polymerase
+* [Pol I](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_I)
+* [Pol II](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_II) –involved in *E. coli* [SOS induction](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
+* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III)
+* [Pol IV](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_IV) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
+* [Pol V](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_V) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
+* [Family D](https://en.wikipedia.org/wiki/DNA_polymerase#Family_D)
+
+#### Eukaryotic DNA Polymerase
+* Polymerases beta, lambda, sigma, and mu and TdT
+* Polymerases alpha, delta, and epsilon
+* Polymerases eta, iota, and kappa
+* Polymerases Rev1 and zeta
+* Polymerases gamma, theta, and nu
+* Reverse Transcriptase
+* Telomerase
+
+#### 7 families of DNA 
+* **Family A** - **Pol I** and has 2 exonuclease domains (goes in both directions 5'&#8594; 3' and 3'&#8594; 5')
+* **Family B** - **Pol II** for proofreading
+* **Family C** - Prokaryotic only, e.g. **Pol III** Standard workhorse for primary *E. coli* transcription
+* Family D ([Archaea](https://en.wikipedia.org/wiki/Archaea))
+* Family X - Eukaryotic only
+* Family Y 
+* Family RT - viruses, retroviruses, and Eukaryotes, e.g., telomerase
