@@ -44,7 +44,20 @@ permalink: /alberts-5e/
 	* In prokaryotes like E.coli, by looking for unmethlyated A's. In bacteria, new strands eventually get all the A's in the sequence *GATC* methylated. Fresh new daughter strands have not gotten their A's methylated so that is the strand that is corrected. (p. 276-277)
 	* Eukaryotes rarely (never?) have their A's methylated. Fresh, new daughter strands are identified because they have frequent ss nicks where ligase has not performed it's function.
 
-### Major enzymes involved in DNA Replication
+### Why is DNA growth only in the 5'&#8594; 3' direction?
+For answer, see Fig. 5-10 p. 271
+
+### Multi-enzyme Replication Complex per Alberts Fig. 5-19
+* See p. 276 **Fig 5-19**...
+* **DNA helicase** to cut / unwind DNA template strands at the beginning of the replication fork
+* **Primase** to put down RNA primers. Used in leading strand once but used over and over again in the lagging strand.
+* **DNA Polymerase** that both adds new nucleotides and has an exonuclease catalyic site to remove mismatches
+* **Sliding clamp** and **clamp loader** to keep DNA Poly machinery attached to template strand
+* [**Single-Stranded DNA Binding Protein**](https://en.wikipedia.org/wiki/Single-strand_DNA-binding_protein) (aka SSB) used only on the lagging strand 
+* **Ligase** used on lagging strand to stitch together the various Okazaki fragments and to replace RNA primers with proper DNA segments.
+
+
+### Major enzymes involved in DNA Replication per Lander lecture
 * Helicase to make the initial cut to start the replication fork
 * Primase to add short RNA primers as a starting point for DNA Polymerase
 * DNA Polymerase and associated Exonuclease catalytic sites
