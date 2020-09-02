@@ -74,12 +74,16 @@ For answer, see Fig. 5-10 p. 271
 
 ### Different types of DNA Polymerase
 #### Prokaryotic DNA Polymerase
-* [Pol I](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_I) - first polymerase discovered by Arthur Kornberg in 1956. Removes RNA primers on the lagging strand and replaces them with DNA to connect Okazaki fragments. [According to Wikipedia](https://en.wikipedia.org/wiki/DNA_polymerase_I#Function), Pol I has 4 functions:
+* [Pol I](https://en.wikipedia.org/wiki/DNA_polymerase_I) - first polymerase discovered by Arthur Kornberg in 1956. ["Pol I accounts for 95% of the polymerase activity in *E. coli*"](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_I) but not primarily in replication. Removes RNA primers on the lagging strand and replaces them with DNA to connect Okazaki fragments. [According to Wikipedia](https://en.wikipedia.org/wiki/DNA_polymerase_I#Function), Pol I has 4 functions:
 	1. Most important replication function: forward 5'&#8594; 3' replacement of RNA with proper DNA daughter sequences. This all takes place on the lagging strand and  connects Okazaki fragments, waiting only for ligase to seal everything up to finish the job.
 	2. Proofreading in the reverse 3'&#8594; 5' direction using exonuclease site.
 	3. Forward exonuclease 5'&#8594; 3' to mediate nick translation during DNA repair. 
 	4. Very low usage forward 5'&#8594; 3' RNA-dependent polymerase activity.
-* [Pol II](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_II) –involved in *E. coli* [SOS induction](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
+* [Pol II](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_II) was discovered in 1970 by Thomas Kornberg and there is 5x more abundant in E. coli cells as compared to Pol III. 
+	* The activity of Pol II is still under debate but it seems to be a backup molecule for replication when Pol III stalls out. 
+	* Pol II seems to preferentially work on the lagging strand. 
+	* Pol II important to the *E. coli* [SOS induction](https://en.wikipedia.org/wiki/SOS_response) cellular repair system. 
+	* Part of Famiy B like eukaryotic polymerases like Pol B, Pol alpha(&#945;), Pol delta (&#948;), Pol epsilon (&#949;).  
 * [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III) - primary enzyme used in bacterial DNA replication. Member of Family C. Moves in the usual  5'&#8594;  3' direction for replication and moves backwards in the 3'&#8594;  5' direction for exonuclease action.
 * [Pol IV](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_IV) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Pol V](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_V) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
