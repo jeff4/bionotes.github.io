@@ -58,6 +58,7 @@ For answer, see Fig. 5-10 p. 271
 * Also two other items:
 	* topo I and topo II to relieve DNA helix torsion ahead of the replication fork.
 	* strand-directed mismatch repair, keyed to unmethylated A nucleotides in GATC sequences.
+* [A more technical anatomy of the replisome](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme#Components) can be found on the Wikipedia entry for *E. coli* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme)
 
 ### Major enzymes involved in DNA Replication per Lander lecture
 * Helicase to make the initial cut to start the replication fork
@@ -84,7 +85,10 @@ For answer, see Fig. 5-10 p. 271
 	* Pol II seems to preferentially work on the lagging strand. 
 	* Pol II important to the *E. coli* [SOS induction](https://en.wikipedia.org/wiki/SOS_response) cellular repair system. 
 	* Part of Famiy B like eukaryotic polymerases like Pol B, Pol alpha(&#945;), Pol delta (&#948;), Pol epsilon (&#949;).  
-* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III) - primary enzyme used in bacterial DNA replication. Member of Family C. Moves in the usual  5'&#8594;  3' direction for replication and moves backwards in the 3'&#8594;  5' direction for exonuclease action.
+* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III)
+	* Although lowest in apparent concentration and activity, Pol III is by far the most important polymerase used in bacterial DNA replication. 
+	* Like Pol II, discovered in 1970 by Thomas Kornberg.
+	* Member of Family C. Moves in the usual  5'&#8594;  3' direction for replication and moves backwards in the 3'&#8594;  5' direction for exonuclease action.
 * [Pol IV](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_IV) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Pol V](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_V) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Family D](https://en.wikipedia.org/wiki/DNA_polymerase#Family_D)
@@ -92,7 +96,7 @@ For answer, see Fig. 5-10 p. 271
 #### Eukaryotic DNA Polymerase
 * Polymerase beta (&#946;) used in DNA repair
 * Polymerase lambda (&#955;), sigma (&#963;), and mu (&#956;) and TdT
-* Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;)
+* Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;) - part of Family B
 * Polymerases eta (&#951;), iota (&#953;), and kappa (&#954;)
 * Polymerases Rev1 and zeta (&#950;)
 * Polymerases gamma (&#947;) is used in mitochondria. theta (&#952;), and nu (&#957;)
