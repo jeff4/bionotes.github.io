@@ -76,11 +76,11 @@ For answer, see Fig. 5-10 p. 271
 * [Family D](https://en.wikipedia.org/wiki/DNA_polymerase#Family_D)
 
 #### Eukaryotic DNA Polymerase
-* Polymerases beta, lambda, sigma, and mu and TdT
-* Polymerases alpha, delta, and epsilon
-* Polymerases eta, iota, and kappa
-* Polymerases Rev1 and zeta
-* Polymerases gamma, theta, and nu
+* Polymerases beta (&#946;), lambda (&#955;), sigma (&#963;), and mu (&#956;) and TdT
+* Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;)
+* Polymerases eta (&#951;), iota (&#953;), and kappa (&#954;)
+* Polymerases Rev1 and zeta (&#950;)
+* Polymerases gamma (&#947;), theta (&#952;), and nu (&#957;)
 * Reverse Transcriptase
 * Telomerase
 
