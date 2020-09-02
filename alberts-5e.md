@@ -66,21 +66,32 @@ For answer, see Fig. 5-10 p. 271
 * Ligase to join together short Okazaki fragments on the lagging strand
 * Topoisomerase I and II that moves ahead of the replication fork and relieving the coil tension created by unwinding the double helix. [Topo I](https://en.wikipedia.org/wiki/Type_I_topoisomerase) creates a single strand nick while [Topo II](https://en.wikipedia.org/wiki/Type_II_topoisomerase) is a  gate-folded enzyme that moves strands past each other with a controlled cut and rejoin of one strand. See also p. 278-280.
 
+### Right-handed structure of Polymerase
+* Per [this link](https://microbenotes.com/dna-polymerase/), all DNA polymerases have  three domains:
+	1. The "thumb" binds to the DNA substrate
+	2. The "fingers" recognize specific nucleotides and performs the base-pair hydrogen bonding
+	3. The "palm" contains the catalytic sites. (I think this means the "P" catalytic site for the phosphodiester covalent bond extending the DNA backbone and the "E" catalytic site for proofreading and exonuclease for incorrect nucleotides that have been accidentally attached.)
+
 ### Different types of DNA Polymerase
 #### Prokaryotic DNA Polymerase
-* [Pol I](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_I)
+* [Pol I](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_I) - first polymerase discovered by Arthur Kornberg in 1956. Removes RNA primers on the lagging strand and replaces them with DNA to connect Okazaki fragments. [According to Wikipedia](https://en.wikipedia.org/wiki/DNA_polymerase_I#Function), Pol I has 4 functions:
+	1. Most important replication function: forward 5'&#8594; 3' replacement of RNA with proper DNA daughter sequences. This all takes place on the lagging strand and  connects Okazaki fragments, waiting only for ligase to seal everything up to finish the job.
+	2. Proofreading in the reverse 3'&#8594; 5' direction using exonuclease site.
+	3. Forward exonuclease 5'&#8594; 3' to mediate nick translation during DNA repair. 
+	4. Very low usage forward 5'&#8594; 3' RNA-dependent polymerase activity.
 * [Pol II](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_II) –involved in *E. coli* [SOS induction](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
-* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III)
+* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III) - primary enzyme used in bacterial DNA replication. Member of Family C. Moves in the usual  5'&#8594;  3' direction for replication and moves backwards in the 3'&#8594;  5' direction for exonuclease action.
 * [Pol IV](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_IV) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Pol V](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_V) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Family D](https://en.wikipedia.org/wiki/DNA_polymerase#Family_D)
 
 #### Eukaryotic DNA Polymerase
-* Polymerases beta (&#946;), lambda (&#955;), sigma (&#963;), and mu (&#956;) and TdT
+* Polymerase beta (&#946;) used in DNA repair
+* Polymerase lambda (&#955;), sigma (&#963;), and mu (&#956;) and TdT
 * Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;)
 * Polymerases eta (&#951;), iota (&#953;), and kappa (&#954;)
 * Polymerases Rev1 and zeta (&#950;)
-* Polymerases gamma (&#947;), theta (&#952;), and nu (&#957;)
+* Polymerases gamma (&#947;) is used in mitochondria. theta (&#952;), and nu (&#957;)
 * Reverse Transcriptase
 * Telomerase
 
