@@ -106,7 +106,7 @@ For answer, see Fig. 5-10 p. 271
 * Reverse Transcriptase
 * Telomerase
 
-#### 7 families of DNA 
+#### 7 families of DNA polymerase
 * **Family A** - **Pol I** and has 2 exonuclease domains (goes in both directions 5'&#8594; 3' and 3'&#8594; 5')
 * **Family B** - **Pol II** for proofreading
 * **Family C** - Prokaryotic only, e.g. **Pol III** Standard workhorse for primary *E. coli* transcription
