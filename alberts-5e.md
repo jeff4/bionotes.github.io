@@ -5,7 +5,7 @@ permalink: /alberts-5e/
 
 
 # Molecular Biology of the Cell
-* Fifth Edition (2008)
+* MBOC, Fifth Edition (2008)
 * Authors: Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
 
 ## Chapter 1: Cells and Genomes
