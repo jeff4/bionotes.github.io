@@ -87,16 +87,19 @@ For answer, see Fig. 5-10 p. 271
 	* Part of Famiy B like eukaryotic polymerases like Pol B, Pol alpha(&#945;), Pol delta (&#948;), Pol epsilon (&#949;).  
 * [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_III)
 	* Although lowest in apparent concentration and activity, Pol III is by far the most important polymerase used in bacterial DNA replication. 
+	* Because of the action of it's associated sliding camp, this polymerase works incredibly, fast, moving through nucleotides at a 1000x rate compared to other polymerases.
 	* Like Pol II, discovered in 1970 by Thomas Kornberg.
 	* Member of Family C. Moves in the usual  5'&#8594;  3' direction for replication and moves backwards in the 3'&#8594;  5' direction for exonuclease action.
+	* Has 3 components: (1) the pol III core, (2) the [beta sliding clamp](https://en.wikipedia.org/wiki/DNA_clamp) processivity factor, and (3) the sliding clamp loader. The clamp loader is responsible for both attaching the clamp to the DNA strand and removing the clamp. A sliding camp molecule can only be attached to *either* a clamp loader complex *or* a polymerase molecule, but *not both* at the same time.  
 * [Pol IV](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_IV) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Pol V](https://en.wikipedia.org/wiki/DNA_polymerase#Pol_V) –involved in *E. coli* [SOS response](https://en.wikipedia.org/wiki/SOS_response) cellular repair system
 * [Family D](https://en.wikipedia.org/wiki/DNA_polymerase#Family_D)
 
 #### Eukaryotic DNA Polymerase
+* Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;) - part of Family B
+	* [Polymerase delta (&#948;)](https://en.wikipedia.org/wiki/DNA_polymerase_delta) is probably the eukaryotic equivalent of Pol III in bacteria because polymerase delta (&#948;) also has an associated sliding clamp called [PCNA](https://en.wikipedia.org/wiki/Proliferating_cell_nuclear_antigen). Per the [DNA Clamp Wikipedia article](https://en.wikipedia.org/wiki/DNA_clamp), [PCNA is highly conserved](https://en.wikipedia.org/wiki/DNA_clamp#Eukaryote) across the animal, fungi, and plant kingdoms. 
 * Polymerase beta (&#946;) used in DNA repair
 * Polymerase lambda (&#955;), sigma (&#963;), and mu (&#956;) and TdT
-* Polymerases alpha (&#945;), delta (&#948;), and epsilon (&#949;) - part of Family B
 * Polymerases eta (&#951;), iota (&#953;), and kappa (&#954;)
 * Polymerases Rev1 and zeta (&#950;)
 * Polymerases gamma (&#947;) is used in mitochondria. theta (&#952;), and nu (&#957;)
