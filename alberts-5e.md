@@ -49,7 +49,7 @@ For answer, see Fig. 5-10 p. 271
 
 ### Multi-enzyme Replication Complex per Alberts Fig. 5-19
 * See p. 276 **Fig 5-19**...
-* **DNA helicase** to cut / unwind DNA template strands at the beginning of the replication fork
+* **DNA helicase** to unwind the DNA helix at the replication fork into leading and lagging strands
 * **Primase** to put down RNA primers. Used in leading strand once but used over and over again in the lagging strand.
 * **DNA Polymerase** that both adds new nucleotides and has an exonuclease catalyic site to remove mismatches
 * **Sliding clamp** and **clamp loader** to keep DNA Poly machinery attached to template strand
@@ -61,7 +61,7 @@ For answer, see Fig. 5-10 p. 271
 * [A more technical anatomy of the replisome](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme#Components) can be found on the Wikipedia entry for *E. coli* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme)
 
 ### Major enzymes involved in DNA Replication per Lander lecture
-* Helicase to make the initial cut to start the replication fork
+* Helicase to continuously unwind the helix at the replication fork
 * Primase to add short RNA primers as a starting point for DNA Polymerase
 * DNA Polymerase and associated Exonuclease catalytic sites
 * Ligase to join together short Okazaki fragments on the lagging strand
