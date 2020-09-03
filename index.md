@@ -17,8 +17,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
 
 
-### note that there are selected video lectures on development, neurobiology, and cancer in the Spring, 2013 MIT 7.013 OCW course linked [here](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/video-lectures/)
-
 ### Species count as of 2014 - Sadava, p. 8
 
 | Taxon    | Currently described species | *Estimated* number of living species |
@@ -397,10 +395,6 @@ Lectures 22, 23, 24
 
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
 * Awesome [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
-
-
-<!-- *See also*
-* Notes on [general chemistry](/general-chemistry/)
-* Notes on [organic chemistry](/organic-chemistry/)
--->
-
+* Info from Australian science animator Drew Berry
+	* Read the comment thread at [this io9 interview piece](https://io9.gizmodo.com/animator-drew-berry-is-here-to-talk-to-you-about-making-1644346171)
+	* [Good FAQ](https://www.drewberry.com/faq) about tools and getting started.
