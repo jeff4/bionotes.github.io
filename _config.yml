@@ -3,3 +3,5 @@ description: Personal notes on biological science
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-sitemap
