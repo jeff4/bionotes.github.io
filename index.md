@@ -346,7 +346,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Exonuclease runs in the 3'-->5' direction and takes bases off of the chain (opposite activity compared to DNA Polymerase). Improves accuracy from 1/1000 to 1/1,000,000. One error in every 10<sup>3</sup> becomes after exonuclease one error in every million 10<sup>6</sup>.
 * Another method: mismatch detection and repair. When a basepair shows a mismatch between two nucleotides, how does E.coli know which one is the "correct" nucleotide and which is the new "wrong" nucleotide? Luckly, there is a methylation process that marks the original parent strand of DNA. New, daugher strands of DNA lack these methylization markers for a bit. So E.Coli only repairs the unmethylated "newborn" DNA strand.
 * After combining proofreading, exonuclease, and mismatch repair, error rate becomes about one in a billion bp (aka 1 in 10<sup>8</sup>). Given that the human genome is only about 3 billion bp, this means that there are only a total of 30-40 errors per replication.
-* Kornberg's Polymerase is DNA polymerase I, which is not the "real polymerase" b/c it polymerizes at 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
+* The real workhorse for replication is Pol III, not Pol I and Pol II that were discovered earlier.  Pol I is not the "real polymerase" and it polymerizes at only 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
+* For much more detail about DNA Replication, see handwritten notes and [notes on Molecular Biology of the Cell, Alberts](/alberts-5e) Chapter 5.
 
 
 
