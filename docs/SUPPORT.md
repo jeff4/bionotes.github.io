@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: 'yes'
+---
+
 ## Where to get help
 
 If you think you've found a bug in The Architect Theme, please [check the existing issues](https://github.com/pages-themes/architect/issues), and if no one has reported the problem, [open a new issue](https://github.com/pages-themes/architect/issues/new).
