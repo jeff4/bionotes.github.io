@@ -394,7 +394,7 @@ Lectures 22, 23, 24
 # Miscellaneous notes
 
 * Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
-* Awesome [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
-* Info from Australian science animator Drew Berry
+* Excellent [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
+* [Wikipedia article](https://en.wikipedia.org/wiki/Drew_Berry) about Australian science animator [Drew Berry](https://www.macfound.org/fellows/27/)
 	* Read the comment thread at [this io9 interview piece](https://io9.gizmodo.com/animator-drew-berry-is-here-to-talk-to-you-about-making-1644346171)
 	* [Good FAQ](https://www.drewberry.com/faq) about tools and getting started.
