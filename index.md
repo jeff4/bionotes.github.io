@@ -352,6 +352,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
 * September 4, 2020
 * Uracil is a pyrimidine that is exactly like thymine except it is missing the -CH<sub>3</sub> methyl group off the 5 carbon
+* Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 
@@ -379,7 +380,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 10,11</del>
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
-Lectures 12, 13, 14
+* **Lecture 12:** *started*
+* Lectures 13, 14
+
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
 ### Unit 8: Genomics I - Human Genome
