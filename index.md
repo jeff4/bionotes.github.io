@@ -355,6 +355,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
+* Consider replication, transcription, and translation in eukaryotes, prokaryotes, and viruses.
 
 
  
@@ -380,8 +381,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 10,11</del>
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
-* **Lecture 12:** *started*
-* Lectures 13, 14
+* <del>Lecture 12: transcription and translation</del>
+* **Lecture 13 on variations between viruses, prokaryotes and eukaryotes *currently watching***
+* Lecture 14
 
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
