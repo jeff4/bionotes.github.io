@@ -376,7 +376,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
 * **Finish problem set for Unit 4: Genetics II**
 
-### Unit 5 : Molecular Biology I - DNA Replication
+### <del> Unit 5 : Molecular Biology I - DNA Replication</del>
 * <del>Lecture 10,11</del>
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
