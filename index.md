@@ -349,10 +349,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * The real workhorse for replication is Pol III, not Pol I and Pol II that were discovered earlier.  Pol I is not the "real polymerase" and it polymerizes at only 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
 * For much more detail about DNA Replication, see handwritten notes and [notes on Molecular Biology of the Cell, Alberts](/alberts-5e) Chapter 5.
 
-
-
 ## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
-* 
+* September 4, 2020
+* Uracil is a pyrimidine that is exactly like thymine except it is missing the -CH<sub>3</sub> methyl group off the 5 carbon
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 
