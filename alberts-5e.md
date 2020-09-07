@@ -49,7 +49,7 @@ For answer, see Fig. 5-10 p. 271
 
 ### Multi-enzyme Replication Complex per Alberts Fig. 5-19
 * See p. 276 **Fig 5-19**...
-* **DNA helicase** to unwind the DNA helix at the replication fork into leading and lagging strands
+* **DNA helicase** to unwind DNA template strands at the replication fork. See the example of [dnaB helicase](https://en.wikipedia.org/wiki/DnaB_helicase) in E. coli and [this 2020 intellectual history of heilcases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140857/). 
 * **Primase** to put down RNA primers. Used in leading strand once but used over and over again in the lagging strand.
 * **DNA Polymerase** that both adds new nucleotides and has an exonuclease catalyic site to remove mismatches
 * **Sliding clamp** and **clamp loader** to keep DNA Poly machinery attached to template strand
@@ -59,9 +59,10 @@ For answer, see Fig. 5-10 p. 271
 	* topo I and topo II to relieve DNA helix torsion ahead of the replication fork.
 	* strand-directed mismatch repair, keyed to unmethylated A nucleotides in GATC sequences.
 * [A more technical anatomy of the replisome](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme#Components) can be found on the Wikipedia entry for *E. coli* [Pol III](https://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme)
+See more recent developments this [2018 paper on bacterial replisomes](https://www.sciencedirect.com/science/article/pii/S0959440X18300952?via%3Dihub)
 
 ### Major enzymes involved in DNA Replication per Lander lecture
-* Helicase to continuously unwind the helix at the replication fork
+* Helicase to make the initial cut to start the replication fork
 * Primase to add short RNA primers as a starting point for DNA Polymerase
 * DNA Polymerase and associated Exonuclease catalytic sites
 * Ligase to join together short Okazaki fragments on the lagging strand
@@ -72,6 +73,16 @@ For answer, see Fig. 5-10 p. 271
 	1. The "thumb" binds to the DNA substrate
 	2. The "fingers" recognize specific nucleotides and performs the base-pair hydrogen bonding
 	3. The "palm" contains the catalytic sites. (I think this means the "P" catalytic site for the phosphodiester covalent bond extending the DNA backbone and the "E" catalytic site for proofreading and exonuclease for incorrect nucleotides that have been accidentally attached.)
+
+### Good links for Replisome	
+* Wikipedia article on the [replisome](https://en.wikipedia.org/wiki/Replisome)
+* [*Clamp loader ATPases and the evolution of DNA replication machinery*](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1) (2012) by Kelch, Makino, O'Donnell, & John Kuriyan
+* [Michael O'Donnell's website](https://odonnell.rockefeller.edu/research.html) at Rockefeller University
+	* [Publications](https://odonnell.rockefeller.edu/articles.html)
+	* [Replisome mechanics: insights into a twin DNA polymerase machine](https://odonnell.rockefeller.edu/assets/pdfs/179.pdf)
+	* DNA replication in [prokaryotes](https://odonnell.rockefeller.edu/bacterial.html)
+	* DNA replication in [eukaryotes](https://odonnell.rockefeller.edu/eukaryotic.html)
+
 
 ### Different types of DNA Polymerase
 #### Prokaryotic DNA Polymerase
