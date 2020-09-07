@@ -76,7 +76,7 @@ See more recent developments this [2018 paper on bacterial replisomes](https://w
 
 ### Good links for Replisome	
 * Wikipedia article on the [replisome](https://en.wikipedia.org/wiki/Replisome)
-* [*Clamp loader ATPases and the evolution of DNA replication machinery*](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1) (2012) by Kelch, Makino, O'Donnell, & John Kuriyan
+* [*Clamp loader ATPases and the evolution of DNA replication machinery*](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1) (2012) by Kelch, Makino, O'Donnell, & John Kuriyan. Picture suggests that there are *three* Pol III cores attached to the replisome. One is always attached to the leading strand while the second and third polymerase enzymes switch off on alternate Okazaki fragments. This view is different than the animation shown in [Berry's 2010 replication video](https://www.youtube.com/watch?v=6j8CV3droDw) which only shows a total of **two** Pol III cores, one for each strand.
 * [Michael O'Donnell's website](https://odonnell.rockefeller.edu/research.html) at Rockefeller University
 	* [Publications](https://odonnell.rockefeller.edu/articles.html)
 	* [Replisome mechanics: insights into a twin DNA polymerase machine](https://odonnell.rockefeller.edu/assets/pdfs/179.pdf) (2007)
