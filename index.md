@@ -347,16 +347,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Another method: mismatch detection and repair. When a basepair shows a mismatch between two nucleotides, how does E.coli know which one is the "correct" nucleotide and which is the new "wrong" nucleotide? Luckly, there is a methylation process that marks the original parent strand of DNA. New, daugher strands of DNA lack these methylization markers for a bit. So E.Coli only repairs the unmethylated "newborn" DNA strand.
 * After combining proofreading, exonuclease, and mismatch repair, error rate becomes about one in a billion bp (aka 1 in 10<sup>8</sup>). Given that the human genome is only about 3 billion bp, this means that there are only a total of 30-40 errors per replication.
 * The real workhorse for replication is Pol III, not Pol I and Pol II that were discovered earlier.  Pol I is not the "real polymerase" and it polymerizes at only 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
-* For much more detail about DNA Replication, see handwritten notes and [notes on Molecular Biology of the Cell, Alberts](/alberts-5e) Chapter 5.
 
-### Good links for Replisome	
-* Wikipedia article on the [replisome](https://en.wikipedia.org/wiki/Replisome)
-* [*Clamp loader ATPases and the evolution of DNA replication machinery*](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1) (2012) by Kelch, Makino, O'Donnell, & John Kuriyan
-* [Michael O'Donnell's website](https://odonnell.rockefeller.edu/research.html) at Rockefeller University
-	* [Publications](https://odonnell.rockefeller.edu/articles.html)
-	* [Replisome mechanics: insights into a twin DNA polymerase machine](https://odonnell.rockefeller.edu/assets/pdfs/179.pdf)
-	* DNA replication in [prokaryotes](https://odonnell.rockefeller.edu/bacterial.html)
-	* DNA replication in [eukaryotes](https://odonnell.rockefeller.edu/eukaryotic.html)
+### More details on Replicon
+* For much more detail about DNA Replication, see handwritten notes and [notes on Molecular Biology of the Cell, Alberts](/alberts-5e) Chapter 5.
+	* In particular, refer to the [wiki article for the replisome](https://en.wikipedia.org/wiki/Replisome), this [2012 diagram](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1), and JH handwritten notes from 9/06/2020
 
 
 ## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
