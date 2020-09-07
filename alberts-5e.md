@@ -79,7 +79,7 @@ See more recent developments this [2018 paper on bacterial replisomes](https://w
 * [*Clamp loader ATPases and the evolution of DNA replication machinery*](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1) (2012) by Kelch, Makino, O'Donnell, & John Kuriyan
 * [Michael O'Donnell's website](https://odonnell.rockefeller.edu/research.html) at Rockefeller University
 	* [Publications](https://odonnell.rockefeller.edu/articles.html)
-	* [Replisome mechanics: insights into a twin DNA polymerase machine](https://odonnell.rockefeller.edu/assets/pdfs/179.pdf)
+	* [Replisome mechanics: insights into a twin DNA polymerase machine](https://odonnell.rockefeller.edu/assets/pdfs/179.pdf) (2007)
 	* DNA replication in [prokaryotes](https://odonnell.rockefeller.edu/bacterial.html)
 	* DNA replication in [eukaryotes](https://odonnell.rockefeller.edu/eukaryotic.html)
 
