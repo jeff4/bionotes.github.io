@@ -367,7 +367,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* double stranded linear DNA
 	* double stranded circular DNA
 	* single stranded DNA
-	* single stranded RNA in both [+ssRNA aka +strand](https://en.wikipedia.org/wiki/Positive-strand_RNA_virus) and [-ssRNA aka -strand](https://en.wikipedia.org/wiki/Negative-strand_RNA_virus) varieties. Retroviruses like HIV use reverse transcriptase to insert themselves into host DNA>
+	* single stranded RNA in both [+ssRNA aka positive strand](https://en.wikipedia.org/wiki/Positive-strand_RNA_virus) and [-ssRNA aka negative strand](https://en.wikipedia.org/wiki/Negative-strand_RNA_virus) varieties. Retroviruses like HIV use reverse transcriptase to insert themselves into host DNA.
 * Prokaryotes (700 - 6,000 kb. e.g., *E. coli* has 4,000 kb genome)
 	* Replication in prokaryotes is pretty straightforward b/c it has 1 large chromosome that is circular. Easy replication for various bacterial plasmids as well.
 * Eukaryotic replication (12 Mb - 4,000 Mb; see [PSU notes, Lecture 2](https://www.bionotes.org/psu334/))
