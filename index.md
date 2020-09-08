@@ -361,19 +361,33 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 ### September 7, 2020
 * Inventory of replication, transcription, and translation in eukaryotes, prokaryotes, and viruses.
-* Replication in prokaryotes is pretty straightforward b/c it has 1 large chromosome that is circular. Easy replication for various bacterial plasmids as well.
-* Eukaryotic replication
+
+### Replication
+* Viral replication (5 - 200 kb) and has these types of genetic material in their protein capsid:
+	* double stranded linear DNA
+	* double stranded circular DNA
+	* single stranded DNA
+	* single stranded RNA in both [+ssRNA aka +strand](https://en.wikipedia.org/wiki/Positive-strand_RNA_virus) and [-ssRNA aka -strand](https://en.wikipedia.org/wiki/Negative-strand_RNA_virus) varieties. Retroviruses like HIV use reverse transcriptase to insert themselves into host DNA>
+* Prokaryotes (700 - 6,000 kb. e.g., *E. coli* has 4,000 kb genome)
+	* Replication in prokaryotes is pretty straightforward b/c it has 1 large chromosome that is circular. Easy replication for various bacterial plasmids as well.
+* Eukaryotic replication (12 Mb - 4,000 Mb; see [PSU notes, Lecture 2](https://www.bionotes.org/psu334/))
 	* However, replication in eukaryotes is more complicated because eukaryotic chromosomes are linear. 
 	* This is fine for leading strand replication but lagging strand synthesis will screw up unless the final Okazaki fragment lines up exactly with the length of the chromosome. 
 	* Instead, there are *telomeres* on the end of the each chromosomes, consisting of repeated sequences of **5'-TTAGGG-3'** (aka "T2AG3"). These **T2AG3** sequences are elongated by [telomerase](https://en.wikipedia.org/wiki/Telomerase).
 	* Note that there are different repeating sequences depending on genera. See [table at wiki article here](https://en.wikipedia.org/wiki/Telomere#Sequences).
-* Transcription in prokaryotes. Pretty straightforward
-* Transcription in eukaryotes. There weird things
-	* Start issue 5'
-	* Stop sequence at 3' end
-	* Introns removed by RNA splicing.
 
-## Lecture 14: two gene regulators
+### Transcription
+* Prokaryote transcription is pretty straightforward
+* Transcription in eukaryotes. The [immature RNA aka primary transcript](https://en.wikipedia.org/wiki/Primary_transcript) is processed into [mature mRNA.Three](https://en.wikipedia.org/wiki/Mature_messenger_RNA). Three things happen during this processing:
+	* A single GTP (aka  Guanine with three phosphates) is added as a "start" cap to the 5' end of mature mRNA in a process called "[capping](https://en.wikipedia.org/wiki/Five-prime_cap)".
+	* The 3' end of the mRNA goes through [polyadenation](https://en.wikipedia.org/wiki/Polyadenylation). In other words, a **poly(A) tail** (*aka* a repetitive series of adenines, AAAA...) are added to the 3' end. Virtually all eukaryotic mRNA's have poly(A) tails.
+	* [Introns](https://en.wikipedia.org/wiki/Intron) removed by RNA splicing. Alternate splicing means that the same DNA gene and same immature mRNA can be spliced into different mature mRNAs (with different exons) that therefore express different proteins. In other words, most eukaryotic genes are called ["split" or "interrupted"](https://en.wikipedia.org/wiki/Interrupted_gene).
+		* Intron and exon are terms coined by [Walter Gilbert](https://en.wikipedia.org/wiki/Walter_Gilbert) at Harvard; Glibert also co-founded Biogen and Myriad Genetics and, in 1986, first proposed the [RNA World hypothesis](https://en.wikipedia.org/wiki/RNA_world).
+		* The existence of interrupted genes and RNA splicing was discovered by at Cold Spring Harbor Lab by [Richard Roberts](https://en.wikipedia.org/wiki/Richard_J._Roberts) and [Phillip Sharp](https://en.wikipedia.org/wiki/Phillip_Allen_Sharp). Sharp would later take a leadership role at the MIT Biology Dept and co-found Biogen, Alnylam Pharmaceuticals, and Magen Biosciences.
+
+## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin
+
+### September 9, 2020
 
  
  
