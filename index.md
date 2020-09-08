@@ -360,7 +360,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 ### September 7, 2020
-* Inventory of replication, transcription, and translation in eukaryotes, prokaryotes, and viruses.
+* How do replication, transcription, and translation work in eukaryotes, prokaryotes, and viruses?
 
 ### Replication
 * Viral replication (5 - 200 kb) and has these types of genetic material in their protein capsid:
@@ -413,8 +413,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
 * <del>Lecture 12: transcription and translation</del>
-* **Lecture 13 on variations between viruses, prokaryotes and eukaryotes *currently watching***
-* Lecture 14
+* **Lecture 13 on variations between viruses, prokaryotes and eukaryotes**
+* Lecture 14:A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin
 
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
