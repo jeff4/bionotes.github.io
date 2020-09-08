@@ -34,7 +34,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
-* Seems like intro lectures by Eric Lander were recorded in the fall of 2012, because he references this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) and [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html). Also, he refers to an early lecture earlier that morning at the Broad Institute (probably by [Feng Zhang](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) or a close collaborator) about work that was not yet published and about new developments in applying CRISPR/Cas9 to precisely edit DNA in mammalian systems.
+* Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year. This is suggested by Lander's reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html),  [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html), and a recent talk given at the Broad Institute (probably by [Feng Zhang's team](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline)) about CRISPR/Cas9 applied to human and mice cells in this [2013 Science paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/pdf/nihms444192.pdf).
 * Timeline
 	* **4.5 billion** years ago: Earth formed
 	* **4.0 B** ya: Earth cooled enough for life
