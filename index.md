@@ -361,7 +361,19 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 ### September 7, 2020
 * Inventory of replication, transcription, and translation in eukaryotes, prokaryotes, and viruses.
+* Replication in prokaryotes is pretty straightforward b/c it has 1 large chromosome that is circular. Easy replication for various bacterial plasmids as well.
+* Eukaryotic replication
+	* However, replication in eukaryotes is more complicated because eukaryotic chromosomes are linear. 
+	* This is fine for leading strand replication but lagging strand synthesis will screw up unless the final Okazaki fragment lines up exactly with the length of the chromosome. 
+	* Instead, there are *telomeres* on the end of the each chromosomes, consisting of repeated sequences of **TTAGGG** (aka "T2AG3"). These **T2AG3** sequences are elongated by [telomerase](https://en.wikipedia.org/wiki/Telomerase).
+	* Note that there are different repeating sequences depending on genera. See [table at wiki article here](https://en.wikipedia.org/wiki/Telomere#Sequences).
+* Transcription in prokaryotes. Pretty straightforward
+* Transcription in eukaryotes. There weird things
+	* Start issue 5'
+	* Stop sequence at 3' end
+	* Introns removed by RNA splicing.
 
+## Lecture 14: two gene regulators
 
  
  
