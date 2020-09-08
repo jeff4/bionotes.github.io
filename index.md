@@ -365,7 +365,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Eukaryotic replication
 	* However, replication in eukaryotes is more complicated because eukaryotic chromosomes are linear. 
 	* This is fine for leading strand replication but lagging strand synthesis will screw up unless the final Okazaki fragment lines up exactly with the length of the chromosome. 
-	* Instead, there are *telomeres* on the end of the each chromosomes, consisting of repeated sequences of **TTAGGG** (aka "T2AG3"). These **T2AG3** sequences are elongated by [telomerase](https://en.wikipedia.org/wiki/Telomerase).
+	* Instead, there are *telomeres* on the end of the each chromosomes, consisting of repeated sequences of **5'-TTAGGG-3'** (aka "T2AG3"). These **T2AG3** sequences are elongated by [telomerase](https://en.wikipedia.org/wiki/Telomerase).
 	* Note that there are different repeating sequences depending on genera. See [table at wiki article here](https://en.wikipedia.org/wiki/Telomere#Sequences).
 * Transcription in prokaryotes. Pretty straightforward
 * Transcription in eukaryotes. There weird things
