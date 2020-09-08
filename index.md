@@ -166,12 +166,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* Chapter 14: Mitochondria and Chloroplasts. p. 817 Citric Acid Cycle (fka Krebs Cycle). p. 819 diagram of overall citric acid cycle, Figure 14-10
 	* **Sadava** Chapter 9, p.165 - 182
 		* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide. **For best version of Jeff's redox diagram, see JH notes 8/06/2020**
-		* p. 168: summary diagram of glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
-		* p. 177: more detailed summary of reactants and products for glucose -> glycolysis -> pyruvate -> branch between aerobic respiration and anaerobic fermentation
+		* p. 168: summary diagram of glucose &#8594; glycolysis &#8594; pyruvate &#8594; branch between aerobic respiration and anaerobic fermentation
+		* p. 177: more detailed summary of reactants and products for glucose &#8594; glycolysis &#8594; pyruvate &#8594; branch between aerobic respiration and anaerobic fermentation
 		* p. 169: detailed chemical diagram from input glucose to output pyruvate
 		* p. 170: diagram of citric acid cycle
 * Regulation of pathways. Negative feedback loops aka balancing loops.
-	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A -> B -> C -> D -> E. If/when [E] is too high we want E to act as a regulator to change the performance of the C->D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C -> D reaction. aka **feedback inhibition**
+	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A &#8594; B &#8594; C &#8594; D &#8594; E. If/when [E] is too high we want E to act as a regulator to change the performance of the C&#8594;D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C &#8594; D reaction. aka **feedback inhibition**
 * In contrast, **feedforward activation** if there is too much reactant and not enough product and we want the mechanism to work faster. This upregulates the activity of the relevant enzymes
 * Cellular respiration and fermentation
 
@@ -272,7 +272,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Archibald Garrod and Alkaptonuria
 * In early 20th century London. [Alkaptonuria](https://en.wikipedia.org/wiki/Alkaptonuria) = "black urine" in infants. In 8 of the 17 cases, the affected children were the result of first cousin marriages. If only 1 grandparent has a single Alkaptonuria allele (which expresses a recessive trait), and assuming that the spouses who marry into the family in the F1 generation are 100% wildtype, and assuming that first cousins in the F2 generation intermarry, then there is a 1/16 chance that the great-grandchildren born in the F3 generation will be homozygous for the alkap allele and express the recessive trait.
 * Next Dr. Garrod studied the chemical compound in the urine that turns things black in air is [homogentisic acid (HGA)](https://en.wikipedia.org/wiki/Homogentisic_acid). The oxidation of HGA creates this black color. The phenol ring looks like amino acids phenylalanine and tyrosine. Experimentally, when Garrod fed these babies extra protein, extra phenylalanine, and extra tyrosine, more HGA was produced.
-* He knows that in  wildtype human digestion, protein is broken down into --> amino acids (like Phe, Tyr) --> homogentisic acid (HGA) --> further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
+* He knows that in  wildtype human digestion, protein is broken down into &#8594; amino acids (like Phe, Tyr) &#8594; homogentisic acid (HGA) &#8594; further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
 
 ### Josh Meisel and Pedigree Analysis
 * Meisel, C. elegans and infectious bacteria PhD advised by [Dennis Kim](http://kimlab.mit.edu/people.html) and  current postdoc in [Vamsi Mootha's mitochondria lab](http://mootha.med.harvard.edu/members.html) at Harvard Medical School. 
@@ -333,7 +333,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Basic Replication
 * DNA Polymerase
 	* 1956, Arthur Kornberg manually adds radioactively tagged dATP, dCTP, dGTP, and dTTP. Short for dexoyadenosine triphosphate (dATP), deoxycytidine triphosphate (dCTP), deoxyguanosine triphosphate (dGTP), and deoxythymidine triphosphate (dTTP). See table on [this wiki page](https://en.wikipedia.org/wiki/Nucleoside#Use_in_medicine_and_technology).
-	* Explanation of why DNA must grow in the 5' --> 3' direction; otherwise, the last monomer on the growing chain might hydrolyze
+	* Explanation of why DNA must grow in the 5' &#8594; 3' direction; otherwise, the last monomer on the growing chain might hydrolyze
 * Other enzymes involved:
 	* **Helicase** unwinds helix
 	* **Primase** creates the RNA primer to get the replication started
@@ -343,7 +343,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Methods that ensure replication fidelity
 * DNA Polymerase does proofreading.
-* Exonuclease runs in the 3'-->5' direction and takes bases off of the chain (opposite activity compared to DNA Polymerase). Improves accuracy from 1/1000 to 1/1,000,000. One error in every 10<sup>3</sup> becomes after exonuclease one error in every million 10<sup>6</sup>.
+* Exonuclease runs in the 3'&#8594;5' direction and takes bases off of the chain (opposite activity compared to DNA Polymerase). Improves accuracy from 1/1000 to 1/1,000,000. One error in every 10<sup>3</sup> becomes after exonuclease one error in every million 10<sup>6</sup>.
 * Another method: mismatch detection and repair. When a basepair shows a mismatch between two nucleotides, how does E.coli know which one is the "correct" nucleotide and which is the new "wrong" nucleotide? Luckly, there is a methylation process that marks the original parent strand of DNA. New, daugher strands of DNA lack these methylization markers for a bit. So E.Coli only repairs the unmethylated "newborn" DNA strand.
 * After combining proofreading, exonuclease, and mismatch repair, error rate becomes about one in a billion bp (aka 1 in 10<sup>8</sup>). Given that the human genome is only about 3 billion bp, this means that there are only a total of 30-40 errors per replication.
 * The real workhorse for replication is Pol III, not Pol I and Pol II that were discovered earlier.  Pol I is not the "real polymerase" and it polymerizes at only 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
