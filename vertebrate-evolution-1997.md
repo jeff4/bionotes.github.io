@@ -4,9 +4,11 @@ permalink: /carroll-1997/
 ---
 
 # Patterns and Processes of Vertebrate Evolution
-* Author: [Robert L. Carroll](https://en.wikipedia.org/wiki/Robert_L._Carroll)
-* Part of the [Cambridge Paleobiology Series](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/series/cambridge-paleobiology-series)
-* Wikipedia [claims](https://en.wikipedia.org/wiki/Vertebrate_Paleontology_and_Evolution) this book was published in 1988 but Cambridge University Press indicates that the [1st edition is from October 1977](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/palaeontology-and-life-history/patterns-and-processes-vertebrate-evolution?format=PB&isbn=9780521478090).
+* [First edition](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/palaeontology-and-life-history/patterns-and-processes-vertebrate-evolution?format=PB&isbn=9780521478090) published in 1997 as part of the [Cambridge Paleobiology Series](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/series/cambridge-paleobiology-series)
+* Written by [Robert L. Carroll](https://en.wikipedia.org/wiki/Robert_L._Carroll), a longtime professor at [McGill](https://www.the-scientist.com/news-opinion/robert-carroll-who-studied-amphibian-evolution-dies-67468).
+	* [R.I.P. April 2020](https://journals.library.ualberta.ca/vamp/index.php/VAMP/article/view/29364/21414).
+	* Profiled at [science.ca](http://www.science.ca/scientists/scientistprofile.php?pID=335). 
+ 
 
 ## Chapter 1: Current Problems in Evolutionary Theory
 * "Although Darwin's theory sought to deal with evolution over all time scales, almost all of his evidence was drawn from the modern biota." (p. 2)
