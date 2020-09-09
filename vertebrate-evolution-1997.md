@@ -4,8 +4,9 @@ permalink: /carroll-1997/
 ---
 
 # Patterns and Processes of Vertebrate Evolution
-* Author: Robert L. Carroll
-* Cambridge Paleobiology Series, 1997
+* Author: [Robert L. Carroll](https://en.wikipedia.org/wiki/Robert_L._Carroll)
+* Part of the [Cambridge Paleobiology Series](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/series/cambridge-paleobiology-series)
+* Wikipedia [claims](https://en.wikipedia.org/wiki/Vertebrate_Paleontology_and_Evolution) this book was published in 1988 but Cambridge University Press indicates that the [1st edition is from October 1977](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/palaeontology-and-life-history/patterns-and-processes-vertebrate-evolution?format=PB&isbn=9780521478090).
 
 ## Chapter 1: Current Problems in Evolutionary Theory
 * "Although Darwin's theory sought to deal with evolution over all time scales, almost all of his evidence was drawn from the modern biota." (p. 2)
