@@ -5,7 +5,7 @@ permalink: /carroll-1997/
 
 # Patterns and Processes of Vertebrate Evolution
 * [First edition](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/palaeontology-and-life-history/patterns-and-processes-vertebrate-evolution?format=PB&isbn=9780521478090) published in 1997 as part of the [Cambridge Paleobiology Series](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/series/cambridge-paleobiology-series)
-* Written by [McGill](https://www.mcgill.ca/biology/) Professor of Biology [Robert L. Carroll](https://en.wikipedia.org/wiki/Robert_L._Carroll), who  served as [Curator of Vertebrate Paleontology](https://www.the-scientist.com/news-opinion/robert-carroll-who-studied-amphibian-evolution-dies-67468) of the Redpath Museum for almost half a century.
+* Written by [McGill](https://www.mcgill.ca/biology/) Professor of Biology [Robert L. Carroll](https://en.wikipedia.org/wiki/Robert_L._Carroll), who  served as [Curator of Vertebrate Paleontology](https://www.mcgill.ca/redpath/about/directors#CARROLL) of the [Redpath Museum](https://en.wikipedia.org/wiki/Redpath_Museum) for almost half a century.
 	* [R.I.P. April 2020](https://journals.library.ualberta.ca/vamp/index.php/VAMP/article/view/29364/21414).
 	* Profiled at [science.ca](http://www.science.ca/scientists/scientistprofile.php?pID=335) and at [The Scientist](https://www.the-scientist.com/news-opinion/robert-carroll-who-studied-amphibian-evolution-dies-67468).
  
