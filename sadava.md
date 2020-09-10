@@ -6,7 +6,7 @@ permalink: /sadava/
 # Life, The Science of Biology
 * [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014. Abbreviated as **Sadava**.
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
-* See [notes on General Chemistry](/general-chemistry/) for Sadava, Chapter 2
+* See notes on Sadava Chapter 2 reviewing general chemistry on [this page](/general-chemistry/)
 
 
 ## Chapter 3: Macromolecules I - Proteins, Carbohydrates, Lipids (p. 39-61)
