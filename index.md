@@ -436,9 +436,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 10,11</del>
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
-* <del>Lecture 12: transcription and translation</del>
-* **Lecture 13 on variations between viruses, prokaryotes and eukaryotes**
-* Lecture 14:A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin
+* <del>Lecture 12: Transcription and Translation</del>
+* <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
+* **Lecture 14: A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin**
 
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
