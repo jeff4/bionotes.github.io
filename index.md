@@ -388,6 +388,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* Intron and exon are terms coined by [Walter Gilbert](https://en.wikipedia.org/wiki/Walter_Gilbert) at Harvard; Glibert also co-founded Biogen and Myriad Genetics and, in 1986, first proposed the [RNA World hypothesis](https://en.wikipedia.org/wiki/RNA_world).
 		* The existence of interrupted genes and RNA splicing was discovered by at Cold Spring Harbor Lab by [Richard Roberts](https://en.wikipedia.org/wiki/Richard_J._Roberts) and [Phillip Sharp](https://en.wikipedia.org/wiki/Phillip_Allen_Sharp). Sharp would later take a leadership role at the MIT Biology Dept and co-found Biogen, Alnylam Pharmaceuticals, and Magen Biosciences.
 
+
+### Translation
+* **Eukaryotes**. start code: 5'-AUG-3' and stop codon: 5'-UAG-3'  Eukaryotes are very profligate spenders of genome space so perhaps they don't leverage multiple reading frames over the same mRNA segment. 
+* In contrast, both **prokaryaotes** and **viruses** have much more compact genomes.
+	* As such, they often need to compress as many messages as possible into a short strand of mRNA. 
+	* One strategy used by bacteria is to string along many sequential genes all activated by the same promoter region–this is called being [**polycistronic**](https://en.wikipedia.org/wiki/Messenger_RNA#Monocistronic_versus_polycistronic_mRNA). Both archaea and bacteria leverage polycistronic RNA
+		* Often useful if all these proteins are involved in the same biochemical process.
+		* In contrast, being **monocistronic** is the opposite. This is one a single promoter region one DNA gene &#8594; one mRNA &#8594; one protein, in keeping with a more traditional Central Dogma model. Most eukaryotic mRNAs are monocistronic.
+	* Another strategy used by both bacteria and viruses is having multiple reading frames on the same mRNA. They may pack 2 or even 3 reading frames onto a single strand of mRNA.  Example: HIV.
+
+
 ## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin
 
 ### September 9, 2020
