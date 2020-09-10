@@ -362,7 +362,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
-### September 7, 2020
+### September 7-8, 2020
 * How do replication, transcription, and translation work in eukaryotes, prokaryotes, and viruses?
 
 ### Replication
@@ -398,11 +398,21 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* In contrast, being **monocistronic** is the opposite. This is one a single promoter region one DNA gene &#8594; one mRNA &#8594; one protein, in keeping with a more traditional Central Dogma model. Most eukaryotic mRNAs are monocistronic.
 	* Another strategy used by both bacteria and viruses is having multiple reading frames on the same mRNA. They may pack 2 or even 3 reading frames onto a single strand of mRNA.  Example: HIV.
 
-
-## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin
+## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase in E. Coli and &#946;-Globin in Humans
 
 ### September 9, 2020
 
+* Today's lecture is about gene control in the context of two genes: (1) &#946;-Galactosidase in *E. coli* as part of the glucose-lactose catalysis switch. (2) &#946;-Globin in humans as part of hemoglobin
+
+### &#946;-Galactosidase in E. coli
+* Beta-galactosidase &#946;-Galactosidase (in E. coli) aka "beta-gal" or "&#946;-gal"
+* Lac operon
+* 
+
+
+### &#946;-Globin
+* in humans
+* One of the subunits of hemglobin
  
  
 ---		
