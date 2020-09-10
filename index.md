@@ -360,6 +360,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### September 4, 2020
 * Uracil is a pyrimidine that is exactly like thymine except it is missing the -CH<sub>3</sub> methyl group off the 5 carbon
 * Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
+* Note: Because RNA polymerase builds the mRNA in the 5'&#8594; 3' direction, that means that it is reading off of **3'&#8594; 5' strand of DNA**. See Fig 14.4 on Sadava p. 287 for example.
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 ### September 7-8, 2020
