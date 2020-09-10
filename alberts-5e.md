@@ -125,3 +125,7 @@ See more recent developments this [2018 paper on bacterial replisomes](https://w
 * Family X - Eukaryotic only
 * Family Y 
 * Family RT - viruses, retroviruses, and Eukaryotes, e.g., telomerase
+
+
+## Chapter 7: Control of Gene Expression
+* 9/11/2020
