@@ -457,7 +457,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Transposons can jump right into the middle of a gene. Even though this seems unlikely (given the small % of the genome that is coding protein), it happens frequently enough that we see a child of two non-thalassemic parents can be a mutant *with* thalassemia because a transposon destroyed their &#946;-Globin gene.
 * Wholesale deletion of a gene. Murphy's Law; if exposure to x-rays, a big mistake in the DNA copying machinery, a total break in the chromosome, etc.
 
-### LCRs and &#946;-Globin
+### LCRs and &#946;-Globin Regulation
 * [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is **100k bp away** from the &#946;-Globin gene!
 * When &#946;-Globin operon is activated. The chromosome seems to folds up so that the LCR and the promoter are actually touching.
 * Papers about LCRs for &#946;-Globin:
