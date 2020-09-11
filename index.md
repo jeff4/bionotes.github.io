@@ -423,8 +423,15 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * At the same time, RNAP binds somewhat weakly to the lac operon promoter region. However, if, in addition to high lactose concentration there is also low glucose concentration, this is an additional factor that encourages lactose metabolism.
 	* The way this factor works is that if the concentration of glucose molecules is LOW, that means that the concentration of cAMP is high. cAMP which means attaches to the [CAP (Catabolite Activator Protein)](https://en.wikipedia.org/wiki/Catabolite_activator_protein). When there is no cAMP activating CAP, CAP just floats in solution. But *with* cAMP attached, CAP becomes activated and clamps onto the DNA strand. As an activator molecule, CAP significantly improves the activity of the *lac* operon, overcoming the weak baseline activity of the *lac* promoter region when all you have is the *lac* repressor thrown away from the DNA.
 
+### Estrogen receptors in humans
+* Estrogen receptor is bound to another protein, sitting in the cytoplasm of mammalian cells. When that this receptor-protein complex connects with an estrogen molecule, this complex then moves into the cell nucleus and then attaches to the nuclear DNA in various places.
+* At that point, it activates DNA transcription / expression of specific genes.
+* In other words, estrogen acts as a **DNA-binding transcription factor **that can cross the phospholipid bilayer cell membrane.
+
 ### &#946;-Globin
-* in humans
+* Reminder that hemoglobin as a tetramer with two alpha-subunits and two beta-subunits.
+* The [alpha-subunits](https://en.wikipedia.org/wiki/Hemoglobin,_alpha_1) are coded by the *HBA1* gene (located on chromosome 16).
+*  The [beta-subunits](https://en.wikipedia.org/wiki/HBB) are coded by the *HBB* gene (located on chromosome 11).
 * One of the subunits of hemglobin
  
  
