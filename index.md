@@ -456,10 +456,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Poly-adenylation site mutations. If there is a mutation at the Poly(A) site, then the protective endcap on the mRNA tail won't be there and it may be degraded, leading to problems during translation.
 * Transposons can jump right into the middle of a gene. Even though this seems unlikely (given the small % of the genome that is coding protein), it happens frequently enough that we see a child of two non-thalassemic parents can be a mutant *with* thalassemia because a transposon destroyed their &#946;-Globin gene.
 * Wholesale deletion of a gene. Murphy's Law; if exposure to x-rays, a big mistake in the DNA copying machinery, a total break in the chromosome, etc.
-* 
+
 ### LCRs and &#946;-Globin
 * [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is 100k bp away! 
-* The first paper describing the &#946;-Globin LCR was the 1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias.
+* The first paper describing the &#946;-Globin LCR was this [1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias](https://pubmed.ncbi.nlm.nih.gov/3690667/).
 * Other references to LCRs for &#946;-Globin:
 	* [2002 review article by Stamatoyannopoulos & Grosveld](https://www.nature.com/articles/pr200269.pdf?origin=ppub)
 	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
