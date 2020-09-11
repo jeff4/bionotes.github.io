@@ -459,8 +459,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### LCRs and &#946;-Globin
 * [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is 100k bp away! 
-* The first paper describing the &#946;-Globin LCR was this [1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias](https://pubmed.ncbi.nlm.nih.gov/3690667/).
-* Other references to LCRs for &#946;-Globin:
+* Papers about LCRs for &#946;-Globin:
+	* [Locus control regions (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811695/) by Li, Peterson, Fang, and Stamatoyannopoulos. Key review article that cites all other papers shown below 
+	* The first paper describing the &#946;-Globin LCR was this [1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias](https://pubmed.ncbi.nlm.nih.gov/3690667/).
 	* [2002 review article by Stamatoyannopoulos & Grosveld](https://www.nature.com/articles/pr200269.pdf?origin=ppub)
 	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
 	* [Locus control regions: coming of age at a decade plus (1999)](https://pubmed.ncbi.nlm.nih.gov/10498936/) by Li, Harju, and Peterson
