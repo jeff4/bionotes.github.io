@@ -447,7 +447,23 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* The problem with this is that now the nonpolar hydrophobic Val residues attach to similar hydrophobic patch on each &#945;-Globin subunit. As a result, instead of small circular clean tetramers, hemoglobins become these long chains of back-to-back &#945; and &#946; subunits. 
 	* This forms long rods inside the red blood cell, turning the overall RBC into a sickle shape: [causing](https://www.nature.com/scitable/topicpage/genetic-mutation-441/) [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle_cell_disease#Genetics)!
 * Next consider a mutation in the eighth amino acid: AAG which codes for lysine (Lys). If we change it to TAG, that codes for a Stop codon! We call this a *nonsense mutation*. If you are homozygous for this mutation, it's very deadly and it's called beta thalassemia.
-* Consider the codons in positions 3, 4, and 5: **CTG-ACT-CCT**. If the G is deleted from Codon 3 (CT**G**), then we have a frameshift mutation. Now the sequence is **CTA-CTC-CT?-**.
+* Consider the codons in positions 3, 4, and 5: **CTG-ACT-CCT**. If the G is deleted from Codon 3 (CT **G**), then we have a frameshift mutation. Now the sequence is **CTA-CTC-CT?-**.
+	* The original Leu-Thr-Pro now becomes a Leu-Leu-Leu-and everything afterwards is scrambled
+* Another problem is if the promoter is killed. Then the whole operon is unable to be expressed
+* What about if there are mutations in the splicing machinery?
+	* There are GT before and AG after exons that are necessary to indicate that there is an exon to be spliced.
+	* If these these splice sites are mutated, then immature [precursor RNA](https://en.wikipedia.org/wiki/Primary_transcript) won't be properly turned into [mature mRNA](https://en.wikipedia.org/wiki/Mature_messenger_RNA)
+* Poly-adenylation site mutations. If there is a mutation at the Poly(A) site, then the protective endcap on the mRNA tail won't be there and it may be degraded, leading to problems during translation.
+* Transposons can jump right into the middle of a gene. Even though this seems unlikely (given the small % of the genome that is coding protein), it happens frequently enough that we see a child of two non-thalassemic parents can be a mutant *with* thalassemia because a transposon destroyed their &#946;-Globin gene.
+* Wholesale deletion of a gene. Murphy's Law; if exposure to x-rays, a big mistake in the DNA copying machinery, a total break in the chromosome, etc.
+* 
+### LCRs and &#946;-Globin
+* [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is 100k bp away! 
+* The first paper describing the &#946;-Globin LCR was the 1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias.
+* Other references to LCRs for &#946;-Globin:
+	* [2002 review article by Stamatoyannopoulos & Grosveld](https://www.nature.com/articles/pr200269.pdf?origin=ppub)
+	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
+	* [Locus control regions: coming of age at a decade plus (1999)](https://pubmed.ncbi.nlm.nih.gov/10498936/) by Li, Harju, and Peterson
  
 ## Lecture 15: Cloning - Purifying a Gene
 ## Lecture 16: Finding a Specific Gene in the Library
