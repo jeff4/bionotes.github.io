@@ -479,7 +479,18 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  
 ## Lecture 15: Cloning - Purifying a Gene
 ### September 11, 2020
+* By the mid-1960's, some of the most senior biologists thought that the secret of life had essentially been "solved"; perhaps it was time to move onto the human brain.
+* Typical gene is about 10-30kb long
+* How do you isolate a single gene? It's hard to purify one segment DNA vs.s another segment b/c they are all chemically so similar. Different problem than proteins which are different from each other.
+* Important to clarify that cloning as applied to DNA does not refer to human or sheep organismal cloning. Specifically, we mean it here the process of isolating a specific fragment of DNA, encouraging it to replicate (which it was built to do), 
+* Steps:
+	1. Isolate / Cut the desired DNA segment
+	2. Paste the desired DNA segment into a **vector**. A vector is something a cell will automatically duplicate. (e.g., plasmid?)
+	3. Transform aka insert this duplicated/cloned DNA into a target cell
+	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells.
 
+### Cutting / Isolation
+* Restriction endonuclease
 
 ## Lecture 16: Finding a Specific Gene in the Library
 ## Lecture 17: Analyzing a Gene
