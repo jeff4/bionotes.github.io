@@ -469,7 +469,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  
 ### &#946;-Globin Region
  * Not just the gene, but the overall DNA before and after it.
- * The next gene over is another gene called delta-globin. 
+ * The next gene over is another gene called delta-globin.
+ * 98% of hemoglobin in humans is the standard alpha-alpha-beta-beta tetramer (&#945;-&#945;-&#946;-&#946;). However, 2% of the hemoglobin is alpha-alpha-delta-delta tetramer (&#945;-&#945;-&#948;-&#948;).
  
  
 ## Lecture 15: Cloning - Purifying a Gene
