@@ -410,7 +410,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* In contrast, being **monocistronic** is the opposite. This is one a single promoter region one DNA gene &#8594; one mRNA &#8594; one protein, in keeping with a more traditional Central Dogma model. Most eukaryotic mRNAs are monocistronic.
 	* Another strategy used by both bacteria and viruses is having multiple reading frames on the same mRNA. They may pack 2 or even 3 reading frames onto a single strand of mRNA.  Example: HIV.
 
-## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase in E. Coli and &#946;-Globin in Humans
+## Lecture 14: &#946;-Galactosidase in E. Coli, Estrogen in Mammals, and &#946;-Globin in Humans
 
 ### September 9-11, 2020
 
@@ -501,7 +501,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
 * <del>Lecture 12: Transcription and Translation</del>
 * <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
-* **Lecture 14: A Tale of Two Genes– &#946;-Galactosidase and &#946;-Globin**
+* **Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin**
 
 ### Unit 7: Recombinant DNA
 Lectures 15, 16, 17
