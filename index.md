@@ -361,7 +361,13 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Uracil is a pyrimidine that is exactly like thymine except it is missing the -CH<sub>3</sub> methyl group off the 5 carbon
 * Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
 * Note: Because [RNA polymerase](https://en.wikipedia.org/wiki/RNA_polymerase) builds the mRNA in the 5'&#8594; 3' direction, that means that RNApol is reading off of **3'&#8594; 5' strand of DNA**. See Fig 14.4 on Sadava p. 287 for example.
-* Also, RNA polymerase is officially called *DNA-directed RNA polymerase*
+* Also, RNA polymerase is officially called *DNA-directed RNA polymerase*.
+* For more details:
+	* Since transcription grows via [RNA polymerase](https://en.wikipedia.org/wiki/RNA_polymerase) aka RNAP aka RNApol in the 5'&#8594; 3' direction, that means that it is reading in the 3'&#8594; 5' direction. It is reading off of what is called the [**template strand**](https://en.wikipedia.org/wiki/Coding_strand#Alternative_terms_for_strands) aka **antisense strand** in the 3'&#8594; 5' direction.
+	* In contrast, the new mRNA transcript has the same pattern as the opposite strand aka the **coding strand** aka the **sense strand**.
+	* See also <a href="https://en.wikipedia.org/wiki/Transcription_(biology)#/media/File:MRNA.svg">this diagram</a> from the [wikipedia article on transcription](https://en.wikipedia.org/wiki/Transcription_(biology)).
+
+
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
 ### September 7-8, 2020
@@ -383,6 +389,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Transcription
 * Prokaryote transcription is pretty straightforward
+* Reminder:
+	* Sense strand = coding strand = mRNA pattern.
+	* Anti-sense strand = template strand = complement of the mRNA
 * Transcription in eukaryotes. The [immature RNA aka primary transcript](https://en.wikipedia.org/wiki/Primary_transcript) is processed into [mature mRNA.Three](https://en.wikipedia.org/wiki/Mature_messenger_RNA). Three things happen during this processing:
 	* A single GTP (aka  Guanine with three phosphates) is added as a "start" cap to the 5' end of mature mRNA in a process called "[capping](https://en.wikipedia.org/wiki/Five-prime_cap)".
 	* The 3' end of the mRNA goes through [polyadenation](https://en.wikipedia.org/wiki/Polyadenylation). In other words, a **poly(A) tail** (*aka* a repetitive series of adenines, AAAA...) are added to the 3' end. Virtually all eukaryotic mRNA's have poly(A) tails.
