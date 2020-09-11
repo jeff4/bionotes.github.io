@@ -1,4 +1,4 @@
----
+\---
 title: Home
 ---
 
@@ -440,9 +440,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* 432 / 3 = 144 amino acids
 	* At the end is a poly(A) tail starting at the stop codon AUG which is the beginning of the terminating polyadylation site
 
-### Mutations of &#946;-Globin
+### Mutations of the &#946;-Globin transcript
 * GAG encodes glutamic acid. Consider the possible mutation which turns it to GAA, which also codes for GLU. Since no change, this is called a *silent substitution*.
-* What if GAG is mutated to GAT aka GAU? Now we are coding for aspartic acid (Asp) instead of Glu. We call this a *missense change*; not a silent substitution b/c the amino acid coded is actually different. However, since both Asp and Glu are both negatively charged polar residues, probably the function doesn't change that much.
+* What if GAG is mutated to GAT aka GAU? Now we are coding for aspartic acid (Asp) instead of Glu. We call this a conservative *missense change*; not a silent substitution b/c the amino acid coded is actually different. However, since both Asp and Glu are both negatively charged polar residues, probably the function doesn't change that much. Similarly, if we change leucine to isoleucine probably not a huge change.
+* Imagine GAG changed to GTG; this means Glu turns into valine (Val). Big change from a negatively charged polar (aka hydrophilic) Glu to a hydrophobic (aka nonpolar) Val residue. This is probably a **nonconservative** missense change.
+	* The problem with this is that now the nonpolar hydrophobic Val residues attach to similar hydrophobic patch on each &#945;-Globin subunit. As a result, instead of small circular clean tetramers, hemoglobins become these long chains of back-to-back &#945; and &#946; subunits. 
+	* This forms long rods inside the red blood cell, turning the overall RBC into a sickle shape: [causing](https://www.nature.com/scitable/topicpage/genetic-mutation-441/) [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle_cell_disease#Genetics)!
  
 ## Lecture 15: Cloning - Purifying a Gene
 ## Lecture 16: Finding a Specific Gene in the Library
