@@ -232,7 +232,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  
 ### Meiosis review by PhD student Michelle
  * Diploid number refers to the number of total chromosomes = 2n where n refers to the number of pairs. e.g., human beings have n = 23 for **23 pairs of chromosomes**. So humans diploid number = 2n = 2 * 23 = **46 chromosomes** where each chromosome has a **homologous** "semi-duplicate" chromosome with the same genes but possibly different alleles at each gene loci. 
- * See also supplemental [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc.  
+ * See also supplemental [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc. 
+ * Also,  covers meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)
  
 
  
@@ -432,20 +433,22 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 # Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
 <del>Lectures 1, 2, 3</del>
+
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
 <del>Lectures 4, 5</del>
 
 ### <del>Unit 3: Genetics including meiosis</del>
-* <del> Lectures 6, 7 *all completed including Michelle's PhD video on meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)*</del>
-* **Finish problem set for Unit 3: Genetics I**
+* <del> Lectures 6, 7</del>
+* Finish problem set for Unit 3: Genetics I
 
 ### <del>Unit 4: Human and Biochemical Genetics</del>
-* <del>Lectures 8, 9
+* <del>Lectures 8, 9</del>
 * Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
-* **Finish problem set for Unit 4: Genetics II**
+* Finish problem set for Unit 4: Genetics II
 
 ### <del> Unit 5 : Molecular Biology I - DNA Replication</del>
-* <del>Lecture 10,11</del>
+* <del>Lecture 10</del>
+* <del>Lecture 11</del>
 
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
 * <del>Lecture 12: Transcription and Translation</del>
