@@ -438,7 +438,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* The untranslated part at the end of the mRNA is called the **3'-untranslated region**.
 	* 432 bp coding region inside the overall 614 bp mature (aka post-processed) mRNA gene
 	* 432 / 3 = 144 amino acids
-	* At the end is a poly(A) tail
+	* At the end is a poly(A) tail starting at the stop codon AUG which is the beginning of the terminating polyadylation site
+
+### Mutations of &#946;-Globin
+* GAG encodes glutamic acid. Consider the possible mutation which turns it to GAA, which also codes for GLU. Since no change, this is called a *silent substitution*.
+* What if GAG is mutated to GAT aka GAU? Now we are coding for aspartic acid (Asp) instead of Glu. We call this a *missense change*; not a silent substitution b/c the amino acid coded is actually different. However, since both Asp and Glu are both negatively charged polar residues, probably the function doesn't change that much.
  
 ## Lecture 15: Cloning - Purifying a Gene
 ## Lecture 16: Finding a Specific Gene in the Library
