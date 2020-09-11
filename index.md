@@ -458,10 +458,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Wholesale deletion of a gene. Murphy's Law; if exposure to x-rays, a big mistake in the DNA copying machinery, a total break in the chromosome, etc.
 
 ### LCRs and &#946;-Globin
-* [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is 100k bp away! 
+* [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is **100k bp away** from the &#946;-Globin gene! 
 * Papers about LCRs for &#946;-Globin:
 	* [Locus control regions (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811695/) by Li, Peterson, Fang, and Stamatoyannopoulos. Key review article that cites all other papers shown below 
-	* The first paper describing the &#946;-Globin LCR was this [1987 Cell article by Grosveld, van Assendelft, Greaves, and Kollias](https://pubmed.ncbi.nlm.nih.gov/3690667/).
+	* [Classic 1987 Cell paper](https://pubmed.ncbi.nlm.nih.gov/3690667/) on locus control regions for &#946;-Globin by Grosveld, van Assendelft, Greaves, and Kollias.
 	* [2002 review article by Stamatoyannopoulos & Grosveld](https://www.nature.com/articles/pr200269.pdf?origin=ppub)
 	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
 	* [Locus control regions: coming of age at a decade plus (1999)](https://pubmed.ncbi.nlm.nih.gov/10498936/) by Li, Harju, and Peterson
