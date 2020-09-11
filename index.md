@@ -426,7 +426,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Estrogen receptors in humans
 * Estrogen receptor is bound to another protein, sitting in the cytoplasm of mammalian cells. When that this receptor-protein complex connects with an estrogen molecule, this complex then moves into the cell nucleus and then attaches to the nuclear DNA in various places.
 * At that point, it activates DNA transcription / expression of specific genes.
-* In other words, estrogen acts as a **DNA-binding transcription factor **that can cross the phospholipid bilayer cell membrane.
+* In other words, estrogen acts as a **DNA-binding transcription factor** that can cross the phospholipid bilayer cell membrane.
 
 ### &#946;-Globin in humans
 * Reminder that hemoglobin as a tetramer with two alpha-subunits and two beta-subunits.
