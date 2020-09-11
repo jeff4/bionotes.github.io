@@ -371,7 +371,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 13: Central Dogma 3 - Variations from the Dogma
-### September 7-8, 2020
+### September 7-9, 2020
 * How do replication, transcription, and translation work in eukaryotes, prokaryotes, and viruses?
 
 ### Replication
@@ -412,7 +412,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 14: &#946;-Galactosidase in E. Coli, Estrogen in Mammals, and &#946;-Globin in Humans
 
-### September 9-11, 2020
+### September 10-12, 2020
 
 * Today's lecture is about gene control in the context of two genes: (1) &#946;-Galactosidase in *E. coli* as part of the glucose-lactose catalysis switch. (2) &#946;-Globin in humans as part of hemoglobin
 
@@ -471,9 +471,16 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  * Not just the gene, but the overall DNA before and after it.
  * The next gene over is another gene called delta-globin.
  * 98% of hemoglobin in humans is the standard alpha-alpha-beta-beta tetramer (&#945;-&#945;-&#946;-&#946;). However, 2% of the hemoglobin is alpha-alpha-delta-delta tetramer (&#945;-&#945;-&#948;-&#948;).
- 
+ * There are also gamma-globin (&#947;-globin) genes close to the beta-globin genes. Usually, these genes are not expressed. They are primarily turned *only* turned on during fetal development. Binds more strongly to oxygen than regular beta-globin hemoglobin.
+ * This is one reason why some of the sickle cell anemia people suffer less b/c they are still expressing fetal &#947;-globin hemoglobin.
+ * Another globin called epsilon-globin (&#949;-globin) used in embryos.
+ * These **paralogs** are probably caused by **unequal crossing over**, aka crossing over homologous recombination during meiosis which caused duplication. Uneven exchange during this process, leading to duplication. Process is called **duplication and divergence** and is responsible for many homologs out there.
+ * Globin superfamily includes alpha, beta, gamma, delta, epislon, and myoglobins. (See photos - 9/11/2020)
  
 ## Lecture 15: Cloning - Purifying a Gene
+### September 11, 2020
+
+
 ## Lecture 16: Finding a Specific Gene in the Library
 ## Lecture 17: Analyzing a Gene
 
@@ -502,10 +509,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 6 : Molecular Biology II - Transciption, Translation, Variations
 * <del>Lecture 12: Transcription and Translation</del>
 * <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
-* **Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin**
+* <del>Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin</del>
+* Cerego Memory Set
 
 ### Unit 7: Recombinant DNA
-Lectures 15, 16, 17
+* **Lecture 15: Cloning - Purifying a Gene**
+* Lecture 16
+* Lecture 17
+
 ### Unit 8: Genomics I - Human Genome
 Lectures 18, 19
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
