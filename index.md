@@ -412,7 +412,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 14: A Tale of Two Genes– &#946;-Galactosidase in E. Coli and &#946;-Globin in Humans
 
-### September 9, 2020
+### September 9-11, 2020
 
 * Today's lecture is about gene control in the context of two genes: (1) &#946;-Galactosidase in *E. coli* as part of the glucose-lactose catalysis switch. (2) &#946;-Globin in humans as part of hemoglobin
 
@@ -440,7 +440,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* 432 / 3 = 144 amino acids
 	* At the end is a poly(A) tail
  
- 
+## Lecture 15: Cloning - Purifying a Gene
+## Lecture 16: Finding a Specific Gene in the Library
+## Lecture 17: Analyzing a Gene
+
 ---		
 
 # Checklist
