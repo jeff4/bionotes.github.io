@@ -467,7 +467,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
 	* [Locus control regions: coming of age at a decade plus (1999)](https://pubmed.ncbi.nlm.nih.gov/10498936/) by Li, Harju, and Peterson
  
- ### &#946;-Globin Region
+### &#946;-Globin Region
  * Not just the gene, but the overall DNA before and after it.
  * The next gene over is another gene called delta-globin. 
  
