@@ -1,4 +1,4 @@
-\---
+---
 title: Home
 ---
 
@@ -446,6 +446,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Imagine GAG changed to GTG; this means Glu turns into valine (Val). Big change from a negatively charged polar (aka hydrophilic) Glu to a hydrophobic (aka nonpolar) Val residue. This is probably a **nonconservative** missense change.
 	* The problem with this is that now the nonpolar hydrophobic Val residues attach to similar hydrophobic patch on each &#945;-Globin subunit. As a result, instead of small circular clean tetramers, hemoglobins become these long chains of back-to-back &#945; and &#946; subunits. 
 	* This forms long rods inside the red blood cell, turning the overall RBC into a sickle shape: [causing](https://www.nature.com/scitable/topicpage/genetic-mutation-441/) [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle_cell_disease#Genetics)!
+* Next consider a mutation in the eighth amino acid: AAG which codes for lysine (Lys). If we change it to TAG, that codes for a Stop codon! We call this a *nonsense mutation*. If you are homozygous for this mutation, it's very deadly and it's called beta thalassemia.
  
 ## Lecture 15: Cloning - Purifying a Gene
 ## Lecture 16: Finding a Specific Gene in the Library
