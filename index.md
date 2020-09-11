@@ -428,11 +428,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * At that point, it activates DNA transcription / expression of specific genes.
 * In other words, estrogen acts as a **DNA-binding transcription factor **that can cross the phospholipid bilayer cell membrane.
 
-### &#946;-Globin
+### &#946;-Globin in humans
 * Reminder that hemoglobin as a tetramer with two alpha-subunits and two beta-subunits.
 * The [alpha-subunits](https://en.wikipedia.org/wiki/Hemoglobin,_alpha_1) are coded by the *HBA1* gene (located on chromosome 16).
 *  The [beta-subunits](https://en.wikipedia.org/wiki/HBB) are coded by the *HBB* gene (located on chromosome 11).
-* One of the subunits of hemglobin
+	* Compact gene with three small exons: 140 bp, 222 bp, 252 bp
+	* The first 50 bp are not translated, called the  **5'-untranslated region**.
+	* Thus, the start codon AUG is around 50bp into the first exon. The TAA stop codon is about 120 bp into the third exon.
+	* The untranslated part at the end of the mRNA is called the **3'-untranslated region**.
+	* 432 bp coding region inside the overall 614 bp mature (aka post-processed) mRNA gene
+	* 432 / 3 = 144 amino acids
+	* At the end is a poly(A) tail
  
  
 ---		
