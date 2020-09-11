@@ -521,6 +521,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 12: Transcription and Translation</del>
 * <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
 * <del>Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin</del>
+* Watch Sera's video showing how *lac* operon is regulated by: (1) the lactose-binding repressor and (2) the &#10515;glucose-&#10514;cAMP-bound activator</del>
 * Cerego Memory Set
 
 ### Unit 7: Recombinant DNA
