@@ -145,6 +145,8 @@ permalink: /sadava/
 
 ## Chapter 16: Regulation of Gene Expression
 * 9/11/2020 
+
+### Introduction
 * Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. (p. 329)
 * Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
 	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. [Coded by the *lacY* gene](https://en.wikipedia.org/wiki/Lac_operon).
@@ -154,6 +156,20 @@ permalink: /sadava/
 	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand. After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease), [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) is *increased*.
 * In contrast, **constitutive proteins** are expressed all the time at a constant rate. (p. 330)
 * A cluster of genes that share the same [promoter region](https://en.wikipedia.org/wiki/Promoter_(genetics) is called an [operon](https://en.wikipedia.org/wiki/Operon). Thus, the three lactose-metabolism genes: *lacY*, *lacZ*, and *lacA* are all part of the [same operon](https://en.wikipedia.org/wiki/Lac_operon).
+	* Several genes must be co-transcribed to define an operon.
+	* In general, prokaryotic operons generate [polycistronic mRNAs](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100335437) whereby a single mRNA codes for multiple proteins simultaneously. Eukaryotic operons usually express as [monocistronic mRNAs](https://en.wikipedia.org/wiki/Talk%3AMonocistronic) aka one mRNA per polypeptide or protein.
+	* The typical structure for an operon is: promoter, operator region, and then 2 or more structural genes. (p. 330)
+
+### Types of Regulation covered
+* An inducible operon regulated by a repressor protein (like [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor) which will fall off of the operator region when lactose binds to the repressor)
+* An repressible operon regulated by a repressor protein
+* An operon regualted by an activator protein like [CAP](https://en.wikipedia.org/wiki/Catabolite_activator_protein) which is activated by the presence of [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate).
 
 
 &#946;-
+
+
+
+
+
+
