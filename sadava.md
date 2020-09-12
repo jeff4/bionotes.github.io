@@ -144,10 +144,15 @@ permalink: /sadava/
 	* *c* recessive allele produces an [albino rabbit](https://www.cuteness.com/article/albino-rabbits) with white fur.
 
 ## Chapter 16: Regulation of Gene Expression
-* 9/11/2020 p. 329 -
-* Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. 
+* 9/11/2020 
+* Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. (p. 329)
 * Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
-	1.  [&#946;-Galactoside permease]() is a carrier protein in the bacterial plasma membrane that moves lactose into the cell
-	2. &#946;-Galactosidase hydrolyzes lactose into the monosaccharides glucose and galactose.
-	3. [&#946;-Galactoside transacetylase]() transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides.
-* asdfl;kj
+	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. Coded by the *lacY* gene.
+	2. [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) hydrolyzes lactose into the monosaccharides glucose and galactose. [Coded by *lacZ* gene](https://en.wikipedia.org/wiki/Lac_operon).
+	3. [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides. [Coded by *lacA* gene](https://en.wikipedia.org/wiki/Lac_operon).
+* **Inducers** are substances that stimulate the production of a **inducible protein**. (p. 330)
+	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand. After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes &#946;-Galactoside permease, [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and &#946;-Galactoside transacetylase is *increased*.
+* 
+
+
+&#946;-
