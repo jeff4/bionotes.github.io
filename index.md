@@ -500,10 +500,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 # Checklist
 ### <del>Unit 1: Introduction and the Biochemistry of Life</del>
-<del>Lectures 1, 2, 3</del>
+* <del>Lectures 1, 2, 3</del>
 
 ### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
-<del>Lectures 4, 5</del>
+* <del>Lectures 4, 5</del>
 
 ### <del>Unit 3: Genetics including meiosis</del>
 * <del> Lectures 6, 7</del>
