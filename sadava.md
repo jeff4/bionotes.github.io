@@ -147,12 +147,13 @@ permalink: /sadava/
 * 9/11/2020 
 * Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. (p. 329)
 * Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
-	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. Coded by the *lacY* gene.
+	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. [Coded by the *lacY* gene](https://en.wikipedia.org/wiki/Lac_operon).
 	2. [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) hydrolyzes lactose into the monosaccharides glucose and galactose. [Coded by *lacZ* gene](https://en.wikipedia.org/wiki/Lac_operon).
 	3. [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides. [Coded by *lacA* gene](https://en.wikipedia.org/wiki/Lac_operon).
 * **Inducers** are substances that stimulate the production of a **inducible protein**. (p. 330)
-	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand. After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes &#946;-Galactoside permease, [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and &#946;-Galactoside transacetylase is *increased*.
-* 
+	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand. After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease), [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) is *increased*.
+* In contrast, **constitutive proteins** are expressed all the time at a constant rate. (p. 330)
+* A cluster of genes that share the same [promoter region](https://en.wikipedia.org/wiki/Promoter_(genetics) is called an [operon](https://en.wikipedia.org/wiki/Operon). Thus, the three lactose-metabolism genes: *lacY*, *lacZ*, and *lacA* are all part of the [same operon](https://en.wikipedia.org/wiki/Lac_operon).
 
 
 &#946;-
