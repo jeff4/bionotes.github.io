@@ -132,7 +132,6 @@ permalink: /sadava/
 	* The phosophate group can also attach to other moeities, such as choline in the example of [phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine).
 	* Isoprene units like [2-methyl-1,3 butadiene](https://en.wikipedia.org/wiki/Isoprene). See also the [Organic Chemistry section](/organic-chemistry/).
 
-
 ## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
 * See [notes on Alberts 5th edition](/alberts-5e) 
 
@@ -145,3 +144,10 @@ permalink: /sadava/
 	* *c* recessive allele produces an [albino rabbit](https://www.cuteness.com/article/albino-rabbits) with white fur.
 
 ## Chapter 16: Regulation of Gene Expression
+* 9/11/2020 p. 329 -
+* Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. 
+* Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
+	1.  [&#946;-Galactoside permease]() is a carrier protein in the bacterial plasma membrane that moves lactose into the cell
+	2. &#946;-Galactosidase hydrolyzes lactose into the monosaccharides glucose and galactose.
+	3. [&#946;-Galactoside transacetylase]() transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides.
+* asdfl;kj
