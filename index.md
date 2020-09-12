@@ -422,7 +422,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * High lactose concentration attaches to the [*lac* repressor protein](https://en.wikipedia.org/wiki/Lac_repressor).  Since *lac* repressor active site is bound molecular lactose, *lac* does **not** attach to DNA where it usually rests on top of the lac operon promoter region. Thus, without the *lac* repressor molecule sterically blocking the DNA promoter region, the *lac* operon is expressed, increasing lactose metabolism.
 * At the same time, RNAP binds somewhat weakly to the lac operon promoter region. However, if, in addition to high lactose concentration there is also low glucose concentration, this is an additional factor that encourages lactose metabolism.
 	* The way this factor works is that if the concentration of glucose molecules is LOW, that means that the concentration of cAMP is high. cAMP which means attaches to the [CAP (Catabolite Activator Protein)](https://en.wikipedia.org/wiki/Catabolite_activator_protein). When there is no cAMP activating CAP, CAP just floats in solution. But *with* cAMP attached, CAP becomes activated and clamps onto the DNA strand. As an activator molecule, CAP significantly improves the activity of the *lac* operon, overcoming the weak baseline activity of the *lac* promoter region when all you have is the *lac* repressor thrown away from the DNA.
-* For more details watch [Sera Thornton's lac operon regulation video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) and refer to [Chapter 16 notes for Sadava](/sadava/).
+* For more details watch [Sera Thornton's lac operon regulation video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) and refer to [Sadava notes](/sadava/) for Chapter 16.
 
 ### Estrogen receptors in humans
 * Estrogen receptor is bound to another protein, sitting in the cytoplasm of mammalian cells. When that this receptor-protein complex connects with an estrogen molecule, this complex then moves into the cell nucleus and then attaches to the nuclear DNA in various places.
@@ -522,7 +522,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 12: Transcription and Translation</del>
 * <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
 * <del>Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin</del>
-* <del>Watch Sera's video showing how *lac* operon is regulated by: (1) the lactose-binding repressor and (2) the &#10515;glucose-&#10514;cAMP-bound activator</del>
+* <del>Watch [Sera's video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) showing how *lac* operon is regulated by: (1) the lactose-binding repressor and (2) the &#10515;glucose-&#10514;cAMP-bound activator</del>
 * Cerego Memory Set
 
 ### Unit 7: Recombinant DNA
