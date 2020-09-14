@@ -75,7 +75,9 @@ permalink: /carroll-1997/
 		1. They are unquestionably a [monophyletic group](https://en.wikipedia.org/wiki/Monophyly)
 		2. Nearly all vertebrates "exhibit a single pattern of reproduction, involving recombination of gametes from two sexes."
 		3. Nearly all vertebrates are free-living...[with the exceptions of semi-colonial behavior naked mole rates, parasitism through sexual physical attachment between males and females among some deep sea fish, and lampreys]." 
-* "The basic consistency of anatomy, developmental processes, and reproductive mode among vertebrates act as a control in what can be considered an experimental system." (p. 15)
+* "The basic consistency of anatomy, developmental processes, and reproductive mode among vertebrates act as a control in what can be considered an experimental system. Within this system, one may examine the effects of variable such as, **changing environments**, **different taxonomic affinities** on the rates and patterns of evolution over different time scales." (p. 15)
+* Despite their useful consistency (in terms of similar body plan and modes of reproduction), vertebrates simultaneously exhibit a huge diversity.
+	* As of the mid-1990s, 45,000 species have been identified with many more to be named among oceanic fish and possibly other groups. [(Minelli, 1993)](https://www.springer.com/gp/book/9780412626203)
 
 
 ## Chapter 2: Theories of evolution at the level of populations and species
