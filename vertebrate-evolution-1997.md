@@ -19,4 +19,20 @@ permalink: /carroll-1997/
 	* "There are relatively few major lineages, all of which are very distinct from one another."
 	* "Gaps between the lineages indicate that adaptive space is not fully occupied."
 	* "Instead of showing gradual and continuous change through time, the major lineages appear suddenly in the fossil record, already exhibiting many of the features by which their modern representatives are recognized.
-* "It must be assumed that evolution occurs much more rapidly *between* groups than *within* groups.
+* "It must be assumed that evolution occurs much more rapidly *between* groups than *within* groups. For most of their evolutionary history, fundamental aspects of their anatomy and way of life for these lineages do not change significantly. Very few intermediates between groups are known from the fossil record." (p. 4)
+
+### Evidence from invetebrate fossil record (p. 4)
+* [By the lower Cambrian >510mya], "the earliest known members of all the major [nonvertebrate metazoans] had already achieved the basic body plan of their descendants." 
+* "Few fossils are yet known of plausible intermediates between the invertebrate phyla." 
+
+### Evidence from placental mammals (p. 4)
+* "Among the vertebrates, the radiation of placental mammals shows a similar pattern."
+* "Scattered, fragmentary remains of primitive placental mammals are known as early as the lower Cretaceous ( ~135mya), but their fossils only become common in the late Cretaceous or early Cenozoic (~65mya)."
+* "By the beginning of the Eocene (~57mya), all the major groups living today, as well as many extinct orders, had differentiated." 
+* "Critical characteristics... have remained essentially constant during the subsequent 57 million years separating them from the living fauna."
+* See Figure 1.3 on p. 6, drawn from Gingerich, 1977 in [Chapter 15 (p. 469-500) of *Patterns of Evolution, as Illustrated by the Fossil Record, Vol. 5* edited by A. Hallam](https://books.google.com/books/about/Patterns_of_evolution_as_illustrated_by.html?id=q7GjDIyyWegC)
+
+### Evidence from vascular plants (p.4-7)
+	* "The pattern of large-scale evolution of vascular plants is similar."
+	* "A relatively small number of major groups appear suddenly in the fossil record and then persist with little fundamental change for hundreds of millions of years."
+	* "By the end of the Devonian (~360mya), many of the major subdivisions of vascular plants living today can be recognized on the basis of distinctive reproductive structures." (p. 6)
