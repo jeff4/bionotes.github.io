@@ -49,6 +49,22 @@ permalink: /carroll-1997/
 	5. The cause and significance of mass extinction
 * "The contrast between the patterns seen in populations / living species versus in the fossil record has led to the study of microevolution versus macroevolution." (p. 10) One of the main goals of this book is to examine how well Darwinian microevolutionary natural selection can be applied to macroevolution.
 
-### Obstacles to the unification of short- and long-term evolutionary processes
+### Obstacles to the unification of short- and long-term evolutionary processes (p. 11 - 14)
+* "Although organisms living today are but a continuation of an evolutionary sequence begun 3.5 billion years ago, the information that can be gained from the study of living forms differs radically from that which can be learned by studying their fossil remains." 
+* "Studies of living populations have inherent temporal limitations...no speciation events among vertebrates have been documented during the whole of [recorded] human history." The impressive and fast radation of cichlid fish species in the lakes of West Africa but still too quickly for humans to directly observe. For example, the largest lake is Lake Victoria which has [500 species of cichlids which must have evolved in the last 15,000 years](https://www.nature.com/articles/ncomms14363.pdf) because Victoria was almost dry before then.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
