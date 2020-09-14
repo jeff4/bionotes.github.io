@@ -52,19 +52,9 @@ permalink: /carroll-1997/
 ### Obstacles to the unification of short- and long-term evolutionary processes (p. 11 - 14)
 * "Although organisms living today are but a continuation of an evolutionary sequence begun 3.5 billion years ago, the information that can be gained from the study of living forms differs radically from that which can be learned by studying their fossil remains." 
 * "Studies of living populations have inherent temporal limitations...no speciation events among vertebrates have been documented during the whole of [recorded] human history." The impressive and fast radation of cichlid fish species in the lakes of West Africa but still too quickly for humans to directly observe. For example, the largest lake is Lake Victoria which has [500 species of cichlids which must have evolved in the last 15,000 years](https://www.nature.com/articles/ncomms14363.pdf) because Victoria was almost dry before then.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Unfortunately, the study of fossils presents its own challenges when one is trying to characterize evolutionary phenomena in deep time.
+	* "Fossils provide no direct evidence of the nature of mutations or mutation rates involved in the evolution of novel structures or physiological patterns, nor means to measure selection coefficients."
+	* "Moreover, only a fraction of the characters that can be studied in living populations are preserved in fossils, which are almost always limited to bony or [calcareous structures](https://en.wikipedia.org/wiki/Calcareous)."
+	* The most spectacular recent advance in the study of extinct organism has been the capacity to recover DNA from fossils....unfortunately, the conditions necessary for the preservation of DNA appear so limiting that one can expect to be able to sample only a few organisms within the vastness of geological time." (p. 13)
+* Because of the different subject matter studied, research on micro- and macroevolutionary phenomena are typically published in different scientific journals...More recently founded journals try to bridge the gap, including [*Paleobiology*](https://www.cambridge.org/core/journals/paleobiology), [*Historical Biology*](https://www.tandfonline.com/toc/ghbi20/current), and [*Evolutionary Biology*](https://www.springer.com/journal/11692)."
+* Another serious barrier to developing a unified theory of evolution encompassing data from both living and fossil populations is the fact that very few scientists have devoted equal attention to problems over these different time spans."
