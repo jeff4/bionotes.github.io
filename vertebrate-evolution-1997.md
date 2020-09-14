@@ -33,6 +33,6 @@ permalink: /carroll-1997/
 * See Figure 1.3 on p. 6, drawn from Gingerich, 1977 in [Chapter 15 (p. 469-500) of *Patterns of Evolution, as Illustrated by the Fossil Record, Vol. 5* edited by A. Hallam](https://books.google.com/books/about/Patterns_of_evolution_as_illustrated_by.html?id=q7GjDIyyWegC)
 
 ### Evidence from vascular plants (p.4-7)
-	* "The pattern of large-scale evolution of vascular plants is similar."
-	* "A relatively small number of major groups appear suddenly in the fossil record and then persist with little fundamental change for hundreds of millions of years."
-	* "By the end of the Devonian (~360mya), many of the major subdivisions of vascular plants living today can be recognized on the basis of distinctive reproductive structures." (p. 6)
+* "The pattern of large-scale evolution of vascular plants is similar."
+* "A relatively small number of major groups appear suddenly in the fossil record and then persist with little fundamental change for hundreds of millions of years."
+* "By the end of the Devonian (~360mya), many of the major subdivisions of vascular plants living today can be recognized on the basis of distinctive reproductive structures." (p. 6)
