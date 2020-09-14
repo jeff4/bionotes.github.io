@@ -17,9 +17,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
 
 
-### Species count as of 2014 - Sadava, p. 8
+### Species count as of 2014 - [Sadava](/sadava/), p. 8
 
-| Taxon    | Currently described species | *Estimated* number of living species |
+| Taxon    | Currently described species | Estimated number of living species |
 |----------|---------------------------------------|------------------------------------------|
 | Bacteria | 10,000                                | Millions                                 |
 | Archea   | 300                                   | 1k - 1M                                  |
@@ -35,9 +35,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
 * Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year.
-	* This is suggested by Lander's reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
-	* But most interestingly, Lander referred to a seminar he'd attended at the [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute) earlier that very morning. At that meeting, they discussed a paper that had been published four weeks earlier; probably the seminal [2012 CRISPR/Cas9 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286148/pdf/nihms-995853.pdf) by Jinek, Chylinski, Fonfara, Hauer, [Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna), and [Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier).
-	* Of course, [Feng Zhang's lab](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) then went on to publish this [2013 Science paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/pdf/nihms444192.pdf) applying CRISPR/Cas9 to human and mouse cells.
+	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
+	* Most interestingly, Lander referred to a seminar he'd attended at the [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute) earlier that very morning. At that meeting, they discussed a paper that had been published four weeks earlier; probably the seminal [2012 CRISPR/Cas9 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286148/pdf/nihms-995853.pdf) by Jinek, Chylinski, Fonfara, Hauer, [Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna), and [Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier).
+	* Of course, [Feng Zhang's lab](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) published this [2013 Science paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/pdf/nihms444192.pdf) applying CRISPR-Cas9 to human and mouse cells.
 * Timeline
 	* **4.5 billion** years ago: Earth formed
 	* **4.0 B** ya: Earth cooled enough for life
