@@ -162,16 +162,17 @@ permalink: /sadava/
 	* In general, prokaryotic operons generate [polycistronic mRNAs](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100335437) whereby a single mRNA codes for multiple proteins simultaneously. Eukaryotic operons usually express as [monocistronic mRNAs](https://en.wikipedia.org/wiki/Talk%3AMonocistronic) aka one mRNA per polypeptide or protein.
 	* The typical structure for an operon is: promoter, operator region, and then 2 or more structural genes. (p. 330)
 
+### Additional details of the *lac* operon
+* Based on additional research, I believe that the more accurate model for the operon is the following sequence. For more details, scroll down to the middl of this [Khan Academy page](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/the-lac-operon) and see the [first image on this page](https://www.biology-pages.info/L/LacOperon.html).
+	1.  Binding Site for CAP Activator
+	2. Promoter region (where RNAP would initially attach)
+	3. Operator region (RNAP needs to attach here as well, but can be blocked by lac**I** repressor)
+	4. *lacX*
+	5. *lacY*
+	6. *lacA*
+
 ### Types of Regulation covered
 * An inducible operon regulated by a repressor protein (like [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor) which will fall off of the operator region when lactose binds to the repressor)
 * An repressible operon regulated by a repressor protein
 * An operon regualted by an activator protein like [CAP](https://en.wikipedia.org/wiki/Catabolite_activator_protein) which is activated by the presence of [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate).
-
-
-&#946;-
-
-
-
-
-
 
