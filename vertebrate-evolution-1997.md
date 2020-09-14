@@ -70,5 +70,7 @@ permalink: /carroll-1997/
 * Challenges of using non-metazoan fossil record to bridge gap between micro-macro.
 * Meanwhile, studying all metazoans together present their own challenges. 
 	* "The many phyla of multicellular animals have fundamentally different body plans and ways of life that make it very difficult to compare specific patterns of evolution between them. Beginning with [Simpson (1944)](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution), comparisons have repeatedly been made between the rates of evolution between clams and mammals, but it is difficult to establish quantitative measures that can be applied to both groups ([Stanley, 1975](https://www.pnas.org/content/pnas/72/2/646.full.pdf))."
-	* Most importantly, "the most significant periods in the evolution [of the many metozoan phyla, including] their origins and early stages of differentiation are extremely poorly documented in the fossil record [(Lipps and Signor, 1992)](https://www.springer.com/gp/book/9780306440670).
-
+	* Most importantly, "the most significant periods in the evolution [of the many metozoan phyla, including] their origins and early stages of differentiation are extremely poorly documented in the fossil record [(Lipps and Signor, 1992)](https://www.springer.com/gp/book/9780306440670). (p. 15)
+	* Advantages of using vertebrates as foundation for studying long-term evolution:
+		1. They are unquestionably a [monophyletic group](https://en.wikipedia.org/wiki/Monophyly)
+		2. Nearly all vertebrates "exhibit a single pattern of reproduction, involving recombination of gametes from two sexes." 
