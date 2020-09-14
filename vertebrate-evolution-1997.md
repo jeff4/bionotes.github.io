@@ -20,6 +20,7 @@ permalink: /carroll-1997/
 	* "Gaps between the lineages indicate that adaptive space is not fully occupied."
 	* "Instead of showing gradual and continuous change through time, the major lineages appear suddenly in the fossil record, already exhibiting many of the features by which their modern representatives are recognized.
 * "It must be assumed that evolution occurs much more rapidly *between* groups than *within* groups. For most of their evolutionary history, fundamental aspects of their anatomy and way of life for these lineages do not change significantly. Very few intermediates between groups are known from the fossil record." (p. 4)
+* "Progressive increase in the knowlege of the fossil record over the past hundred years emphasizes how wrong Darwin was in extrapolating the pattern of long-term evolution from that observed within populations and species." (p. 8)
 
 ### Evidence from invetebrate fossil record (p. 4)
 * [By the lower Cambrian >510mya], "the earliest known members of all the major [nonvertebrate metazoans] had already achieved the basic body plan of their descendants." 
@@ -36,3 +37,18 @@ permalink: /carroll-1997/
 * "The pattern of large-scale evolution of vascular plants is similar."
 * "A relatively small number of major groups appear suddenly in the fossil record and then persist with little fundamental change for hundreds of millions of years."
 * "By the end of the Devonian (~360mya), many of the major subdivisions of vascular plants living today can be recognized on the basis of distinctive reproductive structures." (p. 6)
+* "The basic patterns (regarding how sporangia attach in the [Lycopsida](https://en.wikipedia.org/wiki/Lycopodiopsida), [Pteropsida](https://en.wikipedia.org/wiki/Pteropsida), and [Sphenopsida](https://en.wikipedia.org/wiki/Equisetidae)) have been maintained for more than 350 million years."
+* "Few, if any, intermediates are known between these patterns." (p. 7)
+
+### Large-scale evolutionary phenomona (p. 9-11)
+* Here are some aspects of evolution that are only clear over large spans of time, distinct from selection at the level of populations or individual species:
+	1. The origin of major new structures
+	2. The extremely irregular occupation of adaptive space as opposed to the nearly continuous spectrum of evolutionary change postulated by Darwin
+	3. The apparently much greater rates of evolution during the origin of groups as compared to that seen during their subsequent duration
+	4. The cause and nature of major radiations
+	5. The cause and significance of mass extinction
+* "The contrast between the patterns seen in populations / living species versus in the fossil record has led to the study of microevolution versus macroevolution." (p. 10) One of the main goals of this book is to examine how well Darwinian microevolutionary natural selection can be applied to macroevolution.
+
+### Obstacles to the unification of short- and long-term evolutionary processes
+
+
