@@ -546,3 +546,6 @@ Lectures 22, 23, 24
 * [Wikipedia article](https://en.wikipedia.org/wiki/Drew_Berry) about Australian science animator [Drew Berry](https://www.macfound.org/fellows/27/)
 	* Read the comment thread at [this io9 interview piece](https://io9.gizmodo.com/animator-drew-berry-is-here-to-talk-to-you-about-making-1644346171)
 	* [Good FAQ](https://www.drewberry.com/faq) about tools and getting started.
+* Textbooks on bacterial genetics and genomics:
+	* [Bacterial Genetics and Genomics (2020)](https://www.amazon.com/Bacterial-Genetics-Genomics-Lori-Snyder/dp/0815345690/) by Lori Snyder
+	* [Molecular Genetics of Bacteria, 4th ed (2013)](https://www.amazon.com/Molecular-Genetics-Bacteria-Larry-Snyder/dp/1555816274/) by Larry Snyder, Joseph Peters, Tina Hemkin, Wendy Champness
