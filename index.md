@@ -17,7 +17,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
 
 
-### Species count as of 2014 - [Sadava](/sadava/), p. 8
+### Species count as of 2014 ([Sadava](/sadava/), p. 8)
 
 | Taxon    | Currently described species | Estimated number of living species |
 |----------|---------------------------------------|------------------------------------------|
