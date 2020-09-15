@@ -412,7 +412,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 14: &#946;-Galactosidase in E. Coli, Estrogen in Mammals, and &#946;-Globin in Humans
 
-### September 10-12, 2020
+### September 10-11, 2020
 
 * Today's lecture is about gene control in the context of two genes: (1) &#946;-Galactosidase in *E. coli* as part of the glucose-lactose catalysis switch. (2) &#946;-Globin in humans as part of hemoglobin
 
@@ -479,7 +479,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  * Globin superfamily includes alpha, beta, gamma, delta, epislon, and myoglobins. (See photos - 9/11/2020)
  
 ## Lecture 15: Cloning - Purifying a Gene
-### September 12-15, 2020
+### September 11-14, 2020
 * By the mid-1960's, some of the most senior biologists thought that the secret of life had essentially been "solved"; perhaps it was time to move onto the human brain.
 * Typical gene is about 10-30kb long
 * How do you isolate a single gene? It's hard to purify one segment DNA vs.s another segment b/c they are all chemically so similar. Different problem than proteins which are different from each other.
@@ -516,9 +516,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 16: Finding a Specific Gene in the Library
-
-### 
-* asdfads
+### September 14, 2020
+* Library = set of bacterial colonies on a petri dish
 
 ## Lecture 17: Analyzing a Gene
 
