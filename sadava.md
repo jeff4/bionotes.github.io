@@ -176,7 +176,8 @@ permalink: /sadava/
 * An repressible operon regulated by a repressor protein
 * An operon regualted by an activator protein like [CAP](https://en.wikipedia.org/wiki/Catabolite_activator_protein) which is activated by the presence of [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate).
 
-### The *trp* operon is a repressible regulatoin system
+### The [*trp* operon](https://en.wikipedia.org/wiki/Trp_operon) is a repressible regulatoin system
 * Khan Academy [article](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/a/the-trp-operon) and [video](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/v/trp-operon) on *trp* operon
 * [Trp](https://en.wikipedia.org/wiki/Trp_operon) is a **repressible system** using a **co-repressor** in contrast to the lac operon which is an *inducible system*.
+
 
