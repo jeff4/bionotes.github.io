@@ -77,7 +77,12 @@ permalink: /carroll-1997/
 		3. Nearly all vertebrates are free-living...[with the exceptions of semi-colonial behavior naked mole rates, parasitism through sexual physical attachment between males and females among some deep sea fish, and lampreys]." 
 * "The basic consistency of anatomy, developmental processes, and reproductive mode among vertebrates act as a control in what can be considered an experimental system. Within this system, one may examine the effects of variable such as, **changing environments**, **different taxonomic affinities** on the rates and patterns of evolution over different time scales." (p. 15)
 * Despite their useful consistency (in terms of similar body plan and modes of reproduction), vertebrates simultaneously exhibit a huge diversity.
-	* As of the mid-1990s, 45,000 species have been identified with many more to be named among oceanic fish and possibly other groups. [(Minelli, 1993)](https://www.springer.com/gp/book/9780412626203)
+	* As of the mid-1990s, 45,000 species have been identified with many more to be named among oceanic fish and possibly other groups. [(Minelli, 1993)](https://www.springer.com/gp/book/9780412626203) The only more [speciose](https://ianramjohn.wordpress.com/2008/12/02/speciose-or-species-rich/) metazoan taxon is arthropods with "countless millions of insect" species.
+	* In terms of scale, vertebrates range from fish and amphibians weighing a few grams to the largest whales.
+	* Vertebrates are some of the best-studied organisms on the planet.
+	* Because humans are vertebrates, we have special insight into how vertebrates live.
+* Another great reason to study vertebrates is their unparalleled fossil record. [(Carroll, 1987)](https://www.amazon.com/Vertebrate-Paleontology-Evolution-Robert-Carroll/dp/0716718227) (p. 16)
+	* "In contrast to other metazoan groups, the origin of the fossilizable skeleton occurred early in their radiation, so that most major events in their history are well documented."
 
 
 ## Chapter 2: Theories of evolution at the level of populations and species
