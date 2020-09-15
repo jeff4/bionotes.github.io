@@ -83,6 +83,13 @@ permalink: /carroll-1997/
 	* Because humans are vertebrates, we have special insight into how vertebrates live.
 * Another great reason to study vertebrates is their unparalleled fossil record. [(Carroll, 1987)](https://www.amazon.com/Vertebrate-Paleontology-Evolution-Robert-Carroll/dp/0716718227) (p. 16)
 	* "In contrast to other metazoan groups, the origin of the fossilizable skeleton occurred early in their radiation, so that most major events in their history are well documented."
+	* There a good number of fossils in all the major groups.
+	* The main part of the body that fossilizes is the vertebrate skeleton which connects with many structures and functions of a body.
+	* Even some behavior can be studied from vertebrate fossils in the form of fossilized versions of footprints, burrows, excrement, nests, eggs, etc.
+
+## Consideration of other major taxa
+* Arthropods, [foraminifera](https://en.wikipedia.org/wiki/Foraminifera), diatoms, vascular plants, angiosperms, etc. all have major value but have their own obstacles to understanding long-term evolution. (p. 16)
+* "In short, no group shows a greater potential for the study of its evolutionary history than does the vertebrates." (p. 18)
 
 
 ## Chapter 2: Theories of evolution at the level of populations and species
