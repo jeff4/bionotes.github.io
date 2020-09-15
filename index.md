@@ -490,9 +490,19 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	3. Transform aka insert this duplicated/cloned DNA into a target cell
 	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells.
 
-### Cutting / Isolation
+### Cutting with restriction enzymes
 * Restriction endonuclease with a palindromic sequence. Because the enzyme is a dimer so it can read in either direction. Found in *E. coli* strain R. Called [**EcoRI**](https://en.wikipedia.org/wiki/EcoRI). EcoRI is part of the bacterial defense/immune system to protect against bacteriophages. That's why it's called "restriction enzyme". Because it restricts the growth of virus.
-* Second enzyme called [**Dam methylase**](https://en.wikipedia.org/wiki/DNA_adenine_methylase) first comes and adds a methyl group to the adenines in all the EcoRI sites to keep EcoRI from cutting there. This keeps the bacteria from cutting the palindromic AATT sequences in *E. coli*'s own DNA. 
+* Second enzyme called [**Dam methylase**](https://en.wikipedia.org/wiki/DNA_adenine_methylase) first comes and adds a methyl group to the adenines in all the EcoRI sites (palindromic AATT sequences) to keep EcoRI from cutting there. This keeps the bacteria from cutting the palindromic AATT sequences in *E. coli*'s own DNA.
+	* Dam methylase works pretty quickly so it's ok to only methlyate one strand before EcoRI gets there.
+	* And after mitosis, only one daughter strand has any methylation at all. Again, Dam works pretty quickly so both daughter chromomsomes quicky have at least one strand that is fully methylated.
+* See photo roll on 9/14/2020 for screenshot of various other restriction endonucleases.
+* Some restriction endonucleases cut "cleanly" leaving **blunt ends** whereas most like EcoRI create single-stranded overhangs called **sticky ends**.
+
+### Pasting with ligase
+* You can paste with DNA ligase which we learned about in the context of DNA transcription (on the lagging strand where the former RNA primers and Okazaki fragments need to be connected).
+* Recombinant DNA, where ligase could actually connect a bacterial strand with a zebra strand.
+
+### Vectors
 
 ## Lecture 16: Finding a Specific Gene in the Library
 ## Lecture 17: Analyzing a Gene
