@@ -87,7 +87,7 @@ permalink: /carroll-1997/
 	* The main part of the body that fossilizes is the vertebrate skeleton which connects with many structures and functions of a body.
 	* Even some behavior can be studied from vertebrate fossils in the form of fossilized versions of footprints, burrows, excrement, nests, eggs, etc.
 
-## Consideration of other major taxa
+### Consideration of other major taxa
 * Arthropods, [foraminifera](https://en.wikipedia.org/wiki/Foraminifera), diatoms, vascular plants, angiosperms, etc. all have major value but have their own obstacles to understanding long-term evolution. (p. 16)
 * "In short, no group shows a greater potential for the study of its evolutionary history than does the vertebrates." (p. 18)
 
