@@ -151,11 +151,11 @@ permalink: /sadava/
 * Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
 	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. [Coded by the *lacY* gene](https://en.wikipedia.org/wiki/Lac_operon).
 	2. [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) hydrolyzes lactose into the monosaccharides glucose and galactose. [Coded by *lacZ* gene](https://en.wikipedia.org/wiki/Lac_operon).
-	3. [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides. [Coded by *lacA* gene](https://en.wikipedia.org/wiki/Lac_operon).
+	3. [&#946;-Galactoside acetyltransferase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides. [Coded by *lacA* gene](https://en.wikipedia.org/wiki/Lac_operon).
 * **Inducers** are substances that stimulate the production of a **inducible protein**. (p. 330)
 	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand.
 	* **Note, the  *lac* repressor protein is usually abbreivated *lacI* aka lowercase l-a-c and then [capital I](https://academic.oup.com/nar/article/46/10/5001/4951846).**
-	* After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease), [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) is *increased*.
+	* After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease), [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and [&#946;-Galactoside acetyltransferase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) is *increased*.
 * In contrast, **constitutive proteins** are expressed all the time at a constant rate. (p. 330)
 * A cluster of genes that share the same [promoter region](https://en.wikipedia.org/wiki/Promoter_(genetics) is called an [operon](https://en.wikipedia.org/wiki/Operon). Thus, the three lactose-metabolism genes: *lacY*, *lacZ*, and *lacA* are all part of the [same operon](https://en.wikipedia.org/wiki/Lac_operon).
 	* Several genes must be co-transcribed to define an operon.
@@ -166,7 +166,7 @@ permalink: /sadava/
 * Based on additional research, I believe that the more accurate model for the operon is the following sequence. For more details, scroll down to the middl of this [Khan Academy page](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/the-lac-operon) and see the [first image on this page](https://www.biology-pages.info/L/LacOperon.html).
 	1.  Binding Site for CAP Activator
 	2. Promoter region (where RNAP would initially attach)
-	3. Operator region (RNAP needs to attach here as well, but can be blocked by lac**I** repressor)
+	3. Operator region (RNAP needs to attach here as well, but can be blocked by Lac**I** repressor)
 	4. *lacX*
 	5. *lacY*
 	6. *lacA*
@@ -179,5 +179,4 @@ permalink: /sadava/
 ### The [*trp* operon](https://en.wikipedia.org/wiki/Trp_operon) is a repressible regulatoin system
 * Khan Academy [article](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/a/the-trp-operon) and [video](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/v/trp-operon) on *trp* operon
 * [Trp](https://en.wikipedia.org/wiki/Trp_operon) is a **repressible system** using a **co-repressor** in contrast to the lac operon which is an *inducible system*.
-
 
