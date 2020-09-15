@@ -479,7 +479,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
  * Globin superfamily includes alpha, beta, gamma, delta, epislon, and myoglobins. (See photos - 9/11/2020)
  
 ## Lecture 15: Cloning - Purifying a Gene
-### September 11, 2020
+### September 12-15, 2020
 * By the mid-1960's, some of the most senior biologists thought that the secret of life had essentially been "solved"; perhaps it was time to move onto the human brain.
 * Typical gene is about 10-30kb long
 * How do you isolate a single gene? It's hard to purify one segment DNA vs.s another segment b/c they are all chemically so similar. Different problem than proteins which are different from each other.
@@ -491,7 +491,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells.
 
 ### Cutting / Isolation
-* Restriction endonuclease
+* Restriction endonuclease with a palindromic sequence. Because the enzyme is a dimer so it can read in either direction. Found in *E. coli* strain R. Called [**EcoRI**](https://en.wikipedia.org/wiki/EcoRI). EcoRI is part of the bacterial defense/immune system to protect against bacteriophages. That's why it's called "restriction enzyme". Because it restricts the growth of virus.
+* Second enzyme called [**Dam methylase**](https://en.wikipedia.org/wiki/DNA_adenine_methylase) first comes and adds a methyl group to the adenines in all the EcoRI sites to keep EcoRI from cutting there. This keeps the bacteria from cutting the palindromic AATT sequences in *E. coli*'s own DNA. 
 
 ## Lecture 16: Finding a Specific Gene in the Library
 ## Lecture 17: Analyzing a Gene
