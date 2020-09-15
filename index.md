@@ -1,551 +1,181 @@
 ---
-title: Home
+title: Sadava Biology 2014
+permalink: /sadava/
 ---
 
-### Different versions of Intro Bio course at MIT
-
-There is a special version of the MIT intro bio course that was optimized for edX called [7.00x, Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) taught by [Lander](https://www.broadinstitute.org/bios/eric-s-lander). Current lectures recorded in 2012-13 with updates circa 2015.
-
-Separately, [7.01 Fundamentals of Biology](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/syllabus/) was designed specifically for OpenCourseWare. It draws upon material developed for the three versions of MIT's Introductory Biology classes known as 7.012, 7.013, and 7.014. All three classes cover the same core material, which includes the fundamental principles of biochemistry, genetics, molecular biology, and cell biology. Each version also has lectures on different special topics.
-
-According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/), these versions of 7.01 were recorded in the following years:
-
-* [Fall, 2004](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/index.htm) - **7.012** with Professors Eric Lander and Robert Weinberg, focuses on genomics, neurobiology, and cancer cell biology.  
-* [Spring, 2005](https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/) - **7.014**, with Professors Graham Walker and Penny Chisholm, focuses on ecology and environment.
-* **7.013** with Professors Hazel Sive and Tyler Jacks, focuses on development and cancer cell biology has been recorded twice:
-	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The syllabus for Spring 2018 recommends [the Savada textbook](/sadava/))*
-	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
+# Life, The Science of Biology
+* [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014. Abbreviated as **Sadava**.
+* Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
+* See notes on Sadava Chapter 2 reviewing general chemistry on [this page](/general-chemistry/)
 
 
-### Species count as of 2014 ([Sadava](/sadava/), p. 8)
+## Chapter 3: Macromolecules I - Proteins, Carbohydrates, Lipids (p. 39-61)
+* Four kinds of macromolecules: proteins, carbohydrates, lipids, and nucleic acids
+* Macromolecular polymers are made of different types of monomers:
+	* Proteins are made up of **amino acid** monomers.
+	* Carbohydrates are made up of simple **sugar** monomers.
+	* Lipids are made up of lipid monomers connected by *noncovalent bonds*
+* In general, only polymers with molecular weights > 1000 are considered macromolecules.
+* Figure 3.1 (p. 40) has a good diagram of various functional groups, categories of compounds, and example compounds.
+* Figure 3.3 (p. 41) has good % breakdown of macromolecules in living tissue.
+* Reactants Monomer<sub>1</sub> + ... + Monomer<sub>n</sub> --> Polymer via removal of H<sub>2</sub>0 and addition of energy (endothermic reaction). Also called **condensation** or **dehydration reaction**.
+* Reverse reaction of Reactant Polymer ---> breaking into smaller monomers by adding water and releasing energy from the reactant  (exothermic reaction). Called **hydrolysis**.
 
-| Taxon    | Currently described species | Estimated number of living species |
-|----------|---------------------------------------|------------------------------------------|
-| Bacteria | 10,000                                | Millions                                 |
-| Archea   | 300                                   | 1k - 1M                                  |
-| Protists | 80,000                                | 500k - 1M                                |
-| Plants   | 270,000                               | 400-500k                                 |
-| Fungi    | 100,000                               | 1-2M                                     |
-| Animals  | 1,300,000                             | 10M - 100M                               |
+### Proteins
+* The protein alphabet of monomers cosists of 20 amino acids. All proteins consist of a permutation of these 20 elemental units. 
+	* The smaller limit of proteins is around **51 amino acids** for *[insulin](https://en.wikipedia.org/wiki/Insulin)* with molecular weight of 5,733.
+	* The upper limit of protein chain size is around **27,000 amino acid** for the muscle protein *[titin](https://en.wikipedia.org/wiki/Titin)* with a molecular weight of almost 3 million.
+* Polypeptide chains are linear (*aka* unbranched) sequences of covalently linked amino acids.
+* Amino acids have 3 functional groups plus 1 hydrogen surrounding the central *&#945;*-carbon:
+	1. **carboxyl functional group** -COOH ionizes to -COO<sup>-</sup>
+	1.  **amine group** -NH<sub>2</sub> ionizes to -NH<sub>3</sub><sup>+</sup>
+	1. **R side chain**
+* Amino acids can appear as optical isomers with **D- for righthand** and **L- for lefthand** configurations. (d-amino acids for the Latin *dextro*; l-amino acids for the Latin *levo*). Only L- configurations appear in nature / are used by living cells with the [rare exception of some structural proteins used in bacterial cell walls](http://www.phschool.com/science/biology_place/biocoach/bioprop/landd.html).
+* See Table 3.2 on p. 44 for good categorization of 20 amino acids based on R side chains.
+* Amino acids are combined using a condensation / dehydration reaction that forms a **peptide linkage**. The N- terminus all the way on the left of the protein is by considered the "beginning" of the sentence and the C- terminus all the way at the right end is considered the "end" of the protein "sentence".
+* Primary structure is the sequence of repeating -N-C-C-N-C-C-
+* Good diagram of primary, secondary, tertiary, and quartenary structure on p. 46.
+* Each monomer is an amino acid. A short sequence of amino acids is called a **peptide**. Multiple peptides together form polypeptides and protein subunits.
+* Concept of [molecular chaperones](https://en.wikipedia.org/wiki/Chaperone_(protein)) which help guide proper folding of proteins directly after peptide synthesis or after denaturation to refold. Cancer cells produce chaperones to help secure proper folding for cancer-promoting proteins (p. 51). See p. 51 also for example of HSP60 cage + lid.
 
----
-# Notes on MIT 7.00x at edX
-*Course started: July 14, 2020*
+#### Secondary structure of proteins
+* *&#945;*-helices are right-handed and the R-groups extend outward from the central axis of the -N-C-C-N-C-C- chain in a steady spiral. Coiling results from the hydrogen bonding between the small &#948;<sup>+</sup> of the H<sup>+</sup> on the N and the &#948;<sup>-</sup> on the carbonyl oxygen C=O of another amino acid in the chain.
+* Pleated  *&#946;*-sheets
 
-## Lecture 1: Introduction and the Biochemistry of Life
-### July 14 - 20, 2020
-* Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year.
-	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
-	* Most interestingly, Lander referred to a seminar he'd attended at the [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute) earlier that very morning. At that meeting, they discussed a paper that had been published four weeks earlier; probably the seminal [2012 CRISPR/Cas9 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286148/pdf/nihms-995853.pdf) by Jinek, Chylinski, Fonfara, Hauer, [Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna), and [Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier).
-	* Of course, [Feng Zhang's lab](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) published this [2013 Science paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/pdf/nihms444192.pdf) applying CRISPR-Cas9 to human and mouse cells.
-* Timeline
-	* **4.5 billion** years ago: Earth formed
-	* **4.0 B** ya: Earth cooled enough for life
-	* **3.7 B** ya: first evidence of prokaryotic life
-	* **1.5 B** ya: first eukaryotic life with nucleus
-	* **500 mya**: first multicellular life just prior to Cambrian Explosion
-	* **5 mya**: first hominids aka Australopithecina or Hominina subtribe within the Hominidae Family.
-	* **100,000 ya**: first homo sapiens
-	* 1861 AD: MIT founded
-* Fundamental principles and intellectual unification of biology
-	* Biochemistry in ~1900: purification and analysis of unique proteins, nucleic acids, etc.
-	* Genetics in ~1900: Organism minus one component, aka mutant. This component which they called a gene.
-	* 1953: structure of DNA discovered by Watson & Crick, combining the two streams of biochem and genetics into the new unified science of **molecular biology**.
-	* 1970s: Invention of **recombinant DNA** to isolate specific gene, read what protein it encodes. Take a protein and decide which gene codes for it.
-	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
+#### Tertiary structure of proteins
+* Definitive 3D structure of a protein, which usually includes a polar (hydrophilic) exterior region and nonpolar (hydrophobic) interior where reactions happen.
+* &#945;-helices and  &#946; pleatedsheets secondary structures are determined by hydrogen bonds. Meanwhile, tertiary structure is caused by nonovalent interactions between the **various -R side chains functional groups** hanging off the central polypeptide -N-C-C-N-C-C- . Examples:
+	* Covalent disulfide bridges
+	* Hydrogen bonds between side chains
+	* Hydrophobic side chains an aggregate together in the interior of the protein. These close interactions are stabilized by van der Waals forces.
+	* Ionic bonds can form salt bridges between positively and negatively charged side chains.
+* p. 48 interesting example of how [Christian Anfinsen used ribonuclease A](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma) to prove that primary structure contains all the info needed to determine tertiary structure.
 
-## Lecture 2: Biochemistry
-### July 21 - 28, 2020
-* Eduard Buchner and the founding of biochemistry. 
-	* During a [series of experimnts from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
-	* However, [in 1897](https://en.wikipedia.org/wiki/Eduard_Buchner#Research), Buchner showed that if one took a mass of yeast and crushed all the living cells to death, one could extract dead "yeast juice" that could still perform fermentation. This showed that a nonliving enzyme ([zymaseproduced](https://en.wikipedia.org/wiki/Zymase)) by yeast was responsible for fermentation. 
-* Composition of cells; covalent bonds
-	* Atomic composition of human life: Consists largely of 63% H, 24% O, 10% C, 14% N, 0.2% phosphorus,  and less than 0.1% sulfur.
-	* Molecular composition of human life measured by dry weight: 80% H<sub>2</sub>O. The remaining 20% can be subdivided into:
-		* 50% protein
-		* 15% carbohydrate
-		* 15% nucleic acids
-		* 10% lipids and fats
-	* Covalent bonds for 6 most important elements: **C,H,O** and **N, P, Sulfur**. Number of bonds formed for an octet satisifed atom under biological conditions: 
-		* Carbon = 4
-		* Hydrogen = 1
-		* Oxygen = 2
-		* **Nitrogen = 3 or 4**
-		* **Phosphorus = 5**
-		* **Sulfur = sometimes 2** but up to **6 bonds**
-* Noncovalent bonds, including hydrogen bonds (5 kcal/mol), ionic bonds, Van Der Waals forces
-* Lipids and phospholipids
-	* Oil and water don't mix b/c the polar water gets "offended" by the nonpolar interlopers interrupting the "desired" hydrogen bonding between water molecules
-	* A nonpolar hydrocarbon (like cyclohexane C<sub>6</sub>H<sub>14</sub>) can be turned polar by converting them to:
-		* Alcohols have a hydroxl -OH group attached.
-		* Carboxylic Acids contain one or more -COOH groups.
-	*  Fatty acids are a type of carboxylic acid. If you attach 3 of them to an alcolhol like glycerol, we create a "Tri-acyl-glyceride", aka triglyceride. This is a lipid
-	* Lipids are [amphipathic](https://en.wikipedia.org/wiki/Amphiphile) with a hydrophlic head and hydrophobic tail.
-	* When placed in a polar solvent like water, lipids spontaneously form globular structures like [micelles](https://en.wikipedia.org/wiki/Micelle) (monolayer with hydrophilic heads out, tails in) or [liposomes (bilayered)](https://en.wikipedia.org/wiki/Liposome). See also <a Href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/01%3A_LIPID_STRUCTURE/1.2%3A_Lipids_in_Water/1.2A%3A_Micelles_and_Bilayers">this page</a>
-* ATP - adenosine triphosophate
-* Carbohydrates
-	* glucose = monosaccharide. Can form disaccharides, polysaccharides, etc.
-* Remember, here are the types of forces that Lander emphasizes:
-	1. **Ionic Bonds**
-	2. **Covalent Bonds** (polar like O-H, N-H, C=O, vs. nonpolar like C-H, C-C, C=C, etc.)
-	3. **Hydrogen Bonds** (O----H---O,  N----H---O ,  etc.)
-	4. **Hydrophobic forces** that force hydrophobic molecules together, so that the liquid H<sub>2</sub>O molecules around them can form hydrogen bonds easily "as desired". 
-	1. **Van Der Waals Forces** which are temporary charges that can add up to a lot, e.g,  geckos use these to climb walls
+#### Quartenary structure
+* When a protein consists of two or more polypeptides, called **subunits**, each of these subunits fold into their own tertiary structure.
+* The interaction of these subunits is the **quartenary structure**.
+
+#### Proteins and associated functions - p.42
+
+| Category                 | Function                                                    |
+|--------------------------|-------------------------------------------------------------|
+| Enzymes                  | Catalyze biochemical reactions                              |
+| Structural proteins      | Provide physical stability and movement                     |
+| Defensive proteins       | Recognize and react to nonself substances (e.g. antibodies) |
+| Signaling proteins       | Control physiological processes (e.g. hormones)             |
+| Receptor proteins        | Receive and respond to chemical signals                     |
+| Membrane transporters    | Regulate passage of substances across cell membranes        |
+| Storage proteins         | Store amino acids for later use                             |
+| Transport proteins       | Bind and carry substances within the organism               |
+| Gene regulatory proteins | Determine rate of expression of genes                       |
 
 
-## Lecture 3: Proteins
-### July 25 - 31, 2020
-* Relatively constant planes in peptide with pivot points at the alpha carbons aka the carbons that the -R sidechains hang off of. See also Alberts p. 127
-* Subcategories of the 20 amino acids
-	* **Nonpolar and Noncharged (hydrophobic)**: Alanine, Valine, Methionine (with a sulfur), Leucine, Isoleucine, Phenylalanine, Tyrosine, Tryptophan
-	* **Polar and Uncharged**: Serine, Threonine, Aspargine, Glutamine
-	* **Polar, negatively charged**: Aspartic acid, glutamic acid
-	* **Polar, positively charged**: lysine, arginine, histidine
-	
-	* **Special**:
-		* Glycine very flexible, simple CH<sub>3</sub>
-		* Proline (ring that bonds with the amino group)-- technically an imino acid, not an amino acid.
-		* Cysteine with sulfur at the end. Can form disulfide bond.
-	* Secondary structure
-		* Alpha-helix. 3.7 amino acids per 360-degree turn of the alpha helix.
-		* Beta-sheets
-		* All other is called "loops" or "random coils"
-	* Tertiary structure and quartenary structure is determined in part by the following types of interactions between sidechain groups:
-		* Disulfide bonds (esp. cysteine side chain)
-		* Ionic bonds between side chains
-		* Hydrogen bonds between side chains
-		* Van der Waals forces between side chains
-	* X-Ray Protein Structure supplemental lecture by x-ray crystallographer Brian, a  scientist at MIT:
-		* Metaphor of throwing basketballs and ping pong balls, first at a single parked car. Then, dropping many of these balls onto an entire parking lot full of regularly spaced parked cars.
-		* To prepare them for scanning, proteins are first purified and then crystallized so they are in a regular repeating pattern (like in an orderly parking lot)
-		* He uses the example of lysozym, an enzyme used to break down bacterial walls
+### Carbohydrates - p. 51
+* Usually have the generic formula C<sub>m</sub>H<sub>2n</sub>O<sub>n</sub> where m,n &#8712; {positive integers}.
+* Carbohydrates have important roles in energy storage/transport and structure like cellulose in plants. 
+* *Chemically modified carbohydrates* also play critical structural roles in biology:  
+	* **galactosamine** is a major part of cartilage (p. 55)
+	* a derivative of **glucosamine** is a component of chitin which is important in arthropods and fungi.
+* Four categories of carbohydrates based on number of monomers:
+	1. **Monosaccharides** like glucose
+	1. **Disaccharides** like sucrose, a combination of glucose and fructose
+	1. **Oligosaccharides** are made up of about 3-20 monosaccharides
+	1. **Polysaccharides** are made up of hundreds or thousands of monosaccharides. Examples: starch, glycogen, cellulose.
 
-## Lecture 4: Enzymes - Channel proteins, &#946;-barrels, TIM, flu burglar
-### August 1, 2020
-* Channel proteins
-	* Design guideline: allow molecules of about 600 molecular weight, polar but no net charge (either positive or negative)
-	* Solution: **OmpF channel protein**. (No wiki article available but see [related OmpA article](https://en.wikipedia.org/wiki/OmpA-like_transmembrane_domain).)
-		* "residue" = synonym for side chain
-		* has charged residues on the inside to repel potential passengers who are positively charged or negatively charged. The fact that these residues are polar will also keep out nonpolar passengers which we do not want to pass
-		* Has hydrophobic sidechains along the exterior of the barrel so that it embedds properly with the hydrophobic C-H tails inside the phospholipid bilayer
-	* Has a lot of charged residues
-* Enzyme: [Triose Phosphate Isomerase](https://en.wikipedia.org/wiki/Triosephosphate_isomerase) *aka* TIM *aka* TPI
-	* See Jeremy Knowles and W.J. Albery [TIM paper (1977)](https://pubs.acs.org/doi/10.1021/ar50112a001)
-	* TIM interconverts between two isomers of triose phosphate
-	* Essential to process of glycolysis in muscles for fast efficient energy production
-	* See also [Protopedia article](https://proteopedia.org/wiki/index.php/Triosephosphate_Isomerase)
-	* Convert G3P aka (glyceraldehyde 3-phosphate) to (DHAP) dihydroxyacetone phosphate via intermediate transition state (cis-enediol) which without TIM would take 26 kcal/mol
-	* TIM stabilizes the transition state and also prevents the side-reaction of G3P losing it's phosophate group which tends to happen in water.
-	* TIM increases speed of reaction by 10<sup>10</sup>. Aka, the difference in length of time between ~1 second and 300 years!
-	* TIM is about 150x the size of reactant G3P and product DHAP. 
-	* Three strategies used by TIM/TPI:
-		1. Hydrogen proton transfer between the oxygens attached to carbon1 and carbon2. (see drawings in JH notes 8/02/2020 to 8/03/2020). Glutamine-165 and Histidine-95 are the residues that make this happen. If the glutamine residue is replaced by similar Asparagine, reaction performs 1000x worse. Note that Glu and Asp sidechains are exactly identical *except*  that Asp has just one more CH<sub>2</sub>  in its chain.
-		2. There is a lid that keeps the triose phosphate reactant/intermediate/product safe from hydrophilic attack by H<sub>2</sub> molecules. Without this lid, the reaction would perform 100,000x worse. 
-		3. Lysine at position 12 is used to create hydrogen bonds that connect to the various oxygens of triose phoshate to stabilize the molecule as the reaciton proceeds. If we use arginine instead of lysine, the reaction performs 200x less efficiently.
-	* "Burglar tools" used by influenza virus to escape the lysosome acidic pH trap.
+#### Monosaccharides
+* In living systems, most monosaccharides are the dextro- / D- / (right-handed) optical isomer.
+* *Pentoses* are five-carbon sugars, including [ribose](https://en.wikipedia.org/wiki/Ribose) which is part of the sugar-phosphate backbone of RNA and [deoxyribose](https://en.wikipedia.org/wiki/Deoxyribose) which forms the sugar-phosphate backbane of DNA.  
+* *Hexoses* are 6-carbon sugars such as glucose, fructose, mannose, and galactose.
+	* **Glucose** are 6-carbon sugars that can take the form of straight carbon chains or rings in chair configuration. The ring consists of 5 carbons and an oxygen; the 6th carbon hangs off of the ring at the 5-carbon.
+	* Glucose comes in [both &#945;- and &#946;-isomers](https://www.worldofmolecules.com/3D/what-is-the-difference-between-alpha-and-beta-glucose.html) which convert to each other readily in aqeous solution and are in equilibrium.
+* Dehydration synthesis reactions connects monosaccharides into disaccharides, oligosaccharides, and polysaccharides via [glycosidic linkages](https://en.wikipedia.org/wiki/Glycosidic_bond)
 
-## Lecture 5: Glycolysis and pathways
-### August 3-6, 2020
-* Biochemical pathways in fermentation
-* How does yeast change a hexose sugar (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) into CO<sub>2</sub> and alcohol? Multi-step pathway
-* Energetics of a single reaction
-	* G3P &#8594; DHAP. Lower free energy in this reaction. Gibbs free energy change is about -1.86 kcal/mol. **&#916;G<sup>0</sup>'** pronounced "delta G zero prime"
-		* The activation barrier is very high.
-		* But even there is enough TIM, because of entropy and relative concentration of product/reactant, there will always be *some* reactant left at equilibrium
-		* The way to understand whether the forward or reverse reaction is favored is based on delta G  **&#916;G** (distinct from &#916;G<sup>0</sup>' above).
-		* See also handwritten JH notes 8/03/2020
-	* Tricks to make a reaction move forward even when &#916;G is positive (favoring reverse rxn)
-		* Trick #1: Direct coupling
-			* Couple 2 reactions together. Aka even if A &#8594; B is unfavorable, if C &#8594; D is extremely favorable, then A+C &#8594; B+D might move forward. Example, pair reaction with ATP
-			* Convert ATP to ADP (adenosine diphosphate). ATP &#8594; ADP has a &#916;G = -7.3 kcal/mol
-		* Trick #2: Indirect coupling
-			* Have a "next step" reaction, e.g., B &#8594; C which is highly favorable.
-			* So again, assume A &#8594; B has positive &#916;G (and is not favorable in forward direction).
-			* Assume B &#8594; C has a very negative &#916;G (and is very favorable in forward direction)
-			* Then the overall reaction A &#8594; B &#8594; C will move forward b/c the 2nd rxn constantly removes B, lowering the concentration of [B], and thereby encouraging forward progress of A &#8594; B
-* Intro to glycolysis: the breaking of sugar. See JH handwritten notes and textbook references:
-	* **Alberts** 
-		* Chapter 2: p.80-83: ATP and NAD<sup>+</sup>/NADH. See detailed 10 step version of glycolysis in Panel 2-8 on p. 120-121. **See also JH handwritten notes of this 10-step process August 7-9, 2020** 
-		* Chapter 14: Mitochondria and Chloroplasts. p. 817 Citric Acid Cycle (fka Krebs Cycle). p. 819 diagram of overall citric acid cycle, Figure 14-10
-	* **Sadava** Chapter 9, p.165 - 182
-		* p. 167: Redox reactions, diagram of methane <--> methanol <--> formaldehyde <--> Formic acid <--> carbon dioxide. **For best version of Jeff's redox diagram, see JH notes 8/06/2020**
-		* p. 168: summary diagram of glucose &#8594; glycolysis &#8594; pyruvate &#8594; branch between aerobic respiration and anaerobic fermentation
-		* p. 177: more detailed summary of reactants and products for glucose &#8594; glycolysis &#8594; pyruvate &#8594; branch between aerobic respiration and anaerobic fermentation
-		* p. 169: detailed chemical diagram from input glucose to output pyruvate
-		* p. 170: diagram of citric acid cycle
-* Regulation of pathways. Negative feedback loops aka balancing loops.
-	* [Allosteric regulation](https://en.wikipedia.org/wiki/Allosteric_regulation) changes the shape of the enzyme to control it's activity. Thus, let A &#8594; B &#8594; C &#8594; D &#8594; E. If/when [E] is too high we want E to act as a regulator to change the performance of the C&#8594;D enzyme, we could have the enzyme have a different location ("allo" Greek root for different/other) binding site on the enzyme. And E attaches to this binding site, changing the enzyme shape and reducing activity of the C &#8594; D reaction. aka **feedback inhibition**
-* In contrast, **feedforward activation** if there is too much reactant and not enough product and we want the mechanism to work faster. This upregulates the activity of the relevant enzymes
-* Cellular respiration and fermentation
+#### Polysaccharides
+* Whereas all proteins are linear chains of amino acids, monosaccharides can bond in many branching ways to form polysaccharides.
+* **Starches** are polysaccharides which are often [branched](https://en.wikibooks.org/wiki/Structural_Biochemistry/Carbohydrates/Polysaccharides) made up of glucose monomers via with &#945;-glycosidic linkages. 
+	* These branches attach from the via 1-&#945; carbon of glucose monomer A to either the 4 or 6 carbon on the glucose molecule B.
+	* Starch is the primary energy storage for plants. Some plant starches are unbranched like [amylose](https://en.wikipedia.org/wiki/Amylose) which can consist of 300-3000 (or even more) monomeric glucoses.
+* **Glycogen** is highly branched and used in animals. 
+	* Similarly to starch for plants, glycogen acts as an energy store for animals in the liver and in the muscles. 
+	* The branches occur every 10-14 glucose monomers between the carbon 6 of the main branch and the 1-&#945; carbon of the branched glucose. See this [Wiki link on the brancher enzyme](https://en.wikipedia.org/wiki/Glycogen_branching_enzyme#Function) for more.
+	* Unlike glucose which is readily soluble in water, glycogen is nonpolar and thus does not dissolve in water which relieve osmotic pressure in animal cells allowing more compact storage. 
+* **Cellulose** is a critical componet of plant cell walls. Connected via glycosidic linkages at the 1-&#946; carbon (instead of the 1-&#945; carbon seen in starch and glycogen). This makes it much harder to break down cellulose.
+* Chemically modified carbs which have undergone redox reactions and/or had functional groups like phosphate, amino, or N-acteyl gropus added. Cartilage and chitin.
+* Also refer to carbohydrate panels in Alberts 5th, p. 112-113.
 
-### Handwritten notes on 10 steps of glycolysis and NAD<sup>+</sup> &#8594; NADH
-* Drawn from Alberts Chapter 2: p.80-83: ATP and NAD<sup>+</sup>/NADH. See detailed 10 step version of glycolysis in Panel 2-8 on p. 120-121. 
-* Also see this page on [glycolysis](/glycolysis/)
-* For detailed drawings of [NAD (Nictonamide Adenine Dinucleotide)](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide) in both oxidized NAD<sup>+</sup> and reduced NADH forms, refer to JH handwritten notes August 7-9, 2020.
-* Note also that [pure adenine](https://en.wikipedia.org/wiki/Adenine) is just the nucleobase by itself. [Adenosine](https://en.wikipedia.org/wiki/Adenosine) refers to adenine covalently bonded to a ribose sugar like in [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate), [NAD](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide), or [RNA](https://en.wikipedia.org/wiki/RNA).
+### Lipids and phospholipids - p. 56
+* Types of lipids
+	* Fats and oils (triglycerides) store energy.
+	* Phosopholipids provide structure to membranes.
+	* Carotenoids and chlorophylls capture light energy for plants.
+	* Steroids and modified fatty acids play regulatory roles as hormones as vitamins.
+	* Fat in animals provides thermal insulation
+	* Myelin (fatty sheath) surrounding neuronal axons provide electrical insulation to speed the action potential.
+	* Oil and wax on the surface of skin and leaves helps repel water and prevents excess evaporation.
+* Simple lipids like fats and oils consist of **triglycerides**. 
+	* A triglyceride typically combines an alcohol (like glyceryl with 3 -OH hydroxyl groups) with three fatty acids which are simply long chains of hydrocarbons. 
+	* The glycerol and fatty acids are bonded by 3 dehydration/condensation synthesis reactions that yield 3 water molecules.
+	* The resulting bonds are ester linkages with a central oxygen between each fatty acid and the glycerol molecule.
+	* Saturated fatty acid = full of hydrogen atoms, no double bonding
+	* Unsaturated fatty acid = some missing hydrogen atoms *aka* some double or triple bonding somewhere.
+* **Phospholipids** are amphipathic; have a polar phosphate end and a nonpolar hydrocarbon chain end.
+* **Carotenoids** are a family of light-absorbing pigments found in plants and animals. &#946;-carotene aka betacarotene is part of the photosynthesis process for plants. Meanwhile, betacarotine breaks down to two vitamin A molecules for humans as part of the visual system.
+* **Steroids** are multiply linked rings of hydrocarbons that are important as membrane components as well as signals in the hormone system.
+* **Vitamins** A, D, E, and K are lipids, aka they are fat soluble.
+* **Waxes** are hydrophobic and at room temperature, malleable/plastic. Each wax molecule sonists of a saturated long-chain fatty acid connected via an ester linkage to a long-chain alochol. As such, they have between 40-60 CH<sub>2</sub> groups.
+* Lipid panels in **Alberts 5th Ed**, p. 114-115
+	* Stearic acid (C18) and palmitic acid (c16) are saturated aka full of hydrogens and only carbon single bonds.
+	* Oleic acid (C18) is unsaturated with a single double bond between C9 and C10.
+	* Glycerol is a 3-carbon alcohol with an -OH hydroxyl attached to C1, C2, and C3 respectively. It serves as the backbone for triglycerides when 3 fatty acids attach via dehydration/condensation synthesis at the ester linkage.
+	* Carboxyl groups -COOH give rise to: (a) ionized form -COO<sup>-</sup>, (b) esters, (c) amides.
+	* Phospholipids where one of the 3 fatty acids attached to the glycerol backbone is replaced by a hydrophilic  **phosphate group -PO<sub>4</sub><sup>3-</sup>** . Thus forming a hydrophilic head and 2 hydrophobic tails. 
+	* The phosophate group can also attach to other moeities, such as choline in the example of [phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine).
+	* Isoprene units like [2-methyl-1,3 butadiene](https://en.wikipedia.org/wiki/Isoprene). See also the [Organic Chemistry section](/organic-chemistry/).
 
-## Lecture 6: Intro Mendel and TH Morgan Fruitfly experiments
-### August 6-15, 2020
-* Biography of Mendel, initial pea experiments
-* Definitions of genetic terms
-	* Gene: discrete factors of inheritance
-	* Allele: Alternative versions of a gene, e.g., A vs. a
-	* Genotype: The two alleles carried by an organism
-	* Homozygote: Two of the same allele. e.g., AA or aa
-	* Heterozygote: Two different alleles in a genotype, e.g., Aa
-	* Phenotype: External appearance or trait. 
-* Important distinction. There are **no such things as dominant and recessive alleles**. ONLY dominant versus recessive phenotypic traits. Especially important because the same gene can contribute to multiple traits, some of which are dominant and some of which are recessive.
-* Error in video lecture. Prof. Lander says that green is dominant to yellow color in pea pants. It's actually the reverse; yellow pea color is dominant vs. green peas
-* Mendel's Second Law:  Independent Assortment
-* Circa 1890, cytology led to discovery of these mysterious "colored organelles" or colored bodies which were named "chromosomes". Organization of chromoses into bundles used during cell division aka mitosis.
-* Description of Mitosis and Meiosis
-* Coincidence that  Mendel luckily only studied 7 traits in peas. and peas only happen to have 7 chromosomes???
+## Chapter 4: Macromolecules II - Nucleic Acids (p. 62-76)
+* See [notes on Alberts 5th edition](/alberts-5e) 
 
-## Lecture 7: Meiosis
-### August 16-18, 2020
-* During meiosis, homologs
-* Review of Mendelian inheritance versus chromosomal inheritance
-* Fruit flies and linkage among chromosomes. Thomas Hunt Morgan was a great skeptic and did not trust that people kept inventing "inheritance factors" just to explain new data  a posteri. Should have an a priori model that is then properly tested
-* Pictures of fruitflies with various traits. "+" = "wildtype" phenotype = "wt"
-* See Handwritten notes for multiple generations of wildtype versus mutant flies for Body phenotype: (either dominant **wt** or recessive **black body**) and for Wing phenotype: (either **wt** or recessive **vestigial wing**)
-* Experimentally, TH Morgan found among the children of Parent 1 ( wt  b * wt vg) crossed with Parent 2 (b b * vg vg) these children: 
-	* **965 identical to parent 1** (wt b * wt vg = heterozygous for both Body and Wing)
-	* **944 identical to parent 2** (bb * vg vg = homozygous recessive for Body, homozygous recessive for Wing)
-	* **206 new recombinant fly** (wt b * vg vg = heterozygous for Body and homozygous recessive vestigial wing for Wing)
-	* **105 new recombinant fly** ( b b * wt vg = homozygous for recessive black Body and heterozygous for Wing)
+## Chapter 12: Inheritance, Genes, Chromosomes (p. 232 - 258)
+* p. 234 - Character is a phenotypic attribute and a trait is a particular value for that attribute.
+* A gene can have more than 2 alleles in the population. Example of the C gene in rabbits that determines rabbit coat color (p. 242):
+	* The dominant wild-type *C* allele produces a dark gray coat
+	* *c<sup>chd</sup>* recessive allele produces a [Chinchilla coat](https://en.wikipedia.org/wiki/Chinchilla_rabbit)
+	* *c<sup>h</sup>* recessive allele produces a Himalayan coat aka [point coloration](https://en.wikipedia.org/wiki/Point_coloration#In_rabbits_and_rodents) where color is restricted to ears, feet, and other tips.
+	* *c* recessive allele produces an [albino rabbit](https://www.cuteness.com/article/albino-rabbits) with white fur.
 
-### Linkage Maps
+## Chapter 16: Regulation of Gene Expression
+* 9/11/2020 
 
-* In 1911, 19-year-old Columbia undergraduate [Alfred H. Sturtevant](https://en.wikipedia.org/wiki/Alfred_Sturtevant) took the *frequency of recombination* ratio data home from the Morgan fruit fly lab and created the [first genetic linkage maps](https://en.wikipedia.org/wiki/Genetic_linkage).
-* "The recombination frequency equals the number of recombinants divided by the total progeny times 100. A longer distance between two genes increases the chance of crossover between two genes. A recombination frequency between 0 and 50 indicates that the genes are located on the same chromosome. Genes that are far apart on the same chromosome or lie on different chromosomes show a recombination frequency of 50%. Since the most extreme case of un-linkage is independent assortment, which gives 50% recombinant offspring, the maximum value for the recombination frequency is 50%."
-* the recessive traits black body and vestigial wing assort together about 17% of the time.
-* Sturtevant is doing "pairwise" aka 2-factor crosses for 2 different genes
-* Further, let's consider a **3-factor cross**. How many gametes are possible when 2 parents mate when one considers three phenotopic traits (aka 3 genes)? Answer is 8 = 2<sup>3</sup>.
+### Introduction
+* Example of how the enzyme [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) metabolizes 2-ring sugars like  [lactose](https://en.wikipedia.org/wiki/Lactose) by breaking the [glycosidic bond](https://en.wikipedia.org/wiki/Glycosidic_bond) into monosaccharides. (p. 329)
+* Three proteins are involved in the absorption and metabolism of lactose by *E. coli*:
+	1.  [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease) is a carrier protein in the bacterial plasma membrane that moves lactose into the cell. [Coded by the *lacY* gene](https://en.wikipedia.org/wiki/Lac_operon).
+	2. [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase) hydrolyzes lactose into the monosaccharides glucose and galactose. [Coded by *lacZ* gene](https://en.wikipedia.org/wiki/Lac_operon).
+	3. [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) transfers acetyl groups from the acetyl CoA to certain &#946;-galactosides. [Coded by *lacA* gene](https://en.wikipedia.org/wiki/Lac_operon).
+* **Inducers** are substances that stimulate the production of a **inducible protein**. (p. 330)
+	* For example, lactose is an inducer; when it's concentration is high, lactose binds to the [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor), thereby changing it's the repressor's conformation so the repressor falls off the operator on the DNA strand.
+	* **Note, the  *lac* repressor protein is usually abbreivated *lacI* aka lowercase l-a-c and then [capital I](https://academic.oup.com/nar/article/46/10/5001/4951846).**
+	* After the lactose-bound repressor falls off, RNAP can do it's work and start expressing the lacZ, lacY, and lacA genes. And therefore, production of the aforementioned inducible enzymes [&#946;-Galactoside permease](https://en.wikipedia.org/wiki/Beta-galactoside_permease), [&#946;-Galactosidase](https://en.wikipedia.org/wiki/Beta-galactosidase), and [&#946;-Galactoside transacetylase](https://en.wikipedia.org/wiki/Galactoside_acetyltransferase) is *increased*.
+* In contrast, **constitutive proteins** are expressed all the time at a constant rate. (p. 330)
+* A cluster of genes that share the same [promoter region](https://en.wikipedia.org/wiki/Promoter_(genetics) is called an [operon](https://en.wikipedia.org/wiki/Operon). Thus, the three lactose-metabolism genes: *lacY*, *lacZ*, and *lacA* are all part of the [same operon](https://en.wikipedia.org/wiki/Lac_operon).
+	* Several genes must be co-transcribed to define an operon.
+	* In general, prokaryotic operons generate [polycistronic mRNAs](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100335437) whereby a single mRNA codes for multiple proteins simultaneously. Eukaryotic operons usually express as [monocistronic mRNAs](https://en.wikipedia.org/wiki/Talk%3AMonocistronic) aka one mRNA per polypeptide or protein.
+	* The typical structure for an operon is: promoter, operator region, and then 2 or more structural genes. (p. 330)
 
-### Linkage Mapping
-* Sample drosophila mutations: [Antennapedia](https://en.wikipedia.org/wiki/Antennapedia) and [Double Wing aka Ultrabithorax](https://en.wikipedia.org/wiki/Ultrabithorax)
- * Test question on Linkage Mapping: "The maximum recombination frequency seen between any two genes on the same chromosome is about 50%. Why this is the case?"
-	* *Answer:* Imagine a case where the two genes are located on different chromosomes, so that during meiosis the segregation of alleles of one gene is completely independent of the alleles of the other gene (this is stated in Mendel's Second Law and is known as the law of independent assortment). On average, you would see the parental arrangement 50% of the time. When the two genes are far apart on the same chromosome, there can be 1, 2, 3, or more recombination events between the two genes. In this case, it is random whether there will be an even or odd number of recombination events, so on average, you would see the parental arrangement 50% of the time.
- 
-* **Sex-linked traits** See notes on Mac bionotes directory including *.png screenshot. 
+### Additional details of the *lac* operon
+* Based on additional research, I believe that the more accurate model for the operon is the following sequence. For more details, scroll down to the middl of this [Khan Academy page](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/the-lac-operon) and see the [first image on this page](https://www.biology-pages.info/L/LacOperon.html).
+	1.  Binding Site for CAP Activator
+	2. Promoter region (where RNAP would initially attach)
+	3. Operator region (RNAP needs to attach here as well, but can be blocked by lac**I** repressor)
+	4. *lacX*
+	5. *lacY*
+	6. *lacA*
 
- 
-### Meiosis review by PhD student Michelle
- * Diploid number refers to the number of total chromosomes = 2n where n refers to the number of pairs. e.g., human beings have n = 23 for **23 pairs of chromosomes**. So humans diploid number = 2n = 2 * 23 = **46 chromosomes** where each chromosome has a **homologous** "semi-duplicate" chromosome with the same genes but possibly different alleles at each gene loci. 
- * See also supplemental [videos](https://www.youtube.com/watch?v=dLy_GL5ajco&feature=youtu.be) about Punnett Squares, etc. 
- * Also,  covers meiosis and [Barbara McClintock's work on corn recombination](https://en.wikipedia.org/wiki/Barbara_McClintock)
- 
+### Types of Regulation covered
+* An inducible operon regulated by a repressor protein (like [*lac* repressor](https://en.wikipedia.org/wiki/Lac_repressor) which will fall off of the operator region when lactose binds to the repressor)
+* An repressible operon regulated by a repressor protein
+* An operon regualted by an activator protein like [CAP](https://en.wikipedia.org/wiki/Catabolite_activator_protein) which is activated by the presence of [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate).
 
- 
-## Lecture 8: Basics of Human Genetics
-### August 17-18, 2020
-
-### X-linked Recessive Inheritance. 
- * All men who receive this mutation express it. Women can be carriers or only express trait if they are homozygous recessive on both X chromosomes. Examples: red-green color blindness, hemophilia. Rules include:
-	 * Predominantly affects males because women are only affected when they inherit allele on both of their X chromosomes.
-	 * Affected men do not pass this trait on to sons unless man mates with a woman who has the recessive allele. (b/c sons will always get their X chromosome from their mom.) This characteristic is what led to the idea of traits "skipping a generation"
-	 * A woman who is a carrier who has sons will see this trait show up in 50% of her sons.
-	 * A woman who is affected by this trait is homozygous recessive (+/+) will pass this trait onto 100% of her sons.
- * Population genetics. Relationship between phenotype and mutant allele. E.g., red-green color blindness occurs in 8% of the male popuation. This means that 8% of all X chromosomes have this allele. Allele frequence = 8%.
-
-### Autosomal dominant inheritance
- * Autosome = chromosomes that are not sex chromosomes. Humans have 22 pairs of autosomes, 1 pair of sex chromosomes.
- * Autosomal dominant inherited traits. Example: [Huntington's disease](https://en.wikipedia.org/wiki/Huntington%27s_disease). Population frequency is quite low: ~5 in 100,000 people have Huntington's. 
- * Another example: Familial hypercholesterolemia aka FH affects 1 in 500 people. Using a Punnett Square / [Hardy-Weinberg](https://en.wikipedia.org/wiki/Hardy–Weinberg_principle) quadratic equation, we can derive that this allele will occur in roughly 2q aka ~1 in 1000 chromosomes
- * Rules
-	 * 50% of offspring are affected
-	 * Affects all genders equally
-	 * Unaffected never transmits
-	 * Never "skips a generation"
-	 * If a parent is homozygous for this mutant dominant allele, that means that 100% of their offspring will have express this trait.
- * Breast cancer for example of penetrance and sex-limited traits.
-	 * Full penetrance of a dominant trait. Huntington's and FH are full penetrance.There can be incomplete penetrance of a dominant trait. Breast cancer in the form of both BRCA1 (chromosome 17) and BRCA2 (chromosome 13) are examples of incomplete penetrance. About 60% of the women who have either allele will develop breast cancer (not 100% which we would expect for an automsomal domaninant full penetrance type gene).
-	 * Also, males still exhibit some incidence of breast cancer, at 1% for male carriers of BRCA1 and 6.5% for male carriers of BRCA2. This is a *sex-limited* disease.
- 
-### Autosomal recessive inheritance
-* Rules: (1) Trait does not appear in every generation (illusion of "skipping a generation"). (2) Parents of affected children generally are not affected.
-* Example of cystic fibrosis. About 1 in 2000 chromosomes have this mutant allele which produces the recessive trait of CF. aka q<sup>2</sup> = 1/2000. So the % of the population that has CF is q= square root (1/2000) aka q = about 1/44. about 1/22 of people are carriers for CF allele on chromosome 7.
-* Predicted Mendelian ratio is that two carrier parents should have 1/4 of their offspring exhibit CF. However, the observed ratio was 1/3. The reason was because humans have small families and so there was an *undercounting* of families that should include people with CF allele. If humans typicially had 1000 children per family, the expected ratio of 1/4 would probably be observed.
-
-
-### How Real Human Genetics differs from the simple rules in intro biology textbooks
-* Example of [Charles Davenport](https://en.wikipedia.org/wiki/Charles_Davenport) who produced a [pedigree chart](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-pedigrees/a/hs-pedigrees-review) that claimed that the tendency of people to become sea captains conformed to Mendelian genetics. This was called [thalassophilia](https://dnalc.cshl.edu/view/15914-Thalassophilia-pedigree.html).
-* Example of early 20th-century scientists who thought that [pellagra](https://en.wikipedia.org/wiki/Pellagra) was inherited rather than caused by poverty and malnutrition.
-* Important to be careful!
-
-### Archibald Garrod and Alkaptonuria
-* In early 20th century London. [Alkaptonuria](https://en.wikipedia.org/wiki/Alkaptonuria) = "black urine" in infants. In 8 of the 17 cases, the affected children were the result of first cousin marriages. If only 1 grandparent has a single Alkaptonuria allele (which expresses a recessive trait), and assuming that the spouses who marry into the family in the F1 generation are 100% wildtype, and assuming that first cousins in the F2 generation intermarry, then there is a 1/16 chance that the great-grandchildren born in the F3 generation will be homozygous for the alkap allele and express the recessive trait.
-* Next Dr. Garrod studied the chemical compound in the urine that turns things black in air is [homogentisic acid (HGA)](https://en.wikipedia.org/wiki/Homogentisic_acid). The oxidation of HGA creates this black color. The phenol ring looks like amino acids phenylalanine and tyrosine. Experimentally, when Garrod fed these babies extra protein, extra phenylalanine, and extra tyrosine, more HGA was produced.
-* He knows that in  wildtype human digestion, protein is broken down into &#8594; amino acids (like Phe, Tyr) &#8594; homogentisic acid (HGA) &#8594; further broken down into something else. In 1908, he gives a lecture claiming that babies with alkaptonuria are missing the enzyme for that final step so they simply accumulate more and more HGA that must be urinated out. Wildtype babies have something (Garrod didn't necessarily know it was an enzyme), that breaks down HGA.
-
-### Josh Meisel and Pedigree Analysis
-* Meisel, C. elegans and infectious bacteria PhD advised by [Dennis Kim](http://kimlab.mit.edu/people.html) and  current postdoc in [Vamsi Mootha's mitochondria lab](http://mootha.med.harvard.edu/members.html) at Harvard Medical School. 
- 
- 
-## Lecture 9: Genetic basis of biochemistry
-### August 19-20, 2020 
-*  [George Beadle](https://en.wikipedia.org/wiki/George_Beadle) and [Edward Tatum](https://en.wikipedia.org/wiki/Edward_Tatum) work. After a lot of frustrating work with the chimeric eyes of mutant drosphila, they switched to a model organism [Neurospora](https://en.wikipedia.org/wiki/Neurospora), single celled fungus.
-* For purposes of today's lecture, Lander will instead talk about Saccharomyces cerevisiae ([S.cerevisiae](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)) common baker's yeast.
-* S. cerevisiae are true eukaryotes. 2n = 16 pairs of chromosomes. n = 32 total chromosomes, counting homologous.
-	* Diploid cells undergo mitosis.
-	* Also, yeast diploid cells (with 2n chromosomes each) can undergo meiosis to create haploid gametes (with n chromosomes each) that can mate like humans, producing F1 cells with diploid chromosomes again.
-	* Finally (unlike humans), yeast gametes can themselves undergo mitosis without need for mating etc.
-* Auxotrophs vs. prototrophs
-* Esther Lederberg makeup compact to do replica plating. Much more efficient than individual scrapings of yeast colonies with a toothpick
-* Prefer to screen potential mutants using haploid cells because they can determine a mutant allele whether it is dominant or recessive. Using diploid yeast would only pick up dominant allele.
-* Haploinsufficiency
-* Characterizing mutants test #1: Dominant or Recessive?
-	* Simple cross with a wildtype haploid through mating.
-*  Test #2: Find complementation groups
-	* Definition of [complementation](https://bio.libretexts.org/Bookshelves/Genetics/Book%3A_Working_with_Molecular_Genetics_(Hardison)/Unit_I%3A_Genes%2C_Nucleic_Acids%2C_Genomes_and_Chromosomes/1%3A_Fundamental_Properties_of_Genes/1.4%3A_Complementation_and_Recombination): "the ability of two mutants in combination to restore a wildtype phenotype". Meanwhile, "dominance in a heterozygote indicates the ability of a wildtype allel to complement loss-of-function alleles.
-	* Start with 50 different mutants of yeast; none of them can produce arginine. They are all called "arginine [auxotrophs](https://en.wikipedia.org/wiki/Auxotrophy)". 
-	* Cross some of them to clarify if these mutants are based on one or multiple genes.
-	* Doubly heterozygous aka "double het". 
-	* Gene that makes arginine is called arg1 which may have various mutations: m1, m2, m3.
-	* A second gene that contributes to the production of arginine is called arg2
-	* Failure to complement means that two mutants are on the same gene. B/c a successful complementation means that one of them is a dominant allele on the same gene. 
-* Test #3: [Epistasis](https://en.wikipedia.org/wiki/Epistasis) Test
-	* Mutations in a sequential biochemical pathway to indicate which enzymes are affected.
-	* Interesting [history](https://en.wikipedia.org/wiki/Epistasis#History) about how the idea of epistasis has evolved from the early days of genetics in the first decades of the 20th century.
-* Ryan, PhD video on lab techniques with S. cerevisiae
- 
-## Lecture 10: Intro to DNA Structure
-### August 20-22, 2020 
-* [Frederick Griffith's](https://en.wikipedia.org/wiki/Frederick_Griffith) search for the "S-Transforming Principle". 
-	* Griffith's [S. pneumoniae bacteria](https://en.wikipedia.org/wiki/Streptococcus_pneumoniae) experiments with [rough vs smooth bacteria](https://en.wikipedia.org/wiki/Griffith%27s_experiment) infecting mice.
-	* "The Transforming Principle" aka alchemical substance.  
-	* Pnuemococcus caused 50% of the deaths in the Great Influenza of 1918-1920
-* [Oswald Avery, Colin MacCleod, and Maclyn McCarty experiments](https://en.wikipedia.org/wiki/Avery–MacLeod–McCarty_experiment)
-	* Through repeated purification of the S-transforming principles, eliminated protein, eliminated proteins, etc. All they are left with is DNA. In 1943, publish the paper claiming that DNA is the hereditary material. People don't believe it b/c reviewers worry that there was protein contamination b/c DNA seemed to be too simple to be the hereditary material.
-* Structure of DNA
-	* Pentose deoxyribose is missing a hydroxyl at the 2'-carbon.
-	* Bases. Purines (A, G) have 2 carbon rings. Pyramidines (T, C) have 1 carbon ring. These bases are connected to the 1'-carbon of deoxyribose
-* [Al Hershey and Barbara Chase experiments](https://en.wikipedia.org/wiki/Hershey–Chase_experiment) on E. coli bacteriophage viruses. 
-	* Uniquely tagged protein with radioactive isotopes of sulfur. Since DNA doesn't have sulfur, DNA will *not* be radioactively tagged.
-	* Alternately, DNA has phosphorus atoms but if you choose the right proteins, amino acids do not.
-* Now, there are two converging lines of evidence that DNA is the genetic material: Avery-MacCleod-MacCarty experiments and Hershey-Chase experiments.
-* [Erwin Chargaff](https://en.wikipedia.org/wiki/Erwin_Chargaff) did a lot of experiments and formulated [Chargaff's rules](https://en.wikipedia.org/wiki/Chargaff's_rules), which indicates that the number of A = T and C = G regardless of what species examined.
-* Linus Pauling's proposed triple axis model for DNA structure has phosphates in the center axis which can't work b/c they are all strongly negative and will repel each other.
-* Supplemental vidoes. 
-	* dsDNA = double-stranded aka the most common formation <a href="https://microbenotes.com/different-forms-of-dna-b-form-a-form-z-form/">B-form DNA</a>
-	* Shirleen PhD student. Replication occurs at [origin of replication](https://en.wikipedia.org/wiki/Origin_of_replication) on the DNA strand. Enzymes involved: helicase, topoisomerase, DNApolymerase, primase, RNAseH, ligase. Okazaki framgnets
-
-## Lecture 11: Central Dogma 1 - DNA Replication
-### August 22-25, 2020
-* Matthew Meselson and Franklin Stahl experiments proving the [semi-conservative nature of DNA replication](https://en.wikipedia.org/wiki/Meselson–Stahl_experiment). Used regular N14 nitrogen and heavy nitrogen N15 to specifically label the strands of DNA, proving that replication is semi-conservative
-
-### Basic Replication
-* DNA Polymerase
-	* 1956, Arthur Kornberg manually adds radioactively tagged dATP, dCTP, dGTP, and dTTP. Short for dexoyadenosine triphosphate (dATP), deoxycytidine triphosphate (dCTP), deoxyguanosine triphosphate (dGTP), and deoxythymidine triphosphate (dTTP). See table on [this wiki page](https://en.wikipedia.org/wiki/Nucleoside#Use_in_medicine_and_technology).
-	* Explanation of why DNA must grow in the 5' &#8594; 3' direction; otherwise, the last monomer on the growing chain might hydrolyze
-* Other enzymes involved:
-	* **Helicase** unwinds helix
-	* **Primase** creates the RNA primer to get the replication started
-	* **DNA Polymerase** attaches the the RNA primer and adds new monomeric nuclueotides to the growing DNA polymer strand (for both leading and lagging strands of the replication fork)
-	* As replication proceeds, there is greater and greater tension ahead of the replication fork. **Topoisomerase** releases this tension by making strategic cuts in the parent DNA double strand.
-	* **Ligase** "glues up" and seals the separated Okazaki fragments on the lagging strand by forming phosphodiester bonds betwen the 3' OH and the 5' phosphate group adjacent fragments.
-
-### Methods that ensure replication fidelity
-* DNA Polymerase does proofreading.
-* Exonuclease runs in the 3'&#8594;5' direction and takes bases off of the chain (opposite activity compared to DNA Polymerase). Improves accuracy from 1/1000 to 1/1,000,000. One error in every 10<sup>3</sup> becomes after exonuclease one error in every million 10<sup>6</sup>.
-* Another method: mismatch detection and repair. When a basepair shows a mismatch between two nucleotides, how does E.coli know which one is the "correct" nucleotide and which is the new "wrong" nucleotide? Luckly, there is a methylation process that marks the original parent strand of DNA. New, daugher strands of DNA lack these methylization markers for a bit. So E.Coli only repairs the unmethylated "newborn" DNA strand.
-* After combining proofreading, exonuclease, and mismatch repair, error rate becomes about one in a billion bp (aka 1 in 10<sup>8</sup>). Given that the human genome is only about 3 billion bp, this means that there are only a total of 30-40 errors per replication.
-* The real workhorse for replication is Pol III, not Pol I and Pol II that were discovered earlier.  Pol I is not the "real polymerase" and it polymerizes at only 10-20 nucleotides/second. It runs out of steam after about 50 nucleotides. Discovered DNA Polymerase II in a mutant e. coli that could still go through mitosis even though this mutant did not produce DNA Poly I.
-
-### More details on Replicon
-* For much more detail about DNA Replication, see handwritten notes and [notes on Molecular Biology of the Cell, Alberts](/alberts-5e) Chapter 5.
-	* In particular, refer to the [wiki article for the replisome](https://en.wikipedia.org/wiki/Replisome), this [2012 diagram](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-10-34/figures/1), and JH handwritten notes from 9/06/2020
-
-
-## Lecture 12: Central Dogma 2 - DNA Transcription and Translation
-### September 4, 2020
-* Uracil is a pyrimidine that is exactly like thymine except it is missing the -CH<sub>3</sub> methyl group off the 5 carbon
-* Because DNA transcription process does not use error-correction / proofreading mechanisms like replication, accuracy for RNA creation is only 1 error in 10<sup>4</sup> (10,000) vs the 1 error in 10<sup>9</sup> (1 billion) for DNA replication.
-* Note: Because [RNA polymerase](https://en.wikipedia.org/wiki/RNA_polymerase) builds the mRNA in the 5'&#8594; 3' direction, that means that RNApol is reading off of **3'&#8594; 5' strand of DNA**. See Fig 14.4 on Sadava p. 287 for example.
-* Also, RNA polymerase is officially called *DNA-directed RNA polymerase*.
-* For more details:
-	* Since transcription grows via [RNA polymerase](https://en.wikipedia.org/wiki/RNA_polymerase) aka RNAP aka RNApol in the 5'&#8594; 3' direction, that means that it is reading in the 3'&#8594; 5' direction. It is reading off of what is called the [**template strand**](https://en.wikipedia.org/wiki/Coding_strand#Alternative_terms_for_strands) aka **antisense strand** in the 3'&#8594; 5' direction.
-	* In contrast, the new mRNA transcript has the same pattern as the opposite strand aka the **coding strand** aka the **sense strand**.
-	* See also <a href="https://en.wikipedia.org/wiki/Transcription_(biology)#/media/File:MRNA.svg">this diagram</a> from the [wikipedia article on transcription](https://en.wikipedia.org/wiki/Transcription_(biology)).
-
-
-
-## Lecture 13: Central Dogma 3 - Variations from the Dogma
-### September 7-9, 2020
-* How do replication, transcription, and translation work in eukaryotes, prokaryotes, and viruses?
-
-### Replication
-* Viral replication (5 - 200 kb) and has these types of genetic material in their protein capsid:
-	* double stranded linear DNA
-	* double stranded circular DNA
-	* single stranded DNA
-	* single stranded RNA in both [+ssRNA aka positive strand](https://en.wikipedia.org/wiki/Positive-strand_RNA_virus) and [-ssRNA aka negative strand](https://en.wikipedia.org/wiki/Negative-strand_RNA_virus) varieties. Retroviruses like HIV use reverse transcriptase to insert themselves into host DNA.
-* Prokaryotes (700 - 6,000 kb. e.g., *E. coli* has 4,000 kb genome)
-	* Replication in prokaryotes is pretty straightforward b/c it has 1 large chromosome that is circular. Easy replication for various bacterial plasmids as well.
-* Eukaryotic replication (12 Mb - 4,000 Mb; see [PSU notes, Lecture 2](https://www.bionotes.org/psu334/))
-	* However, replication in eukaryotes is more complicated because eukaryotic chromosomes are linear. 
-	* This is fine for leading strand replication but lagging strand synthesis will screw up unless the final Okazaki fragment lines up exactly with the length of the chromosome. 
-	* Instead, there are *telomeres* on the end of the each chromosomes, consisting of repeated sequences of **5'-TTAGGG-3'** (aka "T2AG3"). These **T2AG3** sequences are elongated by [telomerase](https://en.wikipedia.org/wiki/Telomerase).
-	* Note that there are different repeating sequences depending on genera. See [table at wiki article here](https://en.wikipedia.org/wiki/Telomere#Sequences).
-
-### Transcription
-* Prokaryote transcription is pretty straightforward
-* Reminder:
-	* Sense strand = coding strand = mRNA pattern.
-	* Anti-sense strand = template strand = complement of the mRNA
-* Transcription in eukaryotes. The [immature RNA aka primary transcript](https://en.wikipedia.org/wiki/Primary_transcript) is processed into [mature mRNA.Three](https://en.wikipedia.org/wiki/Mature_messenger_RNA). Three things happen during this processing:
-	* A single GTP (aka  Guanine with three phosphates) is added as a "start" cap to the 5' end of mature mRNA in a process called "[capping](https://en.wikipedia.org/wiki/Five-prime_cap)".
-	* The 3' end of the mRNA goes through [polyadenation](https://en.wikipedia.org/wiki/Polyadenylation). In other words, a **poly(A) tail** (*aka* a repetitive series of adenines, AAAA...) are added to the 3' end. Virtually all eukaryotic mRNA's have poly(A) tails.
-	* [Introns](https://en.wikipedia.org/wiki/Intron) removed by RNA splicing. Alternate splicing means that the same DNA gene and same immature mRNA can be spliced into different mature mRNAs (with different exons) that therefore express different proteins. In other words, most eukaryotic genes are called ["split" or "interrupted"](https://en.wikipedia.org/wiki/Interrupted_gene).
-		* Intron and exon are terms coined by [Walter Gilbert](https://en.wikipedia.org/wiki/Walter_Gilbert) at Harvard; Glibert also co-founded Biogen and Myriad Genetics and, in 1986, first proposed the [RNA World hypothesis](https://en.wikipedia.org/wiki/RNA_world).
-		* The existence of interrupted genes and RNA splicing was discovered by at Cold Spring Harbor Lab by [Richard Roberts](https://en.wikipedia.org/wiki/Richard_J._Roberts) and [Phillip Sharp](https://en.wikipedia.org/wiki/Phillip_Allen_Sharp). Sharp would later take a leadership role at the MIT Biology Dept and co-found Biogen, Alnylam Pharmaceuticals, and Magen Biosciences.
-
-
-### Translation
-* **Eukaryotes**. start code: 5'-AUG-3' and stop codon: 5'-UAG-3'  Eukaryotes are very profligate spenders of genome space so perhaps they don't leverage multiple reading frames over the same mRNA segment. 
-* In contrast, both **prokaryaotes** and **viruses** have much more compact genomes.
-	* As such, they often need to compress as many messages as possible into a short strand of mRNA. 
-	* One strategy used by bacteria is to string along many sequential genes all activated by the same promoter region–this is called being [**polycistronic**](https://en.wikipedia.org/wiki/Messenger_RNA#Monocistronic_versus_polycistronic_mRNA). Both archaea and bacteria leverage polycistronic RNA
-		* Often useful if all these proteins are involved in the same biochemical process.
-		* In contrast, being **monocistronic** is the opposite. This is one a single promoter region one DNA gene &#8594; one mRNA &#8594; one protein, in keeping with a more traditional Central Dogma model. Most eukaryotic mRNAs are monocistronic.
-	* Another strategy used by both bacteria and viruses is having multiple reading frames on the same mRNA. They may pack 2 or even 3 reading frames onto a single strand of mRNA.  Example: HIV.
-
-## Lecture 14: &#946;-Galactosidase in E. Coli, Estrogen in Mammals, and &#946;-Globin in Humans
-
-### September 10-12, 2020
-
-* Today's lecture is about gene control in the context of two genes: (1) &#946;-Galactosidase in *E. coli* as part of the glucose-lactose catalysis switch. (2) &#946;-Globin in humans as part of hemoglobin
-
-### &#946;-Galactosidase in E. coli
-* Beta-galactosidase &#946;-Galactosidase (in E. coli) aka "beta-gal" or "&#946;-gal"
-* Lac operon 
-* High lactose concentration attaches to the [*lac* repressor protein](https://en.wikipedia.org/wiki/Lac_repressor).  Since *lac* repressor active site is bound molecular lactose, *lac* does **not** attach to DNA where it usually rests on top of the lac operon promoter region. Thus, without the *lac* repressor molecule sterically blocking the DNA promoter region, the *lac* operon is expressed, increasing lactose metabolism.
-* At the same time, RNAP binds somewhat weakly to the lac operon promoter region. However, if, in addition to high lactose concentration there is also low glucose concentration, this is an additional factor that encourages lactose metabolism.
-	* The way this factor works is that if the concentration of glucose molecules is LOW, that means that the concentration of cAMP is high. cAMP which means attaches to the [CAP (Catabolite Activator Protein)](https://en.wikipedia.org/wiki/Catabolite_activator_protein). When there is no cAMP activating CAP, CAP just floats in solution. But *with* cAMP attached, CAP becomes activated and clamps onto the DNA strand. As an activator molecule, CAP significantly improves the activity of the *lac* operon, overcoming the weak baseline activity of the *lac* promoter region when all you have is the *lac* repressor thrown away from the DNA.
-* For more details watch [Sera Thornton's lac operon regulation video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) and refer to [Sadava notes](/sadava/) for Chapter 16.
-
-### Estrogen receptors in humans
-* Estrogen receptor is bound to another protein, sitting in the cytoplasm of mammalian cells. When that this receptor-protein complex connects with an estrogen molecule, this complex then moves into the cell nucleus and then attaches to the nuclear DNA in various places.
-* At that point, it activates DNA transcription / expression of specific genes.
-* In other words, estrogen acts as a **DNA-binding transcription factor** that can cross the phospholipid bilayer cell membrane.
-
-### &#946;-Globin in humans
-* Reminder that hemoglobin as a tetramer with two alpha-subunits and two beta-subunits.
-* The [alpha-subunits](https://en.wikipedia.org/wiki/Hemoglobin,_alpha_1) are coded by the *HBA1* gene (located on chromosome 16).
-*  The [beta-subunits](https://en.wikipedia.org/wiki/HBB) are coded by the *HBB* gene (located on chromosome 11).
-	* Compact gene with three small exons: 140 bp, 222 bp, 252 bp
-	* The first 50 bp are not translated, called the  **5'-untranslated region**.
-	* Thus, the start codon AUG is around 50bp into the first exon. The TAA stop codon is about 120 bp into the third exon.
-	* The untranslated part at the end of the mRNA is called the **3'-untranslated region**.
-	* 432 bp coding region inside the overall 614 bp mature (aka post-processed) mRNA gene
-	* 432 / 3 = 144 amino acids
-	* At the end is a poly(A) tail starting at the stop codon AUG which is the beginning of the terminating polyadylation site
-
-### Mutations Affecting &#946;-Globin Production
-* GAG encodes glutamic acid. Consider the possible mutation which turns it to GAA, which also codes for GLU. Since no change, this is called a *silent substitution*.
-* What if GAG is mutated to GAT aka GAU? Now we are coding for aspartic acid (Asp) instead of Glu. We call this a conservative *missense change*; not a silent substitution b/c the amino acid coded is actually different. However, since both Asp and Glu are both negatively charged polar residues, probably the function doesn't change that much. Similarly, if we change leucine to isoleucine probably not a huge change.
-* Imagine GAG changed to GTG; this means Glu turns into valine (Val). Big change from a negatively charged polar (aka hydrophilic) Glu to a hydrophobic (aka nonpolar) Val residue. This is probably a **nonconservative** missense change.
-	* The problem with this is that now the nonpolar hydrophobic Val residues attach to similar hydrophobic patch on each &#945;-Globin subunit. As a result, instead of small circular clean tetramers, hemoglobins become these long chains of back-to-back &#945; and &#946; subunits. 
-	* This forms long rods inside the red blood cell, turning the overall RBC into a sickle shape: [causing](https://www.nature.com/scitable/topicpage/genetic-mutation-441/) [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle_cell_disease#Genetics)!
-* Next consider a mutation in the eighth amino acid: AAG which codes for lysine (Lys). If we change it to TAG, that codes for a Stop codon! We call this a *nonsense mutation*. If you are homozygous for this mutation, it's very deadly and it's called beta thalassemia.
-* Consider the codons in positions 3, 4, and 5: **CTG-ACT-CCT**. If the G is deleted from Codon 3 (CT **G**), then we have a frameshift mutation. Now the sequence is **CTA-CTC-CT?-**.
-	* The original Leu-Thr-Pro now becomes a Leu-Leu-Leu-and everything afterwards is scrambled
-* Another problem is if the promoter is killed. Then the whole operon is unable to be expressed
-* What about if there are mutations in the splicing machinery?
-	* There are GT before and AG after exons that are necessary to indicate that there is an exon to be spliced.
-	* If these these splice sites are mutated, then immature [precursor RNA](https://en.wikipedia.org/wiki/Primary_transcript) won't be properly turned into [mature mRNA](https://en.wikipedia.org/wiki/Mature_messenger_RNA)
-* Poly-adenylation site mutations. If there is a mutation at the Poly(A) site, then the protective endcap on the mRNA tail won't be there and it may be degraded, leading to problems during translation.
-* Transposons can jump right into the middle of a gene. Even though this seems unlikely (given the small % of the genome that is coding protein), it happens frequently enough that we see a child of two non-thalassemic parents can be a mutant *with* thalassemia because a transposon destroyed their &#946;-Globin gene.
-* Wholesale deletion of a gene. Murphy's Law; if exposure to x-rays, a big mistake in the DNA copying machinery, a total break in the chromosome, etc.
-
-### LCRs and &#946;-Globin Regulation
-* [Locus control region (LCR)](https://en.wikipedia.org/wiki/Locus_control_region) is another DNA region separate from the regular promoter that helps activate the &#946;-Globin operon. The surprising thing is that the &#946;-Globin LCR is **100k bp away** from the &#946;-Globin gene!
-* When &#946;-Globin operon is activated. The chromosome seems to folds up so that the LCR and the promoter are actually touching.
-* Papers about LCRs for &#946;-Globin:
-	* [Locus control regions (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811695/) by Li, Peterson, Fang, and Stamatoyannopoulos. Key review article that cites all other papers shown below 
-	* [Classic 1987 Cell paper](https://pubmed.ncbi.nlm.nih.gov/3690667/) on locus control regions for &#946;-Globin by Grosveld, van Assendelft, Greaves, and Kollias
-	* [2002 review article by Stamatoyannopoulos & Grosveld](https://www.nature.com/articles/pr200269.pdf?origin=ppub)
-	* [Locus control regions, chromatin activation, and transcription (1998)](https://pubmed.ncbi.nlm.nih.gov/9640537/) by Fraser and Grosveld
-	* [Locus control regions: coming of age at a decade plus (1999)](https://pubmed.ncbi.nlm.nih.gov/10498936/) by Li, Harju, and Peterson
- 
-### &#946;-Globin Region
- * Not just the gene, but the overall DNA before and after it.
- * The next gene over is another gene called delta-globin.
- * 98% of hemoglobin in humans is the standard alpha-alpha-beta-beta tetramer (&#945;-&#945;-&#946;-&#946;). However, 2% of the hemoglobin is alpha-alpha-delta-delta tetramer (&#945;-&#945;-&#948;-&#948;).
- * There are also gamma-globin (&#947;-globin) genes close to the beta-globin genes. Usually, these genes are not expressed. They are primarily turned *only* turned on during fetal development. Binds more strongly to oxygen than regular beta-globin hemoglobin.
- * This is one reason why some of the sickle cell anemia people suffer less b/c they are still expressing fetal &#947;-globin hemoglobin.
- * Another globin called epsilon-globin (&#949;-globin) used in embryos.
- * These **paralogs** are probably caused by **unequal crossing over**, aka crossing over homologous recombination during meiosis which caused duplication. Uneven exchange during this process, leading to duplication. Process is called **duplication and divergence** and is responsible for many homologs out there.
- * Globin superfamily includes alpha, beta, gamma, delta, epislon, and myoglobins. (See photos - 9/11/2020)
- 
-## Lecture 15: Cloning - Purifying a Gene
-### September 11, 2020
-* By the mid-1960's, some of the most senior biologists thought that the secret of life had essentially been "solved"; perhaps it was time to move onto the human brain.
-* Typical gene is about 10-30kb long
-* How do you isolate a single gene? It's hard to purify one segment DNA vs.s another segment b/c they are all chemically so similar. Different problem than proteins which are different from each other.
-* Important to clarify that cloning as applied to DNA does not refer to human or sheep organismal cloning. Specifically, we mean it here the process of isolating a specific fragment of DNA, encouraging it to replicate (which it was built to do), 
-* Steps:
-	1. Isolate / Cut the desired DNA segment
-	2. Paste the desired DNA segment into a **vector**. A vector is something a cell will automatically duplicate. (e.g., plasmid?)
-	3. Transform aka insert this duplicated/cloned DNA into a target cell
-	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells.
-
-### Cutting / Isolation
-* Restriction endonuclease
-
-## Lecture 16: Finding a Specific Gene in the Library
-## Lecture 17: Analyzing a Gene
-
----		
-
-# Checklist
-### <del>Unit 1: Introduction and the Biochemistry of Life</del>
-* <del>Lectures 1, 2, 3</del>
-
-### <del>Unit 2: Biochemistry: Proteins, Enzymes, Glycolysis</del>
-* <del>Lectures 4, 5</del>
-
-### <del>Unit 3: Genetics including meiosis</del>
-* <del> Lectures 6, 7</del>
-* Finish problem set for Unit 3: Genetics I
-
-### <del>Unit 4: Human and Biochemical Genetics</del>
-* <del>Lectures 8, 9</del>
-* Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
-* Finish problem set for Unit 4: Genetics II
-
-### <del> Unit 5 : Molecular Biology I - DNA Replication</del>
-* <del>Lecture 10</del>
-* <del>Lecture 11</del>
-
-### <del>Unit 6 : Molecular Biology II - Transciption, Translation, Variations</del>
-* <del>Lecture 12: Transcription and Translation</del>
-* <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
-* <del>Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin</del>
-* <del>Watch [Sera's video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) showing how *lac* operon is regulated by: (1) the lactose-binding repressor and (2) the &#10515;glucose-&#10514;cAMP-bound activator</del>
-* Cerego Memory Set
-
-### Unit 7: Recombinant DNA
-* **Lecture 15: Cloning - Purifying a Gene**
-* Lecture 16
-* Lecture 17
-
-### Unit 8: Genomics I - Human Genome
-Lectures 18, 19
-### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
-Lectures 20, 21
-### Unit 10: Disease, Science, and Society
-Lectures 22, 23, 24
-
----
-
-# Miscellaneous notes
-
-* Good [YouTube video](https://youtu.be/ZesFyuFj30s) explaining how to use free online MolView.org. 
-* Excellent [before and after video](https://twitter.com/DrewCoffman/status/1274743473732632576) showing off the special effects a single artist can create in Blender. Higher res version on [Youtube](https://youtu.be/FFJ_THGj72U)
-* [Wikipedia article](https://en.wikipedia.org/wiki/Drew_Berry) about Australian science animator [Drew Berry](https://www.macfound.org/fellows/27/)
-	* Read the comment thread at [this io9 interview piece](https://io9.gizmodo.com/animator-drew-berry-is-here-to-talk-to-you-about-making-1644346171)
-	* [Good FAQ](https://www.drewberry.com/faq) about tools and getting started.
-* Textbooks on bacterial genetics and genomics:
-	* [Bacterial Genetics and Genomics (2020)](https://www.amazon.com/Bacterial-Genetics-Genomics-Lori-Snyder/dp/0815345690/) by Lori Snyder
-	* [Molecular Genetics of Bacteria, 4th ed (2013)](https://www.amazon.com/Molecular-Genetics-Bacteria-Larry-Snyder/dp/1555816274/) by Larry Snyder, Joseph Peters, Tina Hemkin, Wendy Champness
+### The *trp* operon is a repressible regulatoin system
+* Khan Academy [article](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/a/the-trp-operon) and [video](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria/v/trp-operon) on *trp* operon
+* [Trp](https://en.wikipedia.org/wiki/Trp_operon) is a **repressible system** using a **co-repressor** in contrast to the lac operon which is an *inducible system*.
