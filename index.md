@@ -492,7 +492,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Cutting with restriction enzymes
 * Restriction endonuclease with a palindromic sequence. Because the enzyme is a dimer so it can read in either direction. Found in *E. coli* strain R. Called [**EcoRI**](https://en.wikipedia.org/wiki/EcoRI). EcoRI is part of the bacterial defense/immune system to protect against bacteriophages. That's why it's called "restriction enzyme". Because it restricts the growth of virus.
-* Second enzyme called [**Dam methylase**](https://en.wikipedia.org/wiki/DNA_adenine_methylase) first comes and adds a methyl group to the adenines in all the EcoRI sites (palindromic AATT sequences) to keep EcoRI from cutting there. This keeps the bacteria from cutting the palindromic AATT sequences in *E. coli*'s own DNA.
+* Second enzyme called [**Dam methylase**](https://en.wikipedia.org/wiki/DNA_adenine_methylase) first comes and adds a methyl group to the adenines in all the EcoRI sites (palindromic GAATTC sequences) to keep EcoRI from cutting there. This keeps the bacteria from cutting the palindromic GAATTC sequences in *E. coli*'s own DNA.
 	* Dam methylase works pretty quickly so it's ok to only methlyate one strand before EcoRI gets there.
 	* And after mitosis, only one daughter strand has any methylation at all. Again, Dam works pretty quickly so both daughter chromomsomes quicky have at least one strand that is fully methylated.
 * See photo roll on 9/14/2020 for screenshot of various other restriction endonucleases.
@@ -503,8 +503,22 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Recombinant DNA, where ligase could actually connect a bacterial strand with a zebra strand.
 
 ### Vectors
+* Plasmids have origins of replication.
+* Horizontal transfer of DNA between bacteria. If a bacteria dies, it lyses open and the plasmids and other DNA molecules can be absorbed but other living bacteria.
+
+### Transform another cell
+* Genetically modify an organism by passing a modified vector plasmid into it. Important to associate a gene for antibiotic-resistance on the vector so that after you plate out the *E. coli* on a petri dish you can eliminate the untransformed bacteria.
+* Story of how Salvador Luria discovered the phenomenon of methylation, which is part of what led him to discover restriction enzymes.
+
+### Michelle Mischke
+* Origin of replication and promoters
+
 
 ## Lecture 16: Finding a Specific Gene in the Library
+
+### 
+* asdfads
+
 ## Lecture 17: Analyzing a Gene
 
 ---		
@@ -537,8 +551,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Cerego Memory Set
 
 ### Unit 7: Recombinant DNA
-* **Lecture 15: Cloning - Purifying a Gene**
-* Lecture 16
+* <del>Lecture 15: Cloning - Purifying a Gene</del>
+	* Watch Michelle's origin of replication and promoters
+* **Lecture 16: Finding a Specific Gene in the Library**
 * Lecture 17
 
 ### Unit 8: Genomics I - Human Genome
