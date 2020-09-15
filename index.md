@@ -511,7 +511,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Story of how Salvador Luria discovered the phenomenon of methylation, which is part of what led him to discover restriction enzymes.
 
 ### Michelle Mischke
-* Origin of replication and promoters
+* Origin of replication (Ori) and promoters and strong versus weak binding of RNAP. Even RNAPs weakly bound to a promoter region (b/c of sequence semi-mismatch) can improve their activity if other helper proteins attach to this complex.
+* Note that b/c there are different DNA pol and RNAP used in humans vs. bacteria, the *ori* and promoter sequences will be different across different taxa. This has consequences for lab experiments.
 
 
 ## Lecture 16: Finding a Specific Gene in the Library
@@ -552,7 +553,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 7: Recombinant DNA
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
-	* Watch Michelle's origin of replication and promoters
 * **Lecture 16: Finding a Specific Gene in the Library**
 * Lecture 17
 
