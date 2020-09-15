@@ -442,7 +442,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* At the end is a poly(A) tail starting at the stop codon AUG which is the beginning of the terminating polyadylation site
 
 ### Mutations Affecting &#946;-Globin Production
-* GAG encodes glutamic acid. Consider the possible mutation which turns it to GAA, which also codes for GLU. Since no change, this is called a *silent substitution*.
+* GAG encodes glutamic acid. Consider the possible mutation which turns it to GAA, which also codes for GLU. Since no change, this is called a **silent substitution**.
 * What if GAG is mutated to GAT aka GAU? Now we are coding for aspartic acid (Asp) instead of Glu. We call this a **conservative missense change**; not a silent substitution b/c the amino acid coded is actually different. However, since both Asp and Glu are both negatively charged polar residues, probably the function doesn't change that much. Similarly, if we change leucine to isoleucine probably not a huge change.
 * Imagine GAG changed to GTG; this means Glu turns into valine (Val). Big change from a negatively charged polar (aka hydrophilic) Glu to a hydrophobic (aka nonpolar) Val residue. This is a **nonconservative missense mutation**.
 	* The problem with this is that now the nonpolar hydrophobic Val residues attach to similar hydrophobic patch on each &#945;-Globin subunit. As a result, instead of small circular clean tetramers, hemoglobins become these long chains of back-to-back &#945; and &#946; subunits. 
