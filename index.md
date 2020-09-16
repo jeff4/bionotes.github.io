@@ -57,7 +57,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 2: Biochemistry
 ### July 21 - 28, 2020
 * Eduard Buchner and the founding of biochemistry. 
-	* During a [series of experimnts from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
+	* During a [series of experiments from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
 	* However, [in 1897](https://en.wikipedia.org/wiki/Eduard_Buchner#Research), Buchner showed that if one took a mass of yeast and crushed all the living cells to death, one could extract dead "yeast juice" that could still perform fermentation. This showed that a nonliving enzyme ([zymase](https://en.wikipedia.org/wiki/Zymase)) produced by yeast was responsible for fermentation. 
 * Composition of cells; covalent bonds
 	* Atomic composition of human life: Consists largely of 63% H, 24% O, 10% C, 14% N, 0.2% phosphorus,  and less than 0.1% sulfur.
