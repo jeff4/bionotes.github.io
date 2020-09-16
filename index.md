@@ -519,6 +519,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### September 14, 2020
 * Library = set of bacterial colonies on a petri dish
 
+### Tricks of the trade
+* what if there is an EcoRI site in the middle of the desired gene? Two possibilities: (1) partial digestion aka lower concentration of restriction enzyme in solution; (2) Restriction/methylation competition by titrating how much methylase you add to protect a certain desired % of the target DNA sequence
+* 
+
 ## Lecture 17: Analyzing a Gene
 
 ---		
