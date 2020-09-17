@@ -531,7 +531,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* We use the enzyme **phosphatase** (see for example [alkaline phosphatase](https://www.neb.com/products/m0290-alkaline-phosphatase-calf-intestinal-cip#Product%20Information)) which strips off the terminal phosophate. Thus, [ligase](https://en.wikipedia.org/wiki/Ligase) can no longer anneal this plasmid until we are ready. In other words, phoshatase makes it such that ligase can no longer do its job and the plasmid will no longer "self-ligate".
 		* Next, when the desired source DNA insert segment comes along, it carries its own phosphates which allows the plasmid to close.
 		* Note that this will still leave single-strand nicks. Those nicks will be healed in the target bacteria.
-	* [**Shearing DNA**](https://en.wikipedia.org/wiki/DNA_fragmentation#Intentional) is another trick: you can shake up DNA in water, shearing them to pieces of various lengths. Depending on how much you've shaken things up, you can make smaller and smaller segments of DNA. Also, you can use enzymes to fix the ends of each strand so they are blunt ends or sticky ends as desired
+* [**Shearing DNA**](https://en.wikipedia.org/wiki/DNA_fragmentation#Intentional) is another trick: you can shake up DNA in water, shearing them to pieces of various lengths. Depending on how much you've shaken things up, you can make smaller and smaller segments of DNA. Also, you can use enzymes to fix the ends of each strand so they are blunt ends or sticky ends as desired
 
 ### Different vectors for different target organisms, etc.
 
