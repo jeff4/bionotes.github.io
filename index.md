@@ -517,11 +517,23 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 16: Finding a Specific Gene in the Library
 ### September 14, 2020
-* Library = set of bacterial colonies on a petri dish
-
 ### Tricks of the trade
-* what if there is an EcoRI site in the middle of the desired gene? Two possibilities: (1) partial digestion aka lower concentration of restriction enzyme in solution; (2) Restriction/methylation competition by titrating how much methylase you add to protect a certain desired % of the target DNA sequence
-* 
+* Library = set of bacterial colonies on a petri dish
+* **Problem 1**: what if there is an EcoRI site in the middle of the desired gene? Two possible solutions:
+	1. **Partial digestion** aka lower concentration of restriction enzyme in solution
+	2. **Restriction/methylation competition** by titrating how much methylase you add to protect a certain desired % of the source DNA sequence
+* **Problem 2**: 
+	* Assume you are using an antibiotic like ampicillin as the selector to filter out E.coli colonies that haven't been transformed with the desired source DNA sequence. 
+	* We assume that only bacteria that have absorbed a plasmid that contains *both* the amp<sup>R</sup> resistance segment *and* the source DNA segment survive the petri dish that contains ampicillin. 
+	* However, it is quite likely that a plasmid accidentally closes with *only* the amp<sup>R</sup> resistance segment, thereby conferring immunity to an bacteria that is missing the source DNA segment. 
+	* How do we prevent this?
+	* **Answer**:
+		* We use the enzyme **phosphatase** (see for example [alkaline phosphatase](https://www.neb.com/products/m0290-alkaline-phosphatase-calf-intestinal-cip#Product%20Information)) which strips off the terminal phosophate. Thus, [ligase](https://en.wikipedia.org/wiki/Ligase) can no longer anneal this plasmid until we are ready. In other words, phoshatase makes it such that ligase can no longer do its job and the plasmid will no longer "self-ligate".
+		* Next, when the desired source DNA insert segment comes along, it carries its own phosphates which allows the plasmid to close.
+		* Note that this will still leave single-strand nicks. Those nicks will be healed in the target bacteria.
+	* Another trick: you can shake up DNA in water, shearing them to pieces of various lengths. Depending on how much you've shaken things up, you can make smaller and smaller segments of DNA. Also, you can use enzymes to fix the ends of each strand so they are blunt ends or sticky ends as desired
+
+### Different vectors for different target organisms, etc.
 
 ## Lecture 17: Analyzing a Gene
 
