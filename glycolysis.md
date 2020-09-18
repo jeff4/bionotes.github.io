@@ -3,7 +3,7 @@ title: Glycolysis
 permalink: /glycolysis/
 ---
 
-## Glycolysis drawn from Sadava, Alberts, and MIT lectures
+## Glycolysis drawn from [Sadava](/sadava/), [Alberts](alberts-5e), and MIT lectures
 
 Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH handwritten notes August 7-13, 2020,  Alberts p. 120-121 (Panel 2-8), [Lander Lecture 5](/index) and table below.
 
@@ -23,3 +23,5 @@ Glycolysis converts glucose to pyruvate in 10 steps. For more details, see JH ha
 | **8**  | **3-phosphoglycerate**                          | phosphoglycerate mutase  | 2-phosphoglycerate                          |                                |                                                                |
 | **9**  | **2-phosphoglycerate**                          | enolase                  | phosphoenolpyruvate                         |                                | H<sub>2</sub>O                                                 |
 | **10** | **phosphoenolpyruvate**                         | pyruvate kinase          | **pyruvate**                                | ADP; H<sup>+</sup>             | ATP                                                            |
+
+
