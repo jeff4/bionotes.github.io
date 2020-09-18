@@ -542,9 +542,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* No longer do this anymore because it's a lot of work but is not needed/necessary anymore.
 * Can even create artificial human chromosomes
 
-## Source DNA
-* Some of it is nucleic / genomic DNA
-* But you can make a library of expressed RNA. One can clone (copy) the RNA into a vector.
+### Source DNA doesn't just have to be nucleic / genomic DNA
+* One an make a library of expressed mRNA. You do this by cloning RNA into DNA using [reverse transcriptase](https://en.wikipedia.org/wiki/Reverse_transcriptase). This creates [cDNA](https://en.wikipedia.org/wiki/Complementary_DNA) aka **complementary DNA**.
+	* **cDNA** is synthesized from ssRNA into dsDNA. Often used to copy (clone) eukaryotic genes into prokaryotes.
+* akdfj
 
 ## Lecture 17: Analyzing a Gene
 
