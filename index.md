@@ -488,7 +488,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	1. Isolate / Cut the desired DNA segment
 	2. Paste the desired DNA segment into a **vector**. A vector is something a cell will automatically duplicate. (e.g., plasmid?)
 	3. Transform aka insert this duplicated/cloned DNA into a target cell
-	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells. [**Selectable markers**](https://en.wikipedia.org/wiki/Selectable_marker) (like an ampicillin resistance gene are critical to isolating the desired colony of transformed cells in the end). see also [auxotrophs](https://en.wikipedia.org/wiki/Auxotrophy)
+	4. Select for the cells that took up the DNA. Aka have a filter that can select only the transformed cells. [**Selectable markers**](https://en.wikipedia.org/wiki/Selectable_marker) (like an ampicillin resistance gene are critical to isolating the desired colony of transformed cells in the end). See also [**auxotrophs**](https://en.wikipedia.org/wiki/Auxotrophy)
 
 ### Cutting with restriction enzymes
 * Restriction endonuclease with a palindromic sequence. Because the enzyme is a dimer so it can read in either direction. Found in *E. coli* strain R. Called [**EcoRI**](https://en.wikipedia.org/wiki/EcoRI). EcoRI is part of the bacterial defense/immune system to protect against bacteriophages. That's why it's called "restriction enzyme". Because it restricts the growth of virus.
