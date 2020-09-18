@@ -534,6 +534,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * [**Shearing DNA**](https://en.wikipedia.org/wiki/DNA_fragmentation#Intentional) is another trick: you can shake up DNA in water, shearing them to pieces of various lengths. Depending on how much you've shaken things up, you can make smaller and smaller segments of DNA. Also, you can use enzymes to fix the ends of each strand so they are blunt ends or sticky ends as desired
 
 ### Different vectors for different target organisms, etc.
+* Table 
+* Use a bacterial virus as the vector (instead of a plasmid) to transform target bacteria
+* Use a mammalian virus as the vector to transform target mammal
+* Create an artificial chromosome from scratch. Scientists have done this in yeast already. Worked out the telomere sequence, origin of repliction, a site of the desired gene, etc.
+	* Can actually build a chromosome of 1M nucleotides. Used to do this a lot in the 1990s
+	* No longer do this anymore because it's a lot of work but is not needed/necessary anymore.
+* Can even create artificial human chromosomes
+
+## Source DNA
+* Some of it is nucleic / genomic DNA
+* But you can make a library of expressed RNA. One can clone (copy) the RNA into a vector.
 
 ## Lecture 17: Analyzing a Gene
 
