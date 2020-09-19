@@ -516,7 +516,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 16: Finding a Specific Gene in the Library
-### September 14, 2020
+### September 14-18, 2020
 ### Tricks of the trade
 * Library = set of bacterial colonies on a petri dish
 * **Problem 1**: what if there is an EcoRI site in the middle of the desired gene? Two possible solutions:
