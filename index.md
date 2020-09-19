@@ -564,7 +564,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Take all the yeast DNA and cut it to pieces, ligate it to vectors. Transformed it into cells.
 * Now we have thousands of colonies are all carrying different plasmids from the fragmented source DNA.
 
+### Finding a gene ny monoclonal fluorescent linked protein expression
+
+
+
 ## Lecture 17: Analyzing a Gene
+### September 18,2020
 
 ---		
 
@@ -597,8 +602,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 7: Recombinant DNA
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
-* **Lecture 16: Finding a Specific Gene in the Library**
-* Lecture 17
+* <del>Lecture 16: Finding a Specific Gene in the Library</del>
+* **Michelle follow up video on Restriction Enzymes**
+* **Lecture 17**
 
 ### Unit 8: Genomics I - Human Genome
 Lectures 18, 19
