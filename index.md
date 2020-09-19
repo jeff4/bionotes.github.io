@@ -534,6 +534,15 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * [**Shearing DNA**](https://en.wikipedia.org/wiki/DNA_fragmentation#Intentional) is another trick: you can shake up DNA in water, shearing them to pieces of various lengths. Depending on how much you've shaken things up, you can make smaller and smaller segments of DNA. Also, you can use enzymes to fix the ends of each strand so they are blunt ends or sticky ends as desired
 
 ### Different vectors for different target organisms, etc.
+
+| Vector                      | Target   | Size (base pairs) |
+|-----------------------------|----------|-------------------|
+| Bacterial plasmid           | Bacteria | 100's - 5000's    |
+| Bacterial virus             | Bacteria | ?                 |
+| Yeast plasmid               | Yeast    | 5000              |
+| Mammalian virus             | Mammals  | ?                 |
+| Yeast artificial chromosome | Yeast    | 1M range          |
+
 * Use a bacterial virus as the vector (instead of a plasmid) to transform target bacteria
 * Use a mammalian virus as the vector to transform target mammal
 * Create an artificial chromosome from scratch. Scientists have done this in yeast already. Worked out the telomere sequence, origin of repliction, a site of the desired gene, etc.
@@ -551,6 +560,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Finding your gene by complementation; the ARG1 gene
 * [ARG1](https://en.wikipedia.org/wiki/ARG1_(gene)) codes for enzyme arginase
+* Yeast mutants who are auxotrophs requiring external arginine because the mutation prevents it from manufacturing arginine by itself. The gene is ARG1.
+* Take all the yeast DNA and cut it to pieces, ligate it to vectors. Transformed it into cells.
+* Now we have thousands of colonies are all carrying different plasmids from the fragmented source DNA.
 
 ## Lecture 17: Analyzing a Gene
 
