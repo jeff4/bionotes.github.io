@@ -540,8 +540,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 | Bacterial plasmid           | Bacteria | 100's - 5000's    |
 | Bacterial virus             | Bacteria | ?                 |
 | Yeast plasmid               | Yeast    | 5000              |
-| Mammalian virus             | Mammals  | ?                 |
 | Yeast artificial chromosome | Yeast    | 1M range          |
+| Mammalian virus             | Mammals  | ?                 |
 
 * Use a bacterial virus as the vector (instead of a plasmid) to transform target bacteria
 * Use a mammalian virus as the vector to transform target mammal
