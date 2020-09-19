@@ -564,10 +564,15 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Take all the yeast DNA and cut it to pieces, ligate it to vectors. Transformed it into cells.
 * Now we have thousands of colonies are all carrying different plasmids from the fragmented source DNA.
 
-### Finding a gene ny monoclonal fluorescent linked protein expression
+### Finding a gene by  protein expression
+* e.g., inject a rabbit to produce monoclonal antibodies and you link them to fluorescence
 
 ### Review
-* Again the steps are always: (1) Decide **Source DNA** which is either genomic DNA or cDNA; (2) Place source DNA into **Vector**; (3) Use vector to **Transform** bacterial, yeast, mammalian or other target cells; (4) **Select** transformed cells using either (4a) complementation or (4b) protein expression
+* Again the steps are:
+1. Decide **Source DNA** which is either genomic DNA or cDNA
+2. Place source DNA into **Vector**
+3. Use vector to **Transform** bacterial, yeast, mammalian or other target cells
+4. **Select** transformed cells using either (4a) complementation or (4b) protein expression
 
 
 ## Lecture 17: Analyzing a Gene
