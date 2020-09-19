@@ -568,11 +568,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * e.g., inject a rabbit to produce monoclonal antibodies and you link them to fluorescence
 
 ### Review
-* Again the steps are:
-1. Decide **Source DNA** which is either genomic DNA or cDNA
-2. Place source DNA into **Vector**
-3. Use vector to **Transform** bacterial, yeast, mammalian or other target cells
-4. **Select** transformed cells using either (4a) complementation or (4b) protein expression
+* Again the steps to [cloning a gene](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/overview-dna-cloning):
+	1. Decide **Source DNA** which is either genomic DNA or cDNA
+	2. Place source DNA into **Vector**
+	3. Use vector to **Transform** bacterial, yeast, mammalian or other target cells
+	4. **Select** transformed cells using either (4a) complementation or (4b) protein expression
 
 
 ## Lecture 17: Analyzing a Gene
