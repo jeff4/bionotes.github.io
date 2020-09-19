@@ -571,6 +571,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ## Lecture 17: Analyzing a Gene
 ### September 18,2020
 
+### Gel Electrophoresis
+* DNA is a negatively charged molecule so the electric field applied moves it away from the negative pole and *towards* the positive pole.
+
+### DNA Sequencing
+* 
 ---		
 
 # Checklist
