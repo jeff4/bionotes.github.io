@@ -598,13 +598,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 13: Variations between viruses, prokaryotes and eukaryotes</del>
 * <del>Lecture 14: A Tale of Two Genes: &#946;-Galactosidase and &#946;-Globin</del>
 * <del>Watch [Sera's video](https://www.youtube.com/watch?v=2TL8rY9Rc_A) showing how *lac* operon is regulated by: (1) the lactose-binding repressor and (2) the &#10515;glucose-&#10514;cAMP-bound activator</del>
-* Cerego Memory Set
+* <del>Cerego Memory Set</del>
 
 ### Unit 7: Recombinant DNA
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
 * <del>Lecture 16: Finding a Specific Gene in the Library</del>
 * **Michelle follow up video on Restriction Enzymes**
 * **Lecture 17**
+* Cerego Memory Set
 
 ### Unit 8: Genomics I - Human Genome
 Lectures 18, 19
