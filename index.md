@@ -566,6 +566,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Finding a gene ny monoclonal fluorescent linked protein expression
 
+### Review
+* Again the steps are always: (1) Decide **Source DNA** which is either genomic DNA or cDNA; (2) Place source DNA into **Vector**; (3) Use vector to **Transform** bacterial, yeast, mammalian or other target cells; (4) **Select** transformed cells using either (4a) complementation or (4b) protein expression
 
 
 ## Lecture 17: Analyzing a Gene
