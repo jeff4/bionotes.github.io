@@ -643,8 +643,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 8: Genomics I - Human Genome
 * **Lecture 18: Human Genome and Positional Cloning**
 * Lecture 19
+
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 Lectures 20, 21
+
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
 
