@@ -519,7 +519,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### September 14-18, 2020
 ### Tricks of the trade
 * Library = set of bacterial colonies on a petri dish
-* This is the process of [molecular cloning](https://en.wikipedia.org/wiki/Molecular_cloning) (Wikipedia has a good introduction to this including [history](https://en.wikipedia.org/wiki/Molecular_cloning#History)).
+* See Wikipedia for a good overview of [molecular cloning](https://en.wikipedia.org/wiki/Molecular_cloning) including the [history](https://en.wikipedia.org/wiki/Molecular_cloning#History) of this technique.
 * **Problem 1**: what if there is an EcoRI site in the middle of the desired gene? Two possible solutions:
 	1. **Partial digestion** aka lower concentration of restriction enzyme in solution
 	2. **Restriction/methylation competition** by titrating how much methylase you add to protect a certain desired % of the source DNA sequence
