@@ -587,9 +587,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### PCR
 * primers need to run in the 5' to 3' direction, where the 3' end faces inward towards the gene. You need 2 primers, one for each opposing strand, and each running in the opposite direction.
-
-### Extra video on gel electrophoresis
-* Lori
+* Extra follow-up video on gel electrophoresis by Lori
 
 ## Lecture 18: Human Genome and Positional Cloning
 ### September 19, 2020
