@@ -597,7 +597,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Function / complementation
 	* Protein expression, using antibodies, stick to appropriate colonies
 * Oxford Animations. Videos 1-3 are finished as of 9/19/2020
-	* **Next:** watch videos [#4-10](/ps334/) on Transcription, Regulation, mRNA Splicing, and Translation
+	* **Next:** watch videos [#4-10](/psu334/) on Transcription, Regulation, mRNA Splicing, and Translation
 
 ## Lecture 19: Secrets of the Human Genome
 
