@@ -574,8 +574,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	3. Use vector to **Transform** bacterial, yeast, mammalian or other target cells
 	4. **Select** transformed cells using either (4a) complementation or (4b) protein expression
 
-## Lecture 17: Analyzing a Gene
-### September 18,2020
+## Lecture 17: Analyzing a Gene with Gel Electrophoresis, Sequencing, and PCR
+### September 18-19, 2020
 ### Gel Electrophoresis
 * DNA is a negatively charged molecule so the electric field applied moves it away from the negative pole and *towards* the positive pole.
 
@@ -585,8 +585,19 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Updated post-Sanger protocol using fluorescent tagging instead of radioactive phosphorus, higher throughput of 96 batches at once, automation involving laser inspection (rather than human inspection and manual recording by pencil of A,T,C,G) etc.
 
 ### PCR
-* 
+* primers need to run in the 5' to 3' direction, where the 3' end faces inward towards the gene. You need 2 primers, one for each opposing strand, and each running in the opposite direction.
 
+### Extra video on gel electrophoresis
+* Lori
+
+## Lecture 18: Human Genome and Positional Cloning
+### September 19, 2020
+
+## Lecture 19: Secrets of the Human Genome
+
+## Lecture 20: Observing the Genome to Probe Function
+
+## Lecture 21: Perturbing the Genome to Probe Function
 ---		
 
 # Checklist
@@ -602,7 +613,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### <del>Unit 4: Human and Biochemical Genetics</del>
 * <del>Lectures 8, 9</del>
-* Watch lecture 8 final video clip of Meisel PhD video on pedigree analysis
+* Watch lecture 8 follow-up video clip of Meisel PhD video on pedigree analysis
 * Finish problem set for Unit 4: Genetics II
 
 ### <del> Unit 5 : Molecular Biology I - DNA Replication</del>
@@ -619,9 +630,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 7: Recombinant DNA
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
 * <del>Lecture 16: Finding a Specific Gene in the Library</del>
-	* Michelle follow up video on Restriction Enzymes
-* **Lecture 17**
-	* Lab video on gel electrophoresis
+	* Watch Michelle's follow up video on Restriction Enzymes
+* <del>Lecture 17:Analyzing a Gene with Gel Electrophoresis, Sequencing, and PCR</del>
+	* Watch Lori's follow up lab video on gel electrophoresis
 * Cerego Memory Set
 
 ### Unit 8: Genomics I - Human Genome
