@@ -519,6 +519,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### September 14-18, 2020
 ### Tricks of the trade
 * Library = set of bacterial colonies on a petri dish
+* This is the process of [molecular cloning](https://en.wikipedia.org/wiki/Molecular_cloning) (Wikipedia has a good introduction to this including [history](https://en.wikipedia.org/wiki/Molecular_cloning#History)).
 * **Problem 1**: what if there is an EcoRI site in the middle of the desired gene? Two possible solutions:
 	1. **Partial digestion** aka lower concentration of restriction enzyme in solution
 	2. **Restriction/methylation competition** by titrating how much methylase you add to protect a certain desired % of the source DNA sequence
@@ -592,6 +593,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 18: Human Genome and Positional Cloning
 ### September 19, 2020
+### Review of recombinant DNA 
+* Making libraries, given any source DNA, make vector, transform target cell, select successfullly transformed cells. Review the Wikipoedia article on [molecular cloning](https://en.wikipedia.org/wiki/Molecular_cloning).
+* Finding specific genes by
+	* Function / complementation
+	* Protein expression, using antibodies, stick to appropriate colonies
 
 ## Lecture 19: Secrets of the Human Genome
 
