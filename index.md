@@ -574,15 +574,19 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	3. Use vector to **Transform** bacterial, yeast, mammalian or other target cells
 	4. **Select** transformed cells using either (4a) complementation or (4b) protein expression
 
-
 ## Lecture 17: Analyzing a Gene
 ### September 18,2020
-
 ### Gel Electrophoresis
 * DNA is a negatively charged molecule so the electric field applied moves it away from the negative pole and *towards* the positive pole.
 
 ### DNA Sequencing
+* Concept of DNA sequencing. ddNTP = double dehydroxy 2,3-NTP to terminate DNA Polymerase activity.
+* Implementation of original Sanger sequencing
+* Updated post-Sanger protocol using fluorescent tagging instead of radioactive phosphorus, higher throughput of 96 batches at once, automation involving laser inspection (rather than human inspection and manual recording by pencil of A,T,C,G) etc.
+
+### PCR
 * 
+
 ---		
 
 # Checklist
@@ -615,8 +619,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 7: Recombinant DNA
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
 * <del>Lecture 16: Finding a Specific Gene in the Library</del>
-* **Michelle follow up video on Restriction Enzymes**
+	* Michelle follow up video on Restriction Enzymes
 * **Lecture 17**
+	* Lab video on gel electrophoresis
 * Cerego Memory Set
 
 ### Unit 8: Genomics I - Human Genome
