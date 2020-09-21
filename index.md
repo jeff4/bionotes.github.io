@@ -600,7 +600,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* **Next:** watch videos [#4-10](/oxford-animations/) on Transcription, Regulation, mRNA Splicing, and Translation
 
 ### Links to [Earth BioGenome Project](https://www.earthbiogenome.org)
-* September 20, 2020
+* **September 20, 2020**
 * [2017 PNAS paper](https://www.pnas.org/content/115/17/4325) by Lewin, Robinson, Kress, Baker, et al. *Earth BioGenome Project: Sequencing life for the future of life*
 * <a href="https://en.wikipedia.org/wiki/Science_(journal)">Science</a> [write-up from 2017](https://www.sciencemag.org/news/2017/02/biologists-propose-sequence-dna-all-life-earth) by Elizabeth Pennisi *Biologists propose to sequence the DNA of all life on Earth*
 
