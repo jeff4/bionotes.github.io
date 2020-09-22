@@ -93,8 +93,13 @@ permalink: /organic-chemistry/
 
 
 
-### Miscellaneous notes: other textbooks
-* List of suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
+### Miscellaneous notes
+* Organic Chemistry courses
+	* [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
+	* Yale Organic Chemistry intro sequence
+		* [Chem 125a](https://oyc.yale.edu/chemistry/chem-125a), [playlist](https://www.youtube.com/playlist?list=PLFD7FB43DA0E679FD) of YouTube videos
+		* [Chem 125b](https://oyc.yale.edu/chemistry/chem-125b). playlist on [YouTube](https://www.youtube.com/playlist?list=PL6E3852144D8348FB)
+* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) taught by Dr. Sarah Tabacco and Prof. Barbara Imperiali used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade.
 	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/).
 	* I think this course appeals to me more, starts with discussion of Resonance, etc.
