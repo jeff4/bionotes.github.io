@@ -91,7 +91,46 @@ permalink: /organic-chemistry/
 	* **Aliphatic** aka non-aromatic hydrocarbons include straight chain alkanes like hexane as well as cyclic (non-resonant) molecules like cyclohexane. Aliphatic hydrocarbons can be saturated or unsaturated.
 
 
-
+## Checklist for Khan Academy
+1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
+2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
+	* Counting electrons
+	* Resonance structures
+	* Organic acid-base chemistry
+		* Acid-base definitions
+		* Organic acid-base mechanisms
+		* K<sub>a</sub> and acid strength
+		* K<sub>a</sub> and pK<sub>a</sub> review
+		* Using pK<sub>a</sub> table
+		* Using pK<sub>a</sub> values to predict the position of equilibrium
+		* Stabilization of a conjugate base: electronegativity
+		* Acid strength, anion size, and bond energy
+		* Stabilization of a conjugate base: resonance
+		* Stabilization of a conjugate base: induction
+		* Stabilization of a conjugate base: hybridization
+		* Stabilization of a conjugate base: solvation
+3. [Alkanes, cycloalkanes, and functional groups](https://www.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes)
+4. [Stereochemistry](https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic)
+	* Chirality 
+	* Enantiomers
+	* Stereoisomeric relationships
+5. [Substitution and elimination reactions](https://www.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions)
+	* Free radical reaction
+	* Nucleophilicity and basicity
+	* Elimination reactions
+	* Introduction: S<sub>N</sub>1; S<sub>N</sub>2; E1; and E2
+	* S<sub>N</sub>1 and S<sub>N</sub>2 reactions
+	* E1 and E2 reactions
+	* Conclusion: S<sub>N</sub>1; S<sub>N</sub>2; E1; and E2
+6. Alkenes and alkynes
+7. Alcohols, ethers, epoxides, sulfides
+8. Conjugated systems and pericyclic reactions
+9. Aromatic compounds
+10. Aldehydes and ketones
+11. Carboxylic acids and derivatives
+12. Alpha carbon chemistry
+13. Amines
+14. Spectroscopy
 
 ### Miscellaneous notes
 * Organic Chemistry courses
