@@ -91,7 +91,7 @@ permalink: /organic-chemistry/
 	* **Aliphatic** aka non-aromatic hydrocarbons include straight chain alkanes like hexane as well as cyclic (non-resonant) molecules like cyclohexane. Aliphatic hydrocarbons can be saturated or unsaturated.
 
 
-## Checklist for Khan Academy
+## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
 2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
 	* Counting electrons
