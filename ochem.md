@@ -90,6 +90,9 @@ permalink: /organic-chemistry/
 	* **Aromatic** hydrocarbons include benzene and other resonant ring-structures. 
 	* **Aliphatic** aka non-aromatic hydrocarbons include straight chain alkanes like hexane as well as cyclic (non-resonant) molecules like cyclohexane. Aliphatic hydrocarbons can be saturated or unsaturated.
 
+### L.G. Wade progress
+* 9/22/2020: completed p. 32 exercises on arrow-pushing, esp. for Lewis Acid-Bases, nucleophiles (electron-pair donor *aka* Lewis base) vs. electrophiles (electron-pair acceptor *aka* Lewis acid). 
+
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
