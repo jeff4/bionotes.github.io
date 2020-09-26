@@ -93,6 +93,7 @@ permalink: /organic-chemistry/
 ### L.G. Wade progress
 * 9/22/2020: completed p. 32 exercises on arrow-pushing, esp. for Lewis Acid-Bases, nucleophiles (electron-pair donor *aka* Lewis base) vs. electrophiles (electron-pair acceptor *aka* Lewis acid). 
 * 9/24/2020: completed building periodic table of most commonly used elements for organic chemistry
+* 10/14/2020: Expected arrival date of Wade Solutions Manual.
 
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
