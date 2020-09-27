@@ -552,7 +552,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Can even create artificial human chromosomes
 
 ### cDNA
-* Source DNA doesn't have to be nucleic / genomic DNA, there is another way we can create source DNA.
+* Source DNA doesn't have to be genomic DNA, there is another way we can create source DNA.
+* Generally created off of an RNA template. If cDNA is built off of a mature, post-processed single-strand mRNA template, the resulting double-stranded cDNA will be "clean", containing only the exons and not have the extraneous introns, start/stop codons, etc.
 * One an make a library of expressed mRNA. You do this by cloning RNA into DNA using [reverse transcriptase](https://en.wikipedia.org/wiki/Reverse_transcriptase). This creates [cDNA](https://en.wikipedia.org/wiki/Complementary_DNA) aka **complementary DNA**.
 * **cDNA** is synthesized from ssRNA into dsDNA. Often used to copy (clone) eukaryotic genes into prokaryotes.
 * But what do we use as a primer to start the DNA pol? We can use a string of poly(T) *aka* 5'-TTT...TTT-3' to match with the poly(A) tails that mature mRNA has to match and create a starting primer region. 
