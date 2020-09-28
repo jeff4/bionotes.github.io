@@ -11,6 +11,7 @@ permalink: /carroll-1997/
  
 
 ## Chapter 1: Current Problems in Evolutionary Theory
+### September 15, 2020
 * "Although Darwin's theory sought to deal with evolution over all time scales, almost all of his evidence was drawn from the modern biota." (p. 2)
 	* Darwin "argued that both the patterns and processes of evolution were identical over vastly different timescales [aka whether across a dozen generations or over hundreds of millions of generations]." 
 	* Darwin's used his [famous diagram](https://commons.wikimedia.org/wiki/File:Origin_of_Species.svg) (reproduced on Carroll p. 3) to convey his hypothesis that "evolution both at the levels of populations and species and over the vast expanse of geological time is characterized by gradual and continuous change." (p. 2)
@@ -93,3 +94,5 @@ permalink: /carroll-1997/
 
 
 ## Chapter 2: Theories of evolution at the level of populations and species
+### September 27, 2020
+* Part of the reason Darwin emphasized gradualism so much was to battle against his contemporaries who believed in saltationist "big immediate jumps" in morphology within a single generation. (p. 19-20) 
