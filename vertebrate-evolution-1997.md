@@ -96,3 +96,7 @@ permalink: /carroll-1997/
 ## Chapter 2: Theories of evolution at the level of populations and species
 ### September 27, 2020
 * Part of the reason Darwin emphasized gradualism so much was to battle against his contemporaries who believed in saltationist "big immediate jumps" in morphology within a single generation. (p. 19-20) 
+* Darwin believed that "small, isolated populations might have the greatest potential for rapid change b/c natural selection would act most effectively on a small [geographic] area with limited environmental variability..." (p. 20)
+* But Darwin also suggested that a large population across a large geographic area might have the greater variation needed to ensure larger change and longer-term survival (on a group level).
+* Perhaps "the optimal model for rapid and long-term evolution would be a large area subject to repeated break up and coalescence of environments and populations."
+	* "The entire species could contribute to the variability available...[while] repeated isolation would contribute to locally more effective natural selection."
