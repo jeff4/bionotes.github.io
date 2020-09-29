@@ -118,3 +118,13 @@ permalink: /carroll-1997/
 * Any evolutionary change within a lineage is called [**anagenesis**](https://en.wikipedia.org/wiki/Anagenesis) which is the same as phyletic evolution. Phyletic evolution is the progressive accumulation of change within a single lineage.
 * In contrast, [**cladogenesis**](https://en.wikipedia.org/wiki/Cladogenesis) refers to a multiplication of lineages, aka **speciation**.
 * According to [Mayr (1963)](https://www.hup.harvard.edu/catalog.php?isbn=9780674865327) and [Simpson (1953)](https://www.amazon.com/Features-Evolution-George-Gaylord-Simpson/dp/B0017YG5XO/), "speciation per se is not necessarily accompanied by significant morphological change."
+
+### Discussion of types of speciation (p. 21-24)
+* "While [the anagenetic process of] phyletic evolution results from natural selection and is directly associated with adaptation within a lineage, the initial stage of speciation [aka cladogenesis] is typically imposed on the species by external forces that not reflect specific aspects of the adaptation of the parental species." (p. 21)
+* Sympatric versus allopatric populations
+* [Character displacement](https://en.wikipedia.org/wiki/Character_displacement)
+* Three types of speciation:
+	* [**Sympatric speciation**](https://en.wikipedia.org/wiki/Sympatric_speciation) 
+	* [**Allopatric speciation**](https://en.wikipedia.org/wiki/Allopatric_speciation) aka geographic speciation, vicariant speciation, or (*deprecated name*) dumbbell model.
+	* [**Peripatric speciation**](https://en.wikipedia.org/wiki/Peripatric_speciation)
+* See also [ring species](https://en.wikipedia.org/wiki/Ring_species) (Carroll, p. 53)
