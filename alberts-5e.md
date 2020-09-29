@@ -11,7 +11,7 @@ permalink: /alberts-5e/
 ## Chapter 1: Cells and Genomes
 * p. 20 - defintion of **homologs**: All related genes that result from duplication 
 	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
-	* Duplicate genes within a single genome are **paralogs**
+	* Duplicate genes within a single species are called **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
 * **Dehydration Synthesis** (aka Condensation Synthesis) vs. **Hydrolysis**. See Alberts 5e Fig. 2-64 and 2-65 on p. 85, Alberts 5e Fig. 2-19 on p. 57, and JH handwritten notes (8/22/2020)
 
