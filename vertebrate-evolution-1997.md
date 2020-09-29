@@ -112,7 +112,7 @@ permalink: /carroll-1997/
 * In contrast, biologists studying modern populations find it relatively easy to differentiate between different populations. 
 	* It turns out that, per studies like the ones cited by [Diamond](https://en.wikipedia.org/wiki/Jared_Diamond) in [*Horrible Plant Species* (Nature, 1992)](https://www.readcube.com/articles/10.1038/360627a0), the breadth of species identified are readily distinguished by Mayr's biological species concept at least for the [Metazoa](https://en.wikipedia.org/wiki/Animal) and [Plantae](https://en.wikipedia.org/wiki/Plant) kingdoms.  For these two taxons, we rarely find "hybrids or intermediates" which cannot be cleanly categorized into distinct species. (p. 21)
 * Official **biological species concept** from [Mayr, 1963](https://www.hup.harvard.edu/catalog.php?isbn=9780674865327): *Species are  groups of actually or potentially interbreeding natural populations that are reproductively isolated from other such groups." (p. 21) 
-* See also [Dobzhansky's](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky) [ *Genetics and the Origin of Species (1937)*](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species).
+	* See also [Dobzhansky's](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky) [ *Genetics and the Origin of Species (1937)*](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species).
 
 ### Phyletic evolution vs. speciation (p. 21)
 * Any evolutionary change within a lineage is called [**anagenesis**](https://en.wikipedia.org/wiki/Anagenesis) which is the same as phyletic evolution. Phyletic evolution is the progressive accumulation of change within a single lineage.
