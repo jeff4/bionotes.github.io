@@ -95,6 +95,7 @@ permalink: /carroll-1997/
 
 ## Chapter 2: Theories of evolution at the level of populations and species
 ### September 27-29, 2020
+### Introduction
 * Perhaps Darwin emphasized gradualism partly as a counter-weight against his contemporaries who believed in saltationist "big jumps" in phenotype within a single generation. And in a different intellectual milieu, Darwin might have spoken less of gradualism. (p. 19-20) 
 * Darwin believed that "small, isolated populations might have the greatest potential for rapid change b/c natural selection would act most effectively on a small [geographic] area with limited environmental variability..." (p. 20)
 * But Darwin also suggested that a large population across a large geographic area might have the greater variation needed to ensure larger change and longer-term survival (on a group level).
@@ -106,7 +107,7 @@ permalink: /carroll-1997/
 	* However, "Darwin was not dogmatic on this point."
 * Darwin implied in [his chart](https://commons.wikimedia.org/wiki/File:Origin_of_Species.svg) that there are many unvarying species (aka those that, post-speciation, do not exhibit **phyletic evolution**). Furthermore, he suggests that "such unvarying species, despite their numerical predominance [in his chart], were extremely vulnerable to extinction."
 
-### Difficulties with the species concept
+### What are species? Biological vs. morphological species (p. 21)
 * In 1982's [The Growth of Biological Thought](https://www.hup.harvard.edu/catalog.php?isbn=9780674364462), [Ernst Mayr](https://en.wikipedia.org/wiki/Ernst_Mayr) describes how there "was a lot of controversy about the objective nature of species" in the period after acceptance of Darwinian natural selection. (p. 21)
 * Today, paleontologists still face a major challenge with objectively differentiating species in "evolving lineages".
 * In contrast, biologists studying modern populations find it relatively easy to differentiate between different populations. 
@@ -128,3 +129,19 @@ permalink: /carroll-1997/
 	* [**Allopatric speciation**](https://en.wikipedia.org/wiki/Allopatric_speciation) aka geographic speciation, vicariant speciation, or (*deprecated name*) dumbbell model.
 	* [**Peripatric speciation**](https://en.wikipedia.org/wiki/Peripatric_speciation)
 * See also [ring species](https://en.wikipedia.org/wiki/Ring_species) (Carroll, p. 53)
+
+### Inadequacies of the fossil record (p. 24-25)
+* On the one hand, the [1861 discovery of *Archaeopteryx*](https://en.wikipedia.org/wiki/Archaeopteryx) was hugely important in establishing a potential link between birds and reptiles. However, it was separated by 10s of millions of years from either lineage. *Archeaopteryx* "...contributed no information as to the patterns and processes of evolution at the species level [because] it was isolated by tens of millions of years and enormous gaps in morphology from its nearest possible relatives." (p. 25)
+* As another example, "the horse genera known at the time of Darwin were separated from one another by tens of millions of years."
+* Darwin pleaded the fragmentary nature of the fossil record and admitted that "he who rejects these views on the nature of the geological record, will rightly reject my whole theory." (*Origin of Species*, p. 342)
+* "Despite more than a hundred years of intensive collecting efforts...the fossil record still does not yield the picture of infinitely numerous transitional links that [Darwin] expected." Instead, paleontologists have found a quite different pattern.
+
+### History of [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy)
+* "Although fossil vertebrates and the remains of leaves and woody structures of plants have been studied primarily in reference to their biological nature, most paleontologists who study the remains of microorganisms, nonvertebrate metazoans, and plant spores and pollen are mainly concerned with the use of fossils for characterizing particular geological horizons." (p. 25-26)
+* "Extensive use of fossils as stratigraphic indicators in the nearly 150 years since the publication of *The Origin of Species* shows that a great many fossil species either have long timespans (hundreds of feet of strata *aka* tens of millions of years) or are restricted to a single horizon."
+* "Few well-studied examples from the record of fossil invertebrates show a pattern of evolution such as that predicted by Darwin."
+	* Darwin suggested that lineages that are constant aka do *not* undergo phyletic change (anagenetic change) would tend be short-lived b/c they indicate lack of adaptability, esp. when competing with more adaptable species.
+	* In contrast, we see various lineages that seem unchanged for millions of years in the fossil record.
+
+### Eldredge and Gould and [Punctuated Equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium)
+*
