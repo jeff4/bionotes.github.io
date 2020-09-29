@@ -27,6 +27,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 | Plants&#8224;   | 270,000                               | 400-500k                                 |
 | Fungi    | 100,000                               | 1-2M                                     |
 | Animals  | 1,300,000                             | 10M - 100M                               |
+<br>
 &#8224; The [2018 Earth Biogenome Project paper](https://www.pnas.org/content/115/17/4325) cites *391,000 plant species* as of 2016 (Lewin et al., p. 4326) from [this report](https://stateoftheworldsplants.org/2016/).
 ---
 # Notes on MIT 7.00x at edX
