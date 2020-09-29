@@ -3,7 +3,7 @@ title: Tree of Life
 permalink: /tree-of-life/
 ---
 
-### Next papers to read
+## Next papers to read
 * Woese 1998, The Universal Ancestor
 * ENCODE 2011, Introductory User's Guide to the Encyclopedia of DNA Elements
 * 2018 EBP paper
