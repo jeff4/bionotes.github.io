@@ -136,12 +136,12 @@ permalink: /carroll-1997/
 * Darwin pleaded the fragmentary nature of the fossil record and admitted that "he who rejects these views on the nature of the geological record, will rightly reject my whole theory." (*Origin of Species*, p. 342)
 * "Despite more than a hundred years of intensive collecting efforts...the fossil record still does not yield the picture of infinitely numerous transitional links that [Darwin] expected." Instead, paleontologists have found a quite different pattern.
 
-### History of [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy)
+### History of [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) (p. 25-27)
 * "Although fossil vertebrates and the remains of leaves and woody structures of plants have been studied primarily in reference to their biological nature, most paleontologists who study the remains of microorganisms, nonvertebrate metazoans, and plant spores and pollen are mainly concerned with the use of fossils for characterizing particular geological horizons." (p. 25-26)
 * "Extensive use of fossils as stratigraphic indicators in the nearly 150 years since the publication of *The Origin of Species* shows that a great many fossil species either have long timespans (hundreds of feet of strata *aka* tens of millions of years) or are restricted to a single horizon."
 * "Few well-studied examples from the record of fossil invertebrates show a pattern of evolution such as that predicted by Darwin."
 	* Darwin suggested that lineages that are constant aka do *not* undergo phyletic change (anagenetic change) would tend be short-lived b/c they indicate lack of adaptability, esp. when competing with more adaptable species.
 	* In contrast, we see various lineages that seem unchanged for millions of years in the fossil record.
 
-### Eldredge and Gould and [Punctuated Equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium)
+### Eldredge and Gould and [Punctuated Equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium) (p. 27-33)
 *
