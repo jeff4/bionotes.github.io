@@ -94,7 +94,7 @@ permalink: /carroll-1997/
 
 
 ## Chapter 2: Theories of evolution at the level of populations and species
-### September 27, 2020
+### September 27-29, 2020
 * Perhaps Darwin emphasized gradualism partly as a counter-weight against his contemporaries who believed in saltationist "big jumps" in phenotype within a single generation. And in a different intellectual milieu, Darwin might have spoken less of gradualism. (p. 19-20) 
 * Darwin believed that "small, isolated populations might have the greatest potential for rapid change b/c natural selection would act most effectively on a small [geographic] area with limited environmental variability..." (p. 20)
 * But Darwin also suggested that a large population across a large geographic area might have the greater variation needed to ensure larger change and longer-term survival (on a group level).
@@ -103,3 +103,11 @@ permalink: /carroll-1997/
 	* Darwin "specifically noted that partially isolated populations might evolve more rapidly because of limited interbreeding with other populations that were subject to different selective pressures."
 * Darwin then made a suggestion that is similar to that made by "species selection" hypothesis advanced by paleobiologist [Steven M. Stanley](https://en.wikipedia.org/wiki/Steven_M._Stanley) at Johns Hopkins and University of Hawaii. See Stanley's  [1975 paper](https://www.pnas.org/content/pnas/72/2/646.full.pdf) and his [1979 book Macroevolution: Patterns and Processes](https://www.amazon.com/Macroevolution-Pattern-Process-Steven-Stanley-dp-0716710927/dp/0716710927/).
 	* In other words, Darwin "argued that many populations might last for brief periods of time but that only the most divergent would be most likely to survive, since natural selection would tend to eliminate intermediate forms." (p. 20) 
+	* However, "Darwin was not dogmatic on this point."
+* Darwin implied in [his chart](https://commons.wikimedia.org/wiki/File:Origin_of_Species.svg) that there are many unvarying species (aka those that, post-speciation, do not exhibit **phyletic evolution**). Furthermore, he suggests that "such unvarying species, despite their numerical predominance [in his chart], were extremely vulnerable to extinction."
+
+### Difficulties with the species concept
+* In 1982's [The Growth of Biological Thought](https://www.hup.harvard.edu/catalog.php?isbn=9780674364462), Ernst Mayr describes how there "was a lot of controversy about the objective nature of species" in the period after acceptance of Darwinian natural selection.
+* Today, paleontologists still face a major challenge with objectively differentiating species in "evolving lineages".
+* In contrast, biologists studying modern populations find it relatively easy to differentiate between different populations. 
+	* Per Diamond 1992, only rarely are "hybrids or intermediates recognized" as falling in between clear species categories among Animalia and Plante.
