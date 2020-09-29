@@ -1,5 +1,5 @@
 ---
-title: General Chemistry
+title: Chemistry Review
 permalink: /general-chemistry/
 ---
 
@@ -163,8 +163,8 @@ See illustration on p. 251; all the species in the same row have the same color 
 ## Chapters 14-15: Acids, Bases, Buffers
 
 
-# Chemistry notes from Sadava
-* *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014. Abbreviated as **Sadava**.
+# Chemistry notes from [Sadava](/sadava)
+* *Life, The Science of Biology*, [Tenth Edition](amazon.com/Life-Science-Biology-Sadava-Hardcover-dp-B00MEYGNSS/dp/B00MEYGNSS) published 2014. Abbreviated as **Sadava**. See general notes on Sadava [here](/sadava).
 * Authors: [David Sadava](https://www.cmc.edu/news/professor-and-biologist-david-sadava-to-retire), [David M. Hillis](https://sites.cns.utexas.edu/hillislab/lab-members), [H. Craig Heller](https://profiles.stanford.edu/h-craig-heller), and [May R. Berenbaum](https://en.wikipedia.org/wiki/May_Berenbaum)
 * For main notes on Sadava, see [this page](/sadava/)
 
