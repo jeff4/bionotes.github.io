@@ -24,7 +24,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 | Bacteria | 10,000                                | Millions                                 |
 | Archea   | 300                                   | 1k - 1M                                  |
 | Protists | 80,000                                | 500k - 1M                                |
-| Plants&#8224;   | 270,000                               | 400-500k                                 |
+| Plants   | 270,000&#8224;                               | 400-500k                                 |
 | Fungi    | 100,000                               | 1-2M                                     |
 | Animals  | 1,300,000                             | 10M - 100M                               |
 
