@@ -138,10 +138,15 @@ permalink: /carroll-1997/
 
 ### History of [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) (p. 25-27)
 * "Although fossil vertebrates and the remains of leaves and woody structures of plants have been studied primarily in reference to their biological nature, most paleontologists who study the remains of microorganisms, nonvertebrate metazoans, and plant spores and pollen are mainly concerned with the use of fossils for characterizing particular geological horizons." (p. 25-26)
-* "Extensive use of fossils as stratigraphic indicators in the nearly 150 years since the publication of *The Origin of Species* shows that a great many fossil species either have long timespans (hundreds of feet of strata *aka* tens of millions of years) or are restricted to a single horizon."
+* "Extensive use of fossils as stratigraphic indicators in the nearly 150 years since the publication of *The Origin of Species* shows that a great many fossil species either have long timespans (hundreds of feet of strata *aka* tens of millions of years) or are restricted to a single horizon."
 * "Few well-studied examples from the record of fossil invertebrates show a pattern of evolution such as that predicted by Darwin."
 	* Darwin suggested that lineages that are constant aka do *not* undergo phyletic change (anagenetic change) would tend be short-lived b/c they indicate lack of adaptability, esp. when competing with more adaptable species.
 	* In contrast, we see various lineages that seem unchanged for millions of years in the fossil record.
 
 ### Eldredge and Gould and [Punctuated Equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium) (p. 27-33)
-* Eldgridge and Gould coined the term **phyletic gradualism** to contrast with **punctuated equilibrium**. (p. 31)
+* Eldgridge and Gould coined the term **phyletic gradualism** to contrast with **punctuated equilibrium**. (p. 31) *Important note:* the new coinage phyletic gradualism should *not* be confused with the traditional term phyletic evolution (which is contrasted with speciation).
+* Eldredge and Gould set up a strawman version of [Neo-Darwinism](https://en.wikipedia.org/wiki/Neo-Darwinism) aka The Modern Synthesis. Of the 4 tenets they list on Carroll p. 32, only the *first* would be agreed upon by Darwin, G.G. Simpson, and other Neo-Darwinists: "New species arise by the transformation of an ancestral population into its modified descendants." (p. 32)
+* Tenets 2-4 listed by E&G are *not* what Simpson et al. would agree to:
+	* Tenet 2: "The transformation is even and slow." Strawman of uniformity across time!
+	* Tenet 3: "The transformation involves large numbers, usually the entire ancestral population." Strawman of uniformity across population. 
+	* Tenet 4: "The transformation over all or a large part of the ancestral species' geographical range." Strawman of uniformity across physical space.
