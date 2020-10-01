@@ -144,4 +144,4 @@ permalink: /carroll-1997/
 	* In contrast, we see various lineages that seem unchanged for millions of years in the fossil record.
 
 ### Eldredge and Gould and [Punctuated Equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium) (p. 27-33)
-*
+* Eldgridge and Gould coined the term **phyletic gradualism** to contrast with **punctuated equilibrium**. (p. 31)
