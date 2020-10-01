@@ -152,8 +152,7 @@ permalink: /carroll-1997/
 	* Tenet 4: "The transformation over all or a large part of the ancestral species' geographical range." Strawman of uniformity across physical space.
 
 ### Quotes from <a href="https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-0120/Supplemental/Gould%20&%20Eldredge%2077%20Paleobio.pdf">Gould and Eldredge 1977</a>
-**Punctuated equilibria: the tempo and mode of evolution reconsidered**
-*Abstract.*
+From the abstract for *Punctuated Equilibria: The Tempo and Mode of Evolution Reconsidered*
 
 > We believe that punctuational change dominates the history of life: evolution is concentrated in very rapid events of speciation (geologically instantaneous, even if tolerably continuous in ecological time). Most species, during their geological history, either do not change in any appreciable way, or else they fluctuate mildly in morphology, with no apparent direction. Phyletic gradualism is very rare and too slow, in any case, to produce the major events of evolution. Evolutionary trends are not the product of slow, directional transforma- tion within lineages; they represent the differential success of certain species within a clade- speciation may be random with respect to the direction of a trend (Wright's rule).
 >
