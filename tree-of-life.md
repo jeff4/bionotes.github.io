@@ -3,6 +3,10 @@ title: Tree of Life
 permalink: /tree-of-life/
 ---
 
+## Why do we use 16S rRNA to classify bacteria and archaea?
+* [Researchgate comments](https://www.researchgate.net/post/Why_do_we_choose_16S_rRNA_instead_of_others_to_identify_microorganisms)
+* [Blog post](https://www.cd-genomics.com/blog/16s-rrna-one-of-the-most-important-rrnas/)
+
 ## Next papers to read
 * Woese 1998, [The Universal Ancestor](https://www.pnas.org/content/95/12/6854)
 * ENCODE 2011, [Introductory User's Guide to the Encyclopedia of DNA Elements](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
@@ -21,3 +25,7 @@ permalink: /tree-of-life/
 ## ENCyclopedia Of DNA Elements (ENCODE)
 * [Main website](https://www.encodeproject.org)
 * User's Guide paper from [2011](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
+
+## Completed papers
+* Horrible plant species, Diamond
+* Against 3 domains, Mayr 1998
