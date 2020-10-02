@@ -26,6 +26,6 @@ permalink: /tree-of-life/
 * [Main website](https://www.encodeproject.org)
 * User's Guide paper from [2011](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
 
-## Completed papers
-* Horrible plant species, Diamond
-* Against 3 domains, Mayr 1998
+## <del>Completed papers</del>
+* <del>Horrible plant species, Diamond</del>
+* <del>Against 3 domains, Mayr 1998</del>
