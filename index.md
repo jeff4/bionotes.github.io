@@ -604,6 +604,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### October 5, 2020
 * David Botstein's 1978 experiments for human crosses. Applying fruit fly genetics techniques to understand human mendelian genetic diseases like Huntington's.
+* However, there were a number of challenges because humans &#8800; fruit flies
+	* fruit flies generation times are a lot shorter and many more offspring per mating pair
+	* unethical to artificially match human mates the way you can with fruit flies in a lab
+	* humans do not display obvious, single-gene traits like eye color which, in addition to wild-type (**wt** *aka* **+**) can exhibit alleles for sepia (**se**), cinnabar(**cn**), and white(**w**) colored eyes.
 
 
 
