@@ -34,3 +34,4 @@ permalink: /tree-of-life/
 ## <del>Completed papers</del>
 * <del>Horrible plant species, Diamond</del>
 * <del>Against 3 domains, Mayr 1998</del>
+* <del>Gould and Eldredge 1977 Punctuated Equilibrium</del>
