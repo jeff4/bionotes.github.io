@@ -17,10 +17,18 @@ permalink: /tree-of-life/
 ## Earth Biogenome Project (EBP)
 * Plan to sequence representative samples of [all eukaryotes](https://www.earthbiogenome.org)
 
+### Links to [Earth BioGenome Project](https://www.earthbiogenome.org)
+* **September 20, 2020**
+* [2017 PNAS paper](https://www.pnas.org/content/115/17/4325) by Lewin, Robinson, Kress, Baker, et al. *Earth BioGenome Project: Sequencing life for the future of life*
+* <a href="https://en.wikipedia.org/wiki/Science_(journal)">Science</a> [write-up from 2017](https://www.sciencemag.org/news/2017/02/biologists-propose-sequence-dna-all-life-earth) by Elizabeth Pennisi *Biologists propose to sequence the DNA of all life on Earth*
+
+
+
 ## Earth Microbiome Project (EMP)
 * Plan to sequence representative samples of [all Bacteria and Archaea](https://press.igsb.anl.gov/earthmicrobiome/)
 * Slow acceptance of Carl Woese's 1977 new classification system with three domains: Bacteria, Archaea, and <a href="https://en.wikipedia.org/wiki/Kingdom_(biology)#Eukaryotic_supergroups">Eukarya</a>.
 	* As late as 1998, [Ernst Mayr was still advocating](https://www.pnas.org/content/95/17/9720) the re-unification of the Bacteria and Archaea domains back into a single taxon called Prokaryota.
+* 
 
 ## ENCyclopedia Of DNA Elements (ENCODE)
 * [Main website](https://www.encodeproject.org)
