@@ -602,13 +602,19 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Oxford Animations. Videos 1-3 are finished as of 9/19/2020
 	* **Next:** watch videos [#4-10](/oxford-animations/) on Transcription, Regulation, mRNA Splicing, and Translation
 
-### October 5, 2020
+### October 5, 2020 - Genetic Mapping in Humans
 * David Botstein's 1978 experiments for human crosses. Applying fruit fly genetics techniques to understand human mendelian genetic diseases like Huntington's.
 * However, there were a number of challenges because humans &#8800; fruit flies
 	* fruit flies generation times are a lot shorter and many more offspring per mating pair
 	* unethical to artificially match human mates the way you can with fruit flies in a lab
 	* humans do not display obvious, single-gene traits like eye color which, in addition to wild-type (**wt** *aka* **+**) can exhibit alleles for sepia (**se**), cinnabar(**cn**), and white(**w**) colored eyes.
-
+* Instead, you search for "silent" small polymorphisms. It is a co-dominant trait. Simple, small single nucleotide substitution.
+* If you try a genetic marker on any chromosome *other* than the chromosome that hosts the Huntington's Disease (HD) gene, then there will be independent assortment per Mendel.
+* *However*, if these sites of polymorphisms are on the *same* chromosome as HD, then it will be linked.
+* How did people search for human polymorphisms in the 1980's? It was a very slow, painstaking process.
+	* **Technique #1:** Use restriction endonuclease [EcoRI](https://www.neb.com/products/r0101-ecori#Product%20Information) to scan for its desired 5'-GAATTC-3' or the complementary palindrome 3'-CTTAAG-5'. Along a human's 3 billion bp's, the many instances of 5'-GAATTC-3' will have [Single-Nucleotide Polymorphisms (**SNP**)](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism) where EcoRI will not cut. But different individual humans will *different* 5'-GAATTC-3'sites where an SNP keeps EcoRI from cutting. As such, when digesting the same chromosome across multiple human subjects with EcoRI, you will get different fragments. You can use this to identify the SNP's that distinguish different individuals.
+	* **Technique #2:** There are long strings of repeated CACACA in the human genome, termed [(TA/CA)<sub>n</sub>](https://www.tandfonline.com/doi/abs/10.1080/07391102.2003.10506926). However, DNA Poly does not always copy the same number of CACA's. e.g., Alice may have 15-CA repeats at a locus while Bob has 17-CA repeats at the same locus. By using the right primers and PCR, one can amplify this specific sequence and distinguish different individuals.
+* [Nancy Wexler](https://en.wikipedia.org/wiki/Nancy_Wexler#Huntington's_disease_location) and [Jim Gusella](https://hsci.harvard.edu/people/james-gusella-phd) at MGH search along hundreds of  polymorphisms to search for ones near the gene for Huntington's disease. They [published these results in 1983](https://www.nature.com/articles/306234a0).
 
 
 ## Lecture 19: Secrets of the Human Genome
