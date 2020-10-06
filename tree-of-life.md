@@ -16,11 +16,8 @@ permalink: /tree-of-life/
 
 ## Earth Biogenome Project (EBP)
 * Plan to sequence representative samples of [all eukaryotes](https://www.earthbiogenome.org)
-
-### Links to [Earth BioGenome Project](https://www.earthbiogenome.org)
-* **September 20, 2020**
-* [2017 PNAS paper](https://www.pnas.org/content/115/17/4325) by Lewin, Robinson, Kress, Baker, et al. *Earth BioGenome Project: Sequencing life for the future of life*
-* <a href="https://en.wikipedia.org/wiki/Science_(journal)">Science</a> [write-up from 2017](https://www.sciencemag.org/news/2017/02/biologists-propose-sequence-dna-all-life-earth) by Elizabeth Pennisi *Biologists propose to sequence the DNA of all life on Earth*
+* links from September 20, 2020
+	* <a href="https://en.wikipedia.org/wiki/Science_(journal)">Science</a> [write-up from 2017](https://www.sciencemag.org/news/2017/02/biologists-propose-sequence-dna-all-life-earth) by Elizabeth Pennisi *Biologists propose to sequence the DNA of all life on Earth*
 
 
 
