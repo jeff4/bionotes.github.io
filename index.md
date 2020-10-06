@@ -602,10 +602,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Oxford Animations. Videos 1-3 are finished as of 9/19/2020
 	* **Next:** watch videos [#4-10](/oxford-animations/) on Transcription, Regulation, mRNA Splicing, and Translation
 
-### Links to [Earth BioGenome Project](https://www.earthbiogenome.org)
-* **September 20, 2020**
-* [2017 PNAS paper](https://www.pnas.org/content/115/17/4325) by Lewin, Robinson, Kress, Baker, et al. *Earth BioGenome Project: Sequencing life for the future of life*
-* <a href="https://en.wikipedia.org/wiki/Science_(journal)">Science</a> [write-up from 2017](https://www.sciencemag.org/news/2017/02/biologists-propose-sequence-dna-all-life-earth) by Elizabeth Pennisi *Biologists propose to sequence the DNA of all life on Earth*
+### October 5, 2020
+* David Botstein's 1978 experiments for human crosses. Applying fruit fly genetics techniques to understand human mendelian genetic diseases like Huntington's.
+
 
 
 ## Lecture 19: Secrets of the Human Genome
