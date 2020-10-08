@@ -94,7 +94,14 @@ permalink: /organic-chemistry/
 * 9/22/2020: completed p. 32 exercises on arrow-pushing, esp. for Lewis Acid-Bases, nucleophiles (electron-pair donor *aka* Lewis base) vs. electrophiles (electron-pair acceptor *aka* Lewis acid). 
 * 9/24/2020: completed building periodic table of most commonly used elements for organic chemistry
 * 9/30/2020: Wade Solutions Manual arrived, solved multiple 2 reactant acid-base synthesis arrow-pushing problems.
+* October 3-7, 2020: completed all of Problems 1-45 and 1-46 in deciding which reactants are the Nucleophile (blue Lewis Base which donates electrons), which is the Electrophile (green Lewis Acid which accepts electron pair).
+* See terminology on Wade, p. 30 for conventional terminology:
+		* When referring generically to **acids** and *bases*, chemists usually mean the in the Brønsted-Lowry sense: whether **donate** or* accept* protons, respectively.
+		* However, when an acid-base reaction involves formation of a **new bond** to some other element (esp. carbon), chemists typically say nucleophile (for Lewis Base donating an electron pair) or electrophile (for Lewis Acid accepting an electron pair).
+* October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
 
+#### Bond-Dipole moments (p. 59)
+* 10/08/2020: Section 2-9A
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
