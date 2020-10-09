@@ -624,8 +624,13 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Chromosomal walking using multiple probes on other side of the HD or CF gene.
 * But HD, gusella had to take 10 years to sequence that specific HD gene! after being lucky with the 12th try to find the associated gene marker
 
-### human genome project
-
+### Human Genome Project
+* Rough draft, about 90% complete, published February 2001.
+* Final draft, about 99.3% complete, published April 25, 2003, almost exactly 50 years after the Watson-Crick paper on DNA structure (April, 1953).
+* After 1st human genome sequence was completed, scientists could use it as the reference to compare all future human individuals sequenced. And from there, we collect single nucleotide deltas as a new SNP. 
+* As of 2013, have collected 20 million distinct SNPs.
+* The gene chip is a glass slide with a little spot for each 25-bp long sequence of DNA. Via photolithography, we can have up to 2 million spots per glass slide, searching for millions of SNPs at once from a single blood sample from one human individual.
+* As a result of technology like the [gene chip](https://en.wikipedia.org/wiki/DNA_microarray), have identified 3,500 Mendelian diseases in humans as of 2013.
 
 ## Lecture 19: Secrets of the Human Genome
 
