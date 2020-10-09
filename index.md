@@ -594,7 +594,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Extra follow-up video on gel electrophoresis by Lori
 
 ## Lecture 18: Human Genome and Positional Cloning
-### September 19, 2020
+### September 19 - October 8, 2020
 ### Review of recombinant DNA 
 * Making libraries, given any source DNA, make vector, transform target cell, select successfullly transformed cells. Review the Wikipoedia article on [molecular cloning](https://en.wikipedia.org/wiki/Molecular_cloning).
 * Finding specific genes by
@@ -633,10 +633,22 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * As a result of technology like the [gene chip](https://en.wikipedia.org/wiki/DNA_microarray), have identified 3,500 Mendelian diseases in humans as of 2013.
 
 ### Improvement in DNA Sequencing
-* Rather than using Sanger dideoxy DNA sequencing, new method provides *only* dideoxy NMP nuecleotide, and take a fluorescent picture for each nucleotide added.
-* 3 billion different spots can all sit on a single glass slide. Each spot has a probe aka primer with a specific sequence that will grab DNA that washes onto it, and PCR amplifies. This process can read about 100 bp before falling off per DNA strand. This means 3 billion spots * 100 bp per spot = 300 billion bp all measured on a single slide. And since you can do this operation in both strand directions, you can actually do 600 billion bp on a single slide!
+* [Illumina sequencing](https://www.ebi.ac.uk/training/online/course/ebi-next-generation-sequencing-practical-course/what-next-generation-dna-sequencing/illumina-), which is one of several Next Generation Sequencing (NGS) aka <a href="https://en.wikipedia.org/wiki/DNA_sequencing#High-throughput_sequencing_(HTS)_methods">high-throughput sequencing</a> . These are all advances over earlier Sanger dideoxy DNA sequencing.
+* Illumina sequencing provides *only* dideoxy NMP nuecleotide, and take a fluorescent picture for each nucleotide added.
+* 3 billion different spots can all sit on a single glass slide. Each spot has a probe aka primer with a specific sequence that will grab DNA that washes onto it
+* Each little spot has a mini-PCR reaction module which amplifies the DNA that attaches
+* This process can read about 100 bp before falling off per DNA strand. This means 3 billion spots * 100 bp per spot = 300 billion bp all measured on a single slide. And since you can do this operation in both strand directions, you can actually do 600 billion bp on a single slide!
+* Illumina has a [comparison page for NGS vs. Sanger Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/ngs-vs-sanger-sequencing.html). See also the [overall Wiki page](https://en.wikipedia.org/wiki/DNA_sequencing) describing the history and breadth of DNA sequencing techniques.
 
 ## Lecture 19: Secrets of the Human Genome
+* October 9, 2020
+* What are the elements of the genome? Genomics tries to look at the big picture, as an integrated whole–as distinct from its forebears biochemistry and genetics.
+* Draft genome announced June 2000, published February 15, 2001.
+* 99.3% complete draft announced April 2003, officially published October 2004.
+
+### General observations
+* Highly uneven distribution of genes. Some regions are very dense with genes, other regions are sparse with genes. On average, about 7 genes every million bases.
+	* Some regions have 40 genes per Mb. Other regions have 0 genes across a Mb–called  a "gene dessert".
 
 ## Lecture 20: Observing the Genome to Probe Function
 
@@ -678,8 +690,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Finish Cerego Memory Set
 
 ### Unit 8: Genomics I - Human Genome
-* **Lecture 18: Human Genome and Positional Cloning**
-* Lecture 19
+* <del>Lecture 18: Human Genome and Positional Cloning</del>
+* Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumin Sequencing by Niall Lennon.
+* **Lecture 19: Secrets of the Human Genome**
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 Lectures 20, 21
