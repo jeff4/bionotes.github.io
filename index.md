@@ -632,6 +632,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * The gene chip is a glass slide with a little spot for each 25-bp long sequence of DNA. Via photolithography, we can have up to 2 million spots per glass slide, searching for millions of SNPs at once from a single blood sample from one human individual.
 * As a result of technology like the [gene chip](https://en.wikipedia.org/wiki/DNA_microarray), have identified 3,500 Mendelian diseases in humans as of 2013.
 
+### Improvement in DNA Sequencing
+* Rather than using Sanger dideoxy DNA sequencing, new method provides *only* dideoxy NMP nuecleotide, and take a fluorescent picture for each nucleotide added.
+* 3 billion different spots can all sit on a single glass slide. Each spot has a probe aka primer with a specific sequence that will grab DNA that washes onto it, and PCR amplifies. This process can read about 100 bp before falling off per DNA strand. This means 3 billion spots * 100 bp per spot = 300 billion bp all measured on a single slide. And since you can do this operation in both strand directions, you can actually do 600 billion bp on a single slide!
+
 ## Lecture 19: Secrets of the Human Genome
 
 ## Lecture 20: Observing the Genome to Probe Function
