@@ -40,6 +40,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
 	* Most interestingly, Lander referred to a seminar he'd attended at the [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute) earlier that very morning. At that meeting, they discussed a paper that had been published four weeks earlier; probably the seminal [2012 CRISPR/Cas9 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286148/pdf/nihms-995853.pdf) by Jinek, Chylinski, Fonfara, Hauer, [Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna), and [Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier).
 	* Of course, [Feng Zhang's lab](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline) published this [2013 Science paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/pdf/nihms444192.pdf) applying CRISPR-Cas9 to human and mouse cells.
+	* In lecture 18 on the Human Genome Project, 13:00 into the clip "The Human Genome Project: Genome assembly and analysis", Lander says that the **10th anniversary of the final draft of the HGP** was coming up soon. Which means that lecture 18 was recorded sometime just before **April 25, 2013**.
 * Timeline
 	* **4.5 billion** years ago: Earth formed
 	* **4.0 B** ya: Earth cooled enough for life
@@ -621,6 +622,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Physical mapping 
 * In contrast to the genetic mapping discussed in the section above, physcial mapping involves examining various plasmids you've plated out on a petrie plate.
 * Chromosomal walking using multiple probes on other side of the HD or CF gene.
+* But HD, gusella had to take 10 years to sequence that specific HD gene! after being lucky with the 12th try to find the associated gene marker
+
+### human genome project
+
 
 ## Lecture 19: Secrets of the Human Genome
 
