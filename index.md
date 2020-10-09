@@ -650,6 +650,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Highly uneven distribution of genes. Some regions are very dense with genes, other regions are sparse with genes. On average, about 7 genes every million bases.
 	* Some regions have 40 genes per Mb. Other regions have 0 genes across a Mb–called  a "gene dessert".
 
+### LINE elements
+* [Long Interspersed Nuclear Elements (LINE)](https://en.wikipedia.org/wiki/Long_interspersed_nuclear_element) about 7,000 bp long. 
+* All they do is transcribe an mRNA which is translated into a reverse transcriptase. All the rTranscriptase does is create another LINE element that is placed back into the human genome.
+* There are about 100,000 LINE elements in the HG. And they have been a part of eukaryotic genomes for about 1 billion years.
+
 ## Lecture 20: Observing the Genome to Probe Function
 
 ## Lecture 21: Perturbing the Genome to Probe Function
