@@ -698,6 +698,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Called [non-coding RNAs *aka* ncRNA](https://en.wikipedia.org/wiki/Non-coding_RNA)
 * From 2009-2013, have discoverd at least 7,000 genes that code for non-coding RNAs. And this is an underestimate b/c they are still discovering them. And while some of these have known purposes but most of them we don't know what they are for.
 
+### 21 minutes left in final segment for lecture 19
+
 ## Lecture 20: Observing the Genome to Probe Function
 
 ## Lecture 21: Perturbing the Genome to Probe Function
