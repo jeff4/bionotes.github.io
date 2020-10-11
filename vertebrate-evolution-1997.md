@@ -167,3 +167,10 @@ From the abstract for <a href="https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-
 * "Can [Gould and Eldredge's thesis] be maintained in view of the evidence provided by modern studies of living populations?"
 
 ##  Chapter 3: Evolution in modern populations
+### Introduction - 10/10/2020
+Four major premises for Darwin's theory of natural selection:
+
+1. All populations exhibit some degree of natural variation
+1. A significant fraction of that variation is inherited from generation to generation
+1. Environmental resources are limited such that only a small fraction of the individuals in each generation successfully produce offspring in the next generation 
+1. Traits that favor the survival of individuals in one generation will be preferentially perpetuated in the next generation
