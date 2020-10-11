@@ -30,7 +30,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 &#8224; *The [2018 Earth Biogenome Project paper](https://www.pnas.org/content/115/17/4325) cites 391,000 plant species as of 2016 (Lewin et al., p. 4326) per [this report](https://stateoftheworldsplants.org/2016/).*
 
-[test link](#Lecture2)
+[test link](#Lecture-2)
 
 ---
 # Notes on MIT 7.00x at edX
@@ -60,7 +60,7 @@ Introduction and the Biochemistry of Life
 	* 1970s: Invention of **recombinant DNA** to isolate specific gene, read what protein it encodes. Take a protein and decide which gene codes for it.
 	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
-## Lecture2
+## (Lecture-2)
 Biochemistry
 ### July 21 - 28, 2020
 * Eduard Buchner and the founding of biochemistry. 
