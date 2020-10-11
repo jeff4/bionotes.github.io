@@ -664,7 +664,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Creating a molecular clock using LINE paralog family tree
 * If you sequence as many LINE's as possible, you can create a family tree of changes. The ones with the most changes are the oldest. The most recent have not yet had time for many mutations / copying errors to creep in. 
 * Very rough estimate: over the course of 100m yrs, expect about 0.2 change per base. Aka, 1 base in every 5nt or 2 bases in every 10nt will change every 100 million years.
-* That's the same as saying that there is roughly 1 change per 50nt every 10 million years.
+* That's the same as saying that there is roughly 1 change per 50nt every 10 million years. aka 1 change in 500nt every 1 million years.
+
+### Phylogenetics
+* Let's compare multiple species. This means that we need to sequence the genomes of various species.
+* Mouse Genome rough draft was 2002, final draft completed around 2004
+* Comparing
 
 ## Lecture 20: Observing the Genome to Probe Function
 
