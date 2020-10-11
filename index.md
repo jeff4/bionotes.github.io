@@ -691,6 +691,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Use transposons as a "dead" background rate of mutation
 * about 5-6% of the genome is conserved, even through it does not code for protein. What is it? Some of it is regulatory sequences.
 * Example: the [Satb1 gene](https://en.wikipedia.org/wiki/SATB1) that is important in early embryo development. By examining the DNA on either side of this gene, we see that a lot of the surrounding DNA is *not* protein-encoding but is still highly conserved. This implies that a very complex regulatory system must surround Satb1 to make sure it acts properly in helping lay down the [Bauplan](https://en.wikipedia.org/wiki/Body_plan) for an embryo.
+* A lot of the most highly conserved regions of noncoding DNA surround the 200 or so genes most involved in embryonic development.
+
+### Non-coding RNA regions
+* Another type of non-protein encoding DNA regions that are conserved (along with regulatory regions) are areas that code for RNA that is not then translated into protein.
+* Called [non-coding RNAs *aka* ncRNA](https://en.wikipedia.org/wiki/Non-coding_RNA)
+* From 2009-2013, have discoverd at least 7,000 genes that code for non-coding RNAs. And this is an underestimate b/c they are still discovering them. And while some of these have known purposes but most of them we don't know what they are for.
 
 ## Lecture 20: Observing the Genome to Probe Function
 
