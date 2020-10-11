@@ -650,10 +650,21 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Highly uneven distribution of genes. Some regions are very dense with genes, other regions are sparse with genes. On average, about 7 genes every million bases.
 	* Some regions have 40 genes per Mb. Other regions have 0 genes across a Mb–called  a "gene dessert".
 
-### LINE elements
+### LINE  elements
 * [Long Interspersed Nuclear Elements (LINE)](https://en.wikipedia.org/wiki/Long_interspersed_nuclear_element) about 7,000 bp long. 
 * All they do is transcribe an mRNA which is translated into a reverse transcriptase. All the rTranscriptase does is create another LINE element that is placed back into the human genome.
 * There are about 100,000 LINE elements in the HG. And they have been a part of eukaryotic genomes for about 1 billion years.
+* Most of these 100k LINE elements are non-functional aka they do not succeed in generating a transcript.
+
+### SINE elements
+* Also the HG has [Short Interspersed Nuclear Elements (SINE)](https://en.wikipedia.org/wiki/Short_interspersed_nuclear_element)
+* There are about 1 million SINE's in the HG, and they range in size between 100-700 bp in length.
+* They do not code for a reverse transcriptase; instead, they piggyback on RTrans produced by LINE's. In essence, they are parasitizing LINEs which are themselves parasitizing the regular nuclear genome.
+
+### Creating a molecular clock using LINE paralog family tree
+* If you sequence as many LINE's as possible, you can create a family tree of changes. The ones with the most changes are the oldest. The most recent have not yet had time for many mutations / copying errors to creep in. 
+* Very rough estimate: over the course of 100m yrs, expect about 0.2 change per base. Aka, 1 base in every 5nt or 2 bases in every 10nt will change every 100 million years.
+* That's the same as saying that there is roughly 1 change per 50nt every 10 million years.
 
 ## Lecture 20: Observing the Genome to Probe Function
 
