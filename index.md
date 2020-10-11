@@ -649,6 +649,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### General observations
 * Highly uneven distribution of genes. Some regions are very dense with genes, other regions are sparse with genes. On average, about 7 genes every million bases.
 	* Some regions have 40 genes per Mb. Other regions have 0 genes across a Mb–called  a "gene dessert".
+* Less than 5% of the HG actually codes for proteins.
 
 ### LINE  elements
 * [Long Interspersed Nuclear Elements (LINE)](https://en.wikipedia.org/wiki/Long_interspersed_nuclear_element) about 7,000 bp long. 
@@ -666,10 +667,21 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Very rough estimate: over the course of 100m yrs, expect about 0.2 change per base. Aka, 1 base in every 5nt or 2 bases in every 10nt will change every 100 million years.
 * That's the same as saying that there is roughly 1 change per 50nt every 10 million years. aka 1 change in 500nt every 1 million years.
 
-### Phylogenetics
-* Let's compare multiple species. This means that we need to sequence the genomes of various species.
-* Mouse Genome rough draft was 2002, final draft completed around 2004
-* Comparing
+### Phylogenetics for two species
+* Let's compare multiple species. This means that we need to sequence the genomes of various species. e.g., The mouse genome rough draft was published in 2002, final draft completed around 2004
+* Let us use [the beta-subunit of hemoglobin](https://en.wikipedia.org/wiki/HBB): **&#946;-globin** as our reference. This protein is coded by the *HBB* gene which consists of three small exons: 140 bp, 222 bp, 252 bp  in the human.
+* This same gene appears in mice, but the intron sequences in between the 3 exons are smaller. In other words, in total DNA distance, the mouse version is smaller (when one includes both exons and introns).
+* Why is the human version larger? B/c transposons have hopped into lengthen the introns, and perhaps more deletions in the mouse version?
+
+### Phylogenetics for multiple species, gene order
+* Tree of human, chimp, macaque, lemur, dog.
+* For several million bases, the order of genes is the same across many different species.
+* Hierarchy from most acceptable (aka least selection pressure against) to least acceptable (aka most selected against):
+	* Silent substitution aka, single bp change that still codes for the same amino acid
+	* Next, a bp change that changes amino acid to a very similar residue, e.g., a mutation that turns leucine to isoleucine
+	* Next, a bp change that changes amino acid to a very different one (e.g., nonpolar residue into a very polar, positive charged amino acid)
+	* Nonsense mutation aka, removal of a stop codon
+	* Frameshift mutations
 
 ## Lecture 20: Observing the Genome to Probe Function
 
@@ -733,3 +745,4 @@ Lectures 22, 23, 24
 * Textbooks on bacterial genetics and genomics:
 	* [Bacterial Genetics and Genomics (2020)](https://www.amazon.com/Bacterial-Genetics-Genomics-Lori-Snyder/dp/0815345690/) by Lori Snyder
 	* [Molecular Genetics of Bacteria, 4th ed (2013)](https://www.amazon.com/Molecular-Genetics-Bacteria-Larry-Snyder/dp/1555816274/) by Larry Snyder, Joseph Peters, Tina Hemkin, Wendy Champness
+		* 10/10/2020- Costs about $67 used from Amazon
