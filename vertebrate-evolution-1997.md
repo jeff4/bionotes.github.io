@@ -161,3 +161,9 @@ From the abstract for *Punctuated Equilibria: The Tempo and Mode of Evolution Re
 > We argue that virtually none of the examples brought forward to refute our model can stand as support for phyletic gradualism; many are so weak and ambiguous that they only reflect the persistent bias for gradualism still deeply embedded in paleontological thought. Of the few stronger cases, we concentrate on Gingerich's data for Hyopsodus and argue that it provides an excellent example of species selection under our model. We then review the data of several studies that have supported our model since we published it five years ago. The record of human evolution seems to provide a particularly good example: no gradualism has been detected within any hominid taxon, and many are long-rangirig; the trend to larger brains arises from differential success of essentially static taxa. The data of molecular genetics support our assumption that large genetic changes often accompany the process of speciation.
 >
 > Phyletic gradualism was an a priori assertion from the start-it was never "seen" in the rocks; it expressed the cultural and political biases of 19th century liberalism. Huxley advised Darwin to eschew it as an "unnecessary difficulty." We think that it has now become an empirical fallacy. A punctuational view of change may have wide validity at all levels of evolutionary processes. At the very least, it deserves consideration as an alternate way of interpreting the history of life.
+
+### Conclusion to Chapter Two (p. 33)
+* "The most striking claim made by Gould and Eldredge is that natural selection is not a significant force in controlling the pattern or rate of evolution at the level of species. Thus, they deny the primary tenet of evolutionary theory as proposed by Darwin."
+* "Can [Gould and Eldredge's thesis] be maintained in view of the evidence provided by modern studies of living populations?"
+
+##  Chapter 3: Evolution in modern populations
