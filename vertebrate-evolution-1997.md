@@ -167,10 +167,20 @@ From the abstract for <a href="https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-
 * "Can [Gould and Eldredge's thesis] be maintained in view of the evidence provided by modern studies of living populations?"
 
 ##  Chapter 3: Evolution in modern populations
-### Introduction - 10/10/2020
-Four major premises for Darwin's theory of natural selection:
+### Contrasting approaches by Darwin, Dobzhansky, Mayr, and Gould & Eldredge (p. 34)
+* 10/10/2020 
+* Although Darwin drew his evidence primarily from living populations, he applied his theory of evolution by natural selection to the whole history of life, on geologic timescales.
+* In contrast, Gould and Eldredge draw most of their evidence for punctuated equilibrium from the fossil record and apply it to living populations. This is somewhat counter to their assertion that they were inspired by the mid-20th century work in living ecosystems by Dobzhansky and Mayr.
+ 
+### Five propositions of Darwinsim
+* Four major premises for Darwin's theory of natural selection (p. 34):
+	1. All populations exhibit some degree of natural variation.
+	1. A significant fraction of that variation is inherited from generation to generation.
+	1. Environmental resources are limited such that only a small fraction of the individuals in each generation successfully produce offspring in the next generation. 
+	1. Traits that favor the survival of individuals in one generation will be preferentially perpetuated in the next generation.
+* The above four premises are overwhelmingly supported by converging lines of evidence from "anatomy, protein polymorphism, genetics, and the demography of living populations." (p. 34)  
+* There is also implicitly a 5th proposition: "Progressive changes traits from generation to generation will result in long-term evolutionary change." (p. 35)
+	* This fifth proposition is where Eldredge and Gould (henceforth, **E&G**) disagree with Mayr, Dobzhansky, Wright and the other authors of the modern synthesis. 
+	* E&G claim that over the vast majority of a species' duration, there is little progressive change; what genetic changes occur drift back and forth in a random manner. 
+	* "Evolutionary change resulting from natural selection [is] considered capable of tracking minor, short-term environmental variations, frequently in an oscillatory manner,  but having little long-term signficance."
 
-1. All populations exhibit some degree of natural variation
-1. A significant fraction of that variation is inherited from generation to generation
-1. Environmental resources are limited such that only a small fraction of the individuals in each generation successfully produce offspring in the next generation 
-1. Traits that favor the survival of individuals in one generation will be preferentially perpetuated in the next generation
