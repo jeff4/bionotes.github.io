@@ -682,6 +682,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Next, a bp change that changes amino acid to a very different one (e.g., nonpolar residue into a very polar, positive charged amino acid)
 	* Nonsense mutation aka, removal of a stop codon
 	* Frameshift mutations
+* Chart showing that within a single gene that is orthologous across mouse, dog, rat, and human. 
+	* On the left, the intragenic sequences either are 100% conserved (no mutations) or only have small unimportant single nt silent substitutions.
+	* On the right, we seen the intergenic sequences where there are much more significant base pair changes across the four species. Natural selection doesn't need to operate here!
+* This analysis lets us know where all the "gene areas" are of the DNA and which are intergene areas where there are no protein-coding sequences. Based on this inter-species comparison, the HGP was able to show that rather than circa 1999 estimates of ~100,000 genes in the HG, there are only 21,000 genes in the human genome.
 
 ## Lecture 20: Observing the Genome to Probe Function
 
