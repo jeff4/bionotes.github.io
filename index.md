@@ -30,11 +30,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 &#8224; *The [2018 Earth Biogenome Project paper](https://www.pnas.org/content/115/17/4325) cites 391,000 plant species as of 2016 (Lewin et al., p. 4326) per [this report](https://stateoftheworldsplants.org/2016/).*
 
+[test link](Lecture1)
+
 ---
 # Notes on MIT 7.00x at edX
 *Course started: July 14, 2020*
 
-## Lecture 1: Introduction and the Biochemistry of Life
+## Lecture1
+Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
 * Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year.
 	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
@@ -703,11 +706,26 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Transposons can be a source of new regulatory systems, esp. a single regulatory sequence that is copied around the gene to simulaneously activate/repress many genes at once.
 * The hint is when these regulatory sequences show up. if they are in the middle of a recent transposon, e.g., in the 100-200 mya time frame where placental mammals separated from marsupials. 
 
-### Mitochondrial DNA
+### Mitochondrial DNA and other ancestors
 * The circular DNA in mitochondria are only about 16k long.
 * Can be used to build a family tree of similar/different [mtDNA](https://en.wikipedia.org/wiki/Mitochondrial_DNA) to relate various groups of humans from around the planet. And the time when these groups separated map very closely with other evidence of human migration. Origin in Africa, migration to Asia, Europe, Pacific Islands, Americas.
 * This maternal ancestor is called "Mitochondrial Eve", who probably lived over 150-200k years ago. 
 * **mtDNA** aka **mDNA** is highly conserved across eukaryotes b/c mitochondria play such a critical role in cellular respiration. However, they have a higher mutation rate compared to nuclear DNA b/c it has [less effective repair mechanisms](https://en.wikipedia.org/wiki/Mitochondrial_DNA#Use_in_evolutionary_biology_and_systematic_biology).
+* Out of Africa hypothesis. Exit from africa is about 70-100k years ago.
+* Markers to find other ancestors
+	* Y-chromosome Adam. Probably never met Mitochondrial Eve. Coalescnce when you run backward.
+	* Hemoglobin Harry (is probably an early eukaryotic ancestor).
+* Relationship between modern humans and Neanderthals
+	* Examining Neanderthal bones that have preseved DNA fragments. Neanderthal mtDNA show that their split from modern humans was about 300k years ago. 
+	* Modern humans go back to about 150-200k. Multiple human migrations from Africa.
+	* For several years, based on mtDNA evidence alone, scientists thought that there was no interbreeding between Neanderthals and modern humans
+	* However, if we examine *nuclear* DNA and look for SNP in a particular part of the human genome and compare modern human individuals from Europe, Asia, and Africa, along with a Neanderthal genome you see this pattern:
+		* No difference between Europeans
+		* No difference between Asians
+		* No difference between Europeans and Asians
+		* BUT, difference between *either* Europeans or Asians *compared to* Africans
+		* And that difference is somewhat closer to Neanderthal by about 3%. This implies that during the later modern human migration out of Africa, they interbreed a little bit with Neanderthals and share some SNPs with Neanderthals. These SNPs are shared across Eurasians, but *not* with ancestral modern human Africans.
+
 
 ## Lecture 20: Observing the Genome to Probe Function
 
