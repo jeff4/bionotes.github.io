@@ -697,8 +697,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Another type of non-protein encoding DNA regions that are conserved (along with regulatory regions) are areas that code for RNA that is not then translated into protein.
 * Called [non-coding RNAs *aka* ncRNA](https://en.wikipedia.org/wiki/Non-coding_RNA)
 * From 2009-2013, have discoverd at least 7,000 genes that code for non-coding RNAs. And this is an underestimate b/c they are still discovering them. And while some of these have known purposes but most of them we don't know what they are for.
+* Abbreviated **lncRNA's** (Long Intergenic Non-Coding RNA) aka aka **long ncRNA** aka [lncRNA](https://en.wikipedia.org/wiki/Long_non-coding_RNA)
 
-### 21 minutes left in final segment for lecture 19
+### Transposons as a force for evolution
+* Transposons can be a source of new regulatory systems, esp. a single regulatory sequence that is copied around the gene to simulaneously activate/repress many genes at once.
+* The hint is when these regulatory sequences show up. if they are in the middle of a recent transposon, e.g., in the 100-200 mya time frame where placental mammals separated from marsupials. 
+
+### Mitochondrial DNA
+* The circular DNA in mitochondria are only about 16k long.
+* Can be used to build a family tree of similar/different [mtDNA](https://en.wikipedia.org/wiki/Mitochondrial_DNA) to relate various groups of humans from around the planet. And the time when these groups separated map very closely with other evidence of human migration. Origin in Africa, migration to Asia, Europe, Pacific Islands, Americas.
+* This maternal ancestor is called "Mitochondrial Eve", who probably lived over 150-200k years ago. 
+* **mtDNA** aka **mDNA** is highly conserved across eukaryotes b/c mitochondria play such a critical role in cellular respiration. However, they have a higher mutation rate compared to nuclear DNA b/c it has [less effective repair mechanisms](https://en.wikipedia.org/wiki/Mitochondrial_DNA#Use_in_evolutionary_biology_and_systematic_biology).
 
 ## Lecture 20: Observing the Genome to Probe Function
 
