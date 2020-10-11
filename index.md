@@ -687,7 +687,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* On the right, we seen the intergenic sequences where there are much more significant base pair changes across the four species. Natural selection doesn't need to operate here!
 * This analysis lets us know where all the "gene areas" are of the DNA and which are intergene areas where there are no protein-coding sequences. Based on this inter-species comparison, the HGP was able to show that rather than circa 1999 estimates of ~100,000 genes in the HG, there are only 21,000 genes in the human genome.
 
-### conservation of non-coding sequences
+### Conservation of non-coding sequences and gene regulation
 * Use transposons as a "dead" background rate of mutation
 * about 5-6% of the genome is conserved, even through it does not code for protein. What is it? Some of it is regulatory sequences.
 * Example: the [Satb1 gene](https://en.wikipedia.org/wiki/SATB1) that is important in early embryo development. By examining the DNA on either side of this gene, we see that a lot of the surrounding DNA is *not* protein-encoding but is still highly conserved. This implies that a very complex regulatory system must surround Satb1 to make sure it acts properly in helping lay down the [Bauplan](https://en.wikipedia.org/wiki/Body_plan) for an embryo.
@@ -754,4 +754,4 @@ Lectures 22, 23, 24
 * Textbooks on bacterial genetics and genomics:
 	* [Bacterial Genetics and Genomics (2020)](https://www.amazon.com/Bacterial-Genetics-Genomics-Lori-Snyder/dp/0815345690/) by Lori Snyder
 	* [Molecular Genetics of Bacteria, 4th ed (2013)](https://www.amazon.com/Molecular-Genetics-Bacteria-Larry-Snyder/dp/1555816274/) by Larry Snyder, Joseph Peters, Tina Hemkin, Wendy Champness
-		* 10/10/2020- Costs about $67 used from Amazon
+		* 10/10/2020- Used copy $67 from Amazon
