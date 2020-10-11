@@ -30,14 +30,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 &#8224; *The [2018 Earth Biogenome Project paper](https://www.pnas.org/content/115/17/4325) cites 391,000 plant species as of 2016 (Lewin et al., p. 4326) per [this report](https://stateoftheworldsplants.org/2016/).*
 
-[test link](#Lecture-2)
-
 ---
 # Notes on MIT 7.00x at edX
 *Course started: July 14, 2020*
 
-## Lecture1
-Introduction and the Biochemistry of Life
+## Lecture1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
 * Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year.
 	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
@@ -60,8 +57,7 @@ Introduction and the Biochemistry of Life
 	* 1970s: Invention of **recombinant DNA** to isolate specific gene, read what protein it encodes. Take a protein and decide which gene codes for it.
 	* 1980s: How do we map the genes that map to specific disease? Rather than studying single genes in isolation, was it possible to study all the genes for an organism at once? Yes, the beginning of **genomics**.
 
-## (Lecture-2)
-Biochemistry
+## Lecture 2: Biochemistry
 ### July 21 - 28, 2020
 * Eduard Buchner and the founding of biochemistry. 
 	* During a [series of experiments from 1857-1877](https://en.wikipedia.org/wiki/Fermentation#History_of_the_use_of_fermentation), Louis Pasteur proved that microorganisms were involved in fermentation (conversion of juice into CO<sub>2</sub> and alcohol). This seemed to be a defense of vitalism.
@@ -769,7 +765,7 @@ Biochemistry
 
 ### Unit 8: Genomics I - Human Genome
 * <del>Lecture 18: Human Genome and Positional Cloning</del>
-* Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumin Sequencing by Niall Lennon.
+* Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 * **Lecture 19: Secrets of the Human Genome**
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
