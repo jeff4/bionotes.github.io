@@ -649,7 +649,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### General observations
 * Highly uneven distribution of genes. Some regions are very dense with genes, other regions are sparse with genes. On average, about 7 genes every million bases.
 	* Some regions have 40 genes per Mb. Other regions have 0 genes across a Mb–called  a "gene dessert".
-* Less than 5% of the HG actually codes for proteins.
+* Less than 5% of the HG actually codes for proteins. In fact, per the coding vs. non-coding part of the genome cross-species omparison described below, we have shown that there are only 21,000 genes in the HG, aka **only 1.5% of the genome consists of bp that code for protein**.
 
 ### LINE  elements
 * [Long Interspersed Nuclear Elements (LINE)](https://en.wikipedia.org/wiki/Long_interspersed_nuclear_element) about 7,000 bp long. 
@@ -686,6 +686,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* On the left, the intragenic sequences either are 100% conserved (no mutations) or only have small unimportant single nt silent substitutions.
 	* On the right, we seen the intergenic sequences where there are much more significant base pair changes across the four species. Natural selection doesn't need to operate here!
 * This analysis lets us know where all the "gene areas" are of the DNA and which are intergene areas where there are no protein-coding sequences. Based on this inter-species comparison, the HGP was able to show that rather than circa 1999 estimates of ~100,000 genes in the HG, there are only 21,000 genes in the human genome.
+
+### conservation of non-coding sequences
+* Use transposons as a "dead" background rate of mutation
+* about 5-6% of the genome is conserved, even through it does not code for protein. What is it? Some of it is regulatory sequences.
+* Example: the [Satb1 gene](https://en.wikipedia.org/wiki/SATB1) that is important in early embryo development. By examining the DNA on either side of this gene, we see that a lot of the surrounding DNA is *not* protein-encoding but is still highly conserved. This implies that a very complex regulatory system must surround Satb1 to make sure it acts properly in helping lay down the [Bauplan](https://en.wikipedia.org/wiki/Body_plan) for an embryo.
 
 ## Lecture 20: Observing the Genome to Probe Function
 
