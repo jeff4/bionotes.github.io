@@ -16,9 +16,9 @@ permalink: /general-chemistry/
 
 ### Redox Reactions, p. 151-158 
 * See JH handwritten notes 8/06/2020 for redox diagram which draws on material from: Alberts p.71, Sadava p.167, MSJ p. 151-155, especially the table on MSJ p. 155.
-* See also simplified rules specific to redox reactions in *L.G. Wade, p. 465*:
-	* **Oxidation (down rusting-red):** addition of O or O<sub>2</sub>; Addition of X<sub>2</sub> where X = halogen; loss of H<sub>2</sub>
-	* **Reduction (up blue):** addition of H<sup>-</sup>, addition of H<sub>2</sub>; loss of O, loss of O<sub>2</sub>; loss of halogens aka loss of X<sub>2</sub>
+* See also simplified redox rules specific to **Organic Reactions** per *L.G. Wade, p. 465*:
+	* **Oxidation (falling down rusting-red):** addition of O or O<sub>2</sub>; Addition of X<sub>2</sub> where X = halogen; loss of H<sub>2</sub>
+	* **Reduction (rising up blue-heaven):** addition of H<sup>-</sup>, addition of H<sub>2</sub>; loss of O, loss of O<sub>2</sub>; loss of halogens aka loss of X<sub>2</sub>
 	* **Neither Oxidation or Reduction reaction**
 		* addition or loss of proton H<sup>+</sup>
 		* addition or loss of hydroxide ion <sup>-</sup>OH
