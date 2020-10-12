@@ -101,7 +101,7 @@ permalink: /organic-chemistry/
 * October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
 
 #### Bond-Dipole moments (p. 59-60)
-* 10/11/2020: Section 2-9A
+* LG Wade, Chapter 2, Section 2-9A (10/11/2020)
 * Range of bond polarities from least to most polar: covalent (non-polar with similar electronegativities), covalent (polar which occurs when the 2 atoms have very different electronegativity), to totally ionic.
 * List from least polar (aka most non-polar) to most polar:
 	* ethane – CH<sub>3</sub>CH<sub>3</sub>
@@ -113,6 +113,8 @@ permalink: /organic-chemistry/
 * The usual unit for bond polarity is the [debye, abbreviated "D"](https://en.wikipedia.org/wiki/Debye) where **1 D** = ~3.336 * 10<sup>-30</sup> Coulomb*meters.
 * In organic compounds, bond dipole moments range from zero (for symmetrically equal electronegativities) to about 3.6D for the very polarized C&#8801;N triple bond.
 * See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
+* **Next: do problems in balancing molecular net dipole moments 2-9B p. 61**
+
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
