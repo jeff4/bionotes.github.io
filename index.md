@@ -771,8 +771,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### <del>Unit 8: Genomics I - Human Genome</del>
 * <del>Lecture 18: Human Genome and Positional Cloning</del>
-* Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 * <del>Lecture 19: Secrets of the Human Genome</del>
+* Finish watching supplemental videos (see Lecture 18; video segments 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 * **Lecture 20: Observing the Genome to Probe Function**
