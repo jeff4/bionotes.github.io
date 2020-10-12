@@ -725,7 +725,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ## Lecture 20: Observing the Genome to Probe Function
 * October 12, 2020
-* 
+* Polygenic disease
+* How do we artificially indel genes. Knock-in and knock-out of genes.
+
+### DNA Polymorphisms in Medicine
+* Use DNA chips aka "SNP chips" aka [SNP array](https://en.wikipedia.org/wiki/SNP_array).
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
