@@ -101,7 +101,14 @@ permalink: /organic-chemistry/
 * October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
 
 #### Bond-Dipole moments (p. 59)
-* 10/08/2020: Section 2-9A
+* 10/11/2020: Section 2-9A
+* Range of bond polarities from least to most polar: covalent (non-polar with similar electronegativities), covalent (polar which occurs when the 2 atoms have very different electronegativity), to totally ionic.
+* List from least polar (aka most non-polar) to most polar:
+	* ethane – CH<sub>3</sub>CH<sub>3</sub>
+	* methylamine – CH<sub>3</sub>NH<sub>2</sub>
+	* methanol – CH<sub>3</sub>OH
+	* chloromethane – CH<sub>3</sub>Cl
+	* methylammonium chloride (ionic bond):  CH<sub>3</sub>NH<sub>4</sub><sup>+</sup> and Cl<sup>-</sup>
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
