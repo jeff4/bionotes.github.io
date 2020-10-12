@@ -641,7 +641,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Illumina has a [comparison page for NGS vs. Sanger Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/ngs-vs-sanger-sequencing.html). See also the [overall Wiki page](https://en.wikipedia.org/wiki/DNA_sequencing) describing the history and breadth of DNA sequencing techniques.
 
 ## Lecture 19: Secrets of the Human Genome
-* October 9, 2020
+* October 9-11, 2020
 * What are the elements of the genome? Genomics tries to look at the big picture, as an integrated whole–as distinct from its forebears biochemistry and genetics.
 * Draft genome announced June 2000, published February 15, 2001.
 * 99.3% complete draft announced April 2003, officially published October 2004.
@@ -722,11 +722,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* No difference between Europeans and Asians
 		* BUT, difference between *either* Europeans or Asians *compared to* Africans
 		* And that difference is somewhat closer to Neanderthal by about 3%. This implies that during the later modern human migration out of Africa, they interbreed a little bit with Neanderthals and share some SNPs with Neanderthals. These SNPs are shared across Eurasians, but *not* with ancestral modern human Africans.
-	
-### Summary of Lecture 19
-
 
 ## Lecture 20: Observing the Genome to Probe Function
+* October 12, 2020
+* 
+
 
 ## Lecture 21: Perturbing the Genome to Probe Function
 ---		
@@ -768,13 +768,15 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 8: Genomics I - Human Genome
 * <del>Lecture 18: Human Genome and Positional Cloning</del>
 * Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
-* **Lecture 19: Secrets of the Human Genome**
+* <del>Lecture 19: Secrets of the Human Genome</del>
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
-Lectures 20, 21
+* **Lecture 20: Observing the Genome to Probe Function**
+* Lecture 21: Perturbing the Genome to Probe Function
 
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
+
 
 ---
 
