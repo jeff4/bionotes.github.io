@@ -100,7 +100,7 @@ permalink: /organic-chemistry/
 		* However, when an acid-base reaction involves formation of a **new bond** to some other element (esp. carbon), chemists typically say nucleophile (for Lewis Base donating an electron pair) or electrophile (for Lewis Acid accepting an electron pair).
 * October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
 
-#### Bond-Dipole moments (p. 59)
+#### Bond-Dipole moments (p. 59-60)
 * 10/11/2020: Section 2-9A
 * Range of bond polarities from least to most polar: covalent (non-polar with similar electronegativities), covalent (polar which occurs when the 2 atoms have very different electronegativity), to totally ionic.
 * List from least polar (aka most non-polar) to most polar:
@@ -109,6 +109,10 @@ permalink: /organic-chemistry/
 	* methanol – CH<sub>3</sub>OH
 	* chloromethane – CH<sub>3</sub>Cl
 	* methylammonium chloride (ionic bond):  CH<sub>3</sub>NH<sub>4</sub><sup>+</sup> and Cl<sup>-</sup>
+* Bond polarity is measured by the [**bond dipole moment &#956;**](https://en.wikipedia.org/wiki/Bond_dipole_moment) ("mu"), which is measured by &#956; = **&#948;** * **d** where **&#948;** = amount of charge either end fo the dipole and **d** = distance between the charges.
+* The usual unit for bond polarity is the [debye, abbreviated "D"](https://en.wikipedia.org/wiki/Debye) where **1 D** = ~3.336 * 10<sup>-30</sup> Coulomb*meters.
+* In organic compounds, bond dipole moments range from zero (for symmetrically equal electronegativities) to about 3.6D for the very polarized C&#8801;N triple bond.
+* See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
