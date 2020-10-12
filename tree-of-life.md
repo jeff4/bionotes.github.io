@@ -3,16 +3,19 @@ title: Tree of Life
 permalink: /tree-of-life/
 ---
 
-## Why do we use 16S rRNA to classify bacteria and archaea?
-* [Researchgate comments](https://www.researchgate.net/post/Why_do_we_choose_16S_rRNA_instead_of_others_to_identify_microorganisms)
-* [Blog post](https://www.cd-genomics.com/blog/16s-rrna-one-of-the-most-important-rrnas/)
 
 ## Next papers to read
-* Woese 1998, [The Universal Ancestor](https://www.pnas.org/content/95/12/6854)
+* 2019 ENCODE+CRISPR, [*A Genome-Wide Framework for Mapping Gene Regulation via Cellular Genetic Screens*](https://pubmed.ncbi.nlm.nih.gov/30612741/)
+* 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
 * ENCODE 2011, [Introductory User's Guide to the Encyclopedia of DNA Elements](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
 * [2018 EBP paper](https://www.pnas.org/content/115/17/4325)
 * [2017 EMP paper](https://www.nature.com/articles/nature24621)
 	* see also this [review article](https://phys.org/news/2017-11-earth-microbiome.html) from https://phys.org
+
+
+## Why do we use 16S rRNA to classify bacteria and archaea?
+* [Researchgate comments](https://www.researchgate.net/post/Why_do_we_choose_16S_rRNA_instead_of_others_to_identify_microorganisms)
+* [Blog post](https://www.cd-genomics.com/blog/16s-rrna-one-of-the-most-important-rrnas/)
 
 ## Earth Biogenome Project (EBP)
 * Plan to sequence representative samples of [all eukaryotes](https://www.earthbiogenome.org)
@@ -30,8 +33,11 @@ permalink: /tree-of-life/
 ## ENCyclopedia Of DNA Elements (ENCODE)
 * [Main website](https://www.encodeproject.org)
 * User's Guide paper from [2011](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
+* 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
 
 ## <del>Completed papers</del>
-* <del>Horrible plant species, Diamond</del>
-* <del>Against 3 domains, Mayr 1998</del>
-* <del>Gould and Eldredge 1977 Punctuated Equilibrium</del>
+* <del>1992 Diamond, *Horrible Plant Species*</del>
+* <del>1998 Mayr, *Against 3 Domains*</del>
+* <del> 2015 Richards, *It's More Than Stamp Collecting: How Genome Sequencing Can Unify Biological Research*</del>
+* <del>1998 Woese, [*The Universal Ancestor*](https://www.pnas.org/content/95/12/6854)</del>
+* <del>1977 Gould and Eldredge, *Punctuated Equilibrium*</del>
