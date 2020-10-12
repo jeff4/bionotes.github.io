@@ -36,8 +36,8 @@ permalink: /tree-of-life/
 * 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
 
 ## <del>Completed papers</del>
-* <del>1992 Diamond, *Horrible Plant Species*</del>
-* <del>1998 Mayr, *Against 3 Domains*</del>
-* <del> 2015 Richards, *It's More Than Stamp Collecting: How Genome Sequencing Can Unify Biological Research*</del>
+* <del>1992 Diamond, [*Horrible Plant Species*](https://www.nature.com/articles/360627a0.pdf?origin=ppub)</del>
+* <del>1998 Mayr, [*Two Empires or Three?*](https://www.pnas.org/content/95/17/9720)</del>
+* <del> 2015 Richards, [*It's More Than Stamp Collecting: How Genome Sequencing Can Unify Biological Research*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490122/)</del>
 * <del>1998 Woese, [*The Universal Ancestor*](https://www.pnas.org/content/95/12/6854)</del>
-* <del>1977 Gould and Eldredge, *Punctuated Equilibrium*</del>
+* <del>1977 Gould and Eldredge, [*Punctuated Equilibria: Tempo and Mode of Evolution Reconsidered*](https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-0120/Supplemental/Gould%20&%20Eldredge%2077%20Paleobio.pdf)</del>
