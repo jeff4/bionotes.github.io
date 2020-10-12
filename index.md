@@ -765,11 +765,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### <del>Unit 7: Recombinant DNA</del>
 * <del>Lecture 15: Cloning - Purifying a Gene</del>
 * <del>Lecture 16: Finding a Specific Gene in the Library, including Michelle's follow-up video on Restriction Enzymes, EcoRI specific sequences in plasmids, etc.</del>
-* <del>Lecture 17:Analyzing a Gene with Gel Electrophoresis, Sequencing, and PCR</del>
+* <del>Lecture 17: Analyzing a Gene with Gel Electrophoresis, Sequencing, and PCR</del>
 	* Watch Lori's follow up lab video on gel electrophoresis
 * Finish Cerego Memory Set
 
-### Unit 8: Genomics I - Human Genome
+### <del>Unit 8: Genomics I - Human Genome</del>
 * <del>Lecture 18: Human Genome and Positional Cloning</del>
 * Finish watching supplemental videos (sections 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 * <del>Lecture 19: Secrets of the Human Genome</del>
