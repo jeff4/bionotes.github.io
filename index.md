@@ -34,7 +34,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 # Notes on MIT 7.00x at edX
 *Course started: July 14, 2020*
 
-## Lecture1: Introduction and the Biochemistry of Life
+## Lecture 1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
 * Lectures by Eric Lander were likely recorded in the 2012 - 2013 academic year.
 	* Lander makes a reference to this [NYT Sunday Magazine article on pain](https://www.nytimes.com/2012/11/18/magazine/ashlyn-blocker-feels-no-pain.html) which had just come out the "last weekend". He also discusses [this drug for cystic fibrosis](https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html).
@@ -722,6 +722,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* No difference between Europeans and Asians
 		* BUT, difference between *either* Europeans or Asians *compared to* Africans
 		* And that difference is somewhat closer to Neanderthal by about 3%. This implies that during the later modern human migration out of Africa, they interbreed a little bit with Neanderthals and share some SNPs with Neanderthals. These SNPs are shared across Eurasians, but *not* with ancestral modern human Africans.
+	
+### Summary of Lecture 19
 
 
 ## Lecture 20: Observing the Genome to Probe Function
