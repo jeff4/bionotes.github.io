@@ -731,6 +731,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### DNA Polymorphisms in Medicine
 * Use DNA chips aka "SNP chips" aka [SNP array](https://en.wikipedia.org/wiki/SNP_array).
 
+### what about rare mendelian genetic diseases where you don't have family info?
+* need to examine the entire chromosome
+
 
 ## Lecture 21: Perturbing the Genome to Probe Function
 ---		
