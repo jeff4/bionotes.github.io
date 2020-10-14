@@ -99,6 +99,7 @@ permalink: /organic-chemistry/
 		* When referring generically to **acids** and *bases*, chemists usually mean the in the Brønsted-Lowry sense: whether **donate** or* accept* protons, respectively.
 		* However, when an acid-base reaction involves formation of a **new bond** to some other element (esp. carbon), chemists typically say nucleophile (for Lewis Base donating an electron pair) or electrophile (for Lewis Acid accepting an electron pair).
 * October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
+* October 12-13: Completed problems 2-24 and 2-25
 
 #### Bond-Dipole moments (p. 59-60)
 * LG Wade, Chapter 2, Section 2-9A (10/11/2020)
@@ -113,7 +114,8 @@ permalink: /organic-chemistry/
 * The usual unit for bond polarity is the [debye, abbreviated "D"](https://en.wikipedia.org/wiki/Debye) where **1 D** = ~3.336 * 10<sup>-30</sup> Coulomb*meters.
 * In organic compounds, bond dipole moments range from zero (for symmetrically equal electronegativities) to about 3.6D for the very polarized C&#8801;N triple bond.
 * See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
-* **Next: do problems in balancing molecular net dipole moments 2-9B p. 61**
+
+
 
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
