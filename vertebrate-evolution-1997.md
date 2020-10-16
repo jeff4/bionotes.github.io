@@ -184,3 +184,12 @@ From the abstract for <a href="https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-
 	* E&G claim that over the vast majority of a species' duration, there is little progressive change; what genetic changes occur drift back and forth in a random manner. 
 	* "Evolutionary change resulting from natural selection [is] considered capable of tracking minor, short-term environmental variations, frequently in an oscillatory manner,  but having little long-term signficance."
 
+
+### Examples (p. 35)
+* "Darwin's best examples of large scale morphological change within known species were primarily limited to [domesticated] plants and animals. In these cases, historical records going back several thousand years documented morphological changes as great as those that separate well-established species. "
+	* However, the artificial selection exerted by humans on domesticated organisms is significantly stronger than that expected in the natural world.
+	* "No examples are known of changes of this magnitude in natural populations within such a limited time [aka thousands of years, on the scale of human written language]." 
+* Classic examples of change of allele frequencies in living populations 
+	* Seasonal change in natural populations of the land nail (Cameron 1992)
+	* Change in color of the peppered moth *Biston betularia* (Kettlewell 1973)
+
