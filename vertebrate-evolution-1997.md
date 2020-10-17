@@ -190,6 +190,7 @@ From the abstract for <a href="https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-
 	* However, the artificial selection exerted by humans on domesticated organisms is significantly stronger than that expected in the natural world.
 	* "No examples are known of changes of this magnitude in natural populations within such a limited time [aka thousands of years, on the scale of human written language]." 
 * Classic examples of change of allele frequencies in living populations 
-	* Seasonal change in natural populations of the land nail (Cameron 1992)
-	* Change in color of the peppered moth *Biston betularia* (Kettlewell 1973)
+	* Seasonal change in natural populations of the land snail *Cepaea* [(Cameron 1992)](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1992.0060)
+	* Change in color of the peppered moth *Biston betularia* [(Kettlewell 1973)](https://en.wikipedia.org/wiki/Kettlewell%27s_experiment)
+* In 1986, John Endler's [*Natural Selection in the Wild*](https://books.google.com/books?id=ef3RDwAAQBAJ) tabulated many studies of living populations. However, most of these studies "are of short duration and long-term oscillation or random change around a common mean cannot be precluded."
 
