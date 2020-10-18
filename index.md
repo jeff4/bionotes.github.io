@@ -804,10 +804,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Right after the [blastocyst](https://en.wikipedia.org/wiki/Blastocyst) stage, an embryo enters [**inner cell mass (ICM)**](https://en.wikipedia.org/wiki/Inner_cell_mass) stage–also called *embryoblast* or [*pluriblast*](https://en.wikipedia.org/wiki/Pluriblast).
 	* One can extract from the ICM an [embryonic stem cell (*aka* ESC)](https://en.wikipedia.org/wiki/Embryonic_stem_cell).
 	* ESC cells are [pluripotent](https://en.wikipedia.org/wiki/Cell_potency#Pluripotency)
-	* And then transform those ESC in a petri dish with some genetic indels
+	* And then transform those ESC in a petri dish with some genetic indels. The reason we have the petri dish step is that you can do a lot of experimentation at this stage and do quality control all with cells before re-implantation *in vivo*.
 	* And then reimplant those ESC into another ICM embryo.
 	* When the ICM embryo comes to term and is born, it is a chimera with some of its original cells and some transformed cells.
 	* How to tell? Simplest way is to start with a black mouse ICM and inject transgenic white mouse cells. The pups which are born striped black and white have a mix of both types of cells.
+	* Finally, does the genetic modification breed true? It depends on which of the chimeric cells made it into the germline of the pup. If no, then mutations stay in the pup. If yes, then the mutations are passed on to the following generation.
+* 
 
 
 ---		
