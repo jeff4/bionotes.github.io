@@ -733,6 +733,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### what about rare mendelian genetic diseases where you don't have family info?
 * need to examine the entire chromosome
+* One strategy: find patients who expresses the disease and scan all 3B bp for "spelling errors".  
+	* In theory, if this disease is a dominant trait, then we will only find 1 spelling error around the presumed mutated gene.
+	* And if the disease is a recessive trait, then we expect both copies of the gene to have a spelling error (and not necessarily the same error).
+* But there is a problem with the above strategy: there are actually many many spelling errors among "normal" wildtype human genome. On the order of about 1 spelling error every 1000 bp. Or for more heavily selected areas (aka in coding regions), maybe 1 spelling error every 2-3000 bp. So at that rate, there is a baseline of about 1m "spelling error" per wildtype *or* afflicted individual. So how can we figure out which error is a marker or mutation for the postulated disease-gene??
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
