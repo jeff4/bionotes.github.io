@@ -732,11 +732,24 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Use DNA chips aka "SNP chips" aka [SNP array](https://en.wikipedia.org/wiki/SNP_array).
 
 ### What about rare mendelian genetic diseases where you don't have family info?
-* need to scan the entire chromosome
+* Need to examine the entire chromosome
 * One strategy: find patients who expresses the disease and scan all 3B bp for "spelling errors".  
 	* In theory, if this disease is a dominant trait, then we will only find 1 spelling error around the presumed mutated gene.
 	* And if the disease is a recessive trait, then we expect both copies of the gene to have a spelling error (and not necessarily the same error).
 * But there is a problem with the above strategy: there are actually many many spelling errors among "normal" wildtype human genome. On the order of about 1 spelling error every 1000 bp. Or for more heavily selected areas (aka in coding regions), maybe 1 spelling error every 2-3000 bp. So at that rate, there is a baseline of about 1m "spelling error" per wildtype *or* afflicted individual. So how can we figure out which error is a marker or mutation for the postulated disease-gene??
+
+### Strategy #2 for recessive trait
+* Good news is that we've actually sequenced thousands of individual human genomes and have a pretty comprehensive catalog of the usual locations for SNPs. For common variant misspellings
+* Now what about special variant genes that only occur less than 0.5% of the time?
+* It turns out that the average human has about 150 genes that have some sort of rare variant (that is at that frequency (0.5%).
+* *However*, if this disease is recessive, then we need both copies of the diploid chromosome to have a mutation. Given that we stated that this mutation only happens 1% of the time, then for it to happen twice in the same individual means 1% * 1% = 0.01% of the time aka 1 in 10,000. 
+	* And since there about 20,000 genes in the genome, that means that with a single recessive afflicted individual, you can do a good job pinpointing the particular gene.
+	* And if you can gather just a few more recessive individuals, you can very precisely pinpoint the desired gene.
+* So in this case, we can find the gene without a linkage map! However, this technique will *not* work if the disease is a dominant trait.
+
+### Polygenic diseases
+* 
+
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
