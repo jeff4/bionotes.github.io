@@ -778,7 +778,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Example of different subtypes of breast cancer and which ones are best treated by certain types of chemotherapy
 
 ### Protein localization in the genome
-* Focus on [**nuclear** estrogen receptor](https://en.wikipedia.org/wiki/Estrogen_receptor) (*not* the membrane variety). These are a type of [nuclear receptor](https://en.wikipedia.org/wiki/Nuclear_receptor) which bind directly to DNA to up-regulate or down-regulate activity of those genes.
+* Focus on [nuclear estrogen receptor](https://en.wikipedia.org/wiki/Estrogen_receptor) (*not* the membrane variety). These are a type of [nuclear receptor](https://en.wikipedia.org/wiki/Nuclear_receptor) which bind directly to DNA to up-regulate or down-regulate activity of those genes.
 * How do we know which DNA sequences nuclear estrogen receptors bind to?
 	* Use formaldehyde or another agent to chemically fix the nuclear estrogen receptor (NER) to its preferred DNA attachment locations.
 	* Develop a monoclonal antibody (mAb) in a rabbit specific to the NER protein.
@@ -854,8 +854,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 * <del>Lecture 20: Observing the Genome to Probe Function</del>
 * **Lecture 21: Perturbing the Genome to Probe Function**
-* test test
-
 
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
