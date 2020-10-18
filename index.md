@@ -731,8 +731,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### DNA Polymorphisms in Medicine
 * Use DNA chips aka "SNP chips" aka [SNP array](https://en.wikipedia.org/wiki/SNP_array).
 
-### what about rare mendelian genetic diseases where you don't have family info?
-* need to examine the entire chromosome
+### What about rare mendelian genetic diseases where you don't have family info?
+* need to scan the entire chromosome
 * One strategy: find patients who expresses the disease and scan all 3B bp for "spelling errors".  
 	* In theory, if this disease is a dominant trait, then we will only find 1 spelling error around the presumed mutated gene.
 	* And if the disease is a recessive trait, then we expect both copies of the gene to have a spelling error (and not necessarily the same error).
