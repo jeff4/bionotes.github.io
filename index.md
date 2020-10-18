@@ -767,12 +767,24 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Global view of RNA variation
 * Examine a red blood cell or a skin cell. To measure the mRNAs, use reverse transcriptae to create cDNA and then sequence.
 * Another way to measure RNAs is using RNA chips. The chip allows you to see the expression level. 
-	* For example, given that humans have about 20,000 genes expressed at a given moment in the cell cycle. We design an RNA chip that has 20,000 different locations, one for each gene. Also, there are multiple copies of the gene template at each chip location.
+	* For example, given that humans have about 21,000 genes expressed at a given moment in the cell cycle. We design an RNA chip that has 21,000 different locations, one for each gene. Also, there are multiple copies of the gene template at each chip location.
 	* Then, we extract and isolate all the mRNA from the cell label it all with a fluorescent tag.
 	* Then, we wash all this RNA over the RNA chip. Bc there are multiple copies of identical DNA at each chip location, the genes with higher levels of expression will have more mRNA bonded.
-	* This outputs a vector with 20,000 real number values representing the gene expression for all 20,000 genes for an individuals.
-	* Repeate this process with a second human patient, outputing another vector with 20,000 scalar values
-	* Ultimately, you have an array where each column represents and individual's whole mRNA expression over 20,000 cells and each row represents the expression level of a particular gene (1 out of 20,000 rows) across multiple individuals.
+	* This outputs a vector with 21,000 real number values representing the gene expression for all 21,000 genes for an individuals.
+	* Repeat this process with a second human patient, outputing another vector with 21,000 scalar values
+	* Ultimately, you have an array where each row represents one person's whole mRNA expression over 21,000 cells. And each of the 21,000 columns represents the expression level of a particular gene (out of the 21,000 genes) across multiple individuals.
+* Example of leukemia and the subtypes of  [ALL](https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia) versus [AML](https://en.wikipedia.org/wiki/Acute_myeloid_leukemia). Each has a different pattern of gene expression.
+	* But with 21,000 genes in 21-dimensional vector space, you can cluster various samples in that space and determine what different types of pathologies there are. So it's much faster and less painstaking then the process [Sidney Farber]() went through when using classical pathology he distinguished between the very similar looking cells that exhibit ALL vs. AML.
+* Example of different subtypes of breast cancer and which ones are best treated by certain types of chemotherapy
+
+### Protein localization in the genome
+* Focus on [**nuclear** estrogen receptor](https://en.wikipedia.org/wiki/Estrogen_receptor) (*not* the membrane variety). These are a type of [nuclear receptor](https://en.wikipedia.org/wiki/Nuclear_receptor) which bind directly to DNA to up-regulate or down-regulate activity of those genes.
+* How do we know which DNA sequences nuclear estrogen receptors bind to?
+	* Use formaldehyde or another agent to chemically fix the nuclear estrogen receptor (NER) to its preferred DNA attachment locations.
+	* Develop a monoclonal antibody (mAb) in a rabbit specific to the NER protein.
+	* Break up DNA and then mix with mAb so that we can isolate the specific DNA fragments that have NER.
+	* Sequence those specific fragments of DNA.
+* This technique is called [ChIP-seq](https://en.wikipedia.org/wiki/ChIP_sequencing) aka [Chromatin Immunopreciptation](https://en.wikipedia.org/wiki/Chromatin_immunoprecipitation)-sequencing.
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
