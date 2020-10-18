@@ -761,6 +761,12 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * We can then use that DNA chip to quickly screen thousands of humans. And quickly build a comprehensive library [(HapMap)](https://en.wikipedia.org/wiki/International_HapMap_Project)
 * The definition of haplotype is simply a block of DNA in the chromosome where several closely located SNPs are inherited together. In this context, we are using **the second definition** described at [the Wiki article for Haplotype](https://en.wikipedia.org/wiki/Haplotype).
 * Example: Age-Related Macular Degeneration *aka* [**AMRD**](https://en.wikipedia.org/wiki/Macular_degeneration). From HapMap studies, we discovered that an SNP on the gene coding for [complement factor H](https://en.wikipedia.org/wiki/Factor_H#Age-related_macular_degeneration) where the tyrosine located at residue 402 is replaced by a histidine. And this variant is correlated with a 35% higher chance of developing AMRD.
+* Example: Schizophrenia. Initial study in 2009 examined 7000 patients and found no particular SNPs that were well-correlated with schizophrenia. However, they tested larger and larger sets of humans. As of 2013, they tested 50,000 patients and found about 93 regions of the human genome that have statistically significant contribution to schizophrenia.
+	* Not clear on exact mechanism. However, 4 of those 93 potential genes all code for subunits of the same multi-protein complex that is used in a certain neuronal membrane L-type calcium channel.
+
+### Global view of RNA variation
+* 
+
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
