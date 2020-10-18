@@ -765,8 +765,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Not clear on exact mechanism. However, 4 of those 93 potential genes all code for subunits of the same multi-protein complex that is used in a certain neuronal membrane L-type calcium channel.
 
 ### Global view of RNA variation
-* 
-
+* Examine a red blood cell or a skin cell. To measure the mRNAs, use reverse transcriptae to create cDNA and then sequence.
+* Another way to measure RNAs is using RNA chips. The chip allows you to see the expression level. 
+	* For example, given that humans have about 20,000 genes expressed at a given moment in the cell cycle. We design an RNA chip that has 20,000 different locations, one for each gene. Also, there are multiple copies of the gene template at each chip location.
+	* Then, we extract and isolate all the mRNA from the cell label it all with a fluorescent tag.
+	* Then, we wash all this RNA over the RNA chip. Bc there are multiple copies of identical DNA at each chip location, the genes with higher levels of expression will have more mRNA bonded.
+	* This outputs a vector with 20,000 real number values representing the gene expression for all 20,000 genes for an individuals.
+	* Repeate this process with a second human patient, outputing another vector with 20,000 scalar values
+	* Ultimately, you have an array where each column represents and individual's whole mRNA expression over 20,000 cells and each row represents the expression level of a particular gene (1 out of 20,000 rows) across multiple individuals.
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
