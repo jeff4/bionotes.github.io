@@ -724,7 +724,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 		* And that difference is somewhat closer to Neanderthal by about 3%. This implies that during the later modern human migration out of Africa, they interbreed a little bit with Neanderthals and share some SNPs with Neanderthals. These SNPs are shared across Eurasians, but *not* with ancestral modern human Africans.
 
 ## Lecture 20: Observing the Genome to Probe Function
-* October 12, 2020
+* October 12-17, 2020 
 * Polygenic disease
 * How do we artificially indel genes. Knock-in and knock-out of genes.
 
@@ -788,6 +788,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
+* October 17, 2020
+
+### Adding a Gene
+* Up to this point, we are able to move from almost every point in the coat-of-arms to any other point. 
+	* We can sequence a gene to figure out the protein it codes. 
+	* Given a protein, we can determine it's associated gene using the *clone by protein expression* method. 
+	* Given a function, we can isolate it's associated protein through biochemical purification. 
+	* Also given a function, we can figure out its associated gene through a classic mutant hunt or by cloning the gene via: (a) complementation DNA or (b) positional
+* However, we are not able to go from Protein to Function or from Gene to Function. This lecture shows us how to go from Gene to Function. And via cloning by expresssion, we get Protein to Function "for free"
+
+
 ---		
 
 # Checklist
@@ -830,8 +841,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Finish watching supplemental videos (see Lecture 18; video segments 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
-* **Lecture 20: Observing the Genome to Probe Function**
-* Lecture 21: Perturbing the Genome to Probe Function
+* <del>Lecture 20: Observing the Genome to Probe Function</del>
+* **Lecture 21: Perturbing the Genome to Probe Function**
 
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
