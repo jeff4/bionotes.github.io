@@ -760,6 +760,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * The strategy: Don't try to sequence the entire genome for many individuals. This is what to do...we know that there are about 1-2 million locations for SNPs. We build a [DNA chip](https://en.wikipedia.org/wiki/DNA_microarray) where each of its 1M chip regions looks *only* at the known 1-2 million SNP locations. 
 * We can then use that DNA chip to quickly screen thousands of humans. And quickly build a comprehensive library [(HapMap)](https://en.wikipedia.org/wiki/International_HapMap_Project)
 * The definition of haplotype is simply a block of DNA in the chromosome where several closely located SNPs are inherited together. In this context, we are using **the second definition** described at [the Wiki article for Haplotype](https://en.wikipedia.org/wiki/Haplotype).
+* Example: Age-Related Macular Degeneration *aka* [**AMRD**](https://en.wikipedia.org/wiki/Macular_degeneration). From HapMap studies, we discovered that an SNP on the gene coding for [complement factor H](https://en.wikipedia.org/wiki/Factor_H#Age-related_macular_degeneration) where the tyrosine located at residue 402 is replaced by a histidine. And this variant is correlated with a 35% higher chance of developing AMRD.
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
