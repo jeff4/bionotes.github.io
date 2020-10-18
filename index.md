@@ -797,6 +797,17 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* Given a function, we can isolate it's associated protein through biochemical purification. 
 	* Also given a function, we can figure out its associated gene through a classic mutant hunt or by cloning the gene via: (a) complementation DNA or (b) positional
 * However, we are not able to go from Protein to Function or from Gene to Function. This lecture shows us how to go from Gene to Function. And via cloning by expresssion, we get Protein to Function "for free"
+* Opposite of the mutant hunt. We are going to do knock-in genes to *create* mutants.
+* Add plasmids to mutants missing a gene to revert to wildtype is cloning gene via complementation.
+* One can inject DNA into a fertilized mouse embryo and then implant that egg into a hormonally prepared mother mouse who will give birth to the transgenic offspring.
+* Another technique is to use embryonic stem cells.
+	* Right after the [blastocyst](https://en.wikipedia.org/wiki/Blastocyst) stage, an embryo enters [**inner cell mass (ICM)**](https://en.wikipedia.org/wiki/Inner_cell_mass) stage–also called *embryoblast* or [*pluriblast*](https://en.wikipedia.org/wiki/Pluriblast).
+	* One can extract from the ICM an [embryonic stem cell (*aka* ESC)](https://en.wikipedia.org/wiki/Embryonic_stem_cell).
+	* ESC cells are [pluripotent](https://en.wikipedia.org/wiki/Cell_potency#Pluripotency)
+	* And then transform those ESC in a petri dish with some genetic indels
+	* And then reimplant those ESC into another ICM embryo.
+	* When the ICM embryo comes to term and is born, it is a chimera with some of its original cells and some transformed cells.
+	* How to tell? Simplest way is to start with a black mouse ICM and inject transgenic white mouse cells. The pups which are born striped black and white have a mix of both types of cells.
 
 
 ---		
@@ -843,7 +854,8 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 * <del>Lecture 20: Observing the Genome to Probe Function</del>
 * **Lecture 21: Perturbing the Genome to Probe Function**
-* test
+* test test
+
 
 ### Unit 10: Disease, Science, and Society
 Lectures 22, 23, 24
