@@ -748,7 +748,11 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * So in this case, we can find the gene without a linkage map! However, this technique will *not* work if the disease is a dominant trait.
 
 ### Polygenic diseases
-* 
+* Classic Mendelian disease explains about 3-4000 diseases.
+* But most diseases, esp. the ones we hear most about, are not like clasical Mendelian genetics. Instead, they are polygenic diseases, e.g., many cancers, neurological disease, mental illnesses, cardiovascular disease, etc.
+* Example: PPAR-gamma helps regulate fat cells (adipocytes), fatty acid storage, and is involved in adult onset diabetes.
+	* About 15% of the population has the SNP variant that protects against diabetes.
+	* Conversely, about 85% of the population has the SNP variant that makes diabetes slightly more likely
 
 
 
