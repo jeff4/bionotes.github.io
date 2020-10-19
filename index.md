@@ -814,6 +814,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* First, we construct a synthetic piece of DNA that contains: (1) a copy of the desired gene, (2) an antibiotic resistance gene placed right in the middle of the desired gene, and (3) next to the gene we have a gene for  [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase).
 	* This means that when we inject the synthetic piece of DNA above into the cells, *only* when it recombines in exactly the right spot to knock out the host gene, will the cell survive b/c of the combination of anitbiotic resistance and thymidine kinase.
 	* BTW, the [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase) gene kills the host if the ES cell is placed in [HAT medium](https://en.wikipedia.org/wiki/Thymidine_kinase#Selection_of_hybridomas).
+	* This work leveraging homologous recombination and ES cells to create knockout mice was published in the 80s and early 90s was performed by [Mario Capecchi](https://en.wikipedia.org/wiki/Mario_Capecchi), [Oliver Smithies](https://en.wikipedia.org/wiki/Oliver_Smithies), and [Martin Evans](https://en.wikipedia.org/wiki/Martin_Evans) who were awarded [the Nobel Prize in 2007](https://www.nobelprize.org/prizes/medicine/2007/summary/).
 
 ### RNA Interference (RISC)
 ### TALENs
