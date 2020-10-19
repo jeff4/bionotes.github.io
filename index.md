@@ -788,7 +788,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
-* October 17, 2020
+* October 17-18, 2020
 
 ### Adding a Gene
 * Up to this point, we are able to move from almost every point in the coat-of-arms to any other point. 
@@ -814,6 +814,18 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* First, we construct a synthetic piece of DNA that contains: (1) a copy of the desired gene, (2) an antibiotic resistance gene placed right in the middle of the desired gene, and (3) next to the gene we have a gene for  [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase).
 	* This means that when we inject the synthetic piece of DNA above into the cells, *only* when it recombines in exactly the right spot to knock out the host gene, will the cell survive b/c of the combination of anitbiotic resistance and thymidine kinase.
 	* BTW, the [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase) gene kills the host if the ES cell is placed in [HAT medium](https://en.wikipedia.org/wiki/Thymidine_kinase#Selection_of_hybridomas).
+
+### RNA Interference (RISC)
+### TALENs
+### CRISPR
+
+## Lecture 22: Familial Hypercholesterolemia
+* October 18, 2020
+
+## Lecture 23: Cancer Biology
+
+## Lecture 24: Science and Society–DNA and the Law
+
 
 
 ---		
@@ -859,10 +871,13 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
 * <del>Lecture 20: Observing the Genome to Probe Function</del>
-* **Lecture 21: Perturbing the Genome to Probe Function**
+* <del>Lecture 21: Perturbing the Genome to Probe Function</del>
+*  Rewatch Lec21 last half on RNAi, TALEN, CRISPR
 
 ### Unit 10: Disease, Science, and Society
-Lectures 22, 23, 24
+* **Lecture 22: Familial Hypercholesterolemia**
+* Lecture 23: Cancer Biology
+* Lecture 24: Science and Society–DNA and the Law
 
 
 ---
