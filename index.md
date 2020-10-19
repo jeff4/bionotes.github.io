@@ -815,6 +815,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* This means that when we inject the synthetic piece of DNA above into the cells, *only* when it recombines in exactly the right spot to knock out the host gene, will the cell survive b/c of the combination of anitbiotic resistance and thymidine kinase.
 	* BTW, the [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase) gene kills the host if the ES cell is placed in [HAT medium](https://en.wikipedia.org/wiki/Thymidine_kinase#Selection_of_hybridomas).
 	* This work leveraging homologous recombination and ES cells to create knockout mice was published in the 80s and early 90s was performed by [Mario Capecchi](https://en.wikipedia.org/wiki/Mario_Capecchi), [Oliver Smithies](https://en.wikipedia.org/wiki/Oliver_Smithies), and [Martin Evans](https://en.wikipedia.org/wiki/Martin_Evans) who were awarded [the Nobel Prize in 2007](https://www.nobelprize.org/prizes/medicine/2007/summary/).
+* Incidentally, the knockout strategy described above only works if there is an antibiotic that kills mammalian cells *in vitro*. These do exist and examples are [neoymycin](https://en.wikipedia.org/wiki/Neomycin#Molecular_biology) and [geneticin](https://en.wikipedia.org/wiki/G418).
+
+###loxP and selective knockouts
+* starts at 21:08 out of 31:48 in the second video segment of the lecture
 
 ### RNA Interference (RISC)
 ### TALENs
