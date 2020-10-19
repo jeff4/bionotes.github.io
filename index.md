@@ -810,7 +810,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* How to tell? Simplest way is to start with a black mouse ICM and inject transgenic white mouse cells. The pups which are born striped black and white have a mix of both types of cells.
 	* Finally, does the genetic modification breed true? It depends on which of the chimeric cells made it into the germline of the pup. If no, then mutations stay in the pup. If yes, then the mutations are passed on to the following generation.
 * What happens in the petri dish before re-implantation?
-	* How do we target a desired gene we want to knock out? We use **negative selection**, aka, if the desired gene transfer did *not* happen, then the ES cell fails to survive. Specifically, we pair the knock-in gene we wish to insert with a [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase) gene which kills the host if the ES cell is placed in [HAT medium](https://en.wikipedia.org/wiki/Thymidine_kinase#Selection_of_hybridomas).
+	* How do we target a desired gene we want to knock out? We use **negative selection**, aka, if the desired gene transfer did *not* happen, then the ES cell fails to survive. 
+	* First, we construct a synthetic piece of DNA that contains: (1) a copy of the desired gene, (2) an antibiotic resistance gene placed right in the middle of the desired gene, and (3) next to the gene we have a gene for  [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase).
+	* This means that when we inject the synthetic piece of DNA above into the cells, *only* when it recombines in exactly the right spot to knock out the host gene, will the cell survive b/c of the combination of anitbiotic resistance and thymidine kinase.
+	* BTW, the [thymidine kinase](https://en.wikipedia.org/wiki/Thymidine_kinase) gene kills the host if the ES cell is placed in [HAT medium](https://en.wikipedia.org/wiki/Thymidine_kinase#Selection_of_hybridomas).
 
 
 ---		
