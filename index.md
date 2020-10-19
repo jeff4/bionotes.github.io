@@ -869,7 +869,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * <del>Lecture 19: Secrets of the Human Genome</del>
 * Finish watching supplemental videos (see Lecture 18; video segments 16 and 18) on Sanger and Illumina Sequencing by Niall Lennon.
 
-### Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function
+### <del>Unit 9: Genomics II - Observing and Perturbing the Genome to Probe Function</del>
 * <del>Lecture 20: Observing the Genome to Probe Function</del>
 * <del>Lecture 21: Perturbing the Genome to Probe Function</del>
 *  Rewatch Lec21 last half on RNAi, TALEN, CRISPR
