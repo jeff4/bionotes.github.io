@@ -100,6 +100,8 @@ permalink: /organic-chemistry/
 		* However, when an acid-base reaction involves formation of a **new bond** to some other element (esp. carbon), chemists typically say nucleophile (for Lewis Base donating an electron pair) or electrophile (for Lewis Acid accepting an electron pair).
 * October 8: Started chapter 2, skimmed through sections on &#963;-bonds (single) and &#960; - bonds (part of double or triple bonds). Also VESPR theory and Stereoismers. 
 * October 12-13: Completed problems 2-24 and 2-25
+* October 15-19: Completed problems 2-26, 2-27, 2-28
+* October 20-21: Read about resonance-stabilization (p. 13-16) and problems 2-29, 2-30
 
 #### Bond-Dipole moments (p. 59-60)
 * LG Wade, Chapter 2, Section 2-9A (10/11/2020)
