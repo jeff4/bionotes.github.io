@@ -105,7 +105,7 @@ permalink: /organic-chemistry/
 
 ### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
-* See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and this short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
+* See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
 
 #### Bond-Dipole moments (p. 59-60)
 * LG Wade, Chapter 2, Section 2-9A (10/11/2020)
