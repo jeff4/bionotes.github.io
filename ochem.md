@@ -102,11 +102,12 @@ permalink: /organic-chemistry/
 * October 12-13: Completed problems 2-24 and 2-25
 * October 15-19: Completed problems 2-26, 2-27, 2-28
 * October 20-21: Read about resonance-stabilization (p. 13-16) and problems 2-29, 2-30
+* October 22-23: Continued resonance stabilization reading, including example of formaldehyde and drawing tables from p. 9 and p. 13. (See handwritten JH notes 10/23/2020)
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
 * See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
-* **See p. 13 for a very important table** to see common charges on atoms in organic compounds and ions.
+* **See p. 13 for a very important table** to see common charges on atoms in organic compounds and ions. See also handwritten JH notes 10/23/2020
 
 #### Bond-Dipole moments (p. 59-60)
 * LG Wade, Chapter 2, Section 2-9A (10/11/2020)
