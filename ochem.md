@@ -103,6 +103,7 @@ permalink: /organic-chemistry/
 * October 15-19: Completed problems 2-26, 2-27, 2-28
 * October 20-21: Read about resonance-stabilization (p. 13-16) and problems 2-29, 2-30
 * October 22-23: Continued resonance stabilization reading, including example of formaldehyde and drawing tables from p. 9 and p. 13. (See handwritten JH notes 10/23/2020)
+* October 24-25: More work on resonance. Chatted with Mary C. about repetitive day to day nature of benchwork.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
