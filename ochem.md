@@ -102,10 +102,11 @@ permalink: /organic-chemistry/
 * October 12-13: Completed problems 2-24 and 2-25
 * October 15-19: Completed problems 2-26, 2-27, 2-28
 * October 20-21: Read about resonance-stabilization (p. 13-16) and problems 2-29, 2-30
-* October 22-23: Continued resonance stabilization reading, including example of formaldehyde and drawing tables from p. 9 and p. 13. (See handwritten JH notes 10/23/2020)
+* October 22-23: Continued resonance stabilization reading, including example of formaldehyde and drawing tables from p. 9 and p. 13. (See handwritten JH notes 10/23, 10/27, 10/28/2020)
 * October 24: More work on resonance. Chatted with Mary C. about repetitive day to day nature of benchwork.
 * October 25: Completed Solved Problem 1-2 on resonance forms (p. 16)
 * October 26: Completed Problem 1-7 on resonance (p.17)
+* October 27: Redrew table of common bonds and charges for atoms in organic molecules, inspired by Table on p. 13. 
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
