@@ -622,7 +622,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ### Physical mapping 
 * In contrast to the genetic mapping discussed in the section above, physcial mapping involves examining various plasmids you've plated out on a petrie plate.
 * Chromosomal walking using multiple probes on other side of the HD or CF gene.
-* But HD, gusella had to take 10 years to sequence that specific HD gene! after being lucky with the 12th try to find the associated gene marker
+* But HD, Gusella had to take 10 years to sequence that specific HD gene! after being lucky with the 12th try to find the associated gene marker
 
 ### Human Genome Project
 * Rough draft, about 90% complete, published February 2001.
@@ -819,6 +819,14 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 ###loxP and selective knockouts
 * starts at 21:08 out of 31:48 in the second video segment of the lecture
+
+
+## Tuesday, October 27, 2020
+* Listened to beginning of Manolis Kellis' third interview with Lex Fridman. He said there are 6 million SNPs in the HG, which seems to be fewer than the 20m cited by Lander in Lecture 18 > Human Genome Project section.
+
+
+
+
 
 ### RNA Interference (RISC)
 ### TALENs
