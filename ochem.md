@@ -109,6 +109,8 @@ permalink: /organic-chemistry/
 * October 27: Redrew table of common bonds and charges for atoms in organic molecules, inspired by Table on p. 13. 
 * October 28: More resonance exercises, including Problem 1-8f re: [formamide](https://en.wikipedia.org/wiki/Formamide).
 
+## October 29: Next Exercises to solve. End of Chapter 1: *Problems 1-37 through 1-41* on *p. 36-37*
+
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
 * See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
