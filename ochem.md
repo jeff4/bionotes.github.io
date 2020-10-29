@@ -107,13 +107,14 @@ permalink: /organic-chemistry/
 * October 25: Completed Solved Problem 1-2 on resonance forms (p. 16)
 * October 26: Completed Problem 1-7 on resonance (p.17)
 * October 27: Redrew table of common bonds and charges for atoms in organic molecules, inspired by Table on p. 13. 
-* October 28: More resonance exercises
+* October 28: More resonance exercises, including Problem 1-8f re: [formamide](https://en.wikipedia.org/wiki/Formamide).
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
 * See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
 * **See p. 13 for a very important table** to see common charges on atoms in organic compounds and ions. See also handwritten JH notes 10/23/2020
 * See Wade p. 15 for example of **H<sub>2</sub>C=NH<sub>2</sub>** which is a [Primary Aldimine](https://en.wikipedia.org/wiki/Imine#Nomenclature_and_classification), a type of [**imine**](https://en.wikipedia.org/wiki/Imine) b/c there is a C=N double bond.
+* Problem 1-8f on p. 17 refers to [**formamide** aka **methanamide**](https://en.wikipedia.org/wiki/Formamide) which has the chemical structure **HC(=O)NH<sub>2</sub>**.
 
 #### Bond-Dipole moments (p. 59-60)
 * LG Wade, Chapter 2, Section 2-9A (10/11/2020)
