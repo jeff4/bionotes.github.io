@@ -107,6 +107,7 @@ permalink: /organic-chemistry/
 * October 25: Completed Solved Problem 1-2 on resonance forms (p. 16)
 * October 26: Completed Problem 1-7 on resonance (p.17)
 * October 27: Redrew table of common bonds and charges for atoms in organic molecules, inspired by Table on p. 13. 
+* October 28: More resonance exercises
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
