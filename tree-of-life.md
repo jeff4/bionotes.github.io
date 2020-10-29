@@ -29,14 +29,13 @@ permalink: /tree-of-life/
 * Plan to sequence representative samples of [all Bacteria and Archaea](https://press.igsb.anl.gov/earthmicrobiome/)
 * Slow acceptance of Carl Woese's 1977 new classification system with three domains: Bacteria, Archaea, and <a href="https://en.wikipedia.org/wiki/Kingdom_(biology)#Eukaryotic_supergroups">Eukarya</a>.
 	* As late as 1998, [Ernst Mayr was still advocating](https://www.pnas.org/content/95/17/9720) the re-unification of the Bacteria and Archaea domains back into a single taxon called Prokaryota.
-* 
 
 ## ENCyclopedia Of DNA Elements (ENCODE)
 * [Main website](https://www.encodeproject.org)
 * User's Guide paper from [2011](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
 * 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
 
-## <del>Completed papers</del>
+## Completed papers
 ### September, 2020
 * <del>1992 Diamond, [*Horrible Plant Species*](https://www.nature.com/articles/360627a0.pdf?origin=ppub)</del>
 * <del>1998 Mayr, [*Two Empires or Three?*](https://www.pnas.org/content/95/17/9720)</del>
