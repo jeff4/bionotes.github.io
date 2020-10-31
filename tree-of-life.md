@@ -6,7 +6,7 @@ permalink: /tree-of-life/
 
 ## Next papers to read
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
-* 2010 Theobald, [A formal test of the theory of universal common ancestry](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
+* 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
 * 2019 ENCODE+CRISPR, [*A Genome-Wide Framework for Mapping Gene Regulation via Cellular Genetic Screens*](https://pubmed.ncbi.nlm.nih.gov/30612741/)
 * 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
@@ -14,7 +14,6 @@ permalink: /tree-of-life/
 * [2018 EBP paper](https://www.pnas.org/content/115/17/4325)
 * [2017 EMP paper](https://www.nature.com/articles/nature24621)
 	* see also this [review article](https://phys.org/news/2017-11-earth-microbiome.html) from https://phys.org
-
 
 ## Why do we use 16S rRNA to classify bacteria and archaea?
 * [Researchgate comments](https://www.researchgate.net/post/Why_do_we_choose_16S_rRNA_instead_of_others_to_identify_microorganisms)
