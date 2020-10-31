@@ -5,6 +5,8 @@ permalink: /tree-of-life/
 
 
 ## Next papers to read
+* 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
+* 2010 Theobald, [A formal test of the theory of universal common ancestry](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
 * 2019 ENCODE+CRISPR, [*A Genome-Wide Framework for Mapping Gene Regulation via Cellular Genetic Screens*](https://pubmed.ncbi.nlm.nih.gov/30612741/)
 * 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
