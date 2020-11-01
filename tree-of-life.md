@@ -8,6 +8,9 @@ permalink: /tree-of-life/
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
+* 2007 Shotgun sequencing of ocean prokaryotic by Shibu Yooseph, Steven E. Brenner, J. Craig Venter et al.  [*The Sorcerer II Global Ocean Sampling
+Expedition: Expanding the Universe
+of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-2007-plosbiol-gos.pdf)
 * 2019 ENCODE+CRISPR, [*A Genome-Wide Framework for Mapping Gene Regulation via Cellular Genetic Screens*](https://pubmed.ncbi.nlm.nih.gov/30612741/)
 * 2020 ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)
 * ENCODE 2011, [Introductory User's Guide to the Encyclopedia of DNA Elements](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)
