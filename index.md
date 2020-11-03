@@ -788,7 +788,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 
 
 ## Lecture 21: Perturbing the Genome to Probe Function
-* October 17-18, 2020
+* Started October 17-18, 2020. Then completed November 2-4, 2020.
 
 ### Adding a Gene
 * Up to this point, we are able to move from almost every point in the coat-of-arms to any other point. 
@@ -820,9 +820,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 ###loxP and selective knockouts
 * starts at 21:08 out of 31:48 in the second video segment of the lecture
 
-
-## Tuesday, October 27, 2020
-* Listened to beginning of Manolis Kellis' third interview with Lex Fridman. He said there are 6 million SNPs in the HG, which seems to be fewer than the 20m cited by Lander in Lecture 18 > Human Genome Project section.
 
 
 
