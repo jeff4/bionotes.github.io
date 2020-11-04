@@ -108,8 +108,9 @@ permalink: /organic-chemistry/
 * October 26: Completed Problem 1-7 on resonance (p.17)
 * October 27: Redrew table of common bonds and charges for atoms in organic molecules, inspired by Table on p. 13. 
 * October 28: More resonance exercises, including Problem 1-8f re: [formamide](https://en.wikipedia.org/wiki/Formamide).
+* October 29 - November 2: More resonance exercises. End of Chapter 1: Problems 1-37 through 1-41 on p. 36-37
+* November 3, 2020: AAAA election day!
 
-## October 29: Next Exercises to solve. End of Chapter 1: *Problems 1-37 through 1-41* on *p. 36-37*
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
