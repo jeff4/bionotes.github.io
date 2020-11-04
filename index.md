@@ -818,6 +818,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 * Incidentally, the knockout strategy described above only works if there is an antibiotic that kills mammalian cells *in vitro*. These do exist and examples are [neoymycin](https://en.wikipedia.org/wiki/Neomycin#Molecular_biology) and [geneticin](https://en.wikipedia.org/wiki/G418).
 
 ###loxP and selective knockouts
+* November 4: Day after 2020 election, restarted this lecture
 * starts at 21:08 out of 31:48 in the second video segment of the lecture
 
 
