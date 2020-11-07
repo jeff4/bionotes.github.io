@@ -817,6 +817,9 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* This work leveraging homologous recombination and ES cells to create knockout mice was published in the 80s and early 90s was performed by [Mario Capecchi](https://en.wikipedia.org/wiki/Mario_Capecchi), [Oliver Smithies](https://en.wikipedia.org/wiki/Oliver_Smithies), and [Martin Evans](https://en.wikipedia.org/wiki/Martin_Evans) who were awarded [the Nobel Prize in 2007](https://www.nobelprize.org/prizes/medicine/2007/summary/).
 * Incidentally, the knockout strategy described above only works if there is an antibiotic that kills mammalian cells *in vitro*. These do exist and examples are [neoymycin](https://en.wikipedia.org/wiki/Neomycin#Molecular_biology) and [geneticin](https://en.wikipedia.org/wiki/G418).
 
+### Subtracting a Gene
+* How do we do this? If we just use a restriction enzyme, it will randomly cut all over the place. How do we target a specific gene knockout? (12:06 out of 31:48) on November 6.
+
 ###loxP and selective knockouts
 * November 4: Day after 2020 election, restarted this lecture
 * starts at 21:08 out of 31:48 in the second video segment of the lecture
