@@ -5,8 +5,12 @@ permalink: /tree-of-life/
 
 
 ## Next papers to read
+* 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/)
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
+* 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
 * 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
+
+### Other papers to read
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
 * 2007 Shotgun sequencing of ocean prokaryotic by Shibu Yooseph, Steven E. Brenner, J. Craig Venter et al.  [*The Sorcerer II Global Ocean Sampling
 Expedition: Expanding the Universe
@@ -50,3 +54,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * <del>2007 Goldenfeld and Woese, [*Biology's Next Revolution: The emerging picture of microbes as gene-swapping collectives demands a revision of such concepts as organism, species, and evolution itself*](https://www.nature.com/articles/445369a)</del>
 * 10/29/2020: <del>2017 Killeen [*The non-Darwinian evolution of behavers and behaviors*](https://www.researchgate.net/publication/322143232_The_non-Darwinian_evolution_of_behavers_and_behaviors)</del>
 * 10/29/2020: <del>ENCODE, [*Nature Perspectives on ENCODE*](https://www.nature.com/articles/s41586-020-2449-8)</del>
+
+### November, 2020
+* 11/07/2020: <del>2004, Donoghue and Gautheir, [*Implementing the PhyloCode*](https://donoghuelab.yale.edu/sites/default/files/141_mjd_tree04.pdf)</del>
+	* See also the [PhyloCode website](http://phylonames.org/code/preface/#properties)
