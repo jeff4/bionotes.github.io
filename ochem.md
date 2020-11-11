@@ -111,7 +111,7 @@ permalink: /organic-chemistry/
 * October 29 - November 5: More resonance exercises. End of Chapter 1: Problems 1-37 through 1-30 on p. 36-37
 * November 6-7: Completed Problems 1-40, 1-41 on on p. 36-37
 * November 7-8: Problems 2-30, 2-31 on p. 80
-* November 9: Problems 2-32, 2-33
+* November 9-10: Problems 2-32, 2-33
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
