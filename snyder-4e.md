@@ -15,6 +15,18 @@ permalink: /snyder-4e/
 	* p.6 - [Patrick Forterre suggested in 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1450140/) that all three domains lived in RNA world and all three independently developed DNA as the archival medium from three distinct infections from three different DNA viruses.
 * **Domain 1: Bacteria (p. 3)**
 	* Challenging to use [traditional phenetics](https://en.wikipedia.org/wiki/Phenetics) to classify bacteria based on their shapes, sizes, and appearances even though there is great diversity here. Better to use 16s of [rRNA](https://en.wikipedia.org/wiki/Ribosomal_RNA#Sequence_Conservation_and_Stability).
+	* Cyanobacteria were originally confused for plants (deprecated name: blue-green algae) because they have chlorophyll and are often filamentous. In fact [filamentous cyanobacteria are multicellular](https://www.eurekalert.org/pub_releases/2019-07/ez-hmc071219.php).
+	* Gram-staining
+		* Gram-positive bacteria have a thick outer structure consisting of an inner membrane surrounded by a thicker wall. This is where the Gram dye accumulates
+		* Gram-negative bacteria have a thinner covering consisting of two soft membranes: inner and outer thin membranes.  
+	* **Gram-positive** species turn deep blue 
+		* High G+C percentage in DNA branch: actinomycetes, Mycobacterium
+		* Low G+C percentage in DNA branch include Actinobacteria and Firmicutes (Bacillus, clostridia, lactic acid bacteria, mycoplasms)
+	* **Gram-negative** species turn pink
+		* Streptomyces spp
+		* Proteobacteria, e.g., E. coli, Psudomonas, Rhizobium
+		* 
+		* 
 * **Domain 2: Archaea (p. 3-5)**
 	* Most [extremophiles](https://en.wikipedia.org/wiki/Extremophile) are archaea, but archaea are also live in many non-extreme environmments (p.5)
 	* Two primary phyla:
