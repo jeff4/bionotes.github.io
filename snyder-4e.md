@@ -18,7 +18,7 @@ permalink: /snyder-4e/
 	* Most [extremophiles](https://en.wikipedia.org/wiki/Extremophile) are archaea, but archaea are also live in many non-extreme environmments (p.5)
 	* Two primary phyla:
 		* [Euryarchaeota](https://en.wikipedia.org/wiki/Euryarchaeota) which include methanogens, halophiles, and hyperthermophiles
-		* [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota) which include sulfur-dependent thermophiles and perhaps the most well-studied archeaon *[Sulfolobus solfataricus*](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) 
+		* [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota) which include sulfur-dependent thermophiles and perhaps the most well-studied archeaon [*Sulfolobus solfataricus*](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) 
 * **Domain 3: Eukaryotes (p. 5)**
 	* Includes all nucleus- and organelle-bearing species such as the multicellular kingdoms plants, animals, fungi, as well as all single-celled eukaryotes such as yeast and all [protists](https://en.wikipedia.org/wiki/Protist).
 	* From a cladistic perspective, Protista is paraphyletic.
