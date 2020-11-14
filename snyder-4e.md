@@ -7,11 +7,12 @@ permalink: /snyder-4e/
 * Authors: Larry Snyder, Joseph E. Peters, Tina M. Hekin, Wendy Champness
 * Fourth Edition, 2013
 
-## Chapter 1
+## Introduction
 ### Three Domains of Life  (p. 3-5) 
 * Why three domains? 
 	* "Sequence data show that *Homo sapiens* differ from chimpanzees by only about 2% of DNA sequence while 25-50% of the genes in a typical bacterium are unique to the species." (p. 3)
 	* Also, while mammals diverged from each other in the ~100mya, bacterial lineages diverged on the order of billions of years ago.
+	* p.6 - [Patrick Forterre suggested in 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1450140/) that all three domains lived in RNA world and all three independently developed DNA as the archival medium from three distinct infections from three different DNA viruses
 * **Domain 1: Bacteria (p. 3)**
 	* Challenging to use [traditional phenetics](https://en.wikipedia.org/wiki/Phenetics) to classify bacteria based on their shapes, sizes, and appearances even though there is great diversity here. Better to use 16s of [rRNA](https://en.wikipedia.org/wiki/Ribosomal_RNA#Sequence_Conservation_and_Stability).
 * **Domain 2: Archaea (p. 3-5)**
@@ -23,3 +24,4 @@ permalink: /snyder-4e/
 	* Includes all nucleus- and organelle-bearing species such as plants, animals, fungi, as well as all single-celled eukaryotes (e.g., yeast and all other [protists](https://en.wikipedia.org/wiki/Protist)).
 	* From a cladistic perspective, Protista is paraphyletic.
 	* "In spite of widely diverse appearances, lifestyles, and relative complexity, all eukaryotes are remarkably similar at the biochemical level, particularly in their pathways for macromolecular synthesis."
+	* [Endosymbiotic Theory](https://en.wikipedia.org/wiki/Symbiogenesis) posits that mitochondria are descended from [*Alphaproteobacteria*](https://en.wikipedia.org/wiki/Alphaproteobacteria) while chloroplasts are derived from ancestral [*Cyanobacteria*](https://en.wikipedia.org/wiki/Cyanobacteria).
