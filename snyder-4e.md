@@ -12,7 +12,7 @@ permalink: /snyder-4e/
 * Why three domains? 
 	* "Sequence data show that *Homo sapiens* differ from chimpanzees by only about 2% of DNA sequence while 25-50% of the genes in a typical bacterium are unique to the species." (p. 3)
 	* Also, while mammals diverged from each other in the ~100mya, bacterial lineages diverged on the order of billions of years ago.
-	* p.6 - [Patrick Forterre suggested in 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1450140/) that all three domains lived in RNA world and all three independently developed DNA as the archival medium from three distinct infections from three different DNA viruses
+	* p.6 - [Patrick Forterre suggested in 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1450140/) that all three domains lived in RNA world and all three independently developed DNA as the archival medium from three distinct infections from three different DNA viruses.
 * **Domain 1: Bacteria (p. 3)**
 	* Challenging to use [traditional phenetics](https://en.wikipedia.org/wiki/Phenetics) to classify bacteria based on their shapes, sizes, and appearances even though there is great diversity here. Better to use 16s of [rRNA](https://en.wikipedia.org/wiki/Ribosomal_RNA#Sequence_Conservation_and_Stability).
 * **Domain 2: Archaea (p. 3-5)**
@@ -25,3 +25,17 @@ permalink: /snyder-4e/
 	* From a cladistic perspective, Protista is paraphyletic.
 	* "In spite of widely diverse appearances, lifestyles, and relative complexity, all eukaryotes are remarkably similar at the biochemical level, particularly in their pathways for macromolecular synthesis."
 	* [Endosymbiotic Theory](https://en.wikipedia.org/wiki/Symbiogenesis) posits that mitochondria are descended from [*Alphaproteobacteria*](https://en.wikipedia.org/wiki/Alphaproteobacteria) while chloroplasts are derived from ancestral [*Cyanobacteria*](https://en.wikipedia.org/wiki/Cyanobacteria).
+
+### Bacteriology Techniques and Advantages (p. 6-8)
+* Bacteria are haploid
+* Short generation times (20 minutes for *E. coli*)
+* Asexual reproduction
+* Colony growth on agar plates
+* Colony purification (p. 7) and selection (p. 8)
+* Serial dilutions
+* Storing stocks of bacterial strains
+* Genetic Exchange
+
+### Phage Genetics
+
+### A Brief History of Bacterial Molecular Genetics
