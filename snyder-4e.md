@@ -20,5 +20,6 @@ permalink: /snyder-4e/
 		* [Euryarchaeota](https://en.wikipedia.org/wiki/Euryarchaeota) which include methanogens, halophiles, and hyperthermophiles
 		* [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota) which include sulfur-dependent thermophiles and perhaps the most well-studied archeaon [*Sulfolobus solfataricus*](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) 
 * **Domain 3: Eukaryotes (p. 5)**
-	* Includes all nucleus- and organelle-bearing species such as the multicellular kingdoms plants, animals, fungi, as well as all single-celled eukaryotes such as yeast and all [protists](https://en.wikipedia.org/wiki/Protist).
+	* Includes all nucleus- and organelle-bearing species such as plants, animals, fungi, as well as all single-celled eukaryotes (e.g., yeast and all other [protists](https://en.wikipedia.org/wiki/Protist)).
 	* From a cladistic perspective, Protista is paraphyletic.
+	* "In spite of widely diverse appearances, lifestyles, and relative complexity, all eukaryotes are remarkably similar at the biochemical level, particularly in their pathways for macromolecular synthesis."
