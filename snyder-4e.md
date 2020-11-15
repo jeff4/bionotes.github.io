@@ -13,9 +13,13 @@ permalink: /snyder-4e/
 	* "Sequence data show that *Homo sapiens* differ from chimpanzees by only about 2% of DNA sequence while 25-50% of the genes in a typical bacterium are unique to the species." (p. 3)
 	* Also, while mammals diverged from each other in the ~100mya, bacterial lineages diverged on the order of billions of years ago.
 	* p.6 - [Patrick Forterre suggested in 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1450140/) that all three domains lived in RNA world and all three independently developed DNA as the archival medium from three distinct infections from three different DNA viruses.
+* **Note, [spp.](https://en.wikipedia.org/wiki/Bacterial_taxonomy) refers to "several different unknown species under a known genus".**
 * **Domain 1: Bacteria (p. 3)**
 	* Challenging to use [traditional phenetics](https://en.wikipedia.org/wiki/Phenetics) to classify bacteria based on their shapes, sizes, and appearances even though there is great diversity here. Better to use 16s of [rRNA](https://en.wikipedia.org/wiki/Ribosomal_RNA#Sequence_Conservation_and_Stability).
 	* Cyanobacteria were originally confused for plants (deprecated name: blue-green algae) because they have chlorophyll and are often filamentous. In fact [filamentous cyanobacteria are multicellular](https://www.eurekalert.org/pub_releases/2019-07/ez-hmc071219.php).
+	* [*Streptomyces*](https://en.wikipedia.org/wiki/Streptomyces) are gram-positive and are the largest genus of [Actinobacteria](https://en.wikipedia.org/wiki/Actinobacteria). Appearance-wise, they form hyphae and stalks of spores which make them look like fungi.  
+	* [*Caulobacter*](https://en.wikipedia.org/wiki/Caulobacter_crescentus) spp. are gram-negative and have both free-swimming and sessile forms that attach to surfaces through a holdfast structure.
+	* *Myxococcus* are a type of gram-negative [myxobacteria](https://en.wikipedia.org/wiki/Myxobacteria) that are similar to slime molds in that they can change from free-living single-celled organisms into aggregations of fruiting bodies.
 	* [Gram-staining](https://en.wikipedia.org/wiki/Gram_stain)
 		* The [primary stain is crystal violet](https://en.wikipedia.org/wiki/Gram_stain#Staining_mechanism) which accumulates in petidoglycan. [Petidoglycan](https://en.wikipedia.org/wiki/Peptidoglycan) is a polymer of sugar and amino acids and forms aa thick mesh-like material outside the plasma membrane of bacteria. 
 			* Petidoglyocan contributes 50-90% to the cell envelope for **Gram-positive bacteria** but only ~10% of the cell envelope for **Gram-negative bacteria**.
@@ -23,12 +27,12 @@ permalink: /snyder-4e/
 			* The Gram-negative bacteria are counterstained with [safranin](https://en.wikipedia.org/wiki/Safranin) and turn pink.
 	* **Gram-positive** species turn purple after stain
 		* High G+C percentage in DNA branch: actinomycetes, Mycobacterium
+			* *Streptomyces* the most important genus of Actinobacteria. *Streptomyces spp* are an attractive alternative to *E. coli* when producing [industrial quantities of biotech materials](https://en.wikipedia.org/wiki/Streptomyces#Biotechnology). *Streptomyces* produce over two-thirds of clinically useful antibiotics of natural origin. 
 		* Low G+C percentage in DNA branch include Actinobacteria and Firmicutes (Bacillus, clostridia, lactic acid bacteria, mycoplasms)
 	* **Gram-negative** species turn pink after sstain
-		* Streptomyces spp
 		* Proteobacteria, e.g., E. coli, Psudomonas, Rhizobium
-		* 
-		* 
+		* [*Caulobacter*](https://en.wikipedia.org/wiki/Caulobacter_crescentus) spp. which are free-living and sessile
+		* *Myxococcus* spp. such as [*Myxococcus xanthus*](https://en.wikipedia.org/wiki/Myxococcus_xanthus) 
 * **Domain 2: Archaea (p. 3-5)**
 	* Most [extremophiles](https://en.wikipedia.org/wiki/Extremophile) are archaea, but archaea are also live in many non-extreme environmments (p.5)
 	* Two primary phyla:
