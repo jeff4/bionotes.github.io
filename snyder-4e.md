@@ -16,13 +16,15 @@ permalink: /snyder-4e/
 * **Domain 1: Bacteria (p. 3)**
 	* Challenging to use [traditional phenetics](https://en.wikipedia.org/wiki/Phenetics) to classify bacteria based on their shapes, sizes, and appearances even though there is great diversity here. Better to use 16s of [rRNA](https://en.wikipedia.org/wiki/Ribosomal_RNA#Sequence_Conservation_and_Stability).
 	* Cyanobacteria were originally confused for plants (deprecated name: blue-green algae) because they have chlorophyll and are often filamentous. In fact [filamentous cyanobacteria are multicellular](https://www.eurekalert.org/pub_releases/2019-07/ez-hmc071219.php).
-	* Gram-staining
-		* Gram-positive bacteria have a thick outer structure consisting of an inner membrane surrounded by a thicker wall. This is where the Gram dye accumulates
-		* Gram-negative bacteria have a thinner covering consisting of two soft membranes: inner and outer thin membranes.  
-	* **Gram-positive** species turn deep blue 
+	* [Gram-staining](https://en.wikipedia.org/wiki/Gram_stain)
+		* The [primary stain is crystal violet](https://en.wikipedia.org/wiki/Gram_stain#Staining_mechanism) which accumulates in petidoglycan. [Petidoglycan](https://en.wikipedia.org/wiki/Peptidoglycan) is a polymer of sugar and amino acids and forms aa thick mesh-like material outside the plasma membrane of bacteria. 
+			* Petidoglyocan contributes 50-90% to the cell envelope for **Gram-positive bacteria** but only ~10% of the cell envelope for **Gram-negative bacteria**.
+			* After washing out excess crystal violet, only the Gram+ bacteria retain the stain, turning purple/violet.
+			* The Gram-negative bacteria are counterstained with [safranin](https://en.wikipedia.org/wiki/Safranin) and turn pink.
+	* **Gram-positive** species turn purple after stain
 		* High G+C percentage in DNA branch: actinomycetes, Mycobacterium
 		* Low G+C percentage in DNA branch include Actinobacteria and Firmicutes (Bacillus, clostridia, lactic acid bacteria, mycoplasms)
-	* **Gram-negative** species turn pink
+	* **Gram-negative** species turn pink after sstain
 		* Streptomyces spp
 		* Proteobacteria, e.g., E. coli, Psudomonas, Rhizobium
 		* 
