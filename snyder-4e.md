@@ -57,3 +57,9 @@ permalink: /snyder-4e/
 ### Phage Genetics
 
 ### A Brief History of Bacterial Molecular Genetics
+
+## Papers to read
+
+* 2006 Patrick Forterre, *Three RNA cells for ribosomal lineages and three DNA viruses to replicate their genomes: A hypothesis for the origin of cellular domain
+* [Genome Taxonomy Database (GTDB)](https://gtdb.ecogenomic.org/about) based in Australia 
+	* 2020 Parks, Chuvochina, Chaumeil, Rinke, Mussig and Hugenholtz [*A complete domain-to-species taxonomy for Bacteria and Archaea*](https://www.nature.com/articles/s41587-020-0501-8.epdf?sharing_token=Q8Ntvgu7CUHft65mrVkRr9RgN0jAjWel9jnR3ZoTv0NuJJgmOGJ37TFQTK1XhYvawjk9a8sY5lx6i4RatZht7MqURxjBPfJcIh3POvczQyYVR9AcDuvi_1tPoHmdE-M5Zte3EtqHf4mSJFKBLxj-j1O-b3H6bJddj1AU2MC6QDc%3D)
