@@ -56,7 +56,11 @@ permalink: /snyder-4e/
 
 ### Phage Genetics
 
-### A Brief History of Bacterial Molecular Genetics
+### A Brief History of Bacterial Molecular Genetics (p. 9)
+* Three types of lateral genetic transfer (LGT) aka [horizontal genetic transfer (HGT)](https://en.wikipedia.org/wiki/Horizontal_gene_transfer): 
+	1. [Transformation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_transformation)
+	1. [Conjugation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_conjugation)
+	1. [Transduction](https://en.wikipedia.org/wiki/Transduction_(genetics))
 
 ## Papers to read
 
