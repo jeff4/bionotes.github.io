@@ -58,9 +58,9 @@ permalink: /snyder-4e/
 
 ### A Brief History of Bacterial Molecular Genetics (p. 9)
 * Three types of lateral genetic transfer (LGT) aka [horizontal genetic transfer (HGT)](https://en.wikipedia.org/wiki/Horizontal_gene_transfer): 
-	1. [Transformation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_transformation)
-	1. [Conjugation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_conjugation)
-	1. [Transduction](https://en.wikipedia.org/wiki/Transduction_(genetics))
+	1. [Transformation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_transformation) – asynchronous absorption of DNA without viral vector
+	1. [Conjugation](https://en.wikipedia.org/wiki/Horizontal_gene_transfer#Bacterial_conjugation) sex between 2 connected bacteria via pilli
+	1. [Transduction](https://en.wikipedia.org/wiki/Transduction_(genetics)) – asynchronous transmission of DNA via viral vector
 
 ## Papers to read
 
