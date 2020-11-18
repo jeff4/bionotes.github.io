@@ -10,8 +10,9 @@ permalink: /tree-of-life/
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
 * 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
 
-### Other papers to read
+### Other papers and books to read
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
+* 2020 Xuhua Xia, [*A Mathematical Primer of Molecular Phylogenetics*](https://www.amazon.com/Mathematical-Primer-Molecular-Phylogenetics/dp/1771887559)
 * 2007 Shotgun sequencing of ocean prokaryotic by Shibu Yooseph, Steven E. Brenner, J. Craig Venter et al.  [*The Sorcerer II Global Ocean Sampling
 Expedition: Expanding the Universe
 of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-2007-plosbiol-gos.pdf)
