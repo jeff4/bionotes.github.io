@@ -113,6 +113,7 @@ permalink: /organic-chemistry/
 * November 7-8: Problems 2-30, 2-31 on p. 80
 * November 9-10: Problems 2-32, 2-33
 * November 11: Snyder, Peters, Henkin, and Champness [*Molecular Genetics of Biology 4th Edition*](https://www.abebooks.com/9781555816278/Molecular-Genetics-Bacteria-4th-Edition-1555816274/plp) arrived!
+* November 13-18: Problems 2-34, 2-35, 2-36, 2-37, 2-38, and 2-39
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
