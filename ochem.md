@@ -114,7 +114,10 @@ permalink: /organic-chemistry/
 * November 9-10: Problems 2-32, 2-33
 * November 11: Snyder, Peters, Henkin, and Champness [*Molecular Genetics of Biology 4th Edition*](https://www.abebooks.com/9781555816278/Molecular-Genetics-Bacteria-4th-Edition-1555816274/plp) arrived!
 * November 13-18: Problems 2-34, 2-35, 2-36, 2-37, 2-38, and 2-39
-* November 17: Sapp's *The New Foundations of Evolution: On the Tree of Life* arrived!
+* November 17: Sapp's *The New Foundations of Evolution: On the Tree of Life* arrived from library
+* December 1, 2020: Valentine's *On the Origin of Phyla* arrived from the library
+* December 3, 2020: Completed Problem 2-40. Completed Chapter 2!
+* December 4, 2020: Started Chapter 3 – Alkanes p. 83–126
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
