@@ -143,6 +143,11 @@ permalink: /organic-chemistry/
 ### Chapter 3: Structure and Stereochemistry of Alkanes p. 83–126
 * [Methylene groups](https://en.wikipedia.org/wiki/Methylene_group) are simply interior **–CH<sub>2</sub>–** groups. p. 84
 * Methane, ethane, propane, butane, pentane, hexane, heptane, etc. are all [homologs](https://en.wikipedia.org/wiki/Homology_(chemistry)).
+* Four Rules of Naming Alkanes per [IUPAC](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry):
+	1. The Main Chain
+	2. Numbering the Main Chain
+	3. Naming the Alkyl Group
+	4. Organizing Multiple Groups
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
