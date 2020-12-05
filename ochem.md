@@ -141,7 +141,8 @@ permalink: /organic-chemistry/
 * See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
 
 ### Chapter 3: Structure and Stereochemistry of Alkanes p. 83–126
-* [Methylene groups](https://en.wikipedia.org/wiki/Methylene_group) are simply interior **–CH<sub>2</sub>–** groups.
+* [Methylene groups](https://en.wikipedia.org/wiki/Methylene_group) are simply interior **–CH<sub>2</sub>–** groups. p. 84
+* Methane, ethane, propane, butane, pentane, hexane, heptane, etc. are all [homologs](https://en.wikipedia.org/wiki/Homology_(chemistry)).
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
