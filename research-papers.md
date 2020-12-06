@@ -3,8 +3,20 @@ title: Research Papers
 permalink: /tree-of-life/
 ---
 
-
-## Next papers to read
+### Next steps
+* Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and take notes, esp. bibliography connections to de Queiroz, Rose/Oakley, etc.
+	* **LGT**/HGT = lateral gene transfer = horizontal gene transfer
+	* **EGT** = endosymbiotic gene transfer
+	* **MS** = Modern Synthesis, mid-20th century NeoDarwinian Synthesis
+	* **EES** = Extended Evolutionary Synthesis
+	* **TOL** = Tree of Life
+	* **STOL** = Statistical Tree of Life
+	* **BSC** = Biological Species Concept
+	* **ANI** = Average Nucleotide Identity
+	* **HR** = Homologous Recombination
+	
+ 
+### Next papers to read
 * 1988 de Queiroz, [*Systematics and the Darwinian Revolution*](https://repository.si.edu/handle/10088/4662)
 * 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670)
 * 2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/)
