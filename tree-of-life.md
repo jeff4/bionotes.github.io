@@ -62,7 +62,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 
 ### November, 2020
 * 11/07/2020: <del>2004, Donoghue and Gautheir, [*Implementing the PhyloCode*](https://donoghuelab.yale.edu/sites/default/files/141_mjd_tree04.pdf)</del>
-	* See also the [PhyloCode website](http://phylonames.org/code/preface/#properties)
+	* <del>See also the [PhyloCode website](http://phylonames.org/code/preface/#properties)</del>
 * Began Sapp [*The New Foundations of Evolution: On the Tree of Life*](https://global.oup.com/academic/product/the-new-foundations-of-evolution-9780195388503?cc=us&lang=en&) (2009)
 
 ### December, 2020
