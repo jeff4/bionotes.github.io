@@ -1,5 +1,5 @@
 ---
-title: Tree of Life
+title: Research Papers
 permalink: /tree-of-life/
 ---
 
