@@ -5,11 +5,16 @@ permalink: /tree-of-life/
 
 
 ## Next papers to read
+* 1988 de Queiroz, *Systematics and the darwinian revolution*
+* 1988 de Queiroz and Donoghue, *Phylogenetic Systematics and The Species Problem*
+* 2007 Rose and Oakley, *The New Biology: Beyond The Modern Synthesis*
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
+* 2020 de Queiroz, *Species Concepts and Species Delimitation*
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
-* 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
+
 
 ### Other papers and books to read
+* 2010 Theobald, [*A formal test of the theory of universal common ancestry*](https://www.nature.com/articles/nature09014). See [full list of PDF articles](https://theobald.brandeis.edu/publications.php) at [Douglas Theobald's lab website](https://theobald.brandeis.edu).
 * 2015 Bacteria Culturomics by Lagier, Hugon, et al., [*The Rebirth of Culture in Microbiology through the Example of Culturomics to Study Huma Gut Microbiota*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284300/)
 * 2020 Xuhua Xia, [*A Mathematical Primer of Molecular Phylogenetics*](https://www.amazon.com/Mathematical-Primer-Molecular-Phylogenetics/dp/1771887559)
 * 2007 Shotgun sequencing of ocean prokaryotic by Shibu Yooseph, Steven E. Brenner, J. Craig Venter et al.  [*The Sorcerer II Global Ocean Sampling
@@ -58,6 +63,9 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 ### November, 2020
 * 11/07/2020: <del>2004, Donoghue and Gautheir, [*Implementing the PhyloCode*](https://donoghuelab.yale.edu/sites/default/files/141_mjd_tree04.pdf)</del>
 	* See also the [PhyloCode website](http://phylonames.org/code/preface/#properties)
+* Began Sapp [*The New Foundations of Evolution: On the Tree of Life*](https://global.oup.com/academic/product/the-new-foundations-of-evolution-9780195388503?cc=us&lang=en&) (2009)
 
 ### December, 2020
-* 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/)
+* Continued Sapp 2009
+* Reviewed Valentine [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
+* 12/06/2020: 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/)
