@@ -78,6 +78,6 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 ### December, 2020
 * Continued Sapp 2009
 * Reviewed Valentine [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
-* 12/06/2020: 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/)
+* 12/06/2020: <del> First read through 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) </del>
 * 12/06/2020: <del>1988 de Queiroz, [*Systematics and the Darwinian Revolution*](https://repository.si.edu/handle/10088/4662) -- good diagrams illustrating monophyletic vs. paraphyletic vs. polyphyletic, and strict speciation ancestry vs. interbreeding ancestry (Fig. 4) </del>
 * 12/07/2020: <del> 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670) - interbreeding populations vs. monophyletic definitions </del>
