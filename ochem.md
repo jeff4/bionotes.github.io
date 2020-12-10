@@ -118,7 +118,7 @@ permalink: /organic-chemistry/
 * December 1, 2020: Valentine's *On the Origin of Phyla* arrived from the library
 * December 3, 2020: Completed Problem 2-40. Completed Chapter 2!
 * December 4, 2020: Started Chapter 3 – Alkanes p. 83–126
-* 12/04 - 12/07: Completed Alkane Naming Rules, Problems 3-1, 3-2, 3-3 p. 86-90
+* 12/04 - 12/09: Completed Alkane Naming Rules, Problems 3-1, 3-2, 3-3, 3-4, 3-5 p. 86-90
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
