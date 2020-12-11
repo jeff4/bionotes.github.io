@@ -13,8 +13,7 @@ permalink: /tree-of-life/
 	* **STOL** = Statistical Tree of Life
 	* **BSC** = Biological Species Concept
 	* **ANI** = Average Nucleotide Identity
-	* **HR** = Homologous Recombination
-	
+	* **HR** = Homologous Recombination	
  
 ### Next papers to read
 * 2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/)
@@ -81,3 +80,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/06/2020: <del> First read through 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) </del>
 * 12/06/2020: <del>1988 de Queiroz, [*Systematics and the Darwinian Revolution*](https://repository.si.edu/handle/10088/4662) -- good diagrams illustrating monophyletic vs. paraphyletic vs. polyphyletic, and strict speciation ancestry vs. interbreeding ancestry (Fig. 4) </del>
 * 12/07/2020: <del> 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670) - interbreeding populations vs. monophyletic definitions </del>
+* 12/09/2020: <del>2016 Etienne G.J. Danchin, [*Lateral gene transfer in eukaryotes: tip of the iceberg or of the ice cube?*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0330-x) suggests that minimal LGT has happened recently in Eukaryota. However, common not just within Archaea and Bacteria but *between* those two domains as well even in relatively recent times</del>
