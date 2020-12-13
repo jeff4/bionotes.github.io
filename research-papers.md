@@ -16,6 +16,9 @@ permalink: /research-papers/
 	* **HR** = Homologous Recombination	
  
 ### Next papers to read
+* 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
+* 2010 Norman Pace [Mapping the Tree of Life: Progress and Prospects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
+* 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011)
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
