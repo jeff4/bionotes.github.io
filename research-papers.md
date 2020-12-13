@@ -16,7 +16,6 @@ permalink: /research-papers/
 	* **HR** = Homologous Recombination	
  
 ### Next papers to read
-* 2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/)
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
@@ -81,3 +80,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/06/2020: <del>1988 de Queiroz, [*Systematics and the Darwinian Revolution*](https://repository.si.edu/handle/10088/4662) -- good diagrams illustrating monophyletic vs. paraphyletic vs. polyphyletic, and strict speciation ancestry vs. interbreeding ancestry (Fig. 4) </del>
 * 12/07/2020: <del> 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670) - interbreeding populations vs. monophyletic definitions </del>
 * 12/09/2020: <del>2016 Etienne G.J. Danchin, [*Lateral gene transfer in eukaryotes: tip of the iceberg or of the ice cube?*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0330-x) suggests that minimal LGT has happened recently in Eukaryota. However, common not just within Archaea and Bacteria but *between* those two domains as well even in relatively recent times</del>
+* 12/13/2020: <del>* 2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). Excellent review of how 21st century biology is a reintegration on the order of Darwin in 1859, Modern Synthesis in mid-20th century. Also very helpful reviewers comments in the same PDF by [Doolitle](https://en.wikipedia.org/wiki/Ford_Doolittle) and [Eugene V. Koonin](https://en.wikipedia.org/wiki/Eugene_Koonin) esp. with regard to microbiology, bacterial LGT, etc. Also Koonin and authors debate how helpful it might be to call this new biology "Postmodern BIology".</del>
