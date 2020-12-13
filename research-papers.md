@@ -1,6 +1,6 @@
 ---
 title: Research Papers
-permalink: /tree-of-life/
+permalink: /research-papers/
 ---
 
 ### Next steps
