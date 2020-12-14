@@ -3,9 +3,9 @@ title: Home
 ---
 # Jeff's Notebook
 
-## Reading List: Researchc Papers and Books
+## Reading List: Research Papers and Books
 
-### To Do
+### To do
 * Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and take notes, esp. bibliography connections to de Queiroz, Rose/Oakley, etc.
 	* **LGT**/HGT = lateral gene transfer = horizontal gene transfer
 	* **EGT** = endosymbiotic gene transfer
