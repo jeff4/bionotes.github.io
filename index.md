@@ -58,7 +58,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 		* <del>[2017 EMP paper](https://www.nature.com/articles/nature24621)</del>
 		* <del>ENCODE 2011, [Introductory User's Guide to the Encyclopedia of DNA Elements](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)</del>
 		* <del>see also this [review article](https://phys.org/news/2017-11-earth-microbiome.html) from https://phys.org</del>
-	* ENCyclopedia Of DNA Elements (ENCODE)
+	* **ENC**yclopedia **O**f **D**na **E**lements (**ENCODE**)
 		* [Main website](https://www.encodeproject.org)
 		* <del>User's Guide paper from [2011](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)</del>
 		* 2019 ENCODE+CRISPR, [*A Genome-Wide Framework for Mapping Gene Regulation via Cellular Genetic Screens*](https://pubmed.ncbi.nlm.nih.gov/30612741/) 
