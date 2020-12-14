@@ -3,6 +3,10 @@ title: MIT Intro Bio Course 2013
 permalink: /lander-2013/
 ---
 
+# Notes on MIT 7.00x at edX
+*Course started: July 14, 2020*
+
+
 ### Different versions of Intro Bio course at MIT
 
 There is a special version of the MIT intro bio course that was optimized for edX called [7.00x, Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3) taught by [Eric Lander](https://www.broadinstitute.org/bios/eric-s-lander). Current lectures recorded in 2012-13 with updates circa 2015.
@@ -17,7 +21,7 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* [Spring 2018](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2018/)  *(The syllabus for Spring 2018 recommends [the Savada textbook](/sadava/))*
 	* [Spring 2013](https://ocw.mit.edu/courses/biology/7-013-introductory-biology-spring-2013/) 
 
-
+---
 ### Species count as of 2014 ([Sadava](/sadava/), p. 8)
 
 | Taxon    | Currently described species | Estimated number of living species |
@@ -32,8 +36,6 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 &#8224; *The [2018 Earth Biogenome Project paper](https://www.pnas.org/content/115/17/4325) cites 391,000 plant species as of 2016 (Lewin et al., p. 4326) per [this report](https://stateoftheworldsplants.org/2016/).*
 
 ---
-# Notes on MIT 7.00x at edX
-*Course started: July 14, 2020*
 
 ## Lecture 1: Introduction and the Biochemistry of Life
 ### July 14 - 20, 2020
