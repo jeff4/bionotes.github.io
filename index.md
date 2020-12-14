@@ -22,6 +22,7 @@ title: Home
 * 2010 Norman Pace [Mapping the Tree of Life: Progress and Prospects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 * 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011)
 * 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
+* **James W. Valentine** [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
@@ -78,7 +79,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * Began Sapp [*The New Foundations of Evolution: On the Tree of Life*](https://global.oup.com/academic/product/the-new-foundations-of-evolution-9780195388503?cc=us&lang=en&) (2009)
 
 ### December, 2020
-* Started rereading  Valentine [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
+* Started rereading Valentine [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
 * 12/06/2020: <del> First read through 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) </del>
 * 12/06/2020: <del>1988 de Queiroz, [*Systematics and the Darwinian Revolution*](https://repository.si.edu/handle/10088/4662) -- good diagrams illustrating monophyletic vs. paraphyletic vs. polyphyletic, and strict speciation ancestry vs. interbreeding ancestry (Fig. 4) </del>
 * 12/07/2020: <del> 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670) - interbreeding populations vs. monophyletic definitions </del>
