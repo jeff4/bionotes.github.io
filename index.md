@@ -19,7 +19,7 @@ title: Home
  
 ### Next papers to read
 * 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
-* 2010 Norman Pace [Mapping the Tree of Life: Progress and Prospects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
+* 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 * 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011)
 * 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * **James W. Valentine** [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
