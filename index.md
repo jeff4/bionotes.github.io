@@ -21,6 +21,11 @@ title: Home
 * 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
 * 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 	* **Homologous genes** are the superset. (p. 566) These are divided into: (a)  **orthologs** which have a common function among different organisms post-speciation;  (b) **paralogs** often have different functions but are the result of duplication and subsequent evolution and generally within same species; and (c) **xenologs** which are the result of LGT and so have evolved independently of the usual cellular line of descent.
+	* List of rRNA sequence databases p. 566
+		* US [NCBI](https://www.ncbi.nlm.nih.gov/home/about/) [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) has 2 million+ SSU rRNA
+		* [16S rRNA Greengenes database](https://greengenes.secondgenome.com) that may be deprecated; see [Yokono 2018](https://pubmed.ncbi.nlm.nih.gov/29717164/)
+		* [Ribosomal Database Project (RDP)](http://rdp.cme.msu.edu) and see [this associated 2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965039/)
+		* [SILVA](https://www.arb-silva.de/documentation/) from Germany; last updated in 2019. See [Wiki article](https://en.wikipedia.org/wiki/SILVA_ribosomal_RNA_database) and [2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531112/) 
 * 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011)
 * 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * **James W. Valentine** [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
