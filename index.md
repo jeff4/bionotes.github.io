@@ -26,7 +26,6 @@ title: Home
 	* **ANI** = Average Nucleotide Identity
 	* **HR** = Homologous Recombination	
 * 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
-* **James W. Valentine** [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
@@ -34,6 +33,7 @@ title: Home
 
 ### Other papers and books to read
 * **Robert L. Carroll** [*Patterns and Processes of Vertebrate Evolution*](/carroll-1997) (1997)
+* **James W. Valentine** [*On the Origin of Phyla*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo3616676.html) (2004)
 * **L.G. Wade** [*Organic Chemistry, 7th Edition*](/organic-chemistry/)
 * **Snyder et al** [*Molecular Genetics of Bacteria, 4th Edition*](/snyder-4e/)
 * [*MBOC*](/alberts-5e/) sections on DNA Replication/Repair, Transcription, Translation 
