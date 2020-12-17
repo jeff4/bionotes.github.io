@@ -1,5 +1,5 @@
 ---
-title: The New Biology: Beyond the Modern Synthesis
+title: The New Biology
 permalink: /rose-oakley-2007/
 ---
 
