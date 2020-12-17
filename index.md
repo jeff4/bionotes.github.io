@@ -6,10 +6,7 @@ title: Home
 ## Reading List
 
 ### Next papers to read
-* 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011)
-	* "In this retrospective, we view the 1977 paper by Woese and Fox from three standpoints. First, we discuss the specific accomplishments of this landmark paper and how the program of rsearch initiated and led by Woese from the late 1960s to the present day has spawned a revolution in microbiology and other fields...
-	* "Second, we discuss the place of that paper in the history of evolutionary biology, where its unprecedented use of molecular sequences associated with rRNA provided the first window into the deep timeline of life, one independent of theoretical prejudices that had flawed earlier efforts to classify life.
-	* "Finally we describe how the understandings sparked by the paper are bringing a new face to the study of evolution by compelling biologists to address foundational issues related to the very concepts of species and organism and bringing to the fore the deep limitations of earlier accounts of the evolutionary process." 
+* 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/).
 * 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
 * 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 	* **Homologous genes** are the superset. (p. 566) These are divided into: (a)  **orthologs** which have a common function among different organisms post-speciation;  (b) **paralogs** often have different functions but are the result of duplication and subsequent evolution and generally within same species; and (c) **xenologs** which are the result of LGT and so have evolved independently of the usual cellular line of descent.
@@ -18,7 +15,7 @@ title: Home
 		* [16S rRNA Greengenes database](https://greengenes.secondgenome.com) that may be deprecated; see [Yokono 2018](https://pubmed.ncbi.nlm.nih.gov/29717164/)
 		* [Ribosomal Database Project (RDP)](http://rdp.cme.msu.edu) and see [this associated 2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965039/)
 		* [SILVA](https://www.arb-silva.de/documentation/) from Germany; last updated in 2019. See [Wiki article](https://en.wikipedia.org/wiki/SILVA_ribosomal_RNA_database) and [2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531112/) 
-* Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and take notes, esp. bibliography connections to de Queiroz, Rose/Oakley, etc.
+* Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and [JH notes here](/booth-mariscal-2016/)
 	* **LGT**/HGT = lateral gene transfer = horizontal gene transfer
 	* **EGT** = endosymbiotic gene transfer
 	* **MS** = Modern Synthesis, mid-20th century NeoDarwinian Synthesis
@@ -95,4 +92,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/07/2020: <del> 1988 de Queiroz and Donoghue, [*Phylogenetic Systematics and The Species Problem*](https://repository.si.edu/handle/10088/4670) - interbreeding populations vs. monophyletic definitions </del>
 * 12/09/2020: <del>2016 Etienne G.J. Danchin, [*Lateral gene transfer in eukaryotes: tip of the iceberg or of the ice cube?*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0330-x) suggests that minimal LGT has happened recently in Eukaryota. However, common not just within Archaea and Bacteria but *between* those two domains as well even in relatively recent times</del>
 * 12/12/2020: <del>completed Sapp [*The New Foundations of Evolution: On the Tree of Life*](/sapp-2009/) (2009)</del>
-* 12/13/2020: <del>* 2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). Excellent review of how 21st century biology is a reintegration on the order of Darwin in 1859, Modern Synthesis in mid-20th century. Also very helpful reviewers comments in the same PDF by [Doolitle](https://en.wikipedia.org/wiki/Ford_Doolittle) and [Eugene V. Koonin](https://en.wikipedia.org/wiki/Eugene_Koonin) esp. with regard to microbiology, bacterial LGT, etc. Also Koonin and authors debate how helpful it might be to call this new biology "Postmodern BIology".</del>
+* 12/13/2020: <del>2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). 
+	* JH notes [here](/rose-oakley-2007/)
+	* Excellent review of how 21st century biology is a reintegration on the order of Darwin in 1859, Modern Synthesis in mid-20th century. 
+	* Also includes helpful reviewers comments in the same PDF by [Doolitle](https://en.wikipedia.org/wiki/Ford_Doolittle) and [Eugene V. Koonin](https://en.wikipedia.org/wiki/Eugene_Koonin) esp. with regard to microbiology, bacterial LGT, etc. Also Koonin and authors debate how helpful it might be to call this new biology "Postmodern BIology".</del>
