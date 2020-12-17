@@ -7,7 +7,7 @@ title: Home
 
 ### Next papers to read
 * 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/).
-* Reread [Rose and Oakley 2012](/rose-oakley-2012/)
+* Reread [Rose and Oakley 2012](/rose-oakley-2007/)
 * 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
 * 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 	* **Homologous genes** are the superset. (p. 566) These are divided into: (a)  **orthologs** which have a common function among different organisms post-speciation;  (b) **paralogs** often have different functions but are the result of duplication and subsequent evolution and generally within same species; and (c) **xenologs** which are the result of LGT and so have evolved independently of the usual cellular line of descent.
