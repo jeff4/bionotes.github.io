@@ -119,7 +119,8 @@ permalink: /organic-chemistry/
 * December 3, 2020: Completed Problem 2-40. Completed Chapter 2!
 * December 4, 2020: Started Chapter 3 – Alkanes p. 83–126
 * 12/04 - 12/10: Completed Alkane Naming Rules, Problems 3-1, 3-2, 3-3, 3-4, 3-5 p. 86-90
-* 12/12 - 12/15: Cycloalkanes naming rules and examples p. 104
+* 12/12 - 12/14: Cycloalkanes naming rules and examples p. 104
+* 12/14-12/16: Problems 3-14, 3-15
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
@@ -150,6 +151,7 @@ permalink: /organic-chemistry/
 	2. Numbering the Main Chain
 	3. Naming the Alkyl Group
 	4. Organizing Multiple Groups
+* **Geometric isomers** of cycloalkanes. A cycloalkane has two distinct faces. If substituent groups point towards the same face, they are **cis**. If the groups are oriented towards opposite faces, they are **trans**.  p. 105
 
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
