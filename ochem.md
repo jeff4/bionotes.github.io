@@ -120,7 +120,7 @@ permalink: /organic-chemistry/
 * December 4, 2020: Started Chapter 3 – Alkanes p. 83–126
 * 12/04 - 12/10: Completed Alkane Naming Rules, Problems 3-1, 3-2, 3-3, 3-4, 3-5 p. 86-90
 * 12/12 - 12/14: Cycloalkanes naming rules and examples p. 104
-* 12/14-12/16: Problems 3-14, 3-15
+* 12/14-12/16: Problems 3-14, 3-15, 3-16
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
