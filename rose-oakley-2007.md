@@ -1,6 +1,6 @@
 ---
 title: The New Biology: Beyond the Modern Synthesis
-permalink: /papers/rose-oakley-2007/
+permalink: /rose-oakley-2007/
 ---
 
 # [The New Biology: Beyond the Modern Synthesis](https://pubmed.ncbi.nlm.nih.gov/18036242/)
