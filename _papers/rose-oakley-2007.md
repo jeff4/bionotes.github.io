@@ -1,6 +1,6 @@
 ---
 title: Rose Oakley 2007
-permalink: /rose-2007/
+permalink: /rose-oakley-2007/
 ---
 ## [The New Biology: Beyond the Modern Synthesis](https://pubmed.ncbi.nlm.nih.gov/18036242/)
 
