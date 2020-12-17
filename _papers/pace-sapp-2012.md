@@ -6,7 +6,7 @@ permalink: /pace-sapp-2012/
 
 ## Abstract
 ### Background
- History of Woese et al.
+ History of Woese and Fox et al.
  
 ## Quotes
  * "In this retrospective, we view the 1977 paper by Woese and Fox from three standpoints. First, we discuss the specific accomplishments of this landmark paper and how the program of rsearch initiated and led by Woese from the late 1960s to the present day has spawned a revolution in microbiology and other fields...
