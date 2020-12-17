@@ -18,3 +18,6 @@ Like the physical sciences in the first half of the 20th Century, biology at the
 	* Fields integrated: genetics, paleontology, systematics, cytology within a new, expanded structure for biological thought.
 	* Shortcomings: did not yet understand details of molecular biology that would be clarified in the 1950s-1970s.
 	* "We [Rose and Oakley] are great fans of the achievements of the Modern Synthesis, particularly its clarity, its mathematically explicit foundations, and its capacity to make sense of a broad range of biological phenomona. In this respect, the Modern Synthesis shares many features with Newtonian physics."
+
+## Reviewers' comments 
+* Also includes helpful comments from reviewers [W. Ford Doolitle](https://en.wikipedia.org/wiki/Ford_Doolittle) and [Eugene V. Koonin](https://en.wikipedia.org/wiki/Eugene_Koonin) esp. with regard to microbiology, bacterial LGT, etc. Also Koonin and authors debate how helpful it might be to call this new biology "Postmodern BIology".
