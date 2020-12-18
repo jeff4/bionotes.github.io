@@ -26,6 +26,9 @@ permalink: /valentine-2004/
 * Type two: **Cumulative aggregative hierarchy** (Valentine and Mayr 1996) p. 18
 	* This is where a "commander" joins each higher level; compare with type one plain aggregative hierarchy of Linnean system where "nothing new joins the hierarchy at any given rank. Organisms are aggregated into species, these same species are aggregated into genera, and so forth..." *without* additional 'leaders' joining as we move up the ranks.
 	* Best example is the organization of armies.
+* Type three: **Constitutive hierarchy** (Mayr 1982). "Each of the units in "The units in each level form physical parts of the units on the next higher level."
+	* Example: the somatic hierarchy that underlies the construction of the organism."
+	* Atoms &#8594; molecules &#8594; organelles &#8594; cells &#8594; tissues &#8594; organs &#8594; organ systems &#8594; individual organisms.
 
 ### Natural Hierarchies Are Formed By Trees p. 22
 
@@ -55,5 +58,4 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
-
 
