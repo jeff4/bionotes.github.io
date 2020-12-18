@@ -18,7 +18,14 @@ permalink: /valentine-2004/
 	* Additionally there is the Linnean taxonomic hierarchy (see below).
 
 #### There Are Four Major Types of Hierarchical Structures p. 16
-* Type one: 
+* Type one: **Aggregative hierarchy** (Mayr 1982), exemplified by the classic Linnean taxonomic system. "The basic entities are discrete species, composed o individuals related by common descent, and identified by various biological attributes involving gene flow, and by morphological similarities."
+	* "The ranks (aka categories) are fomed on the basis of increasingly generalized morphological resemblances, given monophyly of the entities (taxa)."
+	* See Figure 1.5 on p. 17. 1.5A shows Linnaeus' original hierarchy for animals which had 5 levels (aka ranks): **4,400 species** organized into **312 genera** organized into **64 orders** organized into** 6 classes** all belonging to **1 Kingdom** Animalia. 
+	* However, one can organize all 4400 species into a "flatter hierarchy" with fewer ranks such as in Figure 1.5B. The 312 genera are all direct subcategories of Kingdom for a total of 3 ranks: Kingdom > Genus > Species.
+	* Conversely, one can have more of a "Peaked" Hierarcy as in Figure 1.5C, where the 4400 species are organized into 14 different ranks.
+* Type two: **Cumulative aggregative hierarchy** (Valentine and Mayr 1996) p. 18
+	* This is where a "commander" joins each higher level; compare with type one plain aggregative hierarchy of Linnean system where "nothing new joins the hierarchy at any given rank. Organisms are aggregated into species, these same species are aggregated into genera, and so forth..." *without* additional 'leaders' joining as we move up the ranks.
+	* Best example is the organization of armies.
 
 ### Natural Hierarchies Are Formed By Trees p. 22
 
@@ -48,15 +55,5 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
-
-
-
-
-
-
-
-
-
-
 
 
