@@ -8,34 +8,49 @@ permalink: /valentine-2004/
 * University of Chicago Press, 2004
 
 ## Chapter 1: The Nature of Phyla p. 7
+* The first few sections of Chapter 1 compare trees versus hierarchies. 
+	* I would say that in a biological context,  **trees** are positional structures moving through time. 
+		* They may be familiar pedigrees aka family trees. Pedigrees are simpler to understand if they are male line only or female line only.
+		* In the fossil record, there may be a single linear serial line of descent.
+		* In a molecularl phylogeny, there may be divergent paths but its unclear how much time has passed between each branch.
+		* In a sense, species are the "simplest units" to track in a trees. 
+			* Because below species level, sexual reproduction creates a reticulate, [anastomosic](https://en.wikipedia.org/wiki/Anastomosis) structure
+			* Whereas above the species level, taxa such as genera, families, orders, etc.have less "real" biological meaning.  In the biological historical record, the primary unit is species and it may be conceptually/theoretically confusing to have higher taxa intermingled/transposed onto the the geological record. 
+				* For example, during the Cambrian Explosion, it wasn't just new *phyla* that appeared; it was **new species** *representing* new phyla, classes, orders, families, etc. 
+				* And these are human concepts imposed on nature to bring order. Really, they were all just species.  
+	* In contrast, i would say that hierarchies are more conceptual structures; sets that contain subsets.
 ### Genealogical Histories Can Be Traced in Trees Which Are Positional Structures p. 13
 
 ### Natural Biological Hierarachies Are Nested Structures of Functional Entities That Emerge When Complex Systems Are Organized p. 16 
 * Several natural hierarchies associated with the origin and diversication of phyla:
 	* Somatic hierarchy which describes the organization of bodies into systems, organs, tissues, cells, etc. (Eldredge 1985)
 	* Ecological hierarchy (Valentine 1973b)
-	* "Regulome" genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to development
+	* "Regulome" *aka *genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to gene expression leading to cell metabolism, division, reproduction, development, and [apoptosis](https://en.wikipedia.org/wiki/Apoptosis).
 	* Additionally there is the Linnean taxonomic hierarchy (see below).
 
 #### There Are Four Major Types of Hierarchical Structures p. 16
 * Type one: **Aggregative hierarchy** (Mayr 1982), exemplified by the classic Linnean taxonomic system. "The basic entities are discrete species, composed o individuals related by common descent, and identified by various biological attributes involving gene flow, and by morphological similarities."
 	* "The ranks (aka categories) are fomed on the basis of increasingly generalized morphological resemblances, given monophyly of the entities (taxa)."
-	* See Figure 1.5 on p. 17. 1.5A shows Linnaeus' original hierarchy for animals which had 5 levels (aka ranks): **4,400 species** organized into **312 genera** organized into **64 orders** organized into** 6 classes** all belonging to **1 Kingdom** Animalia. 
+	* See Figure 1.5 on p. 17. 1.5A shows Linnaeus' original hierarchy for animals which had 5 levels (aka ranks): **4,400 species** organized into **312 genera** organized into **64 orders** organized into **6 classes** all belonging to **1 Kingdom** Animalia. 
 	* However, one can organize all 4400 species into a "flatter hierarchy" with fewer ranks such as in Figure 1.5B. The 312 genera are all direct subcategories of Kingdom for a total of 3 ranks: Kingdom > Genus > Species.
 	* Conversely, one can have more of a "Peaked" Hierarcy as in Figure 1.5C, where the 4400 species are organized into 14 different ranks.
+	* I would call these *conceptual hierarchies*
 * Type two: **Cumulative aggregative hierarchy** (Valentine and May 1996) p. 18
-	* This is where a "commander" joins each higher level; compare with type one plain aggregative hierarchy of Linnean system where "nothing new joins the hierarchy at any given rank. Organisms are aggregated into species, these same species are aggregated into genera, and so forth..." *without* additional 'leaders' joining as we move up the ranks.
-	* Best example is the organization of armies.
-* Type three: **Constitutive hierarchy** (Mayr 1982). "Each of the units in "The units in each level form physical parts of the units on the next higher level."
+	* This is where a new entities such as a 'commander' joins each higher level; compare with type one plain aggregative hierarchy of Linnean system where "nothing new joins the hierarchy at any given rank. Organisms are aggregated into species, these same species are aggregated into genera, and so forth..." *without* additional 'leaders' joining as we move up the ranks.
+	* Best example is the organization of armies which add commanders that did not appear in the below levels.
+	* I might call these *conceptual hierarchies plus emergent objects*.
+* Type three: **Constitutive hierarchy** (Mayr 1982). "The units in each level form physical parts of the units on the next higher level."
 	* Example: the somatic hierarchy that underlies the construction of the organism."
 	* Atoms &#8594; molecules &#8594; organelles &#8594; cells &#8594; tissues &#8594; organs &#8594; organ systems &#8594; individual organisms.
 	* Note that there is an alternative constitutive hierarchy between colonial organisms versus true multicellular metazoans. See Figure 1.7 on p. 19
+	* I agree with the name *constitutive hierarchies*.
 * Type four: **Cumulative constitutive hierarchy** (Valentine and May 1996) p. 20
-	* Like type two, "commanders" may join the hierarchy as we move up each rank, and this is actually a more accurate rendering of the nested organization of metazoans described in type three above.
+	* Like type two, new entities/objects/'commanders' may join the hierarchy as we move up each rank, and this is actually a more accurate rendering of the nested organization of metazoans described in type three above.
 	* Specifically, "the extracellular matrix of metazoans which forms the 'glue' that holdds most of them together, is not present in cells."
 	* "Extracellular matrix is a constitutent of tissues, however, and therefore it is present in all higher levels of the hierarchy such as organs, etc."
 	* Similarly, various intracellular fluids which are not part of cells but *are* a part of tissues, organs, etc.
-* The taxonomic (types 1 and 2) and somatic (types 3 and 4) hierarchies are logically joined at the level of the individual organism. 
+	* I would call these *constitutive hierarchies plus emergent objects*.
+* In biology, all four hierarchies are logically joined at the level of the individual organism. This includes the conceptual/taxonomic hierarchies (Type 1 and 2) as well as the constitutive hierarchies (Type 3 and 4).
 
 #### Hierarchies Help Sort Out Relations Among Biological Features
 * See reference to Peter Medawar's 1974 paper [*A Geometric Model of Reduction and Emergence*](https://books.google.com/books?hl=en&lr=&id=NMAf65cDmAQC&oi=fnd&pg=PA57&ots=_AiER-J6Sw&sig=WkFwEV1u_-7AxgTnbnJOyQvfAV0#v=onepage&q&f=false).  p. 20
@@ -72,15 +87,6 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
-
-
-
-
-
-
-
-
-
 
 
 
