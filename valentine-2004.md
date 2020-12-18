@@ -38,8 +38,10 @@ permalink: /valentine-2004/
 * The taxonomic (types 1 and 2) and somatic (types 3 and 4) hierarchies are logically joined at the level of the individual organism. 
 
 #### Hierarchies Help Sort Out Relations Among Biological Features
-* See reference to Peter Medawar's 1974 paper [*A Geometric Model of Reduction and Emergence*](https://books.google.com/books?hl=en&lr=&id=NMAf65cDmAQC&oi=fnd&pg=PA57&ots=_AiER-J6Sw&sig=WkFwEV1u_-7AxgTnbnJOyQvfAV0#v=onepage&q&f=false). As one moves upwards from elementary particles, there is less infinite possiblity of what can be built, but the "complexity and richness of form and function encountered on the cellular level far outshines the drab sameness of collections of elementary particles." p. 21
+* See reference to Peter Medawar's 1974 paper [*A Geometric Model of Reduction and Emergence*](https://books.google.com/books?hl=en&lr=&id=NMAf65cDmAQC&oi=fnd&pg=PA57&ots=_AiER-J6Sw&sig=WkFwEV1u_-7AxgTnbnJOyQvfAV0#v=onepage&q&f=false).  p. 20
+* As one moves upwards from elementary particles, there is less infinite possiblity of what can be built, but the "complexity and richness of form and function encountered on the cellular level far outshines the drab sameness of collections of elementary particles." p. 21
 
+##### The effects of levels upon one another are quite asymmetrical p. 21
 
 
 ### Natural Hierarchies Are Formed By Trees p. 22
