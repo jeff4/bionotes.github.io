@@ -14,7 +14,7 @@ permalink: /valentine-2004/
 		* In the fossil record, there may be a single linear serial line of descent.
 		* In a molecularl phylogeny, there may be divergent paths but its unclear how much time has passed between each branch.
 		* In a sense, species are the "simplest units" to track in a trees. 
-			* Because below species level, sexual reproduction creates a reticulate, [anastomosic](https://en.wikipedia.org/wiki/Anastomosis) structure
+			* Because below species level, sexual reproduction creates a reticulate, [anastomotic](https://en.wikipedia.org/wiki/Anastomosis) structure
 			* Whereas above the species level, taxa such as genera, families, orders, etc.have less "real" biological meaning.  In the biological historical record, the primary unit is species and it may be conceptually/theoretically confusing to have higher taxa intermingled/transposed onto the the geological record. 
 				* For example, during the Cambrian Explosion, it wasn't just new *phyla* that appeared; it was **new species** *representing* new phyla, classes, orders, families, etc. 
 				* And these are human concepts imposed on nature to bring order. Really, they were all just species.  
@@ -90,15 +90,3 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
-
-
-
-
-
-
-
-
-
-
-
-
