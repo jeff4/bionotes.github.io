@@ -7,39 +7,47 @@ permalink: /valentine-2004/
 * Author: [James W. Valentine](https://ucmp.berkeley.edu/people/james-valentine/)
 * University of Chicago Press, 2004
 
-### Chapter 1: The Nature of Phyla p. 7
-#### Genealogical Histories Can Be Traced in Trees Which Are Positional Structures p. 13
+## Chapter 1: The Nature of Phyla p. 7
+### Genealogical Histories Can Be Traced in Trees Which Are Positional Structures p. 13
 
-#### Natural Biological Hierarachies Are Nested Structures of Functional Entities That Emerge When Complex Systems Are Organized p. 16 
+### Natural Biological Hierarachies Are Nested Structures of Functional Entities That Emerge When Complex Systems Are Organized p. 16 
+* Several natural hierarchies associated with the origin and diversication of phyla:
+	* Somatic hierarchy which describes the organization of bodies into systems, organs, tissues, cells, etc. (Eldredge 1985)
+	* Ecological hierarchy (Valentine 1973b)
+	* "Regulome" genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to development
+	* Additionally there is the Linnean taxonomic hierarchy (see below).
 
-#### Natural Hierarchies Are Formed By Trees p. 22
+#### There Are Four Major Types of Hierarchical Structures p. 16
+* Type one: 
 
-#### The Linnean Hierarchy Is Quasi-Natural p. 24
+### Natural Hierarchies Are Formed By Trees p. 22
 
-#### Trees and Hierarchies Have Very Distinct Properties p. 25
+### The Linnean Hierarchy Is Quasi-Natural p. 24
 
-#### Cladistics Is a Systematics Based On Trees p. 27
+### Trees and Hierarchies Have Very Distinct Properties p. 25
 
-#### Phyla Have Split Personalities p. 31
+### Cladistics Is a Systematics Based On Trees p. 27
 
-#### Molecular Branchings Can Define Clades While Morphological Features Define Linnean Taxa p. 32
+### Phyla Have Split Personalities p. 31
 
-#### Bodyplans Consist of Evolutionarily Disparate Features p. 33
+### Molecular Branchings Can Define Clades While Morphological Features Define Linnean Taxa p. 32
 
-### Chapter 3: Development and Bodyplans p. 76
+### Bodyplans Consist of Evolutionarily Disparate Features p. 33
 
-### Chapter 4: Morphological and Molecular Phylogenies p. 115
-#### Assumed Evolutionary Histories Affect Morphologically Based Phylogenetic Hypotheses
+## Chapter 3: Development and Bodyplans p. 76
 
-#### Evolutionary Histories Affect Molecularly Based Estimates of the Timing, Branching Patterns, And Order of Origins of Phyla p. 123
+## Chapter 4: Morphological and Molecular Phylogenies p. 115
+### Assumed Evolutionary Histories Affect Morphologically Based Phylogenetic Hypotheses
 
-#### Morphological And Molecular Homologies Are Decomposable p. 131
+### Evolutionary Histories Affect Molecularly Based Estimates of the Timing, Branching Patterns, And Order of Origins of Phyla p. 123
 
-#### There Is A Large Variety of Ways to Form Trees From Molecular Sequences p. 132
+### Morphological And Molecular Homologies Are Decomposable p. 131
 
-#### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
+### There Is A Large Variety of Ways to Form Trees From Molecular Sequences p. 132
 
-#### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
+### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
+
+### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
 
 
 
