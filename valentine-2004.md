@@ -19,6 +19,7 @@ permalink: /valentine-2004/
 				* For example, during the Cambrian Explosion, it wasn't just new *phyla* that appeared; it was **new species** *representing* new phyla, classes, orders, families, etc. 
 				* And these are human concepts imposed on nature to bring order. Really, they were all just species.  
 	* In contrast, hierarchies are more conceptual structures; sets that contain subsets such as Linnean taxonomy, constitutive structures like *bodies* (i.e., atoms &#8594; molecules &#8594; organelles &#8594; cells &#8594; tissues &#8594; organs) or ecosystems (organisms &#8594; populations &#8594; food webs &#8594; ecosystems &#8594; biome &#8594; biosphere, etc.)
+
 ### Genealogical Histories Can Be Traced in Trees Which Are Positional Structures p. 13
 
 [take notes here...]
@@ -89,5 +90,15 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
+
+
+
+
+
+
+
+
+
+
 
 
