@@ -27,7 +27,7 @@ permalink: /valentine-2004/
 * Several natural hierarchies associated with the origin and diversication of phyla:
 	* Somatic hierarchy which describes the organization of bodies into systems, organs, tissues, cells, etc. (Eldredge 1985)
 	* Ecological hierarchy (Valentine 1973b)
-	* "Regulome" *aka *genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to gene expression leading to cell metabolism, division, reproduction, development, and [apoptosis](https://en.wikipedia.org/wiki/Apoptosis).
+	* "Regulome" *aka* genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to gene expression leading to cell metabolism, division, reproduction, development, and [apoptosis](https://en.wikipedia.org/wiki/Apoptosis).
 	* Additionally there is the Linnean taxonomic hierarchy (see below).
 
 #### There Are Four Major Types of Hierarchical Structures p. 16
@@ -89,4 +89,5 @@ permalink: /valentine-2004/
 ### Although Molecular Phylogenies Produce Conflicting Topologies, They Have Also Produced a Growing Consensus on Major Alliances of Phyla p. 138
 
 ### Combined Morphological/Molecular Phylogenies of Phyla May Require Improved Assessments of Homologies To Be Successful p. 143
+
 
