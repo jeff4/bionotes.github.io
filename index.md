@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Jeff's Notebook
 ---
 # Jeff's Notebook
 
