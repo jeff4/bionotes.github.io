@@ -17,15 +17,6 @@ title: Jeff's Notebook
 		* [Ribosomal Database Project (RDP)](http://rdp.cme.msu.edu) and see [this associated 2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965039/)
 		* [SILVA](https://www.arb-silva.de/documentation/) from Germany; last updated in 2019. See [Wiki article](https://en.wikipedia.org/wiki/SILVA_ribosomal_RNA_database) and [2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531112/) 
 * Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and [JH notes here](/booth-mariscal-2016/)
-	* **LGT**/HGT = lateral gene transfer = horizontal gene transfer
-	* **EGT** = endosymbiotic gene transfer
-	* **MS** = Modern Synthesis, mid-20th century NeoDarwinian Synthesis
-	* **EES** = Extended Evolutionary Synthesis
-	* **TOL** = Tree of Life
-	* **STOL** = Statistical Tree of Life
-	* **BSC** = Biological Species Concept
-	* **ANI** = Average Nucleotide Identity
-	* **HR** = Homologous Recombination	
 * 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
