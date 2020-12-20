@@ -7,6 +7,11 @@ permalink: /valentine-2004/
 * Author: [James W. Valentine](https://ucmp.berkeley.edu/people/james-valentine/)
 * University of Chicago Press, 2004
 
+### next steps
+* complete notes on Chapter 1
+* absorb all of Chapters 3,4, and final section of Chapter 5 (hypotheses of why there was a Cambrian Explosion)
+* skim Chapter 3 on Development and cis/trans gene regulation as appropriate
+
 ## Chapter 1: The Nature of Phyla p. 7
 * The first few sections of Chapter 1 compare trees versus hierarchies. 
 	* My interpretation: in biological contexts,  **trees** are positional structures moving through time. 
