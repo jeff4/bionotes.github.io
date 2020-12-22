@@ -75,6 +75,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 
 ### November, 2020
 * 11/07/2020: <del>2004, Donoghue and Gautheir, [*Implementing the PhyloCode*](https://donoghuelab.yale.edu/sites/default/files/141_mjd_tree04.pdf). See also the [PhyloCode website](http://phylonames.org/code/preface/#properties)</del>
+* 11/11/2020: Began reading Snyder, Peters, Henkin, and Champness [*Molecular Genetics of Biology 4th Edition*](https://www.abebooks.com/9781555816278/Molecular-Genetics-Bacteria-4th-Edition-1555816274/plp)
 * Began Sapp [*The New Foundations of Evolution: On the Tree of Life*](/sapp-2009/) (2009)
 
 ### December, 2020
