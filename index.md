@@ -86,4 +86,5 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/12/2020: <del>completed Sapp [*The New Foundations of Evolution: On the Tree of Life*](/sapp-2009/) (2009)</del>
 * 12/13/2020: <del>2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). </del>
 	* JH notes [here](/rose-oakley-2007/)
-	* Excellent review of how 21st century biology is a reintegration on the order synthetic revolutions of Darwin (1859), Modern Synthesis (1930s-1940s). 
+	* Excellent review of how 21st century biology is a reintegration on the order synthetic revolutions of Darwin (1859), Modern Synthesis (1930s-1940s).
+* 12/20/2020: started [*Uncanny Valley*](https://us.macmillan.com/books/9780374719760) by Anna Wiener and researched phylogenetics journals and conferences.
