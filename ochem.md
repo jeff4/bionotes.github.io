@@ -123,6 +123,7 @@ permalink: /organic-chemistry/
 * 12/18 - 12/19: Played with 3-d model and 2-d drawings of cyclohexane, including Problems 3-20 and 3-21. See diagram of comparative energies of chair, half-chair, twist-boat, and boat conformations of cyclohexane in JH notebook Dec 18. See also nicely labeled [3-d animation here](https://www.youtube.com/watch?v=bPLREpfZ63I).
 * 12/20: Problem 3-24
 * 12/21: For review, drew molecular structures of purines and pyrimidines of DNA from memory. Copied early illustrations from Valentine re: types of organizational structures.
+* 12/23: Completed Solved Problem 3-3 on p. 117
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
