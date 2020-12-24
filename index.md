@@ -88,4 +88,6 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/13/2020: <del>2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). </del>
 	* JH notes [here](/rose-oakley-2007/)
 	* Excellent review of how 21st century biology is a reintegration on the order synthetic revolutions of Darwin (1859), Modern Synthesis (1930s-1940s).
-* 12/20/2020: started [*Uncanny Valley*](https://us.macmillan.com/books/9780374719760) by Anna Wiener and researched phylogenetics journals and conferences.
+* 12/20/2020: started [*Uncanny Valley*](https://us.macmillan.com/books/9780374719760) by Anna Wiener 
+* 12/21/2020: Researched phylogenetics journals and conferences.
+* 12/24/2020: Completed *Uncanny Valley*.
