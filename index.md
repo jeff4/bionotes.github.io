@@ -36,7 +36,31 @@ title: Jeff's Notebook
 Expedition: Expanding the Universe
 of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-2007-plosbiol-gos.pdf)
 
-
+### Examine and/or subscribe to these journals
+* Nature $225 per year
+	* Nature Reviews Microbiology
+	* Nature Microbiology
+	* Nature Reviews Molecular Cell Biology
+	* Nature Reviews Genetics
+	* Nature Methods
+	* Nature Plants
+* Science $25 per year
+* [Cell](https://www.cell.com/cell/subscribe) $339 per year
+	* [Trends in Ecology and Evolution](https://www.cell.com/trends/ecology-evolution/subscribe) $380 per year
+	* Virology: [Cell Host and Microbe](https://www.cell.com/cell-host-microbe/home)
+	* [Trends in Microbiology](https://www.cell.com/trends/microbiology/home)
+* [PNAS](https://www.pnas.org) - see pull-down menu for Biological Sciences for:
+	* Biochemistry, Biophysics and Computational Biology, Cell Biology, Evolution, Genetics, Microbiology, Plant Biology, Population Biology, Systems Biology
+* [Genome Biology](https://genomebiology.biomedcentral.com)
+* Oxford Academic
+	* [Molecular Biology and Evolution](https://academic.oup.com/mbe) - open access starting in 2021
+	* [Systematic Biology](https://academic.oup.com/sysbio/issue)
+* Cambridge University Press
+	* [Paleobiology](https://www.cambridge.org/core/journals/paleobiology)
+* [Microbiology and Molecular Biology Reviews](https://mmbr.asm.org)
+* [Annual Review of Plant Biology](https://www.annualreviews.org/journal/arplant)
+* [Fungal Diversity](https://www.springer.com/journal/13225)
+* See also https://www.scimagojr.com/journalrank.php?type=j&category=1105
 
 ## Completed papers
 ### September, 2020
