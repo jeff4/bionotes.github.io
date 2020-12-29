@@ -27,17 +27,18 @@ permalink: /valentine-2004/
 				* For example, during the Cambrian Explosion, it wasn't just new *phyla* that appeared; it was **new species** *representing* new phyla, classes, orders, families, etc. 
 				* And these are human concepts imposed on nature to bring order. Really, they were all just species.  
 	* In contrast, hierarchies are more conceptual structures; sets that contain subsets such as Linnean taxonomy, constitutive structures like *bodies* (i.e., atoms &#8594; molecules &#8594; organelles &#8594; cells &#8594; tissues &#8594; organs) or ecosystems (organisms &#8594; populations &#8594; food webs &#8594; ecosystems &#8594; biome &#8594; biosphere, etc.)
+	* p. 11 - For illustration of monophyly, paraphyly, and polyphyly, see illustration of Figure 1.3 in JH Bio Notes #3, 12/25/2020
 
 ### Genealogical Histories Can Be Traced in Trees Which Are Positional Structures p. 13
-
-[take notes here...]
-
+* See illustration of Figure 1.4 in JH Bio Notes #3, 12/26/2020
+ 
 ### Natural Biological Hierarachies Are Nested Structures of Functional Entities That Emerge When Complex Systems Are Organized p. 16 
 * Several natural hierarchies associated with the origin and diversication of phyla:
 	* Somatic hierarchy which describes the organization of bodies into systems, organs, tissues, cells, etc. (Eldredge 1985)
 	* Ecological hierarchy (Valentine 1973b)
 	* "Regulome" *aka* genomic hierarchies of genes, promoters, repressors, proteins, and other molecules related to gene expression leading to cell metabolism, division, reproduction, development, and [apoptosis](https://en.wikipedia.org/wiki/Apoptosis).
 	* Additionally there is the Linnean taxonomic hierarchy (see below).
+	* See illustration of Figure 1.6 in JH Bio Notes #3, 12/27/2020
 
 #### There Are Four Major Types of Hierarchical Structures p. 16
 * Type one: **Aggregative hierarchy** (Mayr 1982), exemplified by the classic Linnean taxonomic system. "The basic entities are discrete species, composed of individuals related by common descent, and identified by various biological attributes involving gene flow, and by morphological similarities."
