@@ -124,7 +124,7 @@ permalink: /organic-chemistry/
 * 12/20: Problem 3-24
 * 12/21: For review, drew molecular structures of purines and pyrimidines of DNA from memory. Copied early illustrations from Valentine re: types of organizational structures.
 * 12/24 - 12/27: Completed Solved Problems 3-3, 3-4 and Problem 3-25 on p. 117
-* 12/28 - 12/30: Completed Problems 3-27, 3-28 p. 118
+* 12/28 - 12/30: Completed Problems 3-27, 3-28, 3-29
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
