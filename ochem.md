@@ -125,7 +125,8 @@ permalink: /organic-chemistry/
 * 12/21: For review, drew molecular structures of purines and pyrimidines of DNA from memory. Copied early illustrations from Valentine re: types of organizational structures.
 * 12/24 - 12/27: Completed Solved Problems 3-3, 3-4 and Problem 3-25 on p. 117
 * 12/28 - 12/30: Completed Problems 3-27, 3-28, 3-29. Bicyclic carbon rings, bridghead naming rules based on # of intermediate carbons in the rings. Also used models to examine cis vs. trans isomers of [decalin](https://en.wikipedia.org/wiki/Decalin) and trans is more stable b/c cis forces what looks like a 90-degree angle between the 2 rings.
-* 12/31: Began problems at the end of Chapter 3. Completed Problem 3-33,  
+* 12/31: Began problems at the end of Chapter 3. Completed Problem 3-33.
+* 1/01/2020: Problems 3-34,  
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
