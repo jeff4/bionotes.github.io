@@ -21,6 +21,7 @@ title: Jeff's Notebook
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
+* 2020 Kapli, Yang, and Telford [*Phylogenetic tree building in the genomic age*](https://www.nature.com/articles/s41576-020-0233-0). Paper behind Nature Reviews Genetics paywall, despite Nature subscription.
 
 
 ### Other papers and books to read
