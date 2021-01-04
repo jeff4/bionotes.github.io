@@ -86,5 +86,5 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/13/2020: <del>2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). </del>
 	* JH notes [here](/rose-oakley-2007/)
 	* Excellent review of how 21st century biology is a reintegration on the order synthetic revolutions of Darwin (1859), Modern Synthesis (1930s-1940s).
-* 12/21/2020: Researched phylogenetics journals and conferences.
-* 12/30/2020: Restarted annual subscription to *Nature*.
+* 12/21/2020: <del>Researched phylogenetics journals and conferences.</del>
+* 12/30/2020: <del>Restarted annual subscription to *Nature*.</del>
