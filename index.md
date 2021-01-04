@@ -36,32 +36,6 @@ title: Jeff's Notebook
 Expedition: Expanding the Universe
 of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-2007-plosbiol-gos.pdf)
 
-### Examine and/or subscribe to these journals
-* Nature $225 per year
-	* Nature Reviews Microbiology
-	* Nature Microbiology
-	* Nature Reviews Molecular Cell Biology
-	* Nature Reviews Genetics
-	* Nature Methods
-	* Nature Plants
-* Science $25 per year
-* [Cell](https://www.cell.com/cell/subscribe) $339 per year
-	* [Trends in Ecology and Evolution](https://www.cell.com/trends/ecology-evolution/subscribe) $380 per year
-	* Virology: [Cell Host and Microbe](https://www.cell.com/cell-host-microbe/home)
-	* [Trends in Microbiology](https://www.cell.com/trends/microbiology/home)
-* [PNAS](https://www.pnas.org) - see pull-down menu for Biological Sciences for:
-	* Biochemistry, Biophysics and Computational Biology, Cell Biology, Evolution, Genetics, Microbiology, Plant Biology, Population Biology, Systems Biology
-* [Genome Biology](https://genomebiology.biomedcentral.com)
-* Oxford Academic
-	* [Molecular Biology and Evolution](https://academic.oup.com/mbe) - open access starting in 2021
-	* [Systematic Biology](https://academic.oup.com/sysbio/issue)
-* Cambridge University Press
-	* [Paleobiology](https://www.cambridge.org/core/journals/paleobiology)
-* [Microbiology and Molecular Biology Reviews](https://mmbr.asm.org)
-* [Annual Review of Plant Biology](https://www.annualreviews.org/journal/arplant)
-* [Fungal Diversity](https://www.springer.com/journal/13225)
-* See also https://www.scimagojr.com/journalrank.php?type=j&category=1105
-
 ## Completed papers
 ### September, 2020
 * <del>1998 Mayr, [*Two Empires or Three?*](https://www.pnas.org/content/95/17/9720)</del>
@@ -112,6 +86,5 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/13/2020: <del>2007 Rose and Oakley, [*The New Biology: Beyond The Modern Synthesis*](https://pubmed.ncbi.nlm.nih.gov/18036242/). </del>
 	* JH notes [here](/rose-oakley-2007/)
 	* Excellent review of how 21st century biology is a reintegration on the order synthetic revolutions of Darwin (1859), Modern Synthesis (1930s-1940s).
-* 12/20/2020: started [*Uncanny Valley*](https://us.macmillan.com/books/9780374719760) by Anna Wiener 
 * 12/21/2020: Researched phylogenetics journals and conferences.
-* 12/26/2020: Completed *Uncanny Valley*.
+* 12/30/2020: Restarted annual subscription to *Nature*.
