@@ -128,8 +128,8 @@ permalink: /organic-chemistry/
 * 12/31: Began problems at the end of Chapter 3. Completed Problem 3-33.
 * 1/01/2020: Problems 3-34, 3-35, 3-36
 * 1/02 - 1/04: Problems 3-37, 3-38, 3-39
-* 1/05: Problems 3-40. 3-41, 3-42.
-* 1/06: Started Chapter 4: Reactions
+* 1/05: Problems 3-40, 3-41, 3-42
+* 1/06: Problems 3-43, 3-44
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
