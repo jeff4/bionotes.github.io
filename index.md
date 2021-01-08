@@ -6,7 +6,7 @@ title: Jeff's Notebook
 ## Reading List
 
 ### Next papers to read
-* 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/).
+* Finish reading 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). Only need to read p.1016-1018 to complete.
 * Annotate and review [Rose and Oakley 2012](/rose-oakley-2007/)
 * 12/12/2020: History and Graph Theory (hierarchies, trees, networks, etc.)
 * 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
