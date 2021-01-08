@@ -163,6 +163,10 @@ permalink: /organic-chemistry/
 	4. Organizing Multiple Groups
 * **Geometric isomers** of cycloalkanes. A cycloalkane has two distinct faces. If substituent groups point towards the same face, they are **cis**. If the groups are oriented towards opposite faces, they are **trans**.  p. 105
 
+### Chapter 4: Chemical Reactions p. 127-168
+* Start with halogenation of alkanes
+* Thermodynamics, kinetics, and mechanism
+
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
 2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
