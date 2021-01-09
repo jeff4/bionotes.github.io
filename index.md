@@ -8,6 +8,7 @@ title: Jeff's Notebook
 ### Next papers to read
 * Finish reading 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). Only need to read p.1016-1018 to complete.
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
+	* also norman pace 1997 ref 24 re: how we agreed to 97% SSU rRNA sequence similarity as threshold for classiying bacteria as unique species...
 * Annotate and review [Rose and Oakley 2012](/rose-oakley-2007/)
 * 2010 Norman Pace [*Mapping the Tree of Life: Progress and Prospects*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786576/)
 	* **Homologous genes** are the superset. (p. 566) These are divided into: (a)  **orthologs** which have a common function among different organisms post-speciation;  (b) **paralogs** often have different functions but are the result of duplication and subsequent evolution and generally within same species; and (c) **xenologs** which are the result of LGT and so have evolved independently of the usual cellular line of descent.
