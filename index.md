@@ -6,7 +6,7 @@ title: Jeff's Notebook
 ## Reading List
 
 ### Next papers to read
-* take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
+* Take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
 	* also norman pace 1997 ref 24 re: how we agreed to 97% SSU rRNA sequence similarity as threshold for classiying bacteria as unique species...
 * Annotate and review [Rose and Oakley 2012](/rose-oakley-2007/)
