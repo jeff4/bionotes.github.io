@@ -94,3 +94,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 
 ### January, 2021
 * 1/08/2021: continued reading 2012 Pace, Sapp, Goldenfeld
+* 1/11/2021: continued reading Quammen *The Tangled Tree*
