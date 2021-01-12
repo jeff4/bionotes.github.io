@@ -95,3 +95,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 ### January, 2021
 * 1/08/2021: continued reading 2012 Pace, Sapp, Goldenfeld
 * 1/11/2021: continued reading Quammen *The Tangled Tree*
+* 1/12/2021: Reviewed some chapters of 2nd edition of Dawkins and Wong *The Ancestor's Tale* (2016), esp. chapters on bdelloid rotifers, "light harvesters" (cauliflower, redwood tree, humped bladderwort and [C-value](https://en.wikipedia.org/wiki/C-value), [Mixotrich protist](https://en.wikipedia.org/wiki/Mixotricha_paradoxa) within Australian termite and four levels of symbiosis including multiple endosymbionts), Archea, and Bacteria.
