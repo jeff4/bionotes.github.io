@@ -1,14 +1,12 @@
 ---
 title: Jeff's Notebook
 ---
-# Jeff and Eric's Notebook
+# Jeff's Notebook
 
 ## Reading List
 
 ### Next papers to read
 * Take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
-* [this link was in Markdown](www.google.com)
-* <a href="www.google.com"> this link was in HTML </a> 
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
 	* also norman pace 1997 ref 24 re: how we agreed to 97% SSU rRNA sequence similarity as threshold for classiying bacteria as unique species...
 * Annotate and review [Rose and Oakley 2012](/rose-oakley-2007/)
@@ -98,4 +96,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/08/2021: continued reading 2012 Pace, Sapp, Goldenfeld
 * 1/11/2021: continued reading Quammen *The Tangled Tree*
 * 1/12/2021: Reviewed some chapters of 2nd edition of Dawkins and Wong *The Ancestor's Tale* (2016), esp. chapters on bdelloid rotifers, "light harvesters" (cauliflower, redwood tree, humped bladderwort and [C-value](https://en.wikipedia.org/wiki/C-value), [Mixotrich protist](https://en.wikipedia.org/wiki/Mixotricha_paradoxa) within Australian termite and four levels of symbiosis including multiple endosymbionts), Archea, and Bacteria.
-* 1/13/2021: More reading on Quammen, including main reference to [inosculation](https://en.wikipedia.org/wiki/Inosculation). Need to start a new page for all Tangled Tree notes.
+* 1/13 - 1/14: More reading on Quammen, including main reference to [inosculation](https://en.wikipedia.org/wiki/Inosculation). Need to start a new page for all Tangled Tree notes.
