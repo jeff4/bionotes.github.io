@@ -49,8 +49,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* **4.0 B** ya: Earth cooled enough for life
 	* **3.7 B** ya: first evidence of prokaryotic life
 	* **2.0 - 1.5 B** ya: first eukaryotic life with nucleus
-	* **1.6 - 1.4 B** ya: [fungi split off](https://en.wikipedia.org/wiki/Evolution_of_fungi) from [other kingdoms of life](https://en.wikipedia.org/wiki/History_of_life#Chromatin,_nucleus,_endomembrane_system,_and_mitochondria)
-	* **500 mya**: first multicellular life just prior to Cambrian Explosion
+	* **1.6 - 1.4 B** ya: [fungi split off](https://en.wikipedia.org/wiki/Evolution_of_fungi) from [other kingdoms of life](https://en.wikipedia.org/wiki/History_of_life#Chromatin,_nucleus,_endomembrane_system,_and_mitochondria). According to *The Ancestor's Tale* by Dawkins and Wong, this occured [around 1.2 Bya](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale#Non-animal_eukaryotes)
+	* When did metazoans emerge?
+		* According to Lander's lecture, multicellular life appeared ~500 mya just prior to Cambrian Explosion
+		* Per [Erwin 2015](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0036), molecular clock studies estimate 750-800 mya although the first fossils are the Doushantuo embryos (~600 mya), the Australian Ediacaran fossils are from 580 mya, and the earliest undisputed bilaterians are from 542 mya.
 	* **5 mya**: first hominids aka Australopithecina or Hominina subtribe within the Hominidae Family.
 	* **100,000 ya**: first homo sapiens
 	* 1861 AD: MIT founded
