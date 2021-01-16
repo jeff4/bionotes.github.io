@@ -50,10 +50,10 @@ According to [this page](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals
 	* **3.7 B** ya: first evidence of prokaryotic life
 	* **2.0 - 1.5 B** ya: first eukaryotic life with nucleus
 	* **1.6 - 1.4 B** ya: [fungi split off](https://en.wikipedia.org/wiki/Evolution_of_fungi) from [other kingdoms of life](https://en.wikipedia.org/wiki/History_of_life#Chromatin,_nucleus,_endomembrane_system,_and_mitochondria). According to *The Ancestor's Tale* by Dawkins and Wong, this occured [around 1.2 Bya](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale#Non-animal_eukaryotes)
-	* *When did [metazoans](https://en.wikipedia.org/?title=Metazoan&redirect=no) emerge?*
+	* **When did [metazoans](https://en.wikipedia.org/?title=Metazoan&redirect=no) emerge?**
 		* According to Lander's lecture, multicellular life appeared ~500 mya just prior to Cambrian Explosion
 		* Per [Erwin 2015](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0036), molecular clock studies estimate multicellular animals emerged 750-800 mya
-		* The same [Erwin 2015](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0036) paper lists the fossil evidence which is closer to Landers' estimate. The Doushantuo embryos from ~600 mya are the earliest animal fossils we have. Next are the Australian Ediacaran fossils (580 mya). The earliest undisputed bilaterians are from 542 mya.
+		* The same [Erwin 2015](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0036) paper lists the fossil evidence which is closer to Landers' estimate. The Doushantuo embryos from **~600 mya are the earliest animal fossils** we have. Next are the Australian Ediacaran fossils (580 mya). The earliest undisputed bilaterians are from 542 mya.
 	* **5 mya**: first hominids aka Australopithecina or Hominina subtribe within the Hominidae Family.
 	* **100,000 ya**: first homo sapiens
 	* 1861 AD: MIT founded
