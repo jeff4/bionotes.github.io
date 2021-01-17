@@ -98,4 +98,5 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/12/2021: Reviewed some chapters of 2nd edition of Dawkins and Wong *The Ancestor's Tale* (2016), esp. chapters on bdelloid rotifers, "light harvesters" (cauliflower, redwood tree, humped bladderwort and [C-value](https://en.wikipedia.org/wiki/C-value), [Mixotrich protist](https://en.wikipedia.org/wiki/Mixotricha_paradoxa) within Australian termite and four levels of symbiosis including multiple endosymbionts), Archea, and Bacteria.
 * 1/13 - 1/14: More reading on Quammen, including main reference to [inosculation](https://en.wikipedia.org/wiki/Inosculation). Need to start a new page for all Tangled Tree notes.
 * 1/14: Finished Doolittle's 2000 Scientific American article [*Uprooting the Tree of Life*](https://www.bennington.edu/sites/default/files/sources/docs/uprooting%20the%20tree%20of%20life.pdf)
-* 1/15: Completed Quammen's *The Tangled Tree*
+* 1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.
+* 1/16: First issue of Nature with history of humerus
