@@ -1,6 +1,6 @@
 ---
 title: Glycolysis
-permalink: /glycolysis/
+permalink: /glycolysis-2/
 ---
 
 ## Glycolysis drawn from [Sadava](/sadava/), [Alberts](/alberts-5e/), and MIT lectures
