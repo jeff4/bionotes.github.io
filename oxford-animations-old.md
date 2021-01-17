@@ -1,6 +1,6 @@
 ---
 title: Oxford Molecular Biology Animations
-permalink: /oxford-animations/
+permalink: /oxford-animations-old/
 ---
 
 * Youtube animated videos to support [Molecular Biology: Principles of Genome Function](https://www.amazon.com/Molecular-Biology-Principles-Genome-Function/dp/0198788657/) (2nd Edition) by Nancy Craig, Rachel Green, Carol Greider, Gisela Storz, and Cynthia Wolberger. 
