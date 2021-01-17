@@ -3,6 +3,8 @@ description: An education in 21st century biology
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
-include: ['_papers']
+include: 
+  - _papers
+  - _other
 plugins:
   - jekyll-sitemap
