@@ -100,3 +100,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/14: Finished Doolittle's 2000 Scientific American article [*Uprooting the Tree of Life*](https://www.bennington.edu/sites/default/files/sources/docs/uprooting%20the%20tree%20of%20life.pdf)
 * 1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.
 * 1/16: First issue of Nature with history of humerus
+* 1/17: Sketched our Ring of Life, Historical Cone of Life
