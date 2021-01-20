@@ -7,5 +7,8 @@ permalink: /quammen-2018/
 * Author: [David Quammen](https://en.wikipedia.org/wiki/David_Quammen)
 * Simon and Schuster, 2018
 
-## Chapter 1-3
+## Chapter 1-2
 * Review of Darwin's early life
+
+## Chapter 3
+* p. 10 - Aristotle and organization of animals
