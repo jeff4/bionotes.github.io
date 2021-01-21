@@ -11,4 +11,8 @@ permalink: /quammen-2018/
 * Review of Darwin's early life
 
 ## Chapter 3
-* p. 10 - Aristotle and organization of animals
+* p. 10 - Quammen cites Revelations, the last book of the New Testament as an early example of the phrase "tree of life".  The [King James version](https://www.youtube.com/watch?v=x5c2iRHlAHA) of Revelations 22:1-2 reads: 
+	* *And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb*
+	* *In the midst of the street of it, and on either side of the river, was there** the tree of life**, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of nations.*
+	* See this passage per [the New International Version](https://www.biblegateway.com/passage/?search=Revelation%2022&version=NIV)
+* In the 4th century BCE, Aristotle organizes animals as a ladder with no mention of trees.
