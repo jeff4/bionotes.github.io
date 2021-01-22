@@ -7,6 +7,7 @@ permalink: /quammen-2018/
 * Author: [David Quammen](https://en.wikipedia.org/wiki/David_Quammen)
 * Simon and Schuster, 2018
 
+### Part I:
 ## Chapter 1-2
 * Review of Darwin's early life
 
@@ -16,3 +17,10 @@ permalink: /quammen-2018/
 	* *In the midst of the street of it, and on either side of the river, was there** the tree of life**, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of nations.*
 	* See this passage per [the New International Version](https://www.biblegateway.com/passage/?search=Revelation%2022&version=NIV)
 * In the 4th century BCE, Aristotle organizes animals as a ladder with no mention of trees.
+
+### Part II: A Separate Form of Life
+### Part III: Mergers and Acquisitions
+### Part IV: Big Tree
+### Part V: Infective Heredity
+### Part VI: Topiary
+### Part VII: E Pluribus Human
