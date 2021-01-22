@@ -19,10 +19,7 @@ permalink: /valentine-2004/
 		* In the fossil record, there may be a single linear serial line of descent.
 		* In a molecular phylogeny, there may be divergent paths but its unclear how much time has passed between each branch.
 		* In a sense, species are the "simplest units" to track in a trees. 
-			* Because below species level, sexual reproduction creates a **reticulate**, [**anastomotic**](https://en.wikipedia.org/wiki/Anastomosis) structure. 
-				* In 2018's [*The Tangled Tree*](https://www.amazon.com/Tangled-Tree-Radical-History-Life/dp/1476776628), David Quammen suggests an alternate term [**inosculation**](https://en.wikipedia.org/wiki/Inosculation) from [the Latin "to kiss" used in botany/gardening](https://books.google.com/books?id=bH6hDwAAQBAJ&pg=PA272&lpg=PA272&dq=david+quammen+tangled+tree+%22inosculation%22&source=bl&ots=Hbvn1Le0tt&sig=ACfU3U1TbqZID9XfXAYlnaMXNHTPH7pweA&hl=en&sa=X&ved=2ahUKEwji7LGpt9vtAhUTBs0KHZDPDkkQ6AEwDnoECAkQAg#v=onepage&q=david%20quammen%20tangled%20tree%20%22inosculation%22&f=false). (Quammen, p. 272)
-				* [*Inosculate*](https://www.dictionary.com/browse/inosculate) verb form
-				* [*Inosculated*](https://www.thefreedictionary.com/inosculated) adjective form
+			* Because below species level, sexual reproduction creates a **reticulated**, [**inosculated**](/inosculate-synonyms/),[**anastomotic**](https://en.wikipedia.org/wiki/Anastomosis) structure. 
 			* Whereas above the species level, taxa such as genera, families, orders, etc.have less "real" biological meaning.  In the biological historical record, the primary unit is species and it may be conceptually/theoretically confusing to have higher taxa intermingled/transposed onto the the geological record. 
 				* For example, during the Cambrian Explosion, it wasn't just new *phyla* that appeared; it was **new species** *representing* new phyla, classes, orders, families, etc. 
 				* And these are human concepts imposed on nature to bring order. Really, they were all just species.  
