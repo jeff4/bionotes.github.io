@@ -4,6 +4,7 @@ permalink: /inosculate-synonyms/
 ---
 
 ### Synonyms
+* *Network* instead of splitting, branching tree
 * Reticulated
 * Fused
 * [Anastomotic](https://en.wikipedia.org/wiki/Anastomosis)
