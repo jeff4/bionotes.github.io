@@ -16,7 +16,7 @@ permalink: /quammen-2018/
 	* *And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb*
 	* *In the midst of the street of it, and on either side of the river, was there** the tree of life**, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of nations.*
 	* See this passage per [the New International Version](https://www.biblegateway.com/passage/?search=Revelation%2022&version=NIV)
-* In the 4th century BCE, Aristotle organizes animals as a ladder with no mention of trees.
+* In the 4th century BCE, Aristotle organizes animals as a ladder with no mention of trees. Aristotle's linear "ladder of nature" is later Latinized to [*scala naturae*](https://sites.google.com/site/aristotlethebiologist/aristotle-s-biology/great-chain-of-being). (p. 10-11)
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
