@@ -6,6 +6,7 @@ title: Jeff's Notebook
 ## Reading List
 
 ### Next papers to read
+* Take notes on 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * Take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
 	* also norman pace 1997 ref 24 re: how we agreed to 97% SSU rRNA sequence similarity as threshold for classiying bacteria as unique species...
@@ -18,7 +19,6 @@ title: Jeff's Notebook
 		* [Ribosomal Database Project (RDP)](http://rdp.cme.msu.edu) and see [this associated 2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965039/)
 		* [SILVA](https://www.arb-silva.de/documentation/) from Germany; last updated in 2019. See [Wiki article](https://en.wikipedia.org/wiki/SILVA_ribosomal_RNA_database) and [2013 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531112/) 
 * Reread 2016 Booth, Mariscal, and Doolittle, [*The Modern Synthesis in Light of Microbial Genomics*](https://pubmed.ncbi.nlm.nih.gov/27482743/) and [JH notes here](/booth-mariscal-2016/)
-* 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * 2009 W. Ford Doolittle, [*The practice of classification and the theory of evolution, and what the demise of Charles Darwin's tree of life hypothesis means for both of them*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2009.0032)
 * 2007 de Queiroz, [*Species Concepts and Species Delimitation*](https://repository.si.edu/handle/10088/7670)
 * 2017 Doolittle and Brunet, [*On causal roles and selected effects: our genome is mostly junk*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0460-9)
@@ -101,3 +101,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.
 * 1/16: First issue of Nature with history of humerus
 * 1/17: Sketched our Ring of Life, Historical Cone of Life
+* 1/24: started reading 2016 Doolitle and Brunet
