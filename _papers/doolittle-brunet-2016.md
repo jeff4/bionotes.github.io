@@ -10,6 +10,11 @@ permalink: /doolittle-brunet-2016/
 ## Abstract
 *A universal Tree of Life (TOL) has long been a goal of molecular phylogeneticists, but reticulation at the level of genes and possibly at the levels of cells and species renders any simple interpretation of such a TOL, especially as applied to prokaryotes, problematic.*
 
+## Introduction
+
+"One of the several ways in which microbiology puts the neo-Darwinian synthesis in jeopardy is by the threatening to ['uproot the Tree of Life'](https://www.newscientist.com/article/mg20126921-600-why-darwin-was-wrong-about-the-tree-of-life/). Lateral gene transfer (LGT) is much more frequent than most biologists would have imageind up until about 20 years ago, so phylogenetic trees based on sequences of different prokayrotic genes are often different. How to tease out from such conflicting data something that might correspond to a single, universal Tree of Life becomes problematic. Moreover, since many important evolutionary transitions involve lineage fusions at one level or another, the aptness of a tree (a pattern of successive bifurcations) as a summary of life's history is uncertain.
+
+
 ## Nearly Universal Trees and the Statistical Tree of Life
 * See p. 3 for following terms.
 	* **TOL** = Tree of Life
