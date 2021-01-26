@@ -4,7 +4,7 @@ permalink: /doolittle-brunet-2016/
 ---
 # [What Is The Tree of Life?](https://doi.org/10.1371/journal.pgen.1005912) 
 * Authors: W. Ford Doolittle , Tyler D. P. Brunet
-* Published in PLoS Genetics: April 14, 2016
+* Published in [PLoS Genetics](https://en.wikipedia.org/wiki/PLOS_Genetics): April 14, 2016
 * URL: https://doi.org/10.1371/journal.pgen.1005912
 
 ## Abstract
