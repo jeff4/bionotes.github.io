@@ -6,7 +6,7 @@ title: Jeff's Notebook
 ## Reading List
 
 ### Next papers to read
-* Take notes on 2016 Doolittle Brunet [*What is the Tree of Life?*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005912) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
+* Take notes on 2016 Doolittle Brunet [*What is the Tree of Life?*](/doolittle-brunet-2016/) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * Take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
 	* also norman pace 1997 ref 24 re: how we agreed to 97% SSU rRNA sequence similarity as threshold for classiying bacteria as unique species...
