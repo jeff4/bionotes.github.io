@@ -19,7 +19,10 @@ permalink: /doolittle-brunet-2016/
 * "Before 1859, hierarchical (tree-like) patterns of organismal relationships were commonly drawn and taken to mirror some natural order, most likely divine. What Darwin gave us when he published The Origin of Species was a nontheistic reason for the discoverability and utility of such classifications."
 * Darwin wrote 'Community of descent is the hidden bond which naturalists have been unconsciously seeking, and not some unknown plan of creation.'
 * "There was to be an actual TOL whose 'ramifying branches may well represent the classification of all extinct and living species in groups subordinate to groups'."
-* Bapteste and Doolittle have called this claim by darwin his "TOL Hypothesis".
+* Bapteste and Doolittle have called this claim by Darwin his "TOL Hypothesis"–that is, that the tree-like pattern of relationships recognized by systematists reflects an underlying tree-like evolutionary process.
+* "After Darwin, classifications were most often assumed without proof to be evolutionary: phenetics was taken to be identical to phylogenetics...Not much could be done to improve on this as long as the methods of comparative biology (mostly anatomical) remained the basis for classification, as they had been for centuries."
+* BUT..."in the mid-1960s, molecular sequencing (First rRNA, then genes, and now complete genomes) appeared to offer a way out of such circularity, a possible independent proof of the TOL hypothesis.
+* Zuckerkandl and Pauling famously wrote: *'...molecular phylogenetic trees should in principle be definable in terms of molecular information alone. It will be determined to what extent the phylogenetic tree, as derived from molecular data in complete independendence of organismal biology, coincices with the tree constructed on the basis of organismal biology...[and thus]...If the two trees are mostly in agreement with the topology of the branching, the best available single proof of the reality of macro-evolution would be furnished.'*
 
 
 ## Nearly Universal Trees and the Statistical Tree of Life
