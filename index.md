@@ -101,4 +101,5 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.
 * 1/16: First issue of Nature with history of humerus
 * 1/17: Sketched our Ring of Life, Historical Cone of Life
-* 1/24: started reading 2016 Doolitle and Brunet
+* 1/24: started annotating 2016 Doolitle and Brunet
+* 1/27: Received Xu's *Comparative Genomics*
