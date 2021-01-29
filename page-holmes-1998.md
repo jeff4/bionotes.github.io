@@ -8,7 +8,10 @@ permalink: /page-and-holmes/
 * Blackwell Science, 1998
 
 ## Chapter 1: The Archaeology of the Genome p. 1
+* Examples include Woese and Fox's work on rRNA SSU16 from 1977 etc.
+* Completed
 ## Chapter 2: Trees p. 11
+* Fundamentals of Trees, Hierarchies, Networks. Rooted versus unrooted.
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
 ## Chapter 5: Measuring Genetic Change p. 135
