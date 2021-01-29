@@ -103,3 +103,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/17: Sketched our Ring of Life, Historical Cone of Life
 * 1/24: started annotating 2016 Doolitle and Brunet
 * 1/27: Received Xu's *Comparative Genomics*
+* 1/28: Received by [Molecular Evolution: A Phylogenetic Approach](/page-and-holmes/) by Rod Page and Edward Holmes (1998)
