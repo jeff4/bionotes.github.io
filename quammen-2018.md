@@ -25,9 +25,13 @@ permalink: /quammen-2018/
 	* In Augier's book was a figure representing his new system for cataloging plants: "an *arbre botanique* (botanical tree)."
 	* "Augier was no evolutionist before his time. His natural order wasn't meant to suggest that all plants had descended from common ancestors by some sort of material process of transformation."
 	* "Augier's contribution...was discovering [the Creator's] proportions and progressions–design principles that had satisfied the Deity's neat sense of pattern–and using them after the fact to organize botanical knowledge into a tidy system."
-* Carl Linnaeus published the first edition of his *System Naturae* in 1735. (p. 15)
+* Carl Linnaeus published the first edition of his *System Naturae* in 1735. (p. 15-16)
+	* Fifty years after Linnaeus challeneged Linnaeus' "overly neat system for cataloging plants" based on flower structures, stamens, pistils etc. as being too much about one single character (from a phenetic point of view).
+	* Augustin conceded that "'Stamen number is a striking character but not when it comes to the examination of plants'...i.e., stamen number is not always unambiguous and therefore not reliable as a basis for organizing the great jumble of botanical life."
+	* Augustin offered a distinct plant organization system "using multiple characters for different levels of sorting and to resolve the ambiguities and fine gradations."
+	* But to be clear, this was all a cataloguing system; the trees depicted were definitiely *not* genealogies or phylogenies. No common descent or movement/change through time.
 
-
+### Chapter 4
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
