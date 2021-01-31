@@ -1,5 +1,5 @@
 ---
-title: Inosculate Reticulate
+title: Inosculate Synonyms
 permalink: /inosculate-synonyms/
 ---
 
