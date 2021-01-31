@@ -32,6 +32,8 @@ permalink: /quammen-2018/
 	* But to be clear, this was all a cataloguing system; the trees depicted were definitiely *not* genealogies or phylogenies. No common descent or movement/change through time.
 
 ### Chapter 4
+* Jean-Baptiste Lamarck and Edward Hitchcock
+
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
