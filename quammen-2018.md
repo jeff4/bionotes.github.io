@@ -33,6 +33,7 @@ permalink: /quammen-2018/
 
 ### Chapter 4
 * Jean-Baptiste Lamarck and Edward Hitchcock
+* Lamarck believed in the fixity of species until about 1797, perhaps from his studies of mollusks. p.18
 
 
 ### Chapter 8
