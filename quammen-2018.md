@@ -34,7 +34,14 @@ permalink: /quammen-2018/
 ### Chapter 4
 * Jean-Baptiste Lamarck and Edward Hitchcock
 * Lamarck believed in the fixity of species until about 1797, perhaps from his studies of mollusks. p.18
+* Although Lamarck's ideas about acquired characteristics etc. were somewhat forgotten by the mid-1800s, they were revived in the late 19th century. After *The Origin of Species* was published, there was wider acceptance of the fact of evolution but much less acceptance of the Darwinian mechanism of evolution by natural selection. In this environment, Lamarckian adaptationism gained popularity as an alternative means of evolution.
+* In addition to his concept of inheritance by acquired characteristics, Lamarck believed in "spontaneous generation; he disbelieved in extinction at least as a natural process; he argueed that 'subtle fluids', surging through the bodies of living creatures, helped reshape them adaptively." (p. 19)
+* "In one of his earlier botanical works,...Lamarck had arranged plants in what he called the 'true order of radation': from least perfect and complete to most, ascending along an old-fashioned ladder of life." (p. 19)
+* "Lamarck matched his [ladder of plants] with a separate ladder for animals, showing an ascending series of forms: from worms, through insects, through fish, and amphibians and birds, to mammals." (p. 20)
+* However, the separate ladders he had for plants and animals were each linear;  there was no Lamarckian tree of life or anything similar until the1809 publication of his *Philsophie Zoologique* which did include a dotted line version of a rudimentary, suggestive, potential tree of life.  (p. 20)
 
+### Chapter 5
+* Edward Hitchcock published Elementary Geology in 1840 which had 2 separate trees of life; one for animals, another for plants. (p. 21)
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
