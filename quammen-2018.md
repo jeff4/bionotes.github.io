@@ -42,6 +42,8 @@ permalink: /quammen-2018/
 
 ### Chapter 5
 * Edward Hitchcock published Elementary Geology in 1840 which had 2 separate trees of life; one for animals, another for plants. (p. 21)
+* See what these trees look like on p. 23–they look more like a bed of seaweed rather than a spreading tree like a maple or oak tree.
+* 
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
