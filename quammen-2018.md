@@ -40,10 +40,22 @@ permalink: /quammen-2018/
 * "Lamarck matched his [ladder of plants] with a separate ladder for animals, showing an ascending series of forms: from worms, through insects, through fish, and amphibians and birds, to mammals." (p. 20)
 * However, the separate ladders he had for plants and animals were each linear;  there was no Lamarckian tree of life or anything similar until the1809 publication of his *Philsophie Zoologique* which did include a dotted line version of a rudimentary, suggestive, potential tree of life.  (p. 20)
 
-### Chapter 5
-* Edward Hitchcock published Elementary Geology in 1840 which had 2 separate trees of life; one for animals, another for plants. (p. 21)
-* See what these trees look like on p. 23–they look more like a bed of seaweed rather than a spreading tree like a maple or oak tree.
-* 
+### Chapter 5 (p. 21 - 25)
+* Edward Hitchcock published *Elementary Geology* in 1840 which had 2 separate trees of life; one for animals, another for plants. (p. 21)
+	* See what these trees look like on p. 23–they look more like a bed of seaweed rather than a spreading tree like a maple or oak tree.
+	* p. 24 - 25. Within his *Elementary Geology*, Hitchcock included charts that showed the "changes in Earth's flor and fauna over geological time with this or that group of plants or animals waxing or waning in diversity and abundance, but not much branching of one from antoher."
+	* Hitchock: "The cause of these changes was God's direct agency, adding and subtracting creatures, improving and perfecting the world as a long-term project. **The major groups [of organisms] were present all along...but new species manifesting a 'higher organization' had been inserted along the way** until at last Earth was ready for 'more perfect' kinds of creatures, 'the most generally perfect of all with man at their head.'"
+	* "The gradual introduction of 'higher races is perfectly explained by the changing condition of the earth which being adapted for the more perfect races Divine Wisdom introduced them'. These were special creations by the Deity, appropriate as environments changed."
+	* "God wasn't rethinking the planet's fauna and flora [as Lamarck suggested]. Rather, He was adjusting [creatures] to newly available niches."
+	* Hitchcock's *Elementary Geology* was a best seller, goig through thirty editions / reprintings over 2 decades. 
+	* However, the 31st edition of *Elementary Geology* in 1860 contained a notable change––for the first time, the tree diagrams from earlier editions had been removed. Quammen posits that this is because in 1859, Darwin published *The Origin* with its single dangerous branching diagram. (p. 25)
+* "Hitchcock was born to a poor family in Deerfield, MA, his father a Revolutionary War veteran and a hatter by trade, with debts and three sons, who found just enough money to see his boys through primary school and some time at the local academy. Hitchock balked at the idea of apprenticing to his father the hatter or in other trades...Instead, he worked on a farm for uncounted years."
+* "With his free time on rainy days or evenings, young Edward studied the classics and the sciences including Astronomy." In 1811, an eighteen-year-old Hitchcock observed the great comet in the northern sky.
+* A health crisis brought a religious conversion from Unitarianism to Congregationalism. He was hired at the age of 23 to be principal of Deerfield Academy; he also became a pastor at a Congregationalist Church in Conway MA. 
+* Later, Hitchcock served as a professor (teaching natural history, geology, chemistry, and theology) and administrator at Amherst College.
+* While at Amherst, he read Lyell's *Principles of Geology* as each volume was published from 1830-33 and was "disturbed" by Lyell's arguments for uniformitarianism which contrasted with the earlier theory of repeated God-caused catastrophes through history.
+
+### Chapter 6
 
 ### Chapter 8
 * "Darwin and Darwin's followers owned the tree image now. It would remain the best graphic representation of life's history, evolution through time, the origins of diversity and adaptation, until the late twentieth century...[until Woese and other scientists] would discover: oops no, it's wrong." (p. 34)
