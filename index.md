@@ -104,3 +104,6 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 1/24: started annotating 2016 Doolitle and Brunet
 * 1/27: Received Xu's *Comparative Genomics*
 * 1/28: Received by [Molecular Evolution: A Phylogenetic Approach](/page-and-holmes/) by Rod Page and Edward Holmes (1998)
+
+### February 2021
+* Listened to a16z Bio Eats World interview with [Rick Young](https://en.wikipedia.org/wiki/Richard_A._Young) from [MIT](https://younglab.org/#youngters) about how only 2% of the human genome codes for protein, but a significant fraction does code for RNA or plays [other regulatory functions](https://static1.squarespace.com/static/5f6926ff1cc8197f2761ebc9/t/5f8313517761ab2128fea6dd/1602425723581/202005_CSHL_oksuz.pdf).
