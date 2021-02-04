@@ -38,7 +38,7 @@ title: Jeff's Notebook
 Expedition: Expanding the Universe
 of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-2007-plosbiol-gos.pdf)
 
-## Completed papers
+## Progress
 ### September, 2020
 * <del>1998 Mayr, [*Two Empires or Three?*](https://www.pnas.org/content/95/17/9720)</del>
 * <del> 2015 Richards, [*It's More Than Stamp Collecting: How Genome Sequencing Can Unify Biological Research*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490122/)</del>
@@ -93,17 +93,17 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 * 12/30/2020: <del>Restarted annual subscription to *Nature*.</del>
 
 ### January, 2021
-* 1/08/2021: continued reading 2012 Pace, Sapp, Goldenfeld
-* 1/11/2021: continued reading Quammen *The Tangled Tree*
-* 1/12/2021: Reviewed some chapters of 2nd edition of Dawkins and Wong *The Ancestor's Tale* (2016), esp. chapters on bdelloid rotifers, "light harvesters" (cauliflower, redwood tree, humped bladderwort and [C-value](https://en.wikipedia.org/wiki/C-value), [Mixotrich protist](https://en.wikipedia.org/wiki/Mixotricha_paradoxa) within Australian termite and four levels of symbiosis including multiple endosymbionts), Archea, and Bacteria.
-* 1/13 - 1/14: More reading on Quammen, including main reference to [inosculation](https://en.wikipedia.org/wiki/Inosculation). Need to start a new page for all Tangled Tree notes.
-* 1/14: Finished Doolittle's 2000 Scientific American article [*Uprooting the Tree of Life*](https://www.bennington.edu/sites/default/files/sources/docs/uprooting%20the%20tree%20of%20life.pdf)
-* 1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.
-* 1/16: First issue of Nature with history of humerus
-* 1/17: Sketched our Ring of Life, Historical Cone of Life
-* 1/24: started annotating 2016 Doolitle and Brunet
-* 1/27: Received Xu's *Comparative Genomics*
-* 1/28: Received by [Molecular Evolution: A Phylogenetic Approach](/page-and-holmes/) by Rod Page and Edward Holmes (1998)
+* <del>1/08/2021: continued reading 2012 Pace, Sapp, Goldenfeld</del>
+* <del>1/11/2021: continued reading Quammen *The Tangled Tree*</del>
+* <del>1/12/2021: Reviewed some chapters of 2nd edition of Dawkins and Wong *The Ancestor's Tale* (2016), esp. chapters on bdelloid rotifers, "light harvesters" (cauliflower, redwood tree, humped bladderwort and [C-value](https://en.wikipedia.org/wiki/C-value), [Mixotrich protist](https://en.wikipedia.org/wiki/Mixotricha_paradoxa) within Australian termite and four levels of symbiosis including multiple endosymbionts), Archea, and Bacteria.</del>
+* <del>1/13 - 1/14: More reading on Quammen, including main reference to [inosculation](https://en.wikipedia.org/wiki/Inosculation). Need to start a new page for all Tangled Tree notes.</del>
+* <del>1/14: Finished Doolittle's 2000 Scientific American article [*Uprooting the Tree of Life*](https://www.bennington.edu/sites/default/files/sources/docs/uprooting%20the%20tree%20of%20life.pdf)</del>
+* <del>1/15: Completed Quammen's *The Tangled Tree*. began sketching phylogeny of jawless, bony, ray-finned, and lobe-finned fish.</del>
+* <del>1/16: First issue of Nature with history of humerus</del>
+* <del>1/17: Sketched our Ring of Life, Historical Cone of Life</del>
+* <del>1/24: started annotating 2016 Doolitle and Brunet</del>
+* <del>1/27: Received Xu's *Comparative Genomics*</del>
+* <del>1/28: Received by [Molecular Evolution: A Phylogenetic Approach](/page-and-holmes/) by Rod Page and Edward Holmes (1998)</del>
 
 ### February 2021
 * Listened to a16z Bio Eats World interview with [Rick Young](https://en.wikipedia.org/wiki/Richard_A._Young) from [MIT](https://younglab.org/#youngters) about how only 2% of the human genome codes for protein, but a significant fraction does code for RNA or plays [other regulatory functions](https://static1.squarespace.com/static/5f6926ff1cc8197f2761ebc9/t/5f8313517761ab2128fea6dd/1602425723581/202005_CSHL_oksuz.pdf).
