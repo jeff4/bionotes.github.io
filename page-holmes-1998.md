@@ -33,7 +33,7 @@ permalink: /page-and-holmes/
 * **Additive trees** (aka **metric trees** aka **phylograms**)contain additional information, namely branch length or edge length. The number associated with each branch (aka edge) correspond to some attribute of the sequences, such as the amount of evolutionary change. In the example shown in Figure 2.5, sequence A has acquired four substitutions since it shared a common ancestro with sequence B. 
 * **Ultrametric trees** aka **dendrograms** are a special subset of additive tree. Here, all the tips of the trees are quidistant from the root of the tree. This kind of tree can be used to depict evolutionary time, expressed directly as years or indirectly as the amount of sequence divergence using the molecular clock.
 
-#### 2.1.4 Rooted and unrooted trees (p. 16)
+#### 2.1.4 Rooted and unrooted trees p. 16
 * Cladograms and additive trees can be either rooted or unrooted.
 * A **rooted tree** has one particular node identified as the root from which ultimately all the other nodes descend, hence a rooted tree has a direction. This direction corresponds to evolutionary time; the closer a node is to the root of the tree, the older it is in time.
 * An **unrooted tree** does not have an explicitly named root node. However, this does not mean no root exists "in reality"; we simply don't know where to place it on the diagram. As such, there is a set of *possible* rooted variants all represented by this single unrooted tree. See Figures 2.6 and 2.7 for more detail (p. 17).
