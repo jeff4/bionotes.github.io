@@ -9,7 +9,6 @@ permalink: /page-and-holmes/
 
 ## Chapter 1: The Archaeology of the Genome p. 1
 * Examples include Woese and Fox's work on rRNA SSU16 from 1977 etc.
-* Completed
 
 ## Chapter 2: Trees
 #### 2.1.1 Tree terminology p 11-13
