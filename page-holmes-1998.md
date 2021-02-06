@@ -10,6 +10,7 @@ permalink: /page-and-holmes/
 ## Chapter 1: The Archaeology of the Genome p. 1
 * Examples include Woese and Fox's work on rRNA SSU16 from 1977 etc.
 * Completed
+
 ## Chapter 2: Trees
 #### 2.1.1 Tree terminology p 11-13
 * "A** tree** is mathematical structure which is used to model the actual evolutionary history of a group of sequences or organisms. the actual pattern of historical relationships is the **phylogeny** or **evolutionary tree** [or *pedigree* for humans/domesticated animals or *family tree*]."
