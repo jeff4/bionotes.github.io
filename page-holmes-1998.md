@@ -12,7 +12,7 @@ permalink: /page-and-holmes/
 
 ## Chapter 2: Trees
 #### 2.1.1 Tree terminology p 11-13
-* "A** tree** is mathematical structure which is used to model the actual evolutionary history of a group of sequences or organisms. the actual pattern of historical relationships is the **phylogeny** or **evolutionary tree** [or *pedigree* for humans/domesticated animals or *family tree*]."
+* "A **tree** is mathematical structure which is used to model the actual evolutionary history of a group of sequences or organisms. the actual pattern of historical relationships is the **phylogeny** or **evolutionary tree**" [aka *pedigree* for humans/domesticated animals or *family tree*].
 * A tree consists of **nodes** connected by **branches** aka **edges**.
 	* **Terminal nodes** represent sequences or organisms for which we have data; they may be either currently existing or extinct. Terminal nodes are also called **leaves**, **leaf nodes**, or **OTUs** (Operational Taxonomic Units).
 	* **Internal nodes** represent hypothetical ancestors; the ancestor of all sequences that comprise the tree is called the **root** of the tree.
