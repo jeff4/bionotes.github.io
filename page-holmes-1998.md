@@ -11,7 +11,10 @@ permalink: /page-and-holmes/
 * Examples include Woese and Fox's work on rRNA SSU16 from 1977 etc.
 * Completed
 ## Chapter 2: Trees p. 11
-* Fundamentals of Trees, Hierarchies, Networks. Rooted versus unrooted.
+#### 2.1.1 Tree terminology
+* "A** tree** is mathematical structure which is used to model the actual evolutionary history of a group of sequences or organisms. the actual pattern of historical relationships is the **phylogeny** or **evolutionary tree** [or *pedigree* for humans/domesticated animals or *family tree*]."
+* A tree consists of nodes
+
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
 ## Chapter 5: Measuring Genetic Change p. 135
