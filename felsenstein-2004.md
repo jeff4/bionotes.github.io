@@ -21,15 +21,15 @@ permalink: /felsenstein-2004/
 ## Chapter 10: A digression on history and philosophy
 ## Chapter 11: Distance matrix methods
 ## Chapter 12: Quartets of species
-## Chapter 13:
-## Chapter 14:
-## Chapter 15:
-## Chapter 16:
-## Chapter 17:
-## Chapter 18:
-## Chapter 19:
-## Chapter 20:
-## Chapter 21:
+## Chapter 13: Models of DNA evolution
+## Chapter 14: Models of protein evolution
+## Chapter 15: Restriction sites, RAPDs, AFLPs, and microsatellites
+## Chapter 16: Likelihood methods
+## Chapter 17: Hadamard methods
+## Chapter 18: Bayesian inference of phylogenies
+## Chapter 19: Testing models, trees, and clocks
+## Chapter 20: Bootstrap, jackknife, and permutation tests
+## Chapter 21: Paired-sites tests
 ## Chapter 22:
 ## Chapter 23:
 ## Chapter 24:
