@@ -58,7 +58,7 @@ permalink: /page-and-holmes/
 * Given a tree, we can distinguish between **ancestral** (aka primitive) versus **derived** character states. If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. Such an ancestral character seen in an OTU is called a **plesiomorphy**. 
 * If it is *not* in the ancestral state, then we say that the OTU is in the derived or **apomorphic state**. A derived character is called an **apomorphy**.
 	* If an OTU has is apomorphic and it is a unique derived character state (aka a sequence that we do not see in any of ther other OTUs), then we call this unique apomorphy an [**autapomorphy**](https://en.wikipedia.org/wiki/Autapomorphy).
-	* Alternately, if a derived character state is seen in multiple OTUs, then this apomorphy
+	* Alternately, if a derived character state is seen in multiple OTUs, then this shared apomorphy is called a [**synapomorphy**](https://en.wikipedia.org/wiki/Synapomorphy_and_apomorphy). 
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
