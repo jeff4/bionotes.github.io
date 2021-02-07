@@ -30,14 +30,14 @@ permalink: /felsenstein-2004/
 ## Chapter 19: Testing models, trees, and clocks
 ## Chapter 20: Bootstrap, jackknife, and permutation tests
 ## Chapter 21: Paired-sites tests
-## Chapter 22:
-## Chapter 23:
-## Chapter 24:
-## Chapter 25:
-## Chapter 26:
-## Chapter 27:
-## Chapter 28:
-## Chapter 29:
+## Chapter 22: Invariants
+## Chapter 23: Brownian motion and gene frequencies
+## Chapter 24: Quantitative characters
+## Chapter 25: Comparative methods
+## Chapter 26: Coalescent trees
+## Chapter 27: Likelihood calculations on coalescents
+## Chapter 28: Coalescents and species trees
+## Chapter 29: Alignment, gene families, and genomics
 ## Chapter 30:
 ## Chapter 31:
 ## Chapter 32:
