@@ -45,6 +45,12 @@ permalink: /page-and-holmes/
 #### 2.1.5 Tree Shape p. 18-19
 * Figure 2.8 (p. 19) shows three possible **shapes** aka **topologies** for a rooted tree of five OTUs. These 5 topologies account for all 105 possible trees listed in Table 2.1.
 
+#### 2.1.6 Splits
+* Trees can be represented in a variety of ways other than as graphs. One useful representation is as a set of sets, aka **splits** aka **partitions**. Each split takes a set of OTUs and partions them into two mutually exclusive (and collectively exhaustive) sets. 
+* One can think of a split as two sets of OTUs obtained by chopping ('splitting') the tree at a given branch. 
+* See Figure 2.9 (p. 19) for an example.
+* Only the splits that result form chopping the original tree within internal branches (*not* terminal branches) provide useful partitions.
+
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
