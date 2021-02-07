@@ -41,6 +41,6 @@ permalink: /felsenstein-2004/
 ## Chapter 30: Consensus trees and distances between trees
 ## Chapter 31: Biogeography, hosts, and parasites
 ## Chapter 32: Phylogenies and paleontology
-## Chapter 33:
-## Chapter 34:
-## Chapter 35:
+## Chapter 33: Tests based on tree shape
+## Chapter 34: Drawing trees
+## Chapter 35: Phylogeny software
