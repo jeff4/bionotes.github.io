@@ -58,7 +58,15 @@ permalink: /page-and-holmes/
 * Given a tree, we can distinguish between **ancestral** (aka primitive) versus **derived** character states. If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. Such an ancestral character seen in an OTU is called a **plesiomorphy**. 
 * If it is *not* in the ancestral state, then we say that the OTU is in the derived or **apomorphic state**. A derived character is called an **apomorphy**.
 	* If an OTU has is apomorphic and it is a unique derived character state (aka a sequence that we do not see in any of ther other OTUs), then we call this unique apomorphy an [**autapomorphy**](https://en.wikipedia.org/wiki/Autapomorphy).
-	* Alternately, if a derived character state is seen in multiple OTUs, then this shared apomorphy is called a [**synapomorphy**](https://en.wikipedia.org/wiki/Synapomorphy_and_apomorphy). 
+	* Alternately, if a derived character state is seen in multiple OTUs, then this shared apomorphy is called a [**synapomorphy**](https://en.wikipedia.org/wiki/Synapomorphy_and_apomorphy).
+	* There are two kinds of homoplasy.
+		* First, **convergence** and **parallel evolution** *both* result in the independent evolution of the same feature in two unrelated OTUs; the difference is whether this homoplasy was caused by the same (parallel) or different (convergent) ancestral condition.
+		* Second, **secondary loss** may cause a homoplasy wherein a recently derived character has been lost, thereby reverting the final OTU to what appears to be an earlier, ancestral state. For example, consider the loss of legs in snakes which is a secondary loss back to earlier pre-reptilian legless bilateran ancestors.
+
+#### 2.2.1 Ancestors
+* Phylogenies presuppose ancstors. Ancestors are represented by internal nodes and are often hypothetical; some methods of phylogenetic reconstruction allow us to infer what they (or their sequence) may have looked like.
+* In the past, phylogenetics assumed that all internal nodes were simply hypothetical ancestors. However, the rise of: (1) the ability to extract DNA from extinct taxa; and (2) the increasing number of sequences obtained from human viruses like HIV which evolve quickly enough to be tracked within direct human observation.
+* If all sequences are from extant organisms, then they can be safely placed at the terminal leaf nodes of tres. However, if some of the sequences are extinct, it is possible, if unlikely, that they have been ancstral to one or more of the extant sequences.
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
