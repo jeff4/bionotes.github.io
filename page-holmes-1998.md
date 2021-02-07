@@ -42,7 +42,8 @@ permalink: /page-and-holmes/
 * See Chapter 6 for more on how to root unrooted trees.
 * See Table 2.1 (p. 18) to see how many unrooted and rooted trees are possible given x number of OTUs, sequences, species, or organisms are leaf nodes.
 
-#### 2.1.5 Tree Shape
+#### 2.1.5 Tree Shape p. 18-19
+* Figure 2.8 (p. 19) shows three possible **shapes** aka **topologies** for a rooted tree of five OTUs. These 5 topologies account for all 105 possible trees listed in Table 2.1.
 
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
