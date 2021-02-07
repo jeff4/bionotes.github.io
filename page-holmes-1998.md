@@ -50,6 +50,7 @@ permalink: /page-and-holmes/
 * One can think of a split as two sets of OTUs obtained by chopping ('splitting') the tree at a given branch. 
 * See Figure 2.9 (p. 19) for an example.
 * Only the splits that result form chopping the original tree within internal branches (*not* terminal branches) provide useful partitions.
+* Chapter 6 provides some methods for reconstructing phylogenies after a split where each partition was arbitrarily assigned letters representing nucleotides.
 
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
