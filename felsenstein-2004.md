@@ -38,9 +38,9 @@ permalink: /felsenstein-2004/
 ## Chapter 27: Likelihood calculations on coalescents
 ## Chapter 28: Coalescents and species trees
 ## Chapter 29: Alignment, gene families, and genomics
-## Chapter 30:
-## Chapter 31:
-## Chapter 32:
+## Chapter 30: Consensus trees and distances between trees
+## Chapter 31: Biogeography, hosts, and parasites
+## Chapter 32: Phylogenies and paleontology
 ## Chapter 33:
 ## Chapter 34:
 ## Chapter 35:
