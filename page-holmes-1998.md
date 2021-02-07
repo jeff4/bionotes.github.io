@@ -54,7 +54,9 @@ permalink: /page-and-holmes/
 
 ### 2.2 Reconstructing the history of character change
 * The tree relating a set of sequences tells us only part of hwat we wnat to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor or (b) the result of independent evolution.
-* To address these questions, we need to be able to reconstruct the history of character change.
+* To address these questions, we need to be able to reconstruct the history of character change. Chapter 5 delves more deeply into this topic; here is just a taste.
+* Given a tree, we can distinguish between **ancestral** (aka primitive) versus **derived** character states. If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. If it is *not* in the ancestral state, then we say that the OTU is in the derived or **apomorphic state**.
+* If an OTU has is apomorphic and it is a unique derived character state (aka a sequence that we do not see in any of ther other OTUs), then we call this unique apomorphy an [**autapomorphy**](https://en.wikipedia.org/wiki/Autapomorphy).
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
