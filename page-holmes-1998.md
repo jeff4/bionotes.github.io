@@ -52,6 +52,9 @@ permalink: /page-and-holmes/
 * Only the splits that result form chopping the original tree within internal branches (*not* terminal branches) provide useful partitions.
 * Chapter 6 provides some methods for reconstructing phylogenies after a split where each partition was arbitrarily assigned letters representing nucleotides.
 
+### 2.2 Reconstructing the history of character change
+* The tree relating a set of sequences tells us only part of hwat we wnat to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor or (b) the result of independent evolution.
+* To address these questions, we need to be able to reconstruct the history of character change.
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
