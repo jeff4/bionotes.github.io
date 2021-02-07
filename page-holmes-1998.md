@@ -53,7 +53,7 @@ permalink: /page-and-holmes/
 * Chapter 6 provides some methods for reconstructing phylogenies after a split where each partition was arbitrarily assigned letters representing nucleotides.
 
 ### 2.2 Reconstructing the history of character change
-* The tree relating a set of sequences tells us only part of hwat we wnat to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor or (b) the result of independent evolution.
+* The tree relating a set of sequences tells us only part of hwat we wnat to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor–called an ancestral [**homology**](https://en.wikipedia.org/wiki/Homology_(biology)) or (b) the result of independent evolution which is called independently evolved [**homoplasy**](https://en.wikipedia.org/wiki/Homoplasy).
 * To address these questions, we need to be able to reconstruct the history of character change. Chapter 5 delves more deeply into this topic; here is just a taste.
 * Given a tree, we can distinguish between **ancestral** (aka primitive) versus **derived** character states. If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. Such an ancestral character seen in an OTU is called a **plesiomorphy**. 
 * If it is *not* in the ancestral state, then we say that the OTU is in the derived or **apomorphic state**. A derived character is called an **apomorphy**.
