@@ -69,6 +69,9 @@ permalink: /page-and-holmes/
 * Phylogenies presuppose ancstors. Ancestors are represented by internal nodes and are often hypothetical; some methods of phylogenetic reconstruction allow us to infer what they (or their sequence) may have looked like.
 * In the past, phylogenetics assumed that all internal nodes were simply hypothetical ancestors. However, the rise of: (1) the ability to extract DNA from extinct taxa; and (2) the increasing number of sequences obtained from human viruses like HIV which evolve quickly enough to be tracked within direct human observation.
 * If all sequences are from extant organisms, then they can be safely placed at the terminal leaf nodes of tres. However, if some of the sequences are extinct, it is possible, if unlikely, that they have been ancstral to one or more of the extant sequences.
+* Cladists have accepted the convention of **sister taxa**. p. 22
+
+
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
 ## Chapter 4: Genes in Populations p. 89
