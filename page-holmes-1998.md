@@ -53,15 +53,17 @@ permalink: /page-and-holmes/
 * Chapter 6 provides some methods for reconstructing phylogenies after a split where each partition was arbitrarily assigned letters representing nucleotides.
 
 ### 2.2 Reconstructing the history of character change
-* The tree relating a set of sequences tells us only part of hwat we wnat to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor–called an ancestral [**homology**](https://en.wikipedia.org/wiki/Homology_(biology)) or (b) the result of independent evolution which is called independently evolved [**homoplasy**](https://en.wikipedia.org/wiki/Homoplasy).
-* To address these questions, we need to be able to reconstruct the history of character change. Chapter 5 delves more deeply into this topic; here is just a taste.
-* Given a tree, we can distinguish between **ancestral** (aka primitive) versus **derived** character states. If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. Such an ancestral character seen in an OTU is called a **plesiomorphy**. 
-* If it is *not* in the ancestral state, then we say that the OTU is in the derived or **apomorphic state**. A derived character is called an **apomorphy**.
-	* If an OTU has is apomorphic and it is a unique derived character state (aka a sequence that we do not see in any of ther other OTUs), then we call this unique apomorphy an [**autapomorphy**](https://en.wikipedia.org/wiki/Autapomorphy).
-	* Alternately, if a derived character state is seen in multiple OTUs, then this shared apomorphy is called a [**synapomorphy**](https://en.wikipedia.org/wiki/Synapomorphy_and_apomorphy).
-	* There are two kinds of homoplasy.
-		* First, **convergence** and **parallel evolution** *both* result in the independent evolution of the same feature in two unrelated OTUs; the difference is whether this homoplasy was caused by the same (parallel) or different (convergent) ancestral condition.
-		* Second, **secondary loss** may cause a homoplasy wherein a recently derived character has been lost, thereby reverting the final OTU to what appears to be an earlier, ancestral state. For example, consider the loss of legs in snakes which is a secondary loss back to earlier pre-reptilian legless bilateran ancestors.
+* The tree relating a set of sequences tells us only part of what we want to know. The tree alone does *not* tell us when a particular evolutionary change took place or whether the occurrence of the same amino acid in two sequences is: (a) the result of inheritance from a common ancestor–called an ancestral [**homology**](https://en.wikipedia.org/wiki/Homology_(biology)) or (b) the result of independent evolution which is called independently evolved [**homoplasy**](https://en.wikipedia.org/wiki/Homoplasy).
+* There are two kinds of homoplasy.
+	* First, **convergence** and **parallel evolution** *both* result in the independent evolution of the same feature in two unrelated OTUs; the difference is whether this homoplasy was caused by the same (parallel) or different (convergent) ancestral condition.
+	* Second, **secondary loss** may cause a homoplasy wherein a recently derived character has been lost, thereby reverting the final OTU to what appears to be an earlier, ancestral state. For example, consider the loss of legs in snakes which is a secondary loss back to earlier pre-reptilian legless bilateran ancestors.
+* Given a tree, we can distinguish between **ancestral** (aka primitive aka **plesiomorphic**) character states versus **derived** (aka **apomorphic**) character states. 
+	* If an OTU has the same base as the common ancestor of all the sequences under study, then we say that OTU is in the primitive or **plesiomorphic state**. Such an ancestral character seen in an OTU is called a **plesiomorphy**. 
+	* Alternately, if a character state is derived aka it is *not* in the ancestral state, then we call that the OTU an  **apomorphy**. The OTU is then said to be in a derived or **apomorphic state**.
+		* If an OTU has is apomorphic and it is a unique derived character state (aka a sequence that we do not see in any of ther other OTUs), then we call this unique apomorphy an [**autapomorphy**](https://en.wikipedia.org/wiki/Autapomorphy).
+		* If a derived, apomorphic character state is seen in multiple OTUs, then this shared apomorphy is called a [**synapomorphy**](https://en.wikipedia.org/wiki/Synapomorphy_and_apomorphy).
+* To address the question of homology vs. homoplasy, we need to be able to reconstruct the history of character change. Chapter 5 delves more deeply into this topic; this section is just a taste.
+
 
 #### 2.2.1 Ancestors
 * Phylogenies presuppose ancstors. Ancestors are represented by internal nodes and are often hypothetical; some methods of phylogenetic reconstruction allow us to infer what they (or their sequence) may have looked like.
