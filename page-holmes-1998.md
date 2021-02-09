@@ -70,8 +70,10 @@ permalink: /page-and-holmes/
 * In the past, phylogenetics assumed that all internal nodes were simply hypothetical ancestors. However, the rise of: (1) the ability to extract DNA from extinct taxa; and (2) the increasing number of sequences obtained from human viruses like HIV which evolve quickly enough to be tracked within direct human observation.
 * If all sequences are from extant organisms, then they can be safely placed at the terminal leaf nodes of tres. However, if some of the sequences are extinct, it is possible, if unlikely, that they were ancestral to one or more of the extant sequences.
 	* Given this, is a sequence extracted from an extinct taxa an ancestor to modern taxa or is it an evolutionary sidebranch? 
-	* If the extinct taxa that lack autapomorphies are candidates for being ancestral (in the line of descent)it is equally parsimonious to treat them as **sister taxa** (i.e. each other's closest relative) or as ancestors. See Fig 2.13
-
+	* Cladists have adopted the convention that it is equally parsimonious to consider  extinct taxa which lack autapomorphies: (a) as **sister taxa** – such that they are each other's closest relative; or (b) as ancestors.
+* Note that under this rule, a taxon with no atapomorphies need not be an ancester; rather ther is nothing to *refute* that possibility.  See Figure 2.13 on p. 23.
+* Let us consider a rapidly evolving modern virus and view Figure 2.14 which lists 8 HIV sequences labeled D1 - D8. All eight sequences were extracted from the same patient over the course of 3 years. (p. 23)
+	* We can draw both a cladogram version and an evolutionary tree version depicting their relationships.
 
 
 ## Chapter 3: Genes: Organization, Functions, and Evolution p. 37
