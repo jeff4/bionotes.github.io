@@ -1,5 +1,5 @@
 ---
-title: Chemistry Review
+title: General Chemistry
 permalink: /general-chemistry/
 ---
 
