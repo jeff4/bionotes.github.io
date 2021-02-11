@@ -3,11 +3,11 @@ title: MIT Quantitative Biology Workshop 7.QBWx
 permalink: /mit-quantitative-biology-workshop/
 ---
 
-# Notes on [MIT 7.QBWx](https://www.edx.org/course/quantitative-biology-workshop-3) at edX
+# Notes on [MIT 7.QBWx](https://www.edx.org/course/quantitative-biology-workshop-3): Quantitative Biology Workshop at edX
 *Course started: February 9, 2021*
 
 ### Workshop 0: Intro to MATLAB
-* MathWorks MATLAB OnRamp course
+* [MathWorks MATLAB OnRamp course](https://www.mathworks.com/learn/tutorials/matlab-onramp.html). *(2 hours)*
 
 ### Workshop 1: Population Modeling with MATLAB
 * Assignment due February 23, 2021
