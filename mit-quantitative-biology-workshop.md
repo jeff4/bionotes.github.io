@@ -8,6 +8,8 @@ permalink: /mit-quantitative-biology-workshop/
 
 ### Workshop 0: Intro to MATLAB
 * [MathWorks MATLAB OnRamp course](https://www.mathworks.com/learn/tutorials/matlab-onramp.html). *(2 hours)*
+	* Completed Sections 1 and 2.1
+	* Next: 2.2 naming variables
 
 ### Workshop 1: Population Modeling with MATLAB
 * Assignment due February 23, 2021
