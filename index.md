@@ -108,6 +108,7 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 ### February 2021
 * 2/02/2021: Listened to a16z Bio Eats World interview with [Rick Young](https://en.wikipedia.org/wiki/Richard_A._Young) from [MIT](https://younglab.org/#youngters) about how only 2% of the human genome codes for protein, but a significant fraction does code for RNA or plays [other regulatory functions](https://static1.squarespace.com/static/5f6926ff1cc8197f2761ebc9/t/5f8313517761ab2128fea6dd/1602425723581/202005_CSHL_oksuz.pdf).
 * 2/06: Joseph's Felsenstein's [2004 textbook *Inferring Phylogenies*](felsenstein-2004) arrived.
+* 2/09: Built new page for MIT 7.QBWX course; started Matlab tutorial.
 * 2/11: Browsed [February 4, 2021 issue](https://www.nature.com/nature/volumes/590/issues/7844) of *Nature* (Vol. 590, Issue 7844).
 	* **Review** [*Function and regulation of the divisome for mitochondrial fission*](https://www.nature.com/articles/s41586-021-03214-x)
 	* p. 171 - Mental health crisis among US grad students
@@ -115,3 +116,4 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 	* p. 40, 89 - Bayesian optimization machine learning to optimize synthetic chemistry reactions
 	* p. 41, 151 - Mouse gut immune response to bacterial infection leads to post-infection abdominal pain when eating antigen-carrying food
 	* p. 67 - Math research: builidng a systematic way of generating polymonial continued fractions (PCFs) and more generally mathematical relations of fundamental constants
+	* 
