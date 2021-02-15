@@ -133,6 +133,7 @@ permalink: /organic-chemistry/
 * 1/07: Started Chapter 4 - The Study of Chemical Reactions
 * 1/23: Retarted Snyder Molecular Genetics of Bacteria again, after insights into archea and bacteria from reading Sapp, Quammen, N.R. Pace, and others.
 * 2/13: discussion with JRH re: future projects, 7 month budget timeline.
+* 2/14: break
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
