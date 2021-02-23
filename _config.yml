@@ -6,5 +6,6 @@ theme: jekyll-theme-architect
 include: 
   - _papers
   - _other
+  - _comp
 plugins:
   - jekyll-sitemap
