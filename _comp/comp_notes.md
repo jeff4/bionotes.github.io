@@ -13,4 +13,4 @@ permalink: /comp_notes/
 	* Experimented with clang to output AST per instructions [here](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
 * **cpp** is a confusingly overloaded term. 
 	* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
-	* Secondly, *.cpp is the file extension for C++ source files. E.g., hello.cpp compiles to a C++ executable that runs the "hello.o" object code.
+	* Secondly, ** \*.cpp** is the file extension for C++ source files. E.g., hello.cpp compiles to a C++ executable that runs the "hello.o" object code.
