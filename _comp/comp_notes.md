@@ -22,7 +22,7 @@ permalink: /comp_notes/
 * Assembler (called [**as** or **gas**](https://en.wikipedia.org/wiki/GNU_Assembler) in gcc)
 * Static linker (e.g., [ld](https://ftp.gnu.org/old-gnu/Manuals/ld-2.9.1/html_node/ld_3.html) in gcc)
 * Dynamic linker (e.g., [ld.so](http://manpages.ubuntu.com/manpages/cosmic/man8/ld.so.8.html) in gcc)
-* See also Fig. 2.1 and drawings in JH Notes Comp #1, 2/22/2021.
+* See also Fig. 2.1 and drawings in JH notes Comp #1, 2/22/2021.
 
 ### Subcomponents within a Unix Compiler
 * Scanner
@@ -30,5 +30,5 @@ permalink: /comp_notes/
 * Semantic Routines
 * A series of code optimizers
 * Code generator
-* See also Fig. 2.2 and drawings in JH Notes Comp #1, 2/24/2021.
-
+* See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
+* complete
