@@ -6,4 +6,9 @@ permalink: /comp_notes/
 # Comp Notes
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
 * 2/22/2021: downloaded Command Line Tools for Mac OS v. 12.4 and was able to get "Hello World" working in Atom and cmdline using clang. Appropriate because it has been exactly 43 years and 1 day since K&R pubished this, per [Daring Fireball](https://daringfireball.net/linked/2021/02/23/hello-world) and [CSAIL at MIT](https://twitter.com/MIT_CSAIL/status/1363875135191678984).
-* 2/24: Started new paper notebook and drew diagrams of **Figure 2.1 – Typical Toolchain**: Preprocessor&#8594;Compiler&#8594;Assembler&#8594;Static Linker&#8594;Dynamic Linker. And **Fig 2.2 – Stages of a Typical Unix Compiler**: Scanner&#8594;Parser&#8594;*AST*&#8594;Semantic Routines&#8594;Multiple rounds of Optimizers&#8594;Code Generator&#8594;*Assembly.s output* 
+* 2/24/2021
+	* Started new paper notebook
+	* Drew diagram of **Figure 2.1 – Typical Toolchain**: Preprocessor&#8594;Compiler&#8594;Assembler&#8594;Static Linker&#8594;Dynamic Linker.
+	* Drew diagram of **Fig 2.2 – Stages of a Typical Unix Compiler**: Scanner&#8594;Parser&#8594;*AST*&#8594;Semantic Routines&#8594;Multiple rounds of Optimizers&#8594;Code Generator&#8594;*Assembly.s output* 
+	* Experimented with clang to output AST per instructions [here](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
+* 
