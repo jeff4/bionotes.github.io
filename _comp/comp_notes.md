@@ -11,4 +11,6 @@ permalink: /comp_notes/
 	* Drew diagram of **Figure 2.1 – Typical Toolchain**: Preprocessor&#8594;Compiler&#8594;Assembler&#8594;Static Linker&#8594;Dynamic Linker.
 	* Drew diagram of **Fig 2.2 – Stages of a Typical Unix Compiler**: Scanner&#8594;Parser&#8594;*AST*&#8594;Semantic Routines&#8594;Multiple rounds of Optimizers&#8594;Code Generator&#8594;*Assembly.s output* 
 	* Experimented with clang to output AST per instructions [here](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
-* 
+* **cpp** is a confusingly overloaded term. 
+	* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
+	* Secondly, *.cpp is the file extension for C++ source files. E.g., hello.cpp compiles to a C++ executable that runs the "hello.o" object code.
