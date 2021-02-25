@@ -13,5 +13,5 @@ permalink: /comp_notes/
 	* Experimented with clang to output AST per instructions [here](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
 * **cpp** is a confusingly overloaded term. 
 	* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
-	* Secondly, ** foo.cpp** is the file extension for C++ source files. E.g., "hello.cpp" compiles to a C++ executable that runs the "hello.o" object code.
+	* Secondly,  the .cpp in *foo.cpp* is the file extension for C++ source files. E.g., "hello.cpp" compiles to a C++ executable that runs the "hello.o" object code.
 * Per Figure 2.1 (see JH notes Comp #1, 2/22/2021), the gcc compiler is also called cc1 per this [Stack Overflow article](https://stackoverflow.com/questions/63561353/is-gcc-a-compiler-or-is-it-a-collection-of-tools-for-the-compilation-process).
