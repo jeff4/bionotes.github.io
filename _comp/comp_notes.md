@@ -23,6 +23,7 @@ permalink: /comp_notes/
 	1. **Parentheses:** expression &#8592; (expr)
 	1. **An identifier is an atomic expression:** expression &#8592; id
 	1. **An integer is an atomic expression:** expression &#8592; int
+* 2/26/2021 – moved exercise files to ~/df/jeff_c_lang_exercises
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
