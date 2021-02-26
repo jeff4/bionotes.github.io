@@ -20,7 +20,7 @@ permalink: /comp_notes/
 	1. **Multiplication:** expression &#8592; expr * expr
 	1. **Assignment:** expression &#8592; expr = expr
 	1. **Call a function:** expression &#8592; id ( expr )
-	1. **Parentheses:** expression &#8592;
+	1. **Parentheses:** expression &#8592; (expr)
 	1. **An identifier is an atomic expression:** expression &#8592; id
 	1. **An integer is an atomic expression:** expression &#8592; int
 
