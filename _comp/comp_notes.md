@@ -8,13 +8,21 @@ permalink: /comp_notes/
 * 2/22/2021: downloaded Command Line Tools for Mac OS v. 12.4 and was able to get "Hello World" working in Atom and cmdline using clang. Appropriate because it has been exactly 43 years and 1 day since K&R pubished this, per [Daring Fireball](https://daringfireball.net/linked/2021/02/23/hello-world) and [CSAIL at MIT](https://twitter.com/MIT_CSAIL/status/1363875135191678984).
 * 2/24/2021
 	* Started new paper notebook
-	* Drew diagram of **Figure 2.1 – Typical Toolchain**: Preprocessor&#8594;Compiler&#8594;Assembler&#8594;Static Linker&#8594;Dynamic Linker.
+	* Drew diagram of from [Thain](https://app.box.com/s/2m7iei23k0i7igy92sicey8ac3jj4xjx),**Figure 2.1 – Typical Toolchain**: Preprocessor&#8594;Compiler&#8594;Assembler&#8594;Static Linker&#8594;Dynamic Linker.
 	* Drew diagram of **Fig 2.2 – Stages of a Typical Unix Compiler**: Scanner&#8594;Parser&#8594;*AST*&#8594;Semantic Routines&#8594;Multiple rounds of Optimizers&#8594;Code Generator&#8594;*Assembly.s output* 
 	* Experimented with clang to output AST per instructions [here](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
-* **cpp** is a confusingly overloaded term. 
-	* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
-	* Secondly,  the .cpp in *foo.cpp* is the file extension for C++ source files. E.g., "hello.cpp" compiles to a C++ executable that runs the "hello.o" object code.
-* Per Figure 2.1 (see JH notes Comp #1, 2/22/2021), the gcc compiler is also called cc1 per this [Stack Overflow article](https://stackoverflow.com/questions/63561353/is-gcc-a-compiler-or-is-it-a-collection-of-tools-for-the-compilation-process).
+	* **cpp** is a confusingly overloaded term. 
+		* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
+		* Secondly,  the .cpp in *foo.cpp* is the file extension for C++ source files. E.g., "hello.cpp" compiles to a C++ executable that runs the "hello.o" object code.
+	* Per Figure 2.1 (see JH notes Comp #1, 2/22/2021), the gcc compiler is also called cc1 per this [Stack Overflow article](https://stackoverflow.com/questions/63561353/is-gcc-a-compiler-or-is-it-a-collection-of-tools-for-the-compilation-process).
+* 2/25/2021 - Grammar G1, p. 8
+	1. **Addition:** expression &#8592; expr + expr 
+	1. **Multiplication:** expression &#8592; expr * expr
+	1. **Assignment:** expression &#8592; expr = expr
+	1. **Call a function:** expression &#8592; id ( expr )
+	1. **Parentheses:** expression &#8592;
+	1. **An identifier is an atomic expression:** expression &#8592; id
+	1. **An integer is an atomic expression:** expression &#8592; int
 
 ### Tools in a typical toolchain
 * Preprocessor (e.g., **cpp** in gcc)
@@ -31,4 +39,6 @@ permalink: /comp_notes/
 * A series of code optimizers
 * Code generator
 * See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
-* complete
+
+
+
