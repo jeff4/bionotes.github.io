@@ -44,5 +44,9 @@ permalink: /comp_notes/
 ## Chapter 3: Scanning
 ### Section 3.1 Kinds of Tokens
 * Identifying [**tokens**](https://stackoverflow.com/a/39909662) in source code can be complicated.
-
-
+	1. Keywords
+	2. Identifiers
+	3. Numbers
+	4. Strings
+	5. Comments
+	6. Whitespace 
