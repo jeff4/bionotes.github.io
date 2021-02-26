@@ -42,11 +42,15 @@ permalink: /comp_notes/
 * See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
 
 ## Chapter 3: Scanning
-### Section 3.1 Kinds of Tokens
+### Section 3.1: Kinds of Tokens
 * Identifying [**tokens**](https://stackoverflow.com/a/39909662) in source code can be complicated.
-	1. Keywords
-	2. Identifiers
-	3. Numbers
-	4. Strings
-	5. Comments
-	6. Whitespace 
+	1. **Keywords** are reserved words in the language such as *while*, *class*, or *true*.
+	2. **Identifiers** are programmer-definable names for variables, functions, classes, and other code elements. Some languages like Perl require certain **sentinels** such as the dollar sign ($) to denote all variable_names. 
+	3. **Numbers** can be formatted as integers, floating point values, fractions, or in alternate bases such as binary, octal, or hexadecimal. 
+	4. **Strings** are literal character sequences that must be clearly distinguished from keywords or identifiers, typically set off by single or double quotes. Strings should also have the ability to handle escaped characters, quotations, new lines, and unprintable characters.
+	5. **Comments** are used to clarify the code.
+	6. **Whitespace** are also used to make the code more human-readable and my play a role in the structure of the program (e.g., Python).
+
+### Section 3.2: A simple, formal scanner
+* See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
+
