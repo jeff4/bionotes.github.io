@@ -24,6 +24,7 @@ permalink: /comp_notes/
 	1. **An identifier is an atomic expression:** expression &#8592; id
 	1. **An integer is an atomic expression:** expression &#8592; int
 
+## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
 * Preprocessor (e.g., **cpp** in gcc)
 * Compiler proper (e.g., **cc1** in gcc)
@@ -40,5 +41,8 @@ permalink: /comp_notes/
 * Code generator
 * See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
 
+## Chapter 3: Scanning
+### Section 3.1 Kinds of Tokens
+* Identifying [**tokens**](https://stackoverflow.com/a/39909662) in source code can be complicated.
 
 
