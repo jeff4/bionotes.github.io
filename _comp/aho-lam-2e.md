@@ -12,3 +12,16 @@ permalink: /aho-lam-2e/
 ## Chapter 1:  Introduction
 
 ### 1.2: The Structure of A Compiler
+* Within the black box of the compiler are two subsections: **analysis** and **synthesis**
+* Analysis Subsection aka *The Front End*
+	* breaks up the source program into constituent pieces and imposes a grammatical structure on them. 
+	* Turns grammatical structure into an intermediate representation.
+	* If the source program is syntatically ill-formed or sematicallyl unsound, then it tries to return informative error messages to the programmer.
+	* Generates a *symbol table* which is passed along with the intermediate representation
+* Synthesis Subsection aka **The Back End**
+	* Consolidates the intermediate representation and symbol table together and turns them into the desired target program.
+
+#### Phases of compilation
+* **Lexical Analyzer &#8594; Syntax Analyzer &#8594; Semantic Analyzer &#8594; Intermediate Code Generator &#8594; Machine-Independent Code Optimizer &#8594; Code Generator &#8594; Machine-Dependent Code Optimizer**
+*  *character stream* &#8594; Lexical Analyzer &#8594; *token stream* &#8594; Syntax Analyzer &#8594; *syntax tree* &#8594; Semantic Analyzer &#8594; *syntax tree* &#8594; Intermediate Code Generator &#8594; *intermediate representation* &#8594; Machine-Independent Code Optimizer &#8594;*intermediate representation* &#8594;  Code Generator &#8594; *target-machine code* &#8594; Machine-Dependent Code Optimizer &#8594; *target-machine code*
+
