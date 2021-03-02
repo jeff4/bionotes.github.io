@@ -26,4 +26,14 @@ permalink: /aho-lam-2e/
 *  *character stream* &#8594; Lexical Analyzer &#8594; *token stream* &#8594; Syntax Analyzer &#8594; *syntax tree* &#8594; Semantic Analyzer &#8594; *syntax tree* &#8594; Intermediate Code Generator &#8594; *intermediate representation* &#8594; Machine-Independent Code Optimizer &#8594;*intermediate representation* &#8594;  Code Generator &#8594; *target-machine code* &#8594; Machine-Dependent Code Optimizer &#8594; *target-machine code*
 
 #### 1.2.1 Lexical Analysis
-* Lexical analysis is also called scanning.
+* Lexical analysis aka scanning reads the stream of input characters from the source code and organizes them into [lexemes](https://en.wikipedia.org/wiki/Lexical_analysis#Lexeme).
+* The scanner then assigns a token to each lexeme in the form: {*token-name*, *attribute-value*}. 
+
+
+#### 1.2.2 Syntax Analysis
+* The second phase of the compiler is called syntax analysis aka parsing.
+
+
+
+
+
