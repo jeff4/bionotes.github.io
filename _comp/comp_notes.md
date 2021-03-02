@@ -24,8 +24,9 @@ permalink: /comp_notes/
 	1. **An identifier is an atomic expression:** expression &#8592; id
 	1. **An integer is an atomic expression:** expression &#8592; int
 * 2/26/2021 – moved exercise files to ~/df/jeff_c_lang_exercises
-* 2/27/2021 – Purple Dragon Book. read about Java etc.
+* 2/27/2021 – Started Purple Dragon Book. read about Java etc.
 * 2/28/2021 – copied test_scanner.c out into jeff_c_lang_exercises. Started Section 3.3 on Regular Expressions.
+* 3/01/2021 – Created page for the [Purple Dragon book](/aho-lam-2e/). 
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
