@@ -13,7 +13,7 @@ permalink: /aho-lam-2e/
 ### 1.2: The Structure of A Compiler
 * Within the black box of the compiler are two subsections: **analysis** and **synthesis**
 
-1. **Analysis** Subsection aka *The Front End*
+* **Analysis** Subsection aka *The Front End*
 	* Breaks up the source program into constituent pieces and imposes a grammatical structure on them. 
 	* Turns grammatical structure into an intermediate representation.
 	* If the source program is syntatically ill-formed or semantically unsound, then it tries to return informative error messages to the programmer.
