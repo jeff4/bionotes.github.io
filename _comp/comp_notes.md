@@ -26,7 +26,8 @@ permalink: /comp_notes/
 * 2/26/2021 – moved exercise files to ~/df/jeff_c_lang_exercises
 * 2/27/2021 – Started Purple Dragon Book. read about Java etc.
 * 2/28/2021 – copied test_scanner.c out into jeff_c_lang_exercises. Started Section 3.3 on Regular Expressions.
-* 3/01/2021 – Created page for the [Purple Dragon book](/aho-lam-2e/). 
+* 3/01: Created page for the [Purple Dragon book](/aho-lam-2e/). 
+* 3/03: Drew various illustrated versions of Figure 1.6 (Aho p. 5).
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
@@ -57,4 +58,3 @@ permalink: /comp_notes/
 
 ### Section 3.2: A simple, formal scanner
 * See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
-
