@@ -28,6 +28,7 @@ permalink: /comp_notes/
 * 2/28/2021 – copied test_scanner.c out into jeff_c_lang_exercises. Started Section 3.3 on Regular Expressions.
 * 3/01: Created page for the [Purple Dragon book](/aho-lam-2e/). 
 * 3/03: Drew various illustrated versions of Figure 1.6 (Aho p. 5).
+* 3/04: Further reading of Lexical and Syntax Analysis in Aho.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
@@ -58,3 +59,4 @@ permalink: /comp_notes/
 
 ### Section 3.2: A simple, formal scanner
 * See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
+
