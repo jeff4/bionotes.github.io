@@ -30,6 +30,7 @@ permalink: /comp_notes/
 * 3/03: Drew various illustrated versions of Figure 1.6 (Aho p. 5).
 * 3/04: Further reading of Lexical and Syntax Analysis in Aho.
 * 3/05: Drew further more refined versions of Figure 1.6 (Aho p. 5).
+* 3/06: Started with [K&R](/kr-88) and built new page.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
