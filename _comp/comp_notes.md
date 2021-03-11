@@ -31,6 +31,8 @@ permalink: /comp_notes/
 * 3/04: Further reading of Lexical and Syntax Analysis in Aho.
 * 3/05: Drew further more refined versions of Figure 1.6 (Aho p. 5).
 * 3/06: Started [K&R](/kr-88) book, successfully completed several [Edit-Compile-Run](https://wiki.c2.com/?EditCompileLinkRun) iterations for temperature conversion programs through end of p. 14.
+* 3/07 - 3/10: Worked through most of Chapter 1 of K&R.
+* 3/11: Started K.N. King book; successfully compiled and ran first program from KNK p. 23.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
