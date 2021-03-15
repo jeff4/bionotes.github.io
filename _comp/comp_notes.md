@@ -34,6 +34,7 @@ permalink: /comp_notes/
 * 3/07 - 3/10: Worked through most of Chapter 1 of K&R.
 * 3/11: Started [K.N. King book](/knk-2008/); successfully compiled and ran first program from KNK p. 23.
 * 3/13: Wrote additional KNK programs.
+* 3/14: More KNK programs.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
