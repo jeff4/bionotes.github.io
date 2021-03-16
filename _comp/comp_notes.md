@@ -35,6 +35,7 @@ permalink: /comp_notes/
 * 3/11: Started [K.N. King book](/knk-2008/); successfully compiled and ran first program from KNK p. 23.
 * 3/13: Wrote additional KNK programs.
 * 3/14: More KNK programs.
+* 3/15: Redrew Phases of Compiler, Figure 1.6 (Aho p. 5)
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
