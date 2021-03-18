@@ -1,5 +1,7 @@
 ---
 title: Comp Notes
+permalink: /comp_notes/
+
 ---
 
 ## Log
