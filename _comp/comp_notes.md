@@ -1,7 +1,6 @@
 ---
 title: Comp Notes
 permalink: /comp_notes/
-
 ---
 
 ## Log
@@ -39,6 +38,7 @@ permalink: /comp_notes/
 * 3/15: Redrew Phases of Compiler, Figure 1.6 (Aho p. 5)
 * 3/16: More progress in Aho and Thain books
 * 3/17: More progress in Aho book.
+* 3/18: More Aho book.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
