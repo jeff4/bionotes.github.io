@@ -40,6 +40,7 @@ permalink: /comp_notes/
 * 3/17: More progress in Aho book.
 * 3/18: More Aho book.
 * 3/19: More Aho book.
+* 3/21: Redrew compiler diagram.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
