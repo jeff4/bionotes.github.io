@@ -43,6 +43,7 @@ permalink: /comp_notes/
 * 3/21: Redrew compiler diagram.
 * 3/22 - 3/23: Thain p. 14 notes in JH notebook.
 * 3/24: Reviewed Thain regular expressions again in notebook. Moved forward with Thain Section 3.4 on Finite Automata and Deterministic Finite Automata.
+* 3/25: More on FA and DFA.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
