@@ -46,6 +46,7 @@ permalink: /comp_notes/
 * 3/25: More on FA and DFA.
 * 3/26: The New Turing Omnibus by A.K. Dewdney, Chapters 2, 10, etc. on regular expressions, finite automata, etc.
 * 3/27: ...
+* 3/28: ...
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
