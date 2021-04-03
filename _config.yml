@@ -7,5 +7,6 @@ include:
   - _papers
   - _other
   - _comp
+  - _history
 plugins:
   - jekyll-sitemap
