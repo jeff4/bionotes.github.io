@@ -53,6 +53,7 @@ permalink: /comp_notes/
 * 4/01: ...
 * 4/02: Created page for Ellen D. Wu, [*The Color of Success*](/ewu-2014)
 * 4/03: ...
+* 4/12: Began Black Reconstruction.
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
