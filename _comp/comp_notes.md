@@ -53,8 +53,14 @@ permalink: /comp_notes/
 * 4/01: ...
 * 4/02: Created page for Ellen D. Wu, [*The Color of Success*](/ewu-2014)
 * 4/03: ...
-* 4/12: Began Black Reconstruction.
-* 4/13-4/17: more Black Reconstruction
+* 4/12 - 5/03: Black Reconstruction
+* 5/10: Began The Black Jacobins
+* 5/11: Dewdney
+	* Chapter 7: Four computers of the Chomsky Hierarchy
+	* Chapter 2: Finite Automata
+	* Chapter 14: Regular Languages
+	* Chapter 26: Linear Bounded Automata
+	* Chapter 31: Turing Machines
 
 ## Chapter 2: A Quick Tour
 ### Tools in a typical toolchain
