@@ -5,6 +5,9 @@ permalink: /haiti/
 
 ## Resources for The Black Jacobins Clubhouse Readings
 * Daily readings and discussion of *The Black Jacobins* by C.L.R. James, the classic 1938 account of Toussaint L'Ouverture and the San Domingo Revolution, aka the Haitian Revolution, 1791-1804
+* The [book](https://libcom.org/library/black-jacobins-toussaint-louverture-san-domingo-revolution) is available online for free at libcom.org and here is the direct link to the [PDF](https://libcom.org/files/TheBlackJacobinsCLRJames.pdf).
+* Join us on Clubhouse every weekday morning Monday - Friday, starting at 8:30 AM Pacific / 11:30 AM Eastern / 3:30 PM GMT.
+* Each session lasts 3-5 hours, pls drop in when you can. All are welcome.
 
 ## Supplemental podcast episodes
 * <a href="https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)">Mike Duncan's</a> [Revolutions podcast](https://thehistoryofrome.typepad.com/revolutions_podcast/) reviewed the Haitian Revolution back in 2015-2016. I found this podcast to be a great narrative resource to support reading *The Black Jacobins*. One of Duncan's main sources is James' *The Black Jacobins*.
