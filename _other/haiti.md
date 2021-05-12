@@ -14,7 +14,7 @@ permalink: /haiti/
 	* [Episode 4.03](https://thehistoryofrome.typepad.com/revolutions_podcast/2015/12/403-free-and-equal.html): Free and Equal
 	* [Episode 4.04](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/404-three-revolts.html): Three Revolts
 	* [Episode 4.05](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/405-the-citizens-of-april-4.html): The Citizens of April 4
-	* [Episode 4.06](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/405-the-citizens-of-april-4.html): The Second Commission 
+	* [Episode 4.06](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/406-the-second-commission.html): The Second Commission 
 	* [Episode 4.07](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/407-the-citizens-of-june-20.html): The Citizens of June 20
 	* [Episode 4.08](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/01/408-the-tricolor-commission.html): The Tricolor Commission
 	* [Episode 4.09](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/02/409-what-the-future-will-bring.html): What the Future Will Bring
