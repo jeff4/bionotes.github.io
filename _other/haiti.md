@@ -26,6 +26,6 @@ permalink: /haiti/
 	* [Episode 4.15](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/03/415-the-leclerc-expedition.html): The Leclerc Expedition 
 	* [Episode 4.16](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/03/416-dying-like-flies.html): Dying Like Flies
 	* [Episode 4.17](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/04/417-independence.html): Independence
-	* [Episode 17a](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/04/417a-the-haitian-declaration-of-independence.html): The Haitian Declaration of Independence
+	* [Episode 4.17a](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/04/417a-the-haitian-declaration-of-independence.html): The Haitian Declaration of Independence
 	* [Episode 4.18](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/04/418-death-to-the-french-.html): Death to the French
 	* [Episode 4.19](https://thehistoryofrome.typepad.com/revolutions_podcast/2016/04/419-the-history-of-haiti.html): The History of Haiti 
