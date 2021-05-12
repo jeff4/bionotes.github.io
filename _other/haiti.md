@@ -7,8 +7,8 @@ permalink: /haiti/
 * Daily readings and discussion of *The Black Jacobins* by C.L.R. James, the classic 1938 account of Toussaint L'Ouverture and the San Domingo Revolution, aka the Haitian Revolution, 1791-1804
 
 ## Supplemental podcast episodes
-* Mike Duncan's Revolutions podcast has a good review of the Haitian Revolution if you want additional background. One of Duncan's main sources is James' *The Black Jacobins*.
-* I find Duncan's website to be a bit hard to navigate so here are all the Hai
+* <a href="https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)">Mike Duncan's</a> [Revolutions podcast](https://thehistoryofrome.typepad.com/revolutions_podcast/) reviewed the Haitian Revolution back in 2015-2016. I found this podcast to be a great narrative resource to support reading *The Black Jacobins*. One of Duncan's main sources is James' *The Black Jacobins*.
+* I find Duncan's website to be a bit hard to navigate so here are direct links to all of the posts about the Haitian Revolution on Duncan's [site](https://thehistoryofrome.typepad.com/revolutions_podcast/).
 	* [Episode 4.01](https://thehistoryofrome.typepad.com/revolutions_podcast/2015/12/401-saint-domingue.html): Saint-Domingue
 	* [Episode 4.02](https://www.revolutionspodcast.com/2015/12/402-the-web-of-tension.html): The Web of Tension
 	* [Episode 4.03](https://thehistoryofrome.typepad.com/revolutions_podcast/2015/12/403-free-and-equal.html): Free and Equal
