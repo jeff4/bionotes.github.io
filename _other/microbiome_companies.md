@@ -63,3 +63,14 @@ permalink: /microbiome/
 	* SAS TargEDys develops mechanisms involving hormone mimetic proteins linked to microbiota for the treatment of eating disorders such as hyperphagia or anorexia.
 * **ArtPred**
 	* ARTPred is developing technology intended to predict the odds of failure of an embryo to implant in the uterus during in-vitro fertilization procedures. The platform is based on biomarker profiles of the urogenital microbiome.
+* **Nextbiotix**
+	* Funding: $8M
+	* Nextbiotix develops a bacterial treatment for inflammatory bowel diseases. It's intended to rebalance the gut microbiome through the delivery of Faecalibacterium prausnitzii, one of the most abundant species of bacteria in the gut.
+* **Azitra**
+	* Funding: $5.4M
+	* Azitra is a preclinical-stage development company using a microbiome based platform to deliver innovative, inexpensive, and sustainable treatments for skin disease.
+* **Scioto Biosciences**
+	* Funding: $4.4M
+	* Scioto Biosciences is committed to moving the field of microbiome therapeutics forward. By enabling beneficial bacteria colonization in the gut, we believe our novel Activated Bacterial Therapeutic (ABT) delivery platform technology will revolutionize therapeutic interventions for diseases where there is erosion of the mucosal barrier.
+* **Kintai Therapeutics**
+	* Kintai is a biotechnology company that advancing precision therapeutics based on enteric signaling networks in the human body
