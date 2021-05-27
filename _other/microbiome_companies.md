@@ -44,22 +44,22 @@ permalink: /microbiome/
 	* Funding: $38.7m
 	* AOBiome LLC is developing a transformative, new class of products based on Ammonia Oxidizing Bacteria (AOB) to improve skin health and prevent or treat skin and inflammatory diseases. The company’s probiotics are designed to provide cosmetic and therapeutic benefits by restoring the natural, protective balance afforded by beneficial skin microbes that have been lost due to modern living practices, including antibiotic use, soaps, and shampoos.
 * **Ritter Pharmaceuticals**
-* Funding: $22.8M
-* Ritter Pharmaceuticals, Inc. develops novel therapeutic products, which modulate the human gut microbiome to treat inflammatory, gastrointestinal and metabolic diseases. We are discovering a new frontier in human gut health research by exploring the metabolic capacity of the gut microbiota and translating the functionality of prebiotic-based therapeutics into safe and effective applications that can have a meaningful impact on a patient’s health.
+	* Funding: $22.8M
+	* Ritter Pharmaceuticals, Inc. develops novel therapeutic products, which modulate the human gut microbiome to treat inflammatory, gastrointestinal and metabolic diseases. We are discovering a new frontier in human gut health research by exploring the metabolic capacity of the gut microbiota and translating the functionality of prebiotic-based therapeutics into safe and effective applications that can have a meaningful impact on a patient’s health.
 * **Eligo Bioscience**
-* Funding: $22.2 m
-* A unique platform to engineer and intervene on the microbiome. Eligobiotics are a platform technology that can be programmed to leverage the existing microbial populations in the gut, lungs, vagina, skin, etc. This technology can enable a targeted diagnosis, editing, and functionalization of human or animal microbiomes.
+	* Funding: $22.2 m
+	* A unique platform to engineer and intervene on the microbiome. Eligobiotics are a platform technology that can be programmed to leverage the existing microbial populations in the gut, lungs, vagina, skin, etc. This technology can enable a targeted diagnosis, editing, and functionalization of human or animal microbiomes.
 * **MaaT Pharma**
-* Funding: $20M
-* MaaT Pharma (Microbiota as a Therapy) is intended to treat serious diseases linked to imbalances in the intestinal microbiome. It has developed the first treatment solution based on autologous microbiotherapy. MaaT Pharma envisages a first therapeutic application for patients suffering from leukaemia and bone & joint infections, whose major treatment contributes to dysbiosis.
+	* Funding: $20M
+	* MaaT Pharma (Microbiota as a Therapy) is intended to treat serious diseases linked to imbalances in the intestinal microbiome. It has developed the first treatment solution based on autologous microbiotherapy. MaaT Pharma envisages a first therapeutic application for patients suffering from leukaemia and bone & joint infections, whose major treatment contributes to dysbiosis.
 * **Viome**
-* Funding: $15M
-* Viome has developed technology aimed at balancing microorganisms in the gut. With Viome, you can fine-tune the function of your gut microbiome with a personalized diet to minimize the production of harmful metabolites and maximize the production of beneficial ones, so that you experience increased energy and general well-being, all while reaching and maintaining a healthy state of balance.
+	* Funding: $15M
+	* Viome has developed technology aimed at balancing microorganisms in the gut. With Viome, you can fine-tune the function of your gut microbiome with a personalized diet to minimize the production of harmful metabolites and maximize the production of beneficial ones, so that you experience increased energy and general well-being, all while reaching and maintaining a healthy state of balance.
 * **Microbiotica**
-* Funding: £8M
-* Microbiotica's goal is to create the world’s leading company focused on microbiome biology and its use in medicin
+	* Funding: £8M
+	* Microbiotica's goal is to create the world’s leading company focused on microbiome biology and its use in medicin
 * **TargEDys**
-* Funding: $10.3M
-* SAS TargEDys develops mechanisms involving hormone mimetic proteins linked to microbiota for the treatment of eating disorders such as hyperphagia or anorexia.
+	* Funding: $10.3M
+	* SAS TargEDys develops mechanisms involving hormone mimetic proteins linked to microbiota for the treatment of eating disorders such as hyperphagia or anorexia.
 * **ArtPred**
-* ARTPred is developing technology intended to predict the odds of failure of an embryo to implant in the uterus during in-vitro fertilization procedures. The platform is based on biomarker profiles of the urogenital microbiome.
+	* ARTPred is developing technology intended to predict the odds of failure of an embryo to implant in the uterus during in-vitro fertilization procedures. The platform is based on biomarker profiles of the urogenital microbiome.
