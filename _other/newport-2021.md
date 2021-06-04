@@ -10,6 +10,10 @@ permalink: /newport-2021/
 
 
 ### Introduction: The Hyperactive Hive Mind
+* 2010 story of Nish Acharya, Federal Government's director of innovation and entrepreneurship under Barack Obama. How Acharya's tenure began with an unplanned email blackout of 6 weeks.
+	* Acharya experience inconvenience, FOMO on important meetings, and challenges scheduling meetings (p. xii)
+	* But he also "began to notice that he was actually getting *better* at his job"
+
 
 ## Part I: The Case Against Email
 ### Chapter 1: Email Reduces Productivity
