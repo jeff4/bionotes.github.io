@@ -26,7 +26,14 @@ permalink: /newport-2021/
 * [Adobe 2018 Consumer Email Survey](https://www.slideshare.net/adobe/2018-adobe-consumer-email-survey) found that knowledge workers self-report "spending more than 3 hours per day sending and receiving business email." (p. xvii)
 
 #### Definition of Hyperactive Hive Mind
-* A workflow centered around
+* "A workflow centered around ongoing conversation fueled by unstructured and unscheduled messages delivered through digital communication tools like email and IM/IRC services (e.g., Slack, MS Teams, etc.)
+* p. xvii
+
+### Part 1 argument
+* Email reduces productivity, makes people miserable, and originated via a sort of technological determinism (example of hypothesis that introduction of horse stirrups led to superior lance-wielding knights led to creation of feudal economic/legal/political system under Charles Martel). 
+* "In the moment, the ability to quickly delegate tasks or solicit feedback might seem like an act of streamlining, but...it's likely reducing productivity, requiring more time and more expenses to get the same total amount of work accomplished." (p. xviii)
+
+\### Part 2 argument
 
 ## Part I: The Case Against Email
 ### Chapter 1: Email Reduces Productivity
