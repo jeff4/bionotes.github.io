@@ -8,12 +8,15 @@ permalink: /newport-2021/
 * Author: Cal Newport
 * Publication Date: 2021
 
+## this is an H2
+
+### this is an H3
 
 ### Introduction: The Hyperactive Hive Mind
 * 2010 story of Nish Acharya, Federal Government's director of innovation and entrepreneurship under Barack Obama. How Acharya's tenure began with an unplanned email blackout of 6 weeks.
-	* Acharya experience inconvenience, FOMO on important meetings, and challenges scheduling meetings (p. xii)
-	* But he also "began to notice that he was actually getting *better* at his job" (p. xii)
-	* Acharya noticed that because he did not have an inbox to check, he had "whitespace" aka "cognitive downtime" that allowed him to "dive more deeply into the research literature relevant to the topics handled by his office." (p. xiii)
+	1. Acharya experience inconvenience, FOMO on important meetings, and challenges scheduling meetings (p. xii)
+	1. But he also "began to notice that he was actually getting *better* at his job" (p. xii)
+	1. Acharya noticed that because he did not have an inbox to check, he had "whitespace" aka "cognitive downtime" that allowed him to "dive more deeply into the research literature relevant to the topics handled by his office." (p. xiii)
 	* Newport pitched the possibility of working this way–entirely without email–permanently and Acharya needed time to process this because it was so shocking (p. xiii)
 * Standard default hypothesis: If one feels overwhelmed by email (or Slack or Microsof Teams, etc.)  "its because your personal habits are sloppy: you need to batch your inbox checks, and turn off your notifications, and write clearer subject lines! If inbox overload gets really bad, then maybe your organization as a whole needs to tweak their 'norms' around issues like response time expectations." (p. xiv)
 	* But what if the opposite is true?
