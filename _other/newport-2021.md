@@ -16,7 +16,7 @@ permalink: /newport-2021/
 	* Newport pitched the possibility of working this way–entirely without email–permanently and Acharya needed time to process this because it was so shocking (p. xiii)
 * Standard default hypothesis: If one feels overwhelmed by email (or Slack or Microsoft Teams, etc.)  "its because your personal habits are sloppy: you need to batch your inbox checks, and turn off your notifications, and write clearer subject lines! If inbox overload gets really bad, then maybe your organization as a whole needs to tweak their 'norms' around issues like response time expectations." (p. xiv)
 	* But what if the opposite is true?
-	* "What if email didn't sae knowledge work but instead **accidentally traded minor conveniences for a major drag on real productivity (actual results)**, leading to slower economic growth"?
+	* "What if email didn't save knowledge work but instead **accidentally traded minor conveniences for a major drag on real productivity (actual results)**, leading to slower economic growth"?
 	* "What if our problems with these toolsdon't come from easily fixable bad habits and loose norms, bu instead from the way they dramatically and unexpectedly changed the very nature of how we work?"
 * Newport's 2016 [*Deep Work*](https://www.calnewport.com/books/deep-work/) argued that we undervalue concentration and that rapid, frequent, easy digital communication created frequent distractions. 
 	* He assumed that the problem was insufficient knowledge and prioritization; "once organizations realized the importance of focus, they could easily correct their operations to make it a priority."
@@ -31,6 +31,9 @@ permalink: /newport-2021/
 ### Part 1 argument
 * Email reduces productivity, makes people miserable, and originated via a sort of technological determinism (example of hypothesis that introduction of horse stirrups led to superior lance-wielding knights led to creation of feudal economic/legal/political system under Charles Martel). 
 * "In the moment, the ability to quickly delegate tasks or solicit feedback might seem like an act of streamlining, but...it's likely reducing productivity, requiring more time and more expenses to get the same total amount of work accomplished." (p. xviii)
+* Disruption of context switching leads to lower productivity
+* Stress from ignoring your tribe leads to constant low level anxiety. 
+* "Rationally, you know that the six hundred unread messages in your inbox are not crucial, and youl remind yourself that the senders of these messages have better things to do than to wait expectantly, staring at their screens and cursing the latency of your responses. But a deeper part of your brain [shaped during the Paleolithic period], remains concerned by what it perceives to be neglected social obligations. As far as this [System 1 older neural circuitry is] concerned, members of your tribe are trying to get your attention and you're ignoring them: an event that registers as an emergency. The result of this constant state of unease is a low-grade background hum of anxiety that many inbox-bound knowledge workers have come to assume is unavoidable." (p. xviii - xix)
 
 \### Part 2 argument
 
