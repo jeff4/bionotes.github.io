@@ -17,7 +17,9 @@ permalink: /newport-2021/
 	1. Acharya experience inconvenience, FOMO on important meetings, and challenges scheduling meetings (p. xii)
 	1. But he also "began to notice that he was actually getting *better* at his job" (p. xii)
 	1. Acharya noticed that because he did not have an inbox to check, he had "whitespace" aka "cognitive downtime" that allowed him to "dive more deeply into the research literature relevant to the topics handled by his office." (p. xiii)
+
 	* Newport pitched the possibility of working this way–entirely without email–permanently and Acharya needed time to process this because it was so shocking (p. xiii)
+
 * Standard default hypothesis: If one feels overwhelmed by email (or Slack or Microsof Teams, etc.)  "its because your personal habits are sloppy: you need to batch your inbox checks, and turn off your notifications, and write clearer subject lines! If inbox overload gets really bad, then maybe your organization as a whole needs to tweak their 'norms' around issues like response time expectations." (p. xiv)
 	* But what if the opposite is true?
 	* "What if email didn't sae knowledge work but instead **accidentally traded minor conveniences for a major drag on real productivity (actual results)**, leading to slower economic growth"?
