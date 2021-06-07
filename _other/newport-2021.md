@@ -34,11 +34,16 @@ permalink: /newport-2021/
 * Disruption of context switching leads to lower productivity
 * Stress from ignoring your tribe leads to constant low level anxiety. 
 * "Rationally, you know that the six hundred unread messages in your inbox are not crucial, and youl remind yourself that the senders of these messages have better things to do than to wait expectantly, staring at their screens and cursing the latency of your responses. But a deeper part of your brain [shaped during the Paleolithic period], remains concerned by what it perceives to be neglected social obligations. As far as this [System 1 older neural circuitry is] concerned, members of your tribe are trying to get your attention and you're ignoring them: an event that registers as an emergency. The result of this constant state of unease is a low-grade background hum of anxiety that many inbox-bound knowledge workers have come to assume is unavoidable." (p. xviii - xix)
+* At the end of Part 1, Newport explains that this no one actually consciously decided to switch over to the hyperactive hive mind workflow; he uses an argument based on technological determinism.
 
-\### Part 2 argument
+### Part 2 argument
+* Solutions. Newport introduces concept of **attention capital theory**. 
+* Peter Drucker's idea led to the idea that knowledge workers are autonomous black boxes for input/output. Drucker advocating avoidance of micromanagement within each black box and just give "clear [higher-level] objectives and motivational leadership". (p. xix - xx) 
+* Newport disagrees and advocates a rearchitecting of how organizations can/should do their workflow.
 
 ## Part I: The Case Against Email
 ### Chapter 1: Email Reduces Productivity
+* Story of Sean who ran a small London software and tech consultancy that built internal applications for large corporate clients. (p. 3-5) 
 ### Chapter 2: Email Makes Us Miserable
 ### Chapter 3: Email Has a Mind of Its Own
 
