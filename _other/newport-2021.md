@@ -44,6 +44,7 @@ permalink: /newport-2021/
 ## Part I: The Case Against Email
 ### Chapter 1: Email Reduces Productivity
 * Story of Sean who ran a small London software and tech consultancy that built internal applications for large corporate clients. (p. 3-5) 
+	* Note that in a 2019 follow up interview, Newport talked to Sean and found that Sean's company dissolved. But not because the new productivity system failed. And Sean was committed to recreating a version of it next time he ran a lartge team. See Chapter 1, footnote 24 (p. 268) 
 ### Chapter 2: Email Makes Us Miserable
 ### Chapter 3: Email Has a Mind of Its Own
 
