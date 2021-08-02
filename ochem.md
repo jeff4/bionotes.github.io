@@ -134,6 +134,7 @@ permalink: /organic-chemistry/
 * 1/23: Retarted Snyder Molecular Genetics of Bacteria again, after insights into archea and bacteria from reading Sapp, Quammen, N.R. Pace, and others.
 * 2/13: discussion with JRH re: future projects, 7 month budget timeline.
 * 2/14: break
+* 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
@@ -170,8 +171,9 @@ permalink: /organic-chemistry/
 * Start with halogenation of alkanes
 * Thermodynamics, kinetics, and mechanism
 
+<strike>
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
-1. <del>[Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)</del>
+1. [Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)
 2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
 	* Counting electrons
 	* Resonance structures
@@ -210,6 +212,8 @@ permalink: /organic-chemistry/
 12. Alpha carbon chemistry
 13. Amines
 14. Spectroscopy
+</strike>
+
 
 ### Miscellaneous notes
 * Organic Chemistry courses
