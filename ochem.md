@@ -135,6 +135,7 @@ permalink: /organic-chemistry/
 * 2/13: discussion with JRH re: future projects, 7 month budget timeline.
 * 2/14: break
 * 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128
+* 8/02: Rebuilt /organic-chemistry/ page. For older version with Khan Academy checklist, refer to ochem v01.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
@@ -170,50 +171,6 @@ permalink: /organic-chemistry/
 ### Chapter 4: Chemical Reactions p. 127-168
 * Start with halogenation of alkanes
 * Thermodynamics, kinetics, and mechanism
-
-<del>
-## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
-1. [Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)
-2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
-	* Counting electrons
-	* Resonance structures
-	* Organic acid-base chemistry
-		* Acid-base definitions
-		* Organic acid-base mechanisms
-		* K<sub>a</sub> and acid strength
-		* K<sub>a</sub> and pK<sub>a</sub> review
-		* Using pK<sub>a</sub> table
-		* Using pK<sub>a</sub> values to predict the position of equilibrium
-		* Stabilization of a conjugate base: electronegativity
-		* Acid strength, anion size, and bond energy
-		* Stabilization of a conjugate base: resonance
-		* Stabilization of a conjugate base: induction
-		* Stabilization of a conjugate base: hybridization
-		* Stabilization of a conjugate base: solvation
-3. [Alkanes, cycloalkanes, and functional groups](https://www.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes)
-4. [Stereochemistry](https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic)
-	* Chirality 
-	* Enantiomers
-	* Stereoisomeric relationships
-5. [Substitution and elimination reactions](https://www.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions)
-	* Free radical reaction
-	* Nucleophilicity and basicity
-	* Elimination reactions
-	* Introduction: S<sub>N</sub>1; S<sub>N</sub>2; E1; and E2
-	* S<sub>N</sub>1 and S<sub>N</sub>2 reactions
-	* E1 and E2 reactions
-	* Conclusion: S<sub>N</sub>1; S<sub>N</sub>2; E1; and E2
-6. Alkenes and alkynes
-7. Alcohols, ethers, epoxides, sulfides
-8. Conjugated systems and pericyclic reactions
-9. Aromatic compounds
-10. Aldehydes and ketones
-11. Carboxylic acids and derivatives
-12. Alpha carbon chemistry
-13. Amines
-14. Spectroscopy
-</del>
-
 
 ### Miscellaneous notes
 * Organic Chemistry courses
