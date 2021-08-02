@@ -171,7 +171,7 @@ permalink: /organic-chemistry/
 * Start with halogenation of alkanes
 * Thermodynamics, kinetics, and mechanism
 
-<strike>
+<del>
 ## Checklist for [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
 1. [Structure and bonding](https://www.khanacademy.org/science/organic-chemistry/gen-chem-review)
 2. [**Resonance and acid-base chemistry**](https://www.khanacademy.org/science/organic-chemistry/organic-structures)
@@ -212,7 +212,7 @@ permalink: /organic-chemistry/
 12. Alpha carbon chemistry
 13. Amines
 14. Spectroscopy
-</strike>
+</del>
 
 
 ### Miscellaneous notes
