@@ -134,6 +134,8 @@ permalink: /organic-chemistry/
 * 1/23: Retarted Snyder Molecular Genetics of Bacteria again, after insights into archea and bacteria from reading Sapp, Quammen, N.R. Pace, and others.
 * 2/13: discussion with JRH re: future projects, 7 month budget timeline.
 * 2/14: break
+* May – July 2021: Axler, *Linear Algebra Done Right*, 3rd Edition; partway through Chapter 5, Section 5B on chained transformations on T-invariant subspaces.
+* August, 2021: Back to organic chemistry
 * 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128
 * 8/02: Rebuilt /organic-chemistry/ page. For older version with Khan Academy checklist, refer to ochem v01.
 
