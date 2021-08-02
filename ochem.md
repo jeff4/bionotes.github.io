@@ -173,7 +173,16 @@ permalink: /organic-chemistry/
 
 ### Chapter 4: Chemical Reactions p. 127-168
 * Start with halogenation of alkanes
-* Thermodynamics, kinetics, and mechanism
+* Mechanism, thermodynamics, and kinetics p. 128
+	1. Mechanism – step by step series of intermediates from reactants to final product(s)
+	2. Thermodynamics – study of free energy changes, entropy, enthalpy
+	3. Kinetics – study of speed of reaction (aka reaction rates) based on conditions
+
+#### Section 4.3: The Free-Radical Chain Reaction
+* Chain reaction mechanism has 3 types of steps:
+	1. Initiation step
+	2. Propagation steps
+	3. Termination steps  
 
 ### Miscellaneous notes
 * Organic Chemistry courses
