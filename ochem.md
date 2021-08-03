@@ -137,8 +137,8 @@ permalink: /organic-chemistry/
 * March 2021: Compiler studies
 * May – July 2021: Axler, *Linear Algebra Done Right*, 3rd Edition; partway through Chapter 5, Section 5B on chained transformations on T-invariant subspaces.
 * August, 2021: Back to organic chemistry
-* 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128
-* 8/02: Rebuilt [ochem page](/organic-chemistry/). For older version with Khan Academy checklist, refer to ochem v01.
+* 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128. Rebuilt [ochem page](/organic-chemistry/). For older version with Khan Academy checklist, refer to ochem v01.
+* 8/02: Generation of free radicals, p. 129.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
