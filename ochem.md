@@ -139,9 +139,10 @@ permalink: /organic-chemistry/
 * August, 2021: Back to organic chemistry
 * 8/01: Restarted Wade Ch 4, Section 4.3: The Free Radical Chain Reaction, p. 128. Rebuilt [ochem page](/organic-chemistry/). For older version with Khan Academy checklist, refer to ochem v01.
 * 8/02: Generation of free radicals, p. 129.
-* 8/03: Drew Lewis structures of radical species, Problem 4-3 p. 130.
+* 8/03: Drew Lewis structures of radical species, Problem 4-1 p. 130.
 * 8/04: Definition and examples for matrix of operator T &#8712; &#8466;(V) and distinction from matrix of linear map T  &#8712; &#8466;(V,W).
-* 8/05: More radical species
+* 8/05: Problem 4-2
+* 8/06: Termination steps of chlorination of methane p. 131
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
