@@ -141,6 +141,7 @@ permalink: /organic-chemistry/
 * 8/02: Generation of free radicals, p. 129.
 * 8/03: Drew Lewis structures of radical species, Problem 4-3 p. 130.
 * 8/04: Definition and examples for matrix of operator T &#8712; &#8466;(V) and distinction from matrix of linear map T  &#8712; &#8466;(V,W).
+* 8/05: More radical species
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
