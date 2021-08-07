@@ -143,6 +143,7 @@ permalink: /organic-chemistry/
 * 8/04: Definition and examples for matrix of operator T &#8712; &#8466;(V) and distinction from matrix of linear map T  &#8712; &#8466;(V,W).
 * 8/05: Problem 4-2
 * 8/06: Termination steps of chlorination of methane p. 131
+* 8/07:  Problems 4-3, 4-4, started Section 4-4, review of equilibrium constant and free energy, p. 133.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
