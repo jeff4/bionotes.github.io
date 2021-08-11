@@ -146,6 +146,7 @@ permalink: /organic-chemistry/
 * 8/07:  Problems 4-3, 4-4, started Section 4-4, review of equilibrium constant and free energy, p. 133.
 * 8/08: Phone chat with MC Boston Commons re: medical affairs etc
 * 8/09: More Axler, eigenspaces, diagonalization, etc.
+* 8/10: Started Axler Section 5C, p. 155 as well as Dr. Trefor Bazett's video series on Linear Algebra.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
