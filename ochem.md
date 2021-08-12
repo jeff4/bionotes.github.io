@@ -147,6 +147,7 @@ permalink: /organic-chemistry/
 * 8/08: Phone chat with MC Boston Commons re: medical affairs etc
 * 8/09: More Axler, eigenspaces, diagonalization, etc.
 * 8/10: Started Axler Section 5C, p. 155 as well as Dr. Trefor Bazett's video series on Linear Algebra.
+* 8/11: Completed Axler Chapter 5, first pass. Need to review other resources on eigenspaces etc. again. 
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
