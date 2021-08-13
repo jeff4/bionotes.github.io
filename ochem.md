@@ -148,6 +148,7 @@ permalink: /organic-chemistry/
 * 8/09: More Axler, eigenspaces, diagonalization, etc.
 * 8/10: Started Axler Section 5C, p. 155 as well as Dr. Trefor Bazett's video series on Linear Algebra.
 * 8/11: Completed Axler Chapter 5, first pass. Need to review other resources on eigenspaces etc. again. 
+* 8/12: Completed review of standard Gibbs free energy change. Began Wade Section 4-5 on changes in enthalpy and entropy.
 
 #### Resonance-stabilization and resonance hybrids
 * Wade p. 13-16
