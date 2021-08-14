@@ -89,7 +89,64 @@ permalink: /organic-chemistry/
 * Note that hydrocarbons are divided into [aliphatic](https://en.wikipedia.org/wiki/Aliphatic_compound) versus aromatic subcategories. 
 	* **Aromatic** hydrocarbons include benzene and other resonant ring-structures. 
 	* **Aliphatic** aka non-aromatic hydrocarbons include straight chain alkanes like hexane as well as cyclic (non-resonant) molecules like cyclohexane. Aliphatic hydrocarbons can be saturated or unsaturated.
+	
+#### Resonance-stabilization and resonance hybrids
+* Wade p. 13-16
+* See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
+* **See p. 13 for a very important table** to see common charges on atoms in organic compounds and ions. See also handwritten JH notes 10/23/2020
+* See Wade p. 15 for example of **H<sub>2</sub>C=NH<sub>2</sub>** which is a [Primary Aldimine](https://en.wikipedia.org/wiki/Imine#Nomenclature_and_classification), a type of [**imine**](https://en.wikipedia.org/wiki/Imine) b/c there is a C=N double bond.
+* Problem 1-8f on p. 17 refers to [**formamide** aka **methanamide**](https://en.wikipedia.org/wiki/Formamide) which has the chemical structure **HC(=O)NH<sub>2</sub>**.
 
+#### Bond-Dipole moments (p. 59-60)
+* LG Wade, Chapter 2, Section 2-9A (10/11/2020)
+* Range of bond polarities from least to most polar: covalent (non-polar with similar electronegativities), covalent (polar which occurs when the 2 atoms have very different electronegativity), to totally ionic.
+* List from least polar (aka most non-polar) to most polar:
+	* ethane – CH<sub>3</sub>CH<sub>3</sub>
+	* methylamine – CH<sub>3</sub>NH<sub>2</sub>
+	* methanol – CH<sub>3</sub>OH
+	* chloromethane – CH<sub>3</sub>Cl
+	* methylammonium chloride (ionic bond):  CH<sub>3</sub>NH<sub>4</sub><sup>+</sup> and Cl<sup>-</sup>
+* Bond polarity is measured by the [**bond dipole moment &#956;**](https://en.wikipedia.org/wiki/Bond_dipole_moment) ("mu"), which is measured by &#956; = **&#948;** * **d** where **&#948;** = amount of charge either end fo the dipole and **d** = distance between the charges.
+* The usual unit for bond polarity is the [debye, abbreviated "D"](https://en.wikipedia.org/wiki/Debye) where **1 D** = ~3.336 * 10<sup>-30</sup> Coulomb*meters.
+* In organic compounds, bond dipole moments range from zero (for symmetrically equal electronegativities) to about 3.6D for the very polarized C&#8801;N triple bond.
+* See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
+
+### Chapter 3: Structure and Stereochemistry of Alkanes p. 83–126
+* [Methylene groups](https://en.wikipedia.org/wiki/Methylene_group) are simply interior **–CH<sub>2</sub>–** groups. p. 84
+* Methane, ethane, propane, butane, pentane, hexane, heptane, etc. are all [homologs](https://en.wikipedia.org/wiki/Homology_(chemistry)).
+* Four Rules of Naming Alkanes per [IUPAC](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry):
+	1. The Main Chain
+	2. Numbering the Main Chain
+	3. Naming the Alkyl Group
+	4. Organizing Multiple Groups
+* **Geometric isomers** of cycloalkanes. A cycloalkane has two distinct faces. If substituent groups point towards the same face, they are **cis**. If the groups are oriented towards opposite faces, they are **trans**.  p. 105
+
+### Chapter 4: Chemical Reactions p. 127-168
+* Start with halogenation of alkanes
+* Mechanism, thermodynamics, and kinetics p. 128
+	1. Mechanism – step by step series of intermediates from reactants to final product(s)
+	2. Thermodynamics – study of free energy changes, entropy, enthalpy
+	3. Kinetics – study of speed of reaction (aka reaction rates) based on conditions
+
+#### Section 4.3: The Free-Radical Chain Reaction
+* Chain reaction mechanism has 3 types of steps:
+	1. Initiation step
+	2. Propagation steps
+	3. Termination steps  
+
+### Miscellaneous notes
+* Organic Chemistry courses
+	* [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
+	* Yale Organic Chemistry intro sequence
+		* [Chem 125a](https://oyc.yale.edu/chemistry/chem-125a), [playlist](https://www.youtube.com/playlist?list=PLFD7FB43DA0E679FD) of YouTube videos
+		* [Chem 125b](https://oyc.yale.edu/chemistry/chem-125b). playlist on [YouTube](https://www.youtube.com/playlist?list=PL6E3852144D8348FB)
+* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
+* MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) taught by Dr. Sarah Tabacco and Prof. Barbara Imperiali used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade.
+	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/).
+	* I think this course appeals to me more, starts with discussion of Resonance, etc.
+* MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) taught by Dr. Kimberly Berkowski and Prof. Sarah O'Connor used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
+	* Set of lecture notes, including some garish powerpoint slides, [here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/lecture-handouts/).
+	
 ## L.G. Wade progress
 * 9/22/2020: completed p. 32 exercises on arrow-pushing, esp. for Lewis Acid-Bases, nucleophiles (electron-pair donor *aka* Lewis base) vs. electrophiles (electron-pair acceptor *aka* Lewis acid). 
 * 9/24/2020: completed building periodic table of most commonly used elements for organic chemistry
@@ -149,60 +206,6 @@ permalink: /organic-chemistry/
 * 8/10: Started Axler Section 5C, p. 155 as well as Dr. Trefor Bazett's video series on Linear Algebra.
 * 8/11: Completed Axler Chapter 5, first pass. Need to review other resources on eigenspaces etc. again. 
 * 8/12: Completed review of standard Gibbs free energy change. Began Wade Section 4-5 on changes in enthalpy and entropy.
+* 8/13: Info chats with NO and SC "M"
+* 8/14: More on Wade Chapter 4
 
-#### Resonance-stabilization and resonance hybrids
-* Wade p. 13-16
-* See also <a href="https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_332_--_Organic_Chemistry_II_(Lund)/9%3A_Phosphate_Transfer_Reactions/02%3A_Overview_of_Phosphate_Groups">this page</a> and Wayne Breslyn's short and very clear [YouTube video](https://www.youtube.com/watch?v=PQxL-2q0Pac) about the hybrid structure **phosophate ion PO<sub>4</sub><sup>3-</sup>**
-* **See p. 13 for a very important table** to see common charges on atoms in organic compounds and ions. See also handwritten JH notes 10/23/2020
-* See Wade p. 15 for example of **H<sub>2</sub>C=NH<sub>2</sub>** which is a [Primary Aldimine](https://en.wikipedia.org/wiki/Imine#Nomenclature_and_classification), a type of [**imine**](https://en.wikipedia.org/wiki/Imine) b/c there is a C=N double bond.
-* Problem 1-8f on p. 17 refers to [**formamide** aka **methanamide**](https://en.wikipedia.org/wiki/Formamide) which has the chemical structure **HC(=O)NH<sub>2</sub>**.
-
-#### Bond-Dipole moments (p. 59-60)
-* LG Wade, Chapter 2, Section 2-9A (10/11/2020)
-* Range of bond polarities from least to most polar: covalent (non-polar with similar electronegativities), covalent (polar which occurs when the 2 atoms have very different electronegativity), to totally ionic.
-* List from least polar (aka most non-polar) to most polar:
-	* ethane – CH<sub>3</sub>CH<sub>3</sub>
-	* methylamine – CH<sub>3</sub>NH<sub>2</sub>
-	* methanol – CH<sub>3</sub>OH
-	* chloromethane – CH<sub>3</sub>Cl
-	* methylammonium chloride (ionic bond):  CH<sub>3</sub>NH<sub>4</sub><sup>+</sup> and Cl<sup>-</sup>
-* Bond polarity is measured by the [**bond dipole moment &#956;**](https://en.wikipedia.org/wiki/Bond_dipole_moment) ("mu"), which is measured by &#956; = **&#948;** * **d** where **&#948;** = amount of charge either end fo the dipole and **d** = distance between the charges.
-* The usual unit for bond polarity is the [debye, abbreviated "D"](https://en.wikipedia.org/wiki/Debye) where **1 D** = ~3.336 * 10<sup>-30</sup> Coulomb*meters.
-* In organic compounds, bond dipole moments range from zero (for symmetrically equal electronegativities) to about 3.6D for the very polarized C&#8801;N triple bond.
-* See p. 60, Table 2-1 for a list of common 2-atom bond dipole moments
-
-### Chapter 3: Structure and Stereochemistry of Alkanes p. 83–126
-* [Methylene groups](https://en.wikipedia.org/wiki/Methylene_group) are simply interior **–CH<sub>2</sub>–** groups. p. 84
-* Methane, ethane, propane, butane, pentane, hexane, heptane, etc. are all [homologs](https://en.wikipedia.org/wiki/Homology_(chemistry)).
-* Four Rules of Naming Alkanes per [IUPAC](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry):
-	1. The Main Chain
-	2. Numbering the Main Chain
-	3. Naming the Alkyl Group
-	4. Organizing Multiple Groups
-* **Geometric isomers** of cycloalkanes. A cycloalkane has two distinct faces. If substituent groups point towards the same face, they are **cis**. If the groups are oriented towards opposite faces, they are **trans**.  p. 105
-
-### Chapter 4: Chemical Reactions p. 127-168
-* Start with halogenation of alkanes
-* Mechanism, thermodynamics, and kinetics p. 128
-	1. Mechanism – step by step series of intermediates from reactants to final product(s)
-	2. Thermodynamics – study of free energy changes, entropy, enthalpy
-	3. Kinetics – study of speed of reaction (aka reaction rates) based on conditions
-
-#### Section 4.3: The Free-Radical Chain Reaction
-* Chain reaction mechanism has 3 types of steps:
-	1. Initiation step
-	2. Propagation steps
-	3. Termination steps  
-
-### Miscellaneous notes
-* Organic Chemistry courses
-	* [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
-	* Yale Organic Chemistry intro sequence
-		* [Chem 125a](https://oyc.yale.edu/chemistry/chem-125a), [playlist](https://www.youtube.com/playlist?list=PLFD7FB43DA0E679FD) of YouTube videos
-		* [Chem 125b](https://oyc.yale.edu/chemistry/chem-125b). playlist on [YouTube](https://www.youtube.com/playlist?list=PL6E3852144D8348FB)
-* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
-* MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) taught by Dr. Sarah Tabacco and Prof. Barbara Imperiali used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade.
-	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/).
-	* I think this course appeals to me more, starts with discussion of Resonance, etc.
-* MIT 5.12 [Spring 2005](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/index.htm) taught by Dr. Kimberly Berkowski and Prof. Sarah O'Connor used [Organic Chemistry](https://www.amazon.com/gp/offer-listing/B00DU85GBC/ref=tmm_hrd_used_olp_0?ie=UTF8&condition=used) by McMurray; 8th edition hardcover from 2011 is available for about $28.
-	* Set of lecture notes, including some garish powerpoint slides, [here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/lecture-handouts/).
