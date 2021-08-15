@@ -127,6 +127,8 @@ permalink: /organic-chemistry/
 	1. Mechanism – step by step series of intermediates from reactants to final product(s)
 	2. Thermodynamics – study of free energy changes, entropy, enthalpy
 	3. Kinetics – study of speed of reaction (aka reaction rates) based on conditions
+* Thermodynamics is relatively static, based on overall change in Gibbs Free energy, change in BDE (bond dissassociation enthalpies) aka heat aka enthalpy changes, and change in entropy at a given temperature. No calculus needed. Concentration equation can be based on stoichiometry (I think).
+* In contrast, Kinetics and the rate equation is related to concentrations which various continuously over time. In other words, for a forward reaction with suffcient product available, the rate of reaction is varying continuously because the concentration of reactants is presumably decreasing while the concnetration of products is presumably increasing. See [this PDF for example](https://laney.edu/abraham-reyes/wp-content/uploads/sites/229/2015/08/Differential-and-Integrated-Rate-Laws1.pdf).
 
 #### Section 4.3: The Free-Radical Chain Reaction
 * Chain reaction mechanism has 3 types of steps:
@@ -208,4 +210,5 @@ permalink: /organic-chemistry/
 * 8/12: Completed review of standard Gibbs free energy change. Began Wade Section 4-5 on changes in enthalpy and entropy.
 * 8/13: Info chats with NO and SC "M"
 * 8/14: More on Wade Chapter 4
+* 8/15: Reintegration and reinterpretation of relationship between thermodynamics and kinetics
 
