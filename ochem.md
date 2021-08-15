@@ -135,11 +135,11 @@ permalink: /organic-chemistry/
 * Differential rate laws:
 	* Express the rate of reaction as a function of a change in the concentration of one or more reactants over a particular period of time
 	* Describe what is happening at the molecular level during a reaction
-	* Rate = -d[*A*] / dt = k[*A*]<sup>n</sup>
+	* **Rate = -d[*A*] / dt = k[*A*]<sup>n</sup>**
 * Integrated rate laws:
 	* Express the rate of reacgion as a function of the initial conentration of *A* and the measured (actual)  one or more reactants after a specific amount of time has passed
 	* Used to determine the rate constant and reaction order from experimental data
-	* ln[*A*] = -kt + ln[*A*]<sub>0</sub> where [*A*]<sub>0</sub> is  concentration of reactant *A* at the very beginning and [*A*] is the concentration of *A* after time t has passed.
+	* **ln[*A*] = -kt + ln[*A*]<sub>0</sub>** where [*A*]<sub>0</sub> is  concentration of reactant *A* at the very beginning and [*A*] is the concentration of *A* after time t has passed.
 * Zeroth order reactions (n = 0)
 * First order reactions (n=1)
 * Second order reactions (n=2)
