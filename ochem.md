@@ -130,6 +130,20 @@ permalink: /organic-chemistry/
 * Thermodynamics is relatively static, based on overall change in Gibbs Free energy, change in BDE (bond dissassociation enthalpies) aka heat aka enthalpy changes, and change in entropy at a given temperature. No calculus needed. Concentration equation can be based on stoichiometry (I think).
 * In contrast, Kinetics and the rate equation is related to concentrations which various continuously over time. In other words, for a forward reaction with suffcient product available, the rate of reaction is varying continuously because the concentration of reactants is presumably decreasing while the concnetration of products is presumably increasing. See [this PDF for example](https://laney.edu/abraham-reyes/wp-content/uploads/sites/229/2015/08/Differential-and-Integrated-Rate-Laws1.pdf).
 
+##### More detail on rate laws
+* From [Laney.edu PDF](https://laney.edu/abraham-reyes/wp-content/uploads/sites/229/2015/08/Differential-and-Integrated-Rate-Laws1.pdf)
+* Differential rate laws:
+	* Express the rate of reaction as a function of a change in the concentration of one or more reactants over a particular period of time
+	* Describe what is happening at the molecular level during a reaction
+	* Rate = -d[*A*] / dt = k[*A*]<sup>n</sup>
+* Integrated rate laws:
+	* Express the rate of reacgion as a function of the initial conentration of *A* and the measured (actual)  one or more reactants after a specific amount of time has passed
+	* Used to determine the rate constant and reaction order from experimental data
+	* ln[*A*] = -kt + ln[*A*]<sub>0</sub> where [*A*]<sub>0</sub> is  concentration of reactant *A* at the very beginning and [*A*] is the concentration of *A* after time t has passed.
+* Zeroth order reactions (n = 0)
+* First order reactions (n=1)
+* Second order reactions (n=2)
+
 #### Section 4.3: The Free-Radical Chain Reaction
 * Chain reaction mechanism has 3 types of steps:
 	1. Initiation step
