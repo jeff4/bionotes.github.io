@@ -225,4 +225,5 @@ permalink: /organic-chemistry/
 * 8/13: Info chats with NO and SC "M"
 * 8/14: More on Wade Chapter 4
 * 8/15: Reintegration and reinterpretation of relationship between thermodynamics and kinetics
+* 8/16:
 
