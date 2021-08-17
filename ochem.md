@@ -225,6 +225,6 @@ permalink: /organic-chemistry/
 * 8/13: Info chats with NO and SC "M"
 * 8/14: More on Wade Chapter 4
 * 8/15: Reintegration and reinterpretation of relationship between thermodynamics and kinetics
-* 8/16: Section 4-10: Transition States p. 142
-* 8/17: Section 4-11: Multistep Reaction Rates and Reaction Diagrams p. 144
+* 8/16: Section 4-10: Transition States p. 142. Section 4-11: Multistep Reaction Rates and Reaction Diagrams p. 144.
+* 8/17: Section 4-12: Temperature and many different halogenation (not just Cl chlorine). Section 4-13: halogenation of other alkanes (more carbons than methane)
 
