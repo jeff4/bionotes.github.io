@@ -15,3 +15,8 @@ permalink: /eigen/
 * #60 [What eigenvalues and eigenvectors mean geometrically](https://www.youtube.com/watch?v=4wTHFmZPhT0&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=60)
 * #65 [How the Diagonalization Process Works](https://www.youtube.com/watch?v=nNwZA1X-C3c&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=65)
 * #68 [Eigenvalues, Eigenvectors & Diagonalization–full example in complex spaces](https://www.youtube.com/watch?v=FOoi8h47Tw4&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=68)
+
+
+### Progress
+* 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues and associated eigenvectors using 3B1B 2x2 matrix technique, setting up the characteristic equation det(**A** - &#955;**I**) = **0**
+* 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503.
