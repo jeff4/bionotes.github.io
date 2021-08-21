@@ -20,4 +20,5 @@ permalink: /eigen/
 ### Progress
 * 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues using 3B1B 2x2 matrix quicktechnique. Then finding associated eigenvectors by setting up the characteristic equation det(**A** - &#955;**I**) = **0** and then solving the resulting system of equations.
 * 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503. See this link also for reduced row echelon form [RREF](https://www.usna.edu/Users/math/uhan/sm286a/rref.pdf)
-* 8/20: More Gaussian elimination problems during Sopranos S4
+* 8/20: Review of Gaussian elimination problems
+* 8/21: More Gauss elimination problems from K. Singh textbook 
