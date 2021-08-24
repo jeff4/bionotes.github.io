@@ -22,4 +22,5 @@ permalink: /eigen/
 * 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503. See this link also for reduced row echelon form [RREF](https://www.usna.edu/Users/math/uhan/sm286a/rref.pdf)
 * 8/20: Review of Gaussian elimination problems
 * 8/21: More Gauss elimination problems from K. Singh textbook
-* 8/22: final gaussian elimination problems. Back to algebraic numeric calculation of eigenvalues and eigenvectors before more abstract proof versions. 
+* 8/22: final gaussian elimination problems. Back to algebraic numeric calculation of eigenvalues and eigenvectors before more abstract proof versions.
+* 8/23: Singh Exercises 7.1 p. 503 to calculate eigenvalues and eigenvectors
