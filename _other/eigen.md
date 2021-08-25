@@ -24,3 +24,4 @@ permalink: /eigen/
 * 8/21: More Gauss elimination problems from K. Singh textbook
 * 8/22: final gaussian elimination problems. Back to algebraic numeric calculation of eigenvalues and eigenvectors before more abstract proof versions.
 * 8/23: Singh Exercises 7.1 p. 503 to calculate eigenvalues and eigenvectors
+* 8/24: Learned how to solve 4-variable systems more efficiently using Wolfram Alpha as an aid for managing transition between mixed fractions and exact rational number results.
