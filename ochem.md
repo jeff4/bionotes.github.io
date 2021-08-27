@@ -230,4 +230,5 @@ permalink: /organic-chemistry/
 * 8/24: First post to IG: science.sketch
 * 8/25: *lac* operon posted to IG
 * 8/26: For most up to date accounting of ATP generation in electron transport chain oxidative phosphorylation, scroll to [bottom of this Wiki article](https://en.wikipedia.org/wiki/Cellular_respiration)
+* 8/27: Day 2 of glycolysis
 
