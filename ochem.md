@@ -231,5 +231,6 @@ permalink: /organic-chemistry/
 * 8/25: *lac* operon posted to IG
 * 8/26: For most up to date accounting of ATP generation in electron transport chain oxidative phosphorylation, scroll to [bottom of this Wiki article](https://en.wikipedia.org/wiki/Cellular_respiration)
 * 8/27: Day 2 of glycolysis
-* 8/23: Day 3 of glycolysis. Handy reference on [organic chemistry nomenclature](https://www.masterorganicchemistry.com/2010/06/14/9-nomenclature-conventions-to-know/)
+* 8/28: Day 3 of glycolysis. Handy reference on [organic chemistry nomenclature](https://www.masterorganicchemistry.com/2010/06/14/9-nomenclature-conventions-to-know/)
+* 8/29: New issue of *Nature* about AlphaFold, deep learning, and protein folding
 
