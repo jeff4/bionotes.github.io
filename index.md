@@ -6,6 +6,12 @@ title: Jeff's Notebook
 ## Reading List
 
 ### Next papers to read
+* Three articles in *Nature* [issue date 8/26/2021](https://www.nature.com/nature/volumes/596/issues/7873) about AlphaFold2:
+	* Mohammed AlQuraishi New and Views
+	* 7/15/2021 - [Protein Structure Prediction](https://www.nature.com/articles/s41586-021-03819-2)
+	* 7/22/2021 - [Prediction for Human Proteome](https://www.nature.com/articles/s41586-021-03828-1)
+
+### Papers from early 2021
 * Take notes on 2016 Doolittle Brunet [*What is the Tree of Life?*](/doolittle-brunet-2016/) Short PLOS Genetics article on Darwin's Tree of Life (TOL); modern attempts re: Forest of Life (FOL), Nearly Universal Trees (NUTs) etc.
 * Take notes on 2012 Pace, Sapp, Goldenfeld [*Phylogeny and beyond: Scientific, historical, and conceptual significance of the first tree of life*](https://www.pnas.org/content/109/4/1011). See notes [here](/pace-sapp-2012/). 
 	* look up references 71, 72, 73, 74, 75 in the first paragraph of "is there really a tree of life?"
@@ -116,4 +122,3 @@ of Protein Families*](http://compbio.berkeley.edu/people/brenner/pubs/yooseph-20
 	* p. 40, 89 - Bayesian optimization machine learning to optimize synthetic chemistry reactions
 	* p. 41, 151 - Mouse gut immune response to bacterial infection leads to post-infection abdominal pain when eating antigen-carrying food
 	* p. 67 - Math research: builidng a systematic way of generating polymonial continued fractions (PCFs) and more generally mathematical relations of fundamental constants
-	* 
