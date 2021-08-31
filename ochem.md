@@ -233,4 +233,5 @@ permalink: /organic-chemistry/
 * 8/27: Day 2 of glycolysis
 * 8/28: Day 3 of glycolysis. Handy reference on [organic chemistry nomenclature](https://www.masterorganicchemistry.com/2010/06/14/9-nomenclature-conventions-to-know/)
 * 8/29: New issue of *Nature* about AlphaFold, deep learning, and protein folding
+* 8/30: Researched domain names
 
