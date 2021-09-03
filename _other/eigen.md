@@ -26,3 +26,4 @@ permalink: /eigen/
 * 8/23: Singh Exercises 7.1 p. 503 to calculate eigenvalues and eigenvectors
 * 8/24: Learned how to solve 4-variable systems more efficiently using Wolfram Alpha as an aid for managing transition between mixed fractions and exact rational number results.
 * 9/01: Two eigenvalue/eigenvector problems from Singh 7.2, p. 503
+* 9/02: Posted Day 2 of Gaussian elimination
