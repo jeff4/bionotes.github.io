@@ -28,3 +28,5 @@ permalink: /eigen/
 * 9/01: Two eigenvalue/eigenvector problems from Singh 7.2, p. 503
 * 9/02: Posted Day 2 of Gaussian elimination
 * 9/03: Posted Day 3 of Gaussian elimination and prepped IG post for Saturday
+* 9/04: Day 1 of Axler, Chapter 5 on IG
+* 9/05: Day 2 of Axler. Building momentum in understanding how all pieces of chapter 5 fit together.
