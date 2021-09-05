@@ -234,5 +234,5 @@ permalink: /organic-chemistry/
 * 8/28: Day 3 of glycolysis. Handy reference on [organic chemistry nomenclature](https://www.masterorganicchemistry.com/2010/06/14/9-nomenclature-conventions-to-know/)
 * 8/29: New issue of *Nature* about AlphaFold, deep learning, and protein folding
 * 8/30: Researched domain names
-* 8/31: Planning for next several days of posts
+* 9/05: Notes on Sections 4-14 (The Hammond Postulate) and 4-15 (Radical Inhibitors) p. 151-156. Began sketching out Section 4-15: Reactive Intermediates p. 156
 
