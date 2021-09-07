@@ -235,4 +235,4 @@ permalink: /organic-chemistry/
 * 8/29: New issue of *Nature* about AlphaFold, deep learning, and protein folding
 * 8/30: Researched domain names
 * 9/05: Notes on Sections 4-14 (The Hammond Postulate) and 4-15 (Radical Inhibitors) p. 151-156. Began sketching out Section 4-15: Reactive Intermediates p. 156
-
+* 9/07: Prepped Stigmasterol for 9/08 IG post
