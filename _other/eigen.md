@@ -30,3 +30,4 @@ permalink: /eigen/
 * 9/03: Posted Day 3 of Gaussian elimination and prepped IG post for Saturday
 * 9/04: Day 1 of Axler, Chapter 5 on IG
 * 9/05: Day 2 of Axler. Building momentum in understanding how all pieces of chapter 5 fit together.
+* 9/06: Day 3 of Axler on IG.
