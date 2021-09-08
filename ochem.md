@@ -236,3 +236,4 @@ permalink: /organic-chemistry/
 * 8/30: Researched domain names
 * 9/05: Notes on Sections 4-14 (The Hammond Postulate) and 4-15 (Radical Inhibitors) p. 151-156. Began sketching out Section 4-15: Reactive Intermediates p. 156
 * 9/07: Prepped Stigmasterol for 9/08 IG post
+* 9/08: Posted Stigmasterol on IG and prepped Cholesterol, Estradiol (E2), and Testostorone for next few days.
