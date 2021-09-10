@@ -238,3 +238,4 @@ permalink: /organic-chemistry/
 * 9/07: Prepped Stigmasterol for 9/08 IG post
 * 9/08: Posted Stigmasterol on IG and prepped Cholesterol, Estradiol (E2), and Testostorone for next few days.
 * 9/09: Posted Cholesterol on IG. Completed Wade Chapter 4
+* 9/10: Posted estradiol and testosterone on IG. Started Chap 5 Stereochemistry
