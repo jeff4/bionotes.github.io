@@ -150,6 +150,15 @@ permalink: /organic-chemistry/
 	2. Propagation steps
 	3. Termination steps  
 
+#### Section 5-2A: Chirality and Enantiomerism in Organic Molecules
+* Every object has a mirror image. If that mirror image can be super-imposed on the original, then that object is *achiral* and therefore has no enantiomers.
+* If the mirror-image demonstrates handedness, aka, cannot be super-imposed on the original, then that object is *chiral* and has enantiomers.
+* There are two broad classes of isomers:
+	1. **Constitutional isomers** aka structural isomers which have the same atoms but a different bonding sequence.
+	2. **Stereoisomers** which have the same atoms *and* the same bonding sequence. However, such stereoisomers may exhibit chirality aka handedness.
+* Chapter 5 is about the second broad class: stereoisomers. Stereoisomers consist of: (1) [**geometric isomers**](https://people.ok.ubc.ca/wsmcneil/ccgeoiso.htm) and (2) **enantiomers** but we will focus primarily on enantiomers.
+* Per [this article](https://people.ok.ubc.ca/wsmcneil/enants.htm), *enantiomers are different than other isomers*. Most isomers display distinct physical and chemical properties from each other. However, a pair of enantiomers have identical physical and chemical proprties *except* when it comes to interacting with other chiral objects.
+
 ### Miscellaneous notes
 * Organic Chemistry courses
 	* [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
