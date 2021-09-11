@@ -150,6 +150,7 @@ permalink: /organic-chemistry/
 	2. Propagation steps
 	3. Termination steps  
 
+### Chapter 5: Stereochemistry p. 169-214
 #### Section 5-2A: Chirality and Enantiomerism in Organic Molecules
 * Every object has a mirror image. If that mirror image can be super-imposed on the original, then that object is *achiral* and therefore has no enantiomers.
 * If the mirror-image demonstrates handedness, aka, cannot be super-imposed on the original, then that object is *chiral* and has enantiomers.
