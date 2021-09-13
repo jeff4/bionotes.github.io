@@ -250,3 +250,4 @@ permalink: /organic-chemistry/
 * 9/09: Posted Cholesterol on IG. Completed Wade Chapter 4
 * 9/10: Posted estradiol and testosterone on IG. Started Chap 5 Stereochemistry
 * 9/11: More Stereochemistry
+* 9/12: posted molecular model of 1,2-dichlorocyclopentane to IG
