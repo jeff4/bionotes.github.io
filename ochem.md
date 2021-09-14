@@ -252,3 +252,4 @@ permalink: /organic-chemistry/
 * 9/11: More Stereochemistry
 * 9/12: posted molecular model of 1,2-dichlorocyclopentane to IG
 * 9/13: posted DNA molecular model to IG
+* 9/14: More stereochemistry / chirality / enantiomer problems
