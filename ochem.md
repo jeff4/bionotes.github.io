@@ -253,4 +253,5 @@ permalink: /organic-chemistry/
 * 9/12: posted molecular model of 1,2-dichlorocyclopentane to IG
 * 9/13: posted DNA molecular model to IG
 * 9/14: More stereochemistry / chirality / enantiomer problems
-* 9/14: More stereochemistry / chirality problems and planned for next several days of IG posts
+* 9/14: More stereochemistry / chirality problems. built models of [Norcamphor](https://en.wikipedia.org/wiki/Norcamphor) also known as: [2-Norbornanone](https://pubchem.ncbi.nlm.nih.gov/compound/Norcamphor) and 
+Bicyclo[2.2.1]heptan-2-one.
