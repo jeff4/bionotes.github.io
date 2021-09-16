@@ -160,6 +160,9 @@ permalink: /organic-chemistry/
 * Chapter 5 is about the second broad class: stereoisomers. Stereoisomers consist of: (1) [**geometric isomers**](https://people.ok.ubc.ca/wsmcneil/ccgeoiso.htm) and (2) **enantiomers** but we will focus primarily on enantiomers.
 * Per [this article](https://people.ok.ubc.ca/wsmcneil/enants.htm), *enantiomers are different than other isomers*. Most isomers display distinct physical and chemical properties from each other. However, a pair of enantiomers have identical physical and chemical proprties *except* when it comes to interacting with other chiral objects.
 
+#### Section 5-4: R/S Nomenclature Is Independent of Dextrorotatory / Levorotatory (Optical Activity and Polarimetry)
+* From <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/03%3A_Conformations_and_Stereochemistry/3.06%3A_Optical_Activity">Chem Libre Text</a>, "**There is no relationship between chiral compound's R/S designation and the direction of its specific rotation.** For example, the S enantiomer of ibuprofen is dextrorotatory, but the S enantiomer of glyceraldehyde is levorotatory."
+
 ### Miscellaneous notes
 * Organic Chemistry courses
 	* [Khan Academy course](https://www.khanacademy.org/science/organic-chemistry)
