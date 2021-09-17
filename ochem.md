@@ -162,6 +162,8 @@ permalink: /organic-chemistry/
 
 #### Section 5-4: R/S Nomenclature Is Independent of Dextrorotatory / Levorotatory (Optical Activity and Polarimetry)
 * From <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/03%3A_Conformations_and_Stereochemistry/3.06%3A_Optical_Activity">Chem Libre Text</a>, "**There is no relationship between chiral compound's R/S designation and the direction of its specific rotation.** For example, the S enantiomer of ibuprofen is dextrorotatory, but the S enantiomer of glyceraldehyde is levorotatory."
+* See also <a href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/02%3A_PROTEIN_STRUCTURE/2A%3A_Amino_Acids/A02._Amino_Acid_Stereochemistry">this good explanation</a> of why biochemists prefer to use the older D/L system. It's more relevant to the nature of what they study.
+* For a simplistic mneumonic using the CORN law which ignores R/S and focuses only on D/L, [see this page](http://www.cryst.bbk.ac.uk/education/AminoAcid/stereochem.html).  Virtually all biologically occurring amino acids are levorotatory with the exception of glycine which is achiral (b/c the side-chain is a simple hydrogen atom).
 
 ### Miscellaneous notes
 * Organic Chemistry courses
@@ -258,3 +260,4 @@ permalink: /organic-chemistry/
 * 9/14: More stereochemistry / chirality / enantiomer problems
 * 9/15: Built models of [Norcamphor](https://en.wikipedia.org/wiki/Norcamphor) also known as: [2-norbornanone](https://pubchem.ncbi.nlm.nih.gov/compound/Norcamphor) and bicyclo[2.2.1]heptan-2-one
 * 9/16: Posted Alanine model to IG and prepped next several days of amino acids. [Proline](https://en.wikipedia.org/wiki/Proline) is the only amino acid with a side chain that connects to the protein backbone twice, meaning that [Proline is uniquely unable to occupy](http://www.russelllab.org/aas/Pro.html) many of the other main chain conformations adopted by all other amino acids.
+* 9/17: More models in sunlight
