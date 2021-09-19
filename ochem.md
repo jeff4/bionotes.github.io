@@ -261,3 +261,4 @@ permalink: /organic-chemistry/
 * 9/15: Built models of [Norcamphor](https://en.wikipedia.org/wiki/Norcamphor) also known as: [2-norbornanone](https://pubchem.ncbi.nlm.nih.gov/compound/Norcamphor) and bicyclo[2.2.1]heptan-2-one
 * 9/16: Posted Alanine model to IG and prepped next several days of amino acids. [Proline](https://en.wikipedia.org/wiki/Proline) is the only amino acid with a side chain that connects to the protein backbone twice, meaning that [Proline is uniquely unable to occupy](http://www.russelllab.org/aas/Pro.html) many of the other main chain conformations adopted by all other amino acids.
 * 9/17: More models in sunlight
+* 9/18: Posted L-phenylalanine to IG. More problems on chiral centers, Internal Mirror Plane of Symmetry (IMPoS)
