@@ -160,10 +160,18 @@ permalink: /organic-chemistry/
 * Chapter 5 is about the second broad class: stereoisomers. Stereoisomers consist of: (1) [**geometric isomers**](https://people.ok.ubc.ca/wsmcneil/ccgeoiso.htm) and (2) **enantiomers** but we will focus primarily on enantiomers.
 * Per [this article](https://people.ok.ubc.ca/wsmcneil/enants.htm), *enantiomers are different than other isomers*. Most isomers display distinct physical and chemical properties from each other. However, a pair of enantiomers have identical physical and chemical proprties *except* when it comes to interacting with other chiral objects.
 
+#### Section 5-3: (R) and (S) Nomenclature of Asymmetric Carbon Atoms
+* The [Cahn-Ingold-Prelog convention](https://en.wikipedia.org/wiki/Cahn–Ingold–Prelog_priority_rules) aka *CIP priority* rules aka *CIP system* is a standard process to completely and unequivocally name a stereoisomer of a molecule. The purpose of the CIP system is to assign an R or S descriptior to each stereocenter and an E or Z descriptor to each double bond.
+* Rules [according to Wikipedia](https://en.wikipedia.org/wiki/Cahn–Ingold–Prelog_priority_rules):
+	1. Identify stereocenters and double bonds
+	1. Assign priorities to the groups attached to each stereocenter or double-bonded atom
+	1. Assign R/S descriptors and E/Z descriptors
+
 #### Section 5-4: R/S Nomenclature Is Independent of Dextrorotatory / Levorotatory (Optical Activity and Polarimetry)
 * From <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/03%3A_Conformations_and_Stereochemistry/3.06%3A_Optical_Activity">Chem Libre Text</a>, "**There is no relationship between chiral compound's R/S designation and the direction of its specific rotation.** For example, the S enantiomer of ibuprofen is dextrorotatory, but the S enantiomer of glyceraldehyde is levorotatory."
 * See also <a href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/02%3A_PROTEIN_STRUCTURE/2A%3A_Amino_Acids/A02._Amino_Acid_Stereochemistry">this good explanation</a> of why biochemists prefer to use the older D/L system. It's more relevant to the nature of what they study.
 * For a simplistic mneumonic using the CORN law which ignores R/S and focuses only on D/L, [see this page](http://www.cryst.bbk.ac.uk/education/AminoAcid/stereochem.html).  Virtually all biologically occurring amino acids are levorotatory with the exception of glycine which is achiral (b/c the side-chain is a simple hydrogen atom).
+
 
 ### Miscellaneous notes
 * Organic Chemistry courses
