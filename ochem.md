@@ -272,3 +272,4 @@ permalink: /organic-chemistry/
 * 9/18: Posted L-phenylalanine to IG. More problems on chiral centers, Internal Mirror Plane of Symmetry (IMPoS)
 * 9/19: Posted L-tyrosine to IG
 * 9/20: Posted L-valine (first BCAA) to IG and more R/S problems
+* 9/21: Posted L-leucine
