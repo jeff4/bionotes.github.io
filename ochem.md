@@ -272,4 +272,5 @@ permalink: /organic-chemistry/
 * 9/18: Posted L-phenylalanine to IG. More problems on chiral centers, Internal Mirror Plane of Symmetry (IMPoS)
 * 9/19: Posted L-tyrosine to IG
 * 9/20: Posted L-valine (first BCAA) to IG and more R/S problems
-* 9/21: Posted L-leucine
+* 9/21: Posted L-leucine. Worked through Solved Problem 5-3 p. 179-181 on R/S configurations of carvone 
+* 9/22: Solved more R/S config problems within Problem 5- on p. 181.
