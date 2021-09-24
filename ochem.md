@@ -274,3 +274,11 @@ permalink: /organic-chemistry/
 * 9/20: Posted L-valine (first BCAA) to IG and more R/S problems
 * 9/21: Posted L-leucine. Worked through Solved Problem 5-3 p. 179-181 on R/S configurations of carvone 
 * 9/22 - 9/23: Solved more R/S config problems within Problem 5-6 on p. 181.
+* 9/23: While researching methionine for today's IG post, began reading up on DNA methylation which methionine can be a precursor for. MBOC 5th edition, p. 468 - 471. See also Figure 7-86(c) on p. 472.
+	* Also researched relationship between methionine and [S-adenosylmethionine](https://en.wikipedia.org/wiki/S-Adenosyl_methionine) aka SAM-e aka Ado-Met aka SAM.  Seems like SAM-e is a co-substrate in methyl group transfers, transsulfuration, and aminopropylation. 
+	* According to the SAM-e wiki article, 
+		* "SAM-e is bound by the SAM riboswitch which regulates genes involved in methionine and cysteine biosynthesis."  
+		* "In eukaryotic cells, SAM-e serves as a regulator of...DNA methylation, tRNA methylation, and rRNA methylation; immune response, amino acid metabolism."
+		* "In plants 
+		* See also [DNA methyltransferase](https://en.wikipedia.org/wiki/DNA_methyltransferase) aka DNA MTase aka DNMT which transfers methyl groups to DNA.
+* 9/24: new series on IG
