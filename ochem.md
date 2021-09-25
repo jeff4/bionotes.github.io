@@ -281,4 +281,5 @@ permalink: /organic-chemistry/
 		* "In eukaryotic cells, SAM-e serves as a regulator of...DNA methylation, tRNA methylation, and rRNA methylation; immune response, amino acid metabolism."
 		* "In plants 
 		* See also [DNA methyltransferase](https://en.wikipedia.org/wiki/DNA_methyltransferase) aka DNA MTase aka DNMT which transfers methyl groups to DNA.
-* 9/24: new series on IG
+* 9/24: paper notes about polycyclic aromatic hydrocarbons ([PAH](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon))
+* 9/25: paper notes review of 5 aliphatic hydrophobic (mostly nonpolar) amino acids, including alanine (just CH3 methyl group), the three BCAAs (valine, leucine, isoleucine), and methionine (straight chain with sulfur atom).
