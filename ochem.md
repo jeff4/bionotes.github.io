@@ -284,3 +284,4 @@ permalink: /organic-chemistry/
 * 9/24: paper notes about polycyclic aromatic hydrocarbons ([PAH](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon))
 * 9/25: paper notes review of 5 aliphatic hydrophobic (mostly nonpolar) amino acids, including alanine (just CH3 methyl group), the three BCAAs (valine, leucine, isoleucine), and methionine (straight chain with sulfur atom).
 	* [Great table confirming the hydrophobic and hydrophilic categorizations](https://en.wikipedia.org/wiki/Proteinogenic_amino_acid#Structures) of amino acid residues as covered by the MIT course.
+* 9/26: paper notes review of 3 aromatic hydrophobic amino acids: phenylalanine (just a phenyl group attached to the 1-carbon-root of alanine), tyrosine (phenyl group gets -OH attached to it), tryptophan (benzene is combined with 5-membered pyrrole ring to become an indole)
