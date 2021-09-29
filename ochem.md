@@ -286,4 +286,18 @@ permalink: /organic-chemistry/
 	* [Great table confirming the hydrophobic and hydrophilic categorizations](https://en.wikipedia.org/wiki/Proteinogenic_amino_acid#Structures) of amino acid residues as covered by the MIT course.
 * 9/26: paper notes review of 3 aromatic hydrophobic amino acids: phenylalanine (just a phenyl group attached to the 1-carbon-root of alanine), tyrosine (phenyl group gets -OH attached to it), tryptophan (benzene is combined with 5-membered pyrrole ring to become an indole)
 * 9/27: posted  benzene photos to IG
-* 9/28: posted naphthalene to IG right after midnight (late the night of Monday 9/27; early the morning of Tuesday 9/28) 
+* 9/28: posted naphthalene to IG right after midnight (late the night of Monday 9/27; early the morning of Tuesday 9/28)
+* 9/29: Research on Tetracene (four benzene rings arranged linearly). 
+	* Appearance is yellow-orange to red-orange crystals or powder.
+	* [ScienceDirect](https://www.sciencedirect.com/topics/chemistry/tetracene)
+	* From this [2019 article](https://www.acs.org/content/acs/en/molecule-of-the-week/archive/t/tetracene.html):
+		* "It is the second member of the “acene” family of linearly arranged PAHs that begins with anthracene and continues to pentacene, hexacene, and beyond. The bright orange molecule is also known as naphthacene, 2,3-benzanthracene, and benz[b]anthracene. 
+		* "Unlike many PAHs, tetracene is not carcinogenic. But it was studied for carcinogenicity as long ago as the 1930s. Early researchers were James W. Cook and co-workers at the Cancer Hospital of London and Alfred Winterstein and Karl Schön at the Kaiser Wilhelm Institute for Medical Research1 (Heidelberg, Germany).
+		* "Not much was done with tetracene until 2007, when researchers discovered that it is a semiconductor that was useful in organic field-effect transistors (OFETs) and organic light-emitting diodes (OLEDs). This year, electrical engineer Marc A. Baldo at MIT (Cambridge, MA) and colleagues there and at Princeton University (NJ) incorporated it into silicon solar cells (SSCs).
+	* 2021 - https://www.pv-magazine.com/2021/05/14/new-discovery-promises-to-bring-singlet-fission-enhanced-c-si-solar-cells-nearer-to-commercial-production/
+	* 2019 - https://www.wired.com/story/new-designs-could-boost-solar-cells-beyond-their-limits/
+	* 2014 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090406/#C22
+	* 2018 - https://pubs.rsc.org/en/content/articlelanding/2018/mh/c8mh00853a
+	* 2014 - https://www.rle.mit.edu/visualization-of-exciton-transport-in-ordered-and-disordered-molecular-solids/
+	* [Marc Baldo's webpage at MIT](https://www.rle.mit.edu/people/directory/marc-baldo/)
+		* 2014 - https://news.mit.edu/2014/getting-more-electricity-out-solar-cells-0507
