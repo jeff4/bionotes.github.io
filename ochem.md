@@ -288,8 +288,6 @@ permalink: /organic-chemistry/
 * 9/27: posted  benzene photos to IG
 * 9/28: posted naphthalene to IG right after midnight (late the night of Monday 9/27; early the morning of Tuesday 9/28)
 * 9/29: Research on Tetracene (four benzene rings arranged linearly). 
-	* Appearance is yellow-orange to red-orange crystals or powder.
-	* [ScienceDirect](https://www.sciencedirect.com/topics/chemistry/tetracene)
 	* From this [2019 article](https://www.acs.org/content/acs/en/molecule-of-the-week/archive/t/tetracene.html):
 		* "It is the second member of the “acene” family of linearly arranged PAHs that begins with anthracene and continues to pentacene, hexacene, and beyond. The bright orange molecule is also known as naphthacene, 2,3-benzanthracene, and benz[b]anthracene. 
 		* "Unlike many PAHs, tetracene is not carcinogenic. But it was studied for carcinogenicity as long ago as the 1930s. Early researchers were James W. Cook and co-workers at the Cancer Hospital of London and Alfred Winterstein and Karl Schön at the Kaiser Wilhelm Institute for Medical Research1 (Heidelberg, Germany).
@@ -301,3 +299,5 @@ permalink: /organic-chemistry/
 	* 2014 - https://www.rle.mit.edu/visualization-of-exciton-transport-in-ordered-and-disordered-molecular-solids/
 	* [Marc Baldo's webpage at MIT](https://www.rle.mit.edu/people/directory/marc-baldo/)
 		* 2014 - https://news.mit.edu/2014/getting-more-electricity-out-solar-cells-0507
+	* Reseearch on [Rubrene](https://en.wikipedia.org/wiki/Rubrene)
+* 9/30 - posted Rubrene to IG
