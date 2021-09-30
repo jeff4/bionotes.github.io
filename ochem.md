@@ -301,3 +301,5 @@ permalink: /organic-chemistry/
 		* 2014 - https://news.mit.edu/2014/getting-more-electricity-out-solar-cells-0507
 	* Reseearch on [Rubrene](https://en.wikipedia.org/wiki/Rubrene)
 * 9/30 - posted Rubrene to IG
+	* Shot and posted first tiktok video for Rubrene and shared on IG.
+	* researched PAHs to post on Friday, October 1.
