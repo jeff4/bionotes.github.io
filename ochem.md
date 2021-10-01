@@ -303,3 +303,4 @@ permalink: /organic-chemistry/
 * 9/30 - posted Rubrene to IG
 	* Shot and posted first tiktok video for Rubrene and shared on IG.
 	* researched PAHs to post on Friday, October 1.
+* 10/1 - which PAH for today??
