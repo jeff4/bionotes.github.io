@@ -311,3 +311,4 @@ permalink: /organic-chemistry/
 	* Tuesday 10/5 - 1,3,5-tris(biphenyl)benzene from [this automatically downloaded PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj8pNK_9a7zAhUxRTABHdyuB8cQFnoECCAQAQ&url=https%3A%2F%2Fwww.degruyter.com%2Fdocument%2Fdoi%2F10.1351%2FPAC-CON-11-09-24%2Fpdf&usg=AOvVaw2Yp0TIjLjSKUPAHsgWWYaM) aka *Hexa-peri-hexabenzocoronene in organic electronics* by [Seyler, Purushothaman, Jones, Holmes, Wong (2012) in Pure Appl. Chem., Vol 84, No. 4, pp. 1047-1067](https://www.degruyter.com/document/doi/10.1351/PAC-CON-11-09-24/html).
 		* See diagram on p. 1048. 135-TBB is marked as molecule #3 in bold, and named in the 3rd paragraph on p. 1049. 
 * 10/4 - Posted HBC yesterday (Sunday). Posted 10/4 - Hexa-*cata*-hexabenzocoronene today (Monday).
+* 10/5 - Posted [1,3,5-tris(biphenyl)benzene](https://www.instagram.com/p/CUqE3a4PqkA/) to IG
