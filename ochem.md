@@ -312,3 +312,5 @@ permalink: /organic-chemistry/
 * 10/4 - Posted HBC yesterday (Sunday). Posted 10/4 - Hexa-*cata*-hexabenzocoronene today (Monday).
 * 10/5 - Posted [1,3,5-tris(biphenyl)benzene](https://www.instagram.com/p/CUqE3a4PqkA/) to IG. Nice reactions to it, especially the second Story version of it with rainbow light
 * 10/6 - Now that I have a solid set of 9 photos, I'm going to go back to paper notes for 3 days of posting.
+* 10/7 - Posted diagram comparing 10/2, 10/3, and 10/4 posts of coronene, HBC, and hexa-cata-hexabenzocoronene.
+* 10/8 - first day of final amino acid sequence. 9 polar amino acids. 3 special ones (glycine, proline, cysteine)
