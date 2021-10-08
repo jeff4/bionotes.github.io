@@ -313,4 +313,8 @@ permalink: /organic-chemistry/
 * 10/5 - Posted [1,3,5-tris(biphenyl)benzene](https://www.instagram.com/p/CUqE3a4PqkA/) to IG. Nice reactions to it, especially the second Story version of it with rainbow light
 * 10/6 - Now that I have a solid set of 9 photos, I'm going to go back to paper notes for 3 days of posting.
 * 10/7 - Posted diagram comparing 10/2, 10/3, and 10/4 posts of coronene, HBC, and hexa-cata-hexabenzocoronene.
-* 10/8 - first day of final amino acid sequence. 9 polar amino acids. 3 special ones (glycine, proline, cysteine)
+* 10/8 - first day of final amino acid sequence. 9 polar amino acids. 3 special ones (glycine, proline, cysteine). Spent Thursday evening 10/7 drawing, building models, and thinking about 5 polar charged AAs: 
+	* 3 Polar, Postively Charged AA (PPC): Lysine, Histidine, Arginine (all have Nitrogens). 
+	* 2 Polar, Negatively Charged AA (PNegC): The two acids aspartic acid, glutamic acid.
+* 10/9 - 4 Polar, Uncharged AA: Serine, Threonine, Asparagine, Glutamine
+* 10/10 - 3 special cases: Glycine (just hydrogen so the only achiral AA). Proline which has amine ring attached to the nitrogen; only one side chain which connects to peptide backbone; used in 2021 Nobel work on organocatalysts. Cysteine.
