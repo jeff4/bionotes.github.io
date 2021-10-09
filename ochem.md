@@ -314,7 +314,10 @@ permalink: /organic-chemistry/
 * 10/6 - Now that I have a solid set of 9 photos, I'm going to go back to paper notes for 3 days of posting.
 * 10/7 - Posted diagram comparing 10/2, 10/3, and 10/4 posts of coronene, HBC, and hexa-cata-hexabenzocoronene.
 * 10/8 - first day of final amino acid sequence. 9 polar amino acids. 3 special ones (glycine, proline, cysteine). Spent Thursday evening 10/7 drawing, building models, and thinking about 5 polar charged AAs: 
-	* 3 Polar, Postively Charged AA (PPC): Lysine, Histidine, Arginine (all have Nitrogens). 
-	* 2 Polar, Negatively Charged AA (PNegC): The two acids aspartic acid, glutamic acid.
-* 10/9 - 4 Polar, Uncharged AA: Serine, Threonine, Asparagine, Glutamine
-* 10/10 - 3 special cases: Glycine (just hydrogen so the only achiral AA). Proline which has amine ring attached to the nitrogen; only one side chain which connects to peptide backbone; used in 2021 Nobel work on organocatalysts. Cysteine.
+		* 3 Polar, Postively Charged AA (PPC): Lysine, Histidine, Arginine (all have Nitrogens). 
+		* 2 Polar, Negatively Charged AA (PNegC): The two acids aspartic acid, glutamic acid.
+	* On Friday:
+		* 4 Polar, Uncharged AA: Serine, Threonine, Asparagine, Glutamine
+	* On Saturday: 
+		* 3 special cases: Glycine (just hydrogen so the only achiral AA). Proline which has amine ring attached to the nitrogen; only one side chain which connects to peptide backbone; used in 2021 Nobel work on organocatalysts. Cysteine.
+* 10/9 Posted about Aspartic Acid. Started reading about Glutamic Acid / glutamate / monosodium glutamate MSG. History of food, role in nervous system with GABA inhibitory / exitatory system etc.
