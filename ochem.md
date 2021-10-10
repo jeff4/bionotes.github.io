@@ -321,3 +321,5 @@ permalink: /organic-chemistry/
 	* On Saturday: 
 		* 3 special cases: Glycine (just hydrogen so the only achiral AA). Proline which has amine ring attached to the nitrogen; only one side chain which connects to peptide backbone; used in 2021 Nobel work on organocatalysts. Cysteine.
 * 10/9 Posted about Aspartic Acid. Started reading about Glutamic Acid / glutamate / monosodium glutamate MSG. History of food, role in nervous system with GABA inhibitory / exitatory system etc.
+* 10/10 posted about Glutamic Acid / Glutamate. This is a good 2020 article about [the GABA inhibitory system](https://www.ncbi.nlm.nih.gov/books/NBK513311/). Of course, glutamate is an important neurotransmitter for excitatory networks.
+* 10/11 Posted about Lysine.
