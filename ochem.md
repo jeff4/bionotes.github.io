@@ -324,3 +324,4 @@ permalink: /organic-chemistry/
 * 10/10 posted about Glutamic Acid / Glutamate. This is a good 2020 article about [the GABA inhibitory system](https://www.ncbi.nlm.nih.gov/books/NBK513311/). Of course, glutamate is an important neurotransmitter for excitatory networks.
 * 10/11 Posted about Lysine. [Good article](http://www.biology.arizona.edu/biochemistry/problem_sets/aa/lysine.html) about epsilon-amino group NH<sub>3</sub><sup>+</sup> in physiological conditions.
 * 10/12 Posted about Arginine. [Good article](http://www.biology.arizona.edu/biochemistry/problem_sets/aa/Arginine.html) about guanidino group that at physiological pH, becomes a [charged guanidinium cation](https://en.wikipedia.org/wiki/Guanidine#Guanidinium_cation).
+* 10/13 posted histidine.
