@@ -329,4 +329,4 @@ permalink: /organic-chemistry/
 	* Here's the list of AA's so far: 8 nonpolar/hydrophobic: alanine, valine, leucine, isoleucine, methionine; phenylalanine, tyrosine, tryptophan. 2 polar negatively charged: aspartic acid, glutamic acid. 3 polar negatively charged: lysine, arginine, histidine. Next 4: serine, threonine, asparagine, GLUTAMINE WHICH IS NOT YET PHOTGRAPHED!
 		* And then the final three: glycine, proline, cysteine.
 * 10/14 posted Serine
-* 10/15 posted Threonine
+* 10/15 posted Threonine. spent some time writing handwritten notes for IG Stories.
