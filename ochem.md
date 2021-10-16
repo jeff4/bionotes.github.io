@@ -330,3 +330,4 @@ permalink: /organic-chemistry/
 		* And then the final three: glycine, proline, cysteine.
 * 10/14 posted Serine
 * 10/15 posted Threonine. spent some time writing handwritten notes for IG Stories.
+* 10/16 set up Excel checklist planning for next week of posts
