@@ -330,4 +330,15 @@ permalink: /organic-chemistry/
 		* And then the final three: glycine, proline, cysteine.
 * 10/14 posted Serine
 * 10/15 posted Threonine. spent some time writing handwritten notes for IG Stories.
+	* Read about distinction between [ligands](https://en.wikipedia.org/wiki/Ligand) (and see also [biochemical ligands](https://en.wikipedia.org/wiki/Ligand_(biochemistry))), [C2-Symmetric Ligands](https://en.wikipedia.org/wiki/C2-Symmetric_ligands),  [functional groups](https://en.wikipedia.org/wiki/Functional_group), and [moieties](https://en.wikipedia.org/wiki/Moiety_(chemistry)).
 * 10/16 set up Excel checklist planning for next week of posts
+	* Cysteine info
+		* [Important point in wikipedia about how cysteine](https://en.wikipedia.org/wiki/Cysteine) provides the only R stereocenter (for the alpha-carbon i believe). Whereas all other amino acids have an S-stereocenter there. Quote: "Cysteine has l chirality in the older d/l notation based on homology to d- and l-glyceraldehyde. In the newer R/S system of designating chirality, based on the atomic numbers of atoms near the asymmetric carbon, cysteine (and selenocysteine) have R chirality, because of the presence of sulfur (or selenium) as a second neighbour to the asymmetric carbon atom. The remaining chiral amino acids, having lighter atoms in that position, have S chirality."
+		* Additional [good points at Arizona about cysteine](http://www.biology.arizona.edu/biochemistry/problem_sets/aa/cysteine.html), structural similarity but chemical/functional differences compared to serine (simple OH alcohol) where O is replaced by S sulfur.
+	* Proline info
+		* [From Arizona](http://www.biology.arizona.edu/biochemistry/problem_sets/aa/Proline.html), Proline is technically not an amino acid but an imino acid
+		* From [wiki](https://en.wikipedia.org/wiki/Proline), 'The "side chain" from the α carbon connects to the nitrogen forming a pyrrolidine loop, classifying it as a aliphatic amino acid'
+* 10/17 more research on glutamine.
+	* 2001 Introductory to the Symposium Proceedings remarks for the conference: Glutamine Metabolism: Nutritional and Clinical Significance by Douglas W. Wilmore and John L. Rombeau.
+	* Hans Krebs 1980 Paper <a href="https://books.google.com/books?id=0rq5VC8nYesC&lpg=PA319&ots=uG7SGcDYeZ&dq=Krebs%2C%20H.%20(1980)%20Special%20lecture%3A%20glutamine%20metabolism%20in%20the%20animal%20body.%20In%3A%20Glutamine%20Metabolism%20Enzymology%20and%20Regulation&lr&pg=PA327#v=onepage&q&f=false">"Special Lecture: Glutamine Metabolism in the Animal Body" </a>where he says at the end of the lecture: "Finally a few comments on the multiplicity of the functions of gluatmine....Most amino acids have multiple functions (Table III) but glutamine appears to be the most versatile."
+* 10/18 Glycine, first of the 3 specials
