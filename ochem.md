@@ -341,4 +341,4 @@ permalink: /organic-chemistry/
 * 10/17 more research on glutamine.
 	* 2001 Introductory to the Symposium Proceedings remarks for the conference: Glutamine Metabolism: Nutritional and Clinical Significance by Douglas W. Wilmore and John L. Rombeau.
 	* Hans Krebs 1980 Paper <a href="https://books.google.com/books?id=0rq5VC8nYesC&lpg=PA319&ots=uG7SGcDYeZ&dq=Krebs%2C%20H.%20(1980)%20Special%20lecture%3A%20glutamine%20metabolism%20in%20the%20animal%20body.%20In%3A%20Glutamine%20Metabolism%20Enzymology%20and%20Regulation&lr&pg=PA327#v=onepage&q&f=false">"Special Lecture: Glutamine Metabolism in the Animal Body" </a>where he says at the end of the lecture: "Finally a few comments on the multiplicity of the functions of gluatmine....Most amino acids have multiple functions (Table III) but glutamine appears to be the most versatile."
-* 10/18 Glycine, first of the 3 specials
+* 10/18 Glycine, first of the 3 specials. posted Sunday evening for Monday. then did stories for Monday.
