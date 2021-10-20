@@ -343,4 +343,5 @@ permalink: /organic-chemistry/
 	* Hans Krebs 1980 Paper <a href="https://books.google.com/books?id=0rq5VC8nYesC&lpg=PA319&ots=uG7SGcDYeZ&dq=Krebs%2C%20H.%20(1980)%20Special%20lecture%3A%20glutamine%20metabolism%20in%20the%20animal%20body.%20In%3A%20Glutamine%20Metabolism%20Enzymology%20and%20Regulation&lr&pg=PA327#v=onepage&q&f=false">"Special Lecture: Glutamine Metabolism in the Animal Body" </a>where he says at the end of the lecture: "Finally a few comments on the multiplicity of the functions of gluatmine....Most amino acids have multiple functions (Table III) but glutamine appears to be the most versatile."
 * 10/18 Glycine, first of the 3 specials. posted Sunday evening for Monday. then did stories for Monday.
 	* Cysteine is the only R- configured amino acid. All amino acids are Levorotary under the old D/L system. And 19 of the 20 amino acids are also S-configured around the cenrtral alpha carbon *except* cysteine because of the presence of the sulfur atom right next to the beta-carbon. Good youtube video here titled Amino Acid Stereochemistry R and S vs. D and L Configuration. [Start at about 17:20](https://www.youtube.com/watch?v=HG4bqgGR3DI&t=1147s)
-* 10/19 Proline 
+* 10/20 Proline 
+	* Posted IG story about 2021 Nobel Prize in Chemistry for small safe organocatalysts
