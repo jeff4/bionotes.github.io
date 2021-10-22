@@ -347,3 +347,4 @@ permalink: /organic-chemistry/
 	* Posted IG story about 2021 Nobel Prize in Chemistry for small safe organocatalysts
 * 10/21 spent  lot of time working on my Alanine IG stories
 * 10/22 posted Valine
+* 10/23 prepped next set of days of amino acids, model building, photography
