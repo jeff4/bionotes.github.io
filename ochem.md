@@ -345,3 +345,5 @@ permalink: /organic-chemistry/
 	* Cysteine is the only R- configured amino acid. All amino acids are Levorotary under the old D/L system. And 19 of the 20 amino acids are also S-configured around the cenrtral alpha carbon *except* cysteine because of the presence of the sulfur atom right next to the beta-carbon. Good youtube video here titled Amino Acid Stereochemistry R and S vs. D and L Configuration. [Start at about 17:20](https://www.youtube.com/watch?v=HG4bqgGR3DI&t=1147s)
 * 10/20 Proline 
 	* Posted IG story about 2021 Nobel Prize in Chemistry for small safe organocatalysts
+* 10/21 spent  lot of time working on my Alanine IG stories
+* 10/22 posted Valine
