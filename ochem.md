@@ -349,3 +349,4 @@ permalink: /organic-chemistry/
 * 10/22 posted Valine
 * 10/23 prepped next set of days of amino acids, model building, photography. leucine, isoleucine, methionine, phenylalanine, tyrosine, tryptophan
 * 10/24 posted leucine and isoleucine
+* 10/25 prepped for methionine
