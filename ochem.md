@@ -352,3 +352,4 @@ permalink: /organic-chemistry/
 * 10/25 prepped for methionine
 * 10/26 prepped for phenylalanine IG post
 * 10/27 Zai gave feedback on phenylalanine post via text. I think i should do more editing, revision, rewriting captions before posting. Also check out Preview iOS app for IG scheduling...
+* 10/28 prepped for Tryptophan on friday
