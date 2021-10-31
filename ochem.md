@@ -354,3 +354,5 @@ permalink: /organic-chemistry/
 * 10/27 Zai gave feedback on phenylalanine post via text. I think i should do more editing, revision, rewriting captions before posting. Also check out Preview iOS app for IG scheduling...
 * 10/28 prepped for Tryptophan on friday
 * 10/29 Prepped for cystine (cysteine dimer) for Sat
+* 10/30 initial test photos of adenine with all the new backgrounds
+* 10/31 more thoughts about nucleic acid series
