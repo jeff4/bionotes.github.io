@@ -357,4 +357,5 @@ permalink: /organic-chemistry/
 * 10/30 initial test photos of adenine with all the new backgrounds
 * 10/31 more thoughts about nucleic acid series
 * 11/1 first post in nucleic acid series. Cytosine
-* 11/2 more drawing of major groove / minor groove for CG pair bonding
+* 11/2 more drawing of major groove / minor groove for CG pair bonding while listening to Dust S3 Chrysalis. Posted Guanine
+* 11/3 prepped for posting of model for C-G pairing.
