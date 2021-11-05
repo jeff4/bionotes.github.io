@@ -359,3 +359,4 @@ permalink: /organic-chemistry/
 * 11/1 first post in nucleic acid series. Cytosine
 * 11/2 more drawing of major groove / minor groove for CG pair bonding while listening to Dust S3 Chrysalis. Posted Guanine
 * 11/3 prepped for posting of model for C-G pairing.
+* 11/4 finally figured out orientation of 4 canonical basepairs, orientation of nucleobases to ribose attachments using drawings, videos, both ochem and MBOC textbooks, and molecular models. Ribbon along arm analogy as a continuous stream also helped. Critical key is remembering that the base can rotate freely along the 1' to 9-nitrogen (purine) or 1' to 1-nitrogen (pyrimidine) carbon-nitrogen axis.
