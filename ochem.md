@@ -22,7 +22,7 @@ permalink: /organic-chemistry/
 * Both isoprenes and terpenes are alkenes, but derived compounds that include oxygen and other moeities are called *isoprenoids* and *terpenoids*.
 * Mini-molecular model kit emphasizes that the entire isoprene unit is planar. Completely flat except for the -CH<sub>3</sub> methyl groups tetrahedral terminal hydrogens.
 * [Isoprenes](http://www.chm.bris.ac.uk/motm/isoprene/isopreneh.htm) such as [2-methyl-1,3-butadiene](https://en.wikipedia.org/wiki/Isoprene) are 5-carbon subunits that are used to build up larger molecules like [terpenes](http://www.columbia.edu/itc/chemistry/c3045/client_edit/ppt/PDF/26_07_10.pdf) and ultimately steroids which are lipids.
-* Each [terpene](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene  *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
+* Each [terpene](https://en.wikipedia.org/wiki/Terpene) has 5n carbons per the biogenetic isoprene rule *aka* the C<sub>5</sub> rule proposed in [1953](https://en.wikipedia.org/wiki/Leopold_Ružička).
 * See also Alberts 5th Edition p. 115 and JH notes from 7/28/2020 and Khan Academy [lectures 1](https://www.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system/v/terpenes-to-steroids1) and [2](https://www.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system/v/terpenes-to-steroids2) on terpenes and steroids. 
 
 ### Naming of terpene compounds
@@ -360,3 +360,4 @@ permalink: /organic-chemistry/
 * 11/2 more drawing of major groove / minor groove for CG pair bonding while listening to Dust S3 Chrysalis. Posted Guanine
 * 11/3 prepped for posting of model for C-G pairing.
 * 11/4 finally figured out orientation of 4 canonical basepairs, orientation of nucleobases to ribose attachments using drawings, videos, both ochem and MBOC textbooks, and molecular models. Ribbon along arm analogy as a continuous stream also helped. Critical key is remembering that the base can rotate freely along the 1' to 9-nitrogen (purine) or 1' to 1-nitrogen (pyrimidine) carbon-nitrogen axis.
+* 11/7 more practice drawing base pairs with new understanding
