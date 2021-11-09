@@ -361,3 +361,5 @@ permalink: /organic-chemistry/
 * 11/3 prepped for posting of model for C-G pairing.
 * 11/4 finally figured out orientation of 4 canonical basepairs, orientation of nucleobases to ribose attachments using drawings, videos, both ochem and MBOC textbooks, and molecular models. Ribbon along arm analogy as a continuous stream also helped. Critical key is remembering that the base can rotate freely along the 1' to 9-nitrogen (purine) or 1' to 1-nitrogen (pyrimidine) carbon-nitrogen axis.
 * 11/7 more practice drawing base pairs with new understanding
+* 11/8 [good SlideShare link](https://www.slideshare.net/gokuldas20/major-and-minor-grooves-dna) explaining and visualizing major and minor grooves. 
+* 11/9 prep for reposting
