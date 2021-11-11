@@ -364,3 +364,4 @@ permalink: /organic-chemistry/
 * 11/8 [good SlideShare link](https://www.slideshare.net/gokuldas20/major-and-minor-grooves-dna) explaining and visualizing major and minor grooves. 
 * 11/9 prep for posting paper notes of G-C bonding
 * 11/10 prepped for thymine post
+* 11/11 prepped adenine post
