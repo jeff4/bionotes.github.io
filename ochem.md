@@ -365,3 +365,4 @@ permalink: /organic-chemistry/
 * 11/9 prep for posting paper notes of G-C bonding
 * 11/10 prepped for thymine post
 * 11/11 prepped adenine post
+* 11/12 prepped for A-T bonding post
