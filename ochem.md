@@ -367,3 +367,4 @@ permalink: /organic-chemistry/
 * 11/11 prepped adenine post
 * 11/12 prepped for A-T bonding post
 * 11/13 prepped for A-T bonding post 2
+* 11/14 more prep
