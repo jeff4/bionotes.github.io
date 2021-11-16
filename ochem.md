@@ -368,4 +368,5 @@ permalink: /organic-chemistry/
 * 11/12 prepped for A-T bonding post
 * 11/13 prepped for A-T bonding post 2
 * 11/14 more prep
-* 11/15 considered what series next. Terpenes?
+* 11/15 considered what series next. 
+* 11/16 prepped final A-U photo and began prepping series on terpenes and steroids
