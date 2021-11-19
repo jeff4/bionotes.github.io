@@ -370,4 +370,5 @@ permalink: /organic-chemistry/
 * 11/14 more prep
 * 11/15 considered what series next. 
 * 11/16 prepped final A-U photo and began prepping series on terpenes and steroids
-* 11/17 prep
+* 11/17 made IG stories for final DNA/RNA posts. IG story about pies
+* 11/18 more prep
