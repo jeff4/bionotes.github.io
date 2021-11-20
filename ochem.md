@@ -373,3 +373,4 @@ permalink: /organic-chemistry/
 * 11/17 made IG stories for final DNA/RNA posts. IG story about pies
 * 11/18 more prep
 * 11/19 read more Follett in prep of afternoon reading room
+* 11/20 resting from booster
