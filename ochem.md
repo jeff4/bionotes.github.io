@@ -375,4 +375,4 @@ permalink: /organic-chemistry/
 * 11/19 read more Follett in prep of afternoon reading room
 * 11/20 resting from booster
 * 11/21 planning on TIS
-* 11/23 created new terpenes isoprenes steroids/sterols page
+* 11/23 created new terpenes isoprenes steroids/sterols page. More
