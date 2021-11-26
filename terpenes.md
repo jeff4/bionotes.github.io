@@ -37,5 +37,23 @@ permalink: /terpenes/
 	* *Plants*: [Stigmasterol](https://en.wikipedia.org/wiki/Stigmasterol)
 	* *Amphibians, reptiles, rodents, birds*: [corticosterone](https://en.wikipedia.org/wiki/Corticosterone)
 
+#### Notes from terpene / terpenoid lectures
+* [2018 YouTube Lecture](https://www.youtube.com/watch?v=h1Z1iwhbtBo) by Nandkishor Karade
+* Introduction
+	* Terpenes and terpenoids are natural products mainly synthesized by plants
+	* Contain isoprene (C<sub>5</sub>H<sub>8</sub>) monomers as repeating unit
+	* Terpenes are just hydrocarbons
+	* Terpenoids contain carbon, hydrogen, and oxygen
+	* More than 23,000 terpene systems are known
+* Examples of terpenes and terpenoids
+	* Myrecene is a major component of Bay Leaves
+	* &#945;-Phellandrene is a component of eucalyptus oil
+	* [Geraniol](https://en.wikipedia.org/wiki/Geraniol) is the primary component in citronella oil, rose oil, palmarosa oil.
+	* [Menthol](https://en.wikipedia.org/wiki/Menthol) is a monoterpenoid. Made synthetically or obtained fromt eh oils of corn mint, peppermint, or other mints.
+	* Carvone in caraway seeds
+	* Zingiberene main constituent in ginger
+	* Citral is a pleasant sent of lemon
+	* &#945;-Pinene and &#946;-Pinene. extracted from pine trees leads to turpentine
+
 ### Progress
 * 11/23/2021 First post on terpenes
