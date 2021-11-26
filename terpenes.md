@@ -53,7 +53,17 @@ permalink: /terpenes/
 	* Carvone in caraway seeds
 	* Zingiberene main constituent in ginger
 	* Citral is a pleasant sent of lemon
-	* &#945;-Pinene and &#946;-Pinene. extracted from pine trees leads to turpentine
+	* &#945;-Pinene and &#946;-Pinene. Extracted from pine trees leads to turpentine
+	* &#946;-carotene causes organge color of carrots
+* Classification of terpenes
+	* 2 isoprene units - monoterpenes. Ex: citral, menthol
+	* 3 isoprene units - sesquiterpenes. Ex. Farnesol
+	* 4 isoprene units - diterpenes. Ex. Abietic acid, Vitamin A
+	* 5 isoprene units - sesterterpenes. Ex. Gascardic Acid
+	* 6 isoprene units - triterpenes. Ex. Squalene
+	* 8 isoprene units - tetraterpenes. Ex. Lycopene, &#946;-carotene
+	* >100 isoprene units - polyterpenes. Ex. both natural and synthetic versions of rubber.
 
 ### Progress
 * 11/23/2021 First post on terpenes
+* 11/24 drew notebook of various views of monoterpene myrcene
