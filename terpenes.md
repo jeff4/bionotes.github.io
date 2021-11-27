@@ -67,3 +67,4 @@ permalink: /terpenes/
 ### Progress
 * 11/23/2021 First post on terpenes
 * 11/24 drew notebook of various views of monoterpene myrcene
+* 11/26 built model of squalene and took notes
