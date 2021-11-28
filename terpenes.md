@@ -68,3 +68,4 @@ permalink: /terpenes/
 * 11/23/2021 First post on terpenes
 * 11/24 drew notebook of various views of monoterpene myrcene
 * 11/26 built model of squalene and took notes
+* 11/27 realized that squalene is not 6 isoprenes all arranged head to tail. But in fact it's 3 isoprenes H-T and then T-H, T-H, T-H for the final 3 isoprenes. This means that squalene has radial symmetry from the center of the molecule.
