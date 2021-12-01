@@ -71,3 +71,4 @@ permalink: /terpenes/
 * 11/27 realized that squalene is not 6 isoprenes all arranged head to tail. But in fact it's 3 isoprenes H-T and then T-H, T-H, T-H for the final 3 isoprenes. This means that squalene has radial symmetry from the center of the molecule.
 * 11/29 redrew paper notes version of squalene
 * 11/30 posted IG story about Basking Sharks and how they were harvested for their shark liver oil which contained unsaturated squalene. Now, environmentally conscious companies produce vegan saturated squalane as an alternative.
+* 12/1 prep for first warm marble post with Gonane
