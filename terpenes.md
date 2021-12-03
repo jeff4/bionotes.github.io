@@ -72,3 +72,5 @@ permalink: /terpenes/
 * 11/29 redrew paper notes version of squalene
 * 11/30 posted IG story about Basking Sharks and how they were harvested for their shark liver oil which contained unsaturated squalene. Now, environmentally conscious companies produce vegan saturated squalane as an alternative.
 * 12/1 prep for first warm marble post with Gonane
+* 12/2 [good reference at VCU](https://www.people.vcu.edu/~urdesai/intro.htm) for steroids, structure, naming, etc. See also ppt and PDF of VCU lecture slides in ~/Downloads
+* 12/3 &#946;-gonane
