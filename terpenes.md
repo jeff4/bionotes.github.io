@@ -75,3 +75,5 @@ permalink: /terpenes/
 * 12/2 [good reference at VCU](https://www.people.vcu.edu/~urdesai/intro.htm) for steroids, structure, naming, etc. See also ppt and PDF of VCU lecture slides in ~/Downloads
 * 12/3 &#946;-gonane
 * 12/5 posted nat-cholesterol
+* 12/6 posted ent-cholesterol
+* 12/7 prepped next 4 days of stigmasterol and stigmastanol
