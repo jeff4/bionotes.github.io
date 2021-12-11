@@ -78,3 +78,5 @@ permalink: /terpenes/
 * 12/6 posted ent-cholesterol
 * 12/7 prepped next 4 days of stigmasterol and stigmastanol
 * 12/8 labeled stigmasterol photos and researched content
+* 12/9 posted stigmasterol day 2
+* 12/10 posted stigmastanol day 1
