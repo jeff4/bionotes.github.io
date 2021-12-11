@@ -80,3 +80,4 @@ permalink: /terpenes/
 * 12/8 labeled stigmasterol photos and researched content
 * 12/9 posted stigmasterol day 2
 * 12/10 posted stigmastanol day 1
+* 12/11 thinking about terpenes for next series to post
