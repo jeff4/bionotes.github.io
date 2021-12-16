@@ -82,5 +82,6 @@ permalink: /terpenes/
 * 12/10 posted stigmastanol day 1
 * 12/11 thinking about terpenes for next series to post
 * 12/12 more research on which terpenes next
-* 12/14 beta-pinene
-* 12/15 alpha-pinene
+* 12/14 beta-Pinene
+* 12/15 alpha-Pinene
+* 12/16 alpha-Thujone
