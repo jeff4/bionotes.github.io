@@ -84,4 +84,5 @@ permalink: /terpenes/
 * 12/12 more research on which terpenes next
 * 12/14 beta-Pinene
 * 12/15 alpha-Pinene
-* 12/16 alpha-Thujone
+* 12/16 alpha-Thujone and planned out next several days of monoterpene posts
+* 12/17 Thujone is a key ingredient in absinthe from Artemesia absinthium
