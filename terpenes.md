@@ -88,3 +88,4 @@ permalink: /terpenes/
 * 12/17 Thujone is a key ingredient in absinthe from Artemesia absinthium
 * 12/18 break
 * 12/19 returned to posting with 3-carene
+* 12/20 Looked at this article on [Terpinolene](https://www.leafly.com/news/strains-products/least-common-terpene-terpinolene-effects) and a [good general introductory article on terpenes in cannabis](https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy)
