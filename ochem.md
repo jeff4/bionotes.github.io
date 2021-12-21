@@ -344,3 +344,4 @@ permalink: /organic-chemistry/
 * 11/23 created [new terpenes isoprenes steroids/sterols page](/terpenes/)
 * 11/28 changed IG account name from @science.sketch to [@dailymolecule](http://www.instagram.com/dailymolecule)
 * 12/5 considered a post contrasting steroids and sterols -OH at carbon 3
+* 12/21 continued with Stereochemistry chapter > Fischer Projection exercises
