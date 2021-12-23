@@ -346,3 +346,4 @@ permalink: /organic-chemistry/
 * 12/5 considered a post contrasting steroids and sterols -OH at carbon 3
 * 12/21 continued with Stereochemistry chapter > Fischer Projection exercises
 * 12/22 more Fischer projection exercises
+* 12/23 diastomers
