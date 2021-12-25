@@ -347,3 +347,4 @@ permalink: /organic-chemistry/
 * 12/21 continued with Stereochemistry chapter > Fischer Projection exercises
 * 12/22 more Fischer projection exercises
 * 12/23 diastomers
+* 12/24 fiinished skim/reading through end of Chapter 5
