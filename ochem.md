@@ -349,3 +349,4 @@ permalink: /organic-chemistry/
 * 12/23 diastomers
 * 12/24 fiinished skim/reading through end of Chapter 5
 * 12/25 more diastereoisomer problems esp. for molecules with 2 or more chiral centers
+* 12/26 started Meso compound section
