@@ -351,3 +351,4 @@ permalink: /organic-chemistry/
 * 12/25 more diastereoisomer problems esp. for molecules with 2 or more chiral centers
 * 12/26 started Meso compound section
 * 12/28 completed all meso compound problems, began absolute vs. relative configuration section
+* 12/30 more stereo problems
