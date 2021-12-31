@@ -352,3 +352,4 @@ permalink: /organic-chemistry/
 * 12/26 started Meso compound section
 * 12/28 completed all meso compound problems, began absolute vs. relative configuration section
 * 12/30 more stereo problems
+* 12/31 completed absolute v. relative section. In general, a lot of bio organic molecules were classified as D(+) or L(-) relative to glyceraldehyde. Amino acids were generally L and were based off  of (-)-glyceraldehyde. Sugars generally degrade to (+)-glyceraldehyde and are generally D-sugars. None of these map cleanly onto R/S CIP sequence rules.
