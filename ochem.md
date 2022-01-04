@@ -354,3 +354,4 @@ permalink: /organic-chemistry/
 * 12/30 more stereo problems
 * 12/31/2021 completed absolute v. relative section. In general, a lot of bio organic molecules were classified as D(+) or L(-) relative to glyceraldehyde. Amino acids were generally L and were based off  of (-)-glyceraldehyde. Sugars generally degrade to (+)-glyceraldehyde and are generally D-sugars. None of these map cleanly onto R/S CIP sequence rules.
 * 1/01/2021 continued end of chapter 5 problems
+* 1/03/2021 more chapter 5 problems
