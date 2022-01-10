@@ -91,3 +91,5 @@ permalink: /terpenes/
 * 12/20 Looked at this article on [Terpinolene](https://www.leafly.com/news/strains-products/least-common-terpene-terpinolene-effects) and a [good general introductory article on terpenes in cannabis](https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy)
 * 12/24/2021 posted alpha-terpineol
 * 1/01/2022 posted alpha-terpinene
+* 1/03 ergosterol - the "cholesterol of fungi"
+* 1/09 first post about diatoms (and cabbage family rapeseed) which both produce Brassicasterol. Began research on diatom produced fucxanthin, which is a xanthophyll. There are two categories of [carotenoids](https://en.wikipedia.org/wiki/Carotenoid#Properties) (tetraterpernoids): (1) [xanthophylls](https://en.wikipedia.org/wiki/Xanthophyll) which contain oxygen and (2) [carotenes](https://en.wikipedia.org/wiki/Carotene) which are unsaturated hydrocarbons
