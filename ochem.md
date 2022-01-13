@@ -359,4 +359,5 @@ permalink: /organic-chemistry/
 * 1/06/2022 more chapter 5 stereochemistry problems
 * 1/07/2022 more chapter 5 stereochemistry problems
 * 1/08/2022 more chapter 5 stereochemistry problems
-* 1/10  more chapter 5 stereochemistry problems
+* 1/10 more chapter 5 stereochemistry problems
+* 1/12 more chapter 5 stereochemistry problems
