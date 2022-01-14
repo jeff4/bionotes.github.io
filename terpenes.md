@@ -94,3 +94,4 @@ permalink: /terpenes/
 * 1/03 ergosterol - the "cholesterol of fungi"
 * 1/09 first post about diatoms (and cabbage family rapeseed) which both produce Brassicasterol. Began research on diatom produced fucoxanthin, which is a xanthophyll. There are two categories of [carotenoids](https://en.wikipedia.org/wiki/Carotenoid#Properties) (tetraterpernoids): (1) [xanthophylls](https://en.wikipedia.org/wiki/Xanthophyll) which contain oxygen and (2) [carotenes](https://en.wikipedia.org/wiki/Carotene) which are unsaturated hydrocarbons
 * 1/10 researched and photographed fucoxanthin
+* 1/13 posted fucoxanthin
