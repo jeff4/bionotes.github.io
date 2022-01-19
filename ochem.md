@@ -363,3 +363,4 @@ permalink: /organic-chemistry/
 * 1/12 more chapter 5 stereochemistry problems
 * 1/13 more chapter 5 stereochemistry problems 
 * 1/15 some tougher stereochemistry problems at the end
+* 1/18 some tougher stereochemistry problems at the end
