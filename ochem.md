@@ -365,4 +365,4 @@ permalink: /organic-chemistry/
 * 1/15 some tougher stereochemistry problems at the end
 * 1/18 some tougher stereochemistry problems at the end
 * 1/19 more problems
-* 1/21 more problems
+* 1/21 didn't do problems, started Mawdsley Russian Civil War
