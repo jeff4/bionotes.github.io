@@ -366,3 +366,4 @@ permalink: /organic-chemistry/
 * 1/18 some tougher stereochemistry problems at the end
 * 1/19 more problems
 * 1/21 didn't do problems, started Mawdsley Russian Civil War
+* 1/22 started Chapter 6 on Alkyl Halides
