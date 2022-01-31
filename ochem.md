@@ -367,4 +367,5 @@ permalink: /organic-chemistry/
 * 1/19 more problems
 * 1/21 didn't do problems, started Mawdsley Russian Civil War
 * 1/22 started Chapter 6 on Alkyl Halides
-* 1/25-30 more on chapter 6 / coach em stuff / furtherCV revs
+* 1/25-31 more on chapter 6 / coach em stuff / draft revs
+* 2/01/2022 More on chapter 6
