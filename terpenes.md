@@ -100,3 +100,4 @@ permalink: /terpenes/
 * 1/16 researched and photographed campesterol
 * 1/19 posted beta-carotene
 * 1/22 researched more carotenoids
+* 1/31 posted lutein
