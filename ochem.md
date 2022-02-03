@@ -369,3 +369,4 @@ permalink: /organic-chemistry/
 * 1/22 started Chapter 6 on Alkyl Halides
 * 1/25-31 more on chapter 6 / coach em stuff / draft revs
 * 2/01/2022 More on chapter 6
+* 2/02 More on chap 6 and return(); success
