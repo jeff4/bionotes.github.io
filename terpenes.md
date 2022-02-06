@@ -101,3 +101,4 @@ permalink: /terpenes/
 * 1/19 posted beta-carotene
 * 1/22 researched more carotenoids
 * 1/31 posted lutein
+* 2/05 posted lycopene
