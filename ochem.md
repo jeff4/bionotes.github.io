@@ -372,4 +372,4 @@ permalink: /organic-chemistry/
 * 2/02 More on chap 6 and return(); success!
 * 2/03-5 Section 6- allylic bromination
 * 2/08 Began proper section on nucleophilic substitution and elimination reactions
-* 2/09 More on nucleophilic substitution and elimination via base 
+* 2/09-10 More on nucleophilic substitution and elimination via base 
