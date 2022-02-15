@@ -373,3 +373,4 @@ permalink: /organic-chemistry/
 * 2/03-5 Section 6- allylic bromination
 * 2/08 Began proper section on nucleophilic substitution and elimination reactions
 * 2/09-13 More on nucleophilic substitution and elimination via base. Hamlet ppt.
+* 2/15 More on nucleophilic substitution and elimination via base.
