@@ -102,3 +102,5 @@ permalink: /terpenes/
 * 1/22 researched more carotenoids
 * 1/31 posted lutein
 * 2/05 posted lycopene
+* 2/13 posted fucosterol
+* 2/18 posted campesterol
