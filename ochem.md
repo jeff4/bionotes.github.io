@@ -375,4 +375,4 @@ permalink: /organic-chemistry/
 * 2/09-13 More on nucleophilic substitution and elimination via base. Hamlet ppt.
 * 2/15 Prepped Campesterol
 * 2/16 More on nucleophilic substitution and elimination via base.
-* 2/18 Examples of S<sub>N</sub>2 reactions
+* 2/18-20 Examples of S<sub>N</sub>2 reactions
