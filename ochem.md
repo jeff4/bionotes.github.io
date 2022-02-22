@@ -375,5 +375,5 @@ permalink: /organic-chemistry/
 * 2/09-13 More on nucleophilic substitution and elimination via base. Hamlet ppt.
 * 2/15 Prepped Campesterol
 * 2/16 More on nucleophilic substitution and elimination via base.
-* 2/18-20 Examples of S<sub>N</sub>2 reactions
-* 2/21 problem 6-13 p. 231 on predicting transition state and products of ammonia + 1-bromobutane
+* 2/18-21 Examples of S<sub>N</sub>2 reactions
+* 2/22 problem 6-13 p. 231 on predicting transition state and products of ammonia + 1-bromobutane
