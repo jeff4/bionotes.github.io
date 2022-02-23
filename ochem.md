@@ -377,4 +377,4 @@ permalink: /organic-chemistry/
 * 2/16 More on nucleophilic substitution and elimination via base.
 * 2/18-21 Examples of S<sub>N</sub>2 reactions
 * 2/22 problem 6-13 p. 231 on predicting transition state and products of ammonia + 1-bromobutane
-* 2/23 Started Section 6-9 on generality of the S<sub>N</sub>2 mechanism to many reactions
+* 2/23 Started Section 6-9 on how the S<sub>N</sub>2 mechanism can be used to understand a wide variety of  reactions
