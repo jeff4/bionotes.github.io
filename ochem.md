@@ -16,7 +16,6 @@ permalink: /organic-chemistry/
 	* The hydrogen at **N2** hydrogen bonds to the **oxygen at C4b**.
 	* The hydrogen at **N3** hydrogen bonds to the **oxygen at C5b**.
 	* *and so on...*
-
 ### Functional groups
 
 | Group name                  | Class name & example                        | Properties                                                                                                                                            |
@@ -379,3 +378,4 @@ permalink: /organic-chemistry/
 * 2/22 problem 6-13 p. 231 on predicting transition state and products of ammonia + 1-bromobutane
 * 2/23 Started Section 6-9 on how the S<sub>N</sub>2 mechanism can be used to understand a wide variety of  reactions
 * 2/24-26 Problem 6-14 on more examples of S<sub>N</sub>2 reactions
+* 2/27 Problem 6-14(f) learned about [18-crown-6](https://en.wikipedia.org/wiki/18-Crown-6) and other [crown ethers](https://en.wikipedia.org/wiki/Crown_ether)
