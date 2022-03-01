@@ -380,3 +380,4 @@ permalink: /organic-chemistry/
 * 2/24-26 Problem 6-14 on more examples of S<sub>N</sub>2 reactions
 * 2/27 Problem 6-14(f) learned about [18-crown-6](https://en.wikipedia.org/wiki/18-Crown-6) and other [crown ethers](https://en.wikipedia.org/wiki/Crown_ether)
 * 2/28 More parts of Problem 6-15
+* 3/01/2022 More parts of Problem 6-15
