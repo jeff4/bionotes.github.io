@@ -383,4 +383,4 @@ permalink: /organic-chemistry/
 * 3/01/2022 More parts of Problem 6-15
 * 3/02 fiinished Problem 6-15
 * 3/03 factors affecting S<sub>N</sub>2 reactions: how strong the nucleophile is
-* 3/04 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
+* 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
