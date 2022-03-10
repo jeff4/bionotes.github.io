@@ -137,6 +137,15 @@ permalink: /organic-chemistry/
 * See also <a href="https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/02%3A_PROTEIN_STRUCTURE/2A%3A_Amino_Acids/A02._Amino_Acid_Stereochemistry">this good explanation</a> of why biochemists prefer to use the older D/L system. It's more relevant to the nature of what they study.
 * For a simplistic mneumonic using the CORN law which ignores R/S and focuses only on D/L, [see this page](http://www.cryst.bbk.ac.uk/education/AminoAcid/stereochem.html).  Virtually all biologically occurring amino acids are levorotatory with the exception of glycine which is achiral (b/c the side-chain is a simple hydrogen atom).
 
+### Chapter 6: Alkyl Halides: Nucleophilic Substitution and Elimination p. 215-280
+
+#### Section 6-10: Factors Affecting S<sub>N</sub>2 Reactions: Strength of the Nucleophile p. 233-235
+* A base is always stronger than it's corresponding conjugate acid
+* We might be tempted to say that methoxide CH<sub>3</sub>OH is more nucleophilic because it is a strong base. But this is a *spurious* correlation!
+	* In fact, basicisity and nucleophilicity are *different* properties.
+	* **Basicisity** is the equilibrium constant K<sub>eq</sub> for abstacting a proton H<sup>+</sup>.
+	* **Nucleophilicity** is defined as the *rate* (*k<sub>r</sub>*)by which a nucleophile attacks a substrate electrophilic carbon atom.
+
 
 ### Miscellaneous notes
 * Organic Chemistry courses
