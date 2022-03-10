@@ -144,7 +144,7 @@ permalink: /organic-chemistry/
 * We might be tempted to say that methoxide CH<sub>3</sub>OH is more nucleophilic because it is a strong base. But this is a *spurious* correlation! p. 234
 	* In fact, basicity and nucleophilicity are *distinct* properties. In the cases of: (1) a base stealing a proton H<sup>+</sup> and (2) a nucleophile attaching to a central carbon, we see a two *different* types of new bond formation. If the new bond is to a hydrogen/proton, then the reagant is acting as a **base**. if the new bond is to a central carbon in the substrate, the reagant is acting as a **nucleophile**. 
 	* **Basicity** is the equilibrium constant K<sub>eq</sub> for abstacting a proton H<sup>+</sup>.
-	* **Nucleophilicity** is defined as the *rate* (*k<sub>r</sub>*)by which a nucleophile attacks a substrate electrophilic carbon atom.
+	* **Nucleophilicity** is defined as the *rate* (*k<sub>r</sub>*) by which a nucleophile attacks a substrate electrophilic carbon atom.
 * Three trends affecting the how strong the nucleophile is (p. 234-235). 
 	1. The negative charged species (anion form) is a stronger nucleophile than the non-charged (neutral atomic/molecular form)
 	2. Within the neutral/anionic right half of the periodic table, elements to the left (e.g., Group 15) are *more* nucleophilic because they are *less* electronegative than elements to the right (e.g., Group 16-17). So NH<sub>2</sub><sup>-</sup> is more nucleophilic than OH<sup>-</sup> which is more nucleophilic than F<sup>-</sup>. Because F is more electronegative than O and N. (see bullet below for explanation).
