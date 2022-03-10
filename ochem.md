@@ -152,11 +152,7 @@ permalink: /organic-chemistry/
 * Note, the more electronegative an element is, the *less* nucleophilic it is (assuming it still has a net negative rather than  positive charge). At first, this may seem contradictory because negatively charged anions (e.g., halide ions like F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>, I<sup>-</sup>) act as nucleophiles much more than positively charged cations (e.g., alkali metals like Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>). However, *given* a  neutral or negative species, within that grouping, oddly enough the less electrophilc an element, the stronger a nucleophile it is! So moving left to right in Period 2, N is more nucleophilic than O which is more nucleophilic than F which is the opposite of electronegativity. N is less electronegative than O is less electronegative than F. This is because the more electronegative an element is, the more tightly its nucleus grips its electron cloud. So the electron cloud is smaller and tighter and less likely to be able to do backside attachment to the target substrate carbon atom.
 
 
-<sup>+</sup>
-<sup>-</sup>
-
-<sub>2</sub>
-
+---------
 
 
 ### Miscellaneous notes
