@@ -141,10 +141,22 @@ permalink: /organic-chemistry/
 
 #### Section 6-10: Factors Affecting S<sub>N</sub>2 Reactions: Strength of the Nucleophile p. 233-235
 * A base is always stronger than it's corresponding conjugate acid
-* We might be tempted to say that methoxide CH<sub>3</sub>OH is more nucleophilic because it is a strong base. But this is a *spurious* correlation!
-	* In fact, basicisity and nucleophilicity are *different* properties.
-	* **Basicisity** is the equilibrium constant K<sub>eq</sub> for abstacting a proton H<sup>+</sup>.
+* We might be tempted to say that methoxide CH<sub>3</sub>OH is more nucleophilic because it is a strong base. But this is a *spurious* correlation! p. 234
+	* In fact, basicity and nucleophilicity are *distinct* properties. In the cases of: (1) a base stealing a proton H<sup>+</sup> and (2) a nucleophile attaching to a central carbon, we see a two *different* types of new bond formation. If the new bond is to a hydrogen/proton, then the reagant is acting as a **base**. if the new bond is to a central carbon in the substrate, the reagant is acting as a **nucleophile**. 
+	* **Basicity** is the equilibrium constant K<sub>eq</sub> for abstacting a proton H<sup>+</sup>.
 	* **Nucleophilicity** is defined as the *rate* (*k<sub>r</sub>*)by which a nucleophile attacks a substrate electrophilic carbon atom.
+* Three trends affecting the how strong the nucleophile is (p. 234-235). 
+	1. The negative charged species (anion form) is a stronger nucleophile than the non-charged (neutral atomic/molecular form)
+	2. Within the neutral/anionic right half of the periodic table, elements to the left (e.g., Group 15) are *more* nucleophilic because they are *less* electronegative than elements to the right (e.g., Group 16-17). So NH<sub>2</sub><sup>-</sup> is more nucleophilic than OH<sup>-</sup> which is more nucleophilic than F<sup>-</sup>. Because F is more electronegative than O and N. (see bullet below for explanation).
+	3. Within a Group/column, the further down in the periodic table one goes, the less electronegative and therefore the *more* nucleophilic the element. At the same time, atomic radii is also increasing the further down a column one goes which also helps with nucleophilicity because of a bigger electron cloud that can reach out an attach for S<sub>N</sub>2 reactions.
+* Note, the more electronegative an element is, the *less* nucleophilic it is (assuming it still has a net negative rather than  positive charge). At first, this may seem contradictory because negatively charged anions (e.g., halide ions like F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>, I<sup>-</sup>) act as nucleophiles much more than positively charged cations (e.g., alkali metals like Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>). However, *given* a  neutral or negative species, within that grouping, oddly enough the less electrophilc an element, the stronger a nucleophile it is! So moving left to right in Period 2, N is more nucleophilic than O which is more nucleophilic than F which is the opposite of electronegativity. N is less electronegative than O is less electronegative than F. This is because the more electronegative an element is, the more tightly its nucleus grips its electron cloud. So the electron cloud is smaller and tighter and less likely to be able to do backside attachment to the target substrate carbon atom.
+
+
+<sup>+</sup>
+<sup>-</sup>
+
+<sub>2</sub>
+
 
 
 ### Miscellaneous notes
@@ -393,4 +405,4 @@ permalink: /organic-chemistry/
 * 3/02 fiinished Problem 6-15
 * 3/03 factors affecting S<sub>N</sub>2 reactions: how strong the nucleophile is
 * 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
-* 3/06-3/10 causes and trends of strength of nucleophilicity
+* 3/06-3/10 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
