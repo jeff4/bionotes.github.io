@@ -370,14 +370,7 @@ permalink: /organic-chemistry/
 * 12/30 more stereo problems
 * 12/31/2021 completed absolute v. relative section. In general, a lot of bio organic molecules were classified as D(+) or L(-) relative to glyceraldehyde. Amino acids were generally L and were based off  of (-)-glyceraldehyde. Sugars generally degrade to (+)-glyceraldehyde and are generally D-sugars. None of these map cleanly onto R/S CIP sequence rules.
 * 1/01/2022 continued end of chapter 5 problems
-* 1/03/2022 more chapter 5 problems
-* 1/05/2022 more chapter 5 stereochemistry problems
-* 1/06/2022 more chapter 5 stereochemistry problems
-* 1/07/2022 more chapter 5 stereochemistry problems
-* 1/08/2022 more chapter 5 stereochemistry problems
-* 1/10 more chapter 5 stereochemistry problems
-* 1/12 more chapter 5 stereochemistry problems
-* 1/13 more chapter 5 stereochemistry problems 
+* 1/02 - 1/14 more chapter 5 stereochemistry problems
 * 1/15 some tougher stereochemistry problems at the end
 * 1/18 some tougher stereochemistry problems at the end
 * 1/19 more problems
@@ -401,4 +394,4 @@ permalink: /organic-chemistry/
 * 3/02 fiinished Problem 6-15
 * 3/03 factors affecting S<sub>N</sub>2 reactions: how strong the nucleophile is
 * 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
-* 3/06-3/10 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
+* 3/06-3/11 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
