@@ -395,3 +395,4 @@ permalink: /organic-chemistry/
 * 3/03 factors affecting S<sub>N</sub>2 reactions: how strong the nucleophile is
 * 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
 * 3/06-3/12 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
+* 3/13 first section and problems on steric hindrance on nucleophilic reagant vs. substrate.
