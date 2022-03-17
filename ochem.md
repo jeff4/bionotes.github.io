@@ -396,4 +396,4 @@ permalink: /organic-chemistry/
 * 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
 * 3/06-3/12 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
 * 3/13 first section on steric hindrance. 
-* 3/14-3/16 Problem 6-16 on steric hindrance on nucleophilic reagant vs. substrate.
+* 3/14-3/17 Problem 6-16 on steric hindrance on nucleophilic reagant vs. substrate.
