@@ -379,7 +379,7 @@ permalink: /organic-chemistry/
 * 1/25-31 more on chapter 6 / coach em stuff / draft revs
 * 2/01/2022 More on chapter 6
 * 2/02 More on chap 6 and return(); success!
-* 2/03-5 Section 6- allylic bromination
+* 2/03-2/05 Section 6:allylic bromination
 * 2/08 Began proper section on nucleophilic substitution and elimination reactions
 * 2/09-13 More on nucleophilic substitution and elimination via base. Hamlet ppt.
 * 2/15 Prepped Campesterol
@@ -396,4 +396,4 @@ permalink: /organic-chemistry/
 * 3/04-3/05 Categorized various common nucleophilic species by strength in S<sub>N</sub>2 reactions
 * 3/06-3/12 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
 * 3/13 first section on steric hindrance. 
-* 3/14-3/19 Problem 6-16 on how steric hindrance and other factors influence which reagents are more nucleophilic 
+* 3/14-3/20 Problem 6-16 on how steric hindrance and other factors influence which reagents are more nucleophilic 
