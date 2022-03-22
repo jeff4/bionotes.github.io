@@ -397,4 +397,4 @@ permalink: /organic-chemistry/
 * 3/06-3/12 causes and trends of strength of nucleophilicity. Worked it out in Markdown before more hand drawn notes.
 * 3/13 first section on steric hindrance. 
 * 3/14-3/20 Problem 6-16 on how steric hindrance and other factors influence which reagents are more nucleophilic 
-* 3/21 Section 6-10B: protic solvents form hydrogen bonds to stabliize nucleophiles like -OH and -NH<sub>2</sub>
+* 3/22 Section 6-10B: protic solvents form hydrogen bonds to stabliize nucleophiles like -OH and -NH<sub>2</sub>
