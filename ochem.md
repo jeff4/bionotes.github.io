@@ -399,3 +399,4 @@ permalink: /organic-chemistry/
 * 3/14-3/20 Problem 6-16 on how steric hindrance and other factors influence which reagents are more nucleophilic 
 * 3/22-3/23 Section 6-10B: protic solvents form hydrogen bonds to stabliize nucleophiles like -OH and -NH<sub>2</sub>
 * 3/24 started Section 6-11
+* 3/25 Problem 6-18
