@@ -401,4 +401,4 @@ permalink: /organic-chemistry/
 * 3/24 started Section 6-11
 * 3/25-26 Problem 6-18
 * 3/27 Problem 6-19
-* 3/28 stereochemistry of S<sub>N</sub>2 reactions
+* 3/28 - 3/29 stereochemistry of S<sub>N</sub>2 reactions
