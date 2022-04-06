@@ -402,4 +402,5 @@ permalink: /organic-chemistry/
 * 3/25-26 Problem 6-18
 * 3/27 Problem 6-19
 * 3/28 - 3/29 stereochemistry of S<sub>N</sub>2 reactions
-* 3/30 - 4/05 Problem 6-20. Remember, swapping any two constituents automatically switches R/S.
+* 3/30 - 4/04 Problem 6-20. Remember, swapping any two constituents automatically switches R/S.
+* 4/05 Started Section 6-13 on the S<sub>N</sub>1 reaction
