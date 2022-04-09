@@ -407,3 +407,4 @@ permalink: /organic-chemistry/
 * 4/06 more on section 6-13 reaction coordinate comparing transition states of S<sub>N</sub>1 vs S<sub>N</sub>1
 * 4/07 S<sub>N</sub>1 proceed faster when carbocations ionize more easily in Step 1 of reaction. This is helped by more substituted alkyl groups which stabilize the carbocation with the dipole moment that happen for each additional alkyl group. see p. 245.
 * 4/08 More on substituent effects on S<sub>N</sub>1 reactions
+* 4/09 Started Problem 6-23 on substrate carbon and substrate/leaving-group effects on S<sub>N</sub>1 reactions
