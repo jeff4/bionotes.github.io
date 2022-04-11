@@ -408,4 +408,4 @@ permalink: /organic-chemistry/
 * 4/07 S<sub>N</sub>1 proceed faster when carbocations ionize more easily in Step 1 of reaction. This is helped by more substituted alkyl groups which stabilize the carbocation with the dipole moment that happen for each additional alkyl group. see p. 245.
 * 4/08 More on substituent effects on S<sub>N</sub>1 reactions
 * 4/09 Completed Problem 6-23 on substrate carbon and substrate/leaving-group effects on S<sub>N</sub>1 reactions
-* 4/10 Started Problem 6-24 on S<sub>N</sub>1
+* 4/10 Completed Problem 6-24 with examples of how resonance structures stabilize the carbocation resulting from Step 1 of S<sub>N</sub>1 ionization
