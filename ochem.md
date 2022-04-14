@@ -410,3 +410,4 @@ permalink: /organic-chemistry/
 * 4/09 Completed Problem 6-23 on substrate carbon and substrate/leaving-group effects on S<sub>N</sub>1 reactions
 * 4/10 Completed Problem 6-24 with examples of how resonance structures stabilize the carbocation resulting from Step 1 of S<sub>N</sub>1 ionization
 * 4/11 - 4/13 Previewed future sections left for  S<sub>N</sub>1, E1, and E2 rxns.
+* 4/14 Solvent effects and stereochemistry of S<sub>N</sub>1 reactions
