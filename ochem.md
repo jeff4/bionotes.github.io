@@ -411,3 +411,4 @@ permalink: /organic-chemistry/
 * 4/10 Completed Problem 6-24 with examples of how resonance structures stabilize the carbocation resulting from Step 1 of S<sub>N</sub>1 ionization
 * 4/11 - 4/13 Previewed future sections left for  S<sub>N</sub>1, E1, and E2 rxns.
 * 4/14 Solvent effects and stereochemistry of S<sub>N</sub>1 reactions
+* 4/15 Section 6-15: Hydride shifts and other rearrangements of the carbocation before/after the leaving group departs the substrate in Step 1 of S<sub>N</sub>1
