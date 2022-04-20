@@ -413,5 +413,5 @@ permalink: /organic-chemistry/
 * 4/14 Solvent effects and stereochemistry of S<sub>N</sub>1 reactions
 * 4/15-4/16 Section 6-15: Mechanisms 6-5 and 6-6 for rearrangements of the carbocation of S<sub>N</sub>1: hydride shift and methyl shift, respectively
 * 4/17 More on methyl shift rearrangement prior to formation of carbocation in Step 1
-* 4/18 Tax filing day
-* 4/19 Problem 6-25
+* 4/18 Redrew mechanism 6-6 of methyl shift forming tertiary carbocation prior to successive nucleophilic attack by ethanol
+* 4/19 Problem 6-26
