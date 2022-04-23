@@ -416,3 +416,4 @@ permalink: /organic-chemistry/
 * 4/18 Redrew mechanism 6-6 of methyl shift forming tertiary carbocation prior to successive nucleophilic attack by ethanol
 * 4/19 - 4/21 Problem 6-26. extensive problems on methyl shift and hydride shift rearrangements and S<sub>N</sub>1
 * 4/22 Problem 6-26c. Hydride shift to a carbocation that is rearranged to be more stable because it is stabilized by allylic location of nearby double bond.
+* 4/23 struggled more with 6-26c as i try to draw all associated resonance structures of protanated version of product I and product II.
