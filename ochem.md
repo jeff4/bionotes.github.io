@@ -418,3 +418,4 @@ permalink: /organic-chemistry/
 * 4/22-3 Problem 6-26c. Hydride shift to a carbocation that is rearranged to be more stable because it is stabilized by allylic location of nearby double bond. Drew all associated resonance structures of protanated version of product I and product II. Key is that the nucleophile is the double-bonded oxygen, not the -OH hydroxyl group.
 * 4/24-5 Problem 6-26d. Product I result of basic hydride shift. Product II breaks cyclohexane to form 7-member cycloheptane. A new carbon-carbon bond somewhat like a methyl shift.
 * 4/26 Comparison of S<sub>N</sub>1 and S<sub>N</sub>2
+* 4/27 Problem 6-27 to predict whether S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms predominate in given reactions 
