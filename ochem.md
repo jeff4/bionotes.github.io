@@ -419,3 +419,4 @@ permalink: /organic-chemistry/
 * 4/24-5 Problem 6-26d. Product I result of basic hydride shift. Product II breaks cyclohexane to form 7-member cycloheptane. A new carbon-carbon bond somewhat like a methyl shift.
 * 4/26 Comparison of S<sub>N</sub>1 and S<sub>N</sub>2
 * 4/27 Problem 6-27 to predict whether S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms predominate in given reactions 
+* 4/28 completed problem 6-27 and began problem 6-29
