@@ -418,5 +418,6 @@ permalink: /organic-chemistry/
 * 4/22-3 Problem 6-26c. Hydride shift to a carbocation that is rearranged to be more stable because it is stabilized by allylic location of nearby double bond. Drew all associated resonance structures of protanated version of product I and product II. Key is that the nucleophile is the double-bonded oxygen, not the -OH hydroxyl group.
 * 4/24-5 Problem 6-26d. Product I result of basic hydride shift. Product II breaks cyclohexane to form 7-member cycloheptane. A new carbon-carbon bond somewhat like a methyl shift.
 * 4/26 Comparison of S<sub>N</sub>1 and S<sub>N</sub>2
-* 4/27 Problem 6-27 to predict whether S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms predominate in given reactions 
-* 4/28 completed problem 6-27 and began problem 6-29
+* 4/27 Problem 6-27 to predict whether S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms predominate in given reactions. 
+* 4/28 Problem 6-29 on silver nitrate speeding up S<sub>N</sub>1 where Ag<sup>+</sup> encourages ionizations in Step 1 to form carbocation. Leds to ring expansion in bridgehead cyclohexane
+* 4/29 Started section on E1 elimination reactions and watched [this video](https://www.youtube.com/watch?v=093tqya389o) by [Master Organic Chemistry](https://www.youtube.com/channel/UCAkdabTbEpxD7pr7TJlRZIw).
