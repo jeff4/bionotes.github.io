@@ -421,3 +421,4 @@ permalink: /organic-chemistry/
 * 4/27 Problem 6-27 to predict whether S<sub>N</sub>1 and S<sub>N</sub>2 mechanisms predominate in given reactions. 
 * 4/28 Problem 6-29 on silver nitrate speeding up S<sub>N</sub>1 where Ag<sup>+</sup> encourages ionizations in Step 1 to form carbocation. Leds to ring expansion in bridgehead cyclohexane
 * 4/29 Started section on E1 elimination reactions and watched [this video](https://www.youtube.com/watch?v=093tqya389o) by [Master Organic Chemistry](https://www.youtube.com/channel/UCAkdabTbEpxD7pr7TJlRZIw).
+* 4/30 Problem 6-30 on how/why E1 and S<sub>N</sub>1 reactions compete with the same reactants
