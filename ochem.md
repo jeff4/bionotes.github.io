@@ -423,4 +423,4 @@ permalink: /organic-chemistry/
 * 4/29 Started section on E1 elimination reactions and watched [this video](https://www.youtube.com/watch?v=093tqya389o) by [Master Organic Chemistry](https://www.youtube.com/channel/UCAkdabTbEpxD7pr7TJlRZIw).
 * 4/30 Problem 6-30 on how/why E1 and S<sub>N</sub>1 reactions compete with the same reactants
 * 5/01/2022 Energetics and orbitals of E1 reactions
-* 5/02 - 5/03 exercises
+* 5/03 Hydride shift rearrangements in E1 reactions
