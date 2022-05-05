@@ -424,3 +424,4 @@ permalink: /organic-chemistry/
 * 4/30 Problem 6-30 on how/why E1 and S<sub>N</sub>1 reactions compete with the same reactants
 * 5/01/2022 Energetics and orbitals of E1 reactions
 * 5/03 Hydride shift rearrangements in E1 reactions
+* 5/04 Problem 6-1 partly solved p. 258
