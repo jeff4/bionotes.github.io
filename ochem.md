@@ -426,3 +426,4 @@ permalink: /organic-chemistry/
 * 5/03 Hydride shift rearrangements in E1 reactions
 * 5/04 Completed Problem 6-32
 * 5/05 Started Problem 6-33
+* 5/06 Completed Problem 6-33 with a whole bunch of E1 and S<sub>N</sub>1 products; both with and without cation rearrangements
