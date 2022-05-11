@@ -430,3 +430,4 @@ permalink: /organic-chemistry/
 * 5/08 Completed Problem 6-34. Zaitseff''s rule on most stable alkenes are the ones with most substituted groups.
 * 5/09 Scanned future chapters on alkenes etc. Began Solved Problem 6-1 p. 260
 * 5/10 Completed Problem 6-35
+* 5/11 Started E2 elimination reaction caused by strong bases and comparison with E1 and  S<sub>N</sub>2 reactions.
