@@ -432,4 +432,5 @@ permalink: /organic-chemistry/
 * 5/10 Completed Problem 6-35
 * 5/11 Began section on E2 elimination reactions. Caused by strong bases and comparison with E1 and  S<sub>N</sub>2 reactions. Completed Problem 6-36
 * 5/12 Completed Problem 6-37
-* 5/13-14 More drawing and redrawing of ring structures resulting from E2 and S<sub>N</sub>2 reactions in Problem 6-37(d)
+* 5/13 More drawing and redrawing of ring structures resulting from E2 reactions in Problem 6-37(d)
+* 5/14 Finalized inverted cyclohexane structure after and S<sub>N</sub>2 attack in Problem 6-37(d)
