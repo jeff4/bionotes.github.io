@@ -434,3 +434,4 @@ permalink: /organic-chemistry/
 * 5/12 Completed Problem 6-37
 * 5/13 More drawing and redrawing of ring structures resulting from E2 reactions in Problem 6-37(d)
 * 5/14 Finalized inverted cyclohexane structure after and S<sub>N</sub>2 attack in Problem 6-37(d)
+* 5/15 Started Section 6-20: Stereochemistry of E2 Reactions
