@@ -436,4 +436,5 @@ permalink: /organic-chemistry/
 * 5/14 Finalized inverted cyclohexane structure after and S<sub>N</sub>2 attack in Problem 6-37(d)
 * 5/15 Started Section 6-20: Stereochemistry of E2 Reactions
 * 5/16 Used 3d models to solve Problem 6-38 on E2 reactions differentially create cis and trans alkenes with phenyl substiuent groups
-* 5/17 Began Section 6-21: Overall comparison of E1 and E2 reactions
+* 5/17 Completed Section 6-21: Overall comparison of E1 and E2 reactions
+* 5/18 Began final problems at end of Chatper 6
