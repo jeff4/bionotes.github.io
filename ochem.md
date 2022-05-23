@@ -438,4 +438,4 @@ permalink: /organic-chemistry/
 * 5/16 Used 3d models to solve Problem 6-38 on E2 reactions differentially create cis and trans alkenes with phenyl substiuent groups
 * 5/17 Completed Section 6-21: Overall comparison of E1 and E2 reactions
 * 5/18 Began final problems at end of Chatper 6
-* 5/19 - 5/22 Problems 6-42, 6-43, 6-44, 6-45, 6-46
+* 5/19 - 5/22 Problems 6-42, 6-43, 6-44, 6-45, 6-46, 6-47
