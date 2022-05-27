@@ -26,3 +26,8 @@ sitemap: false
 * **Conclusion**: The Future of the United States p. 218
 
 -------
+
+## Introduction: This Land p. 1
+* David Chang: 'Nation, race, and class converged in land.' p. 1
+* Patrick Wolfe: 'The question of genocide is  never far from discussion of settler colonialism. Land is life–or, at least, land is necessary for life.' p. 2
+* "The history of the United States is a history of settler colonialism–the foudning of a state based on the ideology of white supremacy, the widespread practice of African slavery, and a policy of genocide and land theft."
