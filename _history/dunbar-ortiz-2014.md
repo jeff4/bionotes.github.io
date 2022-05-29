@@ -52,3 +52,19 @@ sitemap: false
 ### Settler Colonialism p. 7-8
 	
 * "Through economic penetration of Indigenous societies, the European and Euro-American colonial powers created economic dependency and imbalance of trade, then incorporated the Indigenous nations into spheres of influence and controlled them indirectly or as protectorates, with indispensable use of Christian missionaries and alcohol. In the case of US settler colonialism, **land was the primary commodity**. With such obvious indicators of colonialism at work, why should so many interpretations of US political-economic development be convoluted and obscure, avoiding the obvious? p. 7
+* "...the twentieth-century emergence of the field of 'US West' or 'Borderlands' history has been forced into an incomplete and flawed settler-colonialist framework. The father of that field of history, FrederickJackson Turner, confessed as much in 1901: 'Our colonial system did not start with the Spanish War [1898]; the U.S. had had a colonial history and policy from the beginning of the Republic; but they have been hidden under the phraseology of *inter­state migration* and *territorial organization*.'" p. 7-8
+* "The **notion that settler-indigenous conflict is an inevitable product of cultural differences and misunderstandings**, or that vio­lence was committed equally by the colonized and the colonizer, **blurs the nature of the historical processes**. 
+
+### Genocidal policies p. 8-11
+
+* "Euro-American colonial­ism, an aspect of the capitalist economic globalization, had from its beginnings a genocidal tendency...US history, as well as inherited Indigenous trauma, cannot be understood without dealing with the genocide that the United States committed against Indigenous peoples...The absence of even the slightest note of regret or tragedy in the annual celebration of the US independence betrays a deep disconnect in the consciousness of US Americans." p. 8-9
+* "Ojibwe historian Jean O'Brien names the practice of writing Indians out of existence 'firsting and lasting'.
+	* "All over the continent, local histories, monuments, and signage narrate the story of first settlement: the founder(s), the first school, first dwelling, first everything, as if there had never been occupants who thrived in those places before Euro-Americans. On the other hand, the national narrative tells of 'last' Indians or last tribes, such as 'the last of the Mohicans', 'Ishi, the last Indian', and *End of the Trail*, as a famous sculpture by James Earle Fraser is titled."
+* Four distinct periods of offical genocidal policies by US administrations
+	1. Jacksonian period of forced removal (1830s)
+	2. California Gold Rush in Northern California (1849-1850s)
+	3. post-Civil War era of the so-called Indian wars in the Great Plains (1850s-1870s)
+	4. 1950s termination period
+* 1873 quote from General William Sherman: 'We must act with vindictive earnestness against the Sioux, even to their extermination, men, women and children...during an assault, the soldiers can not pause to distinguish between male and female, or even discriminate as to age.' p. 9-10
+* Patrick Wolfe: 'the peculiarity of settler colonialism is that the goal is elimination of Indigenous populations in order to make land available to settlers. That project is not limited to government policy, but rather involves all kinds of agencies, voluntary militias, and the settlers themselves acting on their own.' p. 10
+* "There are more than 500 federally recognized Indigenous communities and nations–nearly 3 million people in the US." p. 10
