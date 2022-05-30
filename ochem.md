@@ -440,3 +440,4 @@ permalink: /organic-chemistry/
 * 5/18 Began final problems at end of Chatper 6
 * 5/19 - 5/22 Problems 6-42, 6-43, 6-44, 6-45, 6-46, 6-47
 * 5/24 Problems 6-48, 6-49, 6-50
+* 5/25 - 5/30 Problems 6-50...6-60.
