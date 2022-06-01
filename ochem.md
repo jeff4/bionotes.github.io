@@ -441,4 +441,4 @@ permalink: /organic-chemistry/
 * 5/19 - 5/22 Problems 6-42, 6-43, 6-44, 6-45, 6-46, 6-47
 * 5/24 Problems 6-48, 6-49, 6-50
 * 5/25 - 5/30 Problems 6-50...6-60
-* 5/31 Challenge Problem 6-61 on what happens when -OH group is protonated into becoming a good leaving group, resulting in 2 S<sub>N</sub>1 and 1 E1 products.
+* 5/31 - 6/01 Challenge Problem 6-61 on what happens when -OH group is protonated into becoming a good leaving group, resulting in 2 S<sub>N</sub>1 and 1 E1 products.
