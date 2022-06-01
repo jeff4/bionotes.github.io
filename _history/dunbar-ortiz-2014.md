@@ -87,3 +87,28 @@ sitemap: false
 * "Such histories have been written, and are being written by historians of Diné, Lakota, Mohawk, Tlingit, Muskogee, Anishinaabe, Lumbee, Inuit, Kiowa, Cherokee, Hopi, and other Indigenous communities and nations that have survived colonial genocide.
 * "Indigenous peoples, now in a colonial relationship with the United States, inhabited and thrived for millennia before they were displaced to fragmented reservations and economically decimated.
 * "This book attempts to tell the story of the United States as a colonialist settler-state, one that, like colonialist European states, crushed and subjugated the original civilizations in the territories it now rules. This is the history of the United States." p. 14
+
+## Chapter 2: Follow the Corn p. 15
+
+### Pre-Agricultural Milestones
+* [Pre-Homo sapiens](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa#Early_dispersals)
+	* Gracile australopithecines evolved in East Africa around 4m years ago.
+	* Earliest evidence of hominids outside of Africa 2mya
+	*  Humanoids "living in small communal groups" eventually populated all continents except for Antartica.
+* [Modern Humans](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+	* Out of Africa (OOA) aka Recent Single-Origin Hypothesis (RSOH)
+	* H. sapiens evolved in the Horn of Africa 200k-300k years ago
+	* 220,000 years ago, some migration as far as Greece
+	* 120,000 ya, migrations as far as [Maghreb](https://en.wikipedia.org/wiki/Maghreb) and the Arabian Peninsula
+	* This wave of migration seems to have died out about 80,000 ya
+	* Most significant "recent wave" out of Africa was 50-70,000 ya via the [Sourthern Route](https://en.wikipedia.org/wiki/Southern_Dispersal) 
+
+### Americas
+* Domestication of plants happened around 11,000 years ago (8,500 BC) in seven regions around the world.
+* Three of these areas of first agriculture were located in the Americas: (1) The Valley of Mexico and Central America; (2) South-Central Andes in South America; and (3) eastern North America
+* In contrast to animal domestication in Eurasia / Africa, Native American societies focused on game management.
+
+### The Sacred Corn Food p. 16
+* Evidence of cultivated corn date back 10,000 years (~8000 BC).
+* By 6800 - 6500 BC, "evidence of corn production had spread all the way from the southern tip of South America to the subartic of North America, and from the Pacific to the Atlantic Ocean."
+* "Since there is no evidence of corn on any other continent prior to its post-Columbus dispersal, its development is a unique invention of the original American agriculturalists. Unlike most grains, corn cannot grow wild and cannot exist without attentive human care."
