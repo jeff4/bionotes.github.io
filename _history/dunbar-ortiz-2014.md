@@ -112,3 +112,37 @@ sitemap: false
 * Evidence of cultivated corn date back 10,000 years (~8000 BC).
 * By 6800 - 6500 BC, "evidence of corn production had spread all the way from the southern tip of South America to the subartic of North America, and from the Pacific to the Atlantic Ocean."
 * "Since there is no evidence of corn on any other continent prior to its post-Columbus dispersal, its development is a unique invention of the original American agriculturalists. Unlike most grains, corn cannot grow wild and cannot exist without attentive human care."
+* This also meant that there were centuries of cultural and commercial interchange among the peoples of the Americas; "traders carried seeds as well as other goods and cultural practices."
+* Because corn can only live without water for 30 days at most, many more arid regions "required the design and construction of irrigation systems". These systems were built as early as 800 - 500 BC.
+* Combination of corn, squash, and beans provide complete protein. p. 17
+* By 1490s, 100 million people lived in the Americas, 40m in North America (ex-Central America). Central Mexico alone supported ~30m people, at a time when the population of Europe was 50m (all land west of the Urals).
+
+### Disease-Free and Well-Fed p. 17
+* Relatively disease free
+* Herbal medicine, surgery, dentistry
+* Perhaps most important was hygenic and ritual bathing on a regular basis
+* "The majority of the Indigenous peoples of the Americas had healthy, mostly vegetarian diets based on the staple of corn and supplemented by wild fish, fowl, and four-legged animals. 
+* "People lived long and well with abundant ceremonial and recreational periods."
+
+### Up From Mexico / Story of Mesoamerica / Mayans / Olmecs p. 17
+* Brief overview of "peoples' history of the Valley of Mexico and Central America, often called [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)." p. 18
+	* [Major Eras of Mesoamerican History](https://en.wikipedia.org/wiki/Mesoamerican_chronology#Chronology)
+	* **Before 3500 BC** Paleo-Indian Period
+	* **3500-2000 BC** Archaic Period
+	* **2000 BC - 250 CE** Preclassical aka Formative Era
+	* **250 - 900 CE** Classical Period
+	* **900 - 1521 CE** Postclassical Period
+	* Post-conquest Era
+		* **1521 - 1821** Colonial Period
+		* **1821 - present** Postcolonial Period
+	* **Mayan civilization** occuped most of Mesoamerica, including all of the Yucatán Peninsula.
+		* 2M people lived in [the Mayan Civilization](https://en.wikipedia.org/wiki/History_of_the_Maya_civilization) during the five centuries of its pinnacle which occurred during the Classic Period, 250 - 900 CE. 
+		* "Mayan culture astonishes all who study it, and it is often compared to Greek (Athenian) culture. At its core was the cultivation of corn; religion was constructed around this vital food." p. 18
+		* "By 36 BC, [Mayans had] invented the concept of zero" and had other highly advanced developments in math and astronomy.
+	* **Olmec civilization** was to the west, building the great city of Teotihuacán. [Origins](https://en.wikipedia.org/wiki/Teotihuacan#History) were in the first century CE and reached its peak between 350-450 AD. The impressiveness and population of this city would not be rivalled anywhere in the Americas until the peak of Aztec civilization almost 1000 years later.
+	* "Beginning in AD 750, **Toltec civilization** dominated the region for four centuries, absorbing the Olmecs. Colossal buildings, sculptures, and markets made up the Toltec cities, which housed extensive libraries and universities. They created multiple cities, the largest being Tula. The Toltecs' written language was based on the Mayan form, as was the calendar they used in scientific research, particularly in astronomy and medicine." p. 19
+	* "In 1426, the **Aztecs of Tenochtitlán** formed an alliance with the** Texcoco** and **Tlacopan** peoples and **overthrew Tepanec rule**. The allies proceeded to wage war against neighboring peoples and eventually succeeded in gaining control over the Valley of Mexico. The Aztecs emerged as dominant in the Triple Alliance and moved to bring all the peoples of Mexico under their tributary authority." p. 19-20
+
+### Extensive trade networks p. 20
+* The powerful Aztec state included "...elaborate markets in each city and a far-flung trade network that used routes established by the Toltecs."
+* "Aztec merchants acquired turquoise from Pueblos who mined it in what is now the US Southwest to sell in central Mexico where it had become the most valued of all material possessions and was used as a means of exchange or a form of money. Sixty-five thousand turquoise artifacts in Chaco Canyon, New Mexico, are evidence of the importance of turquoise as a major precolonial commodity. Other items were also valuable marketable commodities in the area, salt being close to turquoise in value. Ceramic trade goods involved interconnected markets from Mexico City to Mesa Verde, Colorado. Shells from the Gulf of California, tropical bird feathers from the Gulf Coast area of Mexico, obsidian from Durango, Mexico, and flint from Texas were all found in the ruins of Casa Grande (Arizona), the commercial center of the northern frontier. Turquoise functioning as money was traded to acquire macaw and parrot feathers from tropical areas for religious rituals, seashells from coastal peoples, and hides and meat from the northern plains. The stone has been found in precolonial sites in Texas, Kansas, and Nebraska, where the Wichitas served as intermediaries, carrying turquoise and other goods farther east and north." p. 20
