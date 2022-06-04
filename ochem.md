@@ -442,5 +442,6 @@ permalink: /organic-chemistry/
 * 5/24 Problems 6-48, 6-49, 6-50
 * 5/25 - 5/30 Problems 6-50...6-60
 * 5/31 - 6/01 Challenge Problem 6-61 on what happens when -OH group is protonated into becoming a good leaving group, resulting in 2 S<sub>N</sub>1 and 1 E1 products.
-* 6/02 Problems 6-62
-* 6/03 Reread p. 225 on regenerating alkyl bromination using resononant alkenes with adjacent allylic carbons, carbon radicals (3 bonds plus 1 electron; neutral species but highly "motivated" to bond), bromination chain reaction. [NBS](https://en.wikipedia.org/wiki/N-Bromosuccinimide) mediated. All in prep for solving Problems 6-63 and 6-64.
+* 6/01 Problem 6-62
+* 6/02 Reread p. 225 on regenerating alkyl bromination using resononant alkenes with adjacent allylic carbons, carbon radicals (3 bonds plus 1 electron; neutral species but highly "motivated" to bond), bromination chain reaction. [NBS](https://en.wikipedia.org/wiki/N-Bromosuccinimide) mediated. All in prep for solving Problems 6-63 and 6-64.
+* 6/03 Solved Problems 6-63 and 6-64 on how allylic bromination, carbon radicals, allylic radicals, NBS conversion to [succinimide](https://en.wikipedia.org/wiki/Succinimide), etc. Also found [this page detailing how NBS](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/) works; skip to section "Allylic Bromination with NBS: How It Works".
