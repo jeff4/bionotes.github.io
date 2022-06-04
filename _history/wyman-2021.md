@@ -26,3 +26,7 @@ sitemap: false
 -------
 
 ## Introduction  p. 1
+
+-------
+
+## Chapter 6: John Heritage and Everyday Capitalism p. 196
