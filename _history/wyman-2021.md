@@ -1,4 +1,4 @@
-\---
+---
 title: The Verge
 permalink: /wyman-2021/
 sitemap: false
