@@ -446,4 +446,4 @@ permalink: /organic-chemistry/
 * 6/02 Reread p. 225 on regenerating alkyl bromination using resononant alkenes with adjacent allylic carbons, carbon radicals (3 bonds plus 1 electron; neutral species but highly "motivated" to bond), bromination chain reaction. [NBS](https://en.wikipedia.org/wiki/N-Bromosuccinimide) mediated. All in prep for solving Problems 6-63 and 6-64.
 * 6/03 - 6/04 Solved Problems 6-63 and 6-64 on how allylic bromination, carbon radicals, allylic radicals, NBS conversion to [succinimide](https://en.wikipedia.org/wiki/Succinimide), etc. Also found [this page detailing how NBS](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/) works; skip to section "Allylic Bromination with NBS: How It Works".
 * 6/05 Problem 6-65 on why S<sub>N</sub>1 reactions have an excess of inverted product especially if the carbocation is unstable (e.g., primary or secondary vs. tertiary or stabilized by allylic resonance)
-* 6/06 Problem 6-66 5 products. Show mechanisms for each
+* 6/06 - 6/07 Problem 6-66 5 products. Show mechanisms for each
