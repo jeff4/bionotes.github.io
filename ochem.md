@@ -450,4 +450,4 @@ permalink: /organic-chemistry/
 * 6/07 Solved Problem 6-67 on impact of deuterium (C-D bonds are stronger than vanilla C-H bonds). Elimination products form 7x more slowly when C-D bonds must be broken relative to C-H bonds
 * 6/08 - 6/09 Problem 6-68
 * 6/10 Problem 6-69
-* 6/11 Problem 6-70 
+* 6/11 - 6/12 Problem 6-70 
