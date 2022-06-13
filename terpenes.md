@@ -14,7 +14,7 @@ permalink: /terpenes/
 ### Naming of terpene compounds
 
 | # of carbons | # of isoprenes | # of terpenes | Name          |
-|--------------|----------------|---------------|---------------|
+|--------------|----------------|--------------|---------------|
 | 10           | 2              | 1             | mono-terpene   |
 | 15           | 3              | 1.5           | sesqui-terpene |
 | 20           | 4              | 2             | di-terpene     |
@@ -104,3 +104,4 @@ permalink: /terpenes/
 * 2/05 posted lycopene
 * 2/13 posted fucosterol
 * 2/18 experimented with alliin
+* 6/12 posted 18-crown-6
