@@ -104,5 +104,6 @@ permalink: /terpenes/
 * 2/05 posted lycopene
 * 2/13 posted fucosterol
 * 2/18 experimented with alliin
+* ...
 * 6/12 posted white marble version of 18-crown-6
 * 6/13 posted dark wood version of 18-crown-6
