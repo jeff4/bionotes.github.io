@@ -451,4 +451,5 @@ permalink: /organic-chemistry/
 * 6/08 - 6/09 Problem 6-68
 * 6/10 Problem 6-69
 * 6/14 Problem 6-70
-* 6/16 Problem 6-72
+* 6/17 Completed Problem 6-72
+* 6/18 Started Chapter 7 on Alkenes / Olefins
