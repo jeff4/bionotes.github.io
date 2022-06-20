@@ -26,6 +26,11 @@ sitemap: false
 -------
 
 ## Introduction  p. 1
+* Two sides of the debate among neo-Marxist: 
+	* *Internalists* like Maurice Dobb, Robert Brenner, and Ellen Meiksins Wood "locate the generative sources of capitalist social relations in the *internal* contradictions of feudal European societies, especially England".  p. 7
+	* *Externalists* like Paul Sweezy and Immanuel Wallerstein "view capitalism as having developed from the growth of markets, commerce, and trade in Europe over the Long Sixteenth Century (1450-1650)." p. 7
+* The two sides are opposed because they debate whether class conflict was more important (internalist position) or if intensification of trade was more important (externalist position) as the prime mover of the transition to capitalism.
 
 -------
 
+## Chapter 1: The Transition Debate: Theories and Critique p. 13
