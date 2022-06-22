@@ -453,3 +453,4 @@ permalink: /organic-chemistry/
 * 6/14 Challenge Problem 6-70
 * 6/17 - 6/18 Completed Challenge Problem 6-72
 * 6/19 Started Chapter 7 on Alkenes / Olefins
+* 6/20 Problems 7-1 and 7-2 to predict structures and understanding the 2n+2 formula for fully saturated hydrocarbons vs elements of unsaturation. Remember, 1 element of unsaturation (EoU)= 2 hydrogens. Therefore, 1 ring structure = 1 EoU, 1 double bond = 1 EoU, 1 triple bond = 2 EoU's
