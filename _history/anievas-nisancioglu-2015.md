@@ -35,3 +35,4 @@ sitemap: false
 
 ## Chapter 1: The Transition Debate: Theories and Critique p. 13
 * Wallerstein's World Systems Theory WST
+* Sweezy and Wallerstein's similarities and differences
