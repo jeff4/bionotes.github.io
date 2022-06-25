@@ -7,6 +7,7 @@ permalink: /comp_notes/
 * 6/23/2022 Reinstalled Postgres and updated brew
 * 6/24/2022 Decided transition from version 9 to 14 of Postgres caused too many problems. Spent significant time trying to change default port listening behavior because clients just couldn't connect to main Postgres server. Decided my needs were well met by a simple SQLite3 database instead. Built a quick and simple CRUD app with Node.js, Express, and SQLite as the data store using [this tutorial](https://medium.com/swlh/creating-a-crud-application-using-node-js-and-sqlite3-a57d4a39ab69).
 	* found a few errors but with some modifications I could get this work. Also used TablePlus as a GUI db browser to verify. 
+* 6/25 Built new CRUD app with MongoDB backend
 
 
 ## 2021 Log
