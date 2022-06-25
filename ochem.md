@@ -7,6 +7,10 @@ permalink: /organic-chemistry/
 * [Seventh Edition](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) (2010) textbook by Leroy G. Wade
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
+### Other textbooks
+* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
+* Per above [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry), next ones to order are: [Organic Chemistry as a Second Language](https://www.amazon.com/Organic-Chemistry-Second-Language-Semester/dp/111949348X/ref=pd_rhf_ee_s_pd_sbs_rvi_sccl_2_1/139-3161052-0611559?pd_rd_w=NGxMq&content-id=amzn1.sym.80dc3982-f1a9-4e70-830e-7a37a0660538&pf_rd_p=80dc3982-f1a9-4e70-830e-7a37a0660538&pf_rd_r=75YQ61CH1VD773EPQ0AE&pd_rd_wg=Kaa5R&pd_rd_r=91e54f0a-c94b-48f7-89e3-94ec9369e3ce&pd_rd_i=111949348X&psc=1) by Klein and [Arrow-Pushing in Organic Chemistry](https://www.amazon.com/Arrow-Pushing-Organic-Chemistry-Understanding-Mechanisms/dp/111899132X/ref=sr_1_1?keywords=arrow+pushing+in+organic+chemistry&qid=1656193140&sprefix=arrow+pushing+in+%2Caps%2C127&sr=8-1) by Daniel E. Levy.
+
 ### Folding of peptide &#945;-helix secondary structure
 * Experimentation on 7/31/2020 with molecular model kit showed specific atoms involved in hydrogen bonds that help keep the *&#945;*-helix chain in shape.
 	* Per diagram on Alberts p. 134, consider **N1**-C1a-C1b-**N2**-C2a-C2b-**N3**-C3a-C3b-**N4**-C4a-C4b-**N5**-C5a-C5b-...
@@ -161,7 +165,6 @@ permalink: /organic-chemistry/
 	* Yale Organic Chemistry intro sequence
 		* [Chem 125a](https://oyc.yale.edu/chemistry/chem-125a), [playlist](https://www.youtube.com/playlist?list=PLFD7FB43DA0E679FD) of YouTube videos
 		* [Chem 125b](https://oyc.yale.edu/chemistry/chem-125b). playlist on [YouTube](https://www.youtube.com/playlist?list=PL6E3852144D8348FB)
-* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * MIT 5.12 [Spring 2003](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/syllabus/) taught by Dr. Sarah Tabacco and Prof. Barbara Imperiali used [Organic Chemistry](https://www.amazon.com/Organic-Chemistry-seventh-Leroy-Wade/dp/B008GATIL8) by L.G. Wade.
 	* Set of classic black & white [lecture notes here](https://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2003/lecture-handouts/).
 	* I think this course appeals to me more, starts with discussion of Resonance, etc.
