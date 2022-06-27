@@ -12,10 +12,10 @@ permalink: /comp_notes/
 	* Reading more about Server API Endpoints at:
 		* [Hubspot](https://blog.hubspot.com/website/api-endpoint)
 		* [SmartBear](https://smartbear.com/learn/performance-monitoring/api-endpoints/)
-		* [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/API-endpoint)
 	* Difference between HTTP [POST versus PUT](https://restfulapi.net/rest-put-vs-post/)
 		* POST mostly equivalent to CREATE database operations. If invoked multiple times, will create multiple entries.
 		* PUT mostly equivalent to UPDATE database operations. PUT method is idempotent which means if invoked multiple times, will only result in a single entry being updated with the same final value. From [this article](https://www.restapitutorial.com/lessons/idempotency.html), "From a RESTful service standpoint, for an operation (or service call) to be idempotent, clients can make that same call repeatedly while producing the same result. In other words, making multiple identical requests has the same effect as making a single request."
+	* Good quick overview of [benefits of linting](https://sourcelevel.io/blog/what-is-a-linter-and-why-your-team-should-use-it), including first lint program written for Unix in 1978
 
 
 ## 2021 Log
