@@ -8,10 +8,14 @@ permalink: /comp_notes/
 * 6/24/2022 Decided transition from version 9 to 14 of Postgres caused too many problems. Spent significant time trying to change default port listening behavior because clients just couldn't connect to main Postgres server. Decided my needs were well met by a simple SQLite3 database instead. Built a quick and simple CRUD app with Node.js, Express, and SQLite as the data store using [this tutorial](https://medium.com/swlh/creating-a-crud-application-using-node-js-and-sqlite3-a57d4a39ab69).
 	* found a few errors but with some modifications I could get this work. Also used TablePlus as a GUI db browser to verify. 
 * 6/25 Built new CRUD app with MongoDB backend. Used new GUI http app to send GET/POST etc. to test and populate backend. Began using vim and VS Code [together](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim).
-* 6/26 Mostly finished building my first [MERN app](https://www.mongodb.com/languages/mern-stack-tutorial). Reading more about Server API Endpoints at:
-	* [Hubspot](https://blog.hubspot.com/website/api-endpoint)
-	* [SmartBear](https://smartbear.com/learn/performance-monitoring/api-endpoints/)
-	* [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/API-endpoint)
+* 6/26 Mostly finished building my first [MERN app](https://www.mongodb.com/languages/mern-stack-tutorial). 
+	* Reading more about Server API Endpoints at:
+		* [Hubspot](https://blog.hubspot.com/website/api-endpoint)
+		* [SmartBear](https://smartbear.com/learn/performance-monitoring/api-endpoints/)
+		* [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/API-endpoint)
+	* Difference between HTTP [POST versus PUT](https://restfulapi.net/rest-put-vs-post/)
+		* POST mostly equivalent to CREATE database operations. If invoked multiple times, will create multiple entries.
+		* PUT mostly equivalent to UPDATE database operations. PUT method is idempotent which means if invoked multiple times, will only result in a single entry being updated with the same final value. From [this article](https://www.restapitutorial.com/lessons/idempotency.html), "From a RESTful service standpoint, for an operation (or service call) to be idempotent, clients can make that same call repeatedly while producing the same result. In other words, making multiple identical requests has the same effect as making a single request."
 
 
 ## 2021 Log
