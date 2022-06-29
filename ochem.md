@@ -8,7 +8,7 @@ permalink: /organic-chemistry/
 * EPM = [Electrostatic Potential Map](http://people.reed.edu/~alan/ACS97/elpot.html)
 
 ### Other textbooks
-* List of textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
+* List of additional textbook suggestions on [this page](https://www.chemistryscore.com/best-organic-chemistry-book/) and in this [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry).
 * Per above [Quora answer](https://www.quora.com/What-are-the-most-respected-and-informative-textbooks-for-studying-undergraduate-level-organic-chemistry), next ones to order are: [Organic Chemistry as a Second Language](https://www.amazon.com/Organic-Chemistry-Second-Language-Semester/dp/111949348X/ref=pd_rhf_ee_s_pd_sbs_rvi_sccl_2_1/139-3161052-0611559?pd_rd_w=NGxMq&content-id=amzn1.sym.80dc3982-f1a9-4e70-830e-7a37a0660538&pf_rd_p=80dc3982-f1a9-4e70-830e-7a37a0660538&pf_rd_r=75YQ61CH1VD773EPQ0AE&pd_rd_wg=Kaa5R&pd_rd_r=91e54f0a-c94b-48f7-89e3-94ec9369e3ce&pd_rd_i=111949348X&psc=1) by Klein and [Arrow-Pushing in Organic Chemistry](https://www.amazon.com/Arrow-Pushing-Organic-Chemistry-Understanding-Mechanisms/dp/111899132X/ref=sr_1_1?keywords=arrow+pushing+in+organic+chemistry&qid=1656193140&sprefix=arrow+pushing+in+%2Caps%2C127&sr=8-1) by Daniel E. Levy.
 
 ### Folding of peptide &#945;-helix secondary structure
@@ -458,3 +458,4 @@ permalink: /organic-chemistry/
 * 6/19 Started Chapter 7 on Alkenes / Olefins
 * 6/20 Problems 7-1 and 7-2 to predict structures and understanding the 2n+2 formula for fully saturated hydrocarbons vs elements of unsaturation. Remember, 1 element of unsaturation (EoU)= 2 hydrogens. Therefore, 1 ring structure = 1 EoU, 1 double bond = 1 EoU, 1 triple bond = 2 EoU's
 * 6/22 Elements of unsaturation with relation to halogens (F,Cl,Br,I) and Oxygen.
+* 6/29 Started section on naming of alkenes, esp updated new IUPAC conventions.
