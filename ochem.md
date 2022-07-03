@@ -460,4 +460,5 @@ permalink: /organic-chemistry/
 * 6/22 Elements of unsaturation with relation to halogens (F,Cl,Br,I) and Oxygen.
 * 6/29 Started section on naming of alkenes, esp updated new IUPAC conventions.
 * 6/30 [*Organic Chemistry: A Short Course, 13th Edition*](https://www.cengage.com/c/organic-chemistry-a-short-course-13e-hart/9780357670897PF/) (2012) by Hart, Hadad, et al. arrived! 
-* 7/01 [*Organic Chemistry, 2nd Edition*]() by David Klein (2015) from Johns Hopkins arrived. Skimmed organization and will start with Chapter 7: Substitution Reactions. Might already be my favorite textbook! Already ordered the solutions manual.
+* 7/01 [*Organic Chemistry, 2nd Edition*]() by David Klein (2015) from Johns Hopkins arrived. 
+* 7/02 Skimmed organization of Klein and will start with **Chapter 7: Substitution Reactions**. Might already be my favorite textbook! Already ordered the solutions manual.
