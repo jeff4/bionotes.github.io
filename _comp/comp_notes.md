@@ -19,7 +19,7 @@ permalink: /comp_notes/
 * 6/27 Everything in MERN is working well. Tested multiple times and was able to add and delete records, consistently start and stop server, start and stop React front end etc.
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
 * 7/04 Reinstalled Vim on Visual Studio Code. Good to get back into it!
-* 7/05 More vim practice.
+* 7/05 - 7/06 More vim practice.
 
 
 ## 2021 Log
