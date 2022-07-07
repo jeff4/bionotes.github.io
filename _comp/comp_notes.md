@@ -20,6 +20,7 @@ permalink: /comp_notes/
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
 * 7/04 Reinstalled Vim on Visual Studio Code. Good to get back into it!
 * 7/05 - 7/06 More vim practice.
+* 7/07 Checked how search works. /[string] then *enter* then *n* to find next instance of [string].
 
 
 ## 2021 Log
