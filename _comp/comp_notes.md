@@ -20,7 +20,9 @@ permalink: /comp_notes/
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
 * 7/04 Reinstalled Vim on Visual Studio Code. Good to get back into it!
 * 7/05 - 7/06 More vim practice.
-* 7/07 Experimented more with very basic searches in vim. /[string] then *enter* then *n* to find next instance of [string]. Also realized that to find previous instance of string, type capital *N*.
+* 7/07 Experimented more with very basic searches in vim. 
+	* /[string] then *enter* then *n* to find next instance of [string]. Also realized that to find previous instance of string, type capital *N*.
+	* Also, **(** and **)** by themselves move you to the beginning and end of the current sentence, respectively. This means that *d(* means delete from cursor to beginning of sentence. Conversely, *d)* means delete from cursor to the end of the current sentence.
 
 
 ## 2021 Log
