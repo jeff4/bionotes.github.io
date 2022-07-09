@@ -23,7 +23,8 @@ permalink: /comp_notes/
 * 7/07 Experimented more with very basic searches in vim. 
 	* /[string] then *enter* then *n* to find next instance of [string]. Also realized that to find previous instance of string, type capital *N*.
 	* Also, **(** and **)** by themselves move you to the beginning and end of the current sentence, respectively. This means that *d(* means delete from cursor to beginning of sentence. Conversely, *d)* means delete from cursor to the end of the current sentence.
-
+	* More reading of Kiessling Node book 1.
+* 7/08 More experimentation with vim. 10G goes to 10th line. gg beginning of document. G end of document. J to join current line with next line.
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
