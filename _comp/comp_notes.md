@@ -25,6 +25,7 @@ permalink: /comp_notes/
 	* Also, **(** and **)** by themselves move you to the beginning and end of the current sentence, respectively. This means that *d(* means delete from cursor to beginning of sentence. Conversely, *d)* means delete from cursor to the end of the current sentence.
 	* More reading of Kiessling Node book 1.
 * 7/08 More experimentation with vim. 10G goes to 10th line. gg beginning of document. G end of document. J to join current line with next line.
+* 7/09 More building of Kiessling Node app. Built first server.js app. Began studying and thinking about http class in Node.
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
