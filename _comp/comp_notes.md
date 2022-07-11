@@ -26,7 +26,8 @@ permalink: /comp_notes/
 	* More reading of Kiessling Node book 1.
 * 7/08 More experimentation with vim. 10G goes to 10th line. gg beginning of document. G end of document. J to join current line with next line.
 * 7/09 More building of Kiessling Node app. Built first server.js app. Began studying and thinking about http class in Node.
-* 7/10 Began experimenting with Visual Mode in vim for the first time. V = switch to line-wise visual mode. Combine this with regular motion keys like j,k and then yy to yank multiple lines at once (visually) and the p will allow to copy/paste.
+* 7/10 Began experimenting with Visual Mode in vim for the first time. V = switch to line-wise visual mode. Combine this with regular motion keys like j,k and then y (just once) to yank multiple lines at once (visually) and the p will allow to copy/paste.
+* 7/11 The two complementary components of [FIDO2](https://en.wikipedia.org/wiki/FIDO2_Project) are: (1) The  [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) standard and (2) The [CTAP2 protocol](https://en.wikipedia.org/wiki/Client_to_Authenticator_Protocol) short for Client To Authenticator Protocol 2.
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
