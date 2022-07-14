@@ -7,11 +7,12 @@ permalink: /alberts-5e/
 # Molecular Biology of the Cell
 * MBOC, Fifth Edition (2008)
 * Authors: Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
+* Excellent [30th anniversary retrospective](https://brucealberts.ucsf.edu/wp-content/uploads/2016/05/30-years-of-MBOC-Nature.pdf) of how MBOC originally came together in the late 1970s, how its first edition was published in 1983, and the impact its various editions have had on education and research over the decades. By Norberto Serpente in Nature, 2013. Located on [Bruce Albert's website](https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/).
 
 ## Chapter 1: Cells and Genomes
 * p. 20 - defintion of **homologs**: All related genes that result from duplication 
 	* Duplicate genes that are conserved in two branches after speciation are called **orthologs**
-	* Duplicate genes within a single species are called **paralogs**
+	* Duplicate genes within a single genome are **paralogs**
 	* Orthologs and paralogs are subsets of the larger containing set of homologs
 * **Dehydration Synthesis** (aka Condensation Synthesis) vs. **Hydrolysis**. See Alberts 5e Fig. 2-64 and 2-65 on p. 85, Alberts 5e Fig. 2-19 on p. 57, and JH handwritten notes (8/22/2020)
 
