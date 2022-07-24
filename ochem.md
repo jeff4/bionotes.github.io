@@ -468,3 +468,4 @@ permalink: /organic-chemistry/
 * 7/18 Before diving deeper into Sn2 mechanism, decided to review Molecular Orbital theory from Section 1.8. LCAO - Linear Combination of Atomic Orbital Theory.
 * 7/20-22 More on quantum chemical foundations of molecular orbital theory.
 * 7/23 Read up on evolution of early cetaceans from P.D. Gingrich (2015).
+* 7/24 Read more about the largest group of ancient/extinct whales, a paraphyletic group called the [Archaeoceti](https://en.wikipedia.org/wiki/Archaeoceti). The earliest group of archaeocetids are the [pakicetids](https://en.wikipedia.org/wiki/Pakicetidae) so named because the fossils were found in Pakistan. Modern whales are classified under the [Neoceti](https://en.wiktionary.org/wiki/Neoceti). The Neoceti include the *Parvorder [Mysticeti*](https://en.wikipedia.org/wiki/Baleen_whale), aka the baleen whales and *Parvorder [Odontoceti*](https://en.wikipedia.org/wiki/Toothed_whale) aka the toothed whales.
