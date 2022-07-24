@@ -466,4 +466,5 @@ permalink: /organic-chemistry/
 * 7/10 Officially began notes on Klein, 2nd Edition. Completed review of Chapter 7.3 on 4 types of arrow pushing; all used in substitution reactions. Reread Klein's treatment of rearrangements–hydride shifts, methyl shifts, general alkyl shifts in Chapter 6.
 * 7/15 - 7/17 More on Chapter 7
 * 7/18 Before diving deeper into Sn2 mechanism, decided to review Molecular Orbital theory from Section 1.8. LCAO - Linear Combination of Atomic Orbital Theory.
-* 7/20-23 More on quantum chemical foundations of molecular orbital theory.
+* 7/20-22 More on quantum chemical foundations of molecular orbital theory.
+* 7/23 Read up on evolution of early cetaceans from P.D. Gingrich (2015).
