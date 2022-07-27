@@ -40,7 +40,7 @@ permalink: /comp_notes/
 * 7/14 More on WebAuthn and how to communicate it
 * 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
 * 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
-
+* 7/27 More thoughts on authentication.
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
