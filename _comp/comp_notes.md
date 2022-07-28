@@ -40,7 +40,22 @@ permalink: /comp_notes/
 * 7/14 More on WebAuthn and how to communicate it
 * 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
 * 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
-* 7/27 More thoughts on authentication.
+* 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
+* 7/28 Recorded second macro to add a new section to the top of a file. Invoked by @o (lowercase letter "o"):
+	1. start macro recording - q
+	2. choose register "o" you want to store this macro in: lowercase "o"
+	3. go to top of document - gg
+	4. Add 6 lines *above* - "6" then "capital O"
+	5. change back to CMD mode - <esc>
+	6. move up 2 lines - kk
+	7. change to EDIT mode - i
+	8. enter 20 dashes "--------------------"
+	9. change back to CMD mode - <esc>
+	10. go back to top of document - gg
+	11. change to EDIT mode - i
+	12. change back to CMD mode - <esc>
+	13. quit out of macro recorder - q
+	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
