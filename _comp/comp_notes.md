@@ -49,7 +49,7 @@ permalink: /comp_notes/
 	5. change back to CMD mode - <esc>
 	6. move up 2 lines - kk
 	7. change to EDIT mode - i
-	8. enter 20 dashes "--------------------"
+	8. enter 20 dashes "---------------------"
 	9. change back to CMD mode - <esc>
 	10. go back to top of document - gg
 	11. change to EDIT mode - i
