@@ -298,6 +298,8 @@ allotments, and specially designated lands."
 
 ### In The Name of God p.62
 
+* "What transpired up the coast in the founding and growth of the New England colony was different, at least at first. Just before the 1620 landing of the Mayflower, smallpox had spread from English trading ships off the coast to the Pequot fishing and farming communities on land, greatly reducing the population of the area the Plymouth Colony would occupy. King James attributed the epidemic to God's 'great goodness and bounty toward us'. Consequently, those who survived in the Indigenous communities had little means to immediately resist the settlers' expropriation of their lands and resources. Sixteen years later, however, the Indigenous villages had recovered and were considered a barrier to the settlers moving into Pequot territory in Connecticut. A single violent incident triggered a devastating Puritan war against the Pequots in what the colony's annals and subsequent history texts call the Pequot War.
+* "The Puritan settlers, as if by instinct, jumped immediately into a hideous war of annihilation, entering Indigenous villages and killing women and children or taking them hostage. The Pequots responded by attacking English settlements, including Fort Saybrook in Connecticut. Connecticut authorities commissioned mercenary John Mason to lead a force of soldiers from that colony and Massachusetts to one of the two Pequot strongholds on the Mystic River. Pequot fighters occupied one of the forts, while the other one contained only women, children, and old men. The latter was the one John Mason targeted. Slaughter ensued. After killing most of the Pequot defenders, the soldiers set fire to the structures and burned the remaining inhabitants alive.
 * "
 
 
