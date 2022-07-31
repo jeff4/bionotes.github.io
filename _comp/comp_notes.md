@@ -56,7 +56,6 @@ permalink: /comp_notes/
 	12. change back to CMD mode - <esc>
 	13. quit out of macro recorder - q
 	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
-
 * 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
 
 ## 2021 Log
