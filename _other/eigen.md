@@ -3,6 +3,28 @@ title: Linear Algebra
 permalink: /eigen/
 ---
 
+## Index of Math Notebooks
+* **Notebook 1** 2017: January - May
+* **Notebook 2** 2017: May - June
+* **Notebook 3** 2017: June - August
+* **Notebook 4** 2017: August - October
+* **Notebook 5** 2017: October - November
+* **Notebook 6** 2017: November - December
+* **Notebook 7** December 2017 - January 2018
+* **Notebook 8** 2018: January - April
+* **Notebook 9** 2018: February
+* **Notebook 10** 2018: April - August
+* **Notebook 11** 2018: August - October
+* **Notebook 12** 2018: September - October
+* **Notebook 13** October 2018 - February 2019
+* **Notebook 14** 2019: November - December
+* **Notebook 15** 2019: February - July
+* **Notebook 16** 2019: July - October
+* **Notebook 17** November 2019 - March 2020
+* **Notebook 18** 2020: March - September
+* **Notebook 19** September 2020 - August 2021
+* **Notebook 20** August 2021
+
 ## Linear Algebra Done Right
 * Review of T-invariant subspaces, eigenvalues, eigenvectors, and eigenspaces
 * Review of upper-triagonal matrices, diagonals, diagonal matrices
