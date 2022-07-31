@@ -88,7 +88,7 @@ sitemap: false
 * "Indigenous peoples, now in a colonial relationship with the United States, inhabited and thrived for millennia before they were displaced to fragmented reservations and economically decimated.
 * "This book attempts to tell the story of the United States as a colonialist settler-state, one that, like colonialist European states, crushed and subjugated the original civilizations in the territories it now rules. This is the history of the United States." p. 14
 
-## Chapter 2: Follow the Corn p. 15
+## Chapter 1: Follow the Corn p. 15
 
 ### Pre-Agricultural Milestones
 * [Pre-Homo sapiens](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa#Early_dispersals)
@@ -309,9 +309,17 @@ allotments, and specially designated lands."
 
 ### "Redskins" p.64
 
-* "
+* "Indigenous people continued to resist by burning settlements and killing and capturing settlers. As an incentive to recruit fighters, colonial authorities introduced a program of scalp hunting that became a permanent and long-lasting element of settler warfare against Indigenous nations. During the Pequot War, Connecticut and Massachusetts colonial officials had offered bounties initially for the heads of murdered Indigenous people and later for only their scalps, which were more portable in large numbers. But scalp hunting became routine only in the mid-1670s, following an incident on the northern frontier of the Massachusetts colony. 
+* Scalp-hunting "began in earnest in 1697 when settler Hannah Dustin, having murdered ten of her Abenaki captors in a nighttime escape, presented their ten scalps to the Massachusetts General Assembly and was rewarded with bounties for two men, two women, and six children."
+* "**Dustin soon became a folk hero among New England settlers. Scalp hunting became a lucrative commercial practice.** The settler authorities had hit upon a way to encourage settlers to take off on their own or with a few others to gather scalps, at random, for the reward money. 'In the process', John Grenier points out, 'they established the large-scale privatization of war within American frontier communities'. 
+* "Although the colonial government in time raised the bounty for adult male scalps, lowered that for adult females, and eliminated that for Indigenous children under ten, the age and gender of victims were not easily distinguished by their scalps nor checked carefully. **What is more, the scalp hunter could take the children captive and sell them into slavery. These practices erased any remaining distinction between Indigenous combatants and noncombatants and introduced a market for Indigenous slaves.** 
+* "Bounties for Indigenous scalps were honored even in absence of war. Scalps and Indigenous children became means of exchange, currency, and this development may even have created a black market. *Scalp hunting was not only a profitable privatized enterprise but also a means to eradicate or subjugate the Indigenous population of the Anglo-American Atlantic seaboard.* The settlers gave a name to the mutilated and bloody corpses they left in the wake of scalp­ hunts: redskins.
+* "This way of war, forged in the first century of colonization--destroying Indigenous villages and fields, killing civilians, ranging, and scalp hunting--became the basis for the wars against the Indigenous across the continent into the late nineteenth century."
 
+### Colonial Expansion
 
+* "Having cleared the Indigenous populations from much of the coastal region from New England to the Carolinas, another wave of settlers employed the same kind of warfare in establishing the colony of Georgia beginning in 1732. Technically, it was part of Spanish-occupied Florida called *Guale*. 
+* "From the time the first settlers squatted on Indigenous land in Georgia, rangers were in the forefront of ethnic cleansing, clearing the region for British settlement. Brigadier General James Oglethorpe, commander in chief of the Georgia colony, tried but failed to turn his own small regular army into rangers, so he commissioned Hugh Mackay Jr. to organize the regulars into a Highland ranger force. A settler agent for the Georgia colony, Mackay was a former British army officer and a Scots Highlander. **The Highlanders were reputed to be tough, fearless fighters--in other words, brutal killers.** It was unusual at the time to put a local militia officer in command of army regulars.
 
 
 
