@@ -262,6 +262,7 @@ trade and exports produced by enslaved Africans and on property sales. When desc
 ## Chapter 4: Bloody Footprints p.56
 
 > *For the first 200 years of our military heritage, Americans depended on arts of war that contemporary professional soldiers supposedly abhorred: razing and destroying enemy villages and fields; killing enemy women and children; raiding settlements for captives; intimidating and brutalizing enemy noncombatants; and assassinating enemy leaders...In the frontier wars between 1607 and 1814, Americans forged two elements--unlimited war and irregular war--into their first way of war.* 
+> 
 > –John Grenier, **The First Way of War**
 
 * "Within days of the assassination of Osama bin Laden, on May 2, 2011, it was revealed that the Navy SEAL team executing the mission had used the code name *Geronimo* for its target. A May 4 report in the *New York Daily News* commented, 'Along with the unseen pictures of Osama Bin Laden's corpse and questions about what Pakistan knew, intelligence officials' reasons for dubbing the Al Qaeda boss *Geronimo* remain one of the biggest mysteries of the Black Ops mission'. 
