@@ -8,8 +8,8 @@ permalink: /eigen/
 * **Notebook 2** / *2017: May - June* / Linear Algebra and Goodfellow *Deep Learning* p. 34 - 79
 * **Notebook 3** / *2017: June - August* /  Goodfellow *Deep Learning* p. 82 - p.201 / Khan Academy on gradients &#8711;f
 * **Notebook 4** / *2017: August - October* / Lang *Calculus of Several Variables* p. 385-415; p. 49 - 96
-* **Notebook 5** / *2017: October - November* / Lang *Calculus of Several Variables* p. 99 - 139; p. 434 Jacobean Matrix, container for multiple gradient f's (&#8711;f)  
-* **Notebook 6** / 2017: November - December / 
+* **Notebook 5** / *2017: October - November* / Lang *Calculus of Several Variables* p. 99 - 139; p. 434 Jacobean Matrix, container for multiple gradient f's (&#8711;f) / PBHL Baxandall & Liebeck *Vector Calculus* starting October 24, 2017.
+* **Notebook 6** / *2017: November - December* / PBHL *Vector Calculus* p. 35-48 / Robert Hogg et al. *Introduction to Mathematical Statistics, Seventh Edition (2014)* / PBHL *Vector Calculus* p. 48-64 / Rosebrock *Deep Learning for Computer Vision with Python* Chapter 10 p. 127 
 * **Notebook 7** / December 2017 - January 2018 / 
 * **Notebook 8** / 2018: January - April / 
 * **Notebook 9** / 2018: February / 
