@@ -4,8 +4,8 @@ permalink: /eigen/
 ---
 
 ## Index of Math Notebooks
-* **Notebook 1** / 2017: January - May / Linear Algebra / Solving Simultaneous Equations
-* **Notebook 2** / 2017: May - June / 
+* **Notebook 1** / *2017: January - May* / Linear Algebra / Solving Simultaneous Equations
+* **Notebook 2** / *2017: May - June* / Linear Algebra and Goodfellow *Deep Learning* p. 34 - 79
 * **Notebook 3** / 2017: June - August / 
 * **Notebook 4** / 2017: August - October / 
 * **Notebook 5** / 2017: October - November / 
