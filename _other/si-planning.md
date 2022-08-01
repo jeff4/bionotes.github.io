@@ -4,7 +4,7 @@ permalink: /si/
 sitemap: false
 ---
 
-Last updated: 8/01/2022 
+*Last updated: 8/01/2022*
 
 per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can expect from each of my 30 minute sessions
 
