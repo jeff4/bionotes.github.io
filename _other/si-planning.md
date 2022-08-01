@@ -4,6 +4,17 @@ permalink: /si/
 sitemap: false
 ---
 
+* Final conversations completed
+	* Juliana. What would I do with Mindscale's current project if I had unlimited resources
+	* Reed. What would be my top 3 priorities during my 3 months
+		* understand product
+		* understand devRel / channels / market
+		* make sure there are no immediate plans to launch and if there are execute *immediately*
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+
 *Last updated: 8/01/2022*
 
 per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can expect from each of my 30 minute sessions
