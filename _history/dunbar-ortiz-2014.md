@@ -88,6 +88,8 @@ sitemap: false
 * "Indigenous peoples, now in a colonial relationship with the United States, inhabited and thrived for millennia before they were displaced to fragmented reservations and economically decimated.
 * "This book attempts to tell the story of the United States as a colonialist settler-state, one that, like colonialist European states, crushed and subjugated the original civilizations in the territories it now rules. This is the history of the United States." p. 14
 
+-------
+
 ## Chapter 1: Follow the Corn p. 15
 
 ### Pre-Agricultural Milestones
@@ -147,8 +149,10 @@ sitemap: false
 * The powerful Aztec state included "...elaborate markets in each city and a far-flung trade network that used routes established by the Toltecs."
 * "Aztec merchants acquired turquoise from Pueblos who mined it in what is now the US Southwest to sell in central Mexico where it had become the most valued of all material possessions and was used as a means of exchange or a form of money. Sixty-five thousand turquoise artifacts in Chaco Canyon, New Mexico, are evidence of the importance of turquoise as a major precolonial commodity. Other items were also valuable marketable commodities in the area, salt being close to turquoise in value. Ceramic trade goods involved interconnected markets from Mexico City to Mesa Verde, Colorado. Shells from the Gulf of California, tropical bird feathers from the Gulf Coast area of Mexico, obsidian from Durango, Mexico, and flint from Texas were all found in the ruins of Casa Grande (Arizona), the commercial center of the northern frontier. Turquoise functioning as money was traded to acquire macaw and parrot feathers from tropical areas for religious rituals, seashells from coastal peoples, and hides and meat from the northern plains. The stone has been found in precolonial sites in Texas, Kansas, and Nebraska, where the Wichitas served as intermediaries, carrying turquoise and other goods farther east and north." p. 20
 
+-------
 
 ## Chapter 2: Culture of Conquest p. 32
+
 * "...the culture of conquest didn't start with Europeans crossing the Atlantic. European institutions and the worldview of conquest and colonialism had formed several centuries before that. From the eleventh through the thirteenth centuries, Europeans conducted the Crusades to conquer North Africa and the Middle East, leading to unprecedented wealth in the hands of a few. This profit-based religion was the deadly element that European merchants and settlers brought to the Americas."
 * "In addition to seeking personal wealth, colonizers expressed a Christian zeal that justified colonialism. Along with that came the militaristic tradition that had also developed in western Europe during the Crusades (literally, 'carrying of the cross'). Although the popes, beginning with Urban II, called for most of the ventures, the crusading armies were mercenary outfits that promised the soldiers the right to sack and loot Muslim towns and cities, feats that would gain them wealth and prestige back home.
 * "Toward the end of the thirteenth century, the papacy began directing such mercenaries to crush domestic "enemies" in their midst, as well-pagans and commoners in general, especially women (as ostensible witches) and heretics. In this way, knights and noblemen could seize land and force the commoners living on it into servitude. 
@@ -208,6 +212,8 @@ sitemap: false
 * "The consequences of this amassing of fortunes were first felt in the catastrophe experienced by small farmers in Europe and England. The peasants became impoverished, dependent workers crowded into city slums. For the first time in human history, the majority of Europeans depended for their livelihood on a small wealthy minority, a phenomenon that capitalist-based colonialism would spread worldwide. The symbol of this new development--indeed its currency--was gold. Gold fever drove colonizing ventures, organized at first in pursuit of the metal in its raw form. Later the pursuit of gold became more sophisticated, with planters and merchants establishing whatever conditions were necessary to hoard as much gold as possible. Thus was born an ideology: the belief in the inherent value of gold despite its relative uselessness in reality. 
 * "Investors, monarchies, and parliamentarians devised methods to control the processes of wealth accumulation and the power that came with it--but the ideology behind gold fever mobilized settlers to cross the Atlantic to an unknown fate. Subjugating entire societies and civilizations, enslaving whole countries, and slaughtering people village by village did not seem too high a price to pay, nor did it appear inhumane. The systems of colonization were modern and rational, but its ideological basis was madness." p. 44
 
+-------
+
 ## Chapter Three: Cult of the Covenant p. 45
 
 ### Myth of the Pristine Wilderness
@@ -258,6 +264,8 @@ sitemap: false
 * "The land won through North American bloodshed was not necessarily conceived in terms of particular parcels for a farm that would be passed down through generations. Most of the settlers who fought for it kept moving on nearly every generation. In the South many lost their holdings to land companies that then sold it to planters seeking to increase the size of their slave-worked plantations. Without the unpaid forced labor of enslaved Africans, a farmer growing cash crops could not compete on the market. Once in the hands of settlers, the land itself was no longer sacred, as it had been for the Indigenous. Rather, it was private property, a commodity to be acquired and sold--every man a possible king, or at least wealthy. Later, when Anglo-Americans had occupied the continent and urbanized much of it, this quest for land and the sanctity of private property were reduced to a lot with a house on it, and 'the land' came to mean the country, the flag, the military, as in *the land of the free* of the national anthem, or Woody Guthrie's 'This Land Is Your Land'. Those who died fighting in foreign wars were said to have sacrificed their lives to protect 'this land' that the old settlers had spilled blood to acquire. **The blood spilled was largely Indigenous**.
 * "These then were the settlers upon which the national myths are based, the ultimately dispensable cannon fodder for the taking of the land and the continent, the foot soldiers of empire, the "yeoman farmers" romanticized by Thomas Jefferson. They were not of the ruling class, although a few slipped through and later were drawn in by the ruling class as elected officials and military officers, thereby maintaining the facade of a classless society and a democratic empire. The founders were English patricians, slave owners, large land barons, or otherwise successful businessmen dependent on the slave
 trade and exports produced by enslaved Africans and on property sales. When descendants of the settler class, overwhelmingly Presbyterian or otherwise Calvinist Protestant, were accepted into the ruling class, they usually became Episcopalians, members of an elite church linked to the state Church of England. As we look at the bloody deeds of the settlers in acquiring and maintaining land, the social class context is an essential element.
+
+-------
 
 ## Chapter 4: Bloody Footprints p.56
 
