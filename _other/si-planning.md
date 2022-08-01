@@ -8,18 +8,18 @@ sitemap: false
 
 per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can expect from each of my 30 minute sessions
 
-* CTO and Co-founder Julianna will want to learn more about my background, my intreests, what have I done. JH interjection: probably *why am i interested in Stytch*??
+* CTO and Co-founder Julianna will want to learn more about my background, my interests, what have I done. JH interjection: probably *why am i interested in Stytch*??
 	* perhaps introduce the idea of Start with Why marketing, and how this evolves over time??
 * CEO and co-founder Reed: will ask me about my previous PMM experience and future GTM plans. Prep a lot for this.
 * Product mgr, former backened security/identity engineer at Slack and Fast Lydia: will ask about cross-team collaboration
 * Growth lead, former Partnerships/BD Spyri will ask about cross team collaboration. I may need to ask her about both current growth challenges/opportunities and what she's seen in the past in terms of Partnership challenges/opportunities.
 
 
-First, what is the value to the customer? To the various stakeholders? end users, shop owners, and developers?
+## Initial thoughts
 
-Second, how is Stytch's value prop's *differentiated* from all the alternatives that are available to their customer? We have to be objective and honest with ourselves about what is special about us. Empathize with the customer and understand them.
-
-Next, how do we encapsulate that positioning? And then how do we test those messages??
+* First, what is the value to the customer? To the various stakeholders? end users, shop owners, and developers?
+* Second, how is Stytch's value prop's *differentiated* from all the alternatives that are available to their customer? We have to be objective and honest with ourselves about what is special about us. Empathize with the customer and understand them.
+* Next, how do we encapsulate that positioning? And then how do we test those messages??
 
 
 ## Questions
