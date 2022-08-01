@@ -45,6 +45,7 @@ per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can e
 
 ## Interviews with Reed McGinley-Stempel
 * [November, 2021 interview](https://www.youtube.com/watch?v=Ay3NV_UjAIg) with Isaiah Bollinger and Tim Peterson. Episode 60 of The Hard Truth
+	* Passwordless is a new approach. It's partly just timing--stytch launched at the right time when WebAuthn is available.
 
 ## Interviews with Julianna Lamb
 * Opening sponsorship [video](https://www.youtube.com/watch?v=Y67QW9HKrWA) for SolidJS / SolidHack
@@ -82,8 +83,28 @@ per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can e
 		* API integration, need to do more heavy lifting. Deciding which auth methods you want to surface.
 	* **16:43** Future of password managers
 		* A: It's going to take quite a while before we get to the passwordless nirvana. so for now and the foreseeable future, password mgrs will be useful
-		* Also
+		* There may be a few accounts that need passwords like email accounts for a long time.
+		* Vision is for Stytch to basically be your "passport" to the internet! Can log into a bunch of different websites. Maybe new tech in 5-10 years to get rid of passwords but ways to go.
 	* **19:23** Long term goal for user experience at Stytch
+		* North Star --> eventually have an identity store that can you can carry around everywhere. Back of our mind as future avenue
+		* Building developer tools to make it really easy to customize 
+		* Next 1-2 years of roadmap
+			* Many buildling blocks available now. But we ask devs to put those blocks together
+			* We want to help devs get up and running even faster without even thinking of what to integrate. What to abstract away with more.
+			* Continue to deepen what we have
+	* **20:13** How Stytch views its competitors
+		* Auth0, clerk.dev, etc.
+		* Auth0 is very password-based product architecture. Stytch has more flexibility because we are passwordless by nature.
+		* Analogy: Stripe for authentication. Others offer good products if you need to get something up and running
+		* Our differentiation is in giving developers customization. 
+	* **22:38** The beginning of Stytch
+		* monthly coffee chats. Julianna was using Auth0 at Very Good Security. Reed was still at Plaid and using AWS Cognito. They both said there had to be an easier way to do this. "Why isn't there that Stripe for authentication?"
+		* Raised seed round in June 2020; happened very quickly. alpha product launched in Jan 2021.
+		* Very excited about the traction we have right now. 
+	* **25:35** Stytch pricing model and challenges
+		* complaints of Auth0 and pricing gets really expensive as things scale
+		* Price around MAUs. 10 cents per MAU. Something that's clear to customers and easy for them to predict
+		* Tension between B2B and B2C with number and value of MAUs. May be leaving some money on the table with the B2B customers but b/c funcionality is so similar makes sense.
 
 ## Simon Sinek
 * Original 2011 TED Talk video [here](https://youtu.be/u4ZoJKF_VuA)
@@ -95,3 +116,14 @@ per my Wednesday 7/27 phone call with Helena the recruiter, this is what I can e
 * Goal is shared values. We buy from people who believe what we believe
 * Sales objection: "It just doesn't feel right" comes from the inner limbic system.
 * If you hire someone just to do a job, they will work for the money. But if you hire people who believe what you believe, they will work with blood, tears, passion.
+
+
+## Examples of bootstrapped companies that moved from 1 product to others
+* Instagram started as a way to quickly share photos broadly using the low-quality cameras available in smartphones. Then bootstrapped into a fashion / lifestyle / personal life visual based social graph / interest graph. And then semi-default celebrity direct channel.
+	* Twilio started as just an API for voice and SMS. Now trying to evolve into "Customer Engagement Platform"
+	* Salesforce.com literally just CRM in the cloud. 
+		* now basically plays in almost every enterprise application facing customers:
+			* Sales, service, marketing,e-commerce, a
+		* Amazon obviously started as books > then media > then as many retail categories as possible. But always been interested in other categories.
+	* Apple started as personal computer company. Smallish market. But iPod unlocked a new generation of consumers. iPhone even bigger. but always hardware differentiated by software. Maybe changing now with Apple Silicon, etc. And rise of services
+* Examples of pivots. Odio--> Twitter. Stewart Butterfield's video game Glitch --> Slack
