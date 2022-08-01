@@ -11,9 +11,7 @@ sitemap: false
 		* understand devRel / channels / market
 		* make sure there are no immediate plans to launch and if there are execute *immediately*
 
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+-------------------
 
 *Last updated: 8/01/2022*
 
