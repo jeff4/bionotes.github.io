@@ -1,6 +1,6 @@
 ---
 title: An Indigenous Peoples' History of the United States
-permalink: /dunbar-ortiz-2014/
+permalink: /dunbar-ortiz-2014-1/
 sitemap: false
 ---
 
