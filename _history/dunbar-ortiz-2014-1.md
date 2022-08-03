@@ -20,7 +20,7 @@ sitemap: false
 * **Chapter 6**: The Last of the Mohicans and Andrew Jackson's White Republic p. 95
 * **Chapter 7**: Sea to Shining Sea p. 117
 * **Chapter 8**: "Indian Country" p. 133
-* **Chapter 9**:  US Triumphalism and Peacetime Colonialism p. 162
+* [**Chapter 9**:  US Triumphalism and Peacetime Colonialism p. 162](/dunbar-ortiz-2014-3)
 * **Chapter 10**:  Ghost Dance Prophecy: A Nation is Coming p. 178
 * **Chapter 11**:  The Doctrine of Discovery p. 197
 * **Conclusion**: The Future of the United States p. 218
