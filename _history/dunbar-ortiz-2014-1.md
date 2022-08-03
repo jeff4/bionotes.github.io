@@ -400,3 +400,5 @@ allotments, and specially designated lands."
 * "The separatist governments of the New York and Pennsylvania colonies offered rangers for the project, and, as an incentive for enlistment, the Pennsylvania assembly *authorized a bounty on Seneca scalps, without regard to sex or age*. This combination of Continental Army regulars, settler-rangers, and commercial scalp hunters ravaged most of Seneca territory.
 * "With the Iroquois Confederacy disunited regarding the war, the Continental Army forces were practically unimpeded in their triumphal and deadly march. 
 * "In another scenario typically resulting from European and Anglo-American colonialism and neocolonialism, civil war erupted within the Iroquois Confederacy itself, with Mohawks destroying Oneida villages. The Oneidas could no longer give their separatist allies intelligence. 'By 1781,' Grenier observes, 'after three seasons of the Indian war, New York's frontier had become a no-man's-land'.
+
+## [Chapter 5: The Birth of a Nation p.78](/dunbar-ortiz-2014-2/)
