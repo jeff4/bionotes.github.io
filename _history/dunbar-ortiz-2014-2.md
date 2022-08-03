@@ -1,4 +1,3 @@
-
 ---
 title: Part 2 - An Indigenous Peoples' History of the United States
 permalink: /dunbar-ortiz-2014-2/
