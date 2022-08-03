@@ -16,7 +16,7 @@ sitemap: false
 * **Chapter 2**: Culture of Conquest p. 32
 * **Chapter 3**: Cult of the Covenant p. 45
 * **Chapter 4**: Bloody Footprints p. 56
-* **Chapter 5**: The Birth of a Nation p. 78
+* [**Chapter 5**: The Birth of a Nation p. 78](/dunbar-ortiz-2014-2)
 * **Chapter 6**: The Last of the Mohicans and Andrew Jackson's White Republic p. 95
 * **Chapter 7**: Sea to Shining Sea p. 117
 * **Chapter 8**: "Indian Country" p. 133
