@@ -11,7 +11,7 @@ permalink: /eigen/
 * **Notebook 5** / *2017: October - November* / Lang *Calculus of Several Variables* p. 99 - 139; p. 434 Jacobean Matrix, container for multiple gradient f's (&#8711;f) / PBHL Baxandall & Liebeck *Vector Calculus* starting October 24, 2017.
 * **Notebook 6** / *2017: November - December* / PBHL *Vector Calculus* p. 35-48 / Robert Hogg et al. *Introduction to Mathematical Statistics, Seventh Edition (2014)* / PBHL *Vector Calculus* p. 48-64 / Rosebrock *Deep Learning for Computer Vision with Python* Chapter 10 p. 127 
 * **Notebook 7** / *December 2017 - January 2018* / PBHL p. 69 Chapter 2, Section 1: **Differential Geometry** / PBHL p. 81 Chapter 2, Section 9: **Particle Dynamics** / PBHL p. 97 Chapter 3, Section 1: Level Curves, Sets, Graphs / PBHL p. 101 Chapter 3, Section 2: Continuity and Limits for **R**<sup>m</sup> &#8594; **R**<sup>1</sup> / Abu-Mostafa, Magdon-Ismail, Lin (AML) *Learning from Data* (2012) p. 1-15 
-* **Notebook 8** / 2018: January - April / 
+* **Notebook 8** / 2018: January - April / PBHL p.123-126 Differentiability and linear approximation in **R**<sup>1</sup> &#8594; **R**<sup>n</sup>  / PBHL p. 126 Differentiability and Tangent Planes
 * **Notebook 9** / 2018: February / 
 * **Notebook 10** / 2018: April - August / 
 * **Notebook 11** / 2018: August - October / 
@@ -38,8 +38,10 @@ permalink: /eigen/
 * #65 [How the Diagonalization Process Works](https://www.youtube.com/watch?v=nNwZA1X-C3c&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=65)
 * #68 [Eigenvalues, Eigenvectors & Diagonalization–full example in complex spaces](https://www.youtube.com/watch?v=FOoi8h47Tw4&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=68)
 
+### 2022 Log
+* 8/03/2022 Researched some new books on abstract algebra, group theory, etc.
 
-### Progress
+### 2021 Log
 * 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues using 3B1B 2x2 matrix quicktechnique. Then finding associated eigenvectors by setting up the characteristic equation det(**A** - &#955;**I**) = **0** and then solving the resulting system of equations.
 * 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503. See this link also for reduced row echelon form [RREF](https://www.usna.edu/Users/math/uhan/sm286a/rref.pdf)
 * 8/20: Review of Gaussian elimination problems
