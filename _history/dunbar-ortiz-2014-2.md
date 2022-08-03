@@ -11,7 +11,7 @@ sitemap: false
 -------
 
 ## Table of Contents
-* **Introduction**: This Land p. 1
+* [**Introduction**: This Land p. 1](/dunbar-ortiz-2014-1)
 * **Chapter 1**: Follow the Corn p. 15
 * **Chapter 2**: Culture of Conquest p. 32
 * **Chapter 3**: Cult of the Covenant p. 45
