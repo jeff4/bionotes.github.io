@@ -3,6 +3,16 @@ title: Comp Notes
 permalink: /comp_notes/
 ---
 
+## Kiessling Book 1 on Node
+* p. 7 - What do we need to implement: what tasks must be fulfilled?
+	1. HTTP Server to serve webpages
+	2. A Router so our server can provide different responses based on different requests. In other words, a component that maps different requests to different responses
+	3. Request Handlers to actually fulfill requests as mapped by the Router
+	4. Request Data Handling that formats  POST requests from the client by the Request Handlers
+	5. View Logic (aka the V in MVC). This takes the URL's obtained by the Request Handlers in response to requests and needs to be presented such that it can be viewed in the user's browser
+	6. Finally UPLOAD HANDLER that knows how to ingest pictures uploaded by users.  
+
+
 ## 2022 Log
 * 6/23/2022 Reinstalled Postgres and updated brew
 * 6/24/2022 Decided transition from version 9 to 14 of Postgres caused too many problems. Spent significant time trying to change default port listening behavior because clients just couldn't connect to main Postgres server. Decided my needs were well met by a simple SQLite3 database instead. Built a quick and simple CRUD app with Node.js, Express, and SQLite as the data store using [this tutorial](https://medium.com/swlh/creating-a-crud-application-using-node-js-and-sqlite3-a57d4a39ab69).
@@ -57,6 +67,8 @@ permalink: /comp_notes/
 	13. quit out of macro recorder - q
 	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
 * 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
+
+---------------------------------------
 
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
