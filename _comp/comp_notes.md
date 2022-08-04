@@ -8,7 +8,7 @@ permalink: /comp_notes/
 	1. HTTP Server to serve webpages
 	2. A Router so our server can provide different responses based on different requests. In other words, a component that maps different requests to different responses
 	3. Request Handlers to actually fulfill requests as mapped by the Router
-	4. Request Data Handling that formats  POST requests from the client by the Request Handlers
+	4. Request Data Handling that formats incoming POST requests received by the Request Handlers from the client browser.
 	5. View Logic (aka the V in MVC). This takes the URL's obtained by the Request Handlers in response to requests and needs to be presented such that it can be viewed in the user's browser
 	6. Finally UPLOAD HANDLER that knows how to ingest pictures uploaded by users.  
 
@@ -67,7 +67,7 @@ permalink: /comp_notes/
 	13. quit out of macro recorder - q
 	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
 * 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
-
+* 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
 ---------------------------------------
 
 ## 2021 Log
