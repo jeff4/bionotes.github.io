@@ -108,4 +108,6 @@ sitemap: false
 
 ### Muskogee Resistance p.90
 
+* "The Muskogee Nation officially had remained neutral in the war between the Anglo-American settlers and the British monarchy. Nonetheless, many individual Muskogees had taken the opportunity to raid and harass squatters within their national territories in Georgia, Tennessee, and South Carolina. 
+* "When the United States was formed, the Muskogee Nation turned to Spanish Florida for an alliance in trying to stop the flow of squatters into their territory. Spain had an interest in the alliance as a buffer to its holdings, which at the time included the lower Mississippi and the city of New Orleans. The squatters believed that the Muskogees and the Spanish officials, as well as the British, were in cahoots to keep them out of western Georgia and present-day Alabama and considered the Muskogee Nation to be the main barrier to their permanent settlement in the region, particularly Georgia. The Muskogees called the squatters *ecunnaunuxulgee* -'people greedily grasping after the lands of the red people'.
 * "
