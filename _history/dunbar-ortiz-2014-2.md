@@ -277,9 +277,15 @@ sitemap: false
 * "**During the following half century, more than four million settlers crossed the Appalachians--one of the largest and most rapid migrations in world history.** Jackson was an actor who made possible the implementation of the imperialist project of the independent United States, but he was also an exponent of the **Euro-American popular will that favored imperialism and the virtually free land it provided them**.
 * "During the period of Jackson's military and executive power, a mythology emerged that defined the contours and substance of the US origin narrative, which has weathered nearly two centuries and remains intact in the early twenty-first century as patriotic cant, a civic religion invoked in Barack Obama's presidential inaugural address in January 2009:
 	> *In reaffirming the greatness of our nation, we understand that greatness is never a given. It must be earned. Our journey has never been one of shortcuts or settling for less.*
+	>
 	> *It has not been the path for the faint-hearted, for those who prefer leisure over work, or seek only the pleasures of riches and fame.*
+	>
 	> *Rather, it has been the risk-takers, the doers, the makers of things--some celebrated, but more often men and women obscure in their labor--who have carried us up the long, rugged path towards prosperity and freedom.*
+	>
 	> *For us, they packed up their few worldly possessions and traveled across oceans in search of a new life. For us, they toiled in sweatshops and settled the West, endured the lash of the whip and plowed the hard earth.*
+	>
 	> *For us, they fought and died in places like Concord and Gettysburg; Normandy and Khe Sanh.
+	>
 	> *Time and again these men and women struggled and sacrificed and worked till their hands were raw so that we might live a better life. They saw America as bigger than the sum of our individual ambitions; greater than all the differences of birth or wealth or faction.*
+	>
 	> *This is the journey we continue today.*
