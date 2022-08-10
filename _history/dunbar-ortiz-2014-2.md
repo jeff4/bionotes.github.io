@@ -284,7 +284,7 @@ sitemap: false
 	>
 	> *For us, they packed up their few worldly possessions and traveled across oceans in search of a new life. For us, they toiled in sweatshops and settled the West, endured the lash of the whip and plowed the hard earth.*
 	>
-	> *For us, they fought and died in places like Concord and Gettysburg; Normandy and Khe Sanh.*
+	> *For us, they fought and died in places like Concord and Gettysburg; Normandy and **Khe Sanh**.* [The fact that Obama cites the [1968 Battle of Khe Sanh](https://en.wikipedia.org/wiki/Battle_of_Khe_Sanh) from the Vietnam War shows how pro-imperialist he is willing to be.]
 	>
 	> *Time and again these men and women struggled and sacrificed and worked till their hands were raw so that we might live a better life. They saw America as bigger than the sum of our individual ambitions; greater than all the differences of birth or wealth or faction.*
 	>
