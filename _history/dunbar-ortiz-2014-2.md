@@ -271,3 +271,7 @@ sitemap: false
 * "In the north, especially in New England, some states had illegally taken land and created guardian systems and small reservations, such as those of the Penobscots and Passamaquoddies in Maine, both of which won lawsuits against the states and attained federal acknowledgment during the militant movements of the 1970s. Many other Native nations have been able to increase their land bases.
 
 ### The Persistence of Denial p.114 
+
+* "Andrew Jackson was born to squatters under British rule on Indigenous land. His life followed the trajectory of continental imperialism as he made his career of taking Indigenous land, from the time of Jefferson's presidency to the elimination of Indigenous nations east of the Mississippi. 
+* "This process was the central fact of US politics and the basis for the US economy. **Two-thirds of the US population of nearly four million at the time of independence lived within fifty miles of the Atlantic Ocean.** 
+* "**During the following half century, more than four million settlers crossed the Appalachians--one of the largest and most rapid migrations in world history.** Jackson was an actor who made possible the implementation of the imperialist project of the independent United States, but he was also an exponent of the **Euro-American popular will that favored imperialism and the virtually free land it provided them**.
