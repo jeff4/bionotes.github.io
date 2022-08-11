@@ -295,11 +295,17 @@ sitemap: false
 
 ## Chapter 7: Sea to Shining Sea p.117
 
+>
 > *These Spaniards* [Mexicans] *are the meanest looking race of people I ever saw, don't appear more civilized than our Indians generally. Dirty, filthy looking creatures.*
+>
 > --Captain Lemuel Ford, 1835
+>
 
+>
 > *That the Indian race of Mexico must recede before us, is quite as certain as that that is the destiny of our own Indians.
+>
 > --Waddy Thompson Jr., 1836
+>
 
 * "Captain Lemuel Ford of the First Dragoons, United States Army, made the above observation in his diary, referring to Comancheros--Mexican traders in northern Mexico who traded and intermarried primarily with Comanches on the plains. 
 * "Waddy Thompson Jr. served as a US diplomat to Mexico from 1842 to 1844. Army officers like Ford and diplomats like Thompson were not exceptional in their racist views. Indian hating and white supremacy were part and parcel of 'democracy' and 'freedom'.
