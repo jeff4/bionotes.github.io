@@ -358,3 +358,14 @@ sitemap: false
 * "In addition to New Mexico, US citizen residents laid groundwork for the annexation of Mexico in Texas and California as well. The Spanish *Cortes* (parliament) had enacted a law in 1813 that authorized provincial authorities to make private property land grants, and this practice of granting land to individuals, including foreigners, was continued under the independent Mexican government until 1828. 
 * "In 1823, Mexico's despotic ruler Agustín de Iturbide enacted a colonization law authorizing the national government to enter into a contract granting land to an *empresario*, or promoter, who was required to recruit a minimum of two hundred families to settle the grant. 
 * "Only applied in the province of Texas, *many such grants were sought by and granted to slave-owning Anglo-American entrepreneurs, **despite slavery being illegal in Mexico**, making possible their dominance in the province and leading to Mexico's loss of Texas in 1836*.
+* "Senator Benton, his son-in-law Captain John C. Frémont, and Kit Carson also helped pave the way for the **invasion of Northern California**. In the early 1840s, Benton and his daughter, Jessie--Frémont's wife--built a booster press to entice settlers to the Oregon Territory as well as to settle in the Mexican province of California. 
+* "At the same time, Frémont and his guide Carson mounted five expeditions to gather information, laying the groundwork for military conquest. **The third expedition illegally entered the Sacramento Valley region from the north in early 1846, just before the United States declared war against Mexico.** Frémont encouraged Anglo settlers in the Central Valley to side with the United States, promising military protection if war broke out. Once a US warship was positioned for war, Frémont was appointed lieutenant colonel of the California Battalion, as if it had all been planned in advance.
+* "Exploration and intelligence gathered by Pike, followed by infiltration and settlement of northern Mexican provinces preceded by US entrepreneurs, finally culminated in military invasion and war. US forces fought their way from Mexico's main commercial port of Veracruz on the Gulf of Mexico to the capital, Mexico City, nearly three hundred miles away. 
+* "The US Army occupied the capital until the Mexican government agreed to cede its northern territories--codified in *the 1848 Treaty of Guadalupe Hidalgo*. 
+	* *Texas* had become a US state at the end of 1845. 
+	* *California* quickly acquired statehood in 1850. 
+	* *Nevada* in 1864
+	* *Colorado* in 1876
+	* *Wyoming* in 1890
+	* *Utah* in 1896
+	* But the more densely populated *Arizona* and *New Mexico* not until 1912.
