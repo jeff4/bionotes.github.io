@@ -290,3 +290,23 @@ sitemap: false
 	> *Time and again these men and women struggled and sacrificed and worked till their hands were raw so that we might live a better life. They saw America as bigger than the sum of our individual ambitions; greater than all the differences of birth or wealth or faction.*
 	>
 	> *This is the journey we continue today.*
+* "Spoken like a true descendant of old settlers. President Obama raised another key element of the national myth in an interview a few days later with Al Arabiya television in Dubai. Affirming that the United States could be an honest broker in the Israeli-Palestinian conflict, he said: 'We sometimes make mistakes. We have not been perfect. **But if you look at the track record, as you say, America was not born as a colonial power**'.
+* "The affirmation of democracy requires the denial of colonialism, but denying it does not make it go away."
+
+## Chapter 7: Sea to Shining Sea p.117
+
+> *These Spaniards* [Mexicans] *are the meanest looking race of people I ever saw, don't appear more civilized than our Indians generally. Dirty, filthy looking creatures.*
+> --Captain Lemuel Ford, 1835
+
+> *That the Indian race of Mexico must recede before us, is quite as certain as that that is the destiny of our own Indians.
+> --Waddy Thompson Jr., 1836
+
+* "Captain Lemuel Ford of the First Dragoons, United States Army, made the above observation in his diary, referring to Comancheros--Mexican traders in northern Mexico who traded and intermarried primarily with Comanches on the plains. 
+* "Waddy Thompson Jr. served as a US diplomat to Mexico from 1842 to 1844. Army officers like Ford and diplomats like Thompson were not exceptional in their racist views. Indian hating and white supremacy were part and parcel of 'democracy' and 'freedom'.
+* "The populist poet of Jacksonian democracy, **Walt Whitman, sang the song of manhood and the Anglo-American super race that had been steeled through empire**. 
+* "As an enthusiastic supporter of the US war against Mexico in 1846, Whitman proposed the stationing of sixty thousand US troops in Mexico in order to establish a regime change there 'whose efficiency and permanency shall be guaranteed by the United States. This will bring out enterprise, open the way for manufacturers and commerce, into which the immense dead capital of the country [Mexico] will find its way.'
+* "**Whitman explicitly grounded this prescription in racism: 'The n-gger, like the Injun, will be eliminated; it is the law of the races, history...A superior grade of rats come and then all the minor rats are cleared out'**. 
+* "The whole world would benefit from US expansion: 'We pant to see our country and its rule far-reaching. What has miserable, inefficient Mexico...to do with the great mission of peopling the New World with a noble race?'
+* "In September 1846, when General Zachary Taylor's troops captured Monterrey, Whitman hailed it as 'another clinching proof of the indomitable energy of the Anglo-Saxon character'. Whitman's sentiments reflected the established US origin myth that had the frontier settlers replacing the Native peoples as historical destiny, adding his own theoretical twist of what would later be called Social Darwinism."
+
+### US Overseas Imperialism p.118
