@@ -369,3 +369,11 @@ sitemap: false
 	* *Wyoming* in 1890
 	* *Utah* in 1896
 	* But the more densely populated *Arizona* and *New Mexico* not until 1912.
+* "The Land Ordinance of 1815 had established a national system for surveying and distributing land, and as one historian has noted, **'Under the May 1785 ordinance, Indian land would be auctioned off to the highest bidder'.** 
+* "The Northwest Ordinance of 1787, albeit guaranteeing Indigenous occupancy and title, **set forth an evolutionary colonization procedure for annexation via military occupation, territorial status, and finally statehood**. 
+* "**Conditions for statehood would be achieved when the settlers outnumbered the Indigenous population, which in the cases of both the Mexican cession area and the Louisiana Purchase territory required decimation or forced removal of Indigenous populations.** 
+* "In this US system, *unique among colonial powers, land became the most important exchange commodity for the accumulation of capital and building of the national treasury.* **To understand the genocidal policy of the US government, the centrality of land sales in building the economic base of the US wealth and power must be seen.** 
+* "Apologists for US expansionism see the 1787 ordinance not as a reflection of colonialism, but rather as a means of 'reconciling the problem of liberty with the problem of empire' in historian Howard Lamar's words.
+* "Following the Mexican War, the United States faced problems more pressing than that of reconciling conflicting ideologies. For one thing, the vast majority in the annexed territory were Indigenous peoples or Mexican farmers and ranchers, landed communities. As for the Navajos, Apaches, and Utes who had resisted for centuries all colonization efforts by the Spanish and then the Mexican authori­ ties, they continued to resist the new colonial regime. To understand how the peoples of these regions responded to the US invasion and conquest, and to understand their particular relationship with the United States today, it is essential to understand their history under Spanish colonization.
+
+### Indigenous Peoples of Occupied Northern Mexico p.125
