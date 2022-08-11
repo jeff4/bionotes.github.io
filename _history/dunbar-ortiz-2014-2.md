@@ -310,3 +310,9 @@ sitemap: false
 * "In September 1846, when General Zachary Taylor's troops captured Monterrey, Whitman hailed it as 'another clinching proof of the indomitable energy of the Anglo-Saxon character'. Whitman's sentiments reflected the established US origin myth that had the frontier settlers replacing the Native peoples as historical destiny, adding his own theoretical twist of what would later be called Social Darwinism."
 
 ### US Overseas Imperialism p.118
+
+* "Traversing the continent 'from sea to shining sea' was hardly a natural westward procession of covered wagons as portrayed in Western movies. 
+* "The US invasion of Mexico was carried out by US marines, by sea, through Veracruz; the early colonization of California initially progressed from the Pacific coast, reached from the Atlantic coast by way of Tierra del Fuego. 
+* **"Between the Mississippi River and the Rockies lay a vast region controlled by Indigenous nations that were neither conquered nor colonized by any European power. Although the United States managed to annex northern Mexico, **large numbers of settlers could not reach the Northern California goldfields or the fertile Willamette Valley region of the Pacific Northwest without army regiments accompanying them**. 
+* "Why then does the popular US historical narrative of a 'natural' westward movement persist? The answer is that those who still hold to the narrative **remain captives of the ideology of 'manifest destiny'**--according to which the United States expanded across the continent to assume its preordained size and shape. **This ideology normalizes the successive invasions and occupations of Indigenous nations and Mexico as not being colonialist or imperialist, rather simply ordained progress.** 
+* "In this view, Mexico was just another Indian nation to be crushed.
