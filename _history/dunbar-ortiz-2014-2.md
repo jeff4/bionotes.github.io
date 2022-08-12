@@ -425,7 +425,9 @@ sitemap: false
 ### The White Man's Burden p.130
 
 * "The two-year invasion and occupation of Mexico was a joyful experience for most US citizens, as evidenced by Walt Whitman's populist poetry. Its popularity was possible because of buoyant nationalism, and the war itself accelerated the spirit of nationalism and confirmed the manifest destiny of the United States. 
-* "Besides new weapons of war and productive capacity brought about by the emerging industrial revolution, there was also an advance in printing and publishing techniques, which **increased the book publishing market from $2.5 million in 1830 to $12.5 million in 1850**. Most of the books published during the five-year period leading up to, during, and after the invasion were war-mongering tracts. Euro-American settlers were nearly all literate, and this was the period of the foundational 'American literature', with writers James Fenimore Cooper, Walt Whitman, Edgar Allan Poe, John Greenleaf Whittier, Henry Wadsworth Longfellow, James Russell Lowell, Ralph Waldo Emerson, Henry David Thoreau, Nathaniel Hawthorne, and Herman Melville all active. Each of them remains read, revered, and studied in the twenty-first century--as national and nationalist writers--not as colonialists.
+* "Besides new weapons of war and productive capacity brought about by the emerging industrial revolution, there was also an advance in printing and publishing techniques, which **increased the book publishing market from $2.5 million in 1830 to $12.5 million in 1850**.
+* *Most of the books published during the five-year period leading up to, during, and after the invasion were war-mongering tracts.*
+* Euro-American settlers were nearly all literate, and this was the period of the foundational 'American literature', with writers James Fenimore Cooper, Walt Whitman, Edgar Allan Poe, John Greenleaf Whittier, Henry Wadsworth Longfellow, James Russell Lowell, Ralph Waldo Emerson, Henry David Thoreau, Nathaniel Hawthorne, and Herman Melville all active. **Each of them remains read, revered, and studied in the twenty-first century--as national and nationalist writers--not as colonialists.**
 
 
 -------
