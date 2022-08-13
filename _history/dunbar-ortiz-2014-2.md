@@ -454,3 +454,13 @@ sitemap: false
 * "**Even small and landless farmers relied on slavery-based rule: the local slave plantation was the market for what small farmers produced, and planters hired landless settlers as overseers and sharecroppers. Most non-slave-owning settlers supported and fought for the Confederacy.**"
 
 ### Lincoln's "Free Soil" for Settlers p.134
+
+* "Abraham Lincoln's campaign for the presidency appealed to the vote of land-poor settlers who demanded that the government 'open' Indigenous lands west of the Mississippi. **They were called *free­soilers* in reference to cheap land free of slavery.** 
+* "New gold rushes and other incentives brought new waves of settlers to squat on Indigenous land. **For this reason, some Indigenous people preferred a Confederate victory,** which might divide and weaken the United States, which had grown ever more powerful. 
+* "Indigenous nations in Indian Territory were more directly affected by the Civil War than anywhere else. As discussed in chapter 6, the southeastern nations--the Cherokees, Muskogees, Seminoles, Choctaws, and Chickasaws (*Five Civilized Tribes*)--were forcibly removed from their homelands during the Jackson administration, but in the Indian Territory they rebuilt their townships, farms, ranches, and institutions, including newspapers, schools, and orphanages. 
+* "Although a tiny elite of each nation was wealthy and owned enslaved Africans and private estates, the majority of the people continued their collective agrarian practices. **All five nations signed treaties with the Confederacy, each for similar reasons.** Within each nation, however, there was a clear division based on class, often misleadingly expressed as a conflict between "mixed-bloods" and "full-bloods." 
+* "That is, the wealthy, assimilated, slave-owning minority that dominated politics favored the Confederacy, and the non-slave-owning poor and traditional majority wanted to stay out of the Anglo-American civil war. Historian David Chang found that Muskogee nationalism and well-founded distrust of federal power played a major role in bringing about that nation's strategic alliance with the Confederacy. 
+* "Chang writes: 
+	> *Was the Creek council's alliance with the South **a racist defense of slavery and its class privileges**, or **was it a nationalist defense of Creek lands and sovereignty**? The answer has to be **both**.*
+* "
+
