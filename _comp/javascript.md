@@ -12,7 +12,7 @@ permalink: /javascript/
 	5. View Logic (aka the V in MVC). This takes the URL's obtained by the Request Handlers in response to requests and needs to be presented such that it can be viewed in the user's browser
 	6. Finally UPLOAD HANDLER that knows how to ingest pictures uploaded by users.  
 
-## Flanagan 7e Definitive 
+## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
 
 ## Kyle Simpson - You Don’t Know Javascript, 2e
 
@@ -89,3 +89,4 @@ permalink: /javascript/
 * 8/02 Reviewed [JS learning options](https://techbootcamps.utexas.edu/blog/best-ways-to-learn-javascript/)
 * 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
 * 8/13 Began combined review of objects, value, scope in Flanagan, Simpson, and on YouTube.
+	* confirmed knowledge of back-tick and interpolated expressions in strings. read a bunch about by-ref / by-val; objects / classes / primitive data types; various types of scope and closure. Best knowledge comes from reading Kyle Simpson, supplemented by Flanagan.
