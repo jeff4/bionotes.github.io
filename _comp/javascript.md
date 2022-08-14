@@ -19,6 +19,14 @@ permalink: /javascript/
 
 
 ## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
+### 13 on Asynchronous JavaScript p. 602
+* Discussion of implementing asynch, event-driven for client side and server side JS.
+* Prior to ES6, introduced in 2015, asynch a little more manually implemented. But ES6 introduced [Promises](https://www.freecodecamp.org/news/javascript-promises-explained/). It seems that Kiessling doesn't discuss Promises at all in his first book; there are only a few references to Promises in book 2.
+### 13.1 Asynch Programming with Callbacks
+#### 13.1.4 Callbacks and Events in Node p. 608
+* Node’s *fs.readFile()* function takes a two-parameter callback as its last argument. It reads the specified file asynchronously and then invokes the callback. If the file was read successfully, it passes the file contents as the second callback argument. If there was an error, it passes the error as the first callback argument. In this example, we express the callback as an arrow function, which is a succinct and natural syntax for this kind of simple operation.  
+* Node also defines a number of event-based APIs. p.609
+
 
 ## Kyle Simpson - You Don’t Know Javascript, 2e
 
