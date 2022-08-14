@@ -16,15 +16,17 @@ permalink: /javascript/
 
 ## Kyle Simpson - You Don’t Know Javascript, 2e
 
-### Get Started
+### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * Chapter 1 - What is Javascript?
-* Chapter 2 - Surveying JS
+* [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
 * Chapter 3 - Digging to the Roots of JS
 * Chapter 4 - The Bigger Picture
 * Appendix A - Explorining Further
 * Appendix B - Practice!
 
-### Scope & Closures
+### [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
+* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/foreword.md)
+* [Preface](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md)
 * Chapter 1 - What's the Scope?
 * Chapter 2 - Illustrating Lexical Scope
 * Chapter 3 - The Scope Chain
@@ -36,10 +38,11 @@ permalink: /javascript/
 * Appendix A: Exploring Further
 * Appendix B: Practice
 
+### [Objects and Classes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
+* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/foreword.md)
+* [Preface](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md)
 
-### Objects and Classes
-
-### Types and Grammar 
+### [Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md) 
 
 
 
