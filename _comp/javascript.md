@@ -19,10 +19,10 @@ permalink: /javascript/
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * <del>Chapter 1 - What is Javascript?</del>
 * [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
-* Chapter 3 - Digging to the Roots of JS
-* Chapter 4 - The Bigger Picture
-* Appendix A - Explorining Further
-* Appendix B - Practice!
+* [Chapter 3 - Digging to the Roots of JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md)
+* [Chapter 4 - The Bigger Picture](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch4.md)
+* [Appendix A - Explorining Further](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md)
+* [Appendix B - Practice!](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apB.md)
 
 ### [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 * [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/foreword.md)
