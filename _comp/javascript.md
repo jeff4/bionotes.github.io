@@ -17,7 +17,7 @@ permalink: /javascript/
 ## Kyle Simpson - You Don’t Know Javascript, 2e
 
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
-* Chapter 1 - What is Javascript?
+* <del>Chapter 1 - What is Javascript?</del>
 * [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
 * Chapter 3 - Digging to the Roots of JS
 * Chapter 4 - The Bigger Picture
@@ -41,9 +41,21 @@ permalink: /javascript/
 ### [Objects and Classes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
 * [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/foreword.md)
 * [Preface](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md)
+* Chapter 1 - Object Foundations
+* Chapter 2 - How Objects Work
+* Chapter 3 - Classy Objects
+* Chapter 4 - This Works
+* Chapter 5 - Delegation
+
+
+
 
 ### [Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md) 
-
+* Foreward
+* Preface
+* [Chapter 1 - Primitives](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch1.md)
+* [Chapter 2 - Value Behaviors](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch2.md)
+* [Chapter 3 - Object Values](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch3.md)
 
 
 
