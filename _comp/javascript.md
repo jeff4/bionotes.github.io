@@ -11,6 +11,12 @@ permalink: /javascript/
 	4. Request Data Handling that formats incoming POST requests received by the Request Handlers from the client browser.
 	5. View Logic (aka the V in MVC). This takes the URL's obtained by the Request Handlers in response to requests and needs to be presented such that it can be viewed in the user's browser
 	6. Finally UPLOAD HANDLER that knows how to ingest pictures uploaded by users.  
+* p. 10: invoking http.createServer() method to create an httpServer object that we named 'http'.
+	* p. 11-12 explanation about how JS lets you implicitly create anonymous functions with local scope (see the *say()* method created on p. 10). In JS, since functions can just be values, you can "pass functions around". To better understand this, examine the 2 implementations on p. 11-12 with an implicit function passing version of creating an http.Server object and another explicit function creation version of the http.Server object.
+* p.12-13 explanation of how JS is single-threaded and therefore requires the asynchronous, event-driven model unlike many other languages. For example, an http server implemented in PHP would spawn a new thread for every incoming client http request.
+	* Also review Felix Geisendoerfer's [post](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb) to better understand how asynch Node and JS works.
+
+
 
 ## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
 
