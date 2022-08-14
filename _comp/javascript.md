@@ -104,3 +104,4 @@ permalink: /javascript/
 	* p. 10 the require() method is specific to CommonJS as a way of importing modules, files, etc.
 	* Module / class / method hierarchy that leads to http.createServer() command: Node.js [**HTTP Module**](https://www.w3schools.com/nodejs/nodejs_http.asp) > createServer() method > http.Server Object. In other words, invoking [http.createServer()](https://nodejs.org/api/http.html#httpcreateserveroptions-requestlistener) createsa a [http.Server object](https://nodejs.org/api/http.html#class-httpserver).
 		* Here are the W3Schools articles on [http.createServer()](https://www.w3schools.com/nodejs/met_http_createserver.asp) and [http.Server class](https://www.w3schools.com/nodejs/obj_http_server.asp) 
+	* Wrote 2 simple js programs to test out implict versus explicit functions. see ~/js_lang_exercises directory and look at 1-node and 2-node.
