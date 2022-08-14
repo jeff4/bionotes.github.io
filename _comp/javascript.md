@@ -14,9 +14,35 @@ permalink: /javascript/
 
 ## Flanagan 7e Definitive 
 
+## Kyle Simpson - You Don’t Know Javascript, 2e
 
-## Simpson - You Don’t Know JS
-* Available on github
+### Get Started
+* Chapter 1 - What is Javascript?
+* Chapter 2 - Surveying JS
+* Chapter 3 - Digging to the Roots of JS
+* Chapter 4 - The Bigger Picture
+* Appendix A - Explorining Further
+* Appendix B - Practice!
+
+### Scope & Closures
+* Chapter 1 - What's the Scope?
+* Chapter 2 - Illustrating Lexical Scope
+* Chapter 3 - The Scope Chain
+* Chapter 4 - Around the Global Scope
+* Chapter 5 - The (Not So) Secret Lifecycle of Variables
+* Chapter 6 - Limiting Scope Exposure
+* Chapter 7 - Using Closures
+* Chapter 8 - The Module Pattern
+* Appendix A: Exploring Further
+* Appendix B: Practice
+
+
+### Objects and Classes
+
+### Types and Grammar 
+
+
+
 
 ## 2022 Log
 * 6/23/2022 Reinstalled Postgres and updated brew
@@ -47,3 +73,4 @@ permalink: /javascript/
 * 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
 * 8/02 Reviewed [JS learning options](https://techbootcamps.utexas.edu/blog/best-ways-to-learn-javascript/)
 * 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
+* 8/13 Began combined review of objects, value, scope in Flanagan, Simpson, and on YouTube.
