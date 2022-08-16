@@ -471,3 +471,4 @@ sitemap: false
 * "**In Minnesota, which had become a non-slavery state in 1859, the Dakota Sioux were on the verge of starvation by 1862.** When they mounted an uprising to drive out the mostly German and Scandinavian settlers, Union Army troops crushed the revolt, slaughtering Dakota civilians and rounding up several hundred men. 
 * "Three hundred prisoners were sentenced to death--but upon Lincoln's orders to reduce the numbers--thirty-eight were selected at random to die in the **largest mass hanging in US history**. 
 * "**The revered leader Little Crow was not among those hanged, but was assassinated the following summer while out picking raspberries with his son; the assassin, a settler-farmer, collected a $500 bounty.**
+* "One of the young Dakota survivors asked his uncle about the mysterious white people who would commit such crimes. The uncle replied:
