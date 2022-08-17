@@ -108,4 +108,6 @@ permalink: /javascript/
 	* Also read further into Kiessling Book 1 on implementing different versions of http server with http.createServer(), how to organize a large js program into different modules. exports.start = start; allows the start() function to be accessed by index.js.
 	* Thought about various ways to change the datatype of a variable: (1) js default is coercion, (2) Java and other languages also have the concept of casting to *temporarily* change a type, (3) overall topic of type conversion. I *think* that the superset is just called type conversion of which 2 subsets are coercion and casting.
 	* Everything that is not a primitive datatype is an object, an instantiation of an abstract class. Every class has a prototype it inherits from (with some minor exceptions). Because everything ultimately inherits from Object.prototype, every object has methods like toString().
-* 8/16 built a few versions of http server both synch and asynch.
+* 8/16 experimented with packaging JS programs into modules with export function.
+	* created jeff_server.js file with *exports.start = start;* as final expression
+	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
