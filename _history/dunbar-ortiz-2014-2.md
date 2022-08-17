@@ -504,3 +504,13 @@ sitemap: false
 * "The powerful white supremacist southern ruling class helped further militarize the United States, the army practically becoming a southern institution. Following the effective Reconstruction experiment to empower former slaves, the US occupying army was withdrawn, and African Americans were returned to quasi-bondage and disenfranchisement through Jim Crow laws, forming a colonized population in the South.
 
 ### Colonial Policy Precedes Military Implementation p.140
+
+### Colonial Soldiers p.146
+
+### Annihilation Unto Total Surrender p.149
+
+### Ghost Dancing p.153
+
+### Greed is Good p.157
+
+
