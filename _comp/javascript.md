@@ -15,6 +15,10 @@ permalink: /javascript/
 	* p. 11-12 explanation about how JS lets you implicitly create anonymous functions with local scope (see the *say()* method created on p. 10). In JS, since functions can just be values, you can "pass functions around". To better understand this, examine the 2 implementations on p. 11-12 with an implicit function passing version of creating an http.Server object and another explicit function creation version of the http.Server object.
 * p.12-13 explanation of how JS is single-threaded and therefore requires the asynchronous, event-driven model unlike many other languages. For example, an http server implemented in PHP would spawn a new thread for every incoming client http request.
 	* Also review Felix Geisendoerfer's [post](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb) to better understand how asynch Node and JS works.
+* p. 15-16 experimented with packaging asynch code into different modules / js files.
+	* created jeff_server.js file with *exports.start = start;* as final expression
+	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
+
 
 
 
@@ -108,6 +112,4 @@ permalink: /javascript/
 	* Also read further into Kiessling Book 1 on implementing different versions of http server with http.createServer(), how to organize a large js program into different modules. exports.start = start; allows the start() function to be accessed by index.js.
 	* Thought about various ways to change the datatype of a variable: (1) js default is coercion, (2) Java and other languages also have the concept of casting to *temporarily* change a type, (3) overall topic of type conversion. I *think* that the superset is just called type conversion of which 2 subsets are coercion and casting.
 	* Everything that is not a primitive datatype is an object, an instantiation of an abstract class. Every class has a prototype it inherits from (with some minor exceptions). Because everything ultimately inherits from Object.prototype, every object has methods like toString().
-* 8/16 experimented with packaging JS programs into modules with export function.
-	* created jeff_server.js file with *exports.start = start;* as final expression
-	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
+* 8/16 experimented with packaging JS programs into modules with export function. Kiessling p. 15-16
