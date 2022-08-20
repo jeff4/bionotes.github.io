@@ -37,6 +37,7 @@ permalink: /comp_notes/
 * 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
 * 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
 * 8/18 Research on SSGs, API CMSs, and Deployment/Hosting Platforms
+* 8/20 Learned more about Visual Block mode to add inital characters to a whole bunch of lines. See OneNote for more
 
 
 ---------------------------------------
