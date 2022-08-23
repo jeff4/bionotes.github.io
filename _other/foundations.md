@@ -60,35 +60,36 @@ sitemap: false
 
 
 ## 3. Digital Marketing Key Concepts
-	* Persuadig with data
-	* How analytics work in digital marketing
-	* How to capture key insights in your digital marketing
+* Persuading with data
+* How analytics work in digital marketing
+* How to capture key insights in your digital marketing
+
 ## 4. Digital Marketing Hub and Spokes
-	* How to outline your online marketing presence
-	* How to decide on a marketing channel
-	* How to prioritize in marketing
-	* How to create powerful marketing messaging
-	* How to create lean messaging in marketing copy
+* How to outline your online marketing presence
+* How to decide on a marketing channel
+* How to prioritize in marketing
+* How to create powerful marketing messaging
+* How to create lean messaging in marketing copy
 ## 5. Digital Marketing with Your Website
-	* how to optimize your website
-	* How to use copywriting in your marketing
-	* How to build landing pages that convert 
+* how to optimize your website
+* How to use copywriting in your marketing
+* How to build landing pages that convert 
 ## 6. Digital Marketing and Paid Channels
-	* introduction to paid advertising
-	* how to identify the value of a customer
-	* How to budget for paid marketing
-	* how to create your first paid campaign
+* introduction to paid advertising
+* how to identify the value of a customer
+* How to budget for paid marketing
+* how to create your first paid campaign
 ## 7. Digital Marketing with Social Media
-	* First steps
-	* How to decide on a social media platform
-	* How to build and leverage followers
+* First steps
+* How to decide on a social media platform
+* How to build and leverage followers
 ## 8. Digital Marketing with Email
-	* The power of email marketing
-	* How to develop an email marketing plan
-	* How to measure the success of email
-	* How to launch successful campaigns: Email tools
+* The power of email marketing
+* How to develop an email marketing plan
+* How to measure the success of email
+* How to launch successful campaigns: Email tools
 ## 9. Marketing Analytics Skills
-	* How to decide what to track with marketing analytics
-	* How to generate reports for marketing analytics
+* How to decide what to track with marketing analytics
+* How to generate reports for marketing analytics
 ## 10. Conclusion
-	* How to continually build digital marketing skills
+* How to continually build digital marketing skills
