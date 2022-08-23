@@ -1,1 +1,92 @@
+---
+title: Foundations by Brad Batesole (90 minutes overall)
+permalink: /foundations/
+sitemap: false
+---
 
+## Outline
+0. Introduction
+1. The Digital Marketing Framework
+2. Digital Marketing Basics
+3. Digital Marketing Key Concepts
+4. Digital Marketing Hub and Spokes
+5. Digital Marketing and Your Website
+6. Digital Marketing and Paid Channels
+7. Digital Marketing with Social Media
+8. Digital Marketing with Email
+9. Marketing Analytics Skills
+10. Conclusion
+
+## 0. Introduction
+* What is digital marketing
+	
+## 1. The Digital Marketing Framework 
+* The Building Blocks of Digital Marketing
+	* Paid Media
+	* Owned Media
+	* Earned Media
+
+
+## 2. Digital Marketing Basics
+	* How to develop a marketing strategy--know your product, know your customer, know how your product solves your target customer's problem, know your differentiation counter to existing customer
+	* How to define your value proposition
+		* Example of Uber. Sub bullets talked about pain points. But headline just summed it up as "The Smartest way to get around". Sub-bullets each directly address a specific pain with incumbent taxis:
+			* One tap and the car comes directly to you
+			* Your driver knows exactly where to go
+			* Payment is completely cashless
+		* Example value prop for an imaginary new smartwatch 
+	* How to identify your target market
+		* Customer segmentation
+	* How to create your customer persona
+		* Ficitious person as an avatar. Every customer segment should have a persona that fits on a single page.
+		* Four questions about ideal customer: (1) Who are they?; (2) What needs do they have; (3) What barriers do they need to overcome?; (4) What motivates them? 
+		* important to have a story and attach photo / picture
+	* How to establish goals for digital marketing
+		* What are the attributes of a useful; actionable goal? SMART acronym
+			* S = specific
+			* M = measurable
+			* A = attainable
+			* R = relevant
+			* T = time bound
+		* This is where he talks about OKRs
+	* How to developer your digital marketing KPIs
+		* granular success metrics. aka, Overall Goals are SMART. They are measured by OKRs and Key Results usually occur on the deadline per quarter. The granular metrics that roll up to OKRs are KPIs.
+		* Assume that we are trying to achieve quarterly KPI Goal of selling 250 coffee mugs online. There are 2 supporting activites: (1) running online ads and (2) running email campaigns. Online ads might have a kpi of achieving $8 CPA cost per acquisition. Email campaign might have KPIs for open rate or or CTA clickthroughs
+		* With online sales, likely going to look at conversion rate and CPA.
+		* For broader marketing objectives, KPI for total revenue and even the ratio of new to returning visitors.
+		* Make sure you make these KPIs available in a shareable document which enforces that it be easy to understand
+	* How to draft a one page marketing plan
+		* " As your marketing strategy shapes up, you'll need a place to park all the information you're capturing. It needs to be agile, easy to update, and very simple to distribute. Now, I use a very simple, one-page template to help with this exercise. This is meant to put your problems front and center, so you can generate effective ideas. It'll live alongside your buyer journey map and your persona documents. Here's what it looks like. You have a series of boxes that you'll fill out, and it's divided up so that the left side of the page is all about your product or service, and the right side is all about the market. Let's walk through these fields together. In the problem box, list one to three high priority problems that your customers have, and below them, list any existing solutions that try to solve those problems. In the customer segments box, list the personas that you're targeting. From here, the solutions box is where you'll list one to three ways that your product or service solves the consumer's problems. Now, from here, you'll fill out your unique value proposition, and this is right in the middle, as it lives both between your product or service and your market. Next, list all of your channels. This is your path to the customer, and it's how you'll communicate the existence of what you're selling, and pick the channels that your customer segments are spending the most time with. Now, moving on, you'll need to outline your revenue streams. How are you going to make money? What's the lifetime value of your customer? What's the gross margin on whatever it is you're selling? And now, just to the left is your cost structure, and this is where you'll list the operational costs for making the business get all the way to market. How much will it cost to acquire your customer? How much does it cost to run the business? How much are you going to be spending on marketing? Next up, key metrics. Every business must have key metrics that are used to monitor performance. List what activities you'll be measuring that are going to demonstrate that you're successful in your marketing efforts. And finally, the unfair advantage. What do you do so insanely well that nobody can copy you, or that puts you way ahead of the competition? I want you to take 20 minutes and put together a one-page marketing plan. Now, there's a ton of resources online with editable templates if you need one. Just run a Google search for lean canvas templates, but I want you to build one at least once. It is a fantastic exercise that can help bring some clarity to the chaos that is marketing." 	
+## 3. Digital Marketing Key Concepts
+	* Persuadig with data
+	* How analytics work in digital marketing
+	* How to capture key insights in your digital marketing
+## 4. Digital Marketing Hub and Spokes
+	* How to outline your online marketing presence
+	* How to decide on a marketing channel
+	* How to prioritize in marketing
+	* How to create powerful marketing messaging
+	* How to create lean messaging in marketing copy
+## 5. Digital Marketing with Your Website
+	* how to optimize your website
+	* How to use copywriting in your marketing
+	* How to build landing pages that convert 
+## 6. Digital Marketing and Paid Channels
+	* introduction to paid advertising
+	* how to identify the value of a customer
+	* How to budget for paid marketing
+	* how to create your first paid campaign
+## 7. Digital Marketing with Social Media
+	* First steps
+	* How to decide on a social media platform
+	* How to build and leverage followers
+## 8. Digital Marketing with Email
+	* The power of email marketing
+	* How to develop an email marketing plan
+	* How to measure the success of email
+	* How to launch successful campaigns: Email tools
+## 9. Marketing Analytics Skills
+	* How to decide what to track with marketing analytics
+	* How to generate reports for marketing analytics
+## 10. Conclusion
+	* How to continually build digital marketing skills
