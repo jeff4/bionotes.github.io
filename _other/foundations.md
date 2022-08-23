@@ -106,6 +106,13 @@ sitemap: false
 	* "**Four**, be clear, avoid fancy words, and always use more conventional language when possible. 
 	* "**Five**, be obvious. Don't assume that your audience understand terms that you use in your communication. Use obvious words, or define the ones that aren't obvious Be sure that your message contains a flavor of your value proposition, and use the same tone and theme across all of your marketing platforms. Understand your audience, tell a great story, and be authentic.
 * How to create lean messaging in marketing copy
+	* "If you want your messaging to be really effective and resonate with your audience, well, your marketing copy should be accessible and lean. If I were to visit your website or receive your newsletter or even see your latest Linkedln post, I shouldn't be drowning in big words. 
+	* "Complex and verbose messages don't make you or your brand sounds smart. In fact, they might make you sound a little out of touch. Nobody likes to read complex jargon. Now, it's one thing to use industry terms, but it's another to string together business jargon. 
+	* "Instead, give visitors something that draws them in and keeps them focused on what you have to offer. The best messaging is short, concise, and to the point.  Now, it can still be the voice of your brand, but the jargon has to go. And when it comes to accessible content, it's also important you're considering the assumptions that you're making. 
+	* "You see, we make lots of decisions daily, and rarely do we ever have every answer and every piece of information available. So we rely on our gut or our intuition to guide us. Well, our intuition is built by our experiences and associations over time. And this will lead us to have preconceived notions which impact every buying decision we make. 
+	* "And this is why as you craft marketing messages, you need to ask yourself what messaging assumptions have been made. **For example, many people still assume that eco-friendly cleaning products are not as effective as they're synthetic competitors. And while this is likely an incorrect theory, it's actually a widely held belief.** 
+	* "The reality is, regardless of what you sell your consumers are going to make assumptions, if you don't fill in the gaps for them. So it's on you to make sure that your messaging tells the complete picture. If you know that consumers assume eco-friendly cleaning products are weaker, then you must front load the messaging that dictates they're just as strong, if not stronger. 
+	* "Don't let your consumers trip over their own assumptions, but also, don't bog them down with too many complex words.
 ## 5. Digital Marketing with Your Website
 * how to optimize your website
 * How to use copywriting in your marketing
