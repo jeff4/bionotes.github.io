@@ -99,11 +99,12 @@ sitemap: false
 	* "Now, one of the main attributes of strategic messaging is consistency. The best message is always simple and consistent, but also it's going to be in line with how your current customers describe what it is you do, and why you do it well. 
 	* "If you're perplexed as to whether your messaging aligns with how others present you, I have a simple exercise for you. Ask your team, close customers, and even close colleagues who understand the business you're in, to send you an email with one sentence, answering the following questions. 
 	* "What is it that we do? What is the problem we are solving? How are we different from our competitors? And why should customers buy from us, or why did you buy from us? Use this to find gaps in your messaging. 
-	* "Then, as you go about developing any content, I want you to be sure that your messaging follows these five best practices. **One**, tell a good, convincing story. Storytelling captures people attention and motivates them to take action, and to be convincing, well, you'll need to make sure that your product or brand comes across as trustworthy, confident, empathetic, and composed. 
-	* "Two, appeal to emotion. People buy on emotion, and then they justify with fact. So remember to focus on outcomes that are inspirational, aspirational, or would represent a significant milestone for a person or their company.  
-	* "Three, be consistent. Consistent messages are more memorable. Repeat a simple message over and over again, and don't change it all that much. 
-	* "Four, be clear, avoid fancy words, and always use more conventional language when possible. 
-	* "Five, be obvious. Don't assume that your audience understand terms that you use in your communication. Use obvious words, or define the ones that aren't obvious Be sure that your message contains a flavor of your value proposition, and use the same tone and theme across all of your marketing platforms. Understand your audience, tell a great story, and be authentic.
+	* "Then, as you go about developing any content, I want you to be sure that your messaging follows these five best practices. 
+	* "**One**, tell a good, convincing story. Storytelling captures people attention and motivates them to take action, and to be convincing, well, you'll need to make sure that your product or brand comes across as trustworthy, confident, empathetic, and composed. 
+	* "**Two**, appeal to emotion. People buy on emotion, and then they justify with fact. So remember to focus on outcomes that are inspirational, aspirational, or would represent a significant milestone for a person or their company.  
+	* "**Three**, be consistent. Consistent messages are more memorable. Repeat a simple message over and over again, and don't change it all that much. 
+	* "**Four**, be clear, avoid fancy words, and always use more conventional language when possible. 
+	* "**Five**, be obvious. Don't assume that your audience understand terms that you use in your communication. Use obvious words, or define the ones that aren't obvious Be sure that your message contains a flavor of your value proposition, and use the same tone and theme across all of your marketing platforms. Understand your audience, tell a great story, and be authentic.
 * How to create lean messaging in marketing copy
 ## 5. Digital Marketing with Your Website
 * how to optimize your website
