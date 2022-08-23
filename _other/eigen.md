@@ -40,6 +40,7 @@ permalink: /eigen/
 
 ### 2022 Log
 * 8/03/2022 Researched some new books on abstract algebra, group theory, etc.
+* 8/23 Been working on Nathan Jacobson's *Basic Algebra I*, 2nd Edition for the last week or two. Had a nice breakthrough on generalizing Cartesian Products from 2 parent sets to n-parent sets. For example, the coordinate / components of an n-dimensional vector in R<sup>n</sup>
 
 ### 2021 Log
 * 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues using 3B1B 2x2 matrix quicktechnique. Then finding associated eigenvectors by setting up the characteristic equation det(**A** - &#955;**I**) = **0** and then solving the resulting system of equations.
