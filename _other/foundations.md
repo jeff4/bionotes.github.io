@@ -5,18 +5,18 @@ sitemap: false
 ---
 
 ## Outline
-0. Introduction
-1. The Digital Marketing Framework
-2. Digital Marketing Basics
-3. Digital Marketing Key Concepts
-4. Digital Marketing Hub and Spokes
-5. Digital Marketing and Your Website
-6. Digital Marketing and Paid Channels
-7. Digital Marketing with Social Media
-8. Digital Marketing with Email
-9. Marketing Analytics Skills
-10. Conclusion
-11. Appendices
+**0. Introduction**
+**1. The Digital Marketing Framework**
+**2. Digital Marketing Basics**
+**3. Digital Marketing Key Concepts**
+**4. Digital Marketing Hub and Spokes**
+**5. Digital Marketing and Your Website**
+**6. Digital Marketing and Paid Channels**
+**7. Digital Marketing with Social Media**
+**8. Digital Marketing with Email**
+**9. Marketing Analytics Skills**
+**10. Conclusion**
+**11. Appendices**
 	* Digital Marketing with Video (from [other course](https://www.linkedin.com/learning/digital-marketing-foundations-2021/the-impact-of-video-marketing))
 
 
