@@ -1,12 +1,12 @@
 ---
-title: Foundations by Brad Batesole-90 minutes overall
+title: 2022 Foundations by Brad Batesole-90 minutes overall
 permalink: /foundations/
 sitemap: false
 ---
 
 ## Outline
-
 **0. Introduction**
+
 **1. The Digital Marketing Framework**
 **2. Digital Marketing Basics**
 **3. Digital Marketing Key Concepts**
@@ -18,7 +18,7 @@ sitemap: false
 **9. Marketing Analytics Skills**
 **10. Conclusion**
 **11. Appendices**
-	* Digital Marketing with Video (from [other course](https://www.linkedin.com/learning/digital-marketing-foundations-2021/the-impact-of-video-marketing))
+	* Info on how to market with video (from [Brad's other longer 2021 course](https://www.linkedin.com/learning/digital-marketing-foundations-2021/the-impact-of-video-marketing))
 
 
 ## 0. Introduction
