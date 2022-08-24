@@ -1,4 +1,4 @@
-\---
+---
 title: Foundations by Brad Batesole-90 minutes overall
 permalink: /foundations/
 sitemap: false
