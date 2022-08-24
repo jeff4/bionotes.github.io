@@ -19,6 +19,12 @@ sitemap: false
 
 ## 0. Introduction
 * What is digital marketing
+	* "When we talk about digital marketing, we're essentially talking about promoting your business online using a multitude of channels. And these channels are how you make your buyer aware of what you're selling. Common digital channels might include your website, search engines, social media, online video, and paid ads. 
+	* "Your customer will intersect many digital channels in their day-to-day. And marketing is about showing up where they're at with the right message at just the right time. Now, if you're like me, when I was just starting out in marketing, you'd be asking yourself, 'Okay, but what do I say? Where do I say it? How do I know who I'm talking to and what will make them pick my brand?' 
+	* "And, and, I know,  and this brings me to a key point. I want you to internalize that marketing is rarely successful on the first try. One of the greatest joys I get out of marketing is experimenting, trying new things. And evolving your marketing strategies is really key to coming out ahead. 
+	* "Now, marketing is just as much a science as it is an art. And the digital aspect of marketing lets us get really scientific. We spend a lot of time experimenting, forming a hypothesis, testing it, and then using the data we collect to adjust course. **Failure is just part of the journey.** 
+	* "Data and near instant access to it makes digital marketing incredibly powerful. Just about every action you take on the web is tracked.  Collect enough data points and you can build really powerful predictions about people's behavior, their interests, what they're searching for and why. 
+	* "Marketing, in its simplest form, is just persuading someone to take action. The more data we have and the better we leverage it, well, the more successful that persuasion will be.
 	
 ## 1. The Digital Marketing Framework 
 * The Building Blocks of Digital Marketing
