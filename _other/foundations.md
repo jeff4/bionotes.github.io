@@ -260,9 +260,9 @@ sitemap: false
 
 --------------------------
 
-# Appendix from [Longer 2 hour course from 2021](https://www.linkedin.com/learning/digital-marketing-foundations-2021/what-is-digital-marketing?)
+### Appendix from [Longer 2 hour course from 2021](https://www.linkedin.com/learning/digital-marketing-foundations-2021/what-is-digital-marketing?)
 
-### 10. Digital Marketing with Video
+#### 10. Digital Marketing with Video
 * [**The impact of video marketing**](https://www.linkedin.com/learning/digital-marketing-foundations-2021/the-impact-of-video-marketing?)
 	* "Video marketing is almost a must with any digital marketing effort. This involves producing prerecorded or even live video content and distributing it through platforms like YouTube, Linkedin, Twitter, and your website. 
 	* "You may even leverage influencers to secure mentions and product reviews in videos that they already create within your target audience. Video marketing can be used to show off your location, your products, or even help customers through their buying decision. You might make a video to tell your brand story, to chronicle the work you're doing, share quick updates, discuss your industry, showcase your product, or to educate and inspire. 
