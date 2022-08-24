@@ -17,7 +17,8 @@ sitemap: false
 9. Marketing Analytics Skills
 10. Conclusion
 11. Appendices
-	* Digital Marketing with Video (from [other course](https://www.linkedin.com/learning/digital-marketing-foundations-2021/getting-started-with-video-marketing?))
+	* Digital Marketing with Video (from [other course](https://www.linkedin.com/learning/digital-marketing-foundations-2021/the-impact-of-video-marketing))
+
 
 ## 0. Introduction
 * **What is digital marketing**
