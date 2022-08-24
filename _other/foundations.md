@@ -251,6 +251,11 @@ sitemap: false
 
 --------------------------
 
-
 ## 10. Conclusion
 * How to continually build digital marketing skills
+
+--------------------------
+
+# Appendix from [Longer video](https://www.linkedin.com/learning/digital-marketing-foundations-2021/what-is-digital-marketing?)
+
+### 10. Digital Marketing with Video
