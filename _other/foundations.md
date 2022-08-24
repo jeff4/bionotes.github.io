@@ -78,27 +78,28 @@ sitemap: false
 		* Your driver knows exactly where to go
 		* Payment is completely cashless
 	* Example value prop for an imaginary new smartwatch 
-* How to identify your target market
+* **How to identify your target market**
 	* Customer segmentation
-* How to create your customer persona
+* **How to create your customer persona**
 	* Ficitious person as an avatar. Every customer segment should have a persona that fits on a single page.
-	* Four questions about ideal customer: (1) Who are they?; (2) What needs do they have; (3) What barriers do they need to overcome?; (4) What motivates them? 
-	* important to have a story and attach photo / picture
-* How to establish goals for digital marketing
-	* What are the attributes of a useful; actionable goal? SMART acronym
-		* S = specific
-		* M = measurable
-		* A = attainable
-		* R = relevant
-		* T = time bound
+	* *Four questions about ideal customer:* 
+		* (1) Who are they?; (2) What needs do they have; (3) What barriers do they need to overcome?; (4) What motivates them? 
+		* Important to have a story and attach photo / picture
+* **How to establish goals for digital marketing**
+	* What are the attributes of a useful; actionable goal? *SMART* acronym
+		* **S** = specific
+		* **M** = measurable
+		* **A** = attainable
+		* **R** = relevant
+		* **T** = time bound
 	* This is where he talks about OKRs
-* How to developer your digital marketing KPIs
+* **How to develop your digital marketing KPIs**
 	* granular success metrics. aka, Overall Goals are SMART. They are measured by OKRs and Key Results usually occur on the deadline per quarter. The granular metrics that roll up to OKRs are KPIs.
 	* Assume that we are trying to achieve quarterly KPI Goal of selling 250 coffee mugs online. There are 2 supporting activites: (1) running online ads and (2) running email campaigns. Online ads might have a kpi of achieving $8 CPA cost per acquisition. Email campaign might have KPIs for open rate or or CTA clickthroughs
 	* With online sales, likely going to look at conversion rate and CPA.
 	* For broader marketing objectives, KPI for total revenue and even the ratio of new to returning visitors.
 	* Make sure you make these KPIs available in a shareable document which enforces that it be easy to understand
-* How to draft a one page marketing plan
+* **How to draft a one page marketing plan**
 	* " As your marketing strategy shapes up, you'll need a place to park all the information you're capturing. It needs to be agile, easy to update, and very simple to distribute. Now, I use a very simple, one-page template to help with this exercise. This is meant to put your problems front and center, so you can generate effective ideas. 
 	* "It'll live alongside your buyer journey map and your persona documents. Here's what it looks like. You have a series of boxes that you'll fill out, and it's divided up so that the left side of the page is all about your product or service, and the right side is all about the market. Let's walk through these fields together. 
 	* "In the problem box, list one to three high priority problems that your customers have, and below them, list any existing solutions that try to solve those problems. In the customer segments box, list the personas that you're targeting. From here, the solutions box is where you'll list one to three ways that your product or service solves the consumer's problems. Now, from here, you'll fill out your unique value proposition, and this is right in the middle, as it lives both between your product or service and your market. 
@@ -267,7 +268,7 @@ sitemap: false
 	* "You may even leverage influencers to secure mentions and product reviews in videos that they already create within your target audience. Video marketing can be used to show off your location, your products, or even help customers through their buying decision. You might make a video to tell your brand story, to chronicle the work you're doing, share quick updates, discuss your industry, showcase your product, or to educate and inspire. 
 	* "Now it's easy to get caught up in the idea of creating a viral video, but going viral isn't a viable or necessary strategy. **Instead, focus on crafting content that your audience will enjoy.** You can still gain tremendous value out of video marketing, even without generating millions of views. 
 	* "Now, according to data from HubSpot research, **more than half of consumers want to see videos from brands**. Not only do your consumers want video, but it'll work to increase your conversion rates, both on landing pages, and even in your email outreach. These days, consumers use video as a way to make a buying decision. So regardless of your industry, video can play a key role in your digital marketing strategy.
-* ** Getting started with video marketing**
+* **Getting started with video marketing**
 	* "Not all video content is created equal. If you decide to pursue video marketing, well, you'll want to focus on building high quality, and highly targeted material. Much like your website. 
 	* "**Viewers decide whether they'll keep watching your video within the first few seconds.** So you not only need to retain their attention throughout your video, but you need to make sure the first moments are captivating. 
 	* "Your content should speak directly to your audience and you'll need to experiment with new approaches and new styles until you find what resonates. Some of the best content answers questions your target audience is already asking. So as you create your videos, avoid building a sales pitch, and instead share the unique aspects of your product or service that can't be told with text or pictures. 
