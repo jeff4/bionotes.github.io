@@ -18,7 +18,7 @@ sitemap: false
 10. Conclusion
 
 ## 0. Introduction
-* What is digital marketing
+* **What is digital marketing**
 	* "When we talk about digital marketing, we're essentially talking about promoting your business online using a multitude of channels. And these channels are how you make your buyer aware of what you're selling. Common digital channels might include your website, search engines, social media, online video, and paid ads. 
 	* "Your customer will intersect many digital channels in their day-to-day. And marketing is about showing up where they're at with the right message at just the right time. Now, if you're like me, when I was just starting out in marketing, you'd be asking yourself, 'Okay, but what do I say? Where do I say it? How do I know who I'm talking to and what will make them pick my brand?' 
 	* "And, and, I know,  and this brings me to a key point. I want you to internalize that marketing is rarely successful on the first try. One of the greatest joys I get out of marketing is experimenting, trying new things. And evolving your marketing strategies is really key to coming out ahead. 
@@ -27,7 +27,7 @@ sitemap: false
 	* "Marketing, in its simplest form, is just persuading someone to take action. The more data we have and the better we leverage it, well, the more successful that persuasion will be.
 	
 ## 1. The Digital Marketing Framework 
-* The Building Blocks of Digital Marketing
+* **The Building Blocks of Digital Marketing**
 	* Paid Media
 	* Owned Media
 	* Earned Media
@@ -37,24 +37,24 @@ sitemap: false
 	* "Together, these make up the foundation of digital marketing. And while these media types also exist in non-digital marketing, we gain a huge advantage in the digital space, personalization. Imagine you're selling mattresses. If you used paid media in a traditional sense, you might put an ad in the local newspaper. And it's possible that someone reading the paper needs a new mattress, but most aren't shopping for it. 
 	* "So you'll run this ad for a long time, and it's rather inefficient. Most eyes that land on that ad, the eyes that you're paying for, are uninterested. In digital marketing, you can identify people who are actively shopping for a mattress right now. You can pay to deliver an ad specifically to them.  And this is an incredibly efficient advertisement. 
 	* "Now, there's always exceptions in marketing, but for the most part, as you evaluate where to market digitally, you'll be evaluating how to distribute your message across all three of these marketing channels.
-* The Marketing Funnel
+* **The Marketing Funnel**
 	* "You'll hear a lot about funnels the more time you spend in the world of marketing. Purchase funnels, sales funnels, inbound funnels, regardless of the name, they're all ultimately describing the same concept. And I want you to get in the habit of visualizing funnels as you develop your marketing strategies. 
 	* "Here's how to think about a funnel. It's really just a way to represent the customer's journey as they move towards the purchase of your product or surface. At the top or the widest part of the funnel is where a buyer starts their journey. And the bottom, the narrowest part, is where you hope they end up. Your goal as a marketer is to funnel prospects into buyers, moving them from the top to the bottom of the funnel. The shape symbolizes the fact that a large number of people will never complete the journey through the funnel. You'll expose your product or service to a lot of people, but only a small fraction will actually convert. 
 	* "In reality, this funnel is rather leaky, as it has holes in the sides where people will fall out. Now, the marketing funnel is typically segmented into four phases: Awareness, Interest, Desire, and Action. At the very top is Awareness. Someone has to become aware of not only what they want, but who's selling it. This is when a prospect is introduced to your brand. But they might also be introduced to the competition as well. Thus, the first hole or the exit from your funnel. Now, I know that I need a mattress, and I know that you sell one, but my initial exposure to your brand was uninteresting so I wandered off. 
 	* "Now, below Awareness, we have Interest. It's at this stage that a consumer will begin to explore the products or services available to them in more detail. Now, I'm wanting to know what feature that your mattress has compared to your competitor. If I'm not captivated, well, out the funnel I go. 
 	* "Next comes Desire, which we can also call Consideration. It's here that the prospect wants to make a purchase. They're in the final stages of evaluating whether or not to commit. And finally, Action. Your prospect is either going to buy or not. They may select you, someone else, or decide they're not buying at all. This is the foundational funnel. 
-	* It's called the AIDA model. You may also see it depicted with one last step known as Loyalty, which is the act of retaining your customer. 
+	* It's called **the AIDA model**. You may also see it depicted with one last step known as Loyalty, which is the act of retaining your customer. 
 	* "Now, we often reference these different segments as top of the funnel, middle of the funnel, and bottom of the funnel. And this is important because how you manage your marketing will depend on where in the funnel your buyer is. Towards the bottom of the funnel, well, you have someone who is really close to making a purchase. Bottom funnel marketing focuses on identifying people who are in a buying decision and then converting them.  They're right there. At the top of the funnel, you're focused on making people aware of your solution. 
 	* "You're trying to message to mostly the right people, but you know you can't be everything for everyone. But if there's zero top of the funnel marketing, well, there's nobody coming out the other side. So you have to get them in the door before you can start selling to them. 
 	* "And, as you might expect, middle of the funnel marketing is the nurturing process to keep the lead moving. It's giving them a great experience, and all the information they need at just the right time to make their decision. In many ways, this is the hardest part of marketing, figuring out how to keep that person in the funnel and not spilling out. 
 	* "Marketing works best when you understand which stage your customers in so you can tailor your messaging to move them to that next stage.
-* The Buyer Journey
+* **The Buyer Journey**
 	* "The marketing funnel is really just a way of evaluating a buyer's journey. We understand a buyer will go through the stages from awareness to action, but is that journey ever perfectly straightforward? 
 	* "The buyer may be moving up and down the funnel, exiting and reentering There's so many variables that we as marketers are working to account for. And I want to put this into perspective. Think for a minute about all of the questions you might have regarding how someone came to buy a product. Where did they find this product? Was it research in advance or did they find it on a shelf? And if they found it on a shelf, what jumped out, the price, the label?  Did they look at other products on the shelf next to it? Did they search the brand on their phone?  Did they text a picture to a friend? Was the checkout process easy? Did a coupon motivate them to buy? And so on. 
 	* "I want you to try something, take out a pen and paper and write down all the steps you took when you made a recent purchase. The more you think about it, the more steps I imagine that you'll identify. And every time you go to buy something, at least in the next short future, keep a journal of your process. In fact, you can oftentimes realize that some purchases have been a brand that's been slowly chipping away at that awareness stage with you for ages. At each step, buyers are going to define their own path. So as you develop a digital marketing strategy, you'll need an idea of how a buyer will navigate your funnel. And this can feel like a rather robust undertaking. 
 	* "So I want you to treat this in an agile manner, be ready to iterate on your buyer's journey. You can't conceivably map out every step, every touchpoint and every interaction. What you want to do is define the most common paths a prospective buyer will take So start by coming up with three to five answers for each of these questions. How will my buyer become aware of their problem? How might they become aware of a solution? Why would they become interested in my solution? Why would they pick my brand over another brand? What would motivate them to convert? What would be a hurdle to getting them to decide to buy? And what might they need to move down the funnel? 
 	* "Understanding your customer's journey helps you to develop the right messaging for the stage that they're in. It's key to the decisions that you'll be making across all of your digital marketing.
-* Create a Buyer Journey Map
+* **Create a Buyer Journey Map**
 	* "One of the greatest challenges in marketing is knowing what to say and when. And I'll let you in on a little secret: you'll never get it 100% right. But with enough time and enough iterations, you'll get it really close. But that doesn't mean your first endeavor can't or won't be incredibly effective. 
 	* "So to help you land close to the target, I want you to build and maintain a buyer journey map. It is a fantastic tool for taking some of the mystery out of what a buyer needs to hear and when. Now there's no set form for this, but you can create a very simple template to get you started. Here's how I do it: I'll make a quick spreadsheet of sorts and you can do this in Excel or Google Sheets or whatever tool lets you evolve it and add to it as you go. 
 	* "Along the top as column headers, I list out the funnel stages: awareness, interest, desire, action, and loyalty. Then I'll create rows for the following: activities, goals, thoughts, emotional state, touchpoints and channels, and finally, objectives. Let's go through this together. 
@@ -64,9 +64,12 @@ sitemap: false
 	* "Let's fill out one column together. Let's say we have a pet grooming business and we're working on the awareness stage. For Activities, well, let's say the consumer is searching Google for 'pet groomer near me'. Goals: Well, they want to see what local businesses offer this service. For Thoughts, maybe it's 'I hope I can book this online.' And 'I've never taken Fido anywhere before'.  
 	* "I'll give their Emotional State a neutral smiley face. Touchpoints: Let's say Google map listings and website. Objectives: Make the customer aware of the business, most notably, how to book an appointment and how well reviewed our business is. With this first piece of the journey built, I can move through the columns, and once I'm done, I'll have a good picture of all the marketing activities I need to complete to have a full, funnel marketing strategy. 
 	* "It also helps me think through what information is most important or might even be missing from my strategy. Consider the journey that your customers experience and build a map. This way you can make the process more delightful, less frustrating, and ultimately, successful.
+
+--------------------------
+
 ## 2. Digital Marketing Basics
-* How to develop a marketing strategy--know your product, know your customer, know how your product solves your target customer's problem, know your differentiation counter to existing customer
-* How to define your value proposition
+* **How to develop a marketing strategy**--know your product, know your customer, know how your product solves your target customer's problem, know your differentiation counter to existing customer
+* **How to define your value proposition**
 	* Example of Uber. Sub bullets talked about pain points. But headline just summed it up as "The Smartest way to get around". Sub-bullets each directly address a specific pain with incumbent taxis:
 		* One tap and the car comes directly to you
 		* Your driver knows exactly where to go
@@ -101,11 +104,14 @@ sitemap: false
 	* "Next up, key metrics. Every business must have key metrics that are used to monitor performance. List what activities you'll be measuring that are going to demonstrate that you're successful in your marketing efforts.  
 	* "Finally, the unfair advantage. What do you do so insanely well that nobody can copy you, or that puts you way ahead of the competition? I want you to take 20 minutes and put together a one-page marketing plan. Now, there's a ton of resources online with editable templates if you need one. Just run a Google search for lean canvas templates, but I want you to build one at least once. It is a fantastic exercise that can help bring some clarity to the chaos that is marketing." 	
 
+--------------------------
 
 ## 3. Digital Marketing Key Concepts
 * Persuading with data
 * How analytics work in digital marketing
 * How to capture key insights in your digital marketing
+
+--------------------------
 
 ## 4. Digital Marketing Hub and Spokes
 * How to outline your online marketing presence
@@ -150,10 +156,16 @@ sitemap: false
 	* "And this is why as you craft marketing messages, you need to ask yourself what messaging assumptions have been made. **For example, many people still assume that eco-friendly cleaning products are not as effective as they're synthetic competitors. And while this is likely an incorrect theory, it's actually a widely held belief.** 
 	* "The reality is, regardless of what you sell your consumers are going to make assumptions, if you don't fill in the gaps for them. So it's on you to make sure that your messaging tells the complete picture. If you know that consumers assume eco-friendly cleaning products are weaker, then you must front load the messaging that dictates they're just as strong, if not stronger. 
 	* "Don't let your consumers trip over their own assumptions, but also, don't bog them down with too many complex words.
+
+--------------------------
+
 ## 5. Digital Marketing with Your Website
 * how to optimize your website
 * How to use copywriting in your marketing
 * How to build landing pages that convert 
+
+--------------------------
+
 ## 6. Digital Marketing and Paid Channels
 * introduction to paid advertising
 	* "We live in a pay to play marketing landscape. Organic reach just isn't what it used to be. So if you want to reach more people, well, you'll need to pay for the opportunity. Now, the majority of paid advertising operates in an auction format. 
@@ -168,7 +180,7 @@ sitemap: false
 	* "Video advertising is another incredibly popular approach. In this model, you'll pay to run a short ad in a pre-roll, mid-roll, or post-roll placement. And this is referring to where your ad shows up. It's either running before the video plays, interrupting the video that's currently playing, or it'll show up at the end. And YouTube is, by far, the most popular video advertising platform. 
 	* "Now, from here, we have social media marketing, and in social media marketing, you can boost your social media posts, or even advertise completely separately from your social media profile.  Now, social media ads boast some of the lowest costs, and can amplify your organic following tremendously. 
 	* "Paid advertising is an important component of any marketing strategy, so you'll want to explore how it fits into your marketing goals.
-* how to identify the value of a customer
+* How to identify the value of a customer
 	* "In order to invest in paid marketing, really any marketing, you'll need to understand the value of your customer. Your business has customers but they're all not created equallv. 
 	* "Some customers might purchase one product and leave while others become loyal to your brand and purchase many products over the course of a year or two or even more. So, which customer is more valuable to you then? Well, of course, the second group. But you need to be measuring what's called **lifetime value** in order to know that. We call this measurement **CLV or customer lifetime value**. 
 	* "Sometimes you might see this referred to as LTV. Knowing your customer lifetime value lets you know how much you can spend in advertising to acquire a customer. Now, arriving in this number can actually be relatively complicated. 
@@ -196,6 +208,9 @@ sitemap: false
 	* "Give your customer information on how to make a decision. You might let them know that you have a limited time discount or that vou're having a 25% off sale todav onlv. You can also help pre-qualifv your traffic by adding in pricing information. If a hotel starts at $300 a night, I would include that information in the ad because that wav I know that people who can't afford it, won't be clicking. 
 	* "Finally, experiment, create three to four ads for each ad group and use different messages for each to see which performs the best. Most platforms will automaticallv rotate vour ads and feature the best performing one more often, just remember that everything is an experiment. So if you're not seeing the results you're hoping for, well, keep trying new approaches and to really further your education on this topic. 
 	* "I encourage you to exolore the course Google Ads Essential Training.
+
+--------------------------
+
 ## 7. Digital Marketing with Social Media
 * First steps
 	* "At its core, social media marketing has the ability to bring a new kind of exposure and interaction to your business. For starters, social media marketing creates the opportunity to hear from your customers. Oftentimes they'll share things directly with your social channels or ask questions that might help you identify the good or bad in your business. 
@@ -219,13 +234,23 @@ sitemap: false
 	* "Another way to grow your followers is to rely on an influencer. A post from an influencer could give you a lot of exposure. However, this typically doesn't come for free. If you're interested in getting help from an influencer, tools like Socialbaker or Tagger can help you find the right fit for the audience you're targeting. 
 	* "Finally, you can create an advertising campaign to help you generate awareness and followers for your business. Now, one piece of advice here, you want followers who have a genuine interest in your brand. So make sure that your ad campaign is focused on building authentic followers.  
 	* "Now, there are a ton of tools out there that can help you advance your following, so I encourage you to learn more about them. You can explore the course, Marketing Tools: Social Media. Now you don't build a following overnight, but if you follow these steps, you'll find that your audience can grow, well, faster than you think.
+
+--------------------------
+
 ## 8. Digital Marketing with Email
 * The power of email marketing
 * How to develop an email marketing plan
 * How to measure the success of email
 * How to launch successful campaigns: Email tools
+
+--------------------------
+
 ## 9. Marketing Analytics Skills
 * How to decide what to track with marketing analytics
 * How to generate reports for marketing analytics
+
+--------------------------
+
+
 ## 10. Conclusion
 * How to continually build digital marketing skills
