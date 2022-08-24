@@ -5,6 +5,7 @@ sitemap: false
 ---
 
 ## Outline
+
 **0. Introduction**
 **1. The Digital Marketing Framework**
 **2. Digital Marketing Basics**
