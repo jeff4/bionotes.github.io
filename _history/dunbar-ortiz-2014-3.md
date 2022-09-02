@@ -336,7 +336,7 @@ sitemap: false
 ### 'We Wish to Continue to Exist' p.202
 
 * "The question of self-determination of peoples is a recent historical phenomenon integral both to the formation of modern European nation-states and to the gradual formation of an imperialist world system eventually led by the United States. 
-* "National integration and state formation occurred first in western Europe as its states estab­ lished colonies and colonial regimes in Africa, Asia, the Pacific, the Americas, and the Caribbean, and as the United States established itself as an independent state. 
+* "National integration and state formation occurred first in western Europe as its states established colonies and colonial regimes in Africa, Asia, the Pacific, the Americas, and the Caribbean, and as the United States established itself as an independent state. 
 * "These conquests afforded European states and the United States access to vast resources and labor that in turn allowed them to industrialize and to create efficient bureaucratic structures and political republicanism. 
 * "At the end of this process, with decolonization of European holdings in the twentieth century, self-determination became a major global issue eventually incorporating all human beings as citizens of nation-states. 
 * "The creation of nation-states and the redrawing of national boundaries that this often entailed inevitably raised the questions of which national, ethnic, religious, and linguistic communities were included and whether their consent or participation would be required. 
