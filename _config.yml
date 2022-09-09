@@ -8,5 +8,6 @@ include:
   - _other
   - _comp
   - _history
+  - _marketing
 plugins:
   - jekyll-sitemap
