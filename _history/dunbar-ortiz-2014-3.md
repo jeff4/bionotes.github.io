@@ -414,10 +414,10 @@ sitemap: false
 
 ### The Narrative of Dysfunction p.211
 
-* "The mainstream media and books regularly expose and denounce the poverty and social dysfunction found in Indigenous communities. Rates of alcoholism and suicide are far higher than national averages, and higher even than in other communities living in poverty. 
-* "In a book of case studies of poverty and neglected sites of deterioration in the United States, journalist Chris Hedges offered an impassioned account of the Pine Ridge Reservation. As well-meaning and accurate as such portrayals are, however, they miss the specific circumstances that reproduce Indigenous poverty and social scarring--namely, the colonial condition. 
-* "As Vine Deloria Jr. and other Native American activists and scholars have emphasized, there is a direct link between the suppression of Indigenous sovereignty and the powerlessness manifest in depressed social conditions. 
-* "Deloria Jr. explained that for the Sioux, everyone has responsibility and rituals to perform that involve a particular geography. In their case, this means sites in the Black Hills: 'Some of the holy men up there will say that a lot of the social problems with the Sioux are the result of losing the Black Hills, so you couldn't perform your duties and become a contributor to the ongoing creation. And consequently, people began to fall away and they started to suffer and they started to fight among themselves.' 
+* "The **mainstream media and books regularly expose and denounce the poverty and social dysfunction found in Indigenous communities**. Rates of alcoholism and suicide are far higher than national averages, and higher even than in other communities living in poverty. 
+* "In a book of case studies of poverty and neglected sites of deterioration in the United States, journalist Chris Hedges offered an impassioned account of the Pine Ridge Reservation. As well-meaning and accurate as such portrayals are, however, **they miss the specific circumstances that reproduce Indigenous poverty and social scarring--namely, the colonial condition**. 
+* "As Vine Deloria Jr. and other Native American activists and scholars have emphasized, there is a **direct link between the suppression of Indigenous sovereignty and the powerlessness manifest in depressed social conditions**. 
+* "Deloria Jr. explained that for the Sioux, everyone has responsibility and rituals to perform that involve a particular geography. In their case, this means sites in the Black Hills: *Some of the holy men up there will say that a lot of the social problems with the Sioux are the result of losing the Black Hills, so you couldn't perform your duties and become a contributor to the ongoing creation. And consequently, people began to fall away and they started to suffer and they started to fight among themselves.* 
 
 -----------
 
