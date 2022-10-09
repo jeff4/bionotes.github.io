@@ -20,7 +20,7 @@ sitemap: false
 * **Chapter 6**: The Last of the Mohicans and Andrew Jackson's White Republic p. 95
 * **Chapter 7**: Sea to Shining Sea p. 117
 * **Chapter 8**: "Indian Country" p. 133
-* **Chapter 9**:  US Triumphalism and Peacetime Colonialism p. 162
+* **Chapter 9**:  US Triumphalism and Peacetime Coonialism p. 162
 * **Chapter 10**:  Ghost Dance Prophecy: A Nation is Coming p. 178
 * **Chapter 11**:  The Doctrine of Discovery p. 197
 * **Conclusion**: The Future of the United States p. 218
@@ -426,10 +426,11 @@ sitemap: false
 
 ------------
 
-* "In 2002, a coalition of Indigenous groups started the Boarding School Healing Project, which documented through research and oral history the extensive abuses that go beyond individual casualties to disruption of Indigenous life at every level. Sun Elk was the first child from the very traditional Taos Pueblo to attend the Carlisle Indian Industrial School, spending seven years there beginning in 1883. After a harsh reentry into Taos society, he told his story:
-	> *They told us that Indian ways were bad. They said we must get civilized. I remember that word too. It means "be like the white man." I am willing to be like the white man, but I did not believe Indians' ways were wrong. But they kept teach­ ing us for seven years. And the books told how bad the In­ dians had been to the white men-burning their towns and killing their women and children. But I had seen white men do that to Indians. We all wore white man's clothes and ate white man's food and went to white man's churches and spoke white man's talk. And so after a while we also be­ gan to say Indians were bad. We laughed at our own people and their blankets and cooking pots and sacred societies and dances.*
-* "
-Corporal punishment was unknown in Indigenous families but was routine in the boarding schools. Often punishment was inflicted for being "too Indian"-the darker the child, the more often and severe the beatings. The children were made to feel that it was crimi­ nal to be Indian.26 A woman whose mother experienced boarding school related the results:
+* "In 2002, a coalition of Indigenous groups started the Boarding School Healing Project, which documented through research and oral history the extensive abuses that go beyond individual casualties to disruption of Indigenous life at every level. 
+* "Sun Elk was the first child from the very traditional Taos Pueblo to attend the Carlisle Indian Industrial School, spending seven years there beginning in 1883. After a harsh reentry into Taos society, he told his story:
+	> *They told us that Indian ways were bad. They said we must get civilized. I remember that word too. It means 'be like the white man.' I am willing to be like the white man, but **I did not believe Indians' ways were wrong.*** 
+	> *But they kept teaching us for seven years. And the books told how bad the Indians had been to the white men--burning their towns and killing their women and children. **But I had seen white men do that to Indians.** We all wore white man's clothes and ate white man's food and **went to white man's churches and spoke white man's talk. And so after a while we also began to say Indians were bad. We laughed at our own people and their blankets and cooking pots and sacred societies and dances.*
+* "Corporal punishment was unknown in Indigenous families but was routine in the boarding schools. Often punishment was inflicted for being "too Indian"-the darker the child, the more often and severe the beatings. The children were made to feel that it was crimi­ nal to be Indian.26 A woman whose mother experienced boarding school related the results:
 	> *Probably my mother and...er brothers and sisters were the first in our family to go to boarding school...And the stories she told...were horrendous. There were beatings. There [was] a very young classmate-I don't know how old they were, probably preschool or grade school-who lost a hand in having to clean this machine that baked bread or cut dough or something, and having to kneel for hours on cold basement floors as punishment...My mother lived with a rage all her life, and I think the fact that they were taken away so young was part of this rage and how it-the fallout-was on us as a family.
 * "Ponca historian Roger Buffalohead verifies that testimony:
 	> *The idea of corporal punishment, so foreign to traditional In­ dian cultures, became a way of life for those students return­ ing from their educational experience.*
