@@ -488,8 +488,9 @@ sitemap: false
 >
 > --Jodi Byrd
 
-* "The conventional narrative of US history routinely segregates the 'Indian wars' as a subspecialization within the dubious category 'the West'. Then there are the westerns, those cheap novels, movies, and television shows that nearly every US American imbibed with mother's milk and that by the mid-twentieth century were popular in every corner of the world. The architecture of US world dominance was designed and tested by this period of continental US militarism, which built on the previous hundred years and generated its own innovations in total war. 
-* "The opening of the twenty-first century saw a new, even more brazen form of US militarism and imperialism explode on the world scene when the election of George W. Bush turned over control of US foreign policy to a long-gestating neoconservative and warmongering faction of the Pentagon and its civilian hawks. Their subsequent eight years of political control included two major military invasions and hundreds of small wars employing US Special Forces around the globe, establishing a template that continued after their political power waned.
+* "The conventional narrative of US history routinely segregates the 'Indian wars' as a subspecialization within the dubious category 'the West'. Then there are the westerns, those cheap novels, movies, and television shows that nearly every US American imbibed with mother's milk and that by the mid-twentieth century were popular in every corner of the world. 
+* "**The architecture of US world dominance was designed and tested by this period of continental US militarism, which built on the previous hundred years and generated its own innovations in total war.** 
+* "The opening of the twenty-first century saw a new, even more brazen form of US militarism and imperialism explode on the world scene when **the election of George W. Bush turned over control of US foreign policy to a long-gestating neoconservative and warmongering faction of the Pentagon and its civilian hawks.** Their subsequent eight years of political control included **two major military invasions and hundreds of small wars employing US Special Forces around the globe**, establishing a template that continued after their political power waned.
 
 ### "Injun Country" p.219
 
