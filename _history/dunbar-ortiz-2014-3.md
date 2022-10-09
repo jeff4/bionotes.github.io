@@ -436,12 +436,19 @@ sitemap: false
 	> *The **idea of corporal punishment--so foreign to traditional Indian cultures--became a way of life for those students returning from their educational experience.*
 	>
 	> *Yet you find by the thirties and forties in most Native communities, where large numbers of young people had, in the previous years, attended boarding schools, **an increasing number of parents who utilized corporal punishment in the raising of their children,** so that although you can't prove a direct connection, I think you can certainly see **that boarding school experiences, where corporal punishment was the name of the game, had [their] impact on the next generations of native people.***
+* "Sexual abuse of both girls and boys was also rampant. One woman remembers:
+	>
+	> *We had many different teachers during those years; some got the girls pregnant and had to leave...One teacher would put his arms around and fondle this girl, sometimes taking her on his lap...When I got there, Mr. M put his arm around me and rubbed my arm all the way down. He rubbed his face against mine.*
+	>
+* "At one mission school, a priest was known for his sexual advances:
+	>
+	> *Anyway, I ended up beside him [the priest]...and all of a sudden he started to feel my legs...I was getting really uncomfortable and he started trying to put his hands in my pant.*
+	>
+* "Nuns also participated in sexual abuse: 'A nun was sponge bathing me and proceeded to go a little too far with her sponge bathing. So I pushed her hand away. She held my legs apart while she strapped the insides of my thighs. I never stopped her again.'
 
 ------------
 
-* "Sexual abuse of both girls and boys was also rampant. One woman remembers:
-* "At one mission school, a priest was known for his sexual advances:
-* "Much documentation and testimony attest to the never-ending resistance by children in boarding schools. Running away was the most common way to resist, but there were also acts of nonparticipa­ tion and sabotage, secretly speaking their languages and practicing ceremonies. This surely accounts for their survival, but the damage is nearly incomprehensible. Mohawk historian Taiaiake Alfred asks:
+* "Much documentation and testimony attest to the never-ending resistance by children in boarding schools. Running away was the most common way to resist, but there were also acts of nonparticipation and sabotage, secretly speaking their languages and practicing ceremonies. This surely accounts for their survival, but the damage is nearly incomprehensible. Mohawk historian Taiaiake Alfred asks:
 	> *What is the legacy of colonialism? Dispossession, disempowerment, and disease inflicted by the white man, to be sure...**Yet the enemy is in plain view: residential schools, racism, expropriation, extinguishment, warship, welfare**.*
 * "Indigenous women, in particular, have continued to bear the brunt of sexual violence, both within families and by settler preda­ tors. Incidence of rape on reservations has long been astronomical. The colonialist restrictions on Indigenous policing authority on reservations-yet another legacy of the Doctrine of Discovery and the impairment of Indigenous sovereignty-opened the door to perpetrators of sexual violence who knew there would be no con­ sequences for their actions.32 Under the US colonial system, jurisdic­ tion for crimes committed on Native lands falls to federal and state authorities because Native justice can be applied only to reserva­ tion residents, and then only for misdemeanors. One in three Native American women has been raped or experienced attempted rape, and the rate of sexual assault on Native American women is more than twice the national average. For five years after publication of a scathing 2007 report by Amnesty International, Native American and women's organizations, including the National Organization for Women (NOW), lobbied Congress to add a new section to the
 1994 Violence Against Women Act (VAWA) addressing the special situation of Native American women living on reservations.33 The added provision would allow Native nations' courts jurisdiction to arrest and prosecute non-Native men who enter reservations and commit rape. At the end of 2012, the Republican-dominated US Congress denied reauthorization of the VAWA, because it included the provision. In March 2013, however, that opposition was over­ come, and President Barack Obama signed the amended act back into law-a small step forward for Native sovereignty.
