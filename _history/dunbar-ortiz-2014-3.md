@@ -513,8 +513,8 @@ sitemap: false
 * "Kaplan summarizes the genealogy of US militarism today:
 	> *Whereas the average American at the dawn of the new millennium found patriotic inspiration in the legacies of the Civil War and World War II, when the evils of slavery and fascism were confronted and vanquished, for many commissioned and noncommissioned officers the U.S. Army's defining moment was fighting the 'Indians'.
 	>
-	> *The legacy of the Indian wars was palpable in the numer­ ous military bases spread across the South, the Middle West, and particularly the Great Plains: that vast desert and steppe comprising the Army's historical 'heartland,' punctuated by such storied outposts as Forts Hays, Kearney, Leavenworth, Riley, and Sill.*
+	> *The legacy of the Indian wars was palpable in the numer­ous military bases spread across the South, the Middle West, and particularly the Great Plains: that vast desert and steppe comprising the Army's historical 'heartland,' punctuated by such storied outposts as Forts Hays, Kearney, Leavenworth, Riley, and Sill.*
 	>
-	> *Leavenworth, where the Oregon and Santa Fe trails separated, was now the home of the Army's Command and General Staff College; Riley, the base of George Arm­ strong Custer's 7th Cavalry, now that of the lSt Infantry Division; and Sill, where Geronimo lived out the last years of his life, the headquarters of the U.S. Artillery...*
+	> *Leavenworth, where the Oregon and Santa Fe trails separated, was now the home of the Army's Command and General Staff College; Riley, the base of George Arm­strong Custer's 7th Cavalry, now that of the lSt Infantry Division; and Sill, where Geronimo lived out the last years of his life, the headquarters of the U.S. Artillery...*
 	>
 	> *While **microscopic in size, it was the fast and irregular military actions against the Indians,** memorialized in bronze and oil by Remington,**that shaped the nature of American nationalism**.*
