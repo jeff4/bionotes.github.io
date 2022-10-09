@@ -507,3 +507,14 @@ sitemap: false
 	>
 	> ***Welcome to Injun Country** was the refrain I heard from troops from Colombia to the Philippines, including Afghanistan and Iraq. To be sure, the problem for the American military was less [Islamic] fundamentalism than anarchy. The War on Terrorism was really about taming the frontier.*
 * "Kaplan goes on to ridicule 'elites in New York and Washington' who debate imperialism in 'grand, historical terms', while individuals in the armed services interpret policy according to the particular circumstances they face and are **indifferent to or unaware of the fact that they are part of an imperialist project**.
+* "**Kaplan challenges the concept of manifest destiny, arguing that 'it was not inevitable that the United States should have an empire in the western part of the continent.'**
+* "Rather, he argues, western empire was brought about by 'small groups of frontiersmen, separated from each other by great distances.' Here Kaplan refers to what Grenier calls settlers 'rangers,' **destroying Indigenous towns and fields and food supplies.** 
+* "Although Kaplan downplays the role of the US Army compared to the settler vigilantes--which he equates to the modern Special Forces--he acknowledges that the regular army provided lethal backup for settler counterinsurgency in slaughtering the buffalo, the food supply of Plains peoples, as well as making continuous raids on settlements to kill or confine the families of the Indigenous fighters. 
+* "Kaplan summarizes the genealogy of US militarism today:
+	> *Whereas the average American at the dawn of the new millennium found patriotic inspiration in the legacies of the Civil War and World War II, when the evils of slavery and fascism were confronted and vanquished, for many commissioned and noncommissioned officers the U.S. Army's defining moment was fighting the 'Indians'.
+	>
+	> *The legacy of the Indian wars was palpable in the numer­ ous military bases spread across the South, the Middle West, and particularly the Great Plains: that vast desert and steppe comprising the Army's historical 'heartland,' punctuated by such storied outposts as Forts Hays, Kearney, Leavenworth, Riley, and Sill.*
+	>
+	> *Leavenworth, where the Oregon and Santa Fe trails separated, was now the home of the Army's Command and General Staff College; Riley, the base of George Arm­ strong Custer's 7th Cavalry, now that of the lSt Infantry Division; and Sill, where Geronimo lived out the last years of his life, the headquarters of the U.S. Artillery...*
+	>
+	> *While **microscopic in size, it was the fast and irregular military actions against the Indians,** memorialized in bronze and oil by Remington,**that shaped the nature of American nationalism**.*
