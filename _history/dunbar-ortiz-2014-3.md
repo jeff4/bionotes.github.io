@@ -455,12 +455,11 @@ sitemap: false
 ### Indigenous Governance p.215
 
 * "For generations, Native nations, occasionally with the help of federal or state government, treated the symptoms of colonialism. 
-* "But with the powerful Indigenous self-determination movements of the second half of the twentieth century, those nations participated in drafting and instituting new international law that supports their aspirations, and they began working on shoring up their sovereignty through governance. 
-* "Through this work, US Indigenous peoples have reconceptualized their current forms of government based on new constitutions that reflect their specific cultures. Navajo thinking on a future constitution expresses that desire. 
-* "Like some other Native nations, the Navajo--the most populous and the one holding the largest land base in the United States--has never had a constitution. But others do have constitutions similar to that of the United States. 
-* "Nearly sixty Native nations adopted constitutions before 1934. 
-* "Following the Indian Reorganization Act of that year, another 130 nations wrote constitutions according to federal guidelines but without significant participation of their citizenry. 
-* "The movement to create, revise, or rewrite constitutions has seen notable success in two instances during the first decade of the twenty-first century.
+* "But with the powerful Indigenous self-determination movements of the second half of the twentieth century, **those nations participated in drafting and instituting new international law that supports their aspirations**, and they began working on shoring up their **sovereignty through governance**. 
+* "Through this work, US Indigenous peoples have reconceptualized their current forms of government based on new constitutions that reflect their specific cultures. 
+* "**Navajo thinking on a future constitution expresses that desire.** Like some other Native nations, the Navajo--the most populous and the one holding the largest land base in the United States--has never had a constitution. But others do have constitutions similar to that of the United States. 
+* "**Nearly sixty Native nations adopted constitutions before 1934.** Following the Indian Reorganization Act of that year, another 130 nations wrote constitutions according to federal guidelines but without significant participation of their citizenry. 
+* "The movement to create, revise, or rewrite constitutions has seen **notable success in two instances** during the first decade of the twenty-first century.
 * "From 2004 to 2006, **the Osage Nation**--located in northeastern Oklahoma--engaged in a contentious process of reform that produced a new constitution. The preamble reflects the extraordinary context and content of the new law:
 	> *We the Wah-zha-zhe, known as the Osage People, having formed as Clans in the far distant past, have **been a People and as a People have walked this earth and enjoyed the blessing of Wah-kon-tah for more centuries than we truly know**.*
 	>
