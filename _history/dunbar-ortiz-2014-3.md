@@ -452,11 +452,6 @@ sitemap: false
 * "For five years after publication of a scathing 2007 report by Amnesty International, Native American and women's organizations, including the National Organization for Women (NOW), lobbied Congress to add a new section to the 1994 Violence Against Women Act (VAWA) addressing the special situation of Native American women living on reservations.
 * "The added provision would allow Native nations' courts jurisdiction to arrest and prosecute non-Native men who enter reservations and commit rape. **At the end of 2012, the Republican-dominated US Congress denied reauthorization of the VAWA, because it included the provision.** In March 2013, however, that opposition was overcome, and President Barack Obama signed the amended act back into law-a small step forward for Native sovereignty.
 
-
-------------
-
-
-
 ### Indigenous Governance p.215
 
 * "For generations, Native nations, occasionally with the help of federal or state government, treated the symptoms of colonialism. But with the powerful Indigenous self-determination movements of the second half of the twentieth century, those nations participated in drafting and instituting new international law that supports their aspirations, and they began working on shoring up their sovereignty through governance. 
@@ -472,3 +467,23 @@ sitemap: false
 	> *This Constitution, created by the Osage People, hereby grants to every Osage citizen a vote that is equal to all others and form a government that is accountable to the citizens of the Osage Nation.*
 	> *We, the Osage People, based on centuries of being a People, now strengthen our government in order to preserve and perpetuate a full and abundant Osage way of life that benefits all Osages, living and as yet unborn.*
 * "Similarly--in 2009--the White Earth Nation of the Anishinaabeg (Ojibwe people) adopted a new constitution. White Earth is located in central Minnesota and is one of a number of Anishinaabe reservations in Minnesota, with others in Wisconsin, South Dakota, and Canada. The preamble to the White Earth constitution is revealing:
+	> The Anishinaabeg of the White Earth Nation are the ances­ tors of a great tradition of continental liberty, a native con­ stitution of families, totemic associations. The Anishinaabeg create stories of natural reason, of courage, loyalty, humor, spiritual inspiration, survivance, reciprocal altruism, and na­ tive cultural sovereignty.
+	>
+	> We the Anishinaabeg of the White Earth Nation in order to secure an inherent and essential sovereignty, to promote traditions of liberty, justice, and peace, and reserve common resources, and to ensure the inalienable rights of native gov­ ernance for our posterity, do constitute, ordain, and establish this Constitution of the White Earth Nation.
+* "Gerald Vizenor, a citizen of the White Earth Nation, best-sell­ ing author, and leading intellectual, participated in the writing of this constitution. Explaining the concept of 'survivance,' a term he coined, he stresses that it originates in Indigenous narratives:  
+	> *conventions of survivance create a sense of Native presence over nihility and victory. Survivance is an active presence: it is not ab­ sence, deracination, or ethnographic oblivion, and survivance is the continuance of narratives, not a mere reaction, however pertinent. Survivance stories are renunciations of dominance, the unbearable sentiments of tragedy, and the legacy of victimry.
+* "The Doctrine of Discovery is dissolving in light of these profound acts of sovereignty. But neither arcane colonial laws nor the his­ torical trauma of genocide simply disappear with time, certainly not when conditions of life and consciousness perpetuate them. The Indigenous self-determination and sovereignty movement is not only transforming the continent's Indigenous communities and nations but also, inevitably, the United States. The ways it is doing that are explored in the concluding chapter.
+
+
+----------
+
+## Conclusion: The Future of the United States p. 218
+
+> *That the continued colonization ofAmerican Indian nations, peoples, and lands provides the United States the economic and material resources needed to cast its imperialist gaze globally is a fact that is simultaneously obvious within-- and yet continually obscured by--what is essentially a settler colony's national construction of itself as an ever more perfect multicultural, multiracial democracy...The status of American Indians as sovereign natinos colonized by the United States continues to haunt and infect its raison d'etre.*
+>
+> --Jodi Byrd
+
+* "The conventional narrative of US history routinely segregates the 'Indian wars' as a subspecialization within the dubious category 'the West'. Then there are the westerns, those cheap novels, movies, and television shows that nearly every US American imbibed with mother's milk and that by the mid-twentieth century were popular in every corner of the world. The architecture of US world dominance was designed and tested by this period of continental US militarism, which built on the previous hundred years and generated its own innovations in total war. 
+* "The opening of the twenty-first century saw a new, even more brazen form of US militarism and imperialism explode on the world scene when the election of George W. Bush turned over control of US foreign policy to a long-gestating neoconservative and warmongering faction of the Pentagon and its civilian hawks. Their subsequent eight years of political control included two major military invasions and hundreds of small wars employing US Special Forces around the globe, establishing a template that continued after their political power waned.
+
+### "Injun Country" p.219
