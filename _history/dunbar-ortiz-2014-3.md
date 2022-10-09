@@ -423,19 +423,22 @@ sitemap: false
 * "The effects of continued colonization form similar patterns among Indigenous communities throughout the Americas, as well as among the Maori of New Zealand and the Australian Aborigines.
 * "The experience of generations of Native Americans in **on- and off-reservation boarding schools, run by the federal government or Christian missions, contributed significantly to the family and social dysfunction still found in Native communities.** 
 * "Generations of child abuse, including sexual abuse--from **the founding of the first schools by missionaries in the 1830s and the federal government in 1875 until most were closed and the remaining ones reformed in the l970s**--traumatized survivors and their progeny. 
-
-------------
-
 * "In 2002, a coalition of Indigenous groups started the Boarding School Healing Project, which documented through research and oral history the extensive abuses that go beyond individual casualties to disruption of Indigenous life at every level. 
 * "Sun Elk was the first child from the very traditional Taos Pueblo to attend the Carlisle Indian Industrial School, spending seven years there beginning in 1883. After a harsh reentry into Taos society, he told his story:
 	> *They told us that Indian ways were bad. They said we must get civilized. I remember that word too. It means 'be like the white man.' I am willing to be like the white man, but **I did not believe Indians' ways were wrong.*** 
 	>
 	> *But they kept teaching us for seven years. And the books told how bad the Indians had been to the white men--burning their towns and killing their women and children. **But I had seen white men do that to Indians.** We all wore white man's clothes and ate white man's food and **went to white man's churches and spoke white man's talk. And so after a while we also began to say Indians were bad. We laughed at our own people and their blankets and cooking pots and sacred societies and dances.*
-* "Corporal punishment was unknown in Indigenous families but was routine in the boarding schools. Often punishment was inflicted for being "too Indian"-the darker the child, the more often and severe the beatings. The children were made to feel that it was crimi­ nal to be Indian.26 A woman whose mother experienced boarding school related the results:
-	> *Probably my mother and...er brothers and sisters were the first in our family to go to boarding school...And the stories she told...were horrendous. There were beatings. There [was] a very young classmate-I don't know how old they were, probably preschool or grade school-who lost a hand in having to clean this machine that baked bread or cut dough or something, and having to kneel for hours on cold basement floors as punishment...My mother lived with a rage all her life, and I think the fact that they were taken away so young was part of this rage and how it-the fallout-was on us as a family.
+* "**Corporal punishment was unknown in Indigenous families but was routine in the boarding schools.** Often punishment was inflicted for being 'too Indian'--the darker the child, the more often and severe the beatings. **The children were made to feel that it was criminal to be Indian.** A woman whose mother experienced boarding school related the results:
+	> *Probably my mother and...her brothers and sisters were the first in our family to go to boarding school...And the stories she told...were horrendous. There were beatings. There [was] a very young classmate--I don't know how old they were, probably preschool or grade school--who lost a hand in having to clean this machine that baked bread or cut dough or something, and having to kneel for hours on cold basement floors as punishment.
+	>
+	> ***My mother lived with a rage all her life,** and I think the fact that they were taken away so young was part of this rage and how it--the fallout--was on us as a family.*
 * "Ponca historian Roger Buffalohead verifies that testimony:
-	> *The idea of corporal punishment, so foreign to traditional In­ dian cultures, became a way of life for those students return­ ing from their educational experience.*
-	> *Yet you find by the thirties and forties in most Native communities, where large numbers of young people had, in the previous years, attended boarding schools, an increasing number of parents who utilized corporal punishment in the raising of their children, so that although you can't prove a direct connection, I think you can certainly see that boarding school experiences, where corporal punishment was the name of the game, had [their] impact on the next generations of na­ tive people.*
+	> *The **idea of corporal punishment--so foreign to traditional Indian cultures--became a way of life for those students returning from their educational experience.*
+	>
+	> *Yet you find by the thirties and forties in most Native communities, where large numbers of young people had, in the previous years, attended boarding schools, **an increasing number of parents who utilized corporal punishment in the raising of their children,** so that although you can't prove a direct connection, I think you can certainly see **that boarding school experiences, where corporal punishment was the name of the game, had [their] impact on the next generations of native people.***
+
+------------
+
 * "Sexual abuse of both girls and boys was also rampant. One woman remembers:
 * "At one mission school, a priest was known for his sexual advances:
 * "Much documentation and testimony attest to the never-ending resistance by children in boarding schools. Running away was the most common way to resist, but there were also acts of nonparticipa­ tion and sabotage, secretly speaking their languages and practicing ceremonies. This surely accounts for their survival, but the damage is nearly incomprehensible. Mohawk historian Taiaiake Alfred asks:
