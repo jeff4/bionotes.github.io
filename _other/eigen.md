@@ -23,7 +23,7 @@ permalink: /eigen/
 * **Notebook 17** / November 2019 - March 2020 / 
 * **Notebook 18** / 2020: March - September / 
 * **Notebook 19** / September 2020 - August 2021 / 
-* **Notebook 20** / August 2021 / 
+* **Notebook 20** / August 2021 - December 2022 /
 
 ## Linear Algebra Done Right
 * Review of T-invariant subspaces, eigenvalues, eigenvectors, and eigenspaces
