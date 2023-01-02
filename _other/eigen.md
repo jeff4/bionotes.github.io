@@ -57,3 +57,6 @@ permalink: /eigen/
 * 9/04: Day 1 of Axler, Chapter 5 on IG
 * 9/05: Day 2 of Axler. Building momentum in understanding how all pieces of chapter 5 fit together.
 * 9/06: Day 3 of Axler on IG.
+
+### 2023 Log
+* 1/01/2023 [notes on Peano's Axioms](https://www2.hawaii.edu/~robertop/Courses/TMP/7_Peano_Axioms.pdf) used to formally develop set of natural numbers and related operations at [University of Hawaii site](https://www2.hawaii.edu/~robertop/pelayo.html).
