@@ -61,3 +61,4 @@ permalink: /eigen/
 ### 2023 Log
 * 1/01/2023 [notes on Peano's Axioms](https://www2.hawaii.edu/~robertop/Courses/TMP/7_Peano_Axioms.pdf) used to formally develop set of natural numbers and related operations by [Roberto Pelayo](https://www2.hawaii.edu/~robertop/pelayo.html) [University of Hawaii site](https://www2.hawaii.edu/~robertop/pelayo.html).
 * 1/02 continued on Pelayo's treatment of Peano's Axioms
+* 1/03 more on successor functions S()
