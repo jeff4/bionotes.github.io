@@ -65,4 +65,4 @@ permalink: /eigen/
 * 1/04 Downloaded [history of science/math article](https://www.academia.edu/1530661/Peanos_axioms_in_their_historical_context) by Michael Segre. Extensive paper: *Peano's Axiom's in their Historical Context* (1994)
 * 1/06 downloaded [12 articles about Peano](https://hubertkennedy.angelfire.com/TwelveArticles.pdf) collected by [Hubert Kennedy](https://en.wikipedia.org/wiki/Hubert_Kennedy) in context from wiki article on [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano)
 * 1/07 More progress on Segre paper
-* 1/08 From Pelayo, Axiom 9: If *V* is an inductive set, then **N** is a proper subset of *V* aka **N** &#8834; *V*.
+* 1/08 From Pelayo, Axiom 9: If *V* is an inductive set, then **N** is a proper subset of *V*. Alternately, **N** &#8834; *V* where *V* is an inductive set.
