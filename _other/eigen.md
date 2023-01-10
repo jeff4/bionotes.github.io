@@ -67,3 +67,4 @@ permalink: /eigen/
 * 1/07 More progress on Segre paper
 * 1/08 From Pelayo, Axiom 9: If *V* is an inductive set, then **N** is a proper subset of *V*. Alternately, **N** &#8834; *V* where *V* is an inductive set.
 * 1/09 Peano first introduced the union and intersection notation commonly used today per Segre
+* 1/10 More Segre / Peano
