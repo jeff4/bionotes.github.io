@@ -17,3 +17,4 @@ permalink: /greengrass-2014/
 * 1/11 Began *Christendom Destroyed 1517 - 1648*
 * 1/13/2023 Began CV Woodward's *The Thirty Year's War* (1936)
 * 1/15/2023 Kobo version
+* 1/18 Read about minting, coins, monetary systems
