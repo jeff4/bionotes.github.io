@@ -18,3 +18,4 @@ permalink: /greengrass-2014/
 * 1/13/2023 Began CV Woodward's *The Thirty Year's War* (1936)
 * 1/15/2023 Kobo version
 * 1/18 Read about minting, coins, monetary systems
+* 1/19 skipped to end of monetary chapter, began chapter on colonization
