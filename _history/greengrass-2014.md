@@ -21,3 +21,4 @@ permalink: /greengrass-2014/
 * 1/19 skipped to end of monetary chapter, began chapter on colonization
 * 1/20 began chapter on science, natural philosophy, botany
 * 1/21 more on science chapter
+* 1/22 Began [episode on Vikings](https://www.dancarlin.com/product/hardcore-history-69-twilight-of-the-aesir/)
