@@ -71,3 +71,4 @@ permalink: /eigen/
 * 1/16 Review of how to integrate all 9 axioms
 * 1/23 Jacobson treatment of Peano post-Pelayo
 * 1/24 Exercises on Jacobson p. 19
+* 1/25 Proof of addition for **N** as developed by Pelayo
