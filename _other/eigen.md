@@ -72,3 +72,4 @@ permalink: /eigen/
 * 1/23 Jacobson treatment of Peano post-Pelayo
 * 1/24 Exercises on Jacobson p. 19
 * 1/25 Proof of addition for **N** as developed by Pelayo
+* 1/26 additional examples of iterated addition per Pelayo
