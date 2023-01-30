@@ -3,6 +3,9 @@ title: Comp Notes
 permalink: /comp_notes/
 ---
 
+## 2023 Log
+* 1/29/2023 - set up new Mac Studio
+
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
 * 7/11 Research into WebAuthn
