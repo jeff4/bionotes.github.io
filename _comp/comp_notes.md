@@ -6,6 +6,7 @@ permalink: /comp_notes/
 ## 2023 Log
 * 1/29/2023 - set up new Mac Studio
 * 1/31 - more on fish shell etc.
+* 2/01	- Experiments with Stable Diffusion / DiffusionBee
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
