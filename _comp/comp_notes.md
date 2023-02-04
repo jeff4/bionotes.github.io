@@ -9,6 +9,7 @@ permalink: /comp_notes/
 * 2/01	- Experiments with Stable Diffusion / DiffusionBee
 * 2/02 - podcast discussion. Difference between [GAN and diffusion model](https://octoml.ai/blog/from-gans-to-stable-diffusion-the-history-hype-and-promise-of-generative-ai/)
 * 2/03 - more fish
+* 2/04 - Read some earlier papers on diffusion
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
