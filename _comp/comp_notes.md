@@ -11,7 +11,7 @@ permalink: /comp_notes/
 * 2/03 - more fish
 * 2/04 - Read some earlier papers on diffusion
 * 2/05 - [2015 original paper](https://arxiv.org/abs/1503.03585) on diffusion by Sohl-Dickstein, Weiss, et al "Deep Unsupervised Learning using Nonequilibrium Thermodynamics"
-* 2/08 - first recording, set up website
+* 2/08 - first recording, set up website. more recording
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
