@@ -14,6 +14,7 @@ permalink: /comp_notes/
 * 2/09 - Got stable diffusion working on the Mac Studio and documented all the steps.
 * 2/10 - sf.org domain assigned to libsyn. researched miniconda / minimamba as alternatives.
 * 2/11 - plan: use brew to install mamba, pip (for python only libraries that are not in mamba/conda). Uninstall everything else except for npm 
+* 2/12 - Review Goodfellow, Bengio, and Courville on history of autoencoders
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
