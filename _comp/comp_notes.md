@@ -8,12 +8,12 @@ permalink: /comp_notes/
 * 1/31 - more on fish shell etc.
 * 2/01	- Experiments with Stable Diffusion / DiffusionBee
 * 2/02 - podcast discussion. Difference between [GAN and diffusion model](https://octoml.ai/blog/from-gans-to-stable-diffusion-the-history-hype-and-promise-of-generative-ai/)
-* 2/03 - more fish
 * 2/04 - Read some earlier papers on diffusion
 * 2/05 - [2015 original paper](https://arxiv.org/abs/1503.03585) on diffusion by Sohl-Dickstein, Weiss, et al "Deep Unsupervised Learning using Nonequilibrium Thermodynamics"
 * 2/08 - set up website. tested with libsyn and riverside
 * 2/09 - Got stable diffusion working on the Mac Studio and documented all the steps.
-* 2/10 - sf.org domain assigned to libsyn. researched miniconda / minimamba as alternatives. 
+* 2/10 - sf.org domain assigned to libsyn. researched miniconda / minimamba as alternatives.
+* 2/11 - plan: use brew to install mamba, pip (for python only libraries that are not in mamba/conda). Uninstall everything else except for npm 
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
