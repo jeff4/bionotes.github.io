@@ -16,6 +16,7 @@ permalink: /comp_notes/
 * 2/11 - plan: use brew to install mamba, pip (for python only libraries that are not in mamba/conda). Uninstall everything else except for npm 
 * 2/12 - Review Goodfellow, Bengio, and Courville on history of autoencoders
 * 2/13 - more GBC on autoencoders, refers to GOFAI/symbolic approach as "knowledge base" approach. But I think KB was really an 80s subset of symbolic overall approach.
+* 2/14 - Final version of sf.o e1
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
