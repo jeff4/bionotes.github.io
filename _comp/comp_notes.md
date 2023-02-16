@@ -17,6 +17,7 @@ permalink: /comp_notes/
 * 2/12 - Review Goodfellow, Bengio, and Courville on history of autoencoders
 * 2/13 - more GBC on autoencoders, refers to GOFAI/symbolic approach as "knowledge base" approach. But I think KB was really an 80s subset of symbolic overall approach.
 * 2/14 - Final version of sf.o e1
+* 2/15 - SF podcast now syndicated to Apple, Spotify, Overcast, etc.
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
