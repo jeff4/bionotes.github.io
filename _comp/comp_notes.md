@@ -19,6 +19,7 @@ permalink: /comp_notes/
 * 2/14 - Final version of sf.o e1
 * 2/15 - SF podcast now syndicated to Apple, Spotify, Overcast, etc.
 * 2/17 - more eleventy
+* 2/18 - more eleventy
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
