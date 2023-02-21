@@ -18,7 +18,8 @@ permalink: /comp_notes/
 * 2/13 - more GBC on autoencoders, refers to GOFAI/symbolic approach as "knowledge base" approach. But I think KB was really an 80s subset of symbolic overall approach.
 * 2/14 - Final version of sf.o e1
 * 2/15 - SF podcast now syndicated to Apple, Spotify, Overcast, etc.
-* 2/17 - 21 more eleventy
+* 2/17 - 20 more eleventy
+* 2/21 - read [Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) and [Murray Shanhan](https://arxiv.org/abs/2212.03551) Feb 2023 articles on LLM
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
