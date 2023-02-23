@@ -20,6 +20,7 @@ permalink: /comp_notes/
 * 2/15 - SF podcast now syndicated to Apple, Spotify, Overcast, etc.
 * 2/17 - 20 more eleventy
 * 2/21 - read [Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) and [Murray Shanhan](https://arxiv.org/abs/2212.03551) Feb 2023 articles on LLM
+* 2/23 - more articles on history of BERT, transformers, MUM, etc.
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
