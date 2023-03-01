@@ -34,7 +34,7 @@ permalink: /comp_notes/
 * 2/27 More courses found
 	* **Good eleventy [walkthrough](https://rphunt.github.io/eleventy-walkthrough/template-files.html) with clear organization**, explanation of data files etc
 	* good default [directory structure](https://www.webstoemp.com/blog/eleventy-projects-structure/) from webstoemp
-* 2/28 set up new computer. Got Stable Diffusion working fast!
+* 2/28 set up new computer. Got Stable Diffusion working fast! also set up .vimrc .bash_profile etc.
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
