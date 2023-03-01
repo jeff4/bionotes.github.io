@@ -31,7 +31,10 @@ permalink: /comp_notes/
 	* Zach Leatherman's January 2018 tutorials: [Level 1](https://www.zachleat.com/web/eleventy-tutorial-level-1/) and [Level 2](https://www.zachleat.com/web/eleventy-tutorial-level-2/)
 	* July 2021 [a place for my head](https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/) with references on discord by [Shiv JM](https://shivjm.blog).
 	* July 2022 [Detailed guide](https://5balloons.info/guide-tailwindcss-eleventy-static-site/) to building with 11ty and TailwindCSS by Tgugnani 
-* set up new computer. Got Stable Diffusion working fast!
+* 2/27 More courses found
+	* **Good eleventy [walkthrough](https://rphunt.github.io/eleventy-walkthrough/template-files.html) with clear organization**, explanation of data files etc
+	* good default [directory structure](https://www.webstoemp.com/blog/eleventy-projects-structure/) from webstoemp
+* 2/28 set up new computer. Got Stable Diffusion working fast!
 
 ## 2022 Log
 * 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
