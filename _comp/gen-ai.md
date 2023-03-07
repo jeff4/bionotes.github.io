@@ -37,3 +37,11 @@ permalink: /gen-ai/
 * "These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind.
 * "The uniqueness of a work of art is inseparable from its being imbedded in the fabric of tradition. This tradition itself is thoroughly alive and extremely changeable. An ancient statue of Venus, for example, stood in a different traditional context with the Greeks, who made it an object of veneration, than with the clerics of the Middle Ages, who viewed it as an ominous idol.
 * "
+
+
+### 3/07 links to commentary on papers related to Episode 5
+* Links to bionotes links
+* Adam Gopnik 2023 [article](/gopnik-2023-dalle/)
+* Walter Benjamin [1936](/benjamin-1936/) 
+* Werner Schweibenz [2018](/schweibenz-2018/)
+ 
