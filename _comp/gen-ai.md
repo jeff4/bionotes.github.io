@@ -25,8 +25,8 @@ permalink: /gen-ai/
 
 
 ### 3/07 links to commentary on papers related to Episode 5
-* Links to bionotes links
-* Adam Gopnik 2023 [article](/gopnik-2023-dalle/)
-* Walter Benjamin [1936](/benjamin-1936/) 
-* Werner Schweibenz [2018](/schweibenz-2018/)
+* JH notes on the below articles found here:
+	* Adam Gopnik 2023 [article](/gopnik-2023-dalle/)
+	* Walter Benjamin [1936](/benjamin-1936/) 
+	* Werner Schweibenz [2018](/schweibenz-2018/)
  
