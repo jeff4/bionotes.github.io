@@ -22,6 +22,13 @@ permalink: /schweibenz-2018/
 * Bruce Latour and Adam Lowe argue that this causes a cognitive dissonance, a disruption because the flawless reproduction in the original location seems more 'original' than the distan painting in the louvre.
 * In effect, Benjamin confused the notion of ‘mechanical reproduction’ with the inequality in the techniques employed along a trajectory. No matter how mechanical a reproduction is, once there is no huge gap in the process of production between version n and version n+1, the clear cut distinction between the original and its reproduction becomes less crucial—and the aura begins to hesitate and is uncertain where it should land (Latour and Lowe 2011, p.283).
 
+### Dafen Chinese village of oil painting reproductions
+* Nowadays, an important market for large-scale reproductions already exists in dedicated places, such as the Chinese artist village of Dafen near Shenzhen in Guangdong prov- ince, China, where reproductions are human-made. Indeed, in Dafen paint- ers specialise in the production of large numbers of replicas of oil paintings of public domain artworks, i.e. artworks created over 70 years ago. The high qual- ity reproductions are sold in many coun- tries for a relatively low price. 
+* A reproduction of van Gogh's *Sunflowers*, painted with exactly brush strokes, costs only 40 EUR; and Dafen Village produces some five mil- lion hand-crafted paintings a year, which is supposed to equal 60 per cent of the world market and a volume of sales of 30 million EUR (Dlugaiczyk 2015, p.98f ). These figures enable us to anticipate that there will also be a substantial market for digitally produced high quality three-di- mensional reproductions of artworks, especially with future prices for facsimi- les going down due to the growing avail- ability of high-tech printers.
+* As a consequence of the ever increasing distribution to a wider audience, there can be no doubt that a precise three-dimensional copy will definitely influence the perception and appreciation of artworks and museum objects. The potential impact cannot be overrated, insofar as the dissemination of this specific form of digital reproductions will not be limited to museums, but made into a cultural commodity. However, the production of digital facsimiles will not be the latest technological development. Additionally, there will be digitally created new artworks in the style of long-gone artists as the example of *The Next Rembrandt* indicates.
+
+
+
 ### A Digital Rembrandt 2016
 * "the Next Rembrandt" using 150 GB of graphic data, a deep learning algorithm absorbed 346 Rembrandt paintings, and facial recognition software analyzed 168,263 fragments of scans.
 * 
