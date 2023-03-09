@@ -11,9 +11,9 @@ permalink: /schweibenz-2018/
 ## Examples
 ### da Vinci's The Last Supper 1495-1498 (last few years of the 15th century)
 
-### Vermeer's The Milkmaid 1660
+### Vermeer's [The Milkmaid 1660](https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)
 
-### Veronese's The Wedding at Cana 1563
+### Veronese's [The Wedding at Cana 1563](https://en.wikipedia.org/wiki/The_Wedding_at_Cana)
 * In 1797, Napoloen's armies looted it from Venice and brought it back to France. For the last few hundred years, it's been displayed in the Louvre in Paris.
 * In 2006, a team including the Factum Arte digitally scanned and 'mechanically' reproduced a replica to be placed back in it's original site at the San Giorgio Maggiore cloister in Venice.
 * Bruce Latour and Adam Lowe argue that this causes a cognitive dissonance, a disruption because the flawless reproduction in the original location seems more 'original' than the distan painting in the louvre.
@@ -36,4 +36,4 @@ permalink: /schweibenz-2018/
 
 
 ### DeepArt.io
-* Created by Bethge Lab at the University of Tubingen(Germany), CHILI Lab at the Ecole Polytechnique Federale de Lausanne (Switzerland) and the Catholic University of Louvain in Belgium
+* Created by Bethge Lab at the University of Tubingen(Germany), CHILI Lab at t
