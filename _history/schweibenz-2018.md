@@ -11,7 +11,7 @@ permalink: /schweibenz-2018/
 ## Examples
 ### da Vinci's The Last Supper 1495-1498 (last few years of the 15th century)
 
-### Vermeer's [The Milkmaid 1660](https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)
+### Vermeer's [The Milkmaid 1660](https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer))
 
 ### Veronese's [The Wedding at Cana 1563](https://en.wikipedia.org/wiki/The_Wedding_at_Cana)
 * In 1797, Napoloen's armies looted it from Venice and brought it back to France. For the last few hundred years, it's been displayed in the Louvre in Paris.
