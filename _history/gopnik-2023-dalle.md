@@ -8,7 +8,7 @@ permalink: /gopnik-2023-dalle/
 ## Main ideas
 * Havanese and Avedon
 * is it a lightbulb or is it a lava lamp? But good art is probably more about lava lamps than lightbulbs.
-
+* systems like DALL-E 2 don't operate on light and shadow; they operate on art history
 
 
 # Quotes
