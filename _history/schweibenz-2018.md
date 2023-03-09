@@ -7,9 +7,6 @@ permalink: /schweibenz-2018/
 * Published: January, 2018
 * biography: Werner Schweibenz studied Information Science at the University of Saarland, Germany, and the University of Missouri-Columbia, U.S.  From 2004 to 2007, he coordinated a digitisation project of the photo library at the Kunsthistorisches Institut in Florenz-Max-Planck-Institut. Since 2007, he has been working for MusIS (MuseumsInformationsSystem), a service centre that coordinates the documentation and online exhibitions of the State Museums of Baden-Wuerttemberg in Germany. He is a member of the Competence Network of the German Digital Library (Deutsche Digitale Bibliothek), the country’s portal for cultural heritage.
 
-## Main ideas
- * 
-
 
 ## Examples
 ### da Vinci's The Last Supper 1495-1498 (last few years of the 15th century)
