@@ -6,6 +6,11 @@ permalink: /gopnik-2023-dalle/
 * Published: March 1, 2023
 
 ## Main ideas
+* Types of image generators
+	* [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
+	* [DALL-E 2](https://en.wikipedia.org/wiki/DALL-E)
+	* [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+
 * Havanese and Avedon
 * is it a lightbulb or is it a lava lamp? But good art is probably more about lava lamps than lightbulbs.
 * systems like DALL-E 2 don't operate on light and shadow; they operate on art history
@@ -17,3 +22,12 @@ permalink: /gopnik-2023-dalle/
 * "The reason that DALL-E 2 is a machine for making Surrealist images is that the essence of such art is to be a dialogue between the prompter and the prompted. That’s why so much of the best Surrealist art is not terribly accomplished in itself as optical painting. Instead, it approximates and appropriates the slick styles of illustration, or subjects popular imagery to sudden dislocations. Max Ernst collages are the type of this kind, made from many common sources—cheap advertisements in the back of the newspaper or department-store catalogue—scissored together into a new appearance of meaning. "
 * "So, lava lamp or electric light? Surely a lava lamp, for now—a diversion of the moment. But then there is something to be said for the idea that art should always be more lava lamp than electric light. The light bulb, after all, is a supreme specimen of imitative technology, a mechanized candle. The lava lamp is a combination of things never before seen, curious and worth looking at for its own sweet sake."
 * "The new visual A.I. is really a pictorial collider, the image-making equivalent of a particle accelerator that hurls subatomic bits together at high speeds to see what they will reveal as they slam into and fracture each other. In making images collide, we reveal the traces of our table of artistic elements."
+* "That’s why the images that dall-e 2 makes are far more interesting than the texts that A.I. chatbots make. To be persuasive, a text demands a point; in contrast, looking at pictures, we can be fascinated by atmospheres and uncertainties. 
+* "Even images made to persuade—such as propaganda posters or altarpieces—are only communicative through the intercession of our outside knowledge of the narratives that they illuminate. When you don’t know the story, even tutelary religious pictures become enigmatic. 
+* "This happens to every student of Renaissance art who encounters a picture of an unfamiliar saint: In Leonardo da Vinci’s “The Last Supper,” the agitated language of hands would mean nothing—who’s pointing at what, and why?—without our knowing the story in advance. The same thing occurs with ancient ..Athenian vases, whenever the specific story is lost. Surrealism is the default condition of the narrative image. It takes an extraordinary scaffolding of wit to explicate a single image of wonder. 
+* That’s not a weakness of images as a language of communication but a strength, and we’ve evolved a set of words that expresses their peculiar power to cast a spell without making a point. We don’t talk about pictures being persuasive, convincing, pointed. We talk about them being haunting, entrancing, unforgettable.
+* "Surely this helps explain why A.I. pictures tend, for now, to be more compelling than A.I. prose. When you ask for a song about Paris in the manner of Cole Porter, you’ll invariably get a skillful string of clichés: 
+“Oh Paris, city of love and delight, / Where the Seine flows, so elegant and bright.” 
+* It’s astonishing that such a thing gets conjured up at all, but it isn’t remotely Porter.  On the other hand, asked to make a watercolor of a Paris street in the style of Porter’s great contemporary and friend Charles Demuth, dall-e 2 generates something that’s weirdly credible. 
+* "The dall-e 2 system, by setting images free from neat, argumentative intentions, reducing them to responses to “prompts,” reminds us that pictures exist in a different world of meaning from prose. Something similar happens when we prompt ChatGPT to write a Beatles song about René Magritte. That it produces anything at all is impressive, but what it produces is not Beatlesesque. (My results: “Rene Magritte, oh can’t you see? / Your art is like a mystery. / With apples and pipes, and a bird in a cage / You bring us to another age.”) Yet, asked to make an album cover in Magritte’s manner, dall-e 2 responds in ways that are often arresting, even witty.
+
