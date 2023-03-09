@@ -22,26 +22,27 @@ permalink: /benjamin-1936/
 
 
 ## Quotes from other summaries.
-### From [this summary](http://www.yorku.ca/caitlin/futurecinemas/?p=487
-	* In history, there is only one original, which has aura
-	* Mechanically reproduced copies devalue the original; it loses it's aura
-	* thinkers have objected to this thesis given the skyrocketing prices of originals since then 
-	* Per Benjamin, we value things in their exchange value rather than their use value.
-	* We do not have a close relationship to things we own because we didn't make it.
-	* We are more skeptical of things because we did not make it; we are more skeptical
-	* Per Benjamin, authenticity in mechanical reproduction cannot exist
-	* To make up for shriveld aura, Hollywood plays up their stars and thepublic's desire to know them. The public feels like they are participating by being interested in them. The actor sells their shadows and are therefore detached from their work.
+
+### From [this summary](http://www.yorku.ca/caitlin/futurecinemas/?p=487)
+* In history, there is only one original, which has aura
+* Mechanically reproduced copies devalue the original; it loses it's aura
+* thinkers have objected to this thesis given the skyrocketing prices of originals since then 
+* Per Benjamin, we value things in their exchange value rather than their use value.
+* We do not have a close relationship to things we own because we didn't make it.
+* We are more skeptical of things because we did not make it; we are more skeptical
+* Per Benjamin, authenticity in mechanical reproduction cannot exist
+* To make up for shriveld aura, Hollywood plays up their stars and thepublic's desire to know them. The public feels like they are participating by being interested in them. The actor sells their shadows and are therefore detached from their work.
 
 ### From [this summary](https://sites.google.com/site/germanliterature/20th-century/benjamin/the-work-of-art-in-the-age-of-mechanical-reproduction)
-	* The basic argument of this essay is that modern art develops as a response to new modes of technological reproduction (lithography, photography and film). 
-	* Benjamin argues that these mechanical processes deprive the artwork of its ‘aura’. The ‘aura’ is (was) the ritual status of the artwork as a ‘genuine’, unique object produced by the hand of the artist. Mechanical reproduction destroys the aura because it enables multiple copies to be created by mechanical means; this strips the artwork of its uniqueness. Benjamin is essentially positive about the passing of the aura, but he also fears about fascism's ability to pervert the new media and - perhaps - he has a little bit of residual nostalgia for the ritual function of art.
-	* Benjamin is essentially positive about the passing of the aura because:
-	* it makes art both more accessible and more democratic; it means that art is judged by a mass of people and not just by a narrow clique of critics;
-	* it has led to the politicisation of art (paragraph 4) (which he thinks is important);
-	* it emancipates art from religion (paragraph 5).
-	* Benjamin is particularly positive about film because film actors perform for the camera and this enables the audience to assume a more objective stance (see sections 8-10).
-	* He is also positive about the new form of distracted perception brought about by new media (in the penultimate paragraph).
-	* Benjamin’s idea that modern art develops in response to technology can also be applied to literature and music. In the field of literature, modernist writers found themselves in competition with new forms of textual mass media such as telegrams, newspapers, advertisements and popular music
+* The basic argument of this essay is that modern art develops as a response to new modes of technological reproduction (lithography, photography and film). 
+* Benjamin argues that these mechanical processes deprive the artwork of its ‘aura’. The ‘aura’ is (was) the ritual status of the artwork as a ‘genuine’, unique object produced by the hand of the artist. Mechanical reproduction destroys the aura because it enables multiple copies to be created by mechanical means; this strips the artwork of its uniqueness. Benjamin is essentially positive about the passing of the aura, but he also fears about fascism's ability to pervert the new media and - perhaps - he has a little bit of residual nostalgia for the ritual function of art.
+* Benjamin is essentially positive about the passing of the aura because:
+* it makes art both more accessible and more democratic; it means that art is judged by a mass of people and not just by a narrow clique of critics;
+* it has led to the politicisation of art (paragraph 4) (which he thinks is important);
+* it emancipates art from religion (paragraph 5).
+* Benjamin is particularly positive about film because film actors perform for the camera and this enables the audience to assume a more objective stance (see sections 8-10).
+* He is also positive about the new form of distracted perception brought about by new media (in the penultimate paragraph).
+* Benjamin’s idea that modern art develops in response to technology can also be applied to literature and music. In the field of literature, modernist writers found themselves in competition with new forms of textual mass media such as telegrams, newspapers, advertisements and popular music
 
 
 
