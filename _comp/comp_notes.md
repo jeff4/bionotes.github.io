@@ -3,45 +3,6 @@ title: Comp Notes
 permalink: /comp_notes/
 ---
 
-## 2022 Log
-* 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
-* 7/11 Research into WebAuthn
-	* The two complementary components of [FIDO2](https://en.wikipedia.org/wiki/FIDO2_Project) are: (1) The  [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) standard and (2) The [CTAP2 protocol](https://en.wikipedia.org/wiki/Client_to_Authenticator_Protocol) short for Client To Authenticator Protocol 2.
-	* Use cases suggested by W3C / FIDO2 [official developer documentation](https://www.w3.org/TR/webauthn-1/#use-cases), Section 1.2
-		1. New user registration
-		2. Existing/returning user authentication
-		3. New device registration
-		4. Other use cases: (a) creation/registration of a new credential to support additional factor to increase security of an existing log-in flow, e.g., registering a Yubikey (b) single payment or other transaction from a [relying party](https://www.w3.org/TR/webauthn-1/#relying-party)
-	* Researched [relying party applications](https://en.wikipedia.org/wiki/Relying_party), [claim-based identity](https://en.wikipedia.org/wiki/Claims-based_identity), [STS](https://en.wikipedia.org/wiki/Security_token_service) short for Secure Token Service, etc.
-		* Wrt to Claim-based identity, it is important to distinguish between a **claim** refers to what an entity *is* or *is not*; claim does not refer to what the roles, responsibilties, priveleges this entity has.  In contrast, the abilities/privileges granted to a given entity is separately determined by the receiving application. Each application may have different mappings between what a "Normal User" *is* and what she can *do*.
-* 7/12 Drew diagrams and made powerpoint architecture diagrams of WebAuthn compared to traditional username/password authentication.
-* 7/14 More on WebAuthn and how to communicate it
-* 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
-* 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
-* 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
-* 7/28 Recorded second macro to add a new section to the top of a file. Invoked by @o (lowercase letter "o"):
-	1. start macro recording - q
-	2. choose register "o" you want to store this macro in: lowercase "o"
-	3. go to top of document - gg
-	4. Add 6 lines *above* - "6" then "capital O"
-	5. change back to CMD mode - <esc>
-	6. move up 2 lines - kk
-	7. change to EDIT mode - i
-	8. enter 20 dashes "---" etc
-	9. change back to CMD mode - <esc>
-	10. go back to top of document - gg
-	11. change to EDIT mode - i
-	12. change back to CMD mode - <esc>
-	13. quit out of macro recorder - q
-	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
-* 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
-* 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
-* 8/18 Research on SSGs, API CMSs, and Deployment/Hosting Platforms
-* 8/20 Learned more about Visual Block mode to add inital characters to a whole bunch of lines. See OneNote for more
-* 8/21 Visual Block mode, remember shift-i to insert (*not* just lowercase i) and <esc> produces a short delay before the edits take place on all the lines.
-
----------------------------------------
-
 ## 2021 Log
 * 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
 * 2/22/2021: downloaded Command Line Tools for Mac OS v. 12.4 and was able to get "Hello World" working in Atom and cmdline using clang. Appropriate because it has been exactly 43 years and 1 day since K&R pubished this, per [Daring Fireball](https://daringfireball.net/linked/2021/02/23/hello-world) and [CSAIL at MIT](https://twitter.com/MIT_CSAIL/status/1363875135191678984).
@@ -131,6 +92,47 @@ permalink: /comp_notes/
 ### Section 3.2: A simple, formal scanner
 * See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
 
+
+----------------
+
+## 2022 Log
+* 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
+* 7/11 Research into WebAuthn
+	* The two complementary components of [FIDO2](https://en.wikipedia.org/wiki/FIDO2_Project) are: (1) The  [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) standard and (2) The [CTAP2 protocol](https://en.wikipedia.org/wiki/Client_to_Authenticator_Protocol) short for Client To Authenticator Protocol 2.
+	* Use cases suggested by W3C / FIDO2 [official developer documentation](https://www.w3.org/TR/webauthn-1/#use-cases), Section 1.2
+		1. New user registration
+		2. Existing/returning user authentication
+		3. New device registration
+		4. Other use cases: (a) creation/registration of a new credential to support additional factor to increase security of an existing log-in flow, e.g., registering a Yubikey (b) single payment or other transaction from a [relying party](https://www.w3.org/TR/webauthn-1/#relying-party)
+	* Researched [relying party applications](https://en.wikipedia.org/wiki/Relying_party), [claim-based identity](https://en.wikipedia.org/wiki/Claims-based_identity), [STS](https://en.wikipedia.org/wiki/Security_token_service) short for Secure Token Service, etc.
+		* Wrt to Claim-based identity, it is important to distinguish between a **claim** refers to what an entity *is* or *is not*; claim does not refer to what the roles, responsibilties, priveleges this entity has.  In contrast, the abilities/privileges granted to a given entity is separately determined by the receiving application. Each application may have different mappings between what a "Normal User" *is* and what she can *do*.
+* 7/12 Drew diagrams and made powerpoint architecture diagrams of WebAuthn compared to traditional username/password authentication.
+* 7/14 More on WebAuthn and how to communicate it
+* 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
+* 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
+* 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
+* 7/28 Recorded second macro to add a new section to the top of a file. Invoked by @o (lowercase letter "o"):
+	1. start macro recording - q
+	2. choose register "o" you want to store this macro in: lowercase "o"
+	3. go to top of document - gg
+	4. Add 6 lines *above* - "6" then "capital O"
+	5. change back to CMD mode - <esc>
+	6. move up 2 lines - kk
+	7. change to EDIT mode - i
+	8. enter 20 dashes "---" etc
+	9. change back to CMD mode - <esc>
+	10. go back to top of document - gg
+	11. change to EDIT mode - i
+	12. change back to CMD mode - <esc>
+	13. quit out of macro recorder - q
+	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
+* 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
+* 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
+* 8/18 Research on SSGs, API CMSs, and Deployment/Hosting Platforms
+* 8/20 Learned more about Visual Block mode to add inital characters to a whole bunch of lines. See OneNote for more
+* 8/21 Visual Block mode, remember shift-i to insert (*not* just lowercase i) and <esc> produces a short delay before the edits take place on all the lines.
+
+---------------------------------------
 
 ## 2023 Log
 * 1/29/2023 - set up new Mac Studio
