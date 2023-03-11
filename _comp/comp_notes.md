@@ -62,8 +62,8 @@ permalink: /comp_notes/
 	* Chapter 26: Linear Bounded Automata
 	* Chapter 31: Turing Machines
 
-## Chapter 2: A Quick Tour
-### Tools in a typical toolchain
+### Chapter 2: A Quick Tour
+#### Tools in a typical toolchain
 * Preprocessor (e.g., **cpp** in gcc)
 * Compiler proper (e.g., **cc1** in gcc)
 * Assembler (called [**as** or **gas**](https://en.wikipedia.org/wiki/GNU_Assembler) in gcc)
@@ -71,7 +71,7 @@ permalink: /comp_notes/
 * Dynamic linker (e.g., [ld.so](http://manpages.ubuntu.com/manpages/cosmic/man8/ld.so.8.html) in gcc)
 * See also Fig. 2.1 and drawings in JH notes Comp #1, 2/22/2021.
 
-### Subcomponents within a Unix Compiler
+#### Subcomponents within a Unix Compiler
 * Scanner
 * Parser (generates AST)
 * Semantic Routines
@@ -79,8 +79,8 @@ permalink: /comp_notes/
 * Code generator
 * See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
 
-## Chapter 3: Scanning
-### Section 3.1: Kinds of Tokens
+### Chapter 3: Scanning
+#### Section 3.1: Kinds of Tokens
 * Identifying [**tokens**](https://stackoverflow.com/a/39909662) in source code can be complicated.
 	1. **Keywords** are reserved words in the language such as *while*, *class*, or *true*.
 	2. **Identifiers** are programmer-definable names for variables, functions, classes, and other code elements. Some languages like Perl require certain **sentinels** such as the dollar sign ($) to denote all variable_names. 
@@ -89,7 +89,7 @@ permalink: /comp_notes/
 	5. **Comments** are used to clarify the code.
 	6. **Whitespace** are also used to make the code more human-readable and my play a role in the structure of the program (e.g., Python).
 
-### Section 3.2: A simple, formal scanner
+#### Section 3.2: A simple, formal scanner
 * See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
 
 
