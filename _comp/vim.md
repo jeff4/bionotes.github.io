@@ -18,3 +18,4 @@ permalink: /vim/
 	* [Cheatsheet](https://vimhelp.org/quickref.txt.html) accessible via *:h quickref*
 * 3/05 Famous Stackover Flow [answer from 8/09/2009](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)--epic explanation about how to grok vi.
 	* From same thread is this [answer from 2010](https://stackoverflow.com/a/2559262) which has a ton of shortcuts, a starter .vimrc file etc.
+* 3/10 Figured out proper autocommands to change colorscheme based on Insert or Command mode.
