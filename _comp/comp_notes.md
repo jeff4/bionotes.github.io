@@ -168,5 +168,5 @@ permalink: /comp_notes/
 * 2/28 set up new computer. Got Stable Diffusion working fast! also set up .vimrc .bash_profile etc.
 * 3/01 updated colors for .bash_profile and .vimrc files. IR_Black ty Todd
 * 3/10 good list of keyboard shorcuts for [Audacity on Mac](https://tutorialslink.com/shortcut-keys/most-used-keyboard-shortcut-keys-in-audacity-for-mac-os)
-
+* 3/13 Wow I made so much progress this past weekend. Saturday with vim customization and Sunday with HN related projects and getting them working
 
