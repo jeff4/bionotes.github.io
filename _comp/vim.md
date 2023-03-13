@@ -23,3 +23,5 @@ permalink: /vim/
 	* [Gruvbox](https://github.com/morhetz/gruvbox)
 	* [Solarized](https://ethanschoonover.com/solarized/)
 	* [Nord](https://www.nordtheme.com/)
+* 3/12 Successfully followed [these instructions](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/) to install vim-plug
+* Also installed dracula, codedark, and personal favorite: Kolor.
