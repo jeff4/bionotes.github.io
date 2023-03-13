@@ -30,3 +30,4 @@ permalink: /gen-ai/
 	* This is the [github repo](https://github.com/ggerganov/llama.cpp) with relevant stuff by ggerganov
 	* Super useful [notes by Simon Willison](https://til.simonwillison.net/llms/llama-7b-m2) who got the 7B version running on a M2 MacBook Pro with 64GB of RAM. From this [comment](https://news.ycombinator.com/item?id=35105321) in the same HN thread. 
 	* applied to allowed to download the 250GB collection of all 4 models.
+* 3/12 Success! dali etc
