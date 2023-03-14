@@ -6,6 +6,7 @@ theme: jekyll-theme-architect
 include: 
   - _papers
   - _other
+  - _business
   - _comp
   - _history
   - _marketing
