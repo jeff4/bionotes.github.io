@@ -169,4 +169,5 @@ permalink: /comp_notes/
 * 3/01 updated colors for .bash_profile and .vimrc files. IR_Black ty Todd
 * 3/10 good list of keyboard shorcuts for [Audacity on Mac](https://tutorialslink.com/shortcut-keys/most-used-keyboard-shortcut-keys-in-audacity-for-mac-os)
 * 3/13 Wow I made so much progress this past weekend. Saturday with vim customization and Sunday with HN related projects and getting them working
+	* See [3/15 notes](/2023-03-15-startups-v-incumbents/)
 
