@@ -17,11 +17,13 @@ sitemap: false
     * [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
     * [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
 
-
-
 ## Developments from Tuesday 3/14/2023
 * Announcements from OpenAI today
     * GPT-4 is announced
     * it can ingest images as well as text to output text
     * can now pass the bar
     * partnership with Khan Academy for customized tutors
+
+
+## Other resources
+   * Yann LeCun reposted this March 13 lecture by Professor Pascal Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
