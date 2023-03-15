@@ -31,3 +31,7 @@ permalink: /gen-ai/
 	* Super useful [notes by Simon Willison](https://til.simonwillison.net/llms/llama-7b-m2) who got the 7B version running on a M2 MacBook Pro with 64GB of RAM. From this [comment](https://news.ycombinator.com/item?id=35105321) in the same HN thread. 
 	* applied to allowed to download the 250GB collection of all 4 models.
 * 3/12 Success! dali etc
+* 3/15 From this [HN comment](https://news.ycombinator.com/item?id=35173577) in this [submission about LLVM](https://news.ycombinator.com/item?id=35169750), I thought about buy Transformers for NLP: Build, train, and fine-tune deep neural networm architectures with Python, PyTorch, TensorFlow, BERT and GPT-3, 2nd edition. [Amazon link](https://www.amazon.com/Transformers-Natural-Language-Processing-architectures-ebook/dp/B09T34LVRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+    * important to get the second edition!
+    * as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
+    * 2nd edition published March 25, 2022
