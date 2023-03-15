@@ -23,7 +23,8 @@ sitemap: false
     * it can ingest images as well as text to output text
     * can now pass the bar
     * partnership with Khan Academy for customized tutors
+    * Announcement of $20/month paid consumer plan to ChatGPT
 
 
 ## Other resources
-   * Yann LeCun reposted this March 13 lecture by Professor Pascal Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
+   * Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
