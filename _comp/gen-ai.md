@@ -35,3 +35,5 @@ permalink: /gen-ai/
     * important to get the second edition!
     * as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
     * 2nd edition published March 25, 2022
+* [Good guide](https://sebastianraschka.com/blog/2023/llm-reading-list.html) to all the relevant papers over the last 9 years on transformers, LLMs etc. by Sebastian Raschka. Published February, 2023.
+* 3/16 Read a bit about [Noam Shazeer](https://www.linkedin.com/in/noam-shazeer-3b27288/), co-author of the first Transformer paper, worked on Google's LaMDAsystem with project leader Daniel De Freitas who is now Noam's cofounder at [Character.ai](www.character.ai)
