@@ -39,3 +39,27 @@ permalink: /gen-ai/
 * 3/16 Read a bit about [Noam Shazeer](https://www.linkedin.com/in/noam-shazeer-3b27288/), co-author of the first Transformer paper, worked on Google's LaMDAsystem with project leader Daniel De Freitas who is now Noam's cofounder at [Character.ai](www.character.ai)
 * 3/17 [Runway](https://runwayml.com) cofounded by [Cristobal Valenzuela](https://cvalenzuelab.com) has launched a video gen product named Gen-1 using Stable Diffusion .
     * see also this [Decoder article](https://the-decoder.com/ai-startup-runway-integrates-stable-diffusion-for-text-to-video-editor/) and this [MIT Tech Review piece](https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/)
+
+
+### Stanford paper
+* Published July 2022
+* (On the Opportunities and Risks of Foundation Models)[https://arxiv.org/abs/2108.07258]
+* Authors: Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, Russ Altman, et al.
+* Originally published summer 2021, updated July 2022.
+* Table of Contents
+    * indents are spaces
+    * askdljf;ak  hh
+
+
+
+
+
+
+
+
+
+
+* set noexpandtab
+	* indents are tabs
+	* asdl;fjadslkh
+
