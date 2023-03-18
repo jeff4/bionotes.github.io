@@ -7,15 +7,10 @@ sitemap: false
 ## Earlier posts
 * Elad Gil #1: [Startups v Incumbents: who will capture value?](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value) published 10/25/2022
 
-
-
-
-
 * Elad Gil #2: Difference between [LLM, image gen and between platforms/markets/open-source](https://blog.eladgil.com/p/ai-platforms-markets-and-open-source) published 2/15/2023
 finished reading
 
 * Elad Gil #3: [Transformers and LLMs](https://blog.eladgil.com/p/ai-revolution-transformers-and-large) published 8/30/2022
-
 
 * a16z on [who owns the generative AI platform](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/) published 1/19/2023
 	* We’re starting to see the very early stages of a tech stack emerge in generative artificial intelligence (AI). Hundreds of new startups are rushing into the market to develop foundation models, build AI-native apps, and stand up infrastructure/tooling.
@@ -30,17 +25,17 @@ finished reading
 
 ## Developments from this past weekend
 * Simon Willison's timeline of LLaMA developments as of 3/13/2023
-    * [HN thread](https://news.ycombinator.com/item?id=35140369)
-    * [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
-    * [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
+	* [HN thread](https://news.ycombinator.com/item?id=35140369)
+	* [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
+	* [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
 
 ## Developments from Tuesday 3/14/2023
 * Announcements from OpenAI today
-    * [GPT-4 is announced](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
-    * it can ingest images as well as text to output text
-    * can now pass the bar
-    * partnership with Khan Academy for customized tutors
-    * Announcement of $20/month paid consumer plan to ChatGPT
+	* [GPT-4 is announced](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
+	* it can ingest images as well as text to output text
+	* can now pass the bar
+	* partnership with Khan Academy for customized tutors
+	* Announcement of $20/month paid consumer plan to ChatGPT
 * Techcrunch articles
 	* [Interview with Greg Brockman](https://techcrunch.com/2023/03/15/interview-with-openais-greg-brockman-gpt-4-isnt-perfect-but-neither-are-you/) CEO of OpenAI
 	* [Together aka OpenChatKit](https://techcrunch.com/2023/03/14/meet-the-team-developing-an-open-source-chatgpt-alternative/) building open-source API replacement for ChatGPT
@@ -61,5 +56,5 @@ finished reading
 
 ## Other resources
 * Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
-    * Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
-    * Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
+	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
+	* Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
