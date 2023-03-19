@@ -47,19 +47,7 @@ permalink: /gen-ai/
 * Authors: Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, Russ Altman, et al.
 * Originally published summer 2021, updated July 2022.
 * Table of Contents
-    * indents are spaces
-    * askdljf;ak  hh
 
 
 
-
-
-
-
-
-
-
-* set noexpandtab
-	* indents are tabs
-	* asdl;fjadslkh
 
