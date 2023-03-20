@@ -43,7 +43,7 @@ permalink: /gen-ai/
 
 ### Stanford paper
 * Published July 2022
-* (On the Opportunities and Risks of Foundation Models)[https://arxiv.org/abs/2108.07258]
+* [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 * Authors: Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, Russ Altman, et al.
 * Originally published summer 2021, updated July 2022.
 * Table of Contents
@@ -62,9 +62,10 @@ permalink: /gen-ai/
 		* Theory p. 118
 		* Interpretability p. 123
 
-#### 4.0 Technology
 
-##### 4.1 Modeling p. 74
+## 4.0 Technology
+
+### 4.1 Modeling p. 74
 * Five key properties of a foundation model:
 	1. Expressivity
 	1. Scalability
@@ -72,3 +73,9 @@ permalink: /gen-ai/
 	1. Memory capacity
 	1. Compositionality
 
+#### 4.1.1 Expressivity
+* Theoretical and practical capacity of a network to model the distributiuon it is trained over and ability represent it in a fleixble manner.
+* "Great depths" or what i would say many deep layers allow these models to form powerful *hierarchical* and *distributed* representations that generalize from training data to unseen examples.
+* From [Lu Lu, Pengzhan Jin, et al "DeepONet" 2019 paper](https://arxiv.org/abs/1910.03193), the universal approximation theorem states that even "multilayer perceptrons (MLP's) can represent a broad set of functions."
+	* RNNs and CNNs have distinct inductive biases as subtypes of MLPs so they have optimized capacity to learn various kinds of information. 
+* **Transformer Networks & Attention** [Vaswani, Shzeer, Parmar et al "Attention is all you need" 2017](https://arxiv.org/abs/1706.03762) showed that transformer networks are more powerful b/c they build on the self-attention mechanism (see [Bahdanau, Cho, Bengio "Neural machine translation by jointly learning to align and translate"](https://arxiv.org/abs/1409.0473) as well as the 2017 Vaswani Shazeer attention paper for more)...
