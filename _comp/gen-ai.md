@@ -40,5 +40,7 @@ permalink: /gen-ai/
 * 3/17 [Runway](https://runwayml.com) cofounded by [Cristobal Valenzuela](https://cvalenzuelab.com) has launched a video gen product named Gen-1 using Stable Diffusion .
     * see also this [Decoder article](https://the-decoder.com/ai-startup-runway-integrates-stable-diffusion-for-text-to-video-editor/) and this [MIT Tech Review piece](https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/)
 * 3/20 Created [new page](/foundation-model-stanford-paper-2022/) on Stanford paper "On the Opportunities and Risks of Foundation Models".
-
+* 3/20 Found two useful articles from Lilian Weng's [blog](https://lilianweng.github.io):
+	* [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+	* [Updated version of Transformer Family](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) v2
 
