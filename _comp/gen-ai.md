@@ -47,7 +47,28 @@ permalink: /gen-ai/
 * Authors: Rishi Bommasani, Drew A. Hudson, Ehsan Adeli, Russ Altman, et al.
 * Originally published summer 2021, updated July 2022.
 * Table of Contents
+	* Introduction p. 3
+	* Capabilities p. 21
+	* Technology p. 73
+		* Modeling p. 74
+		* Training p. 81
+		* Adaptation p. 85
+		* Evaluation p. 91
+		* Systems p. 97
+		* Data p. 101
+		* Security and privacy p. 105
+		* Robustness to distribution shifts p. 109
+		* AI safety and alignment 114
+		* Theory p. 118
+		* Interpretability p. 123
 
+#### 4.0 Technology
 
-
+##### 4.1 Modeling p. 74
+* Five key properties of a foundation model:
+	1. Expressivity
+	1. Scalability
+	1. Multimodality
+	1. Memory capacity
+	1. Compositionality
 
