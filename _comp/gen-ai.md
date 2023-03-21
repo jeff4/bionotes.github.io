@@ -32,13 +32,16 @@ permalink: /gen-ai/
 	* applied to allowed to download the 250GB collection of all 4 models.
 * 3/12 Success! dali etc
 * 3/15 From this [HN comment](https://news.ycombinator.com/item?id=35173577) in this [submission about LLVM](https://news.ycombinator.com/item?id=35169750), I thought about buy Transformers for NLP: Build, train, and fine-tune deep neural networm architectures with Python, PyTorch, TensorFlow, BERT and GPT-3, 2nd edition. [Amazon link](https://www.amazon.com/Transformers-Natural-Language-Processing-architectures-ebook/dp/B09T34LVRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-    * important to get the second edition!
-    * as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
-    * 2nd edition published March 25, 2022
+	* important to get the second edition!
+	* as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
+	* 2nd edition published March 25, 2022
 * [Good guide](https://sebastianraschka.com/blog/2023/llm-reading-list.html) to all the relevant papers over the last 9 years on transformers, LLMs etc. by Sebastian Raschka. Published February, 2023.
+* Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
+	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
+	* Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
 * 3/16 Read a bit about [Noam Shazeer](https://www.linkedin.com/in/noam-shazeer-3b27288/), co-author of the first Transformer paper, worked on Google's LaMDAsystem with project leader Daniel De Freitas who is now Noam's cofounder at [Character.ai](www.character.ai)
 * 3/17 [Runway](https://runwayml.com) cofounded by [Cristobal Valenzuela](https://cvalenzuelab.com) has launched a video gen product named Gen-1 using Stable Diffusion .
-    * see also this [Decoder article](https://the-decoder.com/ai-startup-runway-integrates-stable-diffusion-for-text-to-video-editor/) and this [MIT Tech Review piece](https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/)
+	* see also this [Decoder article](https://the-decoder.com/ai-startup-runway-integrates-stable-diffusion-for-text-to-video-editor/) and this [MIT Tech Review piece](https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/)
 * 3/20 Created [new page](/foundation-model-stanford-paper-2022/) on Stanford paper "On the Opportunities and Risks of Foundation Models".
 * 3/20 Found two useful articles from Lilian Weng's [blog](https://lilianweng.github.io):
 	* [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
