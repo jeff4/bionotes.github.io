@@ -53,8 +53,3 @@ finished reading
 	* [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 	* [Quora launches Poe based on GPT-4](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/) with subscriptions
 
-
-## Other resources
-* Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
-	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
-	* Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
