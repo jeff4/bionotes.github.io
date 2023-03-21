@@ -53,3 +53,10 @@ finished reading
 	* [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 	* [Quora launches Poe based on GPT-4](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/) with subscriptions
 
+## Developments Tuesday 3/21/2023
+* Adobe launches [Firefly](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
+* Nvidia GTC Conference [announcements](https://www.engadget.com/nvidia-and-medtronic-are-building-an-ai-enhanced-endoscopy-tool-161532723.html)
+* Google BARD announcements
+	* Verge on [Google says Bard is not a search engine](https://www.theverge.com/23649897/google-bard-chatbot-search-engine)
+	* [YouTube](https://www.youtube.com/watch?v=9ll_pth4Sss)e video reviewing Bard v. Bing aka LaMDA v. GPT-4 from this [HN submission](https://news.ycombinator.com/item?id=35250831)
+	* [BBC article](https://www.bbc.com/news/technology-65018107) on the Bard launch 
