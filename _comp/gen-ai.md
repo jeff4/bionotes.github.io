@@ -43,4 +43,7 @@ permalink: /gen-ai/
 * 3/20 Found two useful articles from Lilian Weng's [blog](https://lilianweng.github.io):
 	* [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 	* [Updated version of Transformer Family](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) v2
-
+* 3/20 Found a bunch of interesting resources re: Foundation models
+	* [2023 MAD landscape](https://mattturck.com/mad2023/) posted by Matt Turck. [web version here](https://mad.firstmarkcap.com). 404's occasionally. Scroll to bottom right of blue ML+AI section to see box on Closed Source Models"
+	* [Snorkel.ai intro guide](https://snorkel.ai/foundation-models/) dated March 1, 2023. 
+	* Alan Thompson's Life Architect post [Inside language models](https://lifearchitect.ai/models/#summary-models) which is updated recently enough to include GPT-4 and to note that LLaMA has been leaked.
