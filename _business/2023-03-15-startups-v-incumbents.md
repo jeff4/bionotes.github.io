@@ -60,3 +60,4 @@ finished reading
 	* Verge on [Google says Bard is not a search engine](https://www.theverge.com/23649897/google-bard-chatbot-search-engine)
 	* [YouTube](https://www.youtube.com/watch?v=9ll_pth4Sss)e video reviewing Bard v. Bing aka LaMDA v. GPT-4 from this [HN submission](https://news.ycombinator.com/item?id=35250831)
 	* [BBC article](https://www.bbc.com/news/technology-65018107) on the Bard launch 
+	* [Main HN thread](https://news.ycombinator.com/item?id=35246260)
