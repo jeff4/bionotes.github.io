@@ -61,12 +61,12 @@ permalink: /foundation-model-stanford-paper-2022/
 		* Conversely, models that interate weaker inductive biases learn more slowly--BUT can scale to higher volumes of data and adapt to a more diverse set of domains
 		* JH observation: tradeoff between specialization/speed of learning *versus* breadth/diversity of domains/BUT longer to train, requires more data and more diverse data
 		* "As data and compute become more accessible, we observe that the exploratin of models with a minimal set of inductive biases that can 'let the data speak for itself', seems to serve as a more promising approach for progress."	
-
+	* Expansion of foundation models beyond language domain to modalities like structural, perceptual, and reasoning.
 
 
 
 #### 4.1.2 Scalability
-
+* Scalability across models' depth, width, as well as their training time, number of parameters, and amount of data they can process.
 
 
 #### 4.1.3 Multimodality
