@@ -25,3 +25,4 @@ permalink: /vim/
 	* [Nord](https://www.nordtheme.com/)
 * 3/12 Successfully followed [these instructions](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/) to install vim-plug
 * Also installed dracula, codedark, and personal favorite: Kolor.
+* 3/21 Lots of progress documented in OneNote. For autocomplete based on other words in the document, go into Insert mode and try Ctrl-n and Ctrl-p. For more, see [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#i_CTRL-N) or [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#ins-completion)
