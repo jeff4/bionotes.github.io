@@ -50,3 +50,4 @@ permalink: /gen-ai/
 	* [2023 MAD landscape](https://mattturck.com/mad2023/) posted by Matt Turck. [web version here](https://mad.firstmarkcap.com). 404's occasionally. Scroll to bottom right of blue ML+AI section to see box on Closed Source Models"
 	* [Snorkel.ai intro guide](https://snorkel.ai/foundation-models/) dated March 1, 2023. 
 	* Alan Thompson's Life Architect post [Inside language models](https://lifearchitect.ai/models/#summary-models) which is updated recently enough to include GPT-4 and to note that LLaMA has been leaked.
+* [HN thread](https://news.ycombinator.com/item?id=35258553) about an alpaca tuned llama-7b chatbot. llama-30b coming soon. 
