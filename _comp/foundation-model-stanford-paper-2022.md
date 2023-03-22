@@ -49,5 +49,128 @@ permalink: /foundation-model-stanford-paper-2022/
 		* Models with stronger structural priors can leverage them to improve sample efficiency on the particular tasks that benefit from these assumptions.
 		* Conversely, models that interate weaker inductive biases learn more slowly--BUT can scale to higher volumes of data and adapt to a more diverse set of domains
 		* JH observation: tradeoff between specialization/speed of learning *versus* breadth/diversity of domains/BUT longer to train, requires more data and more diverse data
-		* "As data and compute become more accessible, we observe that the exploratin of models with a minimal set of inductive biases that can 'let the data speak for itself', seems to serve as a more promising approach for progress."
-	
+		* "As data and compute become more accessible, we observe that the exploratin of models with a minimal set of inductive biases that can 'let the data speak for itself', seems to serve as a more promising approach for progress."	
+
+
+
+
+#### 4.1.2 Scalability
+
+
+
+#### 4.1.3 Multimodality
+
+
+
+#### 4.1.4 Memory
+
+
+
+#### 4.1.5 Compositionality
+
+
+
+#### 4.1.6 Summary
+
+
+### 4.2 Training
+
+
+#### 4.2.1 Goals of training objectives
+
+
+#### 4.2.2 Design trade-offs in current SSL methods
+* Current self-supervised learning (SSL)
+
+
+#### 4.2.3 Paths forward
+
+
+### Adaptation
+
+#### 4.3.1 Methods for foundation model adaptation
+* Factor 1: Compute budget
+* Factor 2: Data availability
+* Factor 3: Access to foundation model gradients
+
+
+#### 4.3.2 Use cases for adaptation
+
+#### 4.3.3 A long-term goal for foundation model adaptation research
+
+### 4.4 Evaluation
+
+#### 4.4.1 Introduction
+
+#### 4.4.2 Intrinsic evaluation
+
+#### 4.4.3 Extrinsic evaluation and adaptation
+
+#### 4.4.4 Evaluation design
+
+#### 4.4.5 Takeaways
+
+### 4.5 Systems
+
+#### 4.5.1 Improving performance through co-design
+
+#### 4.5.2 Automated optimization
+
+#### 4.5.3 Execution and programming models
+
+#### 4.5.4 Productionization of foundation models
+
+### 4.6 Data
+
+#### 4.6.1 Data management desiderata
+
+#### 4.6.2 Data Hub Solution
+
+### 4.7 Security and privacy
+
+#### 4.7.1 Risks
+
+#### 4.7.2 Opportunities
+
+### 4.8 Robustness to distribution shifts
+
+#### 4.8.1 Advantages
+
+#### 4.8.2 Persistent challenges
+
+#### 4.8.3 Opportunities
+
+### 4.9 AI Safety and Alignment
+
+### 4.10 Theory
+
+#### 4.10.1 Theoretical formulations and modularizations
+
+#### 4.10.2 Why is the pretraining-adaptation interface interesting?
+
+#### 4.10.3 Challenge: analysis of in-context learning and other emergent behavior
+
+#### 4.10.4 Challenge: appropriate data assumptions and mathematical tools
+
+### 4.11 Interpretability
+
+#### 4.11.1 Characterizing behavior
+
+#### 4.11.2 Explaining behavior
+
+#### 4.11.3 Characterizing model mechanisms
+
+#### 4.11.4 Impacts of non-interpretability and interpretability
+
+### 5.5 Economics
+* *General-purpose technology* (Bresnahan and Trajtenberg, 1995) is a term use by economists to refer to things like the steam engine, electricity. JH: 'stacking technology', like the microprocessor, the web, printing press.
+
+#### 5.5.1 Productivity and innovation
+
+#### 5.5.2 Wage inequality
+
+#### 5.5.3 Centralization
+
+#### 5.5.4 Other considerations
+
+#### 5.6.5 When not to build
