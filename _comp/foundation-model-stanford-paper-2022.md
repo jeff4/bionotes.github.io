@@ -56,12 +56,13 @@ permalink: /foundation-model-stanford-paper-2022/
 		* An older feed-forward network would always process the above sentence in the very same manner, an attention-based modle could adapt it's computation to the input; updating the contextual representation of the word 'ate' if the prepositional phrase attachment X is 'spoon', or instead link it to the 'ice cream' if the X refers to 'strawberries.'
 * **General Purpose Computation**. A final notable advantage of attention over prior architectures stems from its stronger *generality* where it is not strongly tied to a particular task or domain as is the case fot he local receptive field of convultion or the sequential assumption of an RNN.
 	* We hypothesize that the general-purpose nature of attention and transformers contributes to their broad applicability to a wide range of research problems and applications.
+* **Challenges & Future Directions**
+	* Expansion of foundation models beyond language domain to modalities like structural, perceptual, and reasoning.
 	* Tradeoff between task-specialization and expressivity. 
 		* Models with stronger structural priors can leverage them to improve sample efficiency on the particular tasks that benefit from these assumptions.
 		* Conversely, models that interate weaker inductive biases learn more slowly--BUT can scale to higher volumes of data and adapt to a more diverse set of domains
 		* JH observation: tradeoff between specialization/speed of learning *versus* breadth/diversity of domains/BUT longer to train, requires more data and more diverse data
 		* "As data and compute become more accessible, we observe that the exploratin of models with a minimal set of inductive biases that can 'let the data speak for itself', seems to serve as a more promising approach for progress."	
-	* Expansion of foundation models beyond language domain to modalities like structural, perceptual, and reasoning.
 
 
 
@@ -185,3 +186,10 @@ permalink: /foundation-model-stanford-paper-2022/
 #### 5.5.4 Other considerations
 
 #### 5.6.5 When not to build
+
+
+
+
+
+
+
