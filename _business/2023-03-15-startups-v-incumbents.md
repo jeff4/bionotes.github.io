@@ -61,3 +61,18 @@ finished reading
 	* [YouTube](https://www.youtube.com/watch?v=9ll_pth4Sss) video reviewing Bard v. Bing aka LaMDA v. GPT-4 from this [HN submission](https://news.ycombinator.com/item?id=35250831)
 	* [BBC article](https://www.bbc.com/news/technology-65018107) on the Bard launch 
 	* [Main HN thread](https://news.ycombinator.com/item?id=35246260)
+	* [NYT main article](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
+	* [NYT evaluation of Bard](https://www.nytimes.com/2023/03/21/technology/google-bard-guide-test.html) compared to other LLMs
+	* Interesting observation. There is a "Google It" cta at the bottom of each Bard answer. Is it a convenience, an acknowledgement that Bard is not complete, or an attempt to still maintain search revenue over time?
+	* Note: Bard is the overall chat product but it is powered in the back by the LLM / foundation model LaMDA
+	* [LaMDA](https://en.wikipedia.org/wiki/LaMDA) was originally announced as Meena in 2020. First generation LaMDA (aka Langugage Model for Dialogue Applications) was then introduced in October 2021. 
+	* More history of LaMDA, formerly named Meena
+		* Developed by Google Brain over many years, Meena was introduced in January 2020 with 2.6B parameters.
+		* Two of the lead developers Daniel De Freitas and Noam Shazeer (2nd author on Attention is all you need paper Dec 2017), left Google in frustration b/c senior Google execs would not let Meena/LaMDA be released to public. They left and cofounded [Character.ai](https://beta.character.ai/help?). See additional info in this [HN comment](https://news.ycombinator.com/item?id=33025237)
+		* First generation of LaMDA announced during Google I/O May 2021.
+		* Second generation of LaMDA announced during Google I/O May 2022.
+		* Summer of 2022 -- Google engineering Blake Lemione [claimed](https://en.wikipedia.org/wiki/LaMDA#Sentience_claims) that LaMDA was sentient giving an interview with *WIRED* and hiring a lawyer for LaMDA claiming alien intelligence rights under the 13th Amendment of the US Constitution. Wiki article has a summary of objections by Gary Marcus, Yann LeCun, etc. I would claim this is a human hallucinating, rather than an LLM hallucinating.
+		* November, 2022, OpenAI launched ChatGPT. The capability, ease-of-use, and popularity of ChatGPT led to a code red within Google HQ.
+		* Early february, Google had a series of announcements and demos of Bard which is based on LaMDA and these did not go well. Led to $100B loss of market cap within hours.
+		* This week on Tuesday March 21, 2023, Google released Bard to a small number of users in the US and UK with a waiting list for more ppl over time.
+	* [The NYT](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html) reported 3/21 that "more than 20 A.I. products and features" will be launched, including "a feature called Shopping Try-on and the ability to create custom background images for YouTube videos and Pixel phones."
