@@ -10,18 +10,29 @@ permalink: /foundation-model-stanford-paper-2022/
 ## Table of Contents
 * Introduction p. 3
 * Capabilities p. 21
-* Technology p. 73
-	* Modeling p. 74
-	* Training p. 81
-	* Adaptation p. 85
-	* Evaluation p. 91
-	* Systems p. 97
-	* Data p. 101
-	* Security and privacy p. 105
-	* Robustness to distribution shifts p. 109
-	* AI safety and alignment 114
-	* Theory p. 118
-	* Interpretability p. 123
+* 4.0 Technology p. 73
+	* 4.1 Modeling p. 74
+	* 4.2 Training p. 81
+	* 4.3 Adaptation p. 85
+	* 4.4 Evaluation p. 91
+	* 4.5 Systems p. 97
+	* 4.6 Data p. 101
+	* 4.7 Security and privacy p. 105
+	* 4.8 Robustness to distribution shifts p. 109
+	* 4.9 AI safety and alignment 114
+	* 4.10 Theory p. 118
+	* 4.11 Interpretability p. 123
+* 5.0 Society p. 129
+	* 5.5 Economics p. 149
+		* 5.5.1 Productivity p. 149
+		* 5.5.2 Wage inequality p. 150
+		* 5.5.3 Centralization p. 151
+	* 5.6 Ethics of scale p. 152
+		* 5.6.1 Homogenization and scale p. 152
+		* 5.6.2 Surveillance, exclusion, and power  p. 153
+		* 5.6.3 Norms p. 155
+		* 5.6.4 Release and Auditing p. 157
+		* 5.6.5 When not to build p. 158
 
 ## 4.0 Technology
 ### 4.1 Modeling p. 74
