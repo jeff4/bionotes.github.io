@@ -29,7 +29,7 @@ finished reading
 	* [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
 	* [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
 
-## Developments from Tuesday 3/14/2023
+## March 14, 2023 - Tuesday
 * Announcements from OpenAI today
 	* [GPT-4 is announced](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
 	* it can ingest images as well as text to output text
@@ -53,7 +53,18 @@ finished reading
 	* [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 	* [Quora launches Poe based on GPT-4](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/) with subscriptions
 
-## Developments Tuesday 3/21/2023
+## March 16, 2023
+* [Bing opens waitlist for chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
+* List of MLOps platforms include Arise, Fiddler, Dataiku, and DataRobot in this [TC article about Seldon](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
+* [List of new Office 365 features](https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/)
+
+## March 20, 2023
+* [Tavus uses gen AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
+* [Filmustage uses AI to convert film scripts into shooting schedules](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
+
+
+
+## March 21, 2023
 * Adobe launches [Firefly](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
 * Nvidia GTC Conference [announcements](https://www.engadget.com/nvidia-and-medtronic-are-building-an-ai-enhanced-endoscopy-tool-161532723.html)
 * Google BARD announcements
@@ -76,4 +87,18 @@ finished reading
 		* Early february, Google had a series of announcements and demos of Bard which is based on LaMDA and these did not go well. Led to $100B loss of market cap within hours.
 		* This week on Tuesday March 21, 2023, Google released Bard to a small number of users in the US and UK with a waiting list for more ppl over time.
 	* [The NYT](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html) reported 3/21 that "more than 20 A.I. products and features" will be launched, including "a feature called Shopping Try-on and the ability to create custom background images for YouTube videos and Pixel phones."
-	* 
+* [Adobe launches Sensei Generative AI Services](https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/) to complement Adobe Firefly
+* [MS brings OpenAI's DALL-E to Bing](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/)
+* [Google opens access to Bard](https://techcrunch.com/2023/03/21/google-opens-early-access-to-bard-its-ai-chatbot/)
+* [Nvidia announces new cloud services as part of GPT](https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/) the GPU Tech Conference
+	* See also [Nvidia's partnership with Google Cloud](https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/)
+
+## March 22, 2023
+* [Bard does poorly compared to GPT-4 and Anthropic's Claude](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
+* [Mozilla launches Mozilla.ai](https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/) for 'trustworthy AI'
+* [GitHub launches Copilot x](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/) which is the next version of copilot
+* [CodiumAI using gen AI to build code logic tests](https://techcrunch.com/2023/03/22/codiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically/)
+* [Ubisoft generates dialogue for NPCs with AI](https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/)
+* [Adobe describes payments to artists for gen AI images](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/) 
+* [Canva unveils new AI features](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
+
