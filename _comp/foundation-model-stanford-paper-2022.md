@@ -175,7 +175,9 @@ permalink: /foundation-model-stanford-paper-2022/
 #### 4.11.4 Impacts of non-interpretability and interpretability
 
 ### 5.5 Economics
-* *General-purpose technology* (Bresnahan and Trajtenberg, 1995) is a term use by economists to refer to things like the steam engine, electricity. JH: 'stacking technology', like the microprocessor, the web, printing press.
+* *General-purpose technology* (Bresnahan and Trajtenberg, 1995) is a term use by economists to refer to things like the steam engine, electricity. JH: 'stacking technology', like the microprocessor, the web, printing press. 
+	* [Agrawal, McHale, and Oettl 2018](https://www.nber.org/system/files/working_papers/w24541/w24541.pdf) call something similar a 'meta-technology', referenced by Thomas Friedman Promethean moment article from March, 2023. However, meta-technology is specifically about big data and now computer-based advances in capabilities. "Meta technologies [are] technologies for the production of new knowledge...meta technologies such as deep learning hold out the potential to partially overcome the challenges of fishing out the rising burden of knowledge and ...contraints on knowledge access." 
+	* From the same 2018 paper, "Of course, meta technologies that aid in the discovery of new knowledge are nothing new. Mokyr (2002; 2017) gives numerous examples of how scientific instruments such as microscopes and x-ray crystallography significantly aided the discovery process. Nathan Rosenberg (1998) provides an account of how technologyembodied chemical engineering altered the path of discovery in the petrochemical industry."
 
 #### 5.5.1 Productivity and innovation
 
