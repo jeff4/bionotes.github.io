@@ -95,3 +95,6 @@ sitemap: false
 * [Adobe describes payments to artists for gen AI images](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/) 
 * [Canva unveils new AI features](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
 
+## March 23, 2023
+* From [daring fireball link](https://daringfireball.net/2023/03/game_over_vocal_deepfakes), John H. Meyer aka @beastmode has made [very convincing deepfake voice versions of Steve Jobs](https://twitter.com/BEASTMODE/status/1637613704312242176)
+* From Rodney Brooks, new essay [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
