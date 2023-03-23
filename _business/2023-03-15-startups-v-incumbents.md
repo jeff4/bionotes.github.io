@@ -4,14 +4,10 @@ permalink: /startups-v-incumbents-2023a/
 sitemap: false
 ---
 
-## Earlier posts
+## Three articles by Elad Gil and one by a16z from Jan, 2023
 * Elad Gil #1: [Startups v Incumbents: who will capture value?](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value) published 10/25/2022
-
 * Elad Gil #2: Difference between [LLM, image gen and between platforms/markets/open-source](https://blog.eladgil.com/p/ai-platforms-markets-and-open-source) published 2/15/2023
-finished reading
-
 * Elad Gil #3: [Transformers and LLMs](https://blog.eladgil.com/p/ai-revolution-transformers-and-large) published 8/30/2022
-
 * a16z on [who owns the generative AI platform](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/) published 1/19/2023
 	* We’re starting to see the very early stages of a tech stack emerge in generative artificial intelligence (AI). Hundreds of new startups are rushing into the market to develop foundation models, build AI-native apps, and stand up infrastructure/tooling.
 	* In other words, the companies creating the most value — i.e. training generative AI models and applying them in new apps — haven’t captured most of it. Predicting what will happen next is much harder. But we think the key thing to understand is which parts of the stack are truly differentiated and defensible. This will have a major impact on market structure (i.e. horizontal vs. vertical company development) and the drivers of long-term value (e.g. margins and retention). So far, we’ve had a hard time finding structural defensibility anywhere in the stack, outside of traditional moats for incumbents.
@@ -20,10 +16,7 @@ finished reading
 		* Models that power AI products, made available either as proprietary APIs or as open-source checkpoints (which, in turn, require a hosting solution)
 		* Infrastructure vendors (i.e. cloud platforms and hardware manufacturers) that run training and inference workloads for generative AI models
 
-
-
-
-## Developments from this past weekend
+## Three days ending Sunday March 12, 2023
 * Simon Willison's timeline of LLaMA developments as of 3/13/2023
 	* [HN thread](https://news.ycombinator.com/item?id=35140369)
 	* [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
