@@ -1,6 +1,6 @@
 ---
-title: Notes for 2023-03-15 Startups v Incumbents
-permalink: /2023-03-15-startups-v-incumbents/
+title: Startups v Incumbents 2023 
+permalink: /startups-v-incumbents-2023a/
 sitemap: false
 ---
 
@@ -76,3 +76,4 @@ finished reading
 		* Early february, Google had a series of announcements and demos of Bard which is based on LaMDA and these did not go well. Led to $100B loss of market cap within hours.
 		* This week on Tuesday March 21, 2023, Google released Bard to a small number of users in the US and UK with a waiting list for more ppl over time.
 	* [The NYT](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html) reported 3/21 that "more than 20 A.I. products and features" will be launched, including "a feature called Shopping Try-on and the ability to create custom background images for YouTube videos and Pixel phones."
+	* 
