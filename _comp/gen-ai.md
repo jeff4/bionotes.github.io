@@ -10,6 +10,7 @@ permalink: /gen-ai/
 * 2/21 - read [Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) and [Murray Shanhan](https://arxiv.org/abs/2212.03551) Feb 2023 articles on LLM
 * 2/23 - more articles on history of BERT, transformers, MUM, etc.
 	* This 18 minute [YouTube video](https://youtu.be/wi0M2J4uE5I) by Mean Gene Hacks compares 3 LLMs that all have about 175 B parameters: OpenAI's GPT-3, BigScience's BLOOM, and Facebook's OPT-175 
+
 * 2/24 - Today, [FB released LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) (Large Langauge Model Meta AI) in 4 sizes 7 billion parameters, 13 billion parameters, 33B parameters, and 65B parameters. Yann LeCun claims that LLaMa-13B outperforms GPT-3 (even though the latter has 175B). And LLaMA-65B is competitive with the best models like Chinchilla70B and PaLM-540B.
 * 2/26 - Mt. AI / volcanic island / infiinite skycraper. Elevators vs. Staircases
 * 3/01 - Links on BERT and AI
@@ -57,3 +58,21 @@ permalink: /gen-ai/
 	* References Wolfram's excellent explainer
 	* "By the way, even since the earliest days of AI, the 1955 proposal for the 1956 workshop on AI, the document in which the term AI first appears anywhere, the goal of the researchers was to produce general intelligence. That AGI is a different term than AI now is due to a bunch of researchers a dozen or so years ago deciding to launch a marketing campaign for themselves by using a new buzz acronym. 'AGI' is just 'AI' as it was known for the first 50+ years of its existence. Hype produced the term 'AGI' with which we are now saddled."
 	* Quotes unconfirmed reports that GPT-4 has 1 trillion parameters, but that has been specifically debunked by Sam Altman and others. (compared with GPT-3 with 175-billion parameters)
+	* All successful systems need to have a person in the loop. 
+		* "This is true of language translation systems where a person is reading the output and, just as they do with children, the elderly, and foreigners, adapts quickly to the mistakes the person or system makes, and fill in around the edges to get the meaning, not the literal interpretation."
+		* "This is true of speech understanding systems where we talk to Alexa or Google Home, or our TV remote, or our car. We talk to each of them slightly differently, as we humans quickly learn how to adapt to their idiosyncracies and the forms they can understand and not understand.
+		* "This is true of our search engines, where we have learned how to form good queries that will get us the information we actually want, the quickest.
+		* "This is true of mobile robots in hospitals, taking the dirty sheets and dishes to be cleaned, or bringing up prescriptions from the hospital pharmacy, where there is a remote network operations center that some unseen user is waiting to take over control when the robot gets confused."
+	* Amara's Law, overestimate the effect of the tech in the short run and underestimate it in the long run.
+		* John McCarthy’s estimate that the computers of the 1960’s were powerful enough to support AGI 
+		* Minsky and Michie and Nilsson each believing that search algorithms were the key to intelligence, 
+		* Neural networks (volume 3, perceptrons) [[I wasn’t around for the first two volumes; McCulloch and Pitts in 1943, Minsky in 1953]], 
+		* First order logic, Resolution theorem proving, MacHack (chess 1), fuzzy logic, STRIPS, 
+		* Knowledge-based systems (and revolutionizing medicine), 
+		* Neural networks (volume 4, back propagation), the primal sketch, self driving cars (Dickmanns, 1987),
+		* Reinforcement learning (rounds 2 and 3), SOAR, 
+		* Support vector machines, self driving cars (Kanade et al, 1997), 
+		* Deep Blue (chess 2), self driving cars (Thrun, 2007), Bayesian inference, Watson (Jeopardy, and revolutionizing medicine), 
+		*  Neural networks (volume 5, deep learning), Alpha GO, reinforcement learning (round 4), generative images, and now large language models. 
+	* All have heralded the imminence of human level intelligence in machines. All were hyped up to the limit, but mostly in the days when very few people were even aware of AI, so very few people remember the levels of hype. I’m old. I do remember all these, but have probably forgotten quite a few…
+		* "None of these things have lived up to that early hype.
