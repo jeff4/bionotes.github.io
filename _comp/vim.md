@@ -26,3 +26,5 @@ permalink: /vim/
 * 3/12 Successfully followed [these instructions](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/) to install vim-plug
 * Also installed dracula, codedark, and personal favorite: Kolor.
 * 3/21 Lots of progress documented in OneNote. For autocomplete based on other words in the document, go into Insert mode and try Ctrl-n and Ctrl-p. For more, see [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#i_CTRL-N) or [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#ins-completion)
+* 3/23 Delighted by typing ci{ or di{ where i refers to "inside" and you can (c)hange or (d)elete everything inside those curly braces.
+	* Works for ci* where * = parentheses, quotes, brackets, curly braces, any open/closed tokens.
