@@ -52,3 +52,8 @@ permalink: /gen-ai/
 	* [Snorkel.ai intro guide](https://snorkel.ai/foundation-models/) dated March 1, 2023. 
 	* Alan Thompson's Life Architect post [Inside language models](https://lifearchitect.ai/models/#summary-models) which is updated recently enough to include GPT-4 and to note that LLaMA has been leaked.
 * [HN thread](https://news.ycombinator.com/item?id=35258553) about an alpaca tuned llama-7b chatbot. llama-30b coming soon. 
+* Rodney Brooks [What Will Transformers Transform](https://rodneybrooks.com/what-will-transformers-transform/)
+	* 'Generative Pre-trained Transformer' models (GPT) are now the rage and have inspired Kissinger and Noam Chomsky. That sure is some hype level
+	* References Wolfram's excellent explainer
+	* "By the way, even since the earliest days of AI, the 1955 proposal for the 1956 workshop on AI, the document in which the term AI first appears anywhere, the goal of the researchers was to produce general intelligence. That AGI is a different term than AI now is due to a bunch of researchers a dozen or so years ago deciding to launch a marketing campaign for themselves by using a new buzz acronym. 'AGI' is just 'AI' as it was known for the first 50+ years of its existence. Hype produced the term 'AGI' with which we are now saddled."
+	* Quotes unconfirmed reports that GPT-4 has 1 trillion parameters, but that has been specifically debunked by Sam Altman and others. (compared with GPT-3 with 175-billion parameters)
