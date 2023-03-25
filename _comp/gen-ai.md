@@ -76,3 +76,10 @@ permalink: /gen-ai/
 		*  Neural networks (volume 5, deep learning), Alpha GO, reinforcement learning (round 4), generative images, and now large language models. 
 	* All have heralded the imminence of human level intelligence in machines. All were hyped up to the limit, but mostly in the days when very few people were even aware of AI, so very few people remember the levels of hype. I’m old. I do remember all these, but have probably forgotten quite a few…
 		* "None of these things have lived up to that early hype.
+
+
+### Papers on ASICS, FPGAs, GPUs, and DL-optimized chips like TPUs
+* [2018 Paper](https://arxiv.org/pdf/1901.00121.pdf) on FPGAs optimized to trainCNNs for classification tasks. Good comparison on FPGAs vs. ASICs specifically in the area of deep learning (although this paper is 5 years old
+* Listing of [AI chips](https://github.com/basicmi/AI-Chip)
+* Very [basic intro](https://machine-learning.paperspace.com/wiki/ai-chips-for-training-and-inference)
+* [Wiki article](https://en.wikipedia.org/wiki/AI_accelerator) on the history and current debate on proper term for TPUs. "AI Accelerator??"
