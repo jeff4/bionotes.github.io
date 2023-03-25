@@ -83,3 +83,4 @@ permalink: /gen-ai/
 * Listing of [AI chips](https://github.com/basicmi/AI-Chip)
 * Very [basic intro](https://machine-learning.paperspace.com/wiki/ai-chips-for-training-and-inference)
 * [Wiki article](https://en.wikipedia.org/wiki/AI_accelerator) on the history and current debate on proper term for TPUs. "AI Accelerator??"
+* [Wiki on TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) is pretty good should read more about it.
