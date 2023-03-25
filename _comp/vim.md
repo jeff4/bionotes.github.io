@@ -28,3 +28,9 @@ permalink: /vim/
 * 3/21 Lots of progress documented in OneNote. For autocomplete based on other words in the document, go into Insert mode and try Ctrl-n and Ctrl-p. For more, see [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#i_CTRL-N) or [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#ins-completion)
 * 3/23 Delighted by typing ci{ or di{ where i refers to "inside" and you can (c)hange or (d)elete everything inside those curly braces.
 	* Works for ci* where * = parentheses, quotes, brackets, curly braces, any open/closed tokens.
+* 3/25 Need to rewatch this [video](https://www.youtube.com/watch?v=bQfFvExpZDU) on g commands. Off the top of my head:
+	* gj and gk in the context of a long line of text which appears visually as a single paragraph allows one to move up and down *within* that paragraph without going to different lines
+		* Also works by adding movement so g5j will move 5 lines down within the visual block of text
+	* gu [text object] makes everything lowercase. gU [text object] makes everything uppercase.
+		* e.g., gu$ makes everything lowercase to the end of the line.
+		* e.g., gU5w makes the next 5 words uppercase
