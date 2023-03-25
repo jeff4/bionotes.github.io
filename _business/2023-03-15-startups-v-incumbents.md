@@ -96,5 +96,12 @@ sitemap: false
 * [Canva unveils new AI features](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
 
 ## March 23, 2023
-* From [daring fireball link](https://daringfireball.net/2023/03/game_over_vocal_deepfakes), John H. Meyer aka @beastmode has made [very convincing deepfake voice versions of Steve Jobs](https://twitter.com/BEASTMODE/status/1637613704312242176)
+* From [Daring Fireball link](https://daringfireball.net/2023/03/game_over_vocal_deepfakes), John H. Meyer aka @beastmode has made [very convincing deepfake voice versions of Steve Jobs](https://twitter.com/BEASTMODE/status/1637613704312242176)
 * From Rodney Brooks, new essay [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
+* Conslidated timeline of ChatGPT from [Techcrunch 3/23 article](https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/)
+* [Klarna plugin for ChatGPT](https://techcrunch.com/2023/03/23/klarna-chatgpt-shopping/)
+	* Mentioned this older 3/16 article on [Apple and gen AI](https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/?guccounter=1)
+* Main TC article on [ChatGPT plugins](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/)
+	* "Easily the most intriguing plugin is OpenAI’s first-party web-browsing plugin, which allows ChatGPT to draw data from around the web to answer the various questions posed to it. (Previously, ChatGPT’s knowledge was limited to dates, events and people prior to around September 2021.) The plugin retrieves content from the web using the Bing search API and shows any websites it visited in crafting an answer, citing its sources in ChatGPT’s responses."
+	* List of early collaborators: "Expedia, FiscalNote, Instacart, Kayak, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram and Zapier"
+	* "Plugins are a curious addition to the timeline of ChatGPT’s development. Once limited to the information within its training data, ChatGPT is, with plugins, suddenly far more capable — and perhaps at less legal risk. Some experts accuse OpenAI of profiting from the unlicensed work on which ChatGPT was trained; ChatGPT’s dataset contains a wide variety of public websites. But plugins potentially address that issue by allowing companies to retain full control over their data." 
