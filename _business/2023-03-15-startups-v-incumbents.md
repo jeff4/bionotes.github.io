@@ -111,3 +111,20 @@ sitemap: false
 	* "I first spoke with Nvidia founder and CEO Jensen Huang after last March’s GTC conference, and again after last fall’s GTC; as I observe in the interview below, Nvidia’s semiannual conference frequency might seem very aggressive, but given Nvidia’s central role in AI our last talk seems like it was years ago.
 	* "In this interview, conducted on the occasion of this week’s GTC, we discuss what Huang calls AI’s iPhone moment — ChatGPT — and how that has affected Nvidia’s business. We also touch on the biggest announcement from GTC — Nvidia’s new DGX Cloud service — while also discussing how Nvidia responded to the Biden administration’s export controls, TSMC’s new plant in Arizona, running AI locally, and Nvidia’s position in the stack in an LLM world.
 	* List of topics: The Impact of ChatGPT | Nvidia’s ChatGPT Response | China and TSMC | DGX Cloud | The DGX Cloud Customer | CUDA and Commoditization | Centralized vs. Localized Compute
+
+## March 26, 2023
+* Synopsys [2021 history and timeline](https://www.synopsys.com/glossary/what-is-moores-law.html) -- coining the term the SysMoore to refer to "SysMoore era designs converge multiple technologies in one sophisticated package, requiring a holistic analysis of the entire system. Previous methods that analyze each part of the system independently simply will not work in the SysMoore era. What is required is a hyper-convergent design flow that integrates best-in-class technology to deliver a unified analysis of the entire system."
+* Really nice Dec 2022 history from [The Computer History Museum](https://history-computer.com/moores-law/) complete with diagrams, pictures, etc.
+* History of FinFET gating strategies and bio of NTU/Berkeley prof Chenming Hu at IEEE Spectrum April 2020. [Good article](https://spectrum.ieee.org/how-the-father-of-finfets-helped-save-moores-law)
+* IEEE Spectrum [ultimate transistor timeline](https://spectrum.ieee.org/transistor-timeline)  diagram of invention+commercialization of all innovations from 1950 - 2022.
+* Long IEEE Spectrum article from Dec 2022 on [Transistors: the device that changed everything](https://spectrum.ieee.org/point-contact-transistor)
+
+## Papers on ASICS, FPGAs, GPUs, and DL-optimized chips like TPUs
+* [2018 Paper](https://arxiv.org/pdf/1901.00121.pdf) on FPGAs optimized to trainCNNs for classification tasks. Good comparison on FPGAs vs. ASICs specifically in the area of deep learning (although this paper is 5 years old
+* Listing of [AI chips](https://github.com/basicmi/AI-Chip)
+* Very [basic intro](https://machine-learning.paperspace.com/wiki/ai-chips-for-training-and-inference)
+* [Wiki article](https://en.wikipedia.org/wiki/AI_accelerator) on the history and current debate on proper term for TPUs. "AI Accelerator??"
+* [Wiki on TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) is pretty good should read more about it.
+* [Wiki on DLP](https://en.wikipedia.org/wiki/Deep_learning_processor) Deep Learning Processor
+* See also Jensen Huang, founder of NVIDIA, on [Huang's Law](https://en.wikipedia.org/wiki/Huang%27s_law)
+
