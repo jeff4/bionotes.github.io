@@ -128,3 +128,7 @@ sitemap: false
 * [Wiki on DLP](https://en.wikipedia.org/wiki/Deep_learning_processor) Deep Learning Processor
 * See also Jensen Huang, founder of NVIDIA, on [Huang's Law](https://en.wikipedia.org/wiki/Huang%27s_law)
 
+## Links from Seymour on Slack
+* Dec 2021 IEEE Spectrum [Is AI Training Outstripping Moore's Law](https://spectrum.ieee.org/ai-training-mlperf)
+* Feb 2022 Discover Magazine / Physics arXiv Blog [AI Machines Have Beaten Moore's Law Over The Last Decade, Say Computer Scientists](https://www.discovermagazine.com/technology/ai-machines-have-beaten-moores-law-over-the-last-decade-say-computer)
+* [Tweet by Cristobal Valenzuela](https://twitter.com/c_valenzuelab/status/1562579547404455936?s=12&t=c1jAK_0EE4wd8BrXW9MM6w) on Moore's law of gen AI: 'the quality, resolution, and control of models doubles about every year.'
