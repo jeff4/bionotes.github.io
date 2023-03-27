@@ -169,4 +169,4 @@ permalink: /comp_notes/
 * 3/10 good list of keyboard shorcuts for [Audacity on Mac](https://tutorialslink.com/shortcut-keys/most-used-keyboard-shortcut-keys-in-audacity-for-mac-os)
 * 3/13 Wow I made so much progress this past weekend. Saturday with vim customization and Sunday with HN related projects and getting them working
 	* See [3/15 notes](/startups-v-incumbents-2023a/) on startups incumbents, the business of Gen AI.
-
+* 3/27 Found out about privacy-focused web analytics using [Plausible](https://plausible.io/privacy-focused-web-analytics) from Erich Grunewald's [blog](https://www.erichgrunewald.com). Came here from this [HN thread](https://news.ycombinator.com/item?id=35332537)
