@@ -81,5 +81,5 @@ permalink: /gen-ai/
 * Downloaded recent Yann LeCun slides and summer 2022 paper summarizing his proposal to approach more human/animal like learning/intelligence for machines
 
 * Articles by [Erich Grunewald](https://www.erichgrunewald.com) from this [HN thread](https://news.ycombinator.com/item?id=35332537):
-	* [Prospect for an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
+	* [Prospect for an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
 	* [Against LLM Reductionism](https://www.erichgrunewald.com/posts/against-llm-reductionism/)
