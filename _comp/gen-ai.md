@@ -83,3 +83,10 @@ permalink: /gen-ai/
 * Articles by [Erich Grunewald](https://www.erichgrunewald.com) from this [HN thread](https://news.ycombinator.com/item?id=35332537):
 	* [Prospect for an AI Winter](https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/)
 	* [Against LLM Reductionism](https://www.erichgrunewald.com/posts/against-llm-reductionism/)
+
+### March 29, 2023
+* Tutorials to consider going through
+	* [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) by George Gerganov. Speech to text on Apple Silicon.
+	* Andrej Karpathy's build GPT from scratch [2-hour video](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=13s)
+		* Description: 'We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. We talk about connections to ChatGPT, which has taken the world by storm. We watch GitHub Copilot, itself a GPT, help us write a GPT (meta :D!) . I recommend people watch the earlier makemore videos to get comfortable with the autoregressive language modeling framework and basics of tensors and PyTorch nn, which we take for granted in this video.'
+	* Prior videos on makemore
