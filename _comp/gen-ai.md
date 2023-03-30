@@ -86,3 +86,4 @@ permalink: /gen-ai/
 
 
 ### Created [this page](/transformer-1) dedicated to Transformers papers and tutorials
+### Created [this page](/python) dedicated to setting up Python environments
