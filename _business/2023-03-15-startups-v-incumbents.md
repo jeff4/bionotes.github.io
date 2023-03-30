@@ -136,5 +136,9 @@ sitemap: false
 ## March 28, 2023
 ### Links from Seymour
 * deepfake images from Seymour https://www.theneurondaily.com/p/pope-trump-elon-go-viral
-
 * From [HN thread](https://news.ycombinator.com/item?id=35273406) Steve Yegge of the famous Google/Amazon/Grab rants wrote an LLM rant for [Sourcegraph](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
+
+## March 30, 2023
+* Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
+## March 30, 2023
+* Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
