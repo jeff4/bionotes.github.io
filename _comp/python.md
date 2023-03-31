@@ -4,14 +4,6 @@ permalink: /python/
 ---
 
 ## March 30, 2023
-* Videos by Andrej Karpathy
-	* [Makemore 1](https://www.youtube.com/watch?v=PaCmpygFfXo&t=198s)
-	* [Makemore 2](https://www.youtube.com/watch?v=TCH_1BHY58I)
-	* [Makemore 3](https://www.youtube.com/watch?v=P6sfmUTpUmc)
-	* [Makemore 4](https://www.youtube.com/watch?v=q8SA3rM6ckI)
-	* [Makemore 5](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
-
-
 ### Articles on setting up python environment
 * First, install mamba as a lighter weight and faster alternative to conda
 * Next, install jupyter notebook server which relies on mamba + python
@@ -21,3 +13,14 @@ permalink: /python/
 * This 2020 update to an older 2018 version of a post explains why ["Pip is here to stay!"](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/#pip-is-here-to-stay)
 * Older 2018 piece on ["Why You Need Python Environments and How to Manage Them with Conda"](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
 * Cached version of this older Coiled blog post on ["Use Mambaforge to Conda Install PyData Stack on your Apple M1 Silicon Machine"](https://webcache.googleusercontent.com/search?q=cache:AmxeEUnBp84J:https://www.coiled.io/blog/apple-arm64-mambaforge&cd=6&hl=en&ct=clnk&gl=us&client=safari)
+
+### Mamba + Jupyter setup
+* [How to install JupyterLab using Mamb](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
+
+### Watch Transformer videos
+* Videos by Andrej Karpathy
+	* [Makemore 1](https://www.youtube.com/watch?v=PaCmpygFfXo&t=198s)
+	* [Makemore 2](https://www.youtube.com/watch?v=TCH_1BHY58I)
+	* [Makemore 3](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+	* [Makemore 4](https://www.youtube.com/watch?v=q8SA3rM6ckI)
+	* [Makemore 5](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
