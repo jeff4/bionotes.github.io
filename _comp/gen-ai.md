@@ -87,3 +87,6 @@ permalink: /gen-ai/
 
 ### Created [this page](/transformer-1) dedicated to Transformers papers and tutorials
 ### Created [this page](/python) dedicated to setting up Python environments
+
+### March 31,2023
+* [vicuna 13B](https://news.ycombinator.com/item?id=35378683) is an online competitor based on LLaMA 13B but with different training
