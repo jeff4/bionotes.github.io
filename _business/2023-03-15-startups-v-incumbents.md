@@ -140,5 +140,4 @@ sitemap: false
 
 ## March 30, 2023
 * Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
-## March 30, 2023
-* Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
+* 4 company consortium announced at NVIDIA GTC 2023 on March 21, 2023 ["NVIDIA, ASML, TSMC and Synopsys Set Foundation for Next-Generation Chip Manufacturing"](https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing)
