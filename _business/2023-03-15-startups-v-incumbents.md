@@ -16,13 +16,13 @@ sitemap: false
 		* Models that power AI products, made available either as proprietary APIs or as open-source checkpoints (which, in turn, require a hosting solution)
 		* Infrastructure vendors (i.e. cloud platforms and hardware manufacturers) that run training and inference workloads for generative AI models
 
-## Three days ending Sunday March 12, 2023
+## Three days ending Sunday 12 March 2023
 * Simon Willison's timeline of LLaMA developments as of 3/13/2023
 	* [HN thread](https://news.ycombinator.com/item?id=35140369)
 	* [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
 	* [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
 
-## March 14, 2023 - Tuesday
+## Tuesday 14 March 2023
 * Announcements from OpenAI today
 	* [GPT-4 is announced](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
 	* it can ingest images as well as text to output text
@@ -46,18 +46,16 @@ sitemap: false
 	* [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
 	* [Quora launches Poe based on GPT-4](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/) with subscriptions
 
-## March 16, 2023
+## 16 March 2023
 * [Bing opens waitlist for chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
 * List of MLOps platforms include Arise, Fiddler, Dataiku, and DataRobot in this [TC article about Seldon](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
 * [List of new Office 365 features](https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/)
 
-## March 20, 2023
+## 20 March 2023
 * [Tavus uses gen AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
 * [Filmustage uses AI to convert film scripts into shooting schedules](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
 
-
-
-## March 21, 2023
+## 21 March 2023
 * Adobe launches [Firefly](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
 * Nvidia GTC Conference [announcements](https://www.engadget.com/nvidia-and-medtronic-are-building-an-ai-enhanced-endoscopy-tool-161532723.html)
 * Google BARD announcements
@@ -86,7 +84,7 @@ sitemap: false
 * [Nvidia announces new cloud services as part of GPT](https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/) the GPU Tech Conference
 	* See also [Nvidia's partnership with Google Cloud](https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/)
 
-## March 22, 2023
+## 22 March 2023
 * [Bard does poorly compared to GPT-4 and Anthropic's Claude](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
 * [Mozilla launches Mozilla.ai](https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/) for 'trustworthy AI'
 * [GitHub launches Copilot x](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/) which is the next version of copilot
@@ -95,7 +93,7 @@ sitemap: false
 * [Adobe describes payments to artists for gen AI images](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/) 
 * [Canva unveils new AI features](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
 
-## March 23, 2023
+## 23 March 2023
 * From [Daring Fireball link](https://daringfireball.net/2023/03/game_over_vocal_deepfakes), John H. Meyer aka @beastmode has made [very convincing deepfake voice versions of Steve Jobs](https://twitter.com/BEASTMODE/status/1637613704312242176)
 * From Rodney Brooks, new essay [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
 * Conslidated timeline of ChatGPT from [Techcrunch 3/23 article](https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/)
@@ -106,13 +104,13 @@ sitemap: false
 	* List of early collaborators: "Expedia, FiscalNote, Instacart, Kayak, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram and Zapier"
 	* "Plugins are a curious addition to the timeline of ChatGPT’s development. Once limited to the information within its training data, ChatGPT is, with plugins, suddenly far more capable — and perhaps at less legal risk. Some experts accuse OpenAI of profiting from the unlicensed work on which ChatGPT was trained; ChatGPT’s dataset contains a wide variety of public websites. But plugins potentially address that issue by allowing companies to retain full control over their data." 
 
-## March 25, 2023
+## 25 March 2023
 * [HN thread](https://news.ycombinator.com/item?id=35303574) about Ben Thompson's [interview with Jensen Huang](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/). Quotes:
 	* "I first spoke with Nvidia founder and CEO Jensen Huang after last March’s GTC conference, and again after last fall’s GTC; as I observe in the interview below, Nvidia’s semiannual conference frequency might seem very aggressive, but given Nvidia’s central role in AI our last talk seems like it was years ago.
 	* "In this interview, conducted on the occasion of this week’s GTC, we discuss what Huang calls AI’s iPhone moment — ChatGPT — and how that has affected Nvidia’s business. We also touch on the biggest announcement from GTC — Nvidia’s new DGX Cloud service — while also discussing how Nvidia responded to the Biden administration’s export controls, TSMC’s new plant in Arizona, running AI locally, and Nvidia’s position in the stack in an LLM world.
 	* List of topics: The Impact of ChatGPT | Nvidia’s ChatGPT Response | China and TSMC | DGX Cloud | The DGX Cloud Customer | CUDA and Commoditization | Centralized vs. Localized Compute
 
-## March 26, 2023
+## 26 March 2023
 * Synopsys [2021 history and timeline](https://www.synopsys.com/glossary/what-is-moores-law.html) -- coining the term the SysMoore to refer to "SysMoore era designs converge multiple technologies in one sophisticated package, requiring a holistic analysis of the entire system. Previous methods that analyze each part of the system independently simply will not work in the SysMoore era. What is required is a hyper-convergent design flow that integrates best-in-class technology to deliver a unified analysis of the entire system."
 * Really nice Dec 2022 history from [The Computer History Museum](https://history-computer.com/moores-law/) complete with diagrams, pictures, etc.
 * History of FinFET gating strategies and bio of NTU/Berkeley prof Chenming Hu at IEEE Spectrum April 2020. [Good article](https://spectrum.ieee.org/how-the-father-of-finfets-helped-save-moores-law)
@@ -133,11 +131,15 @@ sitemap: false
 * Feb 2022 Discover Magazine / Physics arXiv Blog [AI Machines Have Beaten Moore's Law Over The Last Decade, Say Computer Scientists](https://www.discovermagazine.com/technology/ai-machines-have-beaten-moores-law-over-the-last-decade-say-computer)
 * [Tweet by Cristobal Valenzuela](https://twitter.com/c_valenzuelab/status/1562579547404455936?s=12&t=c1jAK_0EE4wd8BrXW9MM6w) on Moore's law of gen AI: 'the quality, resolution, and control of models doubles about every year.'
 
-## March 28, 2023
+## 28 March 2023
 ### Links from Seymour
 * deepfake images from Seymour https://www.theneurondaily.com/p/pope-trump-elon-go-viral
 * From [HN thread](https://news.ycombinator.com/item?id=35273406) Steve Yegge of the famous Google/Amazon/Grab rants wrote an LLM rant for [Sourcegraph](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 
-## March 30, 2023
+## 30 March 2023
 * Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 * 4 company consortium announced at NVIDIA GTC 2023 on March 21, 2023 ["NVIDIA, ASML, TSMC and Synopsys Set Foundation for Next-Generation Chip Manufacturing"](https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing)
+
+
+## 1 April 2023
+* Paul Krugman on history of [IT and Productivity](https://www.nytimes.com/2023/03/31/opinion/ai-chatgpt-jobs-economy.html)
