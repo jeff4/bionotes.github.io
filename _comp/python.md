@@ -38,5 +38,7 @@ permalink: /python/
 
 
 # PyTorch Notes
+* Installing pytorch using conda / mamba. Gated [Medium article](https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c) 
+* Successfully installed stable 2.0.0 version for Apple Silicon using 'mamba install pytorch torchvision -cpytorch'
 
 # Mamba / Conda Notes
