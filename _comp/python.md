@@ -32,6 +32,6 @@ permalink: /python/
 * After successful install of mambaforge from github (see ON notes), i verified that both conda info and mamba info work. Eventually, I should read [this page](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) from the mamba docs site.
 * Took multiple steps, but using [this YouTube video](https://www.youtube.com/watch?v=Qq8gPwRpbp0)I was able to: (1) install mamba, (2) install python 3.10 within mamba, (3) install jupyter lab, (4) activate the jupyter mamba 'space' or whatever it's called, and (5) launch the jupyter server and connect to it from my local web client.
 * Out of curiosity, I wondered how well PyTorch works with Apple Silicon and was led by this [reddit comment](https://www.reddit.com/r/pytorch/comments/10g7jw8/state_of_mps_apple_m1m2_support_in_pytorch/) to this PyTorch [GitHub issue](https://github.com/pytorch/pytorch/issues/77764)
-
+* Should go through the basic [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) and download the Jupyter notebook to run locally or can run through Google Colab.
 
 
