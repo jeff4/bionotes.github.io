@@ -3,7 +3,7 @@ title: Python Notes
 permalink: /python/
 ---
 
-## March 30, 2023
+## 30 March 2023
 ### Articles on setting up python environment
 * First, install mamba as a lighter weight and faster alternative to conda
 * Next, install jupyter notebook server which relies on mamba + python
@@ -25,3 +25,7 @@ permalink: /python/
 	* [Makemore 4](https://www.youtube.com/watch?v=q8SA3rM6ckI)
 	* [Makemore 5](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
 * Main [Transformer video](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=13s)
+
+
+## 01 April 2023
+* Quote from aseifert's [article](https://aseifert.com/p/python-environments/): "Pip, venv, virtualenv, pyenv, pipenv, micropipenv, pip-tools, conda, miniconda, mamba, micromamba, poetry, hatch, pdm, pyflow 🤯 These days even the most senior Python developer is confused about all the options to manage environments."
