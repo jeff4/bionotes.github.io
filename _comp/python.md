@@ -54,3 +54,4 @@ permalink: /python/
 		* 'install -n pytorch-jh' means install into the *pytorch-jh* environmnet
 		* the list of packages per PyTorch.org are: *pytorch*, *torchvision*, 
 		* i'm not exactly sure what '-cpytorch' is doing but it somehow knew to download the mac-os-arm64 version so I think this is related
+* Verified that pytorch is working and using the M2 GPU by running 1jh_test.py and 2jh_test.py adapted from the above [Towards Data Science article](https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c) 
