@@ -35,7 +35,7 @@ permalink: /python/
 
 # Jupyter Notes
 * Mamba + Jupyter setup video [How to install JupyterLab using Mamba](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
-
+* In the proper mamba environment, run 'jupyter notebook' and it should start the server in the terminal and automatically open a web browser client. Success!
 
 # PyTorch Notes
 * Installing pytorch using conda / mamba. Gated Medium [Towards Data Science article](https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c) 
@@ -44,7 +44,7 @@ permalink: /python/
 # Mamba / Conda Notes
 * To see list of conda environments created, use this command 'conda info --envs'
 * Steps:
-	1. install conda
+	1. install conda by navigating to [mamba-forge](https://github.com/conda-forge/miniforge#mambaforge) at github. Download the "Mambaforge-MacOSX-arm64.sh", navigate to the directory, and then execute the shell script by typing 'Mambaforge-MacOSX-arm64.sh' from the command line.
 	1. create an environment for pytorch. E.g., I want to call my personal pytorch environment *pytorch-jh*, so i type 'mamba create -n pytorch-jh -c conda-forge python=3.10'
 		* 'create -n pytorch-jh' creates the environment called *pytorch-jh*
 		* 'create -c conda-forge' indicates i need to download python from the *conda-forge* channel
