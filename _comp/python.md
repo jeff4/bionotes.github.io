@@ -29,3 +29,5 @@ permalink: /python/
 
 ## 01 April 2023
 * Quote from aseifert's [article](https://aseifert.com/p/python-environments/): "Pip, venv, virtualenv, pyenv, pipenv, micropipenv, pip-tools, conda, miniconda, mamba, micromamba, poetry, hatch, pdm, pyflow 🤯 These days even the most senior Python developer is confused about all the options to manage environments."
+* After successful install of mambaforge from github (see ON notes), i verified that both conda info and mamba info work. Eventually, I should read [this page](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) from the mamba docs site.
+* Took multiple steps, but I was able to: (1) install mamba, (2) install python 3.10 within mamba, (3) install jupyter lab, (4) activate the jupyter mamba 'space' or whatever it's called, and (5) launch the jupyter server and connect to it from my local web client.
