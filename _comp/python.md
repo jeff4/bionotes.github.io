@@ -14,9 +14,6 @@ permalink: /python/
 * Older 2018 piece on ["Why You Need Python Environments and How to Manage Them with Conda"](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
 * Cached version of this older Coiled blog post on ["Use Mambaforge to Conda Install PyData Stack on your Apple M1 Silicon Machine"](https://webcache.googleusercontent.com/search?q=cache:AmxeEUnBp84J:https://www.coiled.io/blog/apple-arm64-mambaforge&cd=6&hl=en&ct=clnk&gl=us&client=safari)
 
-### Mamba + Jupyter setup
-* [How to install JupyterLab using Mamba](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
-
 ### Andrej Karpathy videos to watch on Transformers
 * Makemore series
 	* [Makemore 1](https://www.youtube.com/watch?v=PaCmpygFfXo&t=198s)
@@ -26,7 +23,6 @@ permalink: /python/
 	* [Makemore 5](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
 * Main [Transformer video](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=13s)
 
-
 ## 01 April 2023
 * Quote from aseifert's [article](https://aseifert.com/p/python-environments/): "Pip, venv, virtualenv, pyenv, pipenv, micropipenv, pip-tools, conda, miniconda, mamba, micromamba, poetry, hatch, pdm, pyflow 🤯 These days even the most senior Python developer is confused about all the options to manage environments."
 * After successful install of mambaforge from github (see ON notes), i verified that both conda info and mamba info work. Eventually, I should read [this page](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) from the mamba docs site.
@@ -34,4 +30,13 @@ permalink: /python/
 * Out of curiosity, I wondered how well PyTorch works with Apple Silicon and was led by this [reddit comment](https://www.reddit.com/r/pytorch/comments/10g7jw8/state_of_mps_apple_m1m2_support_in_pytorch/) to this PyTorch [GitHub issue](https://github.com/pytorch/pytorch/issues/77764)
 * Should go through the basic [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) and download the Jupyter notebook to run locally or can run through Google Colab.
 
+## 02 April 2023
 
+
+# Jupyter Notes
+* Mamba + Jupyter setup video [How to install JupyterLab using Mamba](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
+
+
+# PyTorch Notes
+
+# Mamba / Conda Notes
