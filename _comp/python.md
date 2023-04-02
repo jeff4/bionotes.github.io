@@ -15,7 +15,7 @@ permalink: /python/
 * Cached version of this older Coiled blog post on ["Use Mambaforge to Conda Install PyData Stack on your Apple M1 Silicon Machine"](https://webcache.googleusercontent.com/search?q=cache:AmxeEUnBp84J:https://www.coiled.io/blog/apple-arm64-mambaforge&cd=6&hl=en&ct=clnk&gl=us&client=safari)
 
 ### Mamba + Jupyter setup
-* [How to install JupyterLab using Mamb](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
+* [How to install JupyterLab using Mamba](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
 
 ### Andrej Karpathy videos to watch on Transformers
 * Makemore series
