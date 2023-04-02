@@ -45,7 +45,7 @@ permalink: /python/
 * To see list of conda environments created, use this command 'conda info --envs'
 * Steps:
 	1. install conda
-	1. create an environment for pytorch. E.g., I want to call my personal pytorch environment pytorch-jh, so i type 'mamba create -n pytorch-jh -c conda-forge python=3.10'
+	1. create an environment for pytorch. E.g., I want to call my personal pytorch environment *pytorch-jh*, so i type 'mamba create -n pytorch-jh -c conda-forge python=3.10'
 		* 'create -n pytorch-jh' creates the environment called *pytorch-jh*
 		* 'create -c conda-forge' indicates i need to download python from the *conda-forge* channel
 		* 'python=3.10' pins the version of python as 3.10 for the *pytorch-jh* environment
