@@ -144,6 +144,17 @@ sitemap: false
 ## 1 April 2023
 * Paul Krugman on history of [IT and Productivity](https://www.nytimes.com/2023/03/31/opinion/ai-chatgpt-jobs-economy.html)
 
-
-## 3 April 2023
+## 2 April 2023
 * Updated 2023 video of "Everything is a Remix" -- [Part 4 on AI and Image Generation](https://www.youtube.com/watch?v=rswxcDyotXA)
+
+## 03 April 2023
+* Jeremy Howard's [Twitter thread](https://twitter.com/jeremyphoward/status/1642726595436883969?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) about how mmap and llama.cpp are misleading re: how little memory is required. Related [HN thread](https://news.ycombinator.com/item?id=35426679)
+* Blinded by the speed of change [Ron Miller in TC 3/26/2023](https://techcrunch.com/2023/03/26/generative-ai-quick-growth/) -- gen ai quick growth
+* Deep Agency, Danny Postma of Headlime, an AI-powered marketing copy startup recently acquired by Jasper [Techcrunch 3/27](https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/)
+* Asana launches new work [intelligence tools](https://techcrunch.com/2023/03/28/asana-launches-new-work-intelligence-tools-with-ai-on-the-way/)
+* [MS launches Copilot for cybersecurity](https://techcrunch.com/2023/03/28/microsoft-lets-generative-ai-loose-on-cybersecurity/)
+* [TC article](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/) about [Open Letter asking for 6 month pause](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+* [From Balenciaga Pope to the Great Cascadia Earthquake, new deepfakes](https://techcrunch.com/2023/03/29/ai-pope-midjourney-goncharov/) including info about Scorsese's made up 1973 film "Goncharov".
+* Ads added to [Microsoft Bing chat](https://techcrunch.com/2023/03/29/that-was-fast-microsoft-slips-ads-into-ai-powered-bing-chat/)
+* [AI Based cybersecurity DataDome](https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/) raises $42M Series C
+* [Fixie wants to make it easier to build on top of LLMs](https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/)
