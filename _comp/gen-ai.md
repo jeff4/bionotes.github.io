@@ -91,3 +91,6 @@ permalink: /gen-ai/
 
 ## 31 March 2023
 * [vicuna 13B](https://news.ycombinator.com/item?id=35378683) is an online competitor based on LLaMA 13B but with different training
+
+## 3 April 2023
+* Interesting way of explaining uncanny confidence of LLMs by Devin Coldeway 4/03 in TechCrunch article ["The Great Pretender"](https://techcrunch.com/2023/04/03/the-great-pretender/)
