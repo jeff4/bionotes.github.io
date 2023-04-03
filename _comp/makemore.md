@@ -25,4 +25,4 @@ permalink: /makemore/
 This should be a codeblock
 	for w in words[:1]:
 		for ch1, ch2 in zip(w, w[1:]):
-			print(ch1,ch2)
+			print(ch1,ch2
