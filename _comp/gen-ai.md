@@ -37,7 +37,8 @@ permalink: /gen-ai/
 	* as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
 	* 2nd edition published March 25, 2022
 * [Good guide](https://sebastianraschka.com/blog/2023/llm-reading-list.html) to all the relevant papers over the last 9 years on transformers, LLMs etc. by Sebastian Raschka. Published February, 2023.
-### Created [this page](/startups-v-incumbents-2023a) for business notes on Generative AI (March 15, 2023)
+
+## Created [this page](/startups-v-incumbents-2023a) for business notes on Generative AI (March 15, 2023)
 * Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
 	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
 	* Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
@@ -77,7 +78,7 @@ permalink: /gen-ai/
 	* All have heralded the imminence of human level intelligence in machines. All were hyped up to the limit, but mostly in the days when very few people were even aware of AI, so very few people remember the levels of hype. I’m old. I do remember all these, but have probably forgotten quite a few…
 		* "None of these things have lived up to that early hype.
 
-### March 27, 2023
+## 27 March 2023
 * Downloaded recent Yann LeCun slides and summer 2022 paper summarizing his proposal to approach more human/animal like learning/intelligence for machines
 
 * Articles by [Erich Grunewald](https://www.erichgrunewald.com) from this [HN thread](https://news.ycombinator.com/item?id=35332537):
@@ -85,8 +86,21 @@ permalink: /gen-ai/
 	* [Against LLM Reductionism](https://www.erichgrunewald.com/posts/against-llm-reductionism/)
 
 
-### Created [this page](/transformer-1) dedicated to Transformers papers and tutorials
-### Created [this page](/python) dedicated to setting up Python environments
+## Created [this page](/transformer-1) dedicated to Transformers papers and tutorials
+## Created [this page](/python) dedicated to setting up Python environments
 
-### March 31,2023
+## 31 March 2023
 * [vicuna 13B](https://news.ycombinator.com/item?id=35378683) is an online competitor based on LLaMA 13B but with different training
+
+### 03 April 2023
+* Jeremy Howard's [Twitter thread](https://twitter.com/jeremyphoward/status/1642726595436883969?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) about how mmap and llama.cpp are misleading re: how little memory is required. Related [HN thread](https://news.ycombinator.com/item?id=35426679)
+* Blinded by the speed of change [Ron Miller in TC 3/26/2023](https://techcrunch.com/2023/03/26/generative-ai-quick-growth/) -- gen ai quick growth
+* Deep Agency, Danny Postma of Headlime, an AI-powered marketing copy startup recently acquired by Jasper [Techcrunch 3/27](https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/)
+* Asana launches new work [intelligence tools](https://techcrunch.com/2023/03/28/asana-launches-new-work-intelligence-tools-with-ai-on-the-way/)
+* [MS launches Copilot for cybersecurity](https://techcrunch.com/2023/03/28/microsoft-lets-generative-ai-loose-on-cybersecurity/)
+* [TC article](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/) about [Open Letter asking for 6 month pause](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+* [From Balenciaga Pope to the Great Cascadia Earthquake, new deepfakes](https://techcrunch.com/2023/03/29/ai-pope-midjourney-goncharov/) including info about Scorsese's made up 1973 film "Goncharov".
+* Ads added to [Microsoft Bing chat](https://techcrunch.com/2023/03/29/that-was-fast-microsoft-slips-ads-into-ai-powered-bing-chat/)
+* [AI Based cybersecurity DataDome](https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/) raises $42M Series C
+* [Fixie wants to make it easier to build on top of LLMs](https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/)
+
