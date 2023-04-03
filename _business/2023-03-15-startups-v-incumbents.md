@@ -143,3 +143,7 @@ sitemap: false
 
 ## 1 April 2023
 * Paul Krugman on history of [IT and Productivity](https://www.nytimes.com/2023/03/31/opinion/ai-chatgpt-jobs-economy.html)
+
+
+## 3 April 2023
+* Updated 2023 video of "Everything is a Remix" -- [Part 4 on AI and Image Generation](https://www.youtube.com/watch?v=rswxcDyotXA)
