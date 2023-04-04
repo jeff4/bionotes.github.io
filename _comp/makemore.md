@@ -13,17 +13,36 @@ permalink: /makemore/
 * Main [Transformer video](https://www.youtube.com/watch?v=kCc8FmEb1nY&)
 
 
-# Makemore video 1
-* min(len(w) for w in words) returns 2 which means t the shortest word in names.txt has 2 letters
-* max(len(w) for w in words) returns 15 which means t the shortest word in names.txt has 15 letters
+# Makemore video 1 Notes
 
 
-## Bigram model
+### Read in names.txt and populate words object
+words = open('names.txt','r').read().splitlines()
+
+### View first 10 entries
+words[:10]
+
+### See how many records are in name.txt
+len(words)
+
+### See the shortest and longest words available in words.txt
+min(len(w) for w in words) returns 2 which means t the shortest word in names.txt has 2 letters
+max(len(w) for w in words) returns 15 which means t the shortest word in names.txt has 15 letters
+
+
+### Bigram model
 * judge 2 characters at a time.
 * sample python code to just grab 2 characters at a time (8:05)
 
-This should be a codeblock
-
-	for w in words[:1]:
+	for w in words[:3]:
 		for ch1, ch2 in zip(w, w[1:]):
 			print(ch1,ch2)
+
+* sample python code to grab 2 characters at a time, but also insert a <S> start character and an <E> end character at the beginning and end of each name
+
+	for w in words[:3]:
+		chs = ['<S>'] + list(w) + ['<E>']
+		for ch1, ch2 in zip(chs, chs[1:]):
+			print(ch1,ch2)
+
+* Got to PyTorch and created zero tensor at 13:53
