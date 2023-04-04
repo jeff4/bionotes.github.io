@@ -34,8 +34,8 @@ max(len(w) for w in words) returns 15 which means t the shortest word in names.t
 * judge 2 characters at a time.
 * sample python code to just grab 2 characters at a time (8:05)
  
-		for w in words[:3]:
-			for ch1, ch2 in zip(w, w[1:]):
-				print(ch1,ch2)
+	for w in words[:3]:
+		for ch1, ch2 in zip(w, w[1:]):
+			print(ch1,ch2)
 
 * Got to PyTorch and created zero tensor at 13:53
