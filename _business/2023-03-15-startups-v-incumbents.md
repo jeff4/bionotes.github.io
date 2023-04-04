@@ -174,3 +174,4 @@ sitemap: false
 ## 4 April 2023
 * Founded by alums of Quora, Meta, DeepMind, OpenAI, and Databricks, [Perplexity launches conversational AI based search engine](https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/)
 * List of YC-backed startups trying to build [ChatGPT for X](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/) including Yuma, Baselit, Lasso etc.
+* New [386-page Stanford HAI paper](https://aiindex.stanford.edu/report/) and [associated TC report](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/) by Devin Coldewey
