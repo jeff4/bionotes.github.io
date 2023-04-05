@@ -177,6 +177,7 @@ sitemap: false
 * New [386-page Stanford HAI paper](https://aiindex.stanford.edu/report/) and [associated TC report](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/) by Devin Coldewey
 * [NYT piece on Runway AI](https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html) and instant videos created by text prompt
 
+## Created [this page](/llm-product/) to track notes on product experience as an end-user and consumer
 
 ## 5 April 2023
 * Annie Lowery interview with Amba Kak at NY=based AI Now Institute in [The Atlantic, 4/03/2023](https://apple.news/AT3ZrLLcNTViu4VSM3E9bAw) "AI isn’t omnipotent. It’s janky." 
