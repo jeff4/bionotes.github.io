@@ -17,17 +17,19 @@ permalink: /makemore/
 
 
 ### Read in names.txt and populate words object
-words = open('names.txt','r').read().splitlines()
+		words = open('names.txt','r').read().splitlines()
 
 ### View first 10 entries
-words[:10]
+		words[:10]
 
 ### See how many records are in name.txt
-len(words)
+		len(words)
 
 ### See the shortest and longest words available in words.txt
-min(len(w) for w in words) returns 2 which means t the shortest word in names.txt has 2 letters
-max(len(w) for w in words) returns 15 which means t the shortest word in names.txt has 15 letters
+#### returns 2 which means t the shortest word in names.txt has 2 letters
+		min(len(w) for w in words) 
+#### returns 15 which means t the shortest word in names.txt has 15 letters
+		max(len(w) for w in words) 
 
 
 ### Bigram model
