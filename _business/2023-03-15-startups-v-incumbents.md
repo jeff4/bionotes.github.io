@@ -176,3 +176,9 @@ sitemap: false
 * List of YC-backed startups trying to build [ChatGPT for X](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/) including Yuma, Baselit, Lasso etc.
 * New [386-page Stanford HAI paper](https://aiindex.stanford.edu/report/) and [associated TC report](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/) by Devin Coldewey
 * [NYT piece on Runway AI](https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html) and instant videos created by text prompt
+
+
+## 5 April 2023
+* Annie Lowery interview with Amba Kak at NY=based AI Now Institute in [The Atlantic, 4/03/2023](https://apple.news/AT3ZrLLcNTViu4VSM3E9bAw) "AI isn’t omnipotent. It’s janky." 
+* [The Atlantic 4/04](https://apple.news/Ao6QJuWOYSwaZDTgVD8lYiAa) by Jacob Stern on how software AI is advancing faster than Robotics.  "AI is running circles around robotics"
+	* 'The counterintuitive notion that it’s harder to build artificial bodies than artificial minds is not a new one. In 1988, the computer scientist Hans Moravec observed that computers already excelled at tasks that humans tended to think of as complicated or difficult (math, chess, IQ tests) but were unable to match “the skills of a one-year-old when it comes to perception and mobility.” Six years later, the cognitive psychologist Steven Pinker offered a pithier formulation: “The main lesson of thirty-five years of AI research,” he wrote, “is that the hard problems are easy and the easy problems are hard.” This lesson is now known as “Moravec’s paradox.”'
