@@ -1,4 +1,4 @@
----
+--
 title: Makemore Notes
 permalink: /makemore/
 ---
@@ -39,3 +39,5 @@ max(len(w) for w in words) returns 15 which means t the shortest word in names.t
 				print(ch1,ch2)
 
 * Got to PyTorch and created zero tensor at 13:53
+* 15:27 Next, learning how to manipulate errors using torch.tensor object. torch.tensor is zero-indexed in both dimensions so to access the last (aka bottom right-most) cell in a 5x5 array named A, you would enter 'A.(4,4)'.
+* Create a new square array. 26 letters in the alphabet plus 2 more for start character 'S', and end character 'E'. so 28x28 array
