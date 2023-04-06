@@ -35,10 +35,8 @@ permalink: /llm-product/
 			1. "Python Web Development with Flask" by Jose Portilla: This course teaches you how to build web applications using the Flask web framework. It covers topics like routing, templates, forms, and databases, and provides hands-on experience building a full-stack web application.
 		* These are just a few examples of the many great books and courses available for experienced programmers who are new to Python. I hope you find them helpful!'
 
-
 * Prompt 2 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 	* GPT regenerated response: 'There are many great resources for experienced programmers who are new to Python. Here are some books and courses that I would recommend:
-
 		* Books:
 			1. "Python Crash Course" by Eric Matthes: This book is an excellent resource for programmers who are new to Python. It covers the basics of Python programming, as well as more advanced topics like web development, data visualization, and machine learning.
 			1. "Fluent Python" by Luciano Ramalho: This book is geared towards experienced programmers who are already familiar with Python's syntax and basic data types. It covers advanced topics like metaclasses, decorators, and concurrency.
