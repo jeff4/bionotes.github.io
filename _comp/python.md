@@ -61,4 +61,7 @@ permalink: /python/
 * Thoughts and notes on lists (ordered) vs. dictionaries (unorderd key-value pairs, allowing duplicate values) vs. sets (like dicts but unique with no distinct values)
 * examples of iterables. All of the 3 above plus strings. See
 * zip() function. strip() / lstrip() / rstrip() to get rid of whitespace characters. difference between pop() and delete().
-
+* using python interpreter, up to 'Organizing a List' on p. 42
+* when in doubt about using an array versus a standard python list, use the better, more mathematically useful [numpy.array()](https://numpy.org/doc/stable/reference/generated/numpy.array.html) 
+	* Do *not* default to [array.array()](https://docs.python.org/3/library/array.html) which is a [C-style array](https://pimylifeup.com/python-arrays/).
+Instead, use the more mathematically useful [numpy.array()](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
