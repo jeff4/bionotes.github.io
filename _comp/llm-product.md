@@ -12,8 +12,7 @@ permalink: /llm-product/
 ### 2023 Log
 
 ## 05 April 2023
-* Decided to use GPT4 to learn more python
-* Prompt 1: "Assuming I understand the fundamentals of data structures and algorithms and am comfortable writing basic programs in other languages like C, Java, and Javascript, what are the core concepts that would get me productive as a developer new to Python?"
+### Prompt 1: "Assuming I understand the fundamentals of data structures and algorithms and am comfortable writing basic programs in other languages like C, Java, and Javascript, what are the core concepts that would get me productive as a developer new to Python?"
 	* GPT: "If you're already familiar with programming concepts and have experience in other languages, transitioning to Python should be relatively straightforward. Here are some core concepts to focus on that will help you get productive as a developer new to Python:
 		1. Python's syntax and basic data types: Python has a clean, readable syntax, and it's important to familiarize yourself with the language's basic data types (such as strings, numbers, lists, and dictionaries) and their operations.
 		1. Python's built-in functions and libraries: Python has a rich set of built-in functions and libraries that can help you write efficient and readable code quickly. Some commonly used libraries include NumPy, Pandas, and Matplotlib for data analysis and visualization, and Flask and Django for web development.
@@ -23,7 +22,7 @@ permalink: /llm-product/
 		1. Python's community and ecosystem: Python has a large and active community, with many resources available online, including documentation, tutorials, and forums. It's also important to be familiar with package managers like pip and conda, which make it easy to install and manage third-party libraries and packages.
 	By focusing on these core concepts, you'll be well on your way to becoming a productive Python developer. Good luck!"
 
-* Prompt 2: "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt 2: "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 	* GPT: 'There are many great books and courses for experienced programmers who are new to Python. Here are some recommendations:
 		* Books:
 			1. "Python Crash Course" by Eric Matthes: This book is a great introduction to Python for programmers who are already familiar with other languages. It covers the basics of Python syntax, data structures, control flow, and functions, as well as more advanced topics like file I/O, testing, and web development.
@@ -35,7 +34,7 @@ permalink: /llm-product/
 			1. "Python Web Development with Flask" by Jose Portilla: This course teaches you how to build web applications using the Flask web framework. It covers topics like routing, templates, forms, and databases, and provides hands-on experience building a full-stack web application.
 		* These are just a few examples of the many great books and courses available for experienced programmers who are new to Python. I hope you find them helpful!'
 
-* Prompt 2 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt 2 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 	* GPT regenerated response: 'There are many great resources for experienced programmers who are new to Python. Here are some books and courses that I would recommend:
 		* Books:
 			1. "Python Crash Course" by Eric Matthes: This book is an excellent resource for programmers who are new to Python. It covers the basics of Python programming, as well as more advanced topics like web development, data visualization, and machine learning.
