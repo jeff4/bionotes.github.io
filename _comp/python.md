@@ -32,7 +32,6 @@ permalink: /python/
 
 ## 02 April 2023
 
-
 # Jupyter Notes
 * Mamba + Jupyter setup video [How to install JupyterLab using Mamba](https://www.youtube.com/watch?v=Qq8gPwRpbp0)
 * In the proper mamba environment, run 'jupyter notebook' and it should start the server in the terminal and automatically open a web browser client. Success!
@@ -55,3 +54,11 @@ permalink: /python/
 		* the list of packages per PyTorch.org are: *pytorch*, *torchvision*, 
 		* i'm not exactly sure what '-cpytorch' is doing but it somehow knew to download the mac-os-arm64 version so I think this is related
 * Verified that pytorch is working and using the M2 GPU by running 1jh_test.py and 2jh_test.py adapted from the above [Towards Data Science article](https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c) 
+
+
+## 06 April 2023
+* Used ChatGPT to find latest in Python books and courses
+* Thoughts and notes on lists (ordered) vs. dictionaries (unorderd key-value pairs, allowing duplicate values) vs. sets (like dicts but unique with no distinct values)
+* examples of iterables. All of the 3 above plus strings. See
+* zip() function. strip() / lstrip() / rstrip() to get rid of whitespace characters. difference between pop() and delete().
+
