@@ -65,3 +65,9 @@ permalink: /python/
 * when in doubt about using an array versus a standard python list, use the better, more mathematically useful [numpy.array()](https://numpy.org/doc/stable/reference/generated/numpy.array.html) 
 	* Do *not* default to [array.array()](https://docs.python.org/3/library/array.html) which is a [C-style array](https://pimylifeup.com/python-arrays/).
 Instead, use the more mathematically useful [numpy.array()](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
+
+## 07 April 2023
+* Simple explanation for '+=' operator. Initialize 'a = 10'. To set a to 17, you can then type 'a += 7'. Then, print(a) will return '17'.
+
+
+
