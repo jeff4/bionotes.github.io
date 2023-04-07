@@ -67,7 +67,7 @@ permalink: /python/
 Instead, use the more mathematically useful [numpy.array()](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
 
 ## 07 April 2023
-* Simple explanation for '+=' operator. Initialize 'a = 10'. To set a to 17, you can then type 'a += 7'. Then, print(a) will return '17'.
+* [Simple explanation](https://careerkarma.com/blog/python-operator/) for '+=' operator. Initialize 'a = 10'. To set a to 17, you can then type 'a += 7'. Then, print(a) will return '17'.
 
 
 
