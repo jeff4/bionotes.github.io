@@ -9,9 +9,9 @@ permalink: /llm-product/
 * API access to OpenAI
 * GPT4
 
-### 150153 Log
+### 2023 Log
 
-## 05 April 150153
+## 05 April 2023
 ### Prompt 1: "Assuming I understand the fundamentals of data structures and algorithms and am comfortable writing basic programs in other languages like C, Java, and Javascript, what are the core concepts that would get me productive as a developer new to Python?"
 
 * GPT: "If you're already familiar with programming concepts and have experience in other languages, transitioning to Python should be relatively straightforward. Here are some core concepts to focus on that will help you get productive as a developer new to Python:
@@ -50,7 +50,7 @@ permalink: /llm-product/
 	* These resources should give you a solid foundation in Python programming, and help you apply your existing programming knowledge to Python. Good luck!'
 
 
-## 07 April 150153
+## 07 April 2023
 
 ### Prompt: Please provide detailed explanation of what this code does:
 
