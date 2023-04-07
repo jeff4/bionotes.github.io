@@ -23,7 +23,7 @@ permalink: /llm-product/
 	1. Python's community and ecosystem: Python has a large and active community, with many resources available online, including documentation, tutorials, and forums. It's also important to be familiar with package managers like pip and conda, which make it easy to install and manage third-party libraries and packages.
 * By focusing on these core concepts, you'll be well on your way to becoming a productive Python developer. Good luck!"
 
-### Prompt 15: "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt : "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 
 * GPT: 'There are many great books and courses for experienced programmers who are new to Python. Here are some recommendations:
 	* Books:
@@ -36,7 +36,7 @@ permalink: /llm-product/
 		1. "Python Web Development with Flask" by Jose Portilla: This course teaches you how to build web applications using the Flask web framework. It covers topics like routing, templates, forms, and databases, and provides hands-on experience building a full-stack web application.
 	* These are just a few examples of the many great books and courses available for experienced programmers who are new to Python. I hope you find them helpful!'
 
-### Prompt 15 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 
 * GPT regenerated response: 'There are many great resources for experienced programmers who are new to Python. Here are some books and courses that I would recommend:
 	* Books:
