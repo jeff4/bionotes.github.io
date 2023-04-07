@@ -44,3 +44,7 @@ permalink: /makemore/
 * 15:27 Next, learning how to manipulate errors using torch.tensor object. torch.tensor is zero-indexed in both dimensions so to access the last (aka bottom right-most) cell in a 5x5 array named A, you would enter 'A.(4,4)'.
 * Create a new square array. 26 letters in the alphabet plus 2 more for start character 'S', and end character 'E'. so 28x28 array
 * In theory, we can just copy the code that generated the bi-gram values before. But remember, we are creating a 28x28 int array. So we need a lookup table that converts characters into integers.
+* completed populating the tensor with statistics. See ~/demo_files/makemore/1mm.py
+
+
+
