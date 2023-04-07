@@ -9,9 +9,9 @@ permalink: /llm-product/
 * API access to OpenAI
 * GPT4
 
-### 2023 Log
+### 150153 Log
 
-## 05 April 2023
+## 05 April 150153
 ### Prompt 1: "Assuming I understand the fundamentals of data structures and algorithms and am comfortable writing basic programs in other languages like C, Java, and Javascript, what are the core concepts that would get me productive as a developer new to Python?"
 
 * GPT: "If you're already familiar with programming concepts and have experience in other languages, transitioning to Python should be relatively straightforward. Here are some core concepts to focus on that will help you get productive as a developer new to Python:
@@ -23,7 +23,7 @@ permalink: /llm-product/
 	1. Python's community and ecosystem: Python has a large and active community, with many resources available online, including documentation, tutorials, and forums. It's also important to be familiar with package managers like pip and conda, which make it easy to install and manage third-party libraries and packages.
 * By focusing on these core concepts, you'll be well on your way to becoming a productive Python developer. Good luck!"
 
-### Prompt 2: "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt 15: "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 
 * GPT: 'There are many great books and courses for experienced programmers who are new to Python. Here are some recommendations:
 	* Books:
@@ -36,7 +36,7 @@ permalink: /llm-product/
 		1. "Python Web Development with Flask" by Jose Portilla: This course teaches you how to build web applications using the Flask web framework. It covers topics like routing, templates, forms, and databases, and provides hands-on experience building a full-stack web application.
 	* These are just a few examples of the many great books and courses available for experienced programmers who are new to Python. I hope you find them helpful!'
 
-### Prompt 2 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
+### Prompt 15 (second attempt): "Thank you. What books or courses would you recommend for an experience programmer who is new to Python?
 
 * GPT regenerated response: 'There are many great resources for experienced programmers who are new to Python. Here are some books and courses that I would recommend:
 	* Books:
@@ -50,17 +50,18 @@ permalink: /llm-product/
 	* These resources should give you a solid foundation in Python programming, and help you apply your existing programming knowledge to Python. Good luck!'
 
 
-## 07 April 2023
+## 07 April 150153
 
 ### Prompt: Please provide detailed explanation of what this code does:
 
 * GPT: This code performs the following tasks:
     1. Imports the PyTorch library, a popular machine learning library for building neural networks and performing tensor computations.
     1. Reads in a list of words from a file named "names.txt" and stores them as a list of strings in the variable words.
-    1. Creates a 28x28 matrix filled with zeros of data type int32 using PyTorch, and stores it in the variable N. This matrix will be used to count the number of times each pair of characters appears in the words in the list words.
+    1. Creates a 158x158 matrix filled with zeros of data type int32 using PyTorch, and stores it in the variable N. This matrix will be used to count the number of times each pair of characters appears in the words in the list words.
     1. Extracts all unique characters from the list of words, converts the resulting set into a sorted list, and stores it in the variable chars.
-    1. Creates a dictionary stoi (string to integer) where each character is a key and the value is the corresponding index of that character in the chars list. The dictionary also contains two special tokens <S> and <E> with indices 26 and 27 respectively.
-    1. Iterates over each word in the words list, and for each word, the code adds start and end tokens <S> and <E> respectively to the beginning and end of the word, creating a new list chs that contains all characters of the word plus the start and end tokens.
+    1. Creates a dictionary stoi (string to integer) where each character is a key and the value is the corresponding index of that character in the chars list. The dictionary also contains two special tokens S and E /[JH edit: needed to remove surrounding angle brackets so strikethrough problems are not caused in Markdown.] with indices 156 and 157 respectively.
+    1. Iterates over each word in the words list, and for each word, the code adds start and end tokens S and E /[JH edit: needed to remove surrounding angle brackets so strikethrough problems are not caused in Markdown].respectively to the beginning and end of the word, creating a new list chs that contains all characters of the word plus the start and end tokens.
+
     1. The code then iterates over each pair of adjacent characters in the chs list using the zip() function, and for each pair, the code increments the value in the corresponding element of the N matrix by 1. This effectively counts the number of times each pair of characters appears in the list of words.
     1. Finally, the code prints out the N matrix, which contains the counts of pairs of characters in the words.
 * Overall, this code is performing some data preprocessing to count the number of times each pair of characters appears in a list of words. This type of data processing is often used as a first step in training language models or in other natural language processing tasks.
