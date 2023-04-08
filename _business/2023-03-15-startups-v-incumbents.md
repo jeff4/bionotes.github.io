@@ -141,10 +141,10 @@ sitemap: false
 * 4 company consortium announced at NVIDIA GTC 2023 on March 21, 2023 ["NVIDIA, ASML, TSMC and Synopsys Set Foundation for Next-Generation Chip Manufacturing"](https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing)
 
 
-## 1 April 2023
+## 01 April 2023
 * Paul Krugman on history of [IT and Productivity](https://www.nytimes.com/2023/03/31/opinion/ai-chatgpt-jobs-economy.html)
 
-## 2 April 2023
+## 02 April 2023
 * Updated 2023 video of "Everything is a Remix" -- [Part 4 on AI and Image Generation](https://www.youtube.com/watch?v=rswxcDyotXA)
 
 ## 03 April 2023
@@ -171,7 +171,7 @@ sitemap: false
 * Samuel R. Bowman at NYU has a [blog post](https://wp.nyu.edu/arg/why-ai-safety/) and [PDF](https://cims.nyu.edu/~sbowman/eightthings.pdf) about "Eight Things to Know about LLMs". Might be a longtermism person. [HN item here](https://news.ycombinator.com/item?id=35434679)
 
 
-## 4 April 2023
+## 04 April 2023
 * Founded by alums of Quora, Meta, DeepMind, OpenAI, and Databricks, [Perplexity launches conversational AI based search engine](https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/)
 * List of YC-backed startups trying to build [ChatGPT for X](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/) including Yuma, Baselit, Lasso etc.
 * New [386-page Stanford HAI paper](https://aiindex.stanford.edu/report/) and [associated TC report](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/) by Devin Coldewey
@@ -179,11 +179,16 @@ sitemap: false
 
 ## Created [this page](/llm-product/) to track notes on product experience as an end-user and consumer
 
-## 5 April 2023
+## 05 April 2023
 * Annie Lowery interview with Amba Kak at NY=based AI Now Institute in [The Atlantic, 4/03/2023](https://apple.news/AT3ZrLLcNTViu4VSM3E9bAw) "AI isn’t omnipotent. It’s janky." 
 * [The Atlantic 4/04](https://apple.news/Ao6QJuWOYSwaZDTgVD8lYiAa) by Jacob Stern on how software AI is advancing faster than Robotics.  "AI is running circles around robotics"
 	* 'The counterintuitive notion that it’s harder to build artificial bodies than artificial minds is not a new one. In 1988, the computer scientist Hans Moravec observed that computers already excelled at tasks that humans tended to think of as complicated or difficult (math, chess, IQ tests) but were unable to match “the skills of a one-year-old when it comes to perception and mobility.” Six years later, the cognitive psychologist Steven Pinker offered a pithier formulation: “The main lesson of thirty-five years of AI research,” he wrote, “is that the hard problems are easy and the easy problems are hard.” This lesson is now known as “Moravec’s paradox.”'
 
-## 7 April 2023
-* Nathan Lambert's [4/05 Substack](https://robotic.substack.com/p/behind-the-curtain-ai) has an article on the organizational, psychological, social, competitive and social media pressures hitting folks working in AI in both academia and industry right now. Titled "Behind the Curtain: what it feels like to work in AI right now", with associated [HN thread](https://news.ycombinator.com/item?id=35469908)
+## 07 April 2023
+* Nathan Lambert's [4/05 Substack](https://robotic.substack.com/p/behind-the-curtain-ai) has an article on the organizational, psychological, social, competitive and social media pressures hitting folks working in AI in both academia and industry right now. Titled "Behind the Curtain: what it feels like to work in AI right now"
+	* Associated [HN thread](https://news.ycombinator.com/item?id=35469908)
+	* Other article by Lambert on 3/30/2023 ["Ethical Openness at Hugging Face"](https://huggingface.co/blog/ethics-soc-3)
 * [4/07 episode of Hard Fork](https://www.nytimes.com/2023/04/07/podcasts/ai-vibe-check-with-ezra-klein-and-kevin-tries-phone-positivity.html) with guest Ezra Klein: "AI Vibe Check".
+
+## 08 April 2023
+* 
