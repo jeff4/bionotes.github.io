@@ -186,3 +186,4 @@ sitemap: false
 
 ## 7 April 2023
 * Nathan Lambert's [4/05 Substack](https://robotic.substack.com/p/behind-the-curtain-ai) has an article on the organizational, psychological, social, competitive and social media pressures hitting folks working in AI in both academia and industry right now. Titled "Behind the Curtain: what it feels like to work in AI right now", with associated [HN thread](https://news.ycombinator.com/item?id=35469908)
+* [4/07 episode of Hard Fork](https://www.nytimes.com/2023/04/07/podcasts/ai-vibe-check-with-ezra-klein-and-kevin-tries-phone-positivity.html) with guest Ezra Klein: "AI Vibe Check".
