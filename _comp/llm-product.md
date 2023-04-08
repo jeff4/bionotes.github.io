@@ -56,7 +56,7 @@ permalink: /llm-product/
 
 * GPT: This code performs the following tasks:
     1. Imports the PyTorch library, a popular machine learning library for building neural networks and performing tensor computations.
-    1. Reads in a list of words from a file named "names.txt" and stores them as a list of strings in the variable words.
+    1. Reads in a list of words from a file named "names.txt" and stores them as a list of strings in the variable **words**.
     1. Creates a 158x158 matrix filled with zeros of data type int32 using PyTorch, and stores it in the variable N. This matrix will be used to count the number of times each pair of characters appears in the words in the list words.
     1. Extracts all unique characters from the list of words, converts the resulting set into a sorted list, and stores it in the variable chars.
     1. Creates a dictionary stoi (string to integer) where each character is a key and the value is the corresponding index of that character in the chars list. The dictionary also contains two special tokens S and E *\[JH edit: needed to remove surrounding angle brackets so strikethrough problems are not caused in Markdown]* with indices 156 and 157 respectively.
