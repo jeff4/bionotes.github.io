@@ -1,6 +1,6 @@
 ---
 title: Comp Notes
-permalink: /comp_notes/
+permalink: /comp-notes/
 ---
 
 ## 2021 Log
