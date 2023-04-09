@@ -172,4 +172,15 @@ permalink: /comp_notes/
 * 3/27 Found out about privacy-focused web analytics using [Plausible](https://plausible.io/privacy-focused-web-analytics) from Erich Grunewald's [blog](https://www.erichgrunewald.com). Came here from this [HN thread](https://news.ycombinator.com/item?id=35332537)
 * 4/05 While researching [Kraska's 2017 paper on B-Trees and Learned Indexes](https://arxiv.org/abs/1712.01208), came across this [2021 review article by Nan Wu and Yuan Xie](https://arxiv.org/abs/2102.07952) "A Survey of Machine Learning for Computer Architecture and Systems". Another interesting paper by Kraska:
 	* [2019 by Nathan, Ding, Alizadeh, Kraska](https://arxiv.org/abs/1912.01668) introducing Flood to Learn Multi-Dimensional Indexes
-
+* 4/09 Did some reading about how hard links and soft links and symlinks work in Unix filesystems.
+	* [this article](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/) unfortunately has a lot of spammy ads but the content is not bad and there is a helpful diagram of relationship between files, data on hard disk, and relationship of hard links and symlinks.
+	* The [inode](https://en.wikipedia.org/wiki/Inode) article on wikipedia is pretty good. i-node might have referred to "index-node".
+	* [Hard link](https://en.wikipedia.org/wiki/Hard_link) article at wiki.
+	* Symbolic links, [symlinks](https://en.wikipedia.org/wiki/Symbolic_link), and soft links are all perfectly synonymous. 
+	* Note however, that macOS aliases are slightly different than symlinks. See [this article last updated 2020](https://www.lifewire.com/aliases-symbolic-links-hard-links-mac-2260189)
+	* See ChatGPT convo 4/09. Prompt to ChatGPT: 'In UNIX, is there any difference between symbolic links and soft links?'
+		* GPT response: 
+			* 'In UNIX, "symbolic link" and "soft link" are two different terms used to refer to the same thing, which is a special type of file that acts as a pointer to another file or directory.
+			* 'Symbolic links are created using the ln command with the -s option. They are also sometimes referred to as soft links or symlinks. A symbolic link is simply a small file that contains a path to the target file or directory.
+			* 'The term "soft" is used to differentiate symbolic links from "hard links," which are another type of link in UNIX. Hard links are a way to create additional names (i.e., links) for a file or directory, but they must be on the same filesystem as the original file or directory.
+			* 'So, to answer your question, there is no difference between symbolic links and soft links in UNIX. They are just two different terms used to refer to the same thing.'
