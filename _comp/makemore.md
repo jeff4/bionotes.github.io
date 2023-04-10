@@ -16,29 +16,64 @@ permalink: /makemore/
 # Makemore video 1 Notes
 
 
-### Read in names.txt and populate words object
-		words = open('names.txt','r').read().splitlines()
+### As of 43:00 
 
-### View first 10 entries
-		words[:10]
-
-### See how many records are in name.txt
-		len(words)
-
-### See the shortest and longest words available in words.txt
-#### returns 2 which means t the shortest word in names.txt has 2 letters
-		min(len(w) for w in words) 
-#### returns 15 which means t the shortest word in names.txt has 15 letters
-		max(len(w) for w in words) 
-
-
+	import torch
+	import matplotlib.pyplot as plt
+	
+	words = open('names.txt','r').read().splitlines()
+	
+	N = torch.zeros((27,27), dtype=torch.int32)
+	
+	chars = sorted(list(set(''.join(words))))
+	
+	## create dictionary that maps strings to integers for easier manipulation
+	## the i+1 means a = 1, b = 2, c =3, ... z = 26. Meanwhile, command below will
+	## map index number 0 = delimiter '.'
+	stoi = {s:i+1 for i,s in enumerate(chars)}
+	
+	## specify a single delimiter char '.' that will take index position = 0
+	## '.' replaces '<S>' and '<E>' in previous version.
+	stoi['.'] = 0
+	
+	## create reverse mapping dictionary called 'itos' to turn integers back into strings
+	itos = {i:s for s,i in stoi.items()}
+	
+	
+	for w in words:
+		chs = ['.'] + list(w) + ['.']
+		for ch1, ch2, in zip(chs, chs[1:]):
+			ix1 = stoi[ch1]
+			ix2 = stoi[ch2]
+			N[ix1, ix2] += 1
+	
+	plt.figure(figsize=(16,16))
+	# plt.imshow(N, cmap='Blues')	# commented out printing of dataplot
+	for i in range(27):
+		for j in range(27):
+			chstr = itos[i] + itos[j]
+			plt.text(j, i, chstr, ha="center", va="bottom", color='gray')
+			plt.text(j, i, N[i, j].item(), ha="center", va="top", color='gray')
+	plt.axis('off');
+	
+	##########
+	
+	g = torch.Generator().manual_seed(2147483647)
+	
+	for i in range(50):
+		out = []
+		ix = 0
+		while True:
+			p = N[ix].float()
+			p = p / p.sum()
+			ix = torch.multinomial(p, num_samples=1, replacement=True, generator=g).item()
+			out.append(itos[ix])
+			if ix == 0:
+				break
+		print(''.join(out))
+	
 ### Bigram model
 * judge 2 characters at a time.
-* sample python code to just grab 2 characters at a time (8:05)
- 
-		for w in words[:3]:
-			for ch1, ch2 in zip(w, w[1:]):
-				print(ch1,ch2)
 
 * Got to PyTorch and created zero tensor at 13:53
 * 15:27 Next, learning how to manipulate errors using torch.tensor object. torch.tensor is zero-indexed in both dimensions so to access the last (aka bottom right-most) cell in a 5x5 array named A, you would enter 'A.(4,4)'.
