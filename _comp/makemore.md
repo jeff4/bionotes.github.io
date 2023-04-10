@@ -12,9 +12,7 @@ permalink: /makemore/
 	* [Makemore 5](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
 * Main [Transformer video](https://www.youtube.com/watch?v=kCc8FmEb1nY&)
 
-
 # Makemore video 1 Notes
-
 
 ### As of 43:00 
 
@@ -73,8 +71,6 @@ permalink: /makemore/
 		print(''.join(out))
 	
 ### Bigram model
-* judge 2 characters at a time.
-
 * Got to PyTorch and created zero tensor at 13:53
 * 15:27 Next, learning how to manipulate errors using torch.tensor object. torch.tensor is zero-indexed in both dimensions so to access the last (aka bottom right-most) cell in a 5x5 array named A, you would enter 'A.(4,4)'.
 * Create a new square array. 26 letters in the alphabet plus 2 more for start character 'S', and end character 'E'. so 28x28 array
@@ -83,3 +79,5 @@ permalink: /makemore/
 * next, rewriting code to have the output of matplotlib look nicer and properly labelled
 * got to (36:03), generating names. still dissatisified b/c not starting with 'mor.' the way Andrej is. Instead, my first name generated is 'cexze.'
 * Learned a little more about broadcasting semantics which PyTorch borrows from numpy. When performing array by array manipulations, each dimension needs to be exactly the same size, or, exactly 1 or exactly 0. At 43:00 of makemore 1 video. See also [PyTorch docs](https://pytorch.org/docs/stable/notes/broadcasting.html) and [numpy docs and example](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+* Completed more efficient version 3c-mm.py as of 44:23. And also can skip to evaluation part later
+	* Discussion of very dangerous and subtle bugs that are introduced if you do not respect 'keepdim=True' and Broadcast semantics for both numpy and PyTorch.
