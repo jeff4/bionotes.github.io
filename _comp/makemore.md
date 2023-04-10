@@ -47,4 +47,4 @@ permalink: /makemore/
 * completed populating the tensor with statistics. See ~/demo_files/makemore/1mm.py
 * next, rewriting code to have the output of matplotlib look nicer and properly labelled
 * got to (36:03), generating names. still dissatisified b/c not starting with 'mor.' the way Andrej is. Instead, my first name generated is 'cexze.'
-
+* Learned a little more about broadcasting semantics which PyTorch borrows from numpy. When performing array by array manipulations, each dimension needs to be exactly the same size, or, exactly 1 or exactly 0. At 43:00 of makemore 1 video. See also [PyTorch docs](https://pytorch.org/docs/stable/notes/broadcasting.html) and [numpy docs and example](https://numpy.org/doc/stable/user/basics.broadcasting.html)
