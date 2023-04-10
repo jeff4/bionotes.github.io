@@ -94,3 +94,8 @@ permalink: /gen-ai/
 
 ## 3 April 2023
 * Interesting way of explaining uncanny confidence of LLMs by Devin Coldeway 4/03 in TechCrunch article ["The Great Pretender"](https://techcrunch.com/2023/04/03/the-great-pretender/)
+
+
+## 10 April 2023
+*  "On Efficient Training of Large-Scale Deep Learning Models: A Literature Review" by Li Shen, Yan Sun, Zhiyuan Yu, Liang Ding, Xinmei Tian, Dacheng Tao. [arXiv link](https://arxiv.org/abs/2304.03589) and [HN thread](https://news.ycombinator.com/item?id=35513510)
+* Out of curiosity, I began probing ChatGPT, Bing, and Google on how they describe the difference between 'ordinary training', pre-training, and fine tuning. See archive of my chat histories at ChatGPT to see more.
