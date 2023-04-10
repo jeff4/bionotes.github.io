@@ -45,6 +45,6 @@ permalink: /makemore/
 * Create a new square array. 26 letters in the alphabet plus 2 more for start character 'S', and end character 'E'. so 28x28 array
 * In theory, we can just copy the code that generated the bi-gram values before. But remember, we are creating a 28x28 int array. So we need a lookup table that converts characters into integers.
 * completed populating the tensor with statistics. See ~/demo_files/makemore/1mm.py
-
-
+* next, rewriting code to have the output of matplotlib look nicer and properly labelled
+* got to (36:03), generating names. still dissatisified b/c not starting with 'mor.' the way Andrej is. Instead, my first name generated is 'cexze.'
 
