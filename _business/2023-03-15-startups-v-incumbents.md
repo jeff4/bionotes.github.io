@@ -198,3 +198,7 @@ sitemap: false
 	* [TC article by Brian Heater](https://techcrunch.com/2023/04/06/the-robots-are-already-here/) aka "where are all the robots?" and Heater claims that they are already here
 * [Can AI commit libel?](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/) re: first libel case filed against LLM by an Australian mayor Brian Hood
 * [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/) from 4/06. "Antropic plans to train a powerful model with billions in new funding."
+
+## 11 April 2023
+* Announcement of [$10M seed round for LangChain](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
+
