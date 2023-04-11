@@ -84,5 +84,7 @@ permalink: /makemore/
 * Begin next at 50:19 loss function to evaluate how good/bad this bi-gram model is
 * Up to 52:01
 * OK, the problem is P.sum(1, keepdim=True) = 0. So when we execute:
+
 	P /= P.sum(1, keepdim=True)
+
 We are dividing by 0 so output is NaN 
