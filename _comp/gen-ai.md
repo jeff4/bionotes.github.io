@@ -10,7 +10,6 @@ permalink: /gen-ai/
 * 2/21 - read [Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) and [Murray Shanhan](https://arxiv.org/abs/2212.03551) Feb 2023 articles on LLM
 * 2/23 - more articles on history of BERT, transformers, MUM, etc.
 	* This 18 minute [YouTube video](https://youtu.be/wi0M2J4uE5I) by Mean Gene Hacks compares 3 LLMs that all have about 175 B parameters: OpenAI's GPT-3, BigScience's BLOOM, and Facebook's OPT-175 
-
 * 2/24 - Today, [FB released LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) (Large Langauge Model Meta AI) in 4 sizes 7 billion parameters, 13 billion parameters, 33B parameters, and 65B parameters. Yann LeCun claims that LLaMa-13B outperforms GPT-3 (even though the latter has 175B). And LLaMA-65B is competitive with the best models like Chinchilla70B and PaLM-540B.
 * 2/26 - Mt. AI / volcanic island / infiinite skycraper. Elevators vs. Staircases
 * 3/01 - Links on BERT and AI
@@ -18,7 +17,6 @@ permalink: /gen-ai/
 	* [Transformers Explained, Understanding the Model Behind GPT-3, BERT, and T5](https://daleonai.com/transformers-explained) from May 2021. Gets quite detailed with the math etc.
 	* Towards Data Science article. A little simple but still useful intro from July 2022. Evolution of Large Language Models–BERT, GPT3, MUM and PaML. Unfortunately uses up a member-only medium article. Here is the [Box link](https://app.box.com/s/icufqddckrr9o2x3hrpyogah6ekaz513).
 	* Good diagrams at intermediate level going pretty in-depth into how transformers work. [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar.
-
 * 3/03 - Adam Gopnik [New Yorker](https://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing) article on DALL-E
 * 3/05 - Walter Benjamin [1936 essay](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) "The Work of Art in the Age of Mechanical Reproduction" ([pdf link](https://web.mit.edu/allanmc/www/benjamin.pdf))
 * 3/06 - Werner Schweibenz 2018 essay ["The Work of Art in the Age of Digital Reproduction"](https://www.researchgate.net/publication/329941032_The_Work_of_Art_in_the_Age_of_Digital_Reproduction?enrichId=rgreq-1a7b17a5c17c75f568d1cac896f5c87b-XXX&enrichSource=Y292ZXJQYWdlOzMyOTk0MTAzMjtBUzoxMDU4ODEzNjYyNzQ0NTgxQDE2Mjk0NTIyNTcyNzU%3D&el=1_x_2&_esc=publicationCoverPdf) in *Museum International* 
@@ -37,7 +35,6 @@ permalink: /gen-ai/
 	* as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
 	* 2nd edition published March 25, 2022
 * [Good guide](https://sebastianraschka.com/blog/2023/llm-reading-list.html) to all the relevant papers over the last 9 years on transformers, LLMs etc. by Sebastian Raschka. Published February, 2023.
-
 ## Created [this page](/startups-v-incumbents-2023a) for business notes on Generative AI (March 15, 2023)
 * Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
 	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
@@ -95,7 +92,10 @@ permalink: /gen-ai/
 ## 3 April 2023
 * Interesting way of explaining uncanny confidence of LLMs by Devin Coldeway 4/03 in TechCrunch article ["The Great Pretender"](https://techcrunch.com/2023/04/03/the-great-pretender/)
 
-
 ## 10 April 2023
 *  "On Efficient Training of Large-Scale Deep Learning Models: A Literature Review" by Li Shen, Yan Sun, Zhiyuan Yu, Liang Ding, Xinmei Tian, Dacheng Tao. [arXiv link](https://arxiv.org/abs/2304.03589) and [HN thread](https://news.ycombinator.com/item?id=35513510)
 * Out of curiosity, I began probing ChatGPT, Bing, and Google on how they describe the difference between 'ordinary training', pre-training, and fine tuning. See archive of my chat histories at ChatGPT to see more.
+	* see also [this stackexchange answer](https://stats.stackexchange.com/questions/193082/what-is-pre-training-a-neural-network/193451#193451) which draws on this [ML glossary](https://martin-thoma.com/ml-glossary/) -- look at answers for pre-training and fine-tuning.
+
+## 11 April 2023
+* [Listing of decentralized and open-source LLMs](https://github.com/imaurer/awesome-decentralized-llm#edge-llms) from this [HN comment](https://news.ycombinator.com/item?id=35527675)
