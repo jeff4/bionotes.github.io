@@ -190,5 +190,11 @@ sitemap: false
 	* Other article by Lambert on 3/30/2023 ["Ethical Openness at Hugging Face"](https://huggingface.co/blog/ethics-soc-3)
 * [4/07 episode of Hard Fork](https://www.nytimes.com/2023/04/07/podcasts/ai-vibe-check-with-ezra-klein-and-kevin-tries-phone-positivity.html) with guest Ezra Klein: "AI Vibe Check".
 
-## 08 April 2023
-* 
+## 10 April 2023
+* [Meta wants to use generative AI to create ads](https://techcrunch.com/2023/04/05/meta-wants-to-use-generative-ai-to-create-ads/) from 4/05
+* [Adthos uses gen AI to completely automate audio ads](https://techcrunch.com/2023/04/05/adthos-uses-generative-ai-to-completely-automate-audio-ads/) from 4/05
+* FB 3/31 announcement of VC-1, reflecting on Moravec's paradox and embodied intelligence / sensorimotor skilss vs. the "easier" pure thought aspects of abstract throught or reasoning.
+	* [FB blog post](https://ai.facebook.com/blog/robots-learning-video-simulation-artificial-visual-cortex-vc-1/)
+	* [TC article by Brian Heater](https://techcrunch.com/2023/04/06/the-robots-are-already-here/) aka "where are all the robots?" and Heater claims that they are already here
+* [Can AI commit libel?](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/) re: first libel case filed against LLM by an Australian mayor Brian Hood
+* [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/) from 4/06. "Antropic plans to train a powerful model with billions in new funding."
