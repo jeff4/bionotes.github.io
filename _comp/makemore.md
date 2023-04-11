@@ -81,4 +81,8 @@ permalink: /makemore/
 * Learned a little more about broadcasting semantics which PyTorch borrows from numpy. When performing array by array manipulations, each dimension needs to be exactly the same size, or, exactly 1 or exactly 0. At 43:00 of makemore 1 video. See also [PyTorch docs](https://pytorch.org/docs/stable/notes/broadcasting.html) and [numpy docs and example](https://numpy.org/doc/stable/user/basics.broadcasting.html)
 * Completed more efficient version 3c-mm.py as of 44:23. And also can skip to evaluation part later
 	* Discussion of very dangerous and subtle bugs that are introduced if you do not respect 'keepdim=True' and Broadcast semantics for both numpy and PyTorch.
-* Begin next at 50:19 loss function to evaluate how good/bad this bi-gram model is.
+* Begin next at 50:19 loss function to evaluate how good/bad this bi-gram model is
+* Up to 52:01
+* OK, the problem is P.sum(1, keepdim=True) = 0. So when we execute:
+	P /= P.sum(1, keepdim=True)
+We are dividing by 0 so output is NaN 
