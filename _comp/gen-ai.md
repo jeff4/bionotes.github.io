@@ -99,3 +99,4 @@ permalink: /gen-ai/
 
 ## 11 April 2023
 * [Listing of decentralized and open-source LLMs](https://github.com/imaurer/awesome-decentralized-llm#edge-llms) from this [HN comment](https://news.ycombinator.com/item?id=35527675)
+* Found on [HN thread](https://news.ycombinator.com/item?id=35527907), this open-source orchestrator and performance evaluator of multiple LLMs [PhaseLLM](https://github.com/wgryc/phasellm) and related [collaborative data community](https://phaseai.com)
