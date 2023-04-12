@@ -86,5 +86,4 @@ permalink: /makemore/
 * OK, the problem is P.sum(1, keepdim=True) = 0. So when we execute:
 
 		P /= P.sum(1, keepdim=True)
-
 * We are dividing by 0 so output is NaN 
