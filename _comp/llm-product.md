@@ -64,3 +64,18 @@ permalink: /llm-product/
     1. The code then iterates over each pair of adjacent characters in the chs list using the zip() function, and for each pair, the code increments the value in the corresponding element of the N matrix by 1. This effectively counts the number of times each pair of characters appears in the list of words.
     1. Finally, the code prints out the N matrix, which contains the counts of pairs of characters in the words.
 * Overall, this code is performing some data preprocessing to count the number of times each pair of characters appears in a list of words. This type of data processing is often used as a first step in training language models or in other natural language processing tasks.
+
+
+## 12 April 2023
+
+### Prompt: what is the difference between a torch tensor and a regular multidimensional array
+
+* GPT: A torch tensor and a regular multidimensional array are both data structures used to store and manipulate multi-dimensional data. However, there are a few key differences between the two:
+	1. Automatic differentiation: One of the main differences is that a torch tensor is capable of automatic differentiation. This means that when you perform operations on a tensor, it can keep track of the gradient of those operations with respect to the tensor's inputs. This is useful in machine learning applications, where you often need to calculate gradients for optimization algorithms.
+	1. GPU acceleration: Torch tensors can be run on GPUs for accelerated computation, while regular arrays are typically only run on CPUs.
+	1. Compatibility: Torch tensors are optimized for use with the PyTorch framework, while regular arrays can be used with any programming language or framework that supports them.
+	1. Extra functionalities: Torch tensors provide a variety of extra functionalities such as broadcasting, slicing, and concatenation, which can be helpful for machine learning tasks.
+	1. Data type consistency: Torch tensors require a consistent data type for all elements in the tensor, whereas regular arrays can be mixed data types.
+* Overall, while regular multidimensional arrays can be useful in many applications, torch tensors are specifically designed for use in machine learning and deep learning tasks, providing extra functionalities and optimization for these types of applications.
+
+
