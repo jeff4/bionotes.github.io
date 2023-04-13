@@ -6,8 +6,7 @@ permalink: /llm-product/
 ## Products to use
 * ChatGPT
 * BingChat
-* API access to OpenAI
-* GPT4
+* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on 12 Apple 2023
 
 ### 2023 Log
 
@@ -85,3 +84,27 @@ permalink: /llm-product/
 	* In addition, as mentioned earlier, tensors can be used for automatic differentiation and can be run on GPUs for faster computation. These additional features make tensors particularly useful for machine learning applications.
 	* From a programming perspective, tensors are typically implemented as classes with associated methods and attributes. In the case of PyTorch, a popular deep learning library, the torch.Tensor class is used to represent tensors, and it provides a wide range of methods and functionalities for manipulating and operating on tensors.
 	* So while a tensor can be thought of as a generalized version of a multidimensional array, its additional features and implementation as a class make it a distinct data structure in its own right.
+
+#### answers from Bing (see Apple Photos)
+
+### Prompt: from a programming perspective, is a tensor just a multidimensional array?
+
+* Phind.com (non-expert, non-concise, non-creative): Yes, from a programming perspective, a torch tensor is just a multidimensional array in Python. As explained in machinelearningmastery.com, a tensor is a generalization of a matrix that can be indexed in more than two dimensions. Thus, a one-dimensional tensor is simply a one-dimensional array, or a vector. We can create tensors using the torch.tensor() function which takes in Python lists as input. For example, if we have a list of integers, we can convert it to a tensor using torch.tensor([10, 11, 12, 13]). Similarly, if we have a list of floating-point numbers, we can convert it to a tensor using torch.tensor([10.0, 11.0, 12.0, 13.0]).
+	* As mentioned in geeksforgeeks.org, there are various methods to create a tensor in PyTorch. A tensor can contain elements of a single data type. The different ways of defining a tensor are:
+		1. torch.Tensor(): It copies the data and creates its tensor. It is an alias for torch.FloatTensor.
+		1. torch.tensor(): It also copies the data to create a tensor; however, it infers the data type automatically.
+		1. torch.as_tensor(): The data is shared and not copied in this case while creating the data and accepts any type of array for tensor creation.
+		1. torch.from_numpy(): It is similar to tensor.as_tensor() however it accepts only numpy array.
+	* We can use these methods to create tensors of different data types, shapes, and sizes in PyTorch.
+	* It's important to note that when the term "tensor" is used in PyTorch, it refers to any torch.Tensor object. Matrices and vectors are special cases of torch.Tensors, where their dimension is 2 and 1 respectively. When we talk about 3D tensors, we explicitly use the term “3D tensor” as mentioned in pytorch.org.
+	* As explained in math.stackexchange.com, tensors and multidimensional arrays are different types of objects. In mathematics, a "tensor" is usually defined to be a multilinear function, which is a function of several vector variables that maps to a scalar. However, in programming and computer science, tensors are generally considered to be multidimensional arrays.
+	* In conclusion, while tensors and multidimensional arrays have different mathematical definitions, from a programming perspective, a torch tensor is just a multidimensional array in Python.
+
+* Phind.com (Expert, non-concise, non-creative): Yes, from a programming perspective, a Torch tensor can be considered as a multidimensional array in Python. However, there are some differences and additional features that make tensors more suitable for specific tasks, such as deep learning and GPU computation.
+	* Tensors can be created from Python lists or NumPy arrays using the torch.tensor() function [0]. They can have various data types like integers or floats, and can be converted between these types [1]. PyTorch also provides GPU and CPU variants of tensors, as well as utility functions for tensor manipulation [3].
+	* But what sets tensors apart from simple multidimensional arrays is their transformation properties. Tensors are a generalization of matrices that can be indexed in more than 2 dimensions, and they have specific transformation rules when applying linear operations [4]. In other words, tensors are multidimensional arrays with certain transformation properties that make them suitable for representing linear transformations.
+	* For example, in the context of deep learning, tensors are used to represent data and weight parameters, and can be efficiently processed on GPUs for faster computation. The transformation properties of tensors are crucial when dealing with operations like backpropagation or gradient computation.
+	* In summary, while you can think of a Torch tensor as a multidimensional array in Python, it is important to remember that tensors have additional features and transformation properties that make them more suitable for specific tasks like deep learning and GPU computation. 
+
+
+
