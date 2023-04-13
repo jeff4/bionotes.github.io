@@ -55,7 +55,6 @@ permalink: /python/
 		* i'm not exactly sure what '-cpytorch' is doing but it somehow knew to download the mac-os-arm64 version so I think this is related
 * Verified that pytorch is working and using the M2 GPU by running 1jh_test.py and 2jh_test.py adapted from the above [Towards Data Science article](https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c) 
 
-
 ## 06 April 2023
 * Used ChatGPT to find latest in Python books and courses
 * Thoughts and notes on lists (ordered) vs. dictionaries (unorderd key-value pairs, allowing duplicate values) vs. sets (like dicts but unique with no distinct values)
@@ -69,6 +68,12 @@ Instead, use the more mathematically useful [numpy.array()](https://numpy.org/do
 ## 07 April 2023
 * [Simple explanation](https://careerkarma.com/blog/python-operator/) for '+=' operator. Initialize 'a = 10'. To set a to 17, you can then type 'a += 7'. Then, print(a) will return '17'.
 
-
 ## 12 April 2023
 * Found via phind.com's answer about tensors vs. multi-dimensional array. This [article](https://machinelearningmastery.com/one-dimensional-tensors-in-pytorch/) a pretty good simple way of getting familiar with PyTorch tensors. Requires import of torch, numpy, and pandas
+
+## 13 April 2023
+* Comprehensions are useful syntatic sugar for quickly populating and looping through both lists and dictionaries.
+* Concept of "collections" useful noun as explained in this [YouTube about list comprehensions](https://www.youtube.com/watch?v=AhSvKGTh28Q&t=80si) (80 seconds in)
+
+
+
