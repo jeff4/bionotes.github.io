@@ -100,3 +100,9 @@ permalink: /gen-ai/
 ## 11 April 2023
 * [Listing of decentralized and open-source LLMs](https://github.com/imaurer/awesome-decentralized-llm#edge-llms) from this [HN comment](https://news.ycombinator.com/item?id=35527675)
 * Found on [HN thread](https://news.ycombinator.com/item?id=35527907), this open-source orchestrator and performance evaluator of multiple LLMs [PhaseLLM](https://github.com/wgryc/phasellm) and related [collaborative data community](https://phaseai.com)
+
+
+## 13 April 2023
+* From Seymour in Slack, George Ho's survey from a few years ago (May 2020) of using [Transformers in NLP](https://www.georgeho.org/transformers-in-nlp/)
+
+
