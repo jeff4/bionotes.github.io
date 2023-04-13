@@ -201,7 +201,7 @@ sitemap: false
 
 ## 12 April 2023
 * Announcement of [$10M seed round for LangChain](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
-* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on.
+* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on. See [prompt testing product page](/llm-product/) for more.
 * Greg Brockman [tweet](https://twitter.com/gdb/status/1646183424024268800?s=12&t=c1jAK_0EE4wd8BrXW9MM6w):
 	* 'The underlying spirit in many debates about the pace of AI progress—that we need to take safety very seriously and proceed with caution—is key to our mission. We spent more than 6 months testing GPT-4 and making it even safer, and built it on years of alignment research that we pursued in anticipation of models like GPT-4.
 	* 'We expect to continue to ramp our safety precautions more proactively than many of our users would like. Our general goal is for each model we ship to be our most aligned one yet, and it’s been true so far from GPT-3 (initially deployed without any special alignment), GPT-3.5 (aligned enough to be deployed in ChatGPT), and now GPT-4 (performs much better on all of our safety metrics than GPT-3.5).
