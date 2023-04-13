@@ -70,4 +70,5 @@ Instead, use the more mathematically useful [numpy.array()](https://numpy.org/do
 * [Simple explanation](https://careerkarma.com/blog/python-operator/) for '+=' operator. Initialize 'a = 10'. To set a to 17, you can then type 'a += 7'. Then, print(a) will return '17'.
 
 
-
+## 12 April 2023
+* Found via phind.com's answer about tensors vs. multi-dimensional array. This [article](https://machinelearningmastery.com/one-dimensional-tensors-in-pytorch/) a pretty good simple way of getting familiar with PyTorch tensors. Requires import of torch, numpy, and pandas
