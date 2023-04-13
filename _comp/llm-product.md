@@ -105,6 +105,3 @@ permalink: /llm-product/
 	* But what sets tensors apart from simple multidimensional arrays is their transformation properties. Tensors are a generalization of matrices that can be indexed in more than 2 dimensions, and they have specific transformation rules when applying linear operations [4]. In other words, tensors are multidimensional arrays with certain transformation properties that make them suitable for representing linear transformations.
 	* For example, in the context of deep learning, tensors are used to represent data and weight parameters, and can be efficiently processed on GPUs for faster computation. The transformation properties of tensors are crucial when dealing with operations like backpropagation or gradient computation.
 	* In summary, while you can think of a Torch tensor as a multidimensional array in Python, it is important to remember that tensors have additional features and transformation properties that make them more suitable for specific tasks like deep learning and GPU computation. 
-
-
-
