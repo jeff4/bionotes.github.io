@@ -104,5 +104,9 @@ permalink: /gen-ai/
 
 ## 13 April 2023
 * From Seymour in Slack, George Ho's survey from a few years ago (May 2020) of using [Transformers in NLP](https://www.georgeho.org/transformers-in-nlp/)
+* from [HN](https://news.ycombinator.com/item?id=35565212), [productizing mature LLM eng pipelines](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
-
+## 14 April 2023
+* From 3/28, [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) is a family of open, compute-efficient, LLMs, ranging from 0.11B to 13B parameters. Trained using Chinchilla formula
+* A nice concise, mathematically formal description of Transformers by Mary Phuong and Marcus Hutter at DeepMind, published 7/19/2022: [*Formal Algorithms for Transformers*](https://arxiv.org/abs/2207.09238). from this [HN comment](https://news.ycombinator.com/item?id=35506069) which also had this [HN comment](https://news.ycombinator.com/item?id=35507378) about Hopf algebras, including Adam Nemecek's 2/03/2023 paper [*Coinductive guide to inductive transformer heads*](https://arxiv.org/abs/2302.01834) and the older 2012 paper [*Hopf algebras and Markov chains: Two examples and a theory*](https://arxiv.org/abs/1206.3620) and a recommendation to check out [this website](https://bivector.net) about Geometric Algebra aka Clifford Algebra. Recommend watching this 44-minut intro [YouTube video](https://www.youtube.com/watch?v=60z_hpEAtD8&t=120s)
+* Dan Fu, Michael Poli, Chris Re 3/28/2023 ["From Deep to Long Learning?"](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
