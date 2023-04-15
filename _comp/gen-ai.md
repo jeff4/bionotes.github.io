@@ -112,3 +112,7 @@ permalink: /gen-ai/
 * Dan Fu, Michael Poli, Chris Re 3/28/2023 ["From Deep to Long Learning?"](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * From this [HN thread](https://news.ycombinator.com/item?id=35544851), found this article by Eugene Yan at Amazon ["Experimenting with LLMs to Research, Reflect, and Plan"](https://eugeneyan.com/writing/llm-experiments/)
 
+
+## 15 April 2023
+* Found another reference to this good intermediate level discussion how transformers work. [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar. Originally noted on 3/01.
+	* See also this previous post by Jay about [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
