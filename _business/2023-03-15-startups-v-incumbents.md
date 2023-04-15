@@ -208,3 +208,17 @@ sitemap: false
 	* 'We believe (and have been saying in policy discussions with governments) that powerful training runs should be reported to governments, be accompanied by increasingly-sophisticated predictions of their capability and impact, and require best practices such as dangerous capability testing. We think governance of large-scale compute usage, safety standards, and regulation of/lesson-sharing from deployment are good ideas, but the details really matter and should adapt over time as the technology evolves. It’s also important to address the whole spectrum of risks from present-day issues (e.g. preventing misuse or self-harm, mitigating bias) to longer-term existential ones.
 	* 'Perhaps the most common theme from the long history of AI has been incorrect confident predictions from experts. One way to avoid unspotted prediction errors is for the technology in its current state to have early and frequent contact with reality as it is iteratively developed, tested, deployed, and all the while improved. And there are creative ideas people don’t often discuss which can improve the safety landscape in surprising ways — for example, it’s easy to create a continuum of incrementally-better AIs (such as by deploying subsequent checkpoints of a given training run), which presents a safety opportunity very unlike our historical approach of infrequent major model upgrades.
 	* 'The upcoming transformative technological change of AI is something that is simultaneously cause for optimism and concern — the whole range of emotions is justified and is shared by people within OpenAI, too. It’s a special opportunity and obligation for us all to be alive at this time, to have a chance to design the future together.'
+
+## 15 April 2023
+* [Techcrunch's favorite YC Winter 2023 Demo Day Part 1](https://techcrunch.com/2023/04/05/y-combinator-demo-day-favorites-part-one/), 4/05/2023.
+* [Techcrunch's favorite YC Winter 2023 Demo Day Part 2](https://techcrunch.com/2023/04/06/y-combinator-demo-day-2023-favorites-part-two/), 4/06/2023.
+* [Gen AI transforming enterprise IT](https://techcrunch.com/2023/04/08/generative-ai-enterprise-software/) by Ron Miller 4/08
+* More on Quora's Poe product where [users can make their own bots via prompts](https://techcrunch.com/2023/04/10/poes-ai-chatbot-app-now-lets-you-make-your-bots-using-prompts/) 4/10
+* [Alibaba unveils ambition for a copilot as China steps up scrutiny over generative AI](https://techcrunch.com/2023/04/11/alibaba-copilot-generative-ai-llm/) aka LLM called Tongyi Qianwen
+* From 4/11, [Prohibition of AI that ‘subverts state power’ in China may chill its nascent industry](https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/)
+* Ali Ghodsi, CEO of Databricks announces next version of Dolly, Dolly 2.0, a text-generating AI model to power apps like chatbots, summarizers, and simple search engines. [Databricks open sources a model like ChatGPT, flaws and all](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
+* AI-related mobile apps [have experienced significant increases in both downloads and revenue](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/), benefiting both indie app developers and large companies like MS Bing.
+* [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/) from 4/12
+
+
+
