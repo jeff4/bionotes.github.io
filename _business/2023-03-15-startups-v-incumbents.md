@@ -219,6 +219,7 @@ sitemap: false
 * Ali Ghodsi, CEO of Databricks announces next version of Dolly, Dolly 2.0, a text-generating AI model to power apps like chatbots, summarizers, and simple search engines. [Databricks open sources a model like ChatGPT, flaws and all](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
 * AI-related mobile apps [have experienced significant increases in both downloads and revenue](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/), benefiting both indie app developers and large companies like MS Bing.
 * [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/) from 4/12
+* [Spain’s privacy watchdog says it’s probing ChatGPT too](https://techcrunch.com/2023/04/13/chatgpt-spain-gdpr/) 4/13
 
 ## 16 April 2023
 * [Updated version](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/) of Stable Diffusion called Stable Diffusion XL (SDXL) available via Stability AI's gen art product called DreamStudio.
