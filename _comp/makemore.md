@@ -85,5 +85,43 @@ permalink: /makemore/
 * Up to 52:01
 * OK, the problem is P.sum(1, keepdim=True) = 0. So when we execute:
 
-		P /= P.sum(1, keepdim=True)
+	P /= P.sum(1, keepdim=True)
+
 * We are dividing by 0 so output is NaN 
+
+## 15 April 2023 - timestamped notes on video 1
+* 52:00 to 1:05:00 explains how to evaluate the "effectiveness" of the model, by first explaining maximum likelihood estimate. 
+	* Because these values are between 0 and 1 and the product of all 27 MLEs becomes a small number, better to view as the log(maximum likelihood estimate). This means that the closer that MLE gets to 1 (better), the closer log(MLE) gets to zero. And the worse MLE is (closer to zero it gets), the closer log(MLE) gets to negative infinity.
+	* Finally, the standard is to miniminze the loss function which is why we invert the log(MLE) by putting a negative sign in front of it. This aligns log(MLE) with the usual loss function Objective function.
+* 1:08 - Explains difference between torch.tensor and torch.Tensor. generally best to use only the lower-case version. PyTorch offical docs don't explain very well, but a StackExchange thread does do a good job.
+* 1:12:00 - Explains the simplifications that come with One-Hot encoding. All that means is that it represents every letter (a-z) as a 27-dimension vector, where each dimension represents one of the letters of the alphabet plus position zero represents the delimiter '.'
+	* Exactly 1 dimension has a non-zero value, initialized at 1 to represent a particular letter.
+	* e.g., \[1,0,0,0,...] = '.'
+	* e.g., \[0,1,0,0,...] = 'a'
+	* e.g., \[0,0,1,0,...] = 'b'
+	* e.g., \[0,0,0,1,...] = 'c'
+	*  ....
+	* e.g., \[0,0,0,0,...1] = 'z' is the final encoding for the 27th dimension
+* 1:23:00. Logits are just a nickname for "log counts". We are normalizing the former randomly drawn values between -3 to +3 (roughly drawn from a normal distribution of untrained weights. Turning this series of positive and negative numbers into a consistent bunch of positive numbers by exponentiating them against Euler's number e^x. 
+	* Andrej reminds us that for when x is anywhwere from -infinity to 0, output of function y=e^x is a float between y=0 (at x=negative infinty) and y=1 (at x=0).
+	* Similarly, for all postive x values input into the y=e^x function, the output is always a postive number from y=1 (when x=0) to y=positive infinity as x approaches postive infinity.
+* 1:24:30 - 1:25:58 Andrej summarizes again everything he's done over the last 15 minutes or so. Going from one-hot encoding, entry of first 5-letter example, etc..
+* 1:32:00 summarizes that all the operations are differentiable. And as such, you can calculate the gradient for it and use SGD to optimize the weight and backprop 
+* 1:38:45 at this point, Andrej has done everything including pushed through a forward pass. 
+* 1:38:48 Andrej begins the first backward pass
+* 1:41:35 Andrej does first weight adjustment based on (i think this is backprop at this point). similar to what he did in micrograd. It's after the extra 'h' term a few seconds earlier
+* 1:42:10 Andrej recalculates and readjusts the weights about 2-3 times while measuring the loss function output, which is a postive float that slowly gets smaller. Optimally, we should get to loss function = 0
+	* Values of loss function over time: 3.76. Rerun forward pass, new loss function output is 3.74. Based on new weight values, backward pass means we update the weights again. Rerun forward pass again, new loss function output is 3.72
+	* At 1:42:44, Andrej says "see, we are now doing gradient descent!"
+* Up to 1:43:50, all 10 iterations of forward pass, update weights, backward pass, etc. improved result of loss function using only the likelihood of letter "x" being the next letter in the sequence  based on the values of 'emma.' i.e., 
+	1. '.e'
+	1. 'em'
+	1. 'mm'
+	1. 'ma'
+	1. 'a.
+* From this point on, Andrej will start training with all ~228,000 bigrams, not just the 5 bigrams derived from 'emma.'
+* 1:44:27, goes from 10 iterations to 100 iterations and get a final loss value of about 2.47.
+	* 1:44:20, also, andrej changed the learning rate from 0.1 to 1.0 to 10.0 to 50.0
+* From 1:45:00 to 1:46:00, Andrej explains that the best (aka lowest) loss value we can achieve through gradient descent-based learning is about 2.45. which is the same value we got from the explicit counting based approach in the first 30 minutes of this video! But that's because the representation is not that complicated. SGD is nice because it's a flexible system that can be used to fit much more complicated representations. 
+
+
