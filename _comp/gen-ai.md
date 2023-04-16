@@ -117,7 +117,6 @@ permalink: /gen-ai/
 	* See also this previous post by Jay about [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * Researchers at Allen Institute find a way to 6x the toxicity of ChatGPT. [Allen Institute blog post](https://blog.allenai.org/toxicity-in-chatgpt-ccdcf9265ae4) and [TC article](https://techcrunch.com/2023/04/12/researchers-discover-a-way-to-make-chatgpt-consistently-toxic/)
 * Quote from Betaworks CEO John Borthwick: "This is the biggest change in technology in my lifetime. We’ve been building, accelerating and investing in and around machine learning for the last decade, and in the last 12 months, everything’s changed — the launch of generative visual models like [OpenAI’s] DALL-E 2 last year, the open and affordable access to these models with the availability of stability and GPT. AI has the potential to affect every sector, and every part of how we live, work, play and even die." Part of [Betaworks AI camp announcement](https://techcrunch.com/2023/04/13/betaworks-new-camp-aims-to-fund-transformative-early-stage-ai-startups/)
-* [Spain’s privacy watchdog says it’s probing ChatGPT too](https://techcrunch.com/2023/04/13/chatgpt-spain-gdpr/) 4/13
 
 ## 16 April 2023
 * [Batch computing and AI](https://hazyresearch.stanford.edu/blog/2023-04-12-batch) and associated [HN thread](https://news.ycombinator.com/item?id=35589027) 
