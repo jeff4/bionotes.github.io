@@ -220,5 +220,9 @@ sitemap: false
 * AI-related mobile apps [have experienced significant increases in both downloads and revenue](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/), benefiting both indie app developers and large companies like MS Bing.
 * [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/) from 4/12
 
+## 16 April 2023
+* [Updated version](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/) of Stable Diffusion called Stable Diffusion XL (SDXL) available via Stability AI's gen art product called DreamStudio.
+* Very long article surveying law and regulation on gen AI from around the world by [Natasha Lomas in TC 4/13](https://techcrunch.com/2023/04/13/generative-ai-gdpr-enforcement/)
+* From 4/13 interview at MIT conference, [Sam Altman says LLM size will be less important going forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
 
 
