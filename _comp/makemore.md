@@ -130,3 +130,9 @@ permalink: /makemore/
 		g = torch.Generator().manual_seed(...)
 		for i in range(5):
 			out = []
+
+* Finished everyting before In[487...]. i.e., xs and ys provided the correct output for emma
+* Got a few lines more to [490... BUT tensor shape is wrong for In [493...
+
+
+
