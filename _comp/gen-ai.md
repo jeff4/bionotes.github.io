@@ -72,6 +72,7 @@ permalink: /gen-ai/
 		* Support vector machines, self driving cars (Kanade et al, 1997), 
 		* Deep Blue (chess 2), self driving cars (Thrun, 2007), Bayesian inference, Watson (Jeopardy, and revolutionizing medicine), 
 		*  Neural networks (volume 5, deep learning), Alpha GO, reinforcement learning (round 4), generative images, and now large language models. 
+
 	* All have heralded the imminence of human level intelligence in machines. All were hyped up to the limit, but mostly in the days when very few people were even aware of AI, so very few people remember the levels of hype. I’m old. I do remember all these, but have probably forgotten quite a few…
 		* "None of these things have lived up to that early hype.
 
@@ -121,3 +122,10 @@ permalink: /gen-ai/
 ## 16 April 2023
 * [Batch computing and AI](https://hazyresearch.stanford.edu/blog/2023-04-12-batch) and associated [HN thread](https://news.ycombinator.com/item?id=35589027) 
 * New 'Consistency Models' are an upgrade over previous diffusion models for image generation and related visual tasks. [Paper](https://arxiv.org/abs/2303.01469) and [TC article](https://techcrunch.com/2023/04/12/openai-looks-beyond-diffusion-with-consistency-based-image-generator/)
+
+## 17 April 2023
+* Excellent compilation of various LLM resources by Sebastian Raschka. [Blog post](https://magazine.sebastianraschka.com/p/understanding-large-language-models) and associated [HN thread](https://news.ycombinator.com/item?id=35589756) with more resources
+* Review article on ChatGPT related papers by [Zhang, Zhang, et al](https://arxiv.org/abs/2304.06488). From abstract: 'According to Google scholar, there are more than 500 articles with ChatGPT in their titles or mentioning it in their abstracts. Considering this, a review is urgently needed, and our work fills this gap. Overall, this work is the first to survey ChatGPT with a comprehensive review of its underlying technology, applications, and challenges. Moreover, we present an outlook on how ChatGPT might evolve to realize general-purpose AIGC (a.k.a. AI-generated content), which will be a significant milestone for the development of AGI.'
+* [Together](https://www.together.xyz) released [RedPajama](https://www.together.xyz/blog/redpajama), a project to create 'reproducible, fully-open, leading language model. RedPajama is a collaboration between Together, Ontocord.ai, ETH DS3Lab, Stanford CRFM, Hazy Research, and MILA Québec AI Institute.'. 
+	* three components: (1) Pre-training data, (2) Base models trained at scale with data from (1), and (3) Instruction tuning data and models for usability and safety
+	* Released LLaMA training dataset of 1.2 trillion tokens
