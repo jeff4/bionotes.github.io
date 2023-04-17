@@ -93,7 +93,7 @@ permalink: /makemore/
 * 52:00 to 1:05:00 explains how to evaluate the "effectiveness" of the model, by first explaining maximum likelihood estimate. 
 	* Because these values are between 0 and 1 and the product of all 27 MLEs becomes a small number, better to view as the log(maximum likelihood estimate). This means that the closer that MLE gets to 1 (better), the closer log(MLE) gets to zero. And the worse MLE is (closer to zero it gets), the closer log(MLE) gets to negative infinity.
 	* Finally, the standard is to miniminze the loss function which is why we invert the log(MLE) by putting a negative sign in front of it. This aligns log(MLE) with the usual loss function Objective function.
-* 1:08 - Explains difference between torch.tensor and torch.Tensor. generally best to use only the lower-case version. PyTorch offical docs don't explain very well, but a StackExchange thread does do a good job.
+* 1:08:00 - Explains difference between torch.tensor and torch.Tensor. generally best to use only the lower-case version. PyTorch offical docs don't explain very well, but a StackExchange thread does do a good job.
 * 1:12:00 - Explains the simplifications that come with One-Hot encoding. All that means is that it represents every letter (a-z) as a 27-dimension vector, where each dimension represents one of the letters of the alphabet plus position zero represents the delimiter '.'
 	* Exactly 1 dimension has a non-zero value, initialized at 1 to represent a particular letter.
 	* e.g., \[1,0,0,0,...] = '.'
@@ -124,4 +124,8 @@ permalink: /makemore/
 	* 1:44:20, also, andrej changed the learning rate from 0.1 to 1.0 to 10.0 to 50.0
 * From 1:45:00 to 1:46:00, Andrej explains that the best (aka lowest) loss value we can achieve through gradient descent-based learning is about 2.45. which is the same value we got from the explicit counting based approach in the first 30 minutes of this video! But that's because the representation is not that complicated. SGD is nice because it's a flexible system that can be used to fit much more complicated representations. 
 
-
+## 16 April 2023
+* Was able to implement everything needed up until In[164..]
+		g = torch.Generator().manual_seed(...)
+		for i in range(5):
+			out = []
