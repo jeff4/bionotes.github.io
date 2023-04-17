@@ -120,6 +120,4 @@ permalink: /gen-ai/
 
 ## 16 April 2023
 * [Batch computing and AI](https://hazyresearch.stanford.edu/blog/2023-04-12-batch) and associated [HN thread](https://news.ycombinator.com/item?id=35589027) 
-
-
-
+* New 'Consistency Models' are an upgrade over previous diffusion models for image generation and related visual tasks. [Paper](https://arxiv.org/abs/2303.01469) and [TC article](https://techcrunch.com/2023/04/12/openai-looks-beyond-diffusion-with-consistency-based-image-generator/)
