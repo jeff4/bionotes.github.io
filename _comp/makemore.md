@@ -126,6 +126,7 @@ permalink: /makemore/
 
 ## 16 April 2023
 * Was able to implement everything needed up until In[164..]
+
 		g = torch.Generator().manual_seed(...)
 		for i in range(5):
 			out = []
