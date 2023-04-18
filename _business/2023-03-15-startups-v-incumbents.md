@@ -227,5 +227,8 @@ sitemap: false
 * From 4/13 interview at MIT conference, [Sam Altman says LLM size will be less important going forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
 * List of various iOS apps offering ability to chat with ChatGPT-powered characters in [this article about Superchat made by Gorilla Technologies](https://techcrunch.com/2023/04/17/superchats-new-ai-chatbot-lets-you-message-historical-and-fictional-characters-via-chatgpt/)
 * Adobe Firefly now available for [video tools](https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/)
+* [Web LLM](https://simonwillison.net/2023/Apr/16/web-llm/) runs Vicuna-7B LLM entirely in browser.
+	* [GitHub link](https://github.com/mlc-ai/web-llm)
+	* [HN thread](https://news.ycombinator.com/item?id=35583349)
 
 
