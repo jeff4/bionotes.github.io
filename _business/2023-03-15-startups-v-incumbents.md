@@ -225,5 +225,6 @@ sitemap: false
 * [Updated version](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/) of Stable Diffusion called Stable Diffusion XL (SDXL) available via Stability AI's gen art product called DreamStudio.
 * Very long article surveying law and regulation on gen AI from around the world by [Natasha Lomas in TC 4/13](https://techcrunch.com/2023/04/13/generative-ai-gdpr-enforcement/)
 * From 4/13 interview at MIT conference, [Sam Altman says LLM size will be less important going forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
+* List of various iOS apps offering ability to chat with ChatGPT-powered characters in [this article about Superchat made by Gorilla Technologies](https://techcrunch.com/2023/04/17/superchats-new-ai-chatbot-lets-you-message-historical-and-fictional-characters-via-chatgpt/)
 
 
