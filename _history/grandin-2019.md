@@ -37,6 +37,19 @@ sitemap: false
 -------
 
 ## Chapter 1: All That Space 
-* Wallerstein's World Systems Theory WST
-* Sweezy and Wallerstein's similarities and differences
+
+-------
+
+## Chapter 2: The Alpha and the Omega
+* 'By 1826--the year of Thomas Jefferson's and John Adam's deaths--all of Spain's former colonies in the Americas, with the exception of Cuba and Puerto Rico, had won their freedom. These new countries--among them Gran Colombia, the United Provinces, Bolivia, Peru, the Republic of Chile, and the United States of Mexico--immediately recognized the territorial integrityh of the others based on old colonial boundaries.'
+* 'They had to, for each individual nation both legitimated and threatened the others in existential terms. "Legitmated" because the independence of one confirmed for the rest the right to rebel against colonial rule and establish self-governing republics.'
+* '"Threatened" because all these new republics came into being at a time when reigning international law recornized war, conquest, and subjugation as valid means of obraining territory and establishing sovereignty.' p. 32
+
+
+
+
+
+
+
+
 
