@@ -231,4 +231,5 @@ sitemap: false
 	* [GitHub link](https://github.com/mlc-ai/web-llm)
 	* [HN thread](https://news.ycombinator.com/item?id=35583349)
 
-
+## 19 April 2023
+* [Stability AI](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/) moves from the pure image gen space of Stable Diffusion to LLMs with launch of open source StableLM and available on GitHub and Hugging Spaces.
