@@ -232,4 +232,15 @@ sitemap: false
 	* [HN thread](https://news.ycombinator.com/item?id=35583349)
 
 ## 19 April 2023
-* [Stability AI](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/) moves from the pure image gen space of Stable Diffusion to LLMs with launch of open source StableLM and available on GitHub and Hugging Spaces.
+* [Stability AI](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/) moves from the pure image gen space of Stable Diffusion to LLMs with launch of open source StableLM and available on GitHub and Hugging Spaces. [HN thread](https://news.ycombinator.com/item?id=35629127)
+* Eleuther.ai's computation of [basic math](https://blog.eleuther.ai/transformer-math/) governing training and inference costs for LLMs. [HN thread](https://news.ycombinator.com/item?id=35631546)
+* [WaPo](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/?itid=hp_desktop-dont-miss_p005_f001) analysis of the datasets used to train ChatGPT in collaboration with Allen Institute for AI
+* [Kent Beck](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0) on "90% of My Skills Are Now Worth $0...but the other 10% are worth 1000x" plus [HN thread](https://news.ycombinator.com/item?id=35627779)
+
+
+## 20 April 2023
+* Gen AI and finance
+	* [WSJ / Apple News article](https://apple.news/AbI7YPjBZSPqh9f5bt4XANg) "AI Can Write a Song, but It Can’t Beat the Market" by Gregory Zuckerman 4/12
+	* [Can ChatGPT Decipher Fedspeak?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399406) 4/07 by Hansen and Kazinnik
+	* [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788) 4/06 Lopez-Lira and Tang
+
