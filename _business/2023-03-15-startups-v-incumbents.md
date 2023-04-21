@@ -243,6 +243,8 @@ sitemap: false
 	* [WSJ / Apple News article](https://apple.news/AbI7YPjBZSPqh9f5bt4XANg) "AI Can Write a Song, but It Can’t Beat the Market" by Gregory Zuckerman 4/12
 	* [Can ChatGPT Decipher Fedspeak?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399406) 4/07 by Hansen and Kazinnik
 	* [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788) 4/06 Lopez-Lira and Tang
+	* BloombergGPT. [Paper](https://arxiv.org/abs/2303.17564), [press release](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/), [news article](https://www.infoq.com/news/2023/04/bloomberg-gpt-ai/), [HN thread](https://news.ycombinator.com/item?id=35381036) which has discussion about shortcomings in math and in the paper.
+		* [Follow up item](https://www.cnbc.com/2023/04/13/bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.html) indicating that BloombergGPT will be incorporated into Bloomberg Terminals.
 * Google Brain and Deep Mind to merge.
 	* [HN thread](https://news.ycombinator.com/item?id=35643049)
 	* [Google Blog Post](https://www.deepmind.com/blog/announcing-google-deepmind)
