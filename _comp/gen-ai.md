@@ -129,3 +129,7 @@ permalink: /gen-ai/
 * [Together](https://www.together.xyz) released [RedPajama](https://www.together.xyz/blog/redpajama), a project to create 'reproducible, fully-open, leading language model. RedPajama is a collaboration between Together, Ontocord.ai, ETH DS3Lab, Stanford CRFM, Hazy Research, and MILA Québec AI Institute.'. 
 	* three components: (1) Pre-training data, (2) Base models trained at scale with data from (1), and (3) Instruction tuning data and models for usability and safety
 	* Released LLaMA training dataset of 1.2 trillion tokens
+
+## 22 April 2023
+* New [article by Sebastian Raschka](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) with a comprehensive introduction to 'Fintuning LLMs'. Associated [HN thread](https://news.ycombinator.com/item?id=35666201)
+
