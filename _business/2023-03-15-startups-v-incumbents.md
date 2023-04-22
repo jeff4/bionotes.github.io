@@ -236,7 +236,10 @@ sitemap: false
 * Eleuther.ai's computation of [basic math](https://blog.eleuther.ai/transformer-math/) governing training and inference costs for LLMs. [HN thread](https://news.ycombinator.com/item?id=35631546)
 * [WaPo](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/?itid=hp_desktop-dont-miss_p005_f001) analysis of the datasets used to train ChatGPT in collaboration with Allen Institute for AI
 * [Kent Beck](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0) on "90% of My Skills Are Now Worth $0...but the other 10% are worth 1000x" plus [HN thread](https://news.ycombinator.com/item?id=35627779)
-
+* ['With Bedrock, Amazon enters the generative AI race'](https://techcrunch.com/2023/04/13/with-bedrock-amazon-enters-the-generative-ai-race/)
+* ['Atlassian brings an AI assistant to Jira and Confluence'](https://techcrunch.com/2023/04/19/atlassian-brings-an-ai-assistant-to-jira-and-confluence/) product called *Atlassian Intelligence*
+* ["Snapchat launches AR Lenses powered by generative AI, starting with a new ‘Cosmic Lens’"](https://techcrunch.com/2023/04/19/snapchat-launches-ar-lenses-powered-by-generative-ai-starting-with-a-new-cosmic-lens/)
+* ["Snapchat’s AI chatbot is now free for all global users, says the AI will later ‘Snap’ you back"](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
 
 ## 20 April 2023
 * Gen AI and finance
@@ -255,3 +258,13 @@ sitemap: false
 
 ## 21 April 2023
 * Matt Schlicht's 4/18 newsletter item ["The Complete Beginners Guide To Autonomous Agents"](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
+* [EU lawmakers eye tiered approach to regulating generative AI](https://techcrunch.com/2023/04/21/eu-ai-act-generative-ai/)
+* ['Google’s Bard AI chatbot can now generate and debug code'](https://techcrunch.com/2023/04/21/googles-bard-ai-chatbot-can-now-generate-and-debug-code/) and associated [Google blog post](https://blog.google/technology/ai/code-with-bard/)
+* ['Qdrant, an open source vector database startup, wants to help AI developers leverage unstructured data'](https://techcrunch.com/2023/04/19/qdrant-an-open-source-vector-database-startup-wants-to-help-ai-developers-leverage-unstructured-data/) has a list of other vector databases:
+	* [Pinecone](https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/)
+	* [Milvus by Zilliz](https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/)
+	* [Chroma](https://www.trychroma.com/blog/seed)
+
+## 22 April 2023
+* [TC article on 'What is Auto-GPT and why does it matter?'](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
+
