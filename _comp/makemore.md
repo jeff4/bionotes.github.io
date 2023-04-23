@@ -135,4 +135,5 @@ permalink: /makemore/
 * Got a few lines more to [490... BUT tensor shape is wrong for In [493...
 * Wrestled with getting the '@' matrix multiplier operator to work. Tried torch.bmm(), and torch.matmul() as well. And keep getting gthe same result! Multiplying \[5,27] * [27,1] matrices should result in a [5,1] matrix. But Andrej is using broadcasting or something to generate a \[27, 5] output tensor. (27 rows, 5 columns as output)
 
+## 23 April 2023
 
