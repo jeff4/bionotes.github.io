@@ -268,3 +268,5 @@ sitemap: false
 ## 22 April 2023
 * [TC article on 'What is Auto-GPT and why does it matter?'](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
 
+## 23 April 2023
+* [Leaked pitch slides and Telegram messages](https://sifted.eu/articles/stability-ai-fundraise-leakt while fundraising for Series A for Stability AI by Tim Smith at Sifted.eu
