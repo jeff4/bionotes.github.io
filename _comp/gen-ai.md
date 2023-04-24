@@ -137,8 +137,8 @@ permalink: /gen-ai/
 ## 24 April 2023
 * [New paper](https://arxiv.org/abs/2304.11062) increases context window from 32k tokens for GPT-4 to 1M tokens using the Recurring Memory Transformer architecture (aka RMT). [HN thread](https://news.ycombinator.com/item?id=35682424) Point from this [HN comment]: 
 	* 'For LLMs there are at least three different ways of "learning":
-	* 1. *Pre-training* for text prediction, using unsupervised learning
-	* 2. *Fine-tuning* e.g. to follow instructions or to reject certain queries, using supervised and/or reinforcement learning (optional)
-	* 3. *In-context learning* using "few-shot prompts" as examples
-	'Now the last two can have similar effects. For example, you might fine-tune a foundation (only pre-trained) model to follow instructions, or you don't and instead just modify your prompt such that it looks like a dialogue between a human and a helpful chat assistant.  But neither can replace the extensive pre-training phase, which is what gives the model all its intelligence.'
-	'One other disanalogy between fine-tuning and in-context learning appears to be that the model can't exactly remember the data it was fine-tuned with, while it "knows" exactly everything in its context window. That is its working memory, so to speak.'
+		1. *Pre-training* for text prediction, using unsupervised learning
+		2. *Fine-tuning* e.g. to follow instructions or to reject certain queries, using supervised and/or reinforcement learning (optional)
+		3. *In-context learning* using "few-shot prompts" as examples
+	* 'Now the last two can have similar effects. For example, you might fine-tune a foundation (only pre-trained) model to follow instructions, or you don't and instead just modify your prompt such that it looks like a dialogue between a human and a helpful chat assistant.  But neither can replace the extensive pre-training phase, which is what gives the model all its intelligence.'
+	* 'One other disanalogy between fine-tuning and in-context learning appears to be that the model can't exactly remember the data it was fine-tuned with, while it "knows" exactly everything in its context window. That is its working memory, so to speak.'
