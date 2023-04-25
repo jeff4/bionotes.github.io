@@ -136,4 +136,10 @@ permalink: /makemore/
 * Wrestled with getting the '@' matrix multiplier operator to work. Tried torch.bmm(), and torch.matmul() as well. And keep getting gthe same result! Multiplying \[5,27] * [27,1] matrices should result in a [5,1] matrix. But Andrej is using broadcasting or something to generate a \[27, 5] output tensor. (27 rows, 5 columns as output)
 
 ## 23 April 2023
+* finished up to import random. note that torch.Size is a little different than Andrej
+
+## 25 April 2023
+* Completed to just before declaration of loss variable 
+
+
 
