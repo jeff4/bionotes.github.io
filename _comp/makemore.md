@@ -139,4 +139,17 @@ permalink: /makemore/
 * finished up to import random. note that torch.Size is a little different than Andrej
 
 ## 25 April 2023
-* written up to lri = [] ; lossi = [] ; stepi = []
+* written through end of first pass but getting this error b/c incorrect tensor shape is being entered when defining loss:
+		
+		RuntimeError                              Traceback (most recent call last)
+		Cell In[12], line 21
+		     19 h = torch.tanh(emb.view(-1, 30) @ W1 + b1)   # (32, 200)
+		     20 logits = h @ W2 + b2   # (32, 27)
+		---> 21 loss = F.cross_entropy(logits, Ytr[ix])
+		     22 print(loss.item())
+		File ~/demo_files/mambaforge/envs/pytorch-jh/lib/python3.10/site-packages/torch/nn/functional.py:3029, in cross_entropy(input, target, weight, size_average, ignore_index, reduce, reduction, label_smoothing)
+		   3027 if size_average is not None or reduce is not None:
+		   3028     reduction = _Reduction.legacy_get_string(size_average, reduce)
+		-> 3029 return torch._C._nn.cross_entropy_loss(input, target, weight, _Reduction.get_enum(reduction), ignore_index, label_smoothing)
+		RuntimeError: 0D or 1D target tensor expected, multi-target not supported
+
