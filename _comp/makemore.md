@@ -139,7 +139,4 @@ permalink: /makemore/
 * finished up to import random. note that torch.Size is a little different than Andrej
 
 ## 25 April 2023
-* Completed to just before declaration of loss variable 
-
-
-
+* written up to lri = [] ; lossi = [] ; stepi = []
