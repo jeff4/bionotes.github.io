@@ -269,4 +269,10 @@ sitemap: false
 * [TC article on 'What is Auto-GPT and why does it matter?'](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
 
 ## 23 April 2023
-* [Leaked pitch slides and Telegram messages](https://sifted.eu/articles/stability-ai-fundraise-leakt while fundraising for Series A for Stability AI by Tim Smith at Sifted.eu
+* [Leaked pitch slides and Telegram messages](https://sifted.eu/articles/stability-ai-fundraise-leakt while fundraising for Series A for Stability AI by Tim Smith at Sifted.eu)
+
+## 26 April 2023
+* Brian Kihoon Lee's [essay reflecting on Google Brain + DeepMind merger](https://www.moderndescartes.com/essays/why_brain/). [HN thread](https://news.ycombinator.com/item?id=35716216). See also [his journey](https://www.moderndescartes.com/essays/my_ml_path/) from being a server engineer at HubSpot interested in Go to the Recurse Center to eventually working at Google Brain. Undergrad in chemistry at MIT and masters at Harvard in same.
+
+
+
