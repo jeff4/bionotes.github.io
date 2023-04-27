@@ -131,8 +131,8 @@ permalink: /gen-ai/
 	* Released LLaMA training dataset of 1.2 trillion tokens
 
 ## 22 April 2023
-* New [article by Sebastian Raschka](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) with a comprehensive introduction to 'Fintuning LLMs'. Associated [HN thread](https://news.ycombinator.com/item?id=35666201)
-
+* New [article by Sebastian Raschka](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) with a comprehensive introduction to 'Finetuning LLMs'. Associated [HN thread](https://news.ycombinator.com/item?id=35666201)
+	* Review again Jay's 2020 [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) and his preceding [article on Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 ## 24 April 2023
 * [New paper](https://arxiv.org/abs/2304.11062) increases context window from 32k tokens for GPT-4 to 1M tokens using the Recurring Memory Transformer architecture (aka RMT). [HN thread](https://news.ycombinator.com/item?id=35682424) Point from this [HN comment]: 
@@ -142,3 +142,12 @@ permalink: /gen-ai/
 		3. *In-context learning* using "few-shot prompts" as examples
 	* 'Now the last two can have similar effects. For example, you might fine-tune a foundation (only pre-trained) model to follow instructions, or you don't and instead just modify your prompt such that it looks like a dialogue between a human and a helpful chat assistant.  But neither can replace the extensive pre-training phase, which is what gives the model all its intelligence.'
 	* 'One other disanalogy between fine-tuning and in-context learning appears to be that the model can't exactly remember the data it was fine-tuned with, while it "knows" exactly everything in its context window. That is its working memory, so to speak.'
+
+## 27 April 2023
+* e2eml school's [Transformers from scratch](https://e2eml.school/transformers.html#markov_chain) nice diagrams on seq2seq etc
+* Harvard SEAS Jupyter notebook [annotated version](http://nlp.seas.harvard.edu/annotated-transformer/) of original Transformer / attention-is-all-you-need paper
+* arXiv paper from 3/22/2023 ['Sparks of AGI: Early experiments from GPT-4](https://arxiv.org/abs/2303.12712)
+* A Cookbook of Self-Supervised Learning [paper](https://arxiv.org/abs/2304.12210) and [HN thread](https://news.ycombinator.com/item?id=35702490)
+
+
+
