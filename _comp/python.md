@@ -76,4 +76,6 @@ Instead, use the more mathematically useful [numpy.array()](https://numpy.org/do
 * Concept of "collections" useful noun as explained in this [YouTube about list comprehensions](https://www.youtube.com/watch?v=AhSvKGTh28Q&t=80si) (80 seconds in)
 
 
+## 27 April 2023
+* Began reading Bruce Eckel's Thinking in Python old PDF.
 
