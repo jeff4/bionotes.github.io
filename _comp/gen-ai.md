@@ -158,4 +158,4 @@ permalink: /gen-ai/
 	* 'What's called "encoder only" actually has an encoder and a decoder (just not an auto-regressive decoder).
 	* 'What's called "encoder-decoder" really means "encoder with auto-regressive decoder"
 	* 'What's called "decoder only" really means "auto-regressive encoder-decoder"’
-
+* GPT4Free - allows various projects without an OpenAI API key. Very empty [HN thread](https://news.ycombinator.com/item?id=35685512) and [project home](https://github.com/xtekky/gpt4free)
