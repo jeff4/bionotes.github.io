@@ -149,5 +149,13 @@ permalink: /gen-ai/
 * arXiv paper from 3/22/2023 ['Sparks of AGI: Early experiments from GPT-4](https://arxiv.org/abs/2303.12712)
 * A Cookbook of Self-Supervised Learning [paper](https://arxiv.org/abs/2304.12210) and [HN thread](https://news.ycombinator.com/item?id=35702490)
 
-
+## 28 April 2023
+* Shared by Yann LeCun on FB -- ['A Practical Guide for LLMs'](https://github.com/Mooler0410/LLMsPracticalGuide) with a history of taxonomic relationships between the various LLMs. Comments on FB from Yann: 
+	* ‘A survey of LLMs with a practical guide and evolutionary tree.
+	* ‘Number of LLMs from Meta = 7
+	* ‘Number of open source LLMs from Meta = 7
+	* ‘The architecture nomenclature for LLMs is somewhat confusing and unfortunate.
+	* 'What's called "encoder only" actually has an encoder and a decoder (just not an auto-regressive decoder).
+	* 'What's called "encoder-decoder" really means "encoder with auto-regressive decoder"
+	* 'What's called "decoder only" really means "auto-regressive encoder-decoder"’
 
