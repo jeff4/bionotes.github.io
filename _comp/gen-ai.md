@@ -160,3 +160,4 @@ permalink: /gen-ai/
 	* 'What's called "decoder only" really means "auto-regressive encoder-decoder"’
 * GPT4Free - allows various projects without an OpenAI API key. Very empty [HN thread](https://news.ycombinator.com/item?id=35685512) and [project home](https://github.com/xtekky/gpt4free)
 * Arxiv paper from Feb, 2023 ['Hyena Hierarchy: Towards Larger Convolutional Language Models'](https://arxiv.org/abs/2302.10866) and fragmentary [HN comment](https://news.ycombinator.com/item?id=35514579)
+* ['Choose Your Weapon: Survival Strategies for Depressed AI Academics'](https://arxiv.org/abs/2304.06035) from March, 2023
