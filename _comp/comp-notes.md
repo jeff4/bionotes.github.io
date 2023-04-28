@@ -185,5 +185,4 @@ permalink: /comp-notes/
 			* 'The term "soft" is used to differentiate symbolic links from "hard links," which are another type of link in UNIX. Hard links are a way to create additional names (i.e., links) for a file or directory, but they must be on the same filesystem as the original file or directory.
 			* 'So, to answer your question, there is no difference between symbolic links and soft links in UNIX. They are just two different terms used to refer to the same thing.'
 * 4/19 ["Offline Is Just Online With Extreme Latency"](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/) and [HN thread](https://news.ycombinator.com/item?id=35626015)
-
-
+* 4/28 Microsoft is rewriting some parts of Windows core in Rust. [HN thread](https://news.ycombinator.com/item?id=35735444)
