@@ -161,3 +161,10 @@ permalink: /gen-ai/
 * GPT4Free - allows various projects without an OpenAI API key. Very empty [HN thread](https://news.ycombinator.com/item?id=35685512) and [project home](https://github.com/xtekky/gpt4free)
 * Arxiv paper from Feb, 2023 ['Hyena Hierarchy: Towards Larger Convolutional Language Models'](https://arxiv.org/abs/2302.10866) and fragmentary [HN comment](https://news.ycombinator.com/item?id=35514579)
 * ['Choose Your Weapon: Survival Strategies for Depressed AI Academics'](https://arxiv.org/abs/2304.06035) from March, 2023
+
+## 30 April
+* [A Brief History of LLaMA](https://agi-sphere.com/llama-models/) and [HN thread](https://news.ycombinator.com/item?id=35736872)
+    * [this comment](https://news.ycombinator.com/item?id=35757925) indicates that [this GH repo](https://github.com/jankais3r/LLaMA_MPS) runs unquantized 7b and 13b models on an M2 GPU which means it's a little slower but much much more energy efficient.
+
+
+
