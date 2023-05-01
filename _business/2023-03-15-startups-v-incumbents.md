@@ -1,4 +1,4 @@
----
+et--
 title: Startups v Incumbents 2023 
 permalink: /startups-v-incumbents-2023a/
 sitemap: false
@@ -274,5 +274,9 @@ sitemap: false
 ## 26 April 2023
 * Brian Kihoon Lee's [essay reflecting on Google Brain + DeepMind merger](https://www.moderndescartes.com/essays/why_brain/). [HN thread](https://news.ycombinator.com/item?id=35716216). See also [his journey](https://www.moderndescartes.com/essays/my_ml_path/) from being a server engineer at HubSpot interested in Go to the Recurse Center to eventually working at Google Brain. Undergrad in chemistry at MIT and masters at Harvard in same.
 
-
-
+## 01 May 2023
+* Geoff Hinton leaves Google. Various articles:
+	* March 2013 [acquisition of DNNresearch](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/) cofounded by Hinton, Alex Krizhevsky and Ilya Sutskever
+	* NYT article about [Hinton's departure](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+	* [Verge article](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
+ 
