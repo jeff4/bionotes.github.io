@@ -1,4 +1,4 @@
-et--
+---
 title: Startups v Incumbents 2023 
 permalink: /startups-v-incumbents-2023a/
 sitemap: false
