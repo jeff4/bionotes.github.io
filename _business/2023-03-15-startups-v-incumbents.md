@@ -280,3 +280,5 @@ sitemap: false
 	* NYT article about [Hinton's departure](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 	* [Verge article](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
  
+## 02 May 2023
+* [Benchmark testing](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/) on LLM performance hosted at [Lightning AI](https://lightning.ai). tldr -- 'GPT-3 and GPT-4 were a clear cut above the rest, but are a little harder to access given you need to pay for them and you’ll be sharing your data with OpenAI. [Flan-t5 (11b)](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) and [Lit-LLaMA (7b)](https://github.com/Lightning-AI/lit-llama) answered all of our questions accurately and they’re publicly available. They’ll hold up in an interrogation even though they don’t really have a sense of humor.'
