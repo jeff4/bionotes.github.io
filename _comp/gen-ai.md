@@ -166,6 +166,7 @@ permalink: /gen-ai/
 * [A Brief History of LLaMA](https://agi-sphere.com/llama-models/) and [HN thread](https://news.ycombinator.com/item?id=35736872)
     * [this comment](https://news.ycombinator.com/item?id=35757925) indicates that [this GH repo](https://github.com/jankais3r/LLaMA_MPS) runs unquantized 7b and 13b models on an M2 GPU which means it's a little slower but much much more energy efficient.
 
-
 ## 01 May 2023
 * [Mojo](https://www.modular.com/mojo)--a new programming language from [Chris Lattner's](https://en.wikipedia.org/wiki/Chris_Lattner), [new company Modular AI](https://www.modular.com). [HN thread](https://news.ycombinator.com/item?id=35790367)
+* [Project](https://github.com/mlc-ai/mlc-llm/blob/main/README.md) to run LLMs on mobile devices and diverse hardware. 'Everything runs locally with no server support and accelerated with local GPUs on your phone and laptops. Supported platforms include: iphone/ipad, Metal GPUs and Intel/ARM MacBooks, AMD and NVIDIA GPUs via Vulkan on Windows and Linux, NVIDIA GPUs via CUDA, WebGPU on browsers through [WebLLM](https://github.com/mlc-ai/web-llm/blob/main/README.md).'
+	* [HN thread](https://news.ycombinator.com/item?id=35763483) 
