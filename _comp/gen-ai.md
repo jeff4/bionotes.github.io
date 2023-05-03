@@ -167,4 +167,5 @@ permalink: /gen-ai/
     * [this comment](https://news.ycombinator.com/item?id=35757925) indicates that [this GH repo](https://github.com/jankais3r/LLaMA_MPS) runs unquantized 7b and 13b models on an M2 GPU which means it's a little slower but much much more energy efficient.
 
 
-
+## 01 May 2023
+* [Mojo](https://www.modular.com/mojo)--a new programming language from [Chris Lattner's](https://en.wikipedia.org/wiki/Chris_Lattner), [new company Modular AI](https://www.modular.com). [HN thread](https://news.ycombinator.com/item?id=35790367)
