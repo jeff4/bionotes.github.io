@@ -175,6 +175,6 @@ permalink: /gen-ai/
 * Recommended to read this nice article explaning RLHF -- ['Illustrating Reinforcement Learning from Human Feedback (RLHF)'](https://huggingface.co/blog/rlhf)
 
 ## 04 May 2023
-* Two good intro articles by [Assembly AI]:
+* Two good intro articles by [Assembly AI](https://www.assemblyai.com/about):
 	* [The Full Story of LLMs and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/) and associated [HN thread](https://news.ycombinator.com/item?id=35803522)
 	* [Intro to Generative AI](https://www.assemblyai.com/blog/introduction-generative-ai/)
