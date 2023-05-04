@@ -170,3 +170,11 @@ permalink: /gen-ai/
 * [Mojo](https://www.modular.com/mojo)--a new programming language from [Chris Lattner's](https://en.wikipedia.org/wiki/Chris_Lattner), [new company Modular AI](https://www.modular.com). [HN thread](https://news.ycombinator.com/item?id=35790367)
 * [Project](https://github.com/mlc-ai/mlc-llm/blob/main/README.md) to run LLMs on mobile devices and diverse hardware. 'Everything runs locally with no server support and accelerated with local GPUs on your phone and laptops. Supported platforms include: iphone/ipad, Metal GPUs and Intel/ARM MacBooks, AMD and NVIDIA GPUs via Vulkan on Windows and Linux, NVIDIA GPUs via CUDA, WebGPU on browsers through [WebLLM](https://github.com/mlc-ai/web-llm/blob/main/README.md).'
 	* [HN thread](https://news.ycombinator.com/item?id=35763483) 
+
+## 03 May 2023
+* Recommended to read this nice article explaning RLHF -- ['Illustrating Reinforcement Learning from Human Feedback (RLHF)'](https://huggingface.co/blog/rlhf)
+
+## 04 May 2023
+* Two good intro articles by [Assembly AI]:
+	* [The Full Story of LLMs and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/) and associated [HN thread](https://news.ycombinator.com/item?id=35803522)
+	* [Intro to Generative AI](https://www.assemblyai.com/blog/introduction-generative-ai/)
