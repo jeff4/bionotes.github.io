@@ -283,3 +283,10 @@ sitemap: false
 ## 02 May 2023
 * [Benchmark testing](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/) on LLM performance hosted at [Lightning AI](https://lightning.ai). tldr -- 'GPT-3 and GPT-4 were a clear cut above the rest, but are a little harder to access given you need to pay for them and you’ll be sharing your data with OpenAI. [Flan-t5 (11b)](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) and [Lit-LLaMA (7b)](https://github.com/Lightning-AI/lit-llama) answered all of our questions accurately and they’re publicly available. They’ll hold up in an interrogation even though they don’t really have a sense of humor.'
 * Very short Yahoo News piece with [HN thread here](https://news.ycombinator.com/item?id=35784814) about IBM CEO letting 7800 jobs end by attrition and replaced by AI
+
+## 04 May 2023
+* New coding assistant called [StarCoder](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/) by Hugging Face + ServiceNow--compare versus GitHub Copilot, OpenAI Codex. Main [page](https://huggingface.co/bigcode), [HN thread](https://news.ycombinator.com/item?id=35819305). Launch [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view).
+* [Leaked strategy memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) by Google about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322)
+
+
+
