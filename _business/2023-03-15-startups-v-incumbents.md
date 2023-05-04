@@ -287,6 +287,4 @@ sitemap: false
 ## 04 May 2023
 * New coding assistant called [StarCoder](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/) by Hugging Face + ServiceNow--compare versus GitHub Copilot, OpenAI Codex. Main [page](https://huggingface.co/bigcode), [HN thread](https://news.ycombinator.com/item?id=35819305). Launch [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view).
 * [Leaked strategy memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) by Google about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322)
-
-
-
+* Inflection AI has launched [Pi](https://heypi.com/talk). Three cofounders are Mustafa Suleyman (cofounder of Deep Mind), Karén Simonyan and LinkedIn creator Reid Hoffman. Inflection has raised several hundred million dollars. [Open FT article](https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94) and [HN thread](https://news.ycombinator.com/item?id=35792838) and [some questions](https://news.ycombinator.com/threads?id=sjnair96)
