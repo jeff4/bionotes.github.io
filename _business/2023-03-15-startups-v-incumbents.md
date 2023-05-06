@@ -299,3 +299,7 @@ sitemap: false
 * Israeli startup [Alison](https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/) that 'analyzes creative work, such as typeface characters, colors, sounds, and text. It then gives the creative team a data-driven creative brief prompt that they can use to feed either into a generative AI production platform like Midjourney or their human creative team.' Competes with startups like 'VidMob, Replai, and Vizit, but Alison AI says it can allow advertisers to “see which creative elements had the biggest impact on their competitor’s creatives,”
 * Box announces plans pre-beta of [Box AI](https://techcrunch.com/2023/05/02/box-is-partnering-with-openai-to-bring-generative-ai-tools-across-the-platform/)
 * ['Samsung bans use of generative AI tools like ChatGPT after April internal data leak'](https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/)
+
+# 05 May 2023
+* Stability AI and DeepFloyd released [DeepFloyd IF](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/) which is an image generator with improved text creation and placement within image.
+* ['Google and OpenAI are Walmarts besieged by fruit stands'](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/) by Devin Coldewey
