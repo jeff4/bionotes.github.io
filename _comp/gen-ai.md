@@ -178,3 +178,9 @@ permalink: /gen-ai/
 * Two good intro articles by [Assembly AI](https://www.assemblyai.com/about):
 	* [The Full Story of LLMs and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/) and associated [HN thread](https://news.ycombinator.com/item?id=35803522)
 	* [Intro to Generative AI](https://www.assemblyai.com/blog/introduction-generative-ai/)
+
+## 05 May 2023
+* Introductory 2021 blog post by Pinecone ['What is a Vector Database?'](https://www.pinecone.io/learn/vector-database/) and [HN thread](https://news.ycombinator.com/item?id=35826929)
+* Deepgram blogpost ['Augmenting LLMs Beyond Basic Text Completion and Transformation'](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/) and [HN thread](https://news.ycombinator.com/item?id=35819613)
+
+
