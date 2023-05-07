@@ -187,5 +187,5 @@ permalink: /comp-notes/
 * 4/19 ["Offline Is Just Online With Extreme Latency"](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/) and [HN thread](https://news.ycombinator.com/item?id=35626015)
 * 4/28 Microsoft is rewriting some parts of Windows core in Rust. [HN thread](https://news.ycombinator.com/item?id=35735444)
 * 4/29 [Old 2014 post](https://buildyourownlisp.com/contents) on learning C by creating a compiler and designing a custom LISP. Recent [HN thread](https://news.ycombinator.com/item?id=35726033) with [rebuttal and critique](https://gist.github.com/no-defun-allowed/7e3e238c959e27d4919bb4272487d7ad)
-
-
+* 5/04 [Seven ur-languages of programming](https://madhadron.com/programming/seven_ur_languages.html) from 2021. [HN thread](https://news.ycombinator.com/item?id=35813496)
+* 5/07 Sample [dotfiles from Rachel Kroll](https://rachelbythebay.com/w/2023/05/05/dot/)
