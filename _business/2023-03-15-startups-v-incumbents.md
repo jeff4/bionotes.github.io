@@ -303,4 +303,6 @@ sitemap: false
 # 05 May 2023
 * Stability AI and DeepFloyd released [DeepFloyd IF](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/) which is an image generator with improved text creation and placement within image.
 * ['Google and OpenAI are Walmarts besieged by fruit stands'](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/) by Devin Coldewey
-* 06 May 2023
+
+# 08 May 2023
+* Designer's [critique](https://wattenberger.com/thoughts/boo-chatbots) about 'Why Chatbots Are Not the Future' and associated [HN thread](https://news.ycombinator.com/item?id=35773955)
