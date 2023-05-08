@@ -286,7 +286,6 @@ sitemap: false
 
 ## 04 May 2023
 * New coding assistant called [StarCoder](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/) by Hugging Face + ServiceNow--compare versus GitHub Copilot, OpenAI Codex. Main [page](https://huggingface.co/bigcode), [HN thread](https://news.ycombinator.com/item?id=35819305). Launch [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view).
-* [Leaked strategy memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) by Google about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322)
 * Inflection AI has launched [Pi](https://heypi.com/talk). Three cofounders are Mustafa Suleyman (cofounder of Deep Mind), Karén Simonyan and LinkedIn creator Reid Hoffman. Inflection has raised several hundred million dollars. [Open FT article](https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94) and [HN thread](https://news.ycombinator.com/item?id=35792838) and [some questions](https://news.ycombinator.com/threads?id=sjnair96)
 * New generative AI image startup [Bria](https://techcrunch.com/2023/04/13/this-startup-wants-to-train-art-generating-ai-strictly-on-licensed-images/) claims to generate images by only training on licensed image data
 * Users are unhappy with and giving [1-star reviews](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/) to Snapchat's 'My AI'.
@@ -306,3 +305,7 @@ sitemap: false
 
 # 08 May 2023
 * Designer's [critique](https://wattenberger.com/thoughts/boo-chatbots) about 'Why Chatbots Are Not the Future' and associated [HN thread](https://news.ycombinator.com/item?id=35773955)
+* Update on May 4th [leaked strategy memo from Google](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322). Followups:
+	* Jordan Burgess says framework is good but conclusion about open source winning is wrong [on Twitter](https://twitter.com/jordnb/status/1654496023778131970?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+	* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
+	* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
