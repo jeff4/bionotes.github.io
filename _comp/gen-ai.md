@@ -183,4 +183,6 @@ permalink: /gen-ai/
 * Introductory 2021 blog post by Pinecone ['What is a Vector Database?'](https://www.pinecone.io/learn/vector-database/) and [HN thread](https://news.ycombinator.com/item?id=35826929)
 * Deepgram blogpost ['Augmenting LLMs Beyond Basic Text Completion and Transformation'](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/) and [HN thread](https://news.ycombinator.com/item?id=35819613)
 
-
+## 08 May 2023
+* Lastest on which consumer hardware (including Apple Silicon) is effective for home training in [this comment thread](https://news.ycombinator.com/item?id=35861272) as part of this [HN post](https://news.ycombinator.com/item?id=35859344) about [RasaGPT](https://github.com/paulpierre/RasaGPT) which simplifies integration of multiple NLP, NLU, machine translation, etc using tools like Rasa, FastAPI, LangChain etc.
+* Explanation of current landscape of diffusion models and why [Reflected Diffusion Models might be the next step](https://aaronlou.com/blog/2023/reflected-diffusion/) plus [HN thread](https://news.ycombinator.com/item?id=35863309)
