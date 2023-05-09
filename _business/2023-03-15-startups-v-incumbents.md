@@ -299,13 +299,15 @@ sitemap: false
 * Box announces plans pre-beta of [Box AI](https://techcrunch.com/2023/05/02/box-is-partnering-with-openai-to-bring-generative-ai-tools-across-the-platform/)
 * ['Samsung bans use of generative AI tools like ChatGPT after April internal data leak'](https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/)
 
-# 05 May 2023
+## 05 May 2023
 * Stability AI and DeepFloyd released [DeepFloyd IF](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/) which is an image generator with improved text creation and placement within image.
 * ['Google and OpenAI are Walmarts besieged by fruit stands'](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/) by Devin Coldewey
 
-# 08 May 2023
+## 08 May 2023
 * Designer's [critique](https://wattenberger.com/thoughts/boo-chatbots) about 'Why Chatbots Are Not the Future' and associated [HN thread](https://news.ycombinator.com/item?id=35773955)
 * Update on May 4th [leaked strategy memo from Google](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322). Followups:
 	* Jordan Burgess says framework is good but conclusion about open source winning is wrong [on Twitter](https://twitter.com/jordnb/status/1654496023778131970?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
 	* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
 	* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+
+
