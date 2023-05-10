@@ -305,9 +305,15 @@ sitemap: false
 
 ## 08 May 2023
 * Designer's [critique](https://wattenberger.com/thoughts/boo-chatbots) about 'Why Chatbots Are Not the Future' and associated [HN thread](https://news.ycombinator.com/item?id=35773955)
-* Update on May 4th [leaked strategy memo from Google](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322). Followups:
-	* Jordan Burgess says framework is good but conclusion about open source winning is wrong [on Twitter](https://twitter.com/jordnb/status/1654496023778131970?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
-	* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
-	* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+
+## 09 May 2023
+* Update on May 4th [leaked strategy memo from Google](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322). Specific replies in thread:
+	* [Timeline](https://news.ycombinator.com/item?id=35818884)
+	* [Discussion about Automatic1111 and Stable Diffusion](https://news.ycombinator.com/item?id=35818514)
+	* [Relation to internet hockey stick in 1995](https://news.ycombinator.com/item?id=35826580), was [Microsoft behind in 1995](https://news.ycombinator.com/item?id=35826664), and [where did AOL fit in that year?](https://news.ycombinator.com/item?id=35832884)
+	* Followups:
+		* Jordan Burgess says framework is good but conclusion about open source winning is wrong [on Twitter](https://twitter.com/jordnb/status/1654496023778131970?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+		* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
+		* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
 
 
