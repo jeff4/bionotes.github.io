@@ -316,4 +316,5 @@ sitemap: false
 		* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
 		* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
 
-
+## 10 May 2023
+* Announcements from [Google I/O May 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14) and [HN thread](https://news.ycombinator.com/item?id=35886559)
