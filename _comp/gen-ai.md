@@ -186,3 +186,4 @@ permalink: /gen-ai/
 ## 08 May 2023
 * Lastest on which consumer hardware (including Apple Silicon) is effective for home training in [this comment thread](https://news.ycombinator.com/item?id=35861272) as part of this [HN post](https://news.ycombinator.com/item?id=35859344) about [RasaGPT](https://github.com/paulpierre/RasaGPT) which simplifies integration of multiple NLP, NLU, machine translation, etc using tools like Rasa, FastAPI, LangChain etc.
 * Explanation of current landscape of diffusion models and why [Reflected Diffusion Models might be the next step](https://aaronlou.com/blog/2023/reflected-diffusion/) plus [HN thread](https://news.ycombinator.com/item?id=35863309)
+* [Google publishes paper pn PaLM2](https://news.ycombinator.com/item?id=35891444)
