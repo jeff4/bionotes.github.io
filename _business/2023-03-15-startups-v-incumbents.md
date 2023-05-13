@@ -318,3 +318,5 @@ sitemap: false
 
 ## 10 May 2023
 * Announcements from [Google I/O May 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14) and [HN thread](https://news.ycombinator.com/item?id=35886559)
+	* ['Google needs to stop throwing good money after Bard'](https://www.theverge.com/2023/5/10/23710839/google-bard-ai-competition-bing-openai-chatgpt-io)
+	* Casey Newton--['How Google is making up for lost time'](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls) 
