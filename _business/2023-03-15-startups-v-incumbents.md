@@ -318,8 +318,21 @@ sitemap: false
 
 ## 10 May 2023
 * Announcements from [Google I/O May 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14) and [HN thread](https://news.ycombinator.com/item?id=35886559)
-	* ['Google needs to stop throwing good money after Bard'](https://www.theverge.com/2023/5/10/23710839/google-bard-ai-competition-bing-openai-chatgpt-io)
+	* [Roundup from TC](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
 	* Casey Newton--['How Google is making up for lost time'](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls) 
+	* [Google ends Bard waitlist](https://techcrunch.com/2023/05/10/google-ends-bard-waitlist-making-english-version-of-chatbot-widely-available/) making it widely available
+	* ['Google brings more AI tools to Workspace'](https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/)
+	* ['Google introduces new features to help identify AI images in Search and elsewhere'](https://techcrunch.com/2023/05/10/google-introduces-new-features-to-help-identify-ai-images-in-search-and-elsewhere/)
+	* [Google introduces Google Duet for coding](https://techcrunch.com/2023/05/10/google-launches-a-github-copilot-competitor/) as a competitor to GitHub Copilot
+	* Google introduces a notetaking assistant called [Project Tailwind](https://techcrunch.com/2023/05/10/with-project-tailwind-google-aims-to-make-note-taking-smarter/)
+
 
 ## 13 May 2023
+* AI in 21st cen = Lightbulbs in 19th century? [Ron Miller in TC](https://techcrunch.com/2023/05/02/ai-critical-light-bulb-moment/)
+* ['AI is just someone else’s computer'](https://techcrunch.com/2023/05/03/ai-is-just-someone-elses-computer/)
+* [New features for Bing and Edge from May 4, 2023](https://techcrunch.com/2023/05/04/microsoft-doubles-down-on-ai-with-new-bing-features/)
+* [Anthropic and 'constitutional AI'](https://techcrunch.com/2023/05/09/anthropic-thinks-constitutional-ai-is-the-best-way-to-train-models/)
+* [Google releases PaLM 2](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/), additional [TC commentary](https://techcrunch.com/2023/05/10/googles-palm-2-paper-shows-that-text-generating-ai-still-has-a-long-way-to-go/), and [pdf](https://ai.google/static/documents/palm2techreport.pdf)
+* Interesting interview with [Joanna Bryson from University of Bath](https://techcrunch.com/2023/05/11/keepon-carry-on/)
+
 
