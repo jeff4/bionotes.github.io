@@ -335,3 +335,9 @@ sitemap: false
 * [Google releases PaLM 2](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/), additional [TC commentary](https://techcrunch.com/2023/05/10/googles-palm-2-paper-shows-that-text-generating-ai-still-has-a-long-way-to-go/), and [pdf](https://ai.google/static/documents/palm2techreport.pdf)
 * Interesting interview with [Joanna Bryson from University of Bath](https://techcrunch.com/2023/05/11/keepon-carry-on/)
 * ['Making foundation models accessible: The battle between closed and open source AI'](https://techcrunch.com/2023/05/11/making-foundation-models-accessible-the-battle-between-closed-source-and-open-source-ai/) TC+ article
+
+## 15 May 2023
+* ['VCs love to talk about AI, but they aren’t writing as many checks as you might think'](https://techcrunch.com/2023/05/15/ai-weak-investments/) -- CB Insights data shows pronounced slowdown in AI investment by Ron Miller at TC
+
+
+
