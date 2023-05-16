@@ -351,4 +351,7 @@ sitemap: false
 * Interesting [HN comment](https://news.ycombinator.com/item?id=35951522) about problems with using ChatGPT to replace writers. Not working as well as planned?
 
 ## 16 May 2023
-* Sam Lessin on the [S-Curve of LLMs and AI](https://twitter.com/lessin/status/1658193420178030592)
+* Sam Lessin on the [S-curve of LLMs and AI](https://twitter.com/lessin/status/1658193420178030592). Others are optimistic that we are on the very early part of one or a series of S-curves that will take us smoothly to AGI. He is skeptical and believes that we will hit the top of LLM S-curves pretty quickly.
+
+
+
