@@ -349,3 +349,6 @@ sitemap: false
 		* Giving it a task of extracting a specific column of information, using just the table header column text, from a table inside a PDF, with text extracted using tesseract, no extra layers on top. (for those that haven't tried extracting tables with OCR, it's a non-trivial problem, and the output is a mess). 40k tokens in context, it performed at extracting the data, at 100% accuracy.  * Changing the prompt to target a different column from the same table, worked perfectly as well. Changing a character in the table in the OCR context to test if it was somehow hallucinating, also accurately extracted the new data.  * One of those "Jaw to the floor" moments for me.
 		* Did the same task in GPT-4 (just limiting the context window to just 8k tokens), and it worked, but at ~4x more expensive, and without being able to feed it the whole document.
 * Interesting [HN comment](https://news.ycombinator.com/item?id=35951522) about problems with using ChatGPT to replace writers. Not working as well as planned?
+
+## 16 May 2023
+* Sam Lessin on the [S-Curve of LLMs and AI](https://twitter.com/lessin/status/1658193420178030592)
