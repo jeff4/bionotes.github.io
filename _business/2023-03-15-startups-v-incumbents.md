@@ -319,6 +319,7 @@ sitemap: false
 ## 10 May 2023
 * Announcements from [Google I/O May 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14) and [HN thread](https://news.ycombinator.com/item?id=35886559)
 	* [Roundup from TC](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
+	* Semafor's summary ['Google's AI search is over'](https://www.semafor.com/article/05/10/2023/googles-ai-search-is-over)
 	* Casey Newton--['How Google is making up for lost time'](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls) 
 	* [Google ends Bard waitlist](https://techcrunch.com/2023/05/10/google-ends-bard-waitlist-making-english-version-of-chatbot-widely-available/) making it widely available
 	* ['Google brings more AI tools to Workspace'](https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/)
@@ -338,6 +339,13 @@ sitemap: false
 
 ## 15 May 2023
 * ['VCs love to talk about AI, but they aren’t writing as many checks as you might think'](https://techcrunch.com/2023/05/15/ai-weak-investments/) -- CB Insights data shows pronounced slowdown in AI investment by Ron Miller at TC
-
-
-
+* Blog post by [Ke Fang](https://mazzzystar.github.io/about/), a Chinese ML developer about the big differences between [GPT-4 and ChatGPT](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/) and how it gives individuals super powers. e.g., as a Chinese speaker, he sees the difference based on the SuperCLUE large chinese model benchmark. 
+	* Quote: "I have never written front-end code before, but after 48 hours of conversation with GPT-4, I built a podcast search website. The website is open-sourced with a GPT-4.0 License to express my gratitude."
+	* quote 2: "A few days later, I wanted to skip certain timestamps when watching videos on web pages. Without any experience in developing Chrome extensions, I followed the instructions by GPT-4 to create files, paste, and drag and drop, and achieved it in less than 15 minutes. I did not put it on the store, and it became a tool serving only me."
+	* [HN thread](https://news.ycombinator.com/item?id=35885797)
+* Seems that Anthropic's Claude now has a [100k context](https://twitter.com/jlowin/status/1658117052425543682) which is available in the web UI?
+	* [HN comment](https://news.ycombinator.com/item?id=35952147): 
+		* 'Claude 100k 1.3 blew me away.
+		* Giving it a task of extracting a specific column of information, using just the table header column text, from a table inside a PDF, with text extracted using tesseract, no extra layers on top. (for those that haven't tried extracting tables with OCR, it's a non-trivial problem, and the output is a mess). 40k tokens in context, it performed at extracting the data, at 100% accuracy.  * Changing the prompt to target a different column from the same table, worked perfectly as well. Changing a character in the table in the OCR context to test if it was somehow hallucinating, also accurately extracted the new data.  * One of those "Jaw to the floor" moments for me.
+		* Did the same task in GPT-4 (just limiting the context window to just 8k tokens), and it worked, but at ~4x more expensive, and without being able to feed it the whole document.
+* Interesting [HN comment](https://news.ycombinator.com/item?id=35951522) about problems with using ChatGPT to replace writers. Not working as well as planned?
