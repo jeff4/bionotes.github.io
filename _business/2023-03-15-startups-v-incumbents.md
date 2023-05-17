@@ -352,3 +352,7 @@ sitemap: false
 
 ## 16 May 2023
 * Sam Lessin on the [S-curve of LLMs and AI](https://twitter.com/lessin/status/1658193420178030592). Others are optimistic that we are on the very early part of one or a series of S-curves that will take us smoothly to AGI. He is skeptical and believes that we will hit the top of LLM S-curves pretty quickly.
+* ['Midjourney China launches – then its announcement disappears'](https://techcrunch.com/2023/05/16/midjourney-comes-to-china/)
+* [Hippocratic.ai launched with](https://techcrunch.com/2023/05/16/hippocratic-is-building-a-large-language-model-for-healthcare/) $50m investment from General Catalyst and Julie Yoo at a16z. Founder/CEO is Munjal Shah who's previous companies were Like.com and Health IQ. Recall previous convo in Feb/March 2023.
+* Zoom announces partnership with [Anthropic to use Claude](https://techcrunch.com/2023/05/16/zoom-announces-anthropic-partnership-to-bring-claude-chatbot-to-zoom-products/)
+* ['Visual Layer helps enterprise manage the massive visual datasets they need to build AI models, raises $7M'](https://techcrunch.com/2023/05/16/visual-layer-helps-enterprise-manage-the-massive-visual-data-sets-they-need-to-build-ai-models-raises-7m/)
