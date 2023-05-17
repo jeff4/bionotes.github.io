@@ -356,3 +356,6 @@ sitemap: false
 * [Hippocratic.ai launched with](https://techcrunch.com/2023/05/16/hippocratic-is-building-a-large-language-model-for-healthcare/) $50m investment from General Catalyst and Julie Yoo at a16z. Founder/CEO is Munjal Shah who's previous companies were Like.com and Health IQ. Recall previous convo in Feb/March 2023.
 * Zoom announces partnership with [Anthropic to use Claude](https://techcrunch.com/2023/05/16/zoom-announces-anthropic-partnership-to-bring-claude-chatbot-to-zoom-products/)
 * ['Visual Layer helps enterprise manage the massive visual datasets they need to build AI models, raises $7M'](https://techcrunch.com/2023/05/16/visual-layer-helps-enterprise-manage-the-massive-visual-data-sets-they-need-to-build-ai-models-raises-7m/)
+
+## 17 May 2023
+* Stability AI releases an open-source variant of their closed-source hosted DreamStudio called [Stable Studio](https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release). [HN thread](https://news.ycombinator.com/item?id=35975578)
