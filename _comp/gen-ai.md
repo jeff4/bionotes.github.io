@@ -191,6 +191,10 @@ permalink: /gen-ai/
 * [StarCoder and StarCoderBase](https://arxiv.org/abs/2305.06161) Foundation model StarCoderBase and finetuned tool called StarCoder. [HN thread](https://news.ycombinator.com/item?id=35954481)
 * [Ash Vardanian](https://ashvardanian.com) implemented a 1000-line C++ vector database as announced in this short [HN thread](https://news.ycombinator.com/item?id=35803649). [Main blogpost here](https://ashvardanian.com/posts/abusing-vector-search/) and [main HN thread](https://news.ycombinator.com/item?id=35887983)
 
-## 19 May 2023
+## 18 May 2023
+* ACM article on [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860) and [HN thread](https://news.ycombinator.com/item?id=35991362)
+
+## 20 May 2023
+* Dialogue between [Don Knuth and Stephen Wolfram](https://cs.stanford.edu/~knuth/chatGPT20.txt) regarding Knuth's test questions to ChatGPT. [HN thread](https://news.ycombinator.com/item?id=36012360)
 
 
