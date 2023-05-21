@@ -196,5 +196,5 @@ permalink: /gen-ai/
 
 ## 20 May 2023
 * Dialogue between [Don Knuth and Stephen Wolfram](https://cs.stanford.edu/~knuth/chatGPT20.txt) regarding Knuth's test questions to ChatGPT. [HN thread](https://news.ycombinator.com/item?id=36012360)
-
-
+* Rodney Brooks says to 'calm down about GPT-4' in [IEEE](https://spectrum.ieee.org/gpt-4-calm-down) and [HN thread](https://news.ycombinator.com/item?id=36017309)
+* Rich Sutton of Reinforcement Learning textbook fame and his [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html) reappeared on [HN](https://news.ycombinator.com/item?id=36017857)
