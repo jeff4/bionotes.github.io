@@ -359,3 +359,7 @@ sitemap: false
 
 ## 17 May 2023
 * Stability AI releases an open-source variant of their closed-source hosted DreamStudio called [Stable Studio](https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release). [HN thread](https://news.ycombinator.com/item?id=35975578)
+
+
+## 20 May 2023
+* Neeva shutting down it's consumer-facing [search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown). [HN thread](https://news.ycombinator.com/item?id=36013783)
