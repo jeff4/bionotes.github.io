@@ -206,3 +206,4 @@ permalink: /gen-ai/
 ## 23 May 2023
 * [RWKV: Reinventing RNNs in the Transformers Era](https://arxiv.org/abs/2305.13048) New paper thaT tries to rebuild RNNs to get the benefits of Transformer attention while scaling more efficiently. [PDF](https://news.ycombinator.com/item?id=36038868)
 * Meta launches mutltilingual model from the prior SOTA 100 languages to [1100+ languages](https://ai.facebook.com/blog/multilingual-model-speech-recognition/)
+* Sebastian Raschka has [another post up](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure) about 'Why the original transformer drawing is wrong and some other historical tidbits about LLMs'. [HN thread](https://news.ycombinator.com/item?id=36057183)
