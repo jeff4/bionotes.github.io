@@ -73,3 +73,4 @@ permalink: /eigen/
 * 1/24 Exercises on Jacobson p. 19
 * 1/25 Proof of addition for **N** as developed by Pelayo
 * 1/26 additional examples of iterated addition per Pelayo
+* 5/25 Good PDF ['Everything you always wanted to know about mathematics (2013)'](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) and [HN thread](https://news.ycombinator.com/item?id=36069847)
