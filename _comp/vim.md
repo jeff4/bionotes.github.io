@@ -35,3 +35,4 @@ permalink: /vim/
 	* gu [text object] makes everything lowercase. gU [text object] makes everything uppercase.
 		* e.g., gu$ makes everything lowercase to the end of the line.
 		* e.g., gU5w makes the next 5 words uppercase
+* 5/04 [List of vim-friendly apps and utilities](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) and associated [HN thread](https://news.ycombinator.com/item?id=35816361)
