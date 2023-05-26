@@ -109,7 +109,7 @@ permalink: /llm-product/
 
 ## 24 May 2023
 
-### Prompt: what are the Mandarin characters used for the show title of the HBO TV show "Succession"?
+* Prompt: what are the Mandarin characters used for the show title of the HBO TV show "Succession"?
 	* Bing Chat: 'I’m sorry, but I couldn’t find any information about the Mandarin characters used for the show title of the HBO TV show “Succession”. Is there anything else you would like to know?'
 	* Chat-GPT: 'The HBO TV show "Succession" is not commonly translated or officially titled in Mandarin. However, it is possible to transliterate the English title into Mandarin characters. The Mandarin characters commonly used to represent "Succession" are:
 		* 继承之路 (Jì4 Chéng2 Zhī Lù4)
