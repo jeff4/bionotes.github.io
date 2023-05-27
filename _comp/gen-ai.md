@@ -212,3 +212,7 @@ permalink: /gen-ai/
 * [HN thread](https://news.ycombinator.com/item?id=35994037) about building CLI tools to work with ChatGPT and LLMs by [Simon Willison](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * Stanford paper on [AlpacaFarm](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html) which has been RHLFed to 'beat ChatGPT-3.5'. [HN thread](https://news.ycombinator.com/item?id=36052411)
 * Paper written by several AI/ML PhD students about how to do [NLP research in the age of LLMs](https://arxiv.org/abs/2305.12544) and [HN thread](https://news.ycombinator.com/item?id=36080886)
+
+## 27 May 2023
+* New paper ['QLoRA: Efficient Finetuning of Quantized LLMs'](https://arxiv.org/abs/2305.14314) and [HN thread](https://news.ycombinator.com/item?id=36064568) 
+
