@@ -371,4 +371,5 @@ sitemap: false
 * [The Verge round of MS Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai)
 * [Yoshua Bengio](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) on 'How Rogue AIs may Arise' and [HN thread](https://news.ycombinator.com/item?id=36042126)
 
-
+## 27 May 2023
+* [Interesting piece](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) by Honeycomb.io about the challenges of building a professional-grade product based on LLMs. HN thread has [several](https://news.ycombinator.com/item?id=36097141) similarly [skeptical](https://news.ycombinator.com/item?id=36097578) [comments](https://news.ycombinator.com/item?id=36097166)
