@@ -363,3 +363,12 @@ sitemap: false
 
 ## 20 May 2023
 * Neeva shutting down it's consumer-facing [search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown). [HN thread](https://news.ycombinator.com/item?id=36013783)
+
+## 26 May 2023
+* MosaicML introduced ['MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs'](https://www.mosaicml.com/blog/mpt-7b)
+* Check out [LMSYS Org](https://lmsys.org/projects/) which 'develops open datasets, models, systems, and evaluation tools for large models'.
+	* They are behind [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) and first [HN thread](https://news.ycombinator.com/item?id=35378683)
+* [The Verge round of MS Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai)
+* [Yoshua Bengio](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) on 'How Rogue AIs may Arise' and [HN thread](https://news.ycombinator.com/item?id=36042126)
+
+
