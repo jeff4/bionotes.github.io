@@ -216,3 +216,11 @@ permalink: /gen-ai/
 ## 27 May 2023
 * New paper ['QLoRA: Efficient Finetuning of Quantized LLMs'](https://arxiv.org/abs/2305.14314) and [HN thread](https://news.ycombinator.com/item?id=36064568) 
 
+## 28 May 2023
+* Good PDF ['The Little Book of Deep Learning'](https://www.fleuret.org/public/lbdl.pdf) and related [HN thread](https://news.ycombinator.com/item?id=35767789)
+* FB publishes paper ['MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers'](https://arxiv.org/abs/2305.07185) with [effusive commentary](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture) and [HN thread](https://news.ycombinator.com/item?id=36053662)
+* 5/27/2023 casual [listing of AI chips](https://news.ycombinator.com/item?id=36095965) from this [HN thread 'Ask HN: What is an AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
+* a16z collects together various deep learning resources in [The AI Canon](https://a16z.com/2023/05/25/ai-canon/) and [HN thread](https://news.ycombinator.com/item?id=36072268)
+* Xorvoid criticism of LLMs called ['ChatGPT: A Mental Model'](https://xorvoid.com/chatgpt_a_mental_model.html) and critical back and forth at [HN](https://news.ycombinator.com/item?id=36099822)
+
+
