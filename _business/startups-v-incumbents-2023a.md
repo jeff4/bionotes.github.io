@@ -381,6 +381,12 @@ sitemap: false
 * ['Together raises $20M to build open source generative AI models'](https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/)
 * Verge roundup of [all the announcements from Microsoft Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai) especially around AI. [Five biggest announcements](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot) and [Ben Thompson's take](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot)
 
-
+## 31 May 2023
+* Meta launches internal coding assistant (similar to GitHub Copilot) called ['CodeComnpose'](https://techcrunch.com/2023/05/18/meta-built-a-code-generating-ai-model-similar-to-copilot/). Currently only available internally, may roll out to outsiders someday.
+* ['Meta bets big on AI with custom chips — and a supercomputer'](https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/) from 5/18/2023
+* ['Adobe brings Firefly’s generative AI to Photoshop'](https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/) 5/23/2023
+* ['Anthropic raises $450M to build next-gen AI assistants'](https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/)
+* [Teens are bullying the new Snapchat AI companion](https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/) 
+* ['Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week'](https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/)
 
 
