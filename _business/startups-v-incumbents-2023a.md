@@ -377,6 +377,9 @@ sitemap: false
 
 ## 29 May 2023
 * Kevin Fischer has founded companies that work with radiologists on ML and has a [blog post](https://methexis.substack.com/p/production-ai-systems-are-really) up about how AGI is not going to take over every social system when GPT5 comes out. [HN comment](https://news.ycombinator.com/item?id=36112841) and [main thread](https://news.ycombinator.com/item?id=36111596)
+* ['All the Nvidia news announced by Jensen Huang at Computex'](https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/)
+* ['Together raises $20M to build open source generative AI models'](https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/)
+* Verge roundup of [all the announcements from Microsoft Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai) especially around AI. [Five biggest announcements](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot) and [Ben Thompson's take](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot)
 
 
 
