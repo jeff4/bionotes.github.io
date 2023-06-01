@@ -28,8 +28,8 @@ permalink: /zhongwen/
 1. 有 - yǒu 
 1. 一張紙 -- yī zhāng zhǐ (one sheet of paper. 'zhang' is a measure word)
 1. 兩  - liǎng 
-1.  
-1.  
+1. 很大 - hěn dà 
+1. 很小 - hěn xiǎ 
 1.  
 1.  
 1.  
