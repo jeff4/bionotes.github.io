@@ -25,9 +25,9 @@ permalink: /zhongwen/
 1. 報紙 -- bào zhǐ 
 
 ### Lesson 2
-1.  
-1.  
-1.  
+1. 有 - yǒu 
+1. 一張紙 -- yī zhāng zhǐ (one sheet of paper. 'zhang' is a measure word)
+1. 兩  - liǎng 
 1.  
 1.  
 1.  
