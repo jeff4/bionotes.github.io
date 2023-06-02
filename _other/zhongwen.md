@@ -53,9 +53,12 @@ permalink: /zhongwen/
 1. 乾淨 - gān jing (clean) 
 1. 本子  - běn zi (notebook) 
 1. 對不對 - duì bù duì (is that right?)
-1. 對不對? 恩, 那就對了! Duì bù duì? Ēn, nà jiù duì le! 
+1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
 1.  
 1.  
+1.  
+1.  
+1. 
 1.  
 1.  
 ### Lesson 4
