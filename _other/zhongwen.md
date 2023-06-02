@@ -26,26 +26,26 @@ permalink: /zhongwen/
 
 ### Lesson 2
 1. 有 - yǒu 
-1. 一張紙 -- yī zhāng zhǐ (one sheet of paper. 'zhang' is a measure word)
+1. 一張紙 -- yī zhāng zhǐ (one sheet of paper. 'zhāng' is a measure word)
 1. 兩  - liǎng 
 1. 很大 - hěn dà 
 1. 很小 - hěn xiǎ 
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 沒有 - méiyǒu 
+1. 一本書 - yī běn shū (one book. 'běn' is a measure word) 
+1. 新 - xīn (new) 
+1. 舊 - jiù (old) 
+1. 多少 - duō shǎo 
+1. 好 - hǎo 
+1. 老師 - lǎo shī  
+1. 一個人 (一 个 人) - yī gè rén. Simplified version of gè.
+1. 北京 - Běijīng 
+
 ### Lesson 3
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 毛筆 - máo bǐ  
+1. 枝 - zhī (measure word for 'long, thin, inflexible objects'. see below)
+1. 一枝梅花 - yī zhī méihuā (a spray of plum blossoms — applied for flowers with their stems intact)
+1. 的 - de 
+1. Pencil - *qiān bǐ*. 鉛筆 (traditional). 铅笔 (simplified). 
 1.  
 1.  
 1.  
