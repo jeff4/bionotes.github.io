@@ -41,16 +41,19 @@ permalink: /zhongwen/
 
 ### Lesson 3
 1. 毛筆 - máo bǐ  
-1. 枝 - zhī (measure word for 'long, thin, inflexible objects'. see below)
+1. 枝 - zhī (measure word for 'long, thin, inflexible objects'. see 'flowers' below)
 1. 一枝梅花 - yī zhī méihuā (a spray of plum blossoms — applied for flowers with their stems intact)
 1. 的 - de 
 1. Pencil - *qiān bǐ*. 鉛筆 (traditional). 铅笔 (simplified). 
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 長 - zhǎng (long)  
+1. 短 - duǎn (short) 
+1. 你們 - nǐ men 
+1. 黑 - hēi (black)
+1. 白 - bái (white) 
+1. 乾淨 - gān jing (clean) 
+1. 本子  - běn zi (notebook) 
+1. 對不對 - duì bù duì (is that right?)
+1. 對不對? 恩, 那就對了! Duì bù duì? Ēn, nà jiù duì le! 
 1.  
 1.  
 1.  
