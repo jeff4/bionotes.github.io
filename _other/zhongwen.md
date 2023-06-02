@@ -18,7 +18,6 @@ permalink: /zhongwen/
 1. 我 -- wǒ 
 1. 不 -- bù 
 1. 中國 -- Zhōng guó 
-1. 你 -- nǐ
 1. 這 -- zhè 
 1. 那 -- nà 
 1. 書 -- shū 
