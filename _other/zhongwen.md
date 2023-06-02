@@ -54,15 +54,43 @@ permalink: /zhongwen/
 1. 本子  - běn zi (notebook) 
 1. 對不對 - duì bù duì (is that right?)
 1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
-1.  
-1.  
-1.  
-1.  
-1. 
-1.  
-1.  
+1. 朋友 - péng yǒu
+1. 中文 - Zhōng wén 
+1. 英國 - Yīngguó (England) 
+1. 英文 - Yīng wén (English) 
+  
 ### Lesson 4
+1. 工作- gōng zuò (‘work’ as both a noun and a verb)
+1. 只 - zhǐ (only) 
+1. 只有你 - zhǐ yǒu nǐ (only you)
+1. 學習 - xué xí (to study or learn) 
+1. 看 - kàn (to look at) 
+1. 呢 - ne (question particle) 
+1. 呣 - ḿ ('What did you say?'; Expressing skepticism in response)
+1. 也 - yě (also)
+1. 幾 [几] - jǐ (how many; how few)
+1. Traditional:	你要幾隻雞 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
+1. Simplified:	你要几只鸡 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
+1. 教 - jiào (to teach) 
+1. 給 [给] - gěi (to give) 
+1. 謝謝 [谢谢] - xiè xiè (thank you) 
+
 ### Lesson 5
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 ### Lesson 6
 ### Lesson 7
 ### Lesson 8
