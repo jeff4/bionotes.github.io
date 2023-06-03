@@ -76,55 +76,11 @@ permalink: /zhongwen/
 1. 謝謝 [谢谢] - xiè xiè (thank you) 
 
 ### Lesson 5
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-
-### Lesson 6
-### Lesson 7
-### Lesson 8
-### Lesson 9
-### Lesson 10
-### Lesson 11
-### Lesson 12
-### Lesson 13
-### Lesson 14
-### Lesson 15
-### Lesson 16
-### Lesson 17
-### Lesson 18
-### Lesson 19
-### Lesson 20
-### Lesson 21
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
+1. 椅子 - yǐ zi (chair)
+1. 和 - hé (and) 
+1. 桌子 - zhuō zi (table) 
+1. 都 - dōu (all) 
+1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
+1. 一些 - yī xiē (a few) 
+1. 學校 [学校] - xué xiào (school)
 
