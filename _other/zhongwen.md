@@ -88,43 +88,30 @@ permalink: /zhongwen/
 1. 畫報〔画报〕- huà bào (pictoral)
 1. 有意思  - yǒu yì si (interesting) 
 1. 日語 [日语] - Rì yǔ (Japanese) 
+1. ...還是 [还是]...? - hái shì (...or...?) 
+1. Traditional:	我應該吃這個還是那個 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
+1. Simplified:	我应该吃这个还是那个 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
+1. 用 - yòng (to use) 
+1. 練習[练习] - liàn xí (exercise, to practice) 
+1. 作 - zuò (to do, to make) 
+1. 會 [会] - huì (to know how, to be skillful)
+1. 漢語 [汉语] - Hàn yǔ (Chinese) 
+
+### Lesson 6
+1. 姓 - xìng (surname) 
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 1.  
 1.  
 1.  
 
-### Lesson 6
-### Lesson 7
-### Lesson 8
-### Lesson 9
-### Lesson 10
-### Lesson 11
-### Lesson 12
-### Lesson 13
-### Lesson 14
-### Lesson 15
-### Lesson 16
-### Lesson 17
-### Lesson 18
-### Lesson 19
-### Lesson 20
-### Lesson 21
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
 
