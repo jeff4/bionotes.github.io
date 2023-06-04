@@ -32,7 +32,7 @@ permalink: /zhongwen/
 1. 沒有 - méiyǒu 
 1. 一本書 - yī běn shū (one book. 'běn' is a measure word) 
 1. 新 - xīn (new) 
-1. 舊 - jiù (old) 
+1. 舊 [旧] - jiù (old) 
 1. 多少 - duō shǎo 
 1. 好 - hǎo 
 1. 老師 - lǎo shī  
@@ -45,7 +45,7 @@ permalink: /zhongwen/
 1. 一枝梅花 - yī zhī méihuā (a spray of plum blossoms — applied for flowers with their stems intact)
 1. 的 - de 
 1. Pencil - *qiān bǐ*. 鉛筆 (traditional). 铅笔 (simplified). 
-1. 長 - zhǎng (long)  
+1. 長 - cháng (long)  
 1. 短 - duǎn (short) 
 1. 你們 - nǐ men 
 1. 黑 - hēi (black)
@@ -83,4 +83,48 @@ permalink: /zhongwen/
 1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
 1. 一些 - yī xiē (a few) 
 1. 學校 [学校] - xué xiào (school)
+1. 人們 [人们] - rén men (people) 
+1. 日報 [日报] - rì bào (daily newspaper)
+1. 畫報〔画报〕- huà bào (pictoral)
+1. 有意思  - yǒu yì si (interesting) 
+1. 日語 [日语] - Rì yǔ (Japanese) 
+1.  
+1.  
+1.  
+
+### Lesson 6
+### Lesson 7
+### Lesson 8
+### Lesson 9
+### Lesson 10
+### Lesson 11
+### Lesson 12
+### Lesson 13
+### Lesson 14
+### Lesson 15
+### Lesson 16
+### Lesson 17
+### Lesson 18
+### Lesson 19
+### Lesson 20
+### Lesson 21
+### Lesson 22
+### Lesson 23
+### Lesson 24
+### Lesson 25
+### Lesson 26
+### Lesson 27
+### Lesson 28
+### Lesson 29
+### Lesson 30
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
 
