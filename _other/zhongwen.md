@@ -99,19 +99,48 @@ permalink: /zhongwen/
 
 ### Lesson 6
 1. 姓 - xìng (surname) 
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 叫 - jiào (shout; call, greet; hire, order)  
+1. 甚麽 [什么] - shén me (what) 
+1. 名字 - míng zi (name) 
+1. 怎麼 [怎么] - zěn me (how/why) 
+1. Traditional:	這怎麼發生的 - zhè zěnme fāshēng de? (How did this happen?)
+1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
+1. 以前 - yǐ qián (before) 
+1. 吧 - ba (suggestion particle; request or mild command; indicating consent or approval; indicating some doubt in the speaker's mind) 
 1.  
 
+### Lesson 7
+### Lesson 8
+### Lesson 9
+### Lesson 10
+### Lesson 11
+### Lesson 12
+### Lesson 13
+### Lesson 14
+### Lesson 15
+### Lesson 16
+### Lesson 17
+### Lesson 18
+### Lesson 19
+### Lesson 20
+### Lesson 21
+### Lesson 22
+### Lesson 23
+### Lesson 24
+### Lesson 25
+### Lesson 26
+### Lesson 27
+### Lesson 28
+### Lesson 29
+### Lesson 30
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
 
