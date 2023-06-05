@@ -107,6 +107,11 @@ permalink: /zhongwen/
 1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
 1. 以前 - yǐ qián (before) 
 1. 吧 - ba (suggestion particle; request or mild command; indicating consent or approval; indicating some doubt in the speaker's mind) 
+1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
+1.  
+1.  
+1.  
+1.  
 1.  
 
 ### Lesson 7
