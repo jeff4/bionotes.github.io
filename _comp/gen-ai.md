@@ -223,4 +223,5 @@ permalink: /gen-ai/
 * a16z collects together various deep learning resources in [The AI Canon](https://a16z.com/2023/05/25/ai-canon/) and [HN thread](https://news.ycombinator.com/item?id=36072268)
 * Xorvoid criticism of LLMs called ['ChatGPT: A Mental Model'](https://xorvoid.com/chatgpt_a_mental_model.html) and critical back and forth at [HN](https://news.ycombinator.com/item?id=36099822)
 
-
+## 06 June 2023
+* Need to investigate running LLMs locally with [ggml.ai](http://ggml.ai) which works with llama.cpp whisper, etc. Optimized for Apple Silicon. [HN thread](https://news.ycombinator.com/item?id=36215651)
