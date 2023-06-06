@@ -108,13 +108,33 @@ permalink: /zhongwen/
 1. 以前 - yǐ qián (before) 
 1. 吧 - ba (suggestion particle; request or mild command; indicating consent or approval; indicating some doubt in the speaker's mind) 
 1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
+1. 知道 - zhī dào (to know)
+1. 了解 - liǎo jiě (to understand) 
+1. 懂 - dǒng (to understand) 
+1. 日本 - Rì běn (Japan) 
+1. 第一 - dì yī (ordinal number aka '#1') 
+1. 你是誰 [谁] - nǐ shì shuí (shuí = 'who')
+1. 大學 - dà xué (college) 
+1. 室友 - shì yǒu (roommate) 
+1. 同屋 - tóng wū (roommate) 
+  
+### Lesson 7
+1. 年 - nián 
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 1.  
 1.  
 1.  
 1.  
 1.  
 
-### Lesson 7
 ### Lesson 8
 ### Lesson 9
 ### Lesson 10
