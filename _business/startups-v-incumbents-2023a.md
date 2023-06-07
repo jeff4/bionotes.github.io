@@ -389,4 +389,9 @@ sitemap: false
 * [Teens are bullying the new Snapchat AI companion](https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/) 
 * ['Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week'](https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/)
 
-
+## 07 June 2023
+* ['Contextual AI launches from stealth to build enterprise-focused language models'](https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/)
+* ['DeepMind repurposes game-playing AIs to optimize code and infrastructure'](https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/)
+* ['OpenAI still not training GPT-5, Sam Altman says'](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
+* Google makes generally available gen AI support in it's [Vertex AI platform](https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/)
+* Major topics in the air at Taiwan's [Computex 2023](https://techcrunch.com/2023/05/31/the-elephants-in-the-room-at-computex/): (1) geopolitics; (2) moving TSMC's taiwanese work culture to Arizona; (3) talent shortages; (4) AI chip shortages; and (5) drought in Taiwan
