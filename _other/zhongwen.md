@@ -141,15 +141,14 @@ permalink: /zhongwen/
 1. 過[过]- guò (to cross; to pass time)
 1. 現在 [现在] - xiàn zài (right now) 
 1.  
-1.  
-1.  
+1. 時候 [时候] - shí hòu (time)
+1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
 1.  
 1.  
 1. 零 - líng (zero) 
-1.  
-1.  
+1. 一半 - yī bàn (one half)
+1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
 1.  
 1.  
 
-### Lesson 8
 
