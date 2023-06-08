@@ -120,52 +120,36 @@ permalink: /zhongwen/
   
 ### Lesson 7
 1. 年 - nián 
+1. 月 - yu (month) 
+1. 一個月 [一个月]- yī gè yu 
+1. 一天 - yī tiān (one day)
+1. 星期 - xīng qí (week) 
+1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
+1.  
+1.  
+1.  
+1. 今天 - jīn tiān (today)
+1. 今年 - jīn nián (this year) 
+1. 日 - rì (day)
+1. 忙 - máng (busy) 
+1.  
+1.  
+1.  
+1. 去 -qù (to go) 
+1. 來 [来] - lái (to come) 
+1. 過來 [过来]- guò lái (come over here) 
+1. 過[过]- guò (to cross; to pass time)
+1. 現在 [现在] - xiàn zài (right now) 
 1.  
 1.  
 1.  
 1.  
 1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 零 - líng (zero) 
 1.  
 1.  
 1.  
 1.  
 
 ### Lesson 8
-### Lesson 9
-### Lesson 10
-### Lesson 11
-### Lesson 12
-### Lesson 13
-### Lesson 14
-### Lesson 15
-### Lesson 16
-### Lesson 17
-### Lesson 18
-### Lesson 19
-### Lesson 20
-### Lesson 21
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
 
