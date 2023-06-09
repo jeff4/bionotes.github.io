@@ -148,7 +148,7 @@ permalink: /zhongwen/
 ### Lesson 8
 1. 到 - dào (arrived) 
 1. 你在哪 - nǐ zài nǎ 
-1. hi justin 
+1. 
 1.  
 1.  
 1.  
