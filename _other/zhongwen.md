@@ -125,37 +125,32 @@ permalink: /zhongwen/
 1. 一天 - yī tiān (one day)
 1. 星期 - xīng qí (week) 
 1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
-1.  
 1. 今天 - jīn tiān (today)
 1. 今年 - jīn nián (this year) 
 1. 日 - rì (day)
 1. 忙 - máng (busy) 
-1.  
 1. 去 -qù (to go) 
 1. 來 [来] - lái (to come) 
 1. 過來 [过来]- guò lái (come over here) 
 1. 過[过]- guò (to cross; to pass time)
 1. 現在 [现在] - xiàn zài (right now) 
-1.  
 1. 時候 [时候] - shí hòu (time)
 1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
-1.  
 1. 零 - líng (zero) 
 1. 一半 - yī bàn (one half)
 1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
-1.  
 
 ### Lesson 8
 1. 到 - dào (arrived) 
-1. 你在哪 - nǐ zài nǎ 
-1. 
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 上午 - shàng wǔ (morning) 
+1. 哪兒 [儿]- nǎr? (where?) 
+1. 哪裏 [里]- nǎ lǐ? (where?); 里 also means (mile) 
+1. 哪兒 [儿]- nàr! (there!) 
+1. 那裏 [里] - nà lǐ! (there!) 
+1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
+1. 宿舍 - sù shè (dormitory) 
+1. 一起 - yī qǐ (together) 
+1. 喜歡 [喜欢] - xǐ huan (to like) 
 1.  
 1.  
 1.  
