@@ -143,9 +143,9 @@ permalink: /zhongwen/
 ### Lesson 8
 1. 到 - dào (arrived) 
 1. 上午 - shàng wǔ (morning) 
-1. 哪兒 [儿]- nǎr? (where?) 
-1. 哪裏 [里]- nǎ lǐ? (where?); 里 also means (mile) 
-1. 哪兒 [儿]- nàr! (there!) 
+1. 哪兒 [儿] - nǎr? (where?) 
+1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
+1. 哪兒 [儿] - nàr! (there!) 
 1. 那裏 [里] - nà lǐ! (there!) 
 1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
 1. 宿舍 - sù shè (dormitory) 
