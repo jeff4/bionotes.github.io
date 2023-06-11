@@ -143,50 +143,29 @@ permalink: /zhongwen/
 ### Lesson 8
 1. 到 - dào (arrived) 
 1. 上午 - shàng wǔ (morning) 
+1. 下午 - xià wǔ (afternoon) 
+1. 要 - yào (to want) 
+1. 跟 - gēn (with) 
+1. 但是 - dàn shì (but) 
+1.  
+1.  
 1. 哪兒 [儿] - nǎr? (where?) 
 1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
 1. 哪兒 [儿] - nàr! (there!) 
 1. 那裏 [里] - nà lǐ! (there!) 
 1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
+1. 這裡[这里] - zhè lǐ (here)
+1. 這兒 [这儿] -  zhèr (here) 
+1.  
+1.  
+1.  
 1. 宿舍 - sù shè (dormitory) 
 1. 一起 - yī qǐ (together) 
 1. 喜歡 [喜欢] - xǐ huan (to like) 
+1. 電影 [电影] - diàn yǐng (movie)
 1.  
-1.  
-1.  
-1.  
+1. 從 [从]- cóng (from)
+1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
 1.  
 
 ### Lesson 9
-### Lesson 10
-### Lesson 11
-### Lesson 12
-### Lesson 13
-### Lesson 14
-### Lesson 15
-### Lesson 16
-### Lesson 17
-### Lesson 18
-### Lesson 19
-### Lesson 20
-### Lesson 21
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
-
