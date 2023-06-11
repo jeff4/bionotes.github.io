@@ -156,16 +156,27 @@ permalink: /zhongwen/
 1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
 1. 這裡[这里] - zhè lǐ (here)
 1. 這兒 [这儿] -  zhèr (here) 
-1.  
-1.  
-1.  
+1. 問 - wèn (to ask) 
+1. 前天 - qián tiān (day before yesterday) 
 1. 宿舍 - sù shè (dormitory) 
+1.  
+1.  
+1.  
+1.  
 1. 一起 - yī qǐ (together) 
+1. 對不起 [对不起] - duì bù qǐ (i'm sorry) 
+1. 有事兒 - yǒu shèr (busy) 
+1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
+1.  
 1. 喜歡 [喜欢] - xǐ huan (to like) 
 1. 電影 [电影] - diàn yǐng (movie)
 1.  
 1. 從 [从]- cóng (from)
 1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
 1.  
+1.  
+1.  
 
 ### Lesson 9
+### Lesson 10
+
