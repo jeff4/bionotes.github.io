@@ -21,7 +21,8 @@ permalink: /zhongwen/
 1. 這 [这] - zhè 
 1. 那 - nà 
 1. 書 - shū 
-1. 報紙 - bào zhǐ 
+1. 报纸 *JH preferred* simplified - bào zhǐ (newspaper) 
+1. 報紙 traditional - bào zhǐ (newspaper) 
 
 ### Lesson 2
 1. 有 - yǒu 
@@ -172,8 +173,8 @@ permalink: /zhongwen/
 1. 好看 - hǎo kàn (good looking) 
 1.  
 1.  
-1.  
-1.  
+
 
 ### Lesson 10
+
 
