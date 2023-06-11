@@ -147,8 +147,6 @@ permalink: /zhongwen/
 1. 要 - yào (to want) 
 1. 跟 - gēn (with) 
 1. 但是 - dàn shì (but) 
-1.  
-1.  
 1. 哪兒 [儿] - nǎr? (where?) 
 1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
 1. 哪兒 [儿] - nàr! (there!) 
@@ -159,24 +157,23 @@ permalink: /zhongwen/
 1. 問 - wèn (to ask) 
 1. 前天 - qián tiān (day before yesterday) 
 1. 宿舍 - sù shè (dormitory) 
-1.  
-1.  
-1.  
-1.  
 1. 一起 - yī qǐ (together) 
 1. 對不起 [对不起] - duì bù qǐ (i'm sorry) 
 1. 有事兒 - yǒu shèr (busy) 
 1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
-1.  
 1. 喜歡 [喜欢] - xǐ huan (to like) 
 1. 電影 [电影] - diàn yǐng (movie)
-1.  
 1. 從 [从]- cóng (from)
 1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
+1. 為什么 *JH preferred*  - wéi shén me? (why?) 
+1. [为甚麽 *simplified+traditional*] - wéi shén me? (why?) 
+
+### Lesson 9
+1. 好看 - hǎo kàn (good looking) 
+1.  
 1.  
 1.  
 1.  
 
-### Lesson 9
 ### Lesson 10
 
