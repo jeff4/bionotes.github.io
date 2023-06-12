@@ -171,10 +171,7 @@ permalink: /zhongwen/
 
 ### Lesson 9
 1. 好看 - hǎo kàn (good looking) 
+1. 舒服 - shū fú (comfortable) 
 1.  
-1.  
-
-
-### Lesson 10
 
 
