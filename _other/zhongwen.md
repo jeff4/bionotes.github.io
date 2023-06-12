@@ -172,6 +172,8 @@ permalink: /zhongwen/
 ### Lesson 9
 1. 好看 - hǎo kàn (good looking) 
 1. 舒服 - shū fú (comfortable) 
+1. 有時候 [有时候] - yǒu shí hòu (sometimes)
+1. 有时候(兒) - yǒu shí hòu(r) 
 1.  
-
+1.  
 
