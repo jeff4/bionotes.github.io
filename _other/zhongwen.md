@@ -7,25 +7,32 @@ permalink: /zhongwen/
 * 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
 
 ## Food
+### Meat and protein
 1. 牛肉 - niú ròu 
 1. 魚 [鱼] - yú (fish) 
 1. 豬 [猪] - zhū ròu  
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā (shrimp)
+1. 豆腐 - dòu fu
 1.  
-1. 菜單 [菜单] - cài dān (menu) 
-1.  
+
+### Vegetables
+1. 空心菜 - kōng xīn cài ('water spinach' or 'VN spinach')
+1. 青菜 - qīng cài (colloquial in Mandarin; 'bok choy' in Cantonese) 
+1. 小白菜 - xiǎo báicài ('small white vegetable; 'bok choy' in Cantonese). See also [Wiki on bok choy](https://en.wikipedia.org/wiki/Bok_choy#Spelling_and_naming_variations).Not to be confused with 白菜 - báicài which is the large white cabbage referred to as [Napa Cabbage](https://en.wikipedia.org/wiki/Napa_cabbage) from a Japanese colloquialism.
+
+### Other
 1. 面 [*trad* 麵] - miàn 
 1. 炒飯 [炒饭]- chǎo fàn (fried rice) 
 1. 小籠包 [小笼包] - xiǎo lóng bāo ('xiǎo lóng' refers to the little bamboo basket the soup dumplings are prepared in) 
 1. 鍋貼 [锅贴] - guō tiē  
-1.  
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
+1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
 1.  
 1.  
+1. 菜單 [菜单] - cài dān (menu) 
 1.  
-
 
 ## Harvard Mandarin Textbook
 ### Lesson 1
@@ -197,46 +204,6 @@ permalink: /zhongwen/
 1. 有时候(兒) - yǒu shí hòu(r) 
 1.  
 1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
 
 ### Lesson 10
-### Lesson 11
-### Lesson 12
-### Lesson 13
-### Lesson 14
-### Lesson 15
-### Lesson 16
-### Lesson 17
-### Lesson 18
-### Lesson 19
-### Lesson 20
-### Lesson 21
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
 
