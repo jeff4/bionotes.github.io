@@ -7,22 +7,25 @@ permalink: /zhongwen/
 * 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
 
 ## Food
-1. 牛肉 - niú ròu (beef) 
+1. 牛肉 - niú ròu 
 1. 魚 [鱼] - yú (fish) 
-1. 豬 [猪] - zhū ròu (pork) 
-1. 鷄/雞 [鸡] - jī ròu (chicken) 
+1. 豬 [猪] - zhū ròu  
+1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā (shrimp)
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 1.  
-1. 面 [*trad* 麵] - miàn (noodles) 
+1. 面 [*trad* 麵] - miàn 
 1. 炒飯 [炒饭]- chǎo fàn (fried rice) 
 1. 小籠包 [小笼包] - xiǎo lóng bāo ('xiǎo lóng' refers to the little bamboo basket the soup dumplings are prepared in) 
-1. 鍋貼 [锅贴] - guō tiē (dumpling) 
+1. 鍋貼 [锅贴] - guō tiē  
 1.  
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1.  
+1.  
+1.  
+
 
 ## Harvard Mandarin Textbook
 ### Lesson 1
@@ -193,7 +196,17 @@ permalink: /zhongwen/
 1. 有時候 [有时候] - yǒu shí hòu (sometimes)
 1. 有时候(兒) - yǒu shí hòu(r) 
 1.  
-1. 
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 
 ### Lesson 10
 ### Lesson 11
