@@ -23,7 +23,6 @@ permalink: /zhongwen/
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā (shrimp)
 1. 豆腐 - dòu fu
-1.  
 
 ### Vegetables
 1. 空心菜 - kōng xīn cài ('water spinach' or 'VN spinach')
@@ -38,7 +37,6 @@ permalink: /zhongwen/
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
-1. 
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 1.  
