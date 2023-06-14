@@ -5,6 +5,15 @@ permalink: /zhongwen/
 
 ## 2023 Log
 * 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
+* 6/13 - More misc.
+	* 貓 [猫] - māo (cat)
+	* 貓爪子 [猫爪子]- māo zhǎo zi (cat claws)
+	* 老虎 - lǎo hǔ (tiger)
+	* 老虎爪子 - lǎo hǔ zhǎo zi (tiger claws)
+	* 爪 zhǎo / zhuǎ (two alternative pronunciations) - the noun of claw; the full character form of the 'claw' which is the [radical](https://www.chinasage.info/chars/frad_claw.htm) used in 'love' 愛, 'chicken' 鷄, 'vegetable' 菜.
+	* 抓住 - zhuā zhù (verb 'to grab')
+	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
+	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993). For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
 ## Food
 ### Meat and protein
@@ -29,10 +38,11 @@ permalink: /zhongwen/
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
-1.  
+1. 
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 1.  
+
 
 ## Harvard Mandarin Textbook
 ### Lesson 1
@@ -203,7 +213,4 @@ permalink: /zhongwen/
 1. 有時候 [有时候] - yǒu shí hòu (sometimes)
 1. 有时候(兒) - yǒu shí hòu(r) 
 1.  
-1.  
-
-### Lesson 10
 
