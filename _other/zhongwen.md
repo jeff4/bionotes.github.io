@@ -13,7 +13,7 @@ permalink: /zhongwen/
 	* 爪 zhǎo / zhuǎ (two alternative pronunciations) - the noun of claw; the full character form of the 'claw' which is the [radical](https://www.chinasage.info/chars/frad_claw.htm) used in 'love' 愛, 'chicken' 鷄, 'vegetable' 菜.
 	* 抓住 - zhuā zhù (verb 'to grab')
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
-	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993). For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
+	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
 ## Food
 ### Meat and protein
@@ -23,6 +23,7 @@ permalink: /zhongwen/
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā (shrimp)
 1. 豆腐 - dòu fu
+1.  
 
 ### Vegetables
 1. 空心菜 - kōng xīn cài ('water spinach' or 'VN spinach')
@@ -37,6 +38,10 @@ permalink: /zhongwen/
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
+1.  
+1.  
+1.  
+1.  
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 1.  
@@ -189,6 +194,7 @@ permalink: /zhongwen/
 1. 哪兒 [儿] - nàr! (there!) 
 1. 那裏 [里] - nà lǐ! (there!) 
 1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
+1. 裏⧸裡 [里] - lǐ. E.g., where are you? and these are all equivalent 你在哪裏? 你在哪裡? 你在哪里? 
 1. 這裡[这里] - zhè lǐ (here)
 1. 這兒 [这儿] -  zhèr (here) 
 1. 問 - wèn (to ask) 
@@ -211,4 +217,3 @@ permalink: /zhongwen/
 1. 有時候 [有时候] - yǒu shí hòu (sometimes)
 1. 有时候(兒) - yǒu shí hòu(r) 
 1.  
-
