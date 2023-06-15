@@ -216,4 +216,15 @@ permalink: /zhongwen/
 1. 舒服 - shū fú (comfortable) 
 1. 有時候 [有时候] - yǒu shí hòu (sometimes)
 1. 有时候(兒) - yǒu shí hòu(r) 
+1. 外邊 [外边] - wài bian (outside) 
+1. 里边 - lǐ bian (inside); *trad* 裏⧸裡 邊 - lǐ bian
+1. 前邊 [前边] - qián bian (front) 
+1. 後邊 [后边] - hòu bian (back;rear) 
+1.  
+1. 地方 - dì fang (place)  
+1.  
+1.  
+1. 自學 [自学] - zì xué (self study)  
+1. 圖書館 [图书馆] - tú shū guǎn (library) 
+1. 常常 - cháng cháng (frequently, usually)  
 1.  
