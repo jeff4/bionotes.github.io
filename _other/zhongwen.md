@@ -23,7 +23,6 @@ permalink: /zhongwen/
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā (shrimp)
 1. 豆腐 - dòu fu
-1.  
 
 ### Vegetables
 1. 空心菜 - kōng xīn cài ('water spinach' or 'VN spinach')
@@ -39,13 +38,7 @@ permalink: /zhongwen/
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
 1.  
-1.  
-1.  
-1.  
-1.  
 1. 菜單 [菜单] - cài dān (menu) 
-1.  
-
 
 ## Harvard Mandarin Textbook
 ### Lesson 1
@@ -231,7 +224,7 @@ permalink: /zhongwen/
 1. 圖書館 [图书馆] - tú shū guǎn (library) 
 1. 常常 - cháng cháng (frequently, usually)  
 
-兒 [儿]		THIS is 'r'
+兒 [儿]			THIS is 'r'
 邊 [边] - bian		THIS is 'b' 
 裏⧸裡 [里] - lǐ		THIS is 'k' 
 裏⧸裡 - lǐ		THIS IS 'l'
@@ -240,7 +233,4 @@ permalink: /zhongwen/
 1. 念書 [念书] - niàn shū (to study) 
 1.  
 1.  
-
-### Lesson 11
-
 
