@@ -220,11 +220,27 @@ permalink: /zhongwen/
 1. 里边 - lǐ bian (inside); *trad* 裏⧸裡 邊 - lǐ bian
 1. 前邊 [前边] - qián bian (front) 
 1. 後邊 [后边] - hòu bian (back;rear) 
-1.  
+1. 右邊 [右边] - yòu bian (right side)
+1. 左邊 [左边] - zuǒ bian (left side) 
+1. 上邊 [上边] - shàng bian (top side) 
+1. 下邊 [下边] - xià bian (bottom side) 
+1. 旁邊 [旁边] - páng bian (to the side) 
+1. 中間兒 [中间儿] - zhōng jiān(r) 
 1. 地方 - dì fang (place)  
-1.  
-1.  
 1. 自學 [自学] - zì xué (self study)  
 1. 圖書館 [图书馆] - tú shū guǎn (library) 
 1. 常常 - cháng cháng (frequently, usually)  
+
+兒 [儿]		THIS is 'r'
+邊 [边] - bian		THIS is 'b' 
+裏⧸裡 [里] - lǐ		THIS is 'k' 
+裏⧸裡 - lǐ		THIS IS 'l'
+
+### Lesson 10
+1. 念書 [念书] - niàn shū (to study) 
 1.  
+1.  
+
+### Lesson 11
+
+
