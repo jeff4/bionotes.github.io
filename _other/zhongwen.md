@@ -15,6 +15,12 @@ permalink: /zhongwen/
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
+#### 6/16
+1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
+
+
+
+
 ## Food
 Go to [this page](/ch-food/)
 
@@ -76,7 +82,7 @@ Go to [this page](/ch-food/)
 1. 工作- gōng zuò (‘work’ as both a noun and a verb)
 1. 只 - zhǐ (only) 
 1. 只有你 - zhǐ yǒu nǐ (only you)
-1. 學習 - xué xí (to study or learn) 
+1. 學習 [学习] - xué xí (to study or learn) 
 1. 看 - kàn (to look at) 
 1. 呢 - ne (question particle) 
 1. 呣 - ḿ ('What did you say?'; Expressing skepticism in response)
@@ -214,4 +220,41 @@ Go to [this page](/ch-food/)
 1.  
 1.  
 1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+
+### Lesson 11
+### Lesson 12
+### Lesson 13
+### Lesson 14
+### Lesson 15
+### Lesson 16
+### Lesson 17
+### Lesson 18
+### Lesson 19
+### Lesson 20
+### Lesson 21
+### Lesson 22
+### Lesson 23
+### Lesson 24
+### Lesson 25
+### Lesson 26
+### Lesson 27
+### Lesson 28
+### Lesson 29
+### Lesson 30
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
 
