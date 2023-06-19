@@ -208,11 +208,10 @@ Go to [this page](/ch-food/)
 1. 圖書館 [图书馆] - tú shū guǎn (library) 
 1. 常常 - cháng cháng (frequently, usually)  
 
-兒 [儿]		THIS is 'r'
-
-邊 [边] - bian		THIS is 'b' 
-裏⧸裡 [里] - lǐ		THIS is 'k' 
-裏⧸裡 - lǐ		THIS IS 'l'
+ * 兒 [儿]		THIS is 'r'
+ * 邊 [边] - bian		THIS is 'b' 
+ * 裏⧸裡 [里] - lǐ		THIS is 'k' 
+ * 裏⧸裡 - lǐ		THIS IS 'l'
 
 ### Lesson 10
 1. 太 - tài (too as in 'too much') 
@@ -236,5 +235,6 @@ Go to [this page](/ch-food/)
 
 ### Lesson 11
 1.  
-
+1.  
+1.  
 
