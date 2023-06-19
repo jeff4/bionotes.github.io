@@ -231,10 +231,24 @@ Go to [this page](/ch-food/)
 1. 跳舞 - tiào wǔ (to dance)
 1. 唱歌 (兒) - chàng gē (r) (to sing a song)
 1. 國歌 [国歌] - guó gē (national anthem)
-1.  
 
 ### Lesson 11
+1. 这么 [*trad* 這麼] - zhè me (this way)
+1. 那么 [*trad* 那麼] - nà me (that way)
+1.  
+1. 早 - zǎo (early) 
+1. 晚 - wǎn (late)
+1.  
+1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
+1.  
+1. 東西 [东西] - dōng xi (thing)
+1.  
+1. 已經 [已经] - yǐ jīng (already)
+1.  
+1. 開始 [开始] - kāi shǐ (to begin)
+1.  
+1. 哈佛 - Hāfó (Harvard) 
 1.  
 1.  
-1.  
+
 
