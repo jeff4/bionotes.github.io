@@ -15,11 +15,11 @@ permalink: /zhongwen/
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
-#### 6/16
+#### 6/16 - 6/18
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
-
-
-
+1. 到 - dào (arrive)
+1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station')
+1.  
 
 ## Food
 Go to [this page](/ch-food/)
@@ -215,7 +215,26 @@ Go to [this page](/ch-food/)
 裏⧸裡 - lǐ		THIS IS 'l'
 
 ### Lesson 10
+1. 太 - tài (too as in 'too much') 
+1. 自己 - zì jǐ (oneself) 
+1. 教書 - jiāo shū (to teach)
+1. 看書 -  kàn shū (to read silently)
 1. 念書 [念书] - niàn shū (to study) 
-1.  
+1. 得- de (verb particle) 
+1. 一定 - yī dìng (definitely, certainly)
+1. 特別 - tè bié (especially) 
 1. 高興 [兴]- gāo xìng (happy) 
+1. 寫字 [写字] - xiě zì (to write characters) 
+1. 快 - kuài (fast)
+1. 慢 - màn (slow) 
+1. 說話 [说话]  - shuō huà (to talk)
+1. 積極 [积极] - jī jí (positive; enthusiastic)
+1. 跳舞 - tiào wǔ (to dance)
+1. 唱歌 (兒) - chàng gē (r) (to sing a song)
+1. 國歌 [国歌] - guó gē (national anthem)
 1.  
+
+### Lesson 11
+1.  
+
+
