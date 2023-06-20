@@ -225,3 +225,6 @@ permalink: /gen-ai/
 
 ## 06 June 2023
 * Need to investigate running LLMs locally with [ggml.ai](http://ggml.ai) which works with llama.cpp whisper, etc. Optimized for Apple Silicon. [HN thread](https://news.ycombinator.com/item?id=36215651)
+
+## 20 June 2023
+* SimpleAIchat on [GitHub](https://github.com/minimaxir/simpleaichat) -- a new and concise Python package for easily interacing with chat apps like GPT-4 with robust features and minimal code complexity. [HN thread](https://news.ycombinator.com/item?id=36393782) 
