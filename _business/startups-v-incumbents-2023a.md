@@ -405,5 +405,17 @@ sitemap: false
 * 6/01 - ['Microsoft’s AI-powered Designer tool comes to Teams'](https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/)
 * Web browser startup [SigmaOS adds contextual AI assistant](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/) into its web browser
 * ['Dumme’s AI video editor creates YouTube Shorts in minutes'](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/)
-
+* 6/07 - ['Google claims that Bard is improving at math and programming'](https://techcrunch.com/2023/06/07/google-claims-that-bard-is-improving-at-math-and-programming/)
+* 6/08 - ['AI startup Cohere, now valued at over $2.1B, raises $270M'](https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/)
+* 6/12 - ['Salesforce launches AI Cloud to bring models to the enterprise'](https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/)
+* 6/13 - ['France’s Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI'](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+* Amr Awadallah (formerly co-founder of Cloudera, VP at Google) has launched his previously stelah enterprise search startup [Vectara with $28.5M in funding](https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/)
+* ['OctoML launches OctoAI, a self-optimizing compute service for AI'](https://techcrunch.com/2023/06/14/octoml-launches-octoai-a-self-optimizing-compute-service-for-ai/), pivoting from its earlier 2019 founding of optimizing ML models "to delivering a cloud platform that is a self-optimizing compute service for AI with a special emphasis on gen AI".
+* ['Google’s new generative AI lets you preview clothes on different models'](https://techcrunch.com/2023/06/14/googles-new-generative-ai-lets-you-preview-clothes-on-different-models/)
+* ['Synthesia secures $90M for AI that generates custom avatars'](https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/)
+* Long interesting pair of interviews with Pieter Abbeel and Ken Goldberg in the robotics space about [applicatins of gen AI to robotics in TC Actuator](https://techcrunch.com/2023/06/15/pieter-abbeel-and-ken-goldberg-on-generative-ai-applications/)
+* 6/19 - ['Parallel Domain’s API lets customers use generative AI to build synthetic datasets'](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
+* 6/19 - ['Vimeo intros a trio of AI-powered editing features'](https://techcrunch.com/2023/06/19/vimeo-introduces-a-trio-of-ai-powered-editing-features/)
+* ['Voice-generating platform ElevenLabs raises $19M, launches detection tool'](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/)-led by Nat Friedman, Daniel Gross, and a16z. "Other participants include SV Angel, Instagram co-founder Mike Krieger, Oculus co-founder Brendan Iribe, Deepmind and Inflection AI co-founder Mustafa Suleyman and O’Reilly Media founder Tim O’Reilly. A source familiar with the matter tells TechCrunch that the tranche values ElevenLabs at $99 million post-money — a respectable figure, especially considering that the startup launched just over a year ago."
+* ['Parrot, an AI-powered transcription platform that turns speech into text, raises $11M Series A'](https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/)
 
