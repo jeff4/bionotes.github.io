@@ -395,3 +395,15 @@ sitemap: false
 * ['OpenAI still not training GPT-5, Sam Altman says'](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
 * Google makes generally available gen AI support in it's [Vertex AI platform](https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/)
 * Major topics in the air at Taiwan's [Computex 2023](https://techcrunch.com/2023/05/31/the-elephants-in-the-room-at-computex/): (1) geopolitics; (2) moving TSMC's taiwanese work culture to Arizona; (3) talent shortages; (4) AI chip shortages; and (5) drought in Taiwan
+
+## 20 June 2023
+* From 5/23, round up of [AI-powered video creation startups](https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/) including Gan.ai, Runway AI
+* 5/23 - ['Google experiments with ads in its AI chatbot interface and search interface'](https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/)
+* 5/23 - ['Google introduces Product Studio, a tool that lets merchants create product imagery using generative AI'](https://techcrunch.com/2023/05/23/google-product-studio-tool-lets-merchants-create-product-imagery-using-generative-ai/)
+* From 5/31 - Box alum Faizan Buzdar launches [Roll - a video creation app for high-end prosumers](https://techcrunch.com/2023/05/31/roll-wants-to-recreate-dolly-shots-and-more-using-generative-ai/) using generative AI
+* 5/31 - ['Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding'](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
+* 6/01 - ['Microsoft’s AI-powered Designer tool comes to Teams'](https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/)
+* Web browser startup [SigmaOS adds contextual AI assistant](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/) into its web browser
+* ['Dumme’s AI video editor creates YouTube Shorts in minutes'](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/)
+
+
