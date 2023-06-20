@@ -15,11 +15,14 @@ permalink: /zhongwen/
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
-#### 6/16 - 6/19
+#### 6/16 - 6/20
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
 1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station')
-1. 就 - jiù (*adverb* at once; right away; already; as early as) 
+1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
+
+
+
 
 ## Food
 Go to [this page](/ch-food/)
@@ -235,18 +238,34 @@ Go to [this page](/ch-food/)
 ### Lesson 11
 1. 这么 [*trad* 這麼] - zhè me (this way)
 1. 那么 [*trad* 那麼] - nà me (that way)
-1.  
+1. 昨天 - zuó tiān (yesterday) 
+1. 這麼 [这么] - zhè me (this way; like this)
+1. 那麼 [那么] - nà me (like that; in that way) 
+1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
+1. 年級 [年级] - nián jí (class/year in school)
+1. 學期 [学期] - xué qī (school term)
+1. 參加 [参加] - cān jiā (to join a group; to participate)
+1. 吃 - chī (to eat)
+1. 東西 [东西] - dōng xi (a thing)
+1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
 1. 早 - zǎo (early) 
 1. 晚 - wǎn (late)
-1.  
 1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
-1.  
 1. 東西 [东西] - dōng xi (thing)
-1.  
 1. 已經 [已经] - yǐ jīng (already)
-1.  
 1. 開始 [开始] - kāi shǐ (to begin)
-1.  
 1. 哈佛 - Hāfó (Harvard) 
-1.  
 
+### Lesson 12
+1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
+1. 大家 - dà jiā (everyone)
+1. 哦 - ó (*interjection* expressing doubt)
+1. 哦 - ò (*interjection* expressing realization; understanding) 
+1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
+1. 聽 [听] - tīng (to listen)
+1. 不錯 [不错] - bù cuò (correct; not bad; pretty good)
+1. 句 - jù (measure word for sentence)
+1. 句子 - jù zi (sentence)
+1. 走 - zǒu (to walk)
+1. 就 - jiù (*adverb* at once; right away; already; as early as) 
+1.
