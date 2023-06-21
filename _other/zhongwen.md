@@ -16,6 +16,7 @@ permalink: /zhongwen/
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
 #### 6/16 - 6/20
+1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
 1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station')
@@ -141,11 +142,13 @@ Go to [this page](/ch-food/)
 1. 同屋 - tóng wū (roommate) 
   
 ### Lesson 7
+1. 星期 - xīng qí (week) 
 1. 年 - nián 
 1. 月 - yu (month) 
 1. 一個月 [一个月]- yī gè yu 
 1. 一天 - yī tiān (one day)
-1. 星期 - xīng qí (week) 
+1. 一个小時 - yī gè xiǎo shí (one hour)
+1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
 1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
 1. 今天 - jīn tiān (today)
 1. 今年 - jīn nián (this year) 
@@ -160,8 +163,7 @@ Go to [this page](/ch-food/)
 1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
 1. 零 - líng (zero) 
 1. 一半 - yī bàn (one half)
-1.  半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.)
-1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
+1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.)
 
 ### Lesson 8
 1. 到 - dào (arrived) 
@@ -239,28 +241,43 @@ Go to [this page](/ch-food/)
 ### Lesson 11
 1. 这么 [*trad* 這麼] - zhè me (this way)
 1. 那么 [*trad* 那麼] - nà me (that way)
-1. 昨天 - zuó tiān (yesterday)
+1. 昨天 - zuó tiān (yesterday) 
+1.  
 1. 這麼 [这么] - zhè me (this way; like this)
 1. 那麼 [那么] - nà me (like that; in that way) 
 1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
 1. 年級 [年级] - nián jí (class/year in school)
 1. 學期 [学期] - xué qī (school term)
+1.  
 1. 參加 [参加] - cān jiā (to join a group; to participate)
 1. 吃 - chī (to eat)
 1. 東西 [东西] - dōng xi (a thing)
+1.  
 1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
+1.  
 1. 早 - zǎo (early) 
 1. 晚 - wǎn (late)
+1.  
 1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
+1.  
 1. 東西 [东西] - dōng xi (thing)
+1.  
 1. 已經 [已经] - yǐ jīng (already)
+1.  
 1. 開始 [开始] - kāi shǐ (to begin)
+1.  
 1. 哈佛 - Hāfó (Harvard) 
 
 ### Lesson 12
 1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
-1. 大家 - dà jiā (everyone)1.  
+1.  
+1.  
+1.  
+1.  
+1. 大家 - dà jiā (everyone)
+1.  
 1. 哦 - ó (*interjection* expressing doubt)
+1.  
 1. 哦 - ò (*interjection* expressing realization; understanding) 
 1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
 1. 聽 [听] - tīng (to listen)
@@ -271,6 +288,10 @@ Go to [this page](/ch-food/)
 1. 句子 - jù zi (sentence)
 1.  
 1. 走 - zǒu (to walk)
+1.  
+1.  
+1.  
+1.  
 1.  
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
 1.  
