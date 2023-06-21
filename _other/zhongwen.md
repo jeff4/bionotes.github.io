@@ -143,6 +143,11 @@ Go to [this page](/ch-food/)
   
 ### Lesson 7
 1. 星期 - xīng qí (week) 
+1. 禮拜 [礼拜] lǐ bài (week) also used for Monday, Tuesday, etc...
+1. 禮拜一 - lǐ bài yī (Monday)
+1. 禮拜二 - lǐ bài èr (Tuesday)
+1. 禮拜三 - lǐ bài sān (Wednesday)
+1. 禮拜四 - lǐ bài sì (Thursday) 
 1. 年 - nián 
 1. 月 - yu (month) 
 1. 一個月 [一个月]- yī gè yu 
