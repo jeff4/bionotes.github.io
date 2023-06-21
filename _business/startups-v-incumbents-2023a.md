@@ -419,3 +419,6 @@ sitemap: false
 * ['Voice-generating platform ElevenLabs raises $19M, launches detection tool'](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/)-led by Nat Friedman, Daniel Gross, and a16z. "Other participants include SV Angel, Instagram co-founder Mike Krieger, Oculus co-founder Brendan Iribe, Deepmind and Inflection AI co-founder Mustafa Suleyman and O’Reilly Media founder Tim O’Reilly. A source familiar with the matter tells TechCrunch that the tranche values ElevenLabs at $99 million post-money — a respectable figure, especially considering that the startup launched just over a year ago."
 * ['Parrot, an AI-powered transcription platform that turns speech into text, raises $11M Series A'](https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/)
 
+## 21 June 2023
+* ['Harness releases generative AI assistant to help increase developer efficiency'](https://techcrunch.com/2023/06/21/harness-releases-generative-ai-assistant-to-help-ease-developer-workloads/) named 'AIDA' AI-Development Assistant'
+* ['Otter is introducing a meeting-oriented AI chatbot'](https://techcrunch.com/2023/06/21/otter-is-introducing-a-meeting-oriented-ai-chatbot/)
