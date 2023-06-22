@@ -62,7 +62,6 @@ Go to [this page](/ch-food/)
 1. 舊 [旧] - jiù (old) 
 1. 多少 - duō shǎo 
 1. 好 - hǎo 
-1. 老師 - lǎo shī  
 1. 一個人 (一 个 人) - yī gè rén. Simplified version of gè.
 1. 北京 - Běijīng 
 
@@ -291,4 +290,5 @@ hà
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
+1.  
 1.  
