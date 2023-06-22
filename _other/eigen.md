@@ -38,11 +38,6 @@ permalink: /eigen/
 * #65 [How the Diagonalization Process Works](https://www.youtube.com/watch?v=nNwZA1X-C3c&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=65)
 * #68 [Eigenvalues, Eigenvectors & Diagonalization–full example in complex spaces](https://www.youtube.com/watch?v=FOoi8h47Tw4&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=68)
 
-### 2022 Log
-* 8/03/2022 Researched some new books on abstract algebra, group theory, etc.
-* 8/23 Been working on Nathan Jacobson's *Basic Algebra I*, 2nd Edition for the last week or two. Had a nice breakthrough on generalizing Cartesian Products from 2 parent sets to n-parent sets. For example, the coordinate / components of an n-dimensional vector in R<sup>n</sup>
-* 8/25 More work on Jacobson / Jake
-
 ### 2021 Log
 * 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues using 3B1B 2x2 matrix quicktechnique. Then finding associated eigenvectors by setting up the characteristic equation det(**A** - &#955;**I**) = **0** and then solving the resulting system of equations.
 * 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503. See this link also for reduced row echelon form [RREF](https://www.usna.edu/Users/math/uhan/sm286a/rref.pdf)
@@ -57,6 +52,11 @@ permalink: /eigen/
 * 9/04: Day 1 of Axler, Chapter 5 on IG
 * 9/05: Day 2 of Axler. Building momentum in understanding how all pieces of chapter 5 fit together.
 * 9/06: Day 3 of Axler on IG.
+
+### 2022 Log
+* 8/03/2022 Researched some new books on abstract algebra, group theory, etc.
+* 8/23 Been working on Nathan Jacobson's *Basic Algebra I*, 2nd Edition for the last week or two. Had a nice breakthrough on generalizing Cartesian Products from 2 parent sets to n-parent sets. For example, the coordinate / components of an n-dimensional vector in R<sup>n</sup>
+* 8/25 More work on Jacobson / Jake
 
 ### 2023 Log
 * 1/01/2023 [notes on Peano's Axioms](https://www2.hawaii.edu/~robertop/Courses/TMP/7_Peano_Axioms.pdf) used to formally develop set of natural numbers and related operations by [Roberto Pelayo](https://www2.hawaii.edu/~robertop/pelayo.html) [University of Hawaii site](https://www2.hawaii.edu/~robertop/pelayo.html).
