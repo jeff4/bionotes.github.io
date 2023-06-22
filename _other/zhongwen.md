@@ -237,7 +237,7 @@ Go to [this page](/ch-food/)
 1. 得- de (verb particle) 
 1. 一定 - yī dìng (definitely, certainly)
 1. 特別 - tè bié (especially) 
-1. 高興 [兴]- gāo xìng (happy) 
+1. 高興 [高兴]- gāo xìng (happy) 
 1. 寫字 [写字] - xiě zì (to write characters) 
 1. 快 - kuài (fast)
 1. 慢 - màn (slow) 
@@ -304,4 +304,3 @@ Go to [this page](/ch-food/)
 1.  
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
 1.  
-
