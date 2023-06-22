@@ -261,46 +261,27 @@ Go to [this page](/ch-food/)
 1. 參加 [参加] - cān jiā (to join a group; to participate)
 1. 吃 - chī (to eat)
 1. 東西 [东西] - dōng xi (a thing)
-1.  
 1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
-1.  
 1. 早 - zǎo (early) 
 1. 晚 - wǎn (late)
-1.  
 1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
-1.  
 1. 東西 [东西] - dōng xi (thing)
-1.  
 1. 已經 [已经] - yǐ jīng (already)
-1.  
 1. 開始 [开始] - kāi shǐ (to begin)
-1.  
 1. 哈佛 - Hāfó (Harvard) 
+1. 
 
 ### Lesson 12
 1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
-1.  
-1.  
-1.  
-1.  
 1. 大家 - dà jiā (everyone)
-1.  
 1. 哦 - ó (*interjection* expressing doubt)
-1.  
 1. 哦 - ò (*interjection* expressing realization; understanding) 
 1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
 1. 聽 [听] - tīng (to listen)
-1.  
 1. 不錯 [不错] - bù cuò (correct; not bad; pretty good)
-1.  
 1. 句 - jù (measure word for sentence)
 1. 句子 - jù zi (sentence)
-1.  
 1. 走 - zǒu (to walk)
-1.  
-1.  
-1.  
-1.  
-1.  
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
+1.  
 1.  
