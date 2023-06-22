@@ -86,6 +86,10 @@ Go to [this page](/ch-food/)
 1. 英國 - Yīngguó (England) 
 1. 英文 - Yīng wén (English) 
   
+
+hà
+
+
 ### Lesson 4
 1. 工作- gōng zuò (‘work’ as both a noun and a verb)
 1. 只 - zhǐ (only) 
@@ -115,6 +119,7 @@ Go to [this page](/ch-food/)
 1. 畫報〔画报〕- huà bào (pictoral)
 1. 有意思  - yǒu yì si (interesting) 
 1. 日語 [日语] - Rì yǔ (Japanese) 
+1. 還 [还] - huán (to go back to; to give back, repay)
 1. ...還是 [还是]...? - hái shì (...or...?) 
 1. Traditional:	我應該吃這個還是那個 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
 1. Simplified:	我应该吃这个还是那个 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
@@ -283,5 +288,4 @@ Go to [this page](/ch-food/)
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
-1.  
 1.  
