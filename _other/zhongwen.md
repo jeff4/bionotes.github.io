@@ -85,10 +85,6 @@ Go to [this page](/ch-food/)
 1. 英國 - Yīngguó (England) 
 1. 英文 - Yīng wén (English) 
   
-
-hà
-
-
 ### Lesson 4
 1. 工作- gōng zuò (‘work’ as both a noun and a verb)
 1. 只 - zhǐ (only) 
@@ -290,5 +286,4 @@ hà
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
-1.  
 1.  
