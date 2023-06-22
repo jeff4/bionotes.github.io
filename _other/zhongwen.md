@@ -254,7 +254,7 @@ Go to [this page](/ch-food/)
 1. 这么 [*trad* 這麼] - zhè me (this way)
 1. 那么 [*trad* 那麼] - nà me (that way)
 1. 昨天 - zuó tiān (yesterday) 
-1.  
+1. 明天 - míng tiān (tomorrow)
 1. 這麼 [这么] - zhè me (this way; like this)
 1. 那麼 [那么] - nà me (like that; in that way) 
 1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
@@ -272,7 +272,6 @@ Go to [this page](/ch-food/)
 1. 已經 [已经] - yǐ jīng (already)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 哈佛 - Hāfó (Harvard) 
-1. 
 
 ### Lesson 12
 1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
@@ -286,4 +285,10 @@ Go to [this page](/ch-food/)
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
 1. 就 - jiù (*adverb* at once; right away; already; as early as) 
+1. 晚上 - wǎn shang (evening; night)
+1. 晚飯 [晚饭] - wǎn fàn (dinner)
+1. 講 [讲] - jiǎng (lecture; speech; to speak or tell)
+1. 講幾句話 [讲几句话]- jiǎng jǐ jù huà (to say a few words)
+1. 清楚 - qīng chu (clarity, to be clear about, to understand)
 1.  
+
