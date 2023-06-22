@@ -229,8 +229,6 @@ Go to [this page](/ch-food/)
  * 裏⧸裡 - lǐ		THIS IS 'l'
  * 'h navigates to 還[还] *or* and *return*
 
-
-
 ### Lesson 10
 1. 太 - tài (too as in 'too much') 
 1. 自己 - zì jǐ (oneself) 
@@ -260,7 +258,6 @@ Go to [this page](/ch-food/)
 1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
 1. 年級 [年级] - nián jí (class/year in school)
 1. 學期 [学期] - xué qī (school term)
-1.  
 1. 參加 [参加] - cān jiā (to join a group; to participate)
 1. 吃 - chī (to eat)
 1. 東西 [东西] - dōng xi (a thing)
@@ -291,4 +288,3 @@ Go to [this page](/ch-food/)
 1. 講幾句話 [讲几句话]- jiǎng jǐ jù huà (to say a few words)
 1. 清楚 - qīng chu (clarity, to be clear about, to understand)
 1.  
-
