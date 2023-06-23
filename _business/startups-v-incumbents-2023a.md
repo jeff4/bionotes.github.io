@@ -422,3 +422,7 @@ sitemap: false
 ## 21 June 2023
 * ['Harness releases generative AI assistant to help increase developer efficiency'](https://techcrunch.com/2023/06/21/harness-releases-generative-ai-assistant-to-help-ease-developer-workloads/) named 'AIDA' AI-Development Assistant'
 * ['Otter is introducing a meeting-oriented AI chatbot'](https://techcrunch.com/2023/06/21/otter-is-introducing-a-meeting-oriented-ai-chatbot/)
+
+## 23 June 2023
+* Inflection-1 is a new model of roughly similar size and capability to GPT-3.5 from [Inflection company](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/) and released associated [blog post](https://inflection.ai/inflection-1) and [technical paper](https://inflection.ai/assets/Inflection-1_0622.pdf)
+
