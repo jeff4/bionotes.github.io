@@ -116,8 +116,9 @@ Go to [this page](/ch-food/)
 1. 日語 [日语] - Rì yǔ (Japanese) 
 1. 還 [还] - huán (to go back to; to give back, repay)
 1. ...還是 [还是]...? - hái shì (...or...?) 
-1. Traditional:	我應該吃這個還是那個 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
-1. Simplified:	我应该吃这个还是那个 - Wǒ yīnggāi chī zhège háishì nàgè (Should I eat this or that?)
+1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
+1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
+	* see also Lesson 13
 1. 用 - yòng (to use) 
 1. 練習[练习] - liàn xí (exercise, to practice) 
 1. 作 - zuò (to do, to make) 
@@ -296,5 +297,16 @@ Go to [this page](/ch-food/)
 1. 生詞 [生词] - shēng cí (new word)
 
 ### Lesson 13
+1. 漢字 [汉字] - Hàn zì (Chinese characters)
+1. 沒關係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind')
+1. 以後 [以后] - yǐ hòu  (later)
+1. 得 - děi (need; must; to have to) 
+1. 字典 - zì diǎn (dictionary)
+1. 能 - néng  (to be able to)
+1. 想 - xiǎng  (to think)
+1. 打球 - dǎ qiú (to play ball)
+1. 打 - dǎ (to hit)
+1. 球 - qiú (ball)
+1. 後天 [后天] - hòu tiān (day after tomorrow)
+1. 應該 [应该] - yīng gāi (should) *see also Lesson 5*
 1.  
-
