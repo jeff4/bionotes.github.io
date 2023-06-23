@@ -270,12 +270,14 @@ Go to [this page](/ch-food/)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 哈佛 - Hāfó (Harvard) 
 
+
 ### Lesson 12
+1. 見 [见] - jiàn (verb: to meet with, to catch sight of; noun: view, opinion)
+1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
 1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
 1. 大家 - dà jiā (everyone)
 1. 哦 - ó (*interjection* expressing doubt)
 1. 哦 - ò (*interjection* expressing realization; understanding) 
-1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
 1. 聽 [听] - tīng (to listen)
 1. 不錯 [不错] - bù cuò (correct; not bad; pretty good)
 1. 句 - jù (measure word for sentence)
