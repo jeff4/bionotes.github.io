@@ -287,4 +287,8 @@ Go to [this page](/ch-food/)
 1. 講 [讲] - jiǎng (lecture; speech; to speak or tell)
 1. 講幾句話 [讲几句话]- jiǎng jǐ jù huà (to say a few words)
 1. 清楚 - qīng chu (clarity, to be clear about, to understand)
+1. 復⧸複習 [复习] - fù xí (to review; revision)
+1. 語法 [语法] - yǔ fǎ (grammar)
+1. 課文 [课文] - kè wén (text)
+1. 功課 [功课] - gōng kè (homework; schoolwork)  
 1.  
