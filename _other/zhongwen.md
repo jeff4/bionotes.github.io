@@ -293,4 +293,8 @@ Go to [this page](/ch-food/)
 1. 語法 [语法] - yǔ fǎ (grammar)
 1. 課文 [课文] - kè wén (text)
 1. 功課 [功课] - gōng kè (homework; schoolwork)  
+1. 生詞 [生词] - shēng cí (new word)
+
+### Lesson 13
 1.  
+
