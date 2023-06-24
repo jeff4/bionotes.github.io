@@ -114,16 +114,16 @@ Go to [this page](/ch-food/)
 1. 畫報 [画报] - huà bào (pictoral)
 1. 有意思  - yǒu yì si (interesting) 
 1. 日語 [日语] - Rì yǔ (Japanese) 
-1. 還 [还] - huán (to go back to; to give back, repay)
-1. ...還是 [还是]...? - hái shì (...or...?) 
-1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-	* see also Lesson 13
 1. 用 - yòng (to use) 
 1. 練習[练习] - liàn xí (exercise, to practice) 
 1. 作 - zuò (to do, to make) 
 1. 會 [会] - huì (to know how, to be skillful)
 1. 漢語 [汉语] - Hàn yǔ (Chinese) 
+1. 還 [还] - huán (to go back to; to give back, repay)
+1. ...還是 [还是]...? - hái shì (...or...?) 
+1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
+1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
+	* see also Lesson 13
 
 ### Lesson 6
 1. 姓 - xìng (surname) 
@@ -307,4 +307,15 @@ Go to [this page](/ch-food/)
 1. 球 - qiú (ball)
 1. 後天 [后天] - hòu tiān (day after tomorrow)
 1. 應該 [应该] - yīng gāi (should) *see also Lesson 5*
+1. 考試 [考试] - kǎo shì (to take an exam)
+1. 準備 [准备] - zhǔn bèi (to prepare)
+1. 努力 - nǔ lì (diligent)
+1. 辦法 [办法] - bàn fǎ (solution)
+1. 非常 - fēi cháng (extremely)
+1. 可以 - kě yǐ (can, may; *colloquial* passable, not bad)
+1. 找 - zhǎo (to look for, to seek)
+1. 不用 - bù yòng (don't have to)
+
+### Lesson 14
+1. 同學 [同学] tóng xué (schoolmate) 
 1.  
