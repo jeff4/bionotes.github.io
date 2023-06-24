@@ -19,7 +19,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰[继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-#### 6/16 - 6/20
+#### 6/16 - 6/24
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -27,7 +27,7 @@ permalink: /zhongwen/
 1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
 1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
 1. 南京 - Nánjīng
-
+1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
 
 ## Food
 Go to [this page](/ch-food/)
