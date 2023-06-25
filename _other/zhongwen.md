@@ -267,6 +267,9 @@ Go to [this page](/ch-food/)
 1. 東西 [东西] - dōng xi (thing)
 1. 已經 [已经] - yǐ jīng (already)
 1. 開始 [开始] - kāi shǐ (to begin)
+1. 開[开] - kāi (to open)  
+1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 
+沒關係 méi guān xi from *Lesson 13*.  
 1. 哈佛 - Hāfó (Harvard) 
 
 
