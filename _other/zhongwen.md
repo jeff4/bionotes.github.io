@@ -337,4 +337,11 @@ Go to [this page](/ch-food/)
 1. 意思  - yì si (meaning) See also Lesson 5
 1. 討論 [讨论] - tǎo lùn (to discuss)
 1.  
+
+### Lesson 15
+1. 買[买] - mǎi (to buy)
+1. 賣[卖] - mài (to sell)
+1. 帶[带] - dài (to bring along, to carry)
+1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8
+1.  
 1.  
