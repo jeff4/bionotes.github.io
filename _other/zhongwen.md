@@ -321,4 +321,20 @@ Go to [this page](/ch-food/)
 
 ### Lesson 14
 1. 同學 [同学] tóng xué (schoolmate) 
+1. 注意 - zhù yì (pay close attention)
+1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
+1. 报告 - bào gào (report)
+1. 别的 - bié de (others)
+1. 事情 - shì qing (matter, affair, issue)
+1. 家 - jiā  
+1. 有名 - yǒu míng  
+1. 不停的 - bù tíng de (without stopping)
+1. 拊手 - fǔ shǒu (to clap hands)
+1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
+1. 拊手 - fǔ shǒu (to clap hands)
+1. 休息 - xiū xi (rest)
+1. 重要 - zhòng yào (important)
+1. 意思  - yì si (meaning) See also Lesson 5
+1. 討論 [讨论] - tǎo lùn (to discuss)
+1.  
 1.  
