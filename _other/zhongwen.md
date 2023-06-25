@@ -300,7 +300,7 @@ Go to [this page](/ch-food/)
 
 ### Lesson 13
 1. 漢字 [汉字] - Hàn zì (Chinese characters)
-1. 沒關係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind')
+1. 沒関係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind') See *Lesson 11*
 1. 以後 [以后] - yǐ hòu  (later)
 1. 得 - děi (need; must; to have to) 
 1. 字典 - zì diǎn (dictionary)
