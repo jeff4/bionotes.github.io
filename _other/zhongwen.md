@@ -201,8 +201,7 @@ Go to [this page](/ch-food/)
 1. 電影 [电影] - diàn yǐng (movie)
 1. 從 [从]- cóng (from)
 1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
-1. 為什么 *JH preferred*  - wéi shén me? (why?) 
-1. [为甚麽 *simplified+traditional*] - wéi shén me? (why?) 
+1. 為什么 *JH preferred*  - wéi shén me? (why?). [为甚麽 *simp+trad*] - wéi shén me? (why?) 
 
 ### Lesson 9
 1. 好看 - hǎo kàn (good looking) 
