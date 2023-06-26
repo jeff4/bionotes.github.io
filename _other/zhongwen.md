@@ -337,7 +337,7 @@ Go to [this page](/ch-food/)
 1. 事情 - shì qing (matter, affair, issue)
 1. 家 - jiā  
 1. 有名 - yǒu míng  
-1. 不停的 - bù tíng de (without stopping)
+1. 不停的 - bù tíng de (without stopping) See also 特別 (especially) in Lesson 10
 1. 拊手 - fǔ shǒu (to clap hands)
 1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
 1. 拊手 - fǔ shǒu (to clap hands)
