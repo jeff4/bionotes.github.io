@@ -321,6 +321,10 @@ Go to [this page](/ch-food/)
 
 ### Lesson 14
 1. 同學 [同学] tóng xué (schoolmate) 
+1. 演 - yǎn (perform, play, act in a play)
+1. 話劇 [话剧] huà jù (a play)
+1. 通知 - tōng zhī (paper notice; announcement)
+1. 交 - jiāo (to hand in an assignment)
 1. 注意 - zhù yì (pay close attention)
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
 1. 报告 - bào gào (report)
@@ -336,17 +340,15 @@ Go to [this page](/ch-food/)
 1. 重要 - zhòng yào (important)
 1. 意思  - yì si (meaning) See also Lesson 5
 1. 討論 [讨论] - tǎo lùn (to discuss)
-1.  
 
 ### Lesson 15
 1. 買[买] - mǎi (to buy)
 1. 賣[卖] - mài (to sell)
 1. 帶[带] - dài (to bring along, to carry)
 1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 
-1. 
-1. 
-1. 
+1. 當然 [当然] - dāng rán (of course)
+1. 種 [种] - zhǒng (type, kind)
+1. 有用 - yǒu yòng (useful)
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
@@ -354,11 +356,14 @@ Go to [this page](/ch-food/)
 1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
 1. 問題 [问题] - wèn tí (question, problem)
 1. 回答 - huí dá (reply, response, answer)
-1. 怎麼辦? [怎么办]？- Zěnme bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
+1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
 1. 辦法 [办法] - bàn fǎ (way, means, measure)
 1. 方法 - fāng fǎ (method, way, means)
 1. 告訴 [告诉] - gào su (to tell some)
 1. 互相 - hù xiāng (mutually)
 1. 要是...就 - yào shi...jiù (if...then...)
-1.  
+1. 必須 [必须] - bì xū (should; present)
+
+### Lesson 16
+1. 課本 [课本] - kè běn (textbook)
 1.  
