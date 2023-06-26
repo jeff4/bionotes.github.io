@@ -199,7 +199,7 @@ Go to [this page](/ch-food/)
 1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
 1. 喜歡 [喜欢] - xǐ huan (to like) 
 1. 電影 [电影] - diàn yǐng (movie)
-1. 從 [从]- cóng (from)
+1. 從 [从]- cóng (from) See also *Lesson 15*
 1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
 1. 為什么 *JH preferred*  - wéi shén me? (why?). [为甚麽 *simp+trad*] - wéi shén me? (why?) 
 
@@ -343,5 +343,9 @@ Go to [this page](/ch-food/)
 1. 賣[卖] - mài (to sell)
 1. 帶[带] - dài (to bring along, to carry)
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8
-1.  
+1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
+1. 每 - měi (every; each; per); e.g., 每天 měi tiān
+1. 上課 [上课] - shàng kè attend class
+1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
+1. 問題 [问题] - wèn tí (question, problem)
 1.  
