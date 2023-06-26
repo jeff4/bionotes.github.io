@@ -29,6 +29,11 @@ permalink: /zhongwen/
 1. 南京 - Nánjīng
 1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
 
+#### 6/25 - 99 Ranch and Liang Mama with Julian
+
+
+
+
 ## Food
 Go to [this page](/ch-food/)
 
@@ -242,7 +247,7 @@ Go to [this page](/ch-food/)
 1. 寫字 [写字] - xiě zì (to write characters) 
 1. 快 - kuài (fast)
 1. 慢 - màn (slow) 
-1. 說話 [说话]  - shuō huà (to talk)
+1. 说話 [说话]  - shuō huà (to talk)
 1. 積極 [积极] - jī jí (positive; enthusiastic)
 1. 跳舞 - tiào wǔ (to dance)
 1. 唱歌 (兒) - chàng gē (r) (to sing a song)
@@ -366,4 +371,5 @@ Go to [this page](/ch-food/)
 
 ### Lesson 16
 1. 課本 [课本] - kè běn (textbook)
+1.  
 1.  
