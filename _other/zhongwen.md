@@ -130,7 +130,7 @@ Go to [this page](/ch-food/)
 1. 叫 - jiào (shout; call, greet; hire, order)  
 1. 甚麽 [什么] - shén me (what) 
 1. 名字 - míng zi (name) 
-1. 怎麼 [怎么] - zěn me (how/why) 
+1. 怎麼 [怎么] - zěn me (how/why) See also Lesson 15
 1. Traditional:	這怎麼發生的 - zhè zěnme fāshēng de? (How did this happen?)
 1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
 1. 以前 - yǐ qián (before) 
@@ -342,10 +342,23 @@ Go to [this page](/ch-food/)
 1. 買[买] - mǎi (to buy)
 1. 賣[卖] - mài (to sell)
 1. 帶[带] - dài (to bring along, to carry)
+1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
+1. 
+1. 
+1. 
+1. 
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
 1. 上課 [上课] - shàng kè attend class
 1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
 1. 問題 [问题] - wèn tí (question, problem)
+1. 回答 - huí dá (reply, response, answer)
+1. 怎麼辦? [怎么办]？- Zěnme bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
+1. 辦法 [办法] - bàn fǎ (way, means, measure)
+1. 方法 - fāng fǎ (method, way, means)
+1. 告訴 [告诉] - gào su (to tell some)
+1. 互相 - hù xiāng (mutually)
+1. 要是...就 - yào shi...jiù (if...then...)
+1.  
 1.  
