@@ -340,7 +340,6 @@ Go to [this page](/ch-food/)
 1. 不停的 - bù tíng de (without stopping) 
 1. 拊手 - fǔ shǒu (to clap hands)
 1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
-1. 拊手 - fǔ shǒu (to clap hands)
 1. 休息 - xiū xi (rest)
 1. 重要 - zhòng yào (important)
 1. 意思  - yì si (meaning) See also Lesson 5
