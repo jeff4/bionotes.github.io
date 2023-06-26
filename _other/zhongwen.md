@@ -333,11 +333,11 @@ Go to [this page](/ch-food/)
 1. 注意 - zhù yì (pay close attention)
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
 1. 报告 - bào gào (report)
-1. 别的 - bié de (others)
+1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
 1. 事情 - shì qing (matter, affair, issue)
 1. 家 - jiā  
 1. 有名 - yǒu míng  
-1. 不停的 - bù tíng de (without stopping) See also 特別 (especially) in Lesson 10
+1. 不停的 - bù tíng de (without stopping) 
 1. 拊手 - fǔ shǒu (to clap hands)
 1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
 1. 拊手 - fǔ shǒu (to clap hands)
@@ -371,5 +371,4 @@ Go to [this page](/ch-food/)
 
 ### Lesson 16
 1. 課本 [课本] - kè běn (textbook)
-1.  
 1.  
