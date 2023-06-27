@@ -19,7 +19,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰[继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-#### 6/16 - 6/24
+#### 6/16 - 6/28
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -28,11 +28,9 @@ permalink: /zhongwen/
 1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
 1. 南京 - Nánjīng
 1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
+1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
-
-
-
 
 ## Food
 Go to [this page](/ch-food/)
@@ -369,5 +367,15 @@ Go to [this page](/ch-food/)
 1. 必須 [必须] - bì xū (should; present)
 
 ### Lesson 16
+1. 請 [请] - qǐng (please)
+1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
 1. 課本 [课本] - kè běn (textbook)
+1. 剛 [刚] - gāng (just) see also Lesson 11
+1. 完 - wán (finished, e.g., 吃完了)
+1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
+1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
+1. 書店 [书店] - shū diàn (bookstore)
+1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
+1. 高 - gāo  
+1. 低 dī - low (opposite of 高)
 1.  
