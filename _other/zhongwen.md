@@ -378,4 +378,6 @@ Go to [this page](/ch-food/)
 1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
 1. 高 - gāo  
 1. 低 dī - low (opposite of 高)
+1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
+1. 看見 [看见] - kàn jian (to see)
 1.  
