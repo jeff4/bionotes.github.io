@@ -399,7 +399,6 @@ Go to [this page](/ch-food/)
 1. 臉 [脸] - liǎn (face)
 1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain)
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 視窗 [视窗] - shì chuāng (a window in computing; Microsoft Windows)
 1. 試 [试] - shì (to try, to test)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
 1. 差不多 - chà bu duō (almost)
