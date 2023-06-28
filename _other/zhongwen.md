@@ -406,6 +406,6 @@ Go to [this page](/ch-food/)
 1.  
 1. 熱 [热] - rè (hot)
 1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
-1. 盪⧸燙 [荡⧸烫] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
+1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
 1.  
 1.  
