@@ -135,7 +135,7 @@ While GPT-4 isn't released yet and I can't speak specifically to its capabilitie
 
 Remember, the AI's ability to generate long responses may also be limited by the platform you're using, as some platforms impose a maximum limit on the length of the AI's responses.
 
-### Bing Chat via MS Edge
+### Bing Chat via MS Edge (medium temperature)
 
 Here are some tips that might help you nudge GPT-4 to produce a longer article:
 
@@ -144,4 +144,32 @@ Here are some tips that might help you nudge GPT-4 to produce a longer article:
 1. Another option is to fine-tune GPT-4 on your specific task or domain. This can help it better understand the context of your input and generate more relevant and detailed output.
 
 I hope these tips help you get the results you’re looking for. Good luck! 😊
+
+### Bing Chat via MS Edge (creative temperature)
+
+I’m sorry to hear that you are having trouble with GPT-4. I don’t have any direct tips for using GPT-4, but I can offer some general advice for generating longer articles based on your input.
+
+Some possible strategies are:
+
+* Use more specific and detailed input. The more information you provide, the more GPT-4 has to work with and expand on. For example, instead of “write an article about climate change”, you could say “write an article about the effects of climate change on polar bears and their habitat”.
+* Use prompts or questions to guide the article. You can include some questions or subheadings in your input that you want GPT-4 to answer or elaborate on. For example, you could say “write an article about the history of chocolate. Include the following sections: 1) How chocolate was discovered and used by ancient civilizations. 2) How chocolate spread around the world and became popular. 3) How chocolate is made today and what are the different types and varieties. 4) What are the health benefits and risks of chocolate consumption.”
+* Use feedback or editing to improve the article. You can review the article that GPT-4 generates and provide some feedback or suggestions for improvement. For example, you could say “This is a good start, but I would like you to add more details and examples to each section. Also, please check the spelling and grammar and fix any errors.”
+
+### phind.com
+
+Prompt: When I ask GPT-4 to write a 1500-2000 word article, it consistently produces an article that's about 500 words. This happens regardless of what max_tokens and temperature I set it at. What suggestions do you have to engineer the prompt to write an article that is the correct length?
+
+Answer:
+
+It seems that you're experiencing issues with GPT-4 generating shorter articles than the desired length, even with the max_tokens and temperature settings. Here are some suggestions to help you achieve the desired output length:
+
+1. Specify the desired length in the prompt: Make sure to mention the desired length of the article in the prompt itself. For example, you can include something like "Write a 1500-2000 word article about the impact of climate change." This will provide GPT-4 with a clear expectation of the output length pcguide.com.
+1. Check token limits: Ensure that the total number of tokens (both prompt and completion) does not exceed the model's token limit. For GPT-3.5-turbo, the limit is 4096 tokens learn.microsoft.com. Make sure your prompt and completion stay within this limit.
+1. Adjust max_tokens: You may need to set max_tokens to a slightly higher value than normal, such as 300 or 500, to ensure the model doesn't stop generating text before it reaches the end of the message learn.microsoft.com.
+1. Use temperature: Adjust the temperature parameter to control the randomness of the generated text. Lower values (e.g., 0.5) will result in more focused and deterministic outputs, while higher values (e.g., 1.0) will produce more diverse and creative outputs. Experiment with different temperature values to find the best balance between randomness and coherence learn.microsoft.com.
+1. Iterate and refine: If GPT-4 still produces shorter articles than desired, you can use a two-step approach. First, generate an article with a lower max_tokens value (e.g., 1000) to get a shorter summary of the desired topic. Then, use the summary as a new prompt to generate a longer article with a higher max_tokens value (e.g., 2000) zapier.com.
+
+Remember that GPT-4 might not always produce the exact output length you desire, but by providing clear instructions, adjusting parameters, and iterating on the generated content, you can get closer to the desired length.
+
+
 
