@@ -388,10 +388,20 @@ Go to [this page](/ch-food/)
 1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
 
 ### Lesson 17
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
+1. 紅 [红] - hóng (red)
+1. 紅油 [红油] - hóng yóu (red oil; chili oil)
+1. 坐 - zuò (to sit)
+1. 熱 [热] - rè (hot)
+1. 覺得 [觉得] - jué de (to feel)
+1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
+1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
+1. 頭 [头] - tóu (head)
+1. 臉 [脸] - liǎn (face)
+1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain)
+1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
+1. 視窗 [视窗] - shì chuāng (a window in computing; Microsoft Windows)
+1. 試 [试] - shì (to try, to test)
+1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
+1. 差不多 - chà bu duō (almost)
 1.  
