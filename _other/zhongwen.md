@@ -392,7 +392,6 @@ Go to [this page](/ch-food/)
 1. 紅 [红] - hóng (red)
 1. 紅油 [红油] - hóng yóu (red oil; chili oil)
 1. 坐 - zuò (to sit)
-1. 熱 [热] - rè (hot)
 1. 覺得 [觉得] - jué de (to feel)
 1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
@@ -404,4 +403,9 @@ Go to [this page](/ch-food/)
 1. 試 [试] - shì (to try, to test)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
 1. 差不多 - chà bu duō (almost)
+1.  
+1. 熱 [热] - rè (hot)
+1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
+1. 盪⧸燙 [荡⧸烫] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
+1.  
 1.  
