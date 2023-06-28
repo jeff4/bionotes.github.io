@@ -54,6 +54,7 @@ sitemap: false
 ## 20 March 2023
 * [Tavus uses gen AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
 * [Filmustage uses AI to convert film scripts into shooting schedules](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
+* 25-person startup named [Adept just raised a $350 million round](https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/) to build foundation models that can be used to modify any software tool
 
 ## 21 March 2023
 * Adobe launches [Firefly](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
@@ -426,3 +427,5 @@ sitemap: false
 ## 23 June 2023
 * Inflection-1 is a new model of roughly similar size and capability to GPT-3.5 from [Inflection company](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/) and released associated [blog post](https://inflection.ai/inflection-1) and [technical paper](https://inflection.ai/assets/Inflection-1_0622.pdf)
 
+## 27 June 2023
+* Forbes article on [problems at Stability AI](https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration/?sh=548add1075c5) and exaggerations/lies told by founder Emad Mostaque
