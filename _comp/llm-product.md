@@ -114,3 +114,34 @@ permalink: /llm-product/
 	* Chat-GPT: 'The HBO TV show "Succession" is not commonly translated or officially titled in Mandarin. However, it is possible to transliterate the English title into Mandarin characters. The Mandarin characters commonly used to represent "Succession" are:
 		* 继承之路 (Jì4 Chéng2 Zhī Lù4)
 	* 'Please note that this is a transliteration and not an official translation.'
+
+## 28 June 2023
+
+* Prompt: when i ask gpt-4 to write an article based on my input and ask it to produce a 1500-2000 word article, gpt-4 creates an article that is consistently only 500 words or so. Do you have any tips that can nudge gpt-4 to produce a longer article?
+
+### GPT-4 via api
+
+While GPT-4 isn't released yet and I can't speak specifically to its capabilities, I can share general tips on how you might encourage GPT-3, or any similar AI, to produce a longer response:
+
+1. **Breakdown the Task**: Instead of asking the AI to write the entire article in one go, you could break the task down into smaller sections. For example, you could ask the AI to draft an introduction, then the main points, and finally the conclusion. This will allow you to control the length of each section and ensure that the overall article meets your word count requirement.
+
+2. **Ask for More Detail**: If the AI's response is too short, you could ask it to elaborate on certain points. For example, you could say, "Can you provide more detail on X?" or "Can you expand on Y?" This should prompt the AI to write more.
+
+3. **Use an Iterative Approach**: You can also use an iterative approach, where you provide feedback on the AI's response and ask it to improve on it. For example, if the AI writes a short paragraph, you could say, "That's a good start, but can you add more information on X, Y, and Z?"
+
+4. **Set Clear Expectations**: When giving the AI a task, make your expectations clear. If you want a 1500-word article, you could say, "Please write a 1500-word article on X."
+
+5. **Rephrase your Request**: If the AI is not generating a long enough output, you might need to rephrase or clarify your request. For example, instead of saying, "Write an article," you could say, "Write a detailed analysis" or "Write a comprehensive report".
+
+Remember, the AI's ability to generate long responses may also be limited by the platform you're using, as some platforms impose a maximum limit on the length of the AI's responses.
+
+### Bing Chat via MS Edge
+
+Here are some tips that might help you nudge GPT-4 to produce a longer article:
+
+1. Try to provide more detailed prompts or input to GPT-4. The more information you give it, the more it will have to work with and the longer the output may be.
+1. You can also try increasing the length of the output by specifying a higher max_length parameter when calling GPT-4. This will tell GPT-4 to generate a longer output.
+1. Another option is to fine-tune GPT-4 on your specific task or domain. This can help it better understand the context of your input and generate more relevant and detailed output.
+
+I hope these tips help you get the results you’re looking for. Good luck! 😊
+
