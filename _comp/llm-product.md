@@ -171,5 +171,3 @@ It seems that you're experiencing issues with GPT-4 generating shorter articles 
 
 Remember that GPT-4 might not always produce the exact output length you desire, but by providing clear instructions, adjusting parameters, and iterating on the generated content, you can get closer to the desired length.
 
-
-
