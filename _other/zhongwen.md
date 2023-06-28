@@ -332,6 +332,7 @@ Go to [this page](/ch-food/)
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
 1. 报告 - bào gào (report)
 1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
+1. 别人 - bié rén (other people). Originally introduced in Lesson 16
 1. 事情 - shì qing (matter, affair, issue)
 1. 家 - jiā  
 1. 有名 - yǒu míng  
@@ -376,8 +377,21 @@ Go to [this page](/ch-food/)
 1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
 1. 書店 [书店] - shū diàn (bookstore)
 1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
-1. 高 - gāo  
-1. 低 dī - low (opposite of 高)
+1. 高 - gāo (high) 
+1. 低 - dī (low, opposite of 高)
 1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
 1. 看見 [看见] - kàn jian (to see)
+1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
+1. 開會 [开会] - kāi huì (to hold a meeting)
+1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
+1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
+1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
+
+### Lesson 17
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 1.  
