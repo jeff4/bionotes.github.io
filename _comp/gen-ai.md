@@ -228,3 +228,6 @@ permalink: /gen-ai/
 
 ## 20 June 2023
 * SimpleAIchat on [GitHub](https://github.com/minimaxir/simpleaichat) -- a new and concise Python package for easily interacing with chat apps like GPT-4 with robust features and minimal code complexity. [HN thread](https://news.ycombinator.com/item?id=36393782) 
+
+## 27 June 2023
+* Lilian Weng has another detailed overview post up on her excellent blog about ['Autonomous Agents'](https://lilianweng.github.io/posts/2023-06-23-agent/). [HN thread](https://news.ycombinator.com/item?id=36488871)
