@@ -35,6 +35,10 @@ permalink: /zhongwen/
 ## Food
 Go to [this page](/ch-food/)
 
+## Tin Tin comic
+Go to [this page](/tt-blue-lotus/)
+
+
 ## Harvard Mandarin Textbook
 ### Lesson 1
 1. 學生 - xuéshēng  
