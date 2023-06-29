@@ -11,6 +11,8 @@ permalink: /ch-food/
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā 
 1. 豆腐 - dòu fu
+1. 乾扁牛 [干扁牛] - gān biǎn niú (Dry Cooked Shredded Beef)
+1. 乾扁羊 [干扁羊] - gān biǎn yáng (Dry Cooked Shredded Lamb)
 
 ### Vegetables
 1. 空心菜 - kōng xīn cài ('water spinach' or 'VN spinach')
@@ -22,11 +24,11 @@ permalink: /ch-food/
 1. 面 [*trad* 麵] - miàn 
 1. 炒飯 [炒饭]- chǎo fàn (fried rice) 
 1. 小籠包 [小笼包] - xiǎo lóng bāo ('xiǎo lóng' refers to the little bamboo basket the soup dumplings are prepared in) 
-1. 鍋貼 [锅贴] - guō tiē  
 1. 牛肉捲餅 *trad* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
 1. 紅油龍炒手 - hóngyóu lóng chǎoshǒu. Spicy Pork Wontons. *literal* red oil dragon sauteed hands.  炒手 aka ['crossed hands'](https://en.wikipedia.org/wiki/Wonton#Sichuan_cuisine) is a nickname from Sichuan Cuisine
+1. 水餃 [水饺] - shuǐ jiǎ (boiled dumplings)
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 
