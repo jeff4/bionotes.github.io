@@ -23,7 +23,7 @@ permalink: /zhongwen/
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
-1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station')
+1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in Lesson 17.
 1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
 1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
 1. 南京 - Nánjīng
@@ -250,7 +250,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 快 - kuài (fast)
 1. 慢 - màn (slow) 
 1. 说話 [说话]  - shuō huà (to talk)
-1. 積極 [积极] - jī jí (positive; enthusiastic)
 1. 跳舞 - tiào wǔ (to dance)
 1. 唱歌 (兒) - chàng gē (r) (to sing a song)
 1. 國歌 [国歌] - guó gē (national anthem)
@@ -356,7 +355,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 當然 [当然] - dāng rán (of course)
 1. 種 [种] - zhǒng (type, kind)
 1. 有用 - yǒu yòng (useful)
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8
+1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
 1. 上課 [上课] - shàng kè attend class
@@ -395,7 +394,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
 1. 紅 [红] - hóng (red)
 1. 紅油 [红油] - hóng yóu (red oil; chili oil)
-1. 坐 - zuò (to sit)
 1. 覺得 [觉得] - jué de (to feel)
 1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
@@ -405,12 +403,20 @@ Go to [this page](/tt-blue-lotus/)
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
 1. 試 [试] - shì (to try, to test)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
+1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
 1. 差不多 - chà bu duō (almost)
 1. 完全 - wán quán (completely)
 1. 借 - jiè  (to borrow; lend)
 1. 成 - chéng (to succeed; to become)
-1.  
 1. 熱 [热] - rè (hot)
 1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
 1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
+1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
+1. 坐 - zuò (to sit)
+1. 極了[极了] - jí le  (very, extremely)
+1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from Lesson 10*
+
+### Lesson 18
+1. 進 [进] - jìn (to enter)
+1. 搬 [般] - bān (to move)
 1.  
