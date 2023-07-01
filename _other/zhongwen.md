@@ -420,3 +420,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 進 [进] - jìn (to enter)
 1. 搬 [般] - bān (to move)
 1.  
+1. 間 - jiān (measure word for rooms)
+1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
+1. 屋子 - wūz (room)
+1.  
