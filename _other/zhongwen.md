@@ -422,7 +422,11 @@ Go to [this page](/tt-blue-lotus/)
 1. 間 - jiān (measure word for rooms)
 1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
 1. 屋子 - wūz (room)
+1. 山 - shān (mountain)
+1. 貴 [贵] - guì (expensive)
+1. 便宜 - pián yi (inexpensive)
+1. 城裏 [城里] - chéng lǐ (in town; in the city)
+1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
 1.  
-1.  
-1.  
+1. 時間 [时间] - shí jiān (time)
 1.  
