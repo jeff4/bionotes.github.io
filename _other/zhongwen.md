@@ -29,7 +29,7 @@ permalink: /zhongwen/
 1. 南京 - Nánjīng
 1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
-1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫
+1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 
 
 
