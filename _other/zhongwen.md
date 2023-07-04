@@ -178,7 +178,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 過來 [过来]- guò lái (come over here) 
 1. 過[过]- guò (to cross; to pass time)
 1. 現在 [现在] - xiàn zài (right now) 
-1. 時候 [时候] - shí hòu (time)
+1. 時候 [时候] - shí hòu (time) See also 時間 shí jiān in Lesson 18 
 1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
 1. 零 - líng (zero) 
 1. 一半 - yī bàn (one half)
@@ -353,7 +353,6 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 15
 1. 買[买] - mǎi (to buy)
 1. 賣[卖] - mài (to sell)
-1. 帶[带] - dài (to bring along, to carry)
 1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
 1. 當然 [当然] - dāng rán (of course)
 1. 種 [种] - zhǒng (type, kind)
@@ -363,8 +362,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
 1. 上課 [上课] - shàng kè attend class
 1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
-1. 問題 [问题] - wèn tí (question, problem)
-1. 回答 - huí dá (reply, response, answer)
 1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
 1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
 1. 方法 - fāng fǎ (method, way, means)
@@ -372,6 +369,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 互相 - hù xiāng (mutually)
 1. 要是...就 - yào shi...jiù (if...then...)
 1. 必須 [必须] - bì xū (should; present)
+1. 問題 [问题] - wèn tí (question, problem)
+1. 回答 - huí dá (reply, response, answer)
 
 ### Lesson 16
 1. 請 [请] - qǐng (please)
@@ -429,14 +428,22 @@ Go to [this page](/tt-blue-lotus/)
 1. 山 - shān (mountain)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
-1.  
+1. 方便 - fāng biàn (convenient)
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
+1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in Lesson 7
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1.  
-1. 時間 [时间] - shí jiān (time)
+1. 自行車 [自行车] - zì xíng chē (bicycle)
+1. 騎 [骑] - qí (to ride a bicycle or vehicle)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
-1.  
+1. 收音機 [收音机] - shōu yīn jī (radio)
+1. 回 - huí (to return) See also 回答 huí dá in Lesson 15
+1. 帶[带] - dài (to bring along, to carry)
+1. 免費 [免费] - miǎn fèi (free of charge) 
+1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
+1. 出 - chū (exit)
+1. 倒是 - dào shì (admittedly)
 
 ### Lesson 19
 1. 談話 [谈话] -  tán huà (to chat) 
+1.  
 1.  
