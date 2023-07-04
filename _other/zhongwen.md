@@ -421,10 +421,9 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
 1. 搬 [般] - bān (to move)
-1.  
 1. 間 - jiān (measure word for rooms)
-1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
 1. 屋子 - wūz (room)
+1. 一間屋子 - yī jiān wūz (a single bedroom); see Pleco for many other uses of 間
 1. 山 - shān (mountain)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
@@ -442,8 +441,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
 1. 出 - chū (exit)
 1. 倒是 - dào shì (admittedly)
+1.  
 
 ### Lesson 19
 1. 談話 [谈话] -  tán huà (to chat) 
-1.  
 1.  
