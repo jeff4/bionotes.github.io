@@ -268,6 +268,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
 1. 早 - zǎo (early) 
 1. 晚 - wǎn (late)
+1. 早安 - zǎo'ān (good morning)
+1. 晚安 - wǎn'ān (good evening)
 1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
 1. 東西 [东西] - dōng xi (thing)
 1. 已經 [已经] - yǐ jīng (already)
@@ -419,14 +421,17 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
 1. 搬 [般] - bān (to move)
+1.  
 1. 間 - jiān (measure word for rooms)
 1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
 1. 屋子 - wūz (room)
 1. 山 - shān (mountain)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
+1.  
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
+1.  
 1. 時間 [时间] - shí jiān (time)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1.  
