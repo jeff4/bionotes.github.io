@@ -336,7 +336,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 交 - jiāo (to hand in an assignment)
 1. 注意 - zhù yì (pay close attention)
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
-1. 报告 - bào gào (report)
+1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
 1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
 1. 别人 - bié rén (other people). Originally introduced in Lesson 16
 1. 事情 - shì qing (matter, affair, issue)
@@ -368,7 +368,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
 1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
 1. 方法 - fāng fǎ (method, way, means)
-1. 告訴 [告诉] - gào su (to tell some)
+1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
 1. 互相 - hù xiāng (mutually)
 1. 要是...就 - yào shi...jiù (if...then...)
 1. 必須 [必须] - bì xū (should; present)
@@ -422,14 +422,17 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
 1. 搬 [般] - bān (to move)
+1.  
 1. 間 - jiān (measure word for rooms)
 1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
 1. 屋子 - wūz (room)
 1. 山 - shān (mountain)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
+1.  
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
+1.  
 1. 時間 [时间] - shí jiān (time)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1.  
