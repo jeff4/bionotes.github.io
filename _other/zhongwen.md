@@ -437,12 +437,21 @@ Go to [this page](/tt-blue-lotus/)
 1. 收音機 [收音机] - shōu yīn jī (radio)
 1. 回 - huí (to return) See also 回答 huí dá in Lesson 15
 1. 帶[带] - dài (to bring along, to carry)
-1. 免費 [免费] - miǎn fèi (free of charge) 
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
+1. 免費 [免费] - miǎn fèi (free of charge) 
 1. 出 - chū (exit)
 1. 倒是 - dào shì (admittedly)
-1.  
 
 ### Lesson 19
 1. 談話 [谈话] -  tán huà (to chat) 
+1. 就是 - jiù shì (exactly). See Pleco for many other uses
+1. 台北 - Tái běi (Taipei)
+1. 忘 - wàng (to forget)
 1.  
+1. 父母 - fù mǔ (parents)
+1. 父親 [父亲] fù qin (father); 爸爸 bà ba
+1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
+1. 哥哥 - gē ge (older brother)
+1. 弟弟 - dì di (younger brother)
+1. 姐姐 - jiě jie (older sister)
+1. 妹妹 - mèi mei (younger sister)
