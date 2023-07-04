@@ -19,7 +19,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰[继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-#### 6/16 - 6/28
+#### 6/16 - 7/04
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -29,6 +29,9 @@ permalink: /zhongwen/
 1. 南京 - Nánjīng
 1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
+1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫
+
+
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -275,8 +278,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 已經 [已经] - yǐ jīng (already)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 開[开] - kāi (to open)  
-1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 
-沒關係 méi guān xi from *Lesson 13*.  
+1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *Lesson 13*.  
 1. 哈佛 - Hāfó (Harvard) 
 
 
@@ -421,22 +423,18 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
 1. 搬 [般] - bān (to move)
-1.  
 1. 間 - jiān (measure word for rooms)
 1. 一間臥室 yī jiān wò shì (a bedroom); see Pleco for many other uses of 間
 1. 屋子 - wūz (room)
 1. 山 - shān (mountain)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
-1.  
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1.  
 1. 時間 [时间] - shí jiān (time)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1.  
 
 ### Lesson 19
 1. 談話 [谈话] -  tán huà (to chat) 
-1.  
 1.  
