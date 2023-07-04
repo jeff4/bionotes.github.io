@@ -32,7 +32,6 @@ permalink: /zhongwen/
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 
 
-
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
 ## Food
@@ -302,7 +301,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 清楚 - qīng chu (clarity, to be clear about, to understand)
 1. 復⧸複習 [复习] - fù xí (to review; revision)
 1. 語法 [语法] - yǔ fǎ (grammar)
-1. 辦法 [办法] - bàn fǎ (solution)
+1. 辦法 [办法] - bàn fǎ (solution) See also *Lesson 15*
 1. 法國 - Fǎ guó (France)
 1. 課文 [课文] - kè wén (text)
 1. 功課 [功课] - gōng kè (homework; schoolwork)  
@@ -367,7 +366,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 問題 [问题] - wèn tí (question, problem)
 1. 回答 - huí dá (reply, response, answer)
 1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
-1. 辦法 [办法] - bàn fǎ (way, means, measure)
+1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
 1. 方法 - fāng fǎ (method, way, means)
 1. 告訴 [告诉] - gào su (to tell some)
 1. 互相 - hù xiāng (mutually)
