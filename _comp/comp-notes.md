@@ -190,3 +190,4 @@ permalink: /comp-notes/
 * 5/04 [Seven ur-languages of programming](https://madhadron.com/programming/seven_ur_languages.html) from 2021. [HN thread](https://news.ycombinator.com/item?id=35813496)
 * 5/07 Sample [dotfiles from Rachel Kroll](https://rachelbythebay.com/w/2023/05/05/dot/)
 * 5/18 Reminiscing about building out [Google's infrastructure by scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/) and [HN thread](https://news.ycombinator.com/item?id=35988984)
+* 7/05 From February, 2023, ['A human just defeated an AI in Go. Here’s why that matters'](https://news.ycombinator.com/item?id=36590242), and [HN thread](https://news.ycombinator.com/item?id=36590242)
