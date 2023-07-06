@@ -441,4 +441,3 @@ sitemap: false
 * ['Runway, a startup building generative AI for content creators, raises $141M'](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
 * Voice.ai is a more mass-market "everyman" competitor to ElevenLabs with a real-time voice changer. [Raised $6m](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
 
-
