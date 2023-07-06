@@ -429,3 +429,16 @@ sitemap: false
 
 ## 27 June 2023
 * Forbes article on [problems at Stability AI](https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration/?sh=548add1075c5) and exaggerations/lies told by founder Emad Mostaque
+* ['BentoML scores $9M funding to expedite AI app development'](https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/)
+* ['Inflection lands $1.3B investment to build more "personal" AI'](https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/)
+
+## 06 July 2023
+* [Databricks aquires MosaicML for $1.3B](https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/)
+* [DeepMind claims forthcoming Gemini chatbot will rival ChatGPT](https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/)
+* French startup Dust is not building it's own LLM. Instead, it uses existing LLMs to [train on internal company data to improve company productivity](https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/)
+* Loora is an audio-only generative AI company that [just raised $9M](https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/)
+* ['Reka emerges from stealth to build custom AI models for the enterprise'](https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/)
+* ['Runway, a startup building generative AI for content creators, raises $141M'](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
+* Voice.ai is a more mass-market "everyman" competitor to ElevenLabs with a real-time voice changer. [Raised $6m](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
+
+
