@@ -17,7 +17,7 @@ permalink: /zhongwen/
 
 #### 5/25
 * HBO Succession
-* 繼承之戰[继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
+* 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
 #### 6/16 - 7/10
 1. 個 [个] - gè (measure word)
