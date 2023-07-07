@@ -31,6 +31,7 @@ permalink: /zhongwen/
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 1. 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
+	1. 戰國 - zhàn guó (Warring States period,  250 years to 220 BC)
 	1. **秦朝** - qín cháo (**Qin Dynasty**, 15 years to 205 BC) 
 	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
 	1. 新 - xīn cháo (**Xin Dynasty**, 15 years to 26 AD) 
