@@ -40,7 +40,7 @@ permalink: /zhongwen/
 	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
 1. 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
 	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 15 years to 205 BC) 
+	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
 	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
 	1. 新 - xīn cháo (Xin Dynasty, 15 years to 26 AD) 
 	1. **東漢** - dōng hàn cháo (**Eastern Han Dynasty**, 195 years to 220 AD) 
@@ -478,4 +478,3 @@ Go to [this page](/tt-blue-lotus/)
 1. 弟弟 - dì di (younger brother)
 1. 姐姐 - jiě jie (older sister)
 1. 妹妹 - mèi mei (younger sister)
-1.  
