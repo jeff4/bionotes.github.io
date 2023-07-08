@@ -441,3 +441,8 @@ sitemap: false
 * ['Runway, a startup building generative AI for content creators, raises $141M'](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
 * Voice.ai is a more mass-market "everyman" competitor to ElevenLabs with a real-time voice changer. [Raised $6m](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
 
+## 08 July 2023
+* ['The week in AI: Generative AI spams up the web'](https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/)
+* ['SpeedyBrand uses generative AI to create SEO-optimized content'](https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/)
+* ['Meituan buys founder’s months-old ‘OpenAI for China’ for $234M'](https://techcrunch.com/2023/06/29/meituan-buys-founders-months-old-openai-for-china-for-280m/)
+* ['Speakeasy is using AI to automate API creation and distribution'](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
