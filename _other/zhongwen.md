@@ -15,7 +15,7 @@ permalink: /zhongwen/
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
-## 7/07/2023
+## 7/07/2023 - Chinese History
 * Major Dynasties
 	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
 	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
