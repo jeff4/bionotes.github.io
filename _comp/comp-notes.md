@@ -192,3 +192,6 @@ permalink: /comp-notes/
 * 5/18 Reminiscing about building out [Google's infrastructure by scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/) and [HN thread](https://news.ycombinator.com/item?id=35988984)
 * 7/05 From February, 2023, ['A human just defeated an AI in Go. Here’s why that matters'](https://news.ycombinator.com/item?id=36590242), and [HN thread](https://news.ycombinator.com/item?id=36590242)
 * 7/06 Meta/FB/Instagram launched Threads today and here's an [HN article](https://news.ycombinator.com/item?id=36612835) about how the backend is built in Python 3.10
+* 7/09 Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK): 
+	* [Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)
+	* [Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)
