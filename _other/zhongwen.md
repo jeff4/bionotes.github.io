@@ -15,22 +15,8 @@ permalink: /zhongwen/
 	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
-#### 5/25
-* HBO Succession
-* 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
-
-#### 6/16 - 7/10
-1. 個 [个] - gè (measure word)
-1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
-1. 到 - dào (arrive)
-1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in Lesson 17.
-1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
-1. 南京 - Nánjīng
-1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
-1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
-1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
-1. Major Dynasties
+## 7/07/2023
+* Major Dynasties
 	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
 	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
 	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
@@ -38,7 +24,7 @@ permalink: /zhongwen/
 	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) 
 	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
 	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
-1. 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
+* 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
 	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
 	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
 	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
@@ -55,6 +41,23 @@ permalink: /zhongwen/
 	1. 元 - yuán cháo (**Yuan Dynasty**, 97 years to 1368 AD) 
 	1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
 	1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
+
+## 5/25
+* HBO Succession
+* 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
+
+## 6/16 - 7/15
+1. 個 [个] - gè (measure word)
+1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
+1. 到 - dào (arrive)
+1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in Lesson 17.
+1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
+1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
+1. 南京 - Nánjīng
+1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
+1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
+1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
+1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
