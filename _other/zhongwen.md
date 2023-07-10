@@ -478,7 +478,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 弟弟 - dì di (younger brother)
 1. 姐姐 - jiě jie (older sister)
 1. 妹妹 - mèi mei (younger sister)
-1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
 1. 大夫 - dài fu (*colloquial* doctor, physician) 
 1. 大夫 - dà fū (*archaic* senior official)
 1. 談話 [谈话] -  tán huà (to chat) 
@@ -487,5 +486,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 客氣 [客气] - kè qi (polite, courteous)
 1. 住 - zhù (to live at)
 1. 習慣 [习惯] - xí guàn (to be used to) 
+1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
 1. 啊 - à ("ah" as an interjection)
 1.  
