@@ -228,7 +228,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 問 - wèn (to ask) 
 1. 宿舍 - sù shè (dormitory) 
 1. 一起 - yī qǐ (together) 
-1. 對不起 [对不起] - duì bù qǐ (i'm sorry) 
+1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Originally from Lesson 20
 1. 有事兒 - yǒu shèr (busy) 
 1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
 1. 喜歡 [喜欢] - xǐ huan (to like) 
@@ -488,4 +488,9 @@ Go to [this page](/tt-blue-lotus/)
 1. 習慣 [习惯] - xí guàn (to be used to) 
 1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
 1. 啊 - à ("ah" as an interjection)
+
+### Lesson 20
+1. 電話 [电话] - diàn huà (telephone)
+1. 手機 [手机] - shǒu jī (mobile phone)
+1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
 1.  
