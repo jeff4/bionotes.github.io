@@ -443,6 +443,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 坐 - zuò (to sit)
 1. 極了[极了] - jí le  (very, extremely)
 1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from Lesson 10*
+1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from Lesson 19*
 
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
@@ -480,17 +481,10 @@ Go to [this page](/tt-blue-lotus/)
 1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
 1. 大夫 - dài fu (*colloquial* doctor, physician) 
 1. 大夫 - dà fū (*archaic* senior official)
-1.  
-1.  
-1.  
 1. 談話 [谈话] -  tán huà (to chat) 
-1. 就是 - jiù shì (exactly). See Pleco for many other uses
 1. 台北 - Tái běi (Taipei)
 1. 忘 - wàng (to forget)
-1.  
-1.  
-1.  
-1.  
+1. 客氣 [客气] - kè qi (polite, courteous)
 1. 住 - zhù (to live at)
 1. 習慣 [习惯] - xí guàn (to be used to) 
 1. 啊 - à ("ah" as an interjection)
