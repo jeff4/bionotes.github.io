@@ -5,7 +5,7 @@ permalink: /zhongwen/
 
 ## 2023 Log
 * 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
-* 6/13 - More misc.
+* 6/13/2023 - Miscellaneous 
 	* 貓 [猫] - māo (cat)
 	* 貓爪子 [猫爪子]- māo zhǎo zi (cat claws)
 	* 老虎 - lǎo hǔ (tiger)
