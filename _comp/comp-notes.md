@@ -188,3 +188,8 @@ permalink: /comp-notes/
 * 7/09 Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK): 
 	* [Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)
 	* [Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)
+* 7/11 More links on sed from Hacker News:
+	* Grymoire's [Intro and Tutorial for Sed by Bruce Barnett](https://www.grymoire.com/Unix/sed.html) and associated [2015 HN thread](https://news.ycombinator.com/item?id=8851124) with a [comment about Grymoire's similar awk tutorial](https://news.ycombinator.com/item?id=8853658). Plus Grymoire's [grep tutorial](https://www.grymoire.com/Unix/Grep.html)
+	* [Differences between grep, sed, awk from Linode](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/#the-differences-between-grep-sed-and-awk) and [2023 HN thread](https://news.ycombinator.com/item?id=34280281)
+	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
+	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
