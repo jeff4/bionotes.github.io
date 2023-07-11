@@ -36,3 +36,8 @@ permalink: /vim/
 		* e.g., gu$ makes everything lowercase to the end of the line.
 		* e.g., gU5w makes the next 5 words uppercase
 * 5/04 [List of vim-friendly apps and utilities](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) and associated [HN thread](https://news.ycombinator.com/item?id=35816361)
+* 7/11 Vim's implementation of grep. Some links discussing various flavors of regex related to perl, vim, Basic Regular Expression (BRE) synatx, Extended Regular Expression (ERE) synatx, etc.
+	* Very short [comparison of regex flavors](http://vimregex.com/#compare) from this [Guide to regex in vim](http://vimregex.com/)
+	* [Stack overflow question from 2010](https://stackoverflow.com/questions/3864467/whats-the-difference-between-vim-regex-and-normal-regex). See this [comment](https://stackoverflow.com/a/14851587) and also use vim *:help perl-patterns*
+	* vim's regex mode, invoked by prepending with \v. See vim *:help /\v*
+	* See also vim *:help pattern*
