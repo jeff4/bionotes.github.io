@@ -21,7 +21,7 @@ permalink: /zhongwen/
 	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
 	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
 	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
-	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) 
+	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from Lesson 11
 	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
 	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
 * 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
@@ -522,24 +522,3 @@ Go to [this page](/tt-blue-lotus/)
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
 1. 身體 [身体] - shēn tǐ (body)
 1.  
-
-### Lesson 22
-### Lesson 23
-### Lesson 24
-### Lesson 25
-### Lesson 26
-### Lesson 27
-### Lesson 28
-### Lesson 29
-### Lesson 30
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
-
