@@ -510,4 +510,36 @@ Go to [this page](/tt-blue-lotus/)
 1. 發展 [发展] - fā zhǎn (to develop)
 1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin)
 1. 醫院 [医院] - yī yuàn (hospital)
+
+### Lesson 21
+1. 信 - xìn (letter)
+1. 病人 - bìng rén (sick person, patient)
+1. 或者 - huò zhě (either...or...)
+1. 熱情 [热情] - rè qíng (warm, compassionate)
+1. 送 - sòng (to send)
+1. 決定 [决定] - jué dìng (to decide)
+1. 搞 - gǎo (to get tangled with)
+1. 小說 [小说] - xiǎo shuō (*noun* a novel)
+1. 身體 [身体] - shēn tǐ (body)
 1.  
+
+### Lesson 22
+### Lesson 23
+### Lesson 24
+### Lesson 25
+### Lesson 26
+### Lesson 27
+### Lesson 28
+### Lesson 29
+### Lesson 30
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
+
