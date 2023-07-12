@@ -305,6 +305,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 已經 [已经] - yǐ jīng (already)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 開[开] - kāi (to open)  
+1. 開車 [开车] - kāi chē (to drive a car) originally from Lesson 20
 1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *Lesson 13*.  
 1. 哈佛 - Hāfó (Harvard) 
 
@@ -490,7 +491,48 @@ Go to [this page](/tt-blue-lotus/)
 1. 啊 - à ("ah" as an interjection)
 
 ### Lesson 20
+1. 再見 [再见] - zài jiàn (goodbye)
+1. 一會兒 [一会儿] - yī huì(r) (in a moment)
 1. 電話 [电话] - diàn huà (telephone)
 1. 手機 [手机] - shǒu jī (mobile phone)
 1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
+1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Lesson 8
 1.  
+1. 走路 - zǒu lù (to walk on a road)
+1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
+1. 喂 - wéi? (hello when answering the phone)  
+1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
+1. 奇怪 - qí guài (strange, weird)
+1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
+1. 藥 [药] - yào (medicine)
+1. 片兒 [片儿] - piān(r) (a piece)
+1. 病 - bìng (illness)
+1. 感冒 - gǎn mào (to catch a cold)
+1. 發燒 [发烧] - fā shāo (to run a fever)
+1. 發展 [发展] - fā zhǎn (to develop)
+1.  
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin)
+1.  
+1.  
+
+### Lesson 21
+### Lesson 22
+### Lesson 23
+### Lesson 24
+### Lesson 25
+### Lesson 26
+### Lesson 27
+### Lesson 28
+### Lesson 29
+### Lesson 30
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
+
