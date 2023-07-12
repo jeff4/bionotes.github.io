@@ -303,6 +303,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
 1. 東西 [东西] - dōng xi (thing)
 1. 已經 [已经] - yǐ jīng (already)
+1. 經過 [经过] - jīng guò (pass, go through, undergo)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 開[开] - kāi (to open)  
 1. 開車 [开车] - kāi chē (to drive a car) originally from Lesson 20
