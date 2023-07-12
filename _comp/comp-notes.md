@@ -193,3 +193,4 @@ permalink: /comp-notes/
 	* [Differences between grep, sed, awk from Linode](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/#the-differences-between-grep-sed-and-awk) and [2023 HN thread](https://news.ycombinator.com/item?id=34280281)
 	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
 	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
+* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
