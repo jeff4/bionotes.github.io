@@ -237,3 +237,9 @@ permalink: /gen-ai/
 * From February, 2023, ['A human just defeated an AI in Go. Here’s why that matters'](https://news.ycombinator.com/item?id=36590242), and [HN thread](https://news.ycombinator.com/item?id=36590242)
 * How metaphors shape our understanding of computing and AI ['https://windowsontheory.org/2023/06/28/metaphors-for-ai-and-why-i-dont-like-them/'](https://windowsontheory.org/2023/06/28/metaphors-for-ai-and-why-i-dont-like-them/)
 * [July 2023 Bret Victor / worrydream update HN thread](https://news.ycombinator.com/item?id=36596095&ref=upstract.com). Older Vimeo 2014-era videos [Victor's CV](http://worrydream.com/#!/cv): Short [15-minute Seeing Spaces](http://worrydream.com/SeeingSpaces/) and longer 55-minute [Humane Representation of Thought](https://vimeo.com/115154289)
+
+## 11 July 2023
+* New personal [guide to LangChain](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/) and associated [HN thread](https://news.ycombinator.com/item?id=36669866) 
+
+
+
