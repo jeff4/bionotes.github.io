@@ -361,7 +361,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 話劇 [话剧] huà jù (a play)
 1. 通知 - tōng zhī (paper notice; announcement)
 1. 交 - jiāo (to hand in an assignment)
-1. 注意 - zhù yì (pay close attention)
+1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19 
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
 1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
 1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
@@ -485,7 +485,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 台北 - Tái běi (Taipei)
 1. 忘 - wàng (to forget)
 1. 客氣 [客气] - kè qi (polite, courteous)
-1. 住 - zhù (to live at)
+1. 住 - zhù (to live at). See also 注意 *zhù yì* from Lesson 14.
 1. 習慣 [习惯] - xí guàn (to be used to) 
 1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
 1. 啊 - à ("ah" as an interjection)
