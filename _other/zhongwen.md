@@ -509,4 +509,5 @@ Go to [this page](/tt-blue-lotus/)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 發展 [发展] - fā zhǎn (to develop)
 1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin)
+1. 醫院 [医院] - yī yuàn (hospital)
 1.  
