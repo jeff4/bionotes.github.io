@@ -114,6 +114,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 乾淨 - gān jing (clean) 
 1. 本子  - běn zi (notebook) 
 1. 對不對 - duì bù duì (is that right?)
+1. 對 - duì (correct; to, towards -- second def is from Lesson 21)
 1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
 1. 朋友 - péng yǒu
 1. 中文 - Zhōng wén 
@@ -522,4 +523,18 @@ Go to [this page](/tt-blue-lotus/)
 1. 搞 - gǎo (to get tangled with)
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
 1. 身體 [身体] - shēn tǐ (body)
+1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
+1. 替 - tì (take the place of; replace, substitute for)
+1. ...史 - shǐ (history of ...)
+1. 翻譯 [翻译] - fān yì (translate)
+1. 冷 - lěng (cold)
+1. 希望 - xī wàng (hope - both noun and verb)
+1. 祝 - zhù (to wish well, e.g., 祝你好)
+1.  
+1. 還 [还] - huán (to go back to; to give back, repay) from Lesson 5. Delete when done
+1. 給 [给] - gěi (to give) from Lesson 4. Delete when done
+1. 對 - duì (correct; to, towards -- second def is from Lesson 3) Delete when done
+1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
+
+### Lesson 22
 1.  
