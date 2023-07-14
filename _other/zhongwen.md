@@ -57,7 +57,7 @@ permalink: /zhongwen/
 1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
-1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok
+1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -261,7 +261,7 @@ Go to [this page](/tt-blue-lotus/)
  * 兒 [儿]		THIS is 'r'
  * 邊 [边] - bian		THIS is 'b' 
  * 裏⧸裡 [里] - lǐ		THIS is 'k' 
- * 裏⧸裡 - lǐ		THIS IS 'l'
+ * 了 - le 		THIS IS 'l'
  * 'h navigates to 還[还] *or* and *return*
 
 ### Lesson 10
@@ -537,4 +537,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
 
 ### Lesson 22
-1.  
+1. 就要...了 -  jiù yào...le (about to...)
+1. 春節 [春节] - Chūn Jié (Spring Festival)
+1. 它⧸牠 - tā (it)
+1. 一樣 [一样] - yī yàng (to be the same)
