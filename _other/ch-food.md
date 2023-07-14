@@ -9,7 +9,7 @@ permalink: /ch-food/
 1. 魚 [鱼] - yú 
 1. 豬 [猪] - zhū ròu  
 1. 鷄/雞 [鸡] - jī ròu 
-1. 蝦 [虾]- xiā 
+1. 蝦 [虾]- xiā. See also 放假 *fàng jià* from Lesson 22.
 1. 豆腐 - dòu fu
 1. 乾扁牛 [干扁牛] - gān biǎn niú (Dry Cooked Shredded Beef)
 1. 乾扁羊 [干扁羊] - gān biǎn yáng (Dry Cooked Shredded Lamb)
