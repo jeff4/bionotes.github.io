@@ -363,7 +363,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 話劇 [话剧] huà jù (a play)
 1. 通知 - tōng zhī (paper notice; announcement)
 1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
-1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19 
+1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19. And 有意思 *yǒu yì si* from Lesson 45.
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
 1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
 1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
