@@ -402,13 +402,14 @@ Go to [this page](/tt-blue-lotus/)
 1. 回答 - huí dá (reply, response, answer)
 
 ### Lesson 16
-1. 請 [请] - qǐng (please)
+1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in Lesson 22
 1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
 1. 課本 [课本] - kè běn (textbook)
 1. 剛 [刚] - gāng (just) see also Lesson 11
 1. 完 - wán (finished, e.g., 吃完了)
 1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
 1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
+1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in Lesson 22.
 1. 書店 [书店] - shū diàn (bookstore)
 1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
 1. 高 - gāo (high) 
@@ -541,4 +542,13 @@ Go to [this page](/tt-blue-lotus/)
 1. 放假 - fàng jià (to have vacation)
 1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
 1. 錯 [错] - cuò (wrong). See also Lesson 12.
+1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
+1. 筷子 - kuài zi (chopsticks)
+1. 餓 [饿] - è (hungry)
+1. 家 - jiā (house)
+1. 飯館 [饭馆] - fàn guǎn (restaurant)
+1. 難 [难] - nán (difficult, hard)
+
+### Lesson 23
+1. 天氣 [天气] - tiān qì (weather)
 1.  
