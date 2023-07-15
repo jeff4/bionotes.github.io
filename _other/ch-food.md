@@ -28,7 +28,7 @@ permalink: /ch-food/
 1. 牛肉卷饼 *simp* - niúròu juǎnbǐng (beef inside wrapped pancake) 
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
 1. 紅油龍炒手 - hóngyóu lóng chǎoshǒu. Spicy Pork Wontons. *literal* red oil dragon sauteed hands.  炒手 aka ['crossed hands'](https://en.wikipedia.org/wiki/Wonton#Sichuan_cuisine) is a nickname from Sichuan Cuisine
-1. 水餃 [水饺] - shuǐ jiǎ (boiled dumplings)
+1. 水餃 [水饺] - shuǐ jiǎ (boiled dumplings) see also 交 - jiāo (to hand in assignment) from Lesson 14 
 1.  
 1. 菜單 [菜单] - cài dān (menu) 
 
