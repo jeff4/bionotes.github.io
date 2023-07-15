@@ -319,7 +319,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 哦 - ó (*interjection* expressing doubt)
 1. 哦 - ò (*interjection* expressing realization; understanding) 
 1. 聽 [听] - tīng (to listen)
-1. 不錯 [不错] - bù cuò (correct; not bad; pretty good)
+1. 不錯 [不错] - bù cuò (correct; not bad; pretty good). See also Lesson 22.
 1. 句 - jù (measure word for sentence)
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
@@ -530,14 +530,15 @@ Go to [this page](/tt-blue-lotus/)
 1. 冷 - lěng (cold)
 1. 希望 - xī wàng (hope - both noun and verb)
 1. 祝 - zhù (to wish well, e.g., 祝你好)
-1.  
-1. 還 [还] - huán (to go back to; to give back, repay) from Lesson 5. Delete when done
-1. 給 [给] - gěi (to give) from Lesson 4. Delete when done
-1. 對 - duì (correct; to, towards -- second def is from Lesson 3) Delete when done
-1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
 
 ### Lesson 22
 1. 就要...了 -  jiù yào...le (about to...)
 1. 春節 [春节] - Chūn Jié (Spring Festival)
 1. 它⧸牠 - tā (it)
 1. 一樣 [一样] - yī yàng (to be the same)
+1. 像 - xiàng (to resemble)
+1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
+1. 放假 - fàng jià (to have vacation)
+1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
+1. 錯 [错] - cuò (wrong). See also Lesson 12.
+1.  
