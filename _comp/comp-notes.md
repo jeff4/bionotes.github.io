@@ -203,3 +203,7 @@ permalink: /comp-notes/
 	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
 	* This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
+* Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
+
+## 7/14 - awk
+* Watched [intro video to awk](https://youtu.be/jJ02kEETw70)
