@@ -517,7 +517,7 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 21
 1. 信 - xìn (letter)
 1. 病人 - bìng rén (sick person, patient)
-1. 或者 - huò zhě (either...or...)
+1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from Lesson 5
 1. 熱情 [热情] - rè qíng (warm, compassionate)
 1. 送 - sòng (to send)
 1. 決定 [决定] - jué dìng (to decide)
@@ -531,6 +531,11 @@ Go to [this page](/tt-blue-lotus/)
 1. 冷 - lěng (cold)
 1. 希望 - xī wàng (hope - both noun and verb)
 1. 祝 - zhù (to wish well, e.g., 祝你好)
+1.  
+1. 還 [还] - huán (to go back to; to give back, repay) from Lesson 5. Delete when done
+1. 給 [给] - gěi (to give) from Lesson 4. Delete when done
+1. 對 - duì (correct; to, towards -- second def is from Lesson 3) Delete when done
+1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
 
 ### Lesson 22
 1. 就要...了 -  jiù yào...le (about to...)
@@ -548,7 +553,12 @@ Go to [this page](/tt-blue-lotus/)
 1. 家 - jiā (house)
 1. 飯館 [饭馆] - fàn guǎn (restaurant)
 1. 難 [难] - nán (difficult, hard)
+1.  
+1. 過[过]- guò (to cross; to pass time) Originally from Lesson 7. Delete when finished
+1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
+1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from Lesson 16. Delete when finished
+1. 菜 - cài (vegetable) DELETE WHEN FINISHED.
+1. 南方 - nán fāng (from the South, "Southern Style"). Placed into Lesson 16; delete when finished
 
 ### Lesson 23
 1. 天氣 [天气] - tiān qì (weather)
-1.  
