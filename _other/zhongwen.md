@@ -369,7 +369,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
 1. 别人 - bié rén (other people). Originally introduced in Lesson 16
 1. 事情 - shì qing (matter, affair, issue)
-1. 家 - jiā  
 1. 有名 - yǒu míng  
 1. 不停的 - bù tíng de (without stopping) 
 1. 拊手 - fǔ shǒu (to clap hands)
