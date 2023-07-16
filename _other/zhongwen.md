@@ -561,3 +561,5 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 23
 1. 天氣 [天气] - tiān qì (weather)
+1. 冬天 - dōng tiān (winter)
+1. 真 - zhēn (really; real)
