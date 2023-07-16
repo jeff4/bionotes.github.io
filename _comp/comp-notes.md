@@ -206,5 +206,5 @@ permalink: /comp-notes/
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
 ## 7/14 - 7/16 awk
-* Watched [intro video to awk](https://youtu.be/jJ02kEETw70) (20 minutes long)
-* Good history and tutorial [video for awk](https://youtu.be/E5aQxIdjT0M) (1 hour long)
+* Watched [intro video to awk by Gary Explains](https://youtu.be/jJ02kEETw70) (20 minutes long)
+* Ben Porter's [history and tutorial video for awk](https://youtu.be/E5aQxIdjT0M) (1 hour long) 
