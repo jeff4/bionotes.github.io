@@ -207,4 +207,4 @@ permalink: /comp-notes/
 
 ## 7/14 - 7/16 awk
 * Watched [intro video to awk](https://youtu.be/jJ02kEETw70)
-* Good history and tutorial [video for awk](https://www.youtube.com/watch?v=43BNFcOdBlY)
+* Good history and tutorial [video for awk](https://youtu.be/E5aQxIdjT0M)
