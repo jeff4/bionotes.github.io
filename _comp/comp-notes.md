@@ -205,5 +205,6 @@ permalink: /comp-notes/
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
-## 7/14 - awk
+## 7/14 - 7/16 awk
 * Watched [intro video to awk](https://youtu.be/jJ02kEETw70)
+* Good history and tutorial [video for awk](https://www.youtube.com/watch?v=43BNFcOdBlY)
