@@ -361,7 +361,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 同學 [同学] tóng xué (schoolmate) 
 1. 演 - yǎn (perform, play, act in a play)
 1. 話劇 [话剧] huà jù (a play)
-1. 通知 - tōng zhī (paper notice; announcement)
+1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from Lesson 20
 1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
 1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19. And 有意思 *yǒu yì si* from Lesson 5.
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
@@ -510,7 +510,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 感冒 - gǎn mào (to catch a cold)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 發展 [发展] - fā zhǎn (to develop)
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin)
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from Lesson 14
 1. 醫院 [医院] - yī yuàn (hospital)
 
 ### Lesson 21
