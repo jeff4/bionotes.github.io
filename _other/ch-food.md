@@ -54,23 +54,23 @@ permalink: /ch-food/
 1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
 
 ### Lesson 15
-1. 要是...就 - yào shi...jiù (if...then...)
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
 1. 方法 - fāng fǎ (method, way, means)
-1. 買[买] - mǎi (to buy)
+1. 當然 [当然] - dāng rán (of course)
+1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
+1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
 1. 賣[卖] - mài (to sell)
 1. 有用 - yǒu yòng (useful)
-1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
-1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
-1. 當然 [当然] - dāng rán (of course)
-1. 互相 - hù xiāng (mutually)
-1. 上課 [上课] - shàng kè attend class
-1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
-1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
-1. 回答 - huí dá (reply, response, answer)
-1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
-1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 問題 [问题] - wèn tí (question, problem)
-1. 種 [种] - zhǒng (type, kind)
+1. 要是...就 - yào shi...jiù (if...then...)
 1. 必須 [必须] - bì xū (should; present)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
+1. 上課 [上课] - shàng kè attend class
+1. 問題 [问题] - wèn tí (question, problem)
+1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
+1. 種 [种] - zhǒng (type, kind)
+1. 回答 - huí dá (reply, response, answer)
+1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
+1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
+1. 買[买] - mǎi (to buy)
+1. 互相 - hù xiāng (mutually)
+1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
+1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
