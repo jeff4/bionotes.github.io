@@ -46,7 +46,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-## 6/16 - 7/15
+## 6/16 - 7/19
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -58,6 +58,9 @@ permalink: /zhongwen/
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
+1. 嗑藥 [嗑药] - kè yào (to take drugs). See also Lesson 20.
+
+
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -504,7 +507,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
 1. 奇怪 - qí guài (strange, weird)
 1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
-1. 藥 [药] - yào (medicine)
+1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
 1. 片兒 [片儿] - piān(r) (a piece)
 1. 病 - bìng (illness)
 1. 感冒 - gǎn mào (to catch a cold)
