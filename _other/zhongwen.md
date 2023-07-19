@@ -59,8 +59,7 @@ permalink: /zhongwen/
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
 1. 嗑藥 [嗑药] - kè yào (to take drugs). See also Lesson 20.
-
-
+1. 騙 [骗] - piàn (to fool, to trick). From CH.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
