@@ -446,3 +446,10 @@ sitemap: false
 * ['SpeedyBrand uses generative AI to create SEO-optimized content'](https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/)
 * ['Meituan buys founder’s months-old ‘OpenAI for China’ for $234M'](https://techcrunch.com/2023/06/29/meituan-buys-founders-months-old-openai-for-china-for-280m/)
 * ['Speakeasy is using AI to automate API creation and distribution'](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
+
+## 18 July 2023
+* Links related to Meta's joint launch with Microsoft of LLaMA 2. [Verge article](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft), [Statement of Open Source support](https://about.fb.com/news/2023/07/llama-2-statement-of-support/), [NY Times article](https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html) by Cade Metz and Mike Isaac, and [HN](https://news.ycombinator.com/item?id=36774627), and Simon Willison's supporting [update to his CLI tool](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)  
+
+
+
+
