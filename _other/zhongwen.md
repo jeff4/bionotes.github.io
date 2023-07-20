@@ -1,594 +1,473 @@
 ---
-title: Chinese Notes
-permalink: /zhongwen/
+title: Startups v Incumbents 2023 
+permalink: /startups-v-incumbents-2023a/
+sitemap: false
 ---
 
-## 2023 Log
-* 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
-* 6/13/2023 - Miscellaneous 
-	* 貓 [猫] - māo (cat)
-	* 狗 - gǒu (dog)
-	* 貓爪子 [猫爪子]- māo zhǎo zi (cat claws)
-	* 老虎 - lǎo hǔ (tiger)
-	* 老虎爪子 - lǎo hǔ zhǎo zi (tiger claws)
-	* 爪 zhǎo / zhuǎ (two alternative pronunciations) - the noun of claw; the full character form of the 'claw' which is the [radical](https://www.chinasage.info/chars/frad_claw.htm) used in 'love' 愛, 'chicken' 鷄, 'vegetable' 菜.
-	* 抓住 - zhuā zhù (verb 'to grab')
-	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
-	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
+## Wednesday 01 March 2023
+* Elad Gil #1: [Startups v Incumbents: who will capture value?](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value) published 10/25/2022
+* Elad Gil #2: Difference between [LLM, image gen and between platforms/markets/open-source](https://blog.eladgil.com/p/ai-platforms-markets-and-open-source) published 2/15/2023
+* Elad Gil #3: [Transformers and LLMs](https://blog.eladgil.com/p/ai-revolution-transformers-and-large) published 8/30/2022
+* a16z on [who owns the generative AI platform](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/) published 1/19/2023
+	* We’re starting to see the very early stages of a tech stack emerge in generative artificial intelligence (AI). Hundreds of new startups are rushing into the market to develop foundation models, build AI-native apps, and stand up infrastructure/tooling.
+	* In other words, the companies creating the most value — i.e. training generative AI models and applying them in new apps — haven’t captured most of it. Predicting what will happen next is much harder. But we think the key thing to understand is which parts of the stack are truly differentiated and defensible. This will have a major impact on market structure (i.e. horizontal vs. vertical company development) and the drivers of long-term value (e.g. margins and retention). So far, we’ve had a hard time finding structural defensibility anywhere in the stack, outside of traditional moats for incumbents.
+	* The stack can be divided into three layers:
+		* Applications that integrate generative AI models into a user-facing product, either running their own model pipelines (“end-to-end apps”) or relying on a third-party API
+		* Models that power AI products, made available either as proprietary APIs or as open-source checkpoints (which, in turn, require a hosting solution)
+		* Infrastructure vendors (i.e. cloud platforms and hardware manufacturers) that run training and inference workloads for generative AI models
 
-## 7/07/2023 - Chinese History
-* Major Dynasties
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
-	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
-	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
-	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from Lesson 11
-	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
-	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
-* 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
-	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
-	1. 新 - xīn cháo (Xin Dynasty, 15 years to 26 AD) 
-	1. **東漢** - dōng hàn cháo (**Eastern Han Dynasty**, 195 years to 220 AD) 
-	1. 三國 - sān guó (Three Kingdoms, 45 years to 265 AD)
-	1. 西晉- xī jìn cháo (Western Jin Dynasty, 52 years to 317 AD) 
-	1. 晉 - jìn cháo (Eastern Jin Dynasty, 103 years to 420 AD) 
-	1. 隋 - suí cháo (Sui Dynasty, 37 years to 618 AD) 
-	1. **唐** - táng cháo (**Tang Dynasty**, 289 years to 907 AD) 
-	1. 五代十國 - wǔ dài shí guó (Five Dynasties and Ten Kingdoms, 53 years to 960 AD) 
-	1. **北宋** - běi sòng cháo (**Northern Song Dynasty**, 167 years to 1127 AD)    
-	1. **南宋** - nán sòng cháo (**Southern Song Dynasty**, 152 years to 1279 AD) 
-	1. 元 - yuán cháo (**Yuan Dynasty**, 97 years to 1368 AD) 
-	1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
-	1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
+## Monday 13 March 2023
+* Simon Willison's timeline of LLaMA developments as of 3/13/2023
+	* [HN thread](https://news.ycombinator.com/item?id=35140369)
+	* [blog post 1](https://simonwillison.net/2023/Mar/11/llama/) from 3/11/2023 - LLMs are having their Stable Diffusion moment
+	* [blog post 2](https://simonwillison.net/2023/Mar/13/alpaca/) from 3/13/2023 - Stanford Alpaca
 
-## 5/25
-* HBO Succession
-* 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
+## Tuesday 14 March 2023
+* Announcements from OpenAI today
+	* [GPT-4 is announced](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
+	* it can ingest images as well as text to output text
+	* can now pass the bar
+	* partnership with Khan Academy for customized tutors
+	* Announcement of $20/month paid consumer plan to ChatGPT
+* Techcrunch articles
+	* [Interview with Greg Brockman](https://techcrunch.com/2023/03/15/interview-with-openais-greg-brockman-gpt-4-isnt-perfect-but-neither-are-you/) CEO of OpenAI
+	* [Together aka OpenChatKit](https://techcrunch.com/2023/03/14/meet-the-team-developing-an-open-source-chatgpt-alternative/) building open-source API replacement for ChatGPT
+	* [Google Cloud gives dev access to Foundation Model](https://techcrunch.com/2023/03/14/google-cloud-gives-developers-access-to-its-foundation-models/)
+		* API access to PaLM model
+		* MakerSuite
+		* Vertex AI now supports generative AI and launching Generative AI App Builder
+		* Google brings a lot [more AI to Workspace](https://techcrunch.com/2023/03/14/google-goes-all-in-on-bringing-ai-to-workspace/) aka Google Docs
+	* [New framework](https://techcrunch.com/2023/03/14/the-ai-revolution-has-outgrown-the-turing-test-introducing-a-new-framework/) to replace Turing Test
+	* [Nabla](https://techcrunch.com/2023/03/14/nabla-a-french-digital-health-startup-launches-copilot-using-gpt-3-to-turn-patient-conversations-into-actionable-items/) uses GPT-3 to turn patient conversations into action
+		* also named Copilot
+	* [Anthropic launches Claude](https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/), an LLM competitor to ChatGPT
+	* [Bing has been using GPT-4](https://techcrunch.com/2023/03/14/microsofts-new-bing-was-using-gpt-4-all-along/) for a while now
+	* [Duolingo launches AI tutor powered by GPT-4](https://techcrunch.com/2023/03/14/duolingo-launches-new-subscription-tier-with-access-to-ai-tutor-powered-by-gpt-4/)
+	* [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
+	* [Quora launches Poe based on GPT-4](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/) with subscriptions
 
-## 6/16 - 7/22
-1. 個 [个] - gè (measure word)
-1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
-1. 到 - dào (arrive)
-1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in Lesson 17.
-1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
-1. 南京 - Nánjīng
-1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
-1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
-1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
-1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
-1. 嗑藥 [嗑药] - kè yào (to take drugs). See also Lesson 20.
-1. 騙 [骗] - piàn (to fool, to trick). From CH.
-1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
+## 16 March 2023
+* [Bing opens waitlist for chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
+* List of MLOps platforms include Arise, Fiddler, Dataiku, and DataRobot in this [TC article about Seldon](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
+* [List of new Office 365 features](https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/)
 
-#### 6/25 - 99 Ranch and Liang Mama with Julian
+## 20 March 2023
+* [Tavus uses gen AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
+* [Filmustage uses AI to convert film scripts into shooting schedules](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
+* 25-person startup named [Adept just raised a $350 million round](https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/) to build foundation models that can be used to modify any software tool
 
-## Food
-Go to [this page](/ch-food/)
+## 21 March 2023
+* Adobe launches [Firefly](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
+* Nvidia GTC Conference [announcements](https://www.engadget.com/nvidia-and-medtronic-are-building-an-ai-enhanced-endoscopy-tool-161532723.html)
+* Google BARD announcements
+	* Verge on [Google says Bard is not a search engine](https://www.theverge.com/23649897/google-bard-chatbot-search-engine)
+	* [YouTube](https://www.youtube.com/watch?v=9ll_pth4Sss) video reviewing Bard v. Bing aka LaMDA v. GPT-4 from this [HN submission](https://news.ycombinator.com/item?id=35250831)
+	* [BBC article](https://www.bbc.com/news/technology-65018107) on the Bard launch 
+	* [Main HN thread](https://news.ycombinator.com/item?id=35246260)
+	* [NYT main article](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
+	* [NYT evaluation of Bard](https://www.nytimes.com/2023/03/21/technology/google-bard-guide-test.html) compared to other LLMs
+	* Interesting observation. There is a "Google It" cta at the bottom of each Bard answer. Is it a convenience, an acknowledgement that Bard is not complete, or an attempt to still maintain search revenue over time?
+	* Note: Bard is the overall chat product but it is powered in the back by the LLM / foundation model LaMDA
+	* [LaMDA](https://en.wikipedia.org/wiki/LaMDA) was originally announced as Meena in 2020. First generation LaMDA (aka Langugage Model for Dialogue Applications) was then introduced in October 2021. 
+	* More history of LaMDA, formerly named Meena
+		* Developed by Google Brain over many years, Meena was introduced in January 2020 with 2.6B parameters.
+		* Two of the lead developers Daniel De Freitas and Noam Shazeer (2nd author on Attention is all you need paper Dec 2017), left Google in frustration b/c senior Google execs would not let Meena/LaMDA be released to public. They left and cofounded [Character.ai](https://beta.character.ai/help?). See additional info in this [HN comment](https://news.ycombinator.com/item?id=33025237)
+		* First generation of LaMDA announced during Google I/O May 2021.
+		* Second generation of LaMDA announced during Google I/O May 2022.
+		* Summer of 2022 -- Google engineering Blake Lemione [claimed](https://en.wikipedia.org/wiki/LaMDA#Sentience_claims) that LaMDA was sentient giving an interview with *WIRED* and hiring a lawyer for LaMDA claiming alien intelligence rights under the 13th Amendment of the US Constitution. Wiki article has a summary of objections by Gary Marcus, Yann LeCun, etc. I would claim this is a human hallucinating, rather than an LLM hallucinating.
+		* November, 2022, OpenAI launched ChatGPT. The capability, ease-of-use, and popularity of ChatGPT led to a code red within Google HQ.
+		* Early february, Google had a series of announcements and demos of Bard which is based on LaMDA and these did not go well. Led to $100B loss of market cap within hours.
+		* This week on Tuesday March 21, 2023, Google released Bard to a small number of users in the US and UK with a waiting list for more ppl over time.
+	* [The NYT](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html) reported 3/21 that "more than 20 A.I. products and features" will be launched, including "a feature called Shopping Try-on and the ability to create custom background images for YouTube videos and Pixel phones."
+* [Adobe launches Sensei Generative AI Services](https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/) to complement Adobe Firefly
+* [MS brings OpenAI's DALL-E to Bing](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/)
+* [Google opens access to Bard](https://techcrunch.com/2023/03/21/google-opens-early-access-to-bard-its-ai-chatbot/)
+* [Nvidia announces new cloud services as part of GPT](https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/) the GPU Tech Conference
+	* See also [Nvidia's partnership with Google Cloud](https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/)
 
-## Tin Tin comic
-Go to [this page](/tt-blue-lotus/)
+## 22 March 2023
+* [Bard does poorly compared to GPT-4 and Anthropic's Claude](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
+* [Mozilla launches Mozilla.ai](https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/) for 'trustworthy AI'
+* [GitHub launches Copilot x](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/) which is the next version of copilot
+* [CodiumAI using gen AI to build code logic tests](https://techcrunch.com/2023/03/22/codiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically/)
+* [Ubisoft generates dialogue for NPCs with AI](https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/)
+* [Adobe describes payments to artists for gen AI images](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/) 
+* [Canva unveils new AI features](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
 
-## Harvard Mandarin Textbook
-### Lesson 1
-1. 學生 - xué shēng  
-1. 老師 - lǎo shī (See also 教師 jiào shī 'teacher' in Lesson 19)
-1. 你 - nǐ
-1. 是 - shì 
-1. 美國 - Měi guó 
-1. 人 - rén
-1. 嗎 - ma 
-1. 我 - wǒ 
-1. 不 - bù 
-1. 中國 - Zhōng guó 
-1. 這 [这] - zhè 
-1. 那 - nà 
-1. 書 - shū 
-1. 报纸 *JH preferred* simplified - bào zhǐ (newspaper) 
-1. 報紙 traditional - bào zhǐ (newspaper) 
+## 23 March 2023
+* From [Daring Fireball link](https://daringfireball.net/2023/03/game_over_vocal_deepfakes), John H. Meyer aka @beastmode has made [very convincing deepfake voice versions of Steve Jobs](https://twitter.com/BEASTMODE/status/1637613704312242176)
+* From Rodney Brooks, new essay [What Will Transformers Transform?](https://rodneybrooks.com/what-will-transformers-transform/)
+* Conslidated timeline of ChatGPT from [Techcrunch 3/23 article](https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/)
+* [Klarna plugin for ChatGPT](https://techcrunch.com/2023/03/23/klarna-chatgpt-shopping/)
+	* Mentioned this older 3/16 article on [Apple and gen AI](https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/?guccounter=1)
+* Main TC article on [ChatGPT plugins](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/)
+	* "Easily the most intriguing plugin is OpenAI’s first-party web-browsing plugin, which allows ChatGPT to draw data from around the web to answer the various questions posed to it. (Previously, ChatGPT’s knowledge was limited to dates, events and people prior to around September 2021.) The plugin retrieves content from the web using the Bing search API and shows any websites it visited in crafting an answer, citing its sources in ChatGPT’s responses."
+	* List of early collaborators: "Expedia, FiscalNote, Instacart, Kayak, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram and Zapier"
+	* "Plugins are a curious addition to the timeline of ChatGPT’s development. Once limited to the information within its training data, ChatGPT is, with plugins, suddenly far more capable — and perhaps at less legal risk. Some experts accuse OpenAI of profiting from the unlicensed work on which ChatGPT was trained; ChatGPT’s dataset contains a wide variety of public websites. But plugins potentially address that issue by allowing companies to retain full control over their data." 
 
-### Lesson 2
-1. 有 - yǒu 
-1. 一張紙 - yī zhāng zhǐ (one sheet of paper. 'zhāng' is a measure word)
-1. 兩  - liǎng 
-1. 很大 - hěn dà 
-1. 很小 - hěn xiǎ 
-1. 沒有 - méiyǒu 
-1. 一本書 - yī běn shū (one book. 'běn' is a measure word) 
-1. 新 - xīn (new) 
-1. 舊 [旧] - jiù (old) 
-1. 多少 - duō shǎo 
-1. 好 - hǎo 
-1. 一個人 (一 个 人) - yī gè rén. Simplified version of gè.
-1. 北京 - Běijīng 
+## 25 March 2023
+* [HN thread](https://news.ycombinator.com/item?id=35303574) about Ben Thompson's [interview with Jensen Huang](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/). Quotes:
+	* "I first spoke with Nvidia founder and CEO Jensen Huang after last March’s GTC conference, and again after last fall’s GTC; as I observe in the interview below, Nvidia’s semiannual conference frequency might seem very aggressive, but given Nvidia’s central role in AI our last talk seems like it was years ago.
+	* "In this interview, conducted on the occasion of this week’s GTC, we discuss what Huang calls AI’s iPhone moment — ChatGPT — and how that has affected Nvidia’s business. We also touch on the biggest announcement from GTC — Nvidia’s new DGX Cloud service — while also discussing how Nvidia responded to the Biden administration’s export controls, TSMC’s new plant in Arizona, running AI locally, and Nvidia’s position in the stack in an LLM world.
+	* List of topics: The Impact of ChatGPT | Nvidia’s ChatGPT Response | China and TSMC | DGX Cloud | The DGX Cloud Customer | CUDA and Commoditization | Centralized vs. Localized Compute
 
-### Lesson 3
-1. 毛筆 - máo bǐ  
-1. 枝 - zhī (measure word for 'long, thin, inflexible objects'. see 'flowers' below)
-1. 一枝梅花 - yī zhī méihuā (a spray of plum blossoms — applied for flowers with their stems intact)
-1. 的 - de 
-1. Pencil - *qiān bǐ*. 鉛筆 (traditional). 铅笔 (simplified). 
-1. 長 - cháng (long)  
-1. 短 - duǎn (short) 
-1. 你們 - nǐ men 
-1. 黑 - hēi (black)
-1. 白 - bái (white) 
-1. 乾淨 - gān jing (clean) 
-1. 本子  - běn zi (notebook) 
-1. 對不對 - duì bù duì (is that right?)
-1. 對 - duì (correct; to, towards -- second def is from Lesson 21)
-1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
-1. 朋友 - péng yǒu
-1. 中文 - Zhōng wén 
-1. 英國 - Yīngguó (England) 
-1. 英文 - Yīng wén (English) 
-  
-### Lesson 4
-1. 工作- gōng zuò (‘work’ as both a noun and a verb)
-1. 只 - zhǐ (only) 
-1. 只有你 - zhǐ yǒu nǐ (only you)
-1. 學習 [学习] - xué xí (to study or learn) 
-1. 看 - kàn (to look at) 
-1. 呢 - ne (question particle) 
-1. 呣 - ḿ ('What did you say?'; Expressing skepticism in response)
-1. 也 - yě (also)
-1. 幾 [几] - jǐ (how many; how few)
-1. Traditional:	你要幾隻雞 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
-1. Simplified:	你要几只鸡 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
-1. 教 - jiào (to teach) 
-1. 給 [给] - gěi (to give) 
-1. 謝謝 [谢谢] - xiè xiè (thank you) 
+## 26 March 2023
+* Synopsys [2021 history and timeline](https://www.synopsys.com/glossary/what-is-moores-law.html) -- coining the term the SysMoore to refer to "SysMoore era designs converge multiple technologies in one sophisticated package, requiring a holistic analysis of the entire system. Previous methods that analyze each part of the system independently simply will not work in the SysMoore era. What is required is a hyper-convergent design flow that integrates best-in-class technology to deliver a unified analysis of the entire system."
+* Really nice Dec 2022 history from [The Computer History Museum](https://history-computer.com/moores-law/) complete with diagrams, pictures, etc.
+* History of FinFET gating strategies and bio of NTU/Berkeley prof Chenming Hu at IEEE Spectrum April 2020. [Good article](https://spectrum.ieee.org/how-the-father-of-finfets-helped-save-moores-law)
+* IEEE Spectrum [ultimate transistor timeline](https://spectrum.ieee.org/transistor-timeline)  diagram of invention+commercialization of all innovations from 1950 - 2022.
+* Long IEEE Spectrum article from Dec 2022 on [Transistors: the device that changed everything](https://spectrum.ieee.org/point-contact-transistor)
 
-### Lesson 5
-1. 椅子 - yǐ zi (chair)
-1. 和 - hé (and). See also 暖和 *nuǎn huo* from Lesson 23. And 跟 *gēn* from Lesson 8.
-1. 桌子 - zhuō zi (table) 
-1. 都 - dōu (all) 
-1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
-1. 一些 - yī xiē (a few) 
-1. 學校 [学校] - xué xiào (school)
-1. 人們 [人们] - rén men (people) 
-1. 日報 [日报] - rì bào (daily newspaper)
-1. 畫報 [画报] - huà bào (pictoral)
-1. 有意思  - yǒu yì si (interesting) 
-1. 日語 [日语] - Rì yǔ (Japanese) 
-1. 用 - yòng (to use) 
-1. 練習[练习] - liàn xí (exercise, to practice) 
-1. 作 - zuò (to do, to make) 
-1. 會 [会] - huì (to know how, to be skillful)
-1. 漢語 [汉语] - Hàn yǔ (Chinese) 
-1. 還 [还] - huán (to go back to; to give back, repay)
-1. ...還是 [还是]...? - hái shì (...or...?) 
-1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-	* see also Lesson 13
+## Papers on ASICS, FPGAs, GPUs, and DL-optimized chips like TPUs
+* [2018 Paper](https://arxiv.org/pdf/1901.00121.pdf) on FPGAs optimized to trainCNNs for classification tasks. Good comparison on FPGAs vs. ASICs specifically in the area of deep learning (although this paper is 5 years old
+* Listing of [AI chips](https://github.com/basicmi/AI-Chip)
+* Very [basic intro](https://machine-learning.paperspace.com/wiki/ai-chips-for-training-and-inference)
+* [Wiki article](https://en.wikipedia.org/wiki/AI_accelerator) on the history and current debate on proper term for TPUs. "AI Accelerator??"
+* [Wiki on TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) is pretty good should read more about it.
+* [Wiki on DLP](https://en.wikipedia.org/wiki/Deep_learning_processor) Deep Learning Processor
+* See also Jensen Huang, founder of NVIDIA, on [Huang's Law](https://en.wikipedia.org/wiki/Huang%27s_law)
 
-### Lesson 6
-1. 姓 - xìng (surname) 
-1. 叫 - jiào (shout; call, greet; hire, order)  
-1. 甚麽 [什么] - shén me (what) 
-1. 名字 - míng zi (name) 
-1. 怎麼 [怎么] - zěn me (how/why) See also Lesson 15
-1. Traditional:	這怎麼發生的 - zhè zěnme fāshēng de? (How did this happen?)
-1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
-1. 以前 - yǐ qián (before) 
-1. 吧 - ba (suggestion particle; request or mild command; indicating consent or approval; indicating some doubt in the speaker's mind) 
-1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
-1. 知道 - zhī dào (to know)
-1. 了解 - liǎo jiě (to understand) 
-1. 懂 - dǒng (to understand) 
-1. 日本 - Rì běn (Japan) 
-1. 第一 - dì yī (ordinal number aka '#1') 
-1. 你是誰 [谁] - nǐ shì shuí (shuí = 'who')
-1. 大學 - dà xué (college) 
-1. 室友 - shì yǒu (roommate) 
-1. 同屋 - tóng wū (roommate) 
-  
-### Lesson 7
-1. 星期 - xīng qí (week) 
-1. 禮拜 [礼拜] lǐ bài (week) also used for Monday, Tuesday, etc...
-1. 礼拜一 - lǐ bài yī (Monday)
-1. 礼拜二 - lǐ bài èr (Tuesday)
-1. 礼拜三 - lǐ bài sān (Wednesday)
-1. 礼拜四 - lǐ bài sì (Thursday) 
-1. 年 - nián 
-1. 月 - yu (month) 
-1. 一個月 [一个月]- yī gè yu 
-1. 一天 - yī tiān (one day)
-1. 一个小時 - yī gè xiǎo shí (one hour)
-1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
-1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
-1. 今天 - jīn tiān (today) See main section in Lesson 11
-1. 今年 - jīn nián (this year) 
-1. 日 - rì (day)
-1. 忙 - máng (busy) 
-1. 去 -qù (to go) 
-1. 來 [来] - lái (to come) 
-1. 過來 [过来]- guò lái (come over here) 
-1. 過[过]- guò (to cross; to pass time)
-1. 現在 [现在] - xiàn zài (right now) 
-1. 時候 [时候] - shí hòu (time) See also 時間 shí jiān in Lesson 18 
-1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
-1. 零 - líng (zero) 
-1. 一半 - yī bàn (one half)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.)
+## Links from Seymour on Slack
+* Dec 2021 IEEE Spectrum [Is AI Training Outstripping Moore's Law](https://spectrum.ieee.org/ai-training-mlperf)
+* Feb 2022 Discover Magazine / Physics arXiv Blog [AI Machines Have Beaten Moore's Law Over The Last Decade, Say Computer Scientists](https://www.discovermagazine.com/technology/ai-machines-have-beaten-moores-law-over-the-last-decade-say-computer)
+* [Tweet by Cristobal Valenzuela](https://twitter.com/c_valenzuelab/status/1562579547404455936?s=12&t=c1jAK_0EE4wd8BrXW9MM6w) on Moore's law of gen AI: 'the quality, resolution, and control of models doubles about every year.'
 
-### Lesson 8
-1. 到 - dào (arrived) 
-1. 上午 - shàng wǔ (morning) 
-1. 下午 - xià wǔ (afternoon) 
-1. 要 - yào (to want) 
-1. 跟 - gēn (with). See also 和 *hé* from Lesson 5.
-1. 但是 - dàn shì (but) 
-1. 哪兒 [儿] - nǎr? (where?) 
-1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
-1. 哪兒 [儿] - nàr! (there!) 
-1. 那裏 [里] - nà lǐ! (there!) 
-1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
-1. 裏⧸裡 [里] - lǐ. E.g., where are you? and these are all equivalent 你在哪裏? 你在哪裡? 你在哪里? 
-1. 這裡[这里] - zhè lǐ (here)
-1. 這兒 [这儿] -  zhèr (here) 
-1. 問 - wèn (to ask) 
-1. 宿舍 - sù shè (dormitory) 
-1. 一起 - yī qǐ (together) 
-1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Originally from Lesson 20
-1. 有事兒 - yǒu shèr (busy) 
-1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
-1. 喜歡 [喜欢] - xǐ huan (to like) 
-1. 電影 [电影] - diàn yǐng (movie)
-1. 從 [从]- cóng (from) See also *Lesson 15*
-1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
-1. 為什么 *JH preferred*  - wéi shén me? (why?). [为甚麽 *simp+trad*] - wéi shén me? (why?) 
+## 28 March 2023
+### Links from Seymour
+* deepfake images from Seymour https://www.theneurondaily.com/p/pope-trump-elon-go-viral
+* From [HN thread](https://news.ycombinator.com/item?id=35273406) Steve Yegge of the famous Google/Amazon/Grab rants wrote an LLM rant for [Sourcegraph](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 
-### Lesson 9
-1. 好看 - hǎo kàn (good looking) 
-1. 舒服 - shū fú (comfortable) 
-1. 有時候 [有时候] - yǒu shí hòu (sometimes)
-1. 有时候(兒) - yǒu shí hòu(r) 
-1. 外邊 [外边] - wài bian (outside) 
-1. 里边 - lǐ bian (inside); *trad* 裏⧸裡 邊 - lǐ bian
-1. 前邊 [前边] - qián bian (front) 
-1. 後邊 [后边] - hòu bian (back;rear) 
-1. 右邊 [右边] - yòu bian (right side)
-1. 左邊 [左边] - zuǒ bian (left side) 
-1. 上邊 [上边] - shàng bian (top side) 
-1. 下邊 [下边] - xià bian (bottom side) 
-1. 旁邊 [旁边] - páng bian (to the side) 
-1. 中間兒 [中间儿] - zhōng jiān(r) 
-1. 地方 - dì fang (place)  
-1. 自學 [自学] - zì xué (self study)  
-1. 圖書館 [图书馆] - tú shū guǎn (library) 
-1. 常常 - cháng cháng (frequently, usually)  
-
- * 兒 [儿]		THIS is 'r'
- * 邊 [边] - bian		THIS is 'b' 
- * 裏⧸裡 [里] - lǐ		THIS is 'k' 
- * 了 - le 		THIS IS 'l'
- * 'h navigates to 還[还] *or* and *return*
+## 30 March 2023
+* Elad has an [interview with the CEO of HuggingFace](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
+* 4 company consortium announced at NVIDIA GTC 2023 on March 21, 2023 ["NVIDIA, ASML, TSMC and Synopsys Set Foundation for Next-Generation Chip Manufacturing"](https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing)
 
 
-### Lesson 10
-1. 太 - tài (too as in 'too much') 
-1. 自己 - zì jǐ (oneself) 
-1. 教書 - jiāo shū (to teach)
-1. 看書 -  kàn shū (to read silently)
-1. 念書 [念书] - niàn shū (to study) 
-1. 得- de (verb particle) 
-1. 一定 - yī dìng (definitely, certainly)
-1. 特別 - tè bié (especially) 
-1. 高興 [高兴]- gāo xìng (happy) 
-1. 寫字 [写字] - xiě zì (to write characters) 
-1. 快 - kuài (fast)
-1. 慢 - màn (slow) 
-1. 说話 [说话]  - shuō huà (to talk)
-1. 跳舞 - tiào wǔ (to dance)
-1. 唱歌 (兒) - chàng gē (r) (to sing a song)
-1. 國歌 [国歌] - guó gē (national anthem)
+## 01 April 2023
+* Paul Krugman on history of [IT and Productivity](https://www.nytimes.com/2023/03/31/opinion/ai-chatgpt-jobs-economy.html)
 
-### Lesson 11
-1. 前天 - qián tiān (day before yesterday) 
-1. 昨天 - zuó tiān (yesterday) 
-1. 今天 - jīn tiān (today) 
-1. 明天 - míng tiān (tomorrow)
-1. 後天 [后天] - hòu tiān (day after tomorrow)
-1. 这么 [*trad* 這麼] - zhè me (this way; like this)
-1. 那么 [*trad* 那麼] - nà me (like that; in that way)
-1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
-1. 年級 [年级] - nián jí (class/year in school)
-1. 學期 [学期] - xué qī (school term)
-1. 參加 [参加] - cān jiā (to join a group; to participate)
-1. 吃 - chī (to eat)
-1. 東西 [东西] - dōng xi (a thing)
-1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
-1. 早 - zǎo (early) 
-1. 晚 - wǎn (late)
-1. 早安 - zǎo'ān (good morning)
-1. 晚安 - wǎn'ān (good evening)
-1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
-1. 東西 [东西] - dōng xi (thing)
-1. 已經 [已经] - yǐ jīng (already)
-1. 經過 [经过] - jīng guò (pass, go through, undergo)
-1. 開始 [开始] - kāi shǐ (to begin)
-1. 開[开] - kāi (to open)  
-1. 開車 [开车] - kāi chē (to drive a car) originally from Lesson 20
-1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *Lesson 13*.  
-1. 哈佛 - Hāfó (Harvard) 
+## 02 April 2023
+* Updated 2023 video of "Everything is a Remix" -- [Part 4 on AI and Image Generation](https://www.youtube.com/watch?v=rswxcDyotXA)
 
-### Lesson 12
-1. 見 [见] - jiàn (verb: to meet with, to catch sight of; noun: view, opinion)
-1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
-1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
-1. 大家 - dà jiā (everyone)
-1. 哦 - ó (*interjection* expressing doubt)
-1. 哦 - ò (*interjection* expressing realization; understanding) 
-1. 聽 [听] - tīng (to listen)
-1. 不錯 [不错] - bù cuò (correct; not bad; pretty good). See also Lesson 22.
-1. 句 - jù (measure word for sentence)
-1. 句子 - jù zi (sentence)
-1. 走 - zǒu (to walk)
-1. 就 - jiù (*adverb* at once; right away; already; as early as) 
-1. 晚上 - wǎn shang (evening; night)
-1. 晚飯 [晚饭] - wǎn fàn (dinner)
-1. 講 [讲] - jiǎng (lecture; speech; to speak or tell)
-1. 講幾句話 [讲几句话]- jiǎng jǐ jù huà (to say a few words)
-1. 清楚 - qīng chu (clarity, to be clear about, to understand)
-1. 復⧸複習 [复习] - fù xí (to review; revision)
-1. 語法 [语法] - yǔ fǎ (grammar)
-1. 辦法 [办法] - bàn fǎ (solution) See also *Lesson 15*
-1. 法國 - Fǎ guó (France)
-1. 課文 [课文] - kè wén (text)
-1. 功課 [功课] - gōng kè (homework; schoolwork)  
-1. 生詞 [生词] - shēng cí (new word)
+## 03 April 2023
+* Jeremy Howard's [Twitter thread](https://twitter.com/jeremyphoward/status/1642726595436883969?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) about how mmap and llama.cpp are misleading re: how little memory is required. Related [HN thread](https://news.ycombinator.com/item?id=35426679)
+* Blinded by the speed of change [Ron Miller in TC 3/26/2023](https://techcrunch.com/2023/03/26/generative-ai-quick-growth/) -- gen ai quick growth
+* Deep Agency, Danny Postma of Headlime, an AI-powered marketing copy startup recently acquired by Jasper [Techcrunch 3/27](https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/)
+* Asana launches new work [intelligence tools](https://techcrunch.com/2023/03/28/asana-launches-new-work-intelligence-tools-with-ai-on-the-way/)
+* [MS launches Copilot for cybersecurity](https://techcrunch.com/2023/03/28/microsoft-lets-generative-ai-loose-on-cybersecurity/)
+* [TC article](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/) about [Open Letter asking for 6 month pause](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+* [From Balenciaga Pope to the Great Cascadia Earthquake, new deepfakes](https://techcrunch.com/2023/03/29/ai-pope-midjourney-goncharov/) including info about Scorsese's made up 1973 film "Goncharov".
+* Ads added to [Microsoft Bing chat](https://techcrunch.com/2023/03/29/that-was-fast-microsoft-slips-ads-into-ai-powered-bing-chat/)
+* [AI Based cybersecurity DataDome](https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/) raises $42M Series C
+* [Fixie wants to make it easier to build on top of LLMs](https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/)
+* [Oscilar](https://techcrunch.com/2023/03/30/oscilar-emerges-from-stealth-to-fight-transactions-fraud-with-ai/) self-funded by $20M former senior engineering director at FB and co-creator of Confluent and eng leader at LinkedIn emerges from stealth to improve fraud detection with new, internal, data-pipeline optimized AI approach
+* 91 startups aka 34% of current YC class are involved in AI in some way; 54 startups aka 20% are purely in generative AI. [Techcrunch Plus article from 3/30](https://techcrunch.com/2023/03/30/ai-startups-ycombinator-demo-day/)
+* [Meeting Intelligence tool Read](https://techcrunch.com/2023/03/31/reads-ai-powered-summary-feature-squeezes-a-meeting-into-a-two-minute-clip/) summarizes meetings into 2 minute clips
+* Timnit Gebru, Emily Bender, Angelina McMillan-Major, and Margaret Mitchell sign [counter-letter](https://www.dair-institute.org/blog/letter-statement-March2023) against 6-month pause saying the 6-month open letter is overly focused on the 'long-termism philophy'. [TC article from 3/31](https://techcrunch.com/2023/03/31/ethicists-fire-back-at-ai-pause-letter-they-say-ignores-the-actual-harms/)
+* Ron Miller at [TC](https://techcrunch.com/2023/04/01/generative-ai-focused-language-models/) writes that "Generative AI’s future in enterprise could be smaller, more focused language models"
+* Generative AI startup [Narrato](https://techcrunch.com/2023/04/03/narrato/) helps with marketing. 
+	* "Narrato’s main feature is a AI content assistant that helps with planning, including automatic brief generation, content creation and optimization. It also has collaboration and workflow tools and automated publishing features. Solanki explained that for both AI and non-AI content creation, users chose from templates, including blogs, articles, web copy, emails, video scripts, social media content and art. Narrato also has a chat-like format for content creation through AI, and plans to expand its selection of generative AI-assisted content templates to hundreds."
+	* "Solanki named several startups as Narrato’s indirect and direct competitors. Notion, Clickup and Airtable are used by content creators for content project management, while Jasper and Copy.ai are content creation platforms that also use AI. How Narrato wants to differentiate is by embedding generative AI into the entire marketing and content creation workflow in a single platform."
+* Darrel Etherington "A knife so sharp you don't feel the cut" in [TC 4/03](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/)
+* [Ethan Mollick](https://twitter.com/emollick/status/1643029453852012546?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on fictional HBS case generated by GPT-4 sent to my by jtlin
+* Samuel R. Bowman at NYU has a [blog post](https://wp.nyu.edu/arg/why-ai-safety/) and [PDF](https://cims.nyu.edu/~sbowman/eightthings.pdf) about "Eight Things to Know about LLMs". Might be a longtermism person. [HN item here](https://news.ycombinator.com/item?id=35434679)
 
-### Lesson 13
-1. 漢字 [汉字] - Hàn zì (Chinese characters)
-1. 沒関係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind') See *Lesson 11*
-1. 以後 [以后] - yǐ hòu  (later)
-1. 得 - děi (need; must; to have to) 
-1. 字典 - zì diǎn (dictionary)
-1. 能 - néng  (to be able to)
-1. 想 - xiǎng  (to think)
-1. 打球 - dǎ qiú (to play ball)
-1. 打 - dǎ (to hit)
-1. 球 - qiú (ball)
-1. 應該 [应该] - yīng gāi (should) *see also Lesson 5*
-1. 考試 [考试] - kǎo shì (to take an exam)
-1. 準備 [准备] - zhǔn bèi (to prepare)
-1. 努力 - nǔ lì (diligent)
-1. 非常 - fēi cháng (extremely)
-1. 可以 - kě yǐ (can, may; *colloquial* passable, not bad)
-1. 找 - zhǎo (to look for, to seek)
-1. 不用 - bù yòng (don't have to)
 
-### Lesson 14
-1. 同學 [同学] tóng xué (schoolmate) 
-1. 演 - yǎn (perform, play, act in a play)
-1. 話劇 [话剧] huà jù (a play)
-1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from Lesson 20
-1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
-1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19. And 有意思 *yǒu yì si* from Lesson 5.
-1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
-1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
-1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
-1. 别人 - bié rén (other people). Originally introduced in Lesson 16
-1. 事情 - shì qing (matter, affair, issue)
-1. 有名 - yǒu míng  
-1. 不停的 - bù tíng de (without stopping) 
-1. 拊手 - fǔ shǒu (to clap hands)
-1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
-1. 休息 - xiū xi (rest)
-1. 重要 - zhòng yào (important)
-1. 意思  - yì si (meaning) See also Lesson 5
-1. 討論 [讨论] - tǎo lùn (to discuss)
+## 04 April 2023
+* Founded by alums of Quora, Meta, DeepMind, OpenAI, and Databricks, [Perplexity launches conversational AI based search engine](https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/)
+* List of YC-backed startups trying to build [ChatGPT for X](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/) including Yuma, Baselit, Lasso etc.
+* New [386-page Stanford HAI paper](https://aiindex.stanford.edu/report/) and [associated TC report](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/) by Devin Coldewey
+* [NYT piece on Runway AI](https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html) and instant videos created by text prompt
 
-### Lesson 15
-1. 買[买] - mǎi (to buy)
-1. 賣[卖] - mài (to sell)
-1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 當然 [当然] - dāng rán (of course)
-1. 種 [种] - zhǒng (type, kind)
-1. 有用 - yǒu yòng (useful)
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
-1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
-1. 每 - měi (every; each; per); e.g., 每天 měi tiān
-1. 上課 [上课] - shàng kè attend class
-1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
-1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
-1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
-1. 方法 - fāng fǎ (method, way, means)
-1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
-1. 互相 - hù xiāng (mutually)
-1. 要是...就 - yào shi...jiù (if...then...)
-1. 必須 [必须] - bì xū (should; present)
-1. 問題 [问题] - wèn tí (question, problem)
-1. 回答 - huí dá (reply, response, answer)
+## Created [this page](/llm-product/) to track notes on product experience as an end-user and consumer
 
-### Lesson 16
-1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in Lesson 22
-1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
-1. 課本 [课本] - kè běn (textbook)
-1. 剛 [刚] - gāng (just) see also Lesson 11
-1. 完 - wán (finished, e.g., 吃完了)
-1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
-1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
-1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in Lesson 22.
-1. 書店 [书店] - shū diàn (bookstore)
-1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
-1. 高 - gāo (high) 
-1. 低 - dī (low, opposite of 高)
-1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
-1. 看見 [看见] - kàn jian (to see)
-1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
-1. 開會 [开会] - kāi huì (to hold a meeting)
-1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
-1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
-1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
+## 05 April 2023
+* Annie Lowery interview with Amba Kak at NY=based AI Now Institute in [The Atlantic, 4/03/2023](https://apple.news/AT3ZrLLcNTViu4VSM3E9bAw) "AI isn’t omnipotent. It’s janky." 
+* [The Atlantic 4/04](https://apple.news/Ao6QJuWOYSwaZDTgVD8lYiAa) by Jacob Stern on how software AI is advancing faster than Robotics.  "AI is running circles around robotics"
+	* 'The counterintuitive notion that it’s harder to build artificial bodies than artificial minds is not a new one. In 1988, the computer scientist Hans Moravec observed that computers already excelled at tasks that humans tended to think of as complicated or difficult (math, chess, IQ tests) but were unable to match “the skills of a one-year-old when it comes to perception and mobility.” Six years later, the cognitive psychologist Steven Pinker offered a pithier formulation: “The main lesson of thirty-five years of AI research,” he wrote, “is that the hard problems are easy and the easy problems are hard.” This lesson is now known as “Moravec’s paradox.”'
 
-### Lesson 17
-1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
-1. 紅 [红] - hóng (red)
-1. 紅油 [红油] - hóng yóu (red oil; chili oil)
-1. 覺得 [觉得] - jué de (to feel)
-1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
-1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
-1. 頭 [头] - tóu (head)
-1. 臉 [脸] - liǎn (face)
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain)
-1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 試 [试] - shì (to try, to test)
-1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
-1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
-1. 差不多 - chà bu duō (almost)
-1. 完全 - wán quán (completely)
-1. 借 - jiè  (to borrow; lend)
-1. 成 - chéng (to succeed; to become)
-1. 熱 [热] - rè (hot)
-1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
-1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
-1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
-1. 坐 - zuò (to sit)
-1. 極了[极了] - jí le  (very, extremely)
-1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from Lesson 10*
-1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from Lesson 19*
+## 07 April 2023
+* Nathan Lambert's [4/05 Substack](https://robotic.substack.com/p/behind-the-curtain-ai) has an article on the organizational, psychological, social, competitive and social media pressures hitting folks working in AI in both academia and industry right now. Titled "Behind the Curtain: what it feels like to work in AI right now"
+	* Associated [HN thread](https://news.ycombinator.com/item?id=35469908)
+	* Other article by Lambert on 3/30/2023 ["Ethical Openness at Hugging Face"](https://huggingface.co/blog/ethics-soc-3)
+* [4/07 episode of Hard Fork](https://www.nytimes.com/2023/04/07/podcasts/ai-vibe-check-with-ezra-klein-and-kevin-tries-phone-positivity.html) with guest Ezra Klein: "AI Vibe Check".
 
-### Lesson 18
-1. 進 [进] - jìn (to enter)
-1. 搬 [般] - bān (to move)
-1. 間 - jiān (measure word for rooms)
-1. 屋子 - wūz (room)
-1. 一間屋子 - yī jiān wūz (a single bedroom); see Pleco for many other uses of 間
-1. 山 - shān (mountain)
-1. 貴 [贵] - guì (expensive)
-1. 便宜 - pián yi (inexpensive)
-1. 方便 - fāng biàn (convenient)
-1. 城裏 [城里] - chéng lǐ (in town; in the city)
-1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in Lesson 7
-1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1. 自行車 [自行车] - zì xíng chē (bicycle)
-1. 騎 [骑] - qí (to ride a bicycle or vehicle)
-1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
-1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 回 - huí (to return) See also 回答 huí dá in Lesson 15
-1. 帶[带] - dài (to bring along, to carry)
-1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
-1. 免費 [免费] - miǎn fèi (free of charge) 
-1. 出 - chū (exit)
-1. 倒是 - dào shì (admittedly)
-1.樓 [楼] - lóu (floor of a building--originally in L19 below)
+## 10 April 2023
+* [Meta wants to use generative AI to create ads](https://techcrunch.com/2023/04/05/meta-wants-to-use-generative-ai-to-create-ads/) from 4/05
+* [Adthos uses gen AI to completely automate audio ads](https://techcrunch.com/2023/04/05/adthos-uses-generative-ai-to-completely-automate-audio-ads/) from 4/05
+* FB 3/31 announcement of VC-1, reflecting on Moravec's paradox and embodied intelligence / sensorimotor skilss vs. the "easier" pure thought aspects of abstract throught or reasoning.
+	* [FB blog post](https://ai.facebook.com/blog/robots-learning-video-simulation-artificial-visual-cortex-vc-1/)
+	* [TC article by Brian Heater](https://techcrunch.com/2023/04/06/the-robots-are-already-here/) aka "where are all the robots?" and Heater claims that they are already here
+* [Can AI commit libel?](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/) re: first libel case filed against LLM by an Australian mayor Brian Hood
+* [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/) from 4/06. "Antropic plans to train a powerful model with billions in new funding."
 
-### Lesson 19
-1. 父母 - fù mǔ (parents)
-1. 父親 [父亲] fù qin (father); 爸爸 bà ba
-1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
-1. 哥哥 - gē ge (older brother)
-1. 弟弟 - dì di (younger brother)
-1. 姐姐 - jiě jie (older sister)
-1. 妹妹 - mèi mei (younger sister)
-1. 大夫 - dài fu (*colloquial* doctor, physician) 
-1. 大夫 - dà fū (*archaic* senior official)
-1. 談話 [谈话] -  tán huà (to chat) 
-1. 台北 - Tái běi (Taipei)
-1. 忘 - wàng (to forget)
-1. 客氣 [客气] - kè qi (polite, courteous)
-1. 住 - zhù (to live at). See also 注意 *zhù yì* from Lesson 14.
-1. 習慣 [习惯] - xí guàn (to be used to) 
-1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
-1. 啊 - à ("ah" as an interjection)
+## 12 April 2023
+* Announcement of [$10M seed round for LangChain](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/)
+* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on. See [prompt testing product page](/llm-product/) for more.
+* Greg Brockman [tweet](https://twitter.com/gdb/status/1646183424024268800?s=12&t=c1jAK_0EE4wd8BrXW9MM6w):
+	* 'The underlying spirit in many debates about the pace of AI progress—that we need to take safety very seriously and proceed with caution—is key to our mission. We spent more than 6 months testing GPT-4 and making it even safer, and built it on years of alignment research that we pursued in anticipation of models like GPT-4.
+	* 'We expect to continue to ramp our safety precautions more proactively than many of our users would like. Our general goal is for each model we ship to be our most aligned one yet, and it’s been true so far from GPT-3 (initially deployed without any special alignment), GPT-3.5 (aligned enough to be deployed in ChatGPT), and now GPT-4 (performs much better on all of our safety metrics than GPT-3.5).
+	* 'We believe (and have been saying in policy discussions with governments) that powerful training runs should be reported to governments, be accompanied by increasingly-sophisticated predictions of their capability and impact, and require best practices such as dangerous capability testing. We think governance of large-scale compute usage, safety standards, and regulation of/lesson-sharing from deployment are good ideas, but the details really matter and should adapt over time as the technology evolves. It’s also important to address the whole spectrum of risks from present-day issues (e.g. preventing misuse or self-harm, mitigating bias) to longer-term existential ones.
+	* 'Perhaps the most common theme from the long history of AI has been incorrect confident predictions from experts. One way to avoid unspotted prediction errors is for the technology in its current state to have early and frequent contact with reality as it is iteratively developed, tested, deployed, and all the while improved. And there are creative ideas people don’t often discuss which can improve the safety landscape in surprising ways — for example, it’s easy to create a continuum of incrementally-better AIs (such as by deploying subsequent checkpoints of a given training run), which presents a safety opportunity very unlike our historical approach of infrequent major model upgrades.
+	* 'The upcoming transformative technological change of AI is something that is simultaneously cause for optimism and concern — the whole range of emotions is justified and is shared by people within OpenAI, too. It’s a special opportunity and obligation for us all to be alive at this time, to have a chance to design the future together.'
 
-### Lesson 20
-1. 再見 [再见] - zài jiàn (goodbye)
-1. 一會兒 [一会儿] - yī huì(r) (in a moment)
-1. 電話 [电话] - diàn huà (telephone)
-1. 手機 [手机] - shǒu jī (mobile phone)
-1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 走路 - zǒu lù (to walk on a road)
-1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
-1. 喂 - wéi? (hello when answering the phone)  
-1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
-1. 奇怪 - qí guài (strange, weird)
-1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
-1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
-1. 片兒 [片儿] - piān(r) (a piece)
-1. 病 - bìng (illness)
-1. 感冒 - gǎn mào (to catch a cold)
-1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 發展 [发展] - fā zhǎn (to develop)
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from Lesson 14
-1. 醫院 [医院] - yī yuàn (hospital)
+## 15 April 2023
+* [Techcrunch's favorite YC Winter 2023 Demo Day Part 1](https://techcrunch.com/2023/04/05/y-combinator-demo-day-favorites-part-one/), 4/05/2023.
+* [Techcrunch's favorite YC Winter 2023 Demo Day Part 2](https://techcrunch.com/2023/04/06/y-combinator-demo-day-2023-favorites-part-two/), 4/06/2023.
+* [Gen AI transforming enterprise IT](https://techcrunch.com/2023/04/08/generative-ai-enterprise-software/) by Ron Miller 4/08
+* More on Quora's Poe product where [users can make their own bots via prompts](https://techcrunch.com/2023/04/10/poes-ai-chatbot-app-now-lets-you-make-your-bots-using-prompts/) 4/10
+* [Alibaba unveils ambition for a copilot as China steps up scrutiny over generative AI](https://techcrunch.com/2023/04/11/alibaba-copilot-generative-ai-llm/) aka LLM called Tongyi Qianwen
+* From 4/11, [Prohibition of AI that ‘subverts state power’ in China may chill its nascent industry](https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/)
+* Ali Ghodsi, CEO of Databricks announces next version of Dolly, Dolly 2.0, a text-generating AI model to power apps like chatbots, summarizers, and simple search engines. [Databricks open sources a model like ChatGPT, flaws and all](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
+* AI-related mobile apps [have experienced significant increases in both downloads and revenue](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/), benefiting both indie app developers and large companies like MS Bing.
+* [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/) from 4/12
+* [Spain’s privacy watchdog says it’s probing ChatGPT too](https://techcrunch.com/2023/04/13/chatgpt-spain-gdpr/) 4/13
 
-### Lesson 21
-1. 信 - xìn (letter)
-1. 病人 - bìng rén (sick person, patient)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from Lesson 5
-1. 熱情 [热情] - rè qíng (warm, compassionate)
-1. 送 - sòng (to send)
-1. 決定 [决定] - jué dìng (to decide)
-1. 搞 - gǎo (to get tangled with)
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-1. 身體 [身体] - shēn tǐ (body)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
-1. 替 - tì (take the place of; replace, substitute for)
-1. ...史 - shǐ (history of ...)
-1. 翻譯 [翻译] - fān yì (translate)
-1. 冷 - lěng (cold)
-1. 希望 - xī wàng (hope - both noun and verb)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1.  
-1. 還 [还] - huán (to go back to; to give back, repay) from Lesson 5. Delete when done
-1. 給 [给] - gěi (to give) from Lesson 4. Delete when done
-1. 對 - duì (correct; to, towards -- second def is from Lesson 3) Delete when done
-1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
+## 16 April 2023
+* [Updated version](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/) of Stable Diffusion called Stable Diffusion XL (SDXL) available via Stability AI's gen art product called DreamStudio.
+* Very long article surveying law and regulation on gen AI from around the world by [Natasha Lomas in TC 4/13](https://techcrunch.com/2023/04/13/generative-ai-gdpr-enforcement/)
+* From 4/13 interview at MIT conference, [Sam Altman says LLM size will be less important going forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
+* List of various iOS apps offering ability to chat with ChatGPT-powered characters in [this article about Superchat made by Gorilla Technologies](https://techcrunch.com/2023/04/17/superchats-new-ai-chatbot-lets-you-message-historical-and-fictional-characters-via-chatgpt/)
+* Adobe Firefly now available for [video tools](https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/)
+* [Web LLM](https://simonwillison.net/2023/Apr/16/web-llm/) runs Vicuna-7B LLM entirely in browser.
+	* [GitHub link](https://github.com/mlc-ai/web-llm)
+	* [HN thread](https://news.ycombinator.com/item?id=35583349)
 
-### Lesson 22
-1. 就要...了 -  jiù yào...le (about to...)
-1. 春節 [春节] - Chūn Jié (Spring Festival)
-1. 它⧸牠 - tā (it)
-1. 一樣 [一样] - yī yàng (to be the same)
-1. 像 - xiàng (to resemble)
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 放假 - fàng jià (to have vacation)
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 錯 [错] - cuò (wrong). See also Lesson 12.
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. 筷子 - kuài zi (chopsticks)
-1. 餓 [饿] - è (hungry)
-1. 家 - jiā (house)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 難 [难] - nán (difficult, hard)
-1.  
-1. 過[过]- guò (to cross; to pass time) Originally from Lesson 7. Delete when finished
-1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
-1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from Lesson 16. Delete when finished
-1. 菜 - cài (vegetable) DELETE WHEN FINISHED.
-1. 南方 - nán fāng (from the South, "Southern Style"). Placed into Lesson 16; delete when finished
+## 19 April 2023
+* [Stability AI](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/) moves from the pure image gen space of Stable Diffusion to LLMs with launch of open source StableLM and available on GitHub and Hugging Spaces. [HN thread](https://news.ycombinator.com/item?id=35629127)
+* Eleuther.ai's computation of [basic math](https://blog.eleuther.ai/transformer-math/) governing training and inference costs for LLMs. [HN thread](https://news.ycombinator.com/item?id=35631546)
+* [WaPo](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/?itid=hp_desktop-dont-miss_p005_f001) analysis of the datasets used to train ChatGPT in collaboration with Allen Institute for AI
+* [Kent Beck](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0) on "90% of My Skills Are Now Worth $0...but the other 10% are worth 1000x" plus [HN thread](https://news.ycombinator.com/item?id=35627779)
+* ['With Bedrock, Amazon enters the generative AI race'](https://techcrunch.com/2023/04/13/with-bedrock-amazon-enters-the-generative-ai-race/)
+* ['Atlassian brings an AI assistant to Jira and Confluence'](https://techcrunch.com/2023/04/19/atlassian-brings-an-ai-assistant-to-jira-and-confluence/) product called *Atlassian Intelligence*
+* ["Snapchat launches AR Lenses powered by generative AI, starting with a new ‘Cosmic Lens’"](https://techcrunch.com/2023/04/19/snapchat-launches-ar-lenses-powered-by-generative-ai-starting-with-a-new-cosmic-lens/)
+* ["Snapchat’s AI chatbot is now free for all global users, says the AI will later ‘Snap’ you back"](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
 
-### Lesson 23
-1. 正 - zhèng (correct, right, straighten)
-1. 真 - zhēn (really; real)
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in Lesson 5.
-1. 大衣 - dà yī (overcoat)
-1. 天氣 [天气] - tiān qì (weather)
-1. 下雨 - xià yǔ (to rain)
-1. 下雪 - xià xuě (to snow)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 春天 - chūn tiān (spring)
-1. 夏天 - xià tiān (summer)
-1. 秋天 - qiū tiān (autumn, fall)
-1. 冬天 - dōng tiān (winter)
-1. 去年 - qù nián (last year)
-1. 好像 - hǎo xiàng (very like, similar to, resembles)
-1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 漂亮 - piào liang (pretty)
-1. 讓 [让] - ràng (to allow)
-1. 男 - nán (male)
-1. 女 - nǚ (female)
-1. 穿 - chuān (to wear)
+## 20 April 2023
+* Gen AI and finance
+	* [WSJ / Apple News article](https://apple.news/AbI7YPjBZSPqh9f5bt4XANg) "AI Can Write a Song, but It Can’t Beat the Market" by Gregory Zuckerman 4/12
+	* [Can ChatGPT Decipher Fedspeak?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399406) 4/07 by Hansen and Kazinnik
+	* [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788) 4/06 Lopez-Lira and Tang
+* BloombergGPT. [Paper](https://arxiv.org/abs/2303.17564), [press release](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/), [news article](https://www.infoq.com/news/2023/04/bloomberg-gpt-ai/), [HN thread](https://news.ycombinator.com/item?id=35381036) which has discussion about shortcomings in math and in the paper.
+	* [Follow up item](https://www.cnbc.com/2023/04/13/bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.html) indicating that BloombergGPT will be incorporated into Bloomberg Terminals.
+* Google Brain and Deep Mind to merge.
+	* [HN thread](https://news.ycombinator.com/item?id=35643049)
+	* [Google Blog Post](https://www.deepmind.com/blog/announcing-google-deepmind)
+* See 4/20/2023 screenshot in Apple Photos for list of gen AI tools by category
+* Check out Vector Databases more. [CozoDB](https://docs.cozodb.org/en/latest/releases/v0.6.html) is a hybrid Relational-Graph-Vector Database. [HN thread](https://news.ycombinator.com/item?id=35641164)
+	* Description from Cozo: 'For those who are unfamiliar with the concept: vector search refers to searching through large collections of usually high-dimensional numeric vectors, with the vectors representing data points in a metric space. Vector search algorithms find vectors that are closest to a given query vector, based on some distance metric. This is useful for tasks like recommendation systems, duplicate detection, and clustering similar data points, and has recently become an extremely hot topic since large language models (LLMs) such as ChatGPT can make use of it to partially overcome their inability to make use of long context.'
+	* For those who have not heard of CozoDB before: [CozoDB](https://docs.cozodb.org/en/latest/releases/v0.3.html) is a general-purpose, transactional, relational database that uses Datalog for query, is embeddable but can also handle huge amounts of data and concurrency, and focuses on graph data and algorithms. It even supports time travel (timestamped assertions and retractions of facts that can be used for point-in-time query)! Follow the [Tutorial](https://docs.cozodb.org/en/latest/tutorial.html) if you want to learn CozoDB. The source code for CozoDB is on [GitHub](https://github.com/cozodb/cozo/).
 
-### Lesson 24
-1. 最 - zuì (the most)
-1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
-1. 更 - gèng (even more)
+## 21 April 2023
+* Matt Schlicht's 4/18 newsletter item ["The Complete Beginners Guide To Autonomous Agents"](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
+* [EU lawmakers eye tiered approach to regulating generative AI](https://techcrunch.com/2023/04/21/eu-ai-act-generative-ai/)
+* ['Google’s Bard AI chatbot can now generate and debug code'](https://techcrunch.com/2023/04/21/googles-bard-ai-chatbot-can-now-generate-and-debug-code/) and associated [Google blog post](https://blog.google/technology/ai/code-with-bard/)
+* ['Qdrant, an open source vector database startup, wants to help AI developers leverage unstructured data'](https://techcrunch.com/2023/04/19/qdrant-an-open-source-vector-database-startup-wants-to-help-ai-developers-leverage-unstructured-data/) has a list of other vector databases:
+	* [Pinecone](https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/)
+	* [Milvus by Zilliz](https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/)
+	* [Chroma](https://www.trychroma.com/blog/seed)
+
+## 22 April 2023
+* [TC article on 'What is Auto-GPT and why does it matter?'](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
+
+## 23 April 2023
+* [Leaked pitch slides and Telegram messages](https://sifted.eu/articles/stability-ai-fundraise-leakt while fundraising for Series A for Stability AI by Tim Smith at Sifted.eu)
+
+## 26 April 2023
+* Brian Kihoon Lee's [essay reflecting on Google Brain + DeepMind merger](https://www.moderndescartes.com/essays/why_brain/). [HN thread](https://news.ycombinator.com/item?id=35716216). See also [his journey](https://www.moderndescartes.com/essays/my_ml_path/) from being a server engineer at HubSpot interested in Go to the Recurse Center to eventually working at Google Brain. Undergrad in chemistry at MIT and masters at Harvard in same.
+
+## 01 May 2023
+* Geoff Hinton leaves Google. Various articles:
+	* March 2013 [acquisition of DNNresearch](https://techcrunch.com/2013/03/12/google-scoops-up-neural-networks-startup-dnnresearch-to-boost-its-voice-and-image-search-tech/) cofounded by Hinton, Alex Krizhevsky and Ilya Sutskever
+	* NYT article about [Hinton's departure](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+	* [Verge article](https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings)
+ 
+## 02 May 2023
+* [Benchmark testing](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/) on LLM performance hosted at [Lightning AI](https://lightning.ai). tldr -- 'GPT-3 and GPT-4 were a clear cut above the rest, but are a little harder to access given you need to pay for them and you’ll be sharing your data with OpenAI. [Flan-t5 (11b)](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) and [Lit-LLaMA (7b)](https://github.com/Lightning-AI/lit-llama) answered all of our questions accurately and they’re publicly available. They’ll hold up in an interrogation even though they don’t really have a sense of humor.'
+* Very short Yahoo News piece with [HN thread here](https://news.ycombinator.com/item?id=35784814) about IBM CEO letting 7800 jobs end by attrition and replaced by AI
+
+## 04 May 2023
+* New coding assistant called [StarCoder](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/) by Hugging Face + ServiceNow--compare versus GitHub Copilot, OpenAI Codex. Main [page](https://huggingface.co/bigcode), [HN thread](https://news.ycombinator.com/item?id=35819305). Launch [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view).
+* Inflection AI has launched [Pi](https://heypi.com/talk). Three cofounders are Mustafa Suleyman (cofounder of Deep Mind), Karén Simonyan and LinkedIn creator Reid Hoffman. Inflection has raised several hundred million dollars. [Open FT article](https://www.ft.com/content/08b40743-16d8-4113-8258-147bf9dbce94) and [HN thread](https://news.ycombinator.com/item?id=35792838) and [some questions](https://news.ycombinator.com/threads?id=sjnair96)
+* New generative AI image startup [Bria](https://techcrunch.com/2023/04/13/this-startup-wants-to-train-art-generating-ai-strictly-on-licensed-images/) claims to generate images by only training on licensed image data
+* Users are unhappy with and giving [1-star reviews](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/) to Snapchat's 'My AI'.
+* Gitab introduces an LLM to [explain security vulnerabilities to developers](https://techcrunch.com/2023/04/24/gitlabs-new-security-feature-uses-ai-to-explain-vulnerabilities-to-developers/)
+* Google announces [Cloud Security AI Workbench](https://techcrunch.com/2023/04/24/google-brings-generative-ai-to-cybersecurity/) based on Sec-PALM
+* OpenAI may be [trademarking GPT](https://techcrunch.com/2023/04/24/gpt-may-be-trademarked-soon-if-openai-has-its-way/)
+* ['Hugging Face releases its own version of ChatGPT'](https://techcrunch.com/2023/04/25/hugging-face-releases-its-own-version-of-chatgpt/) called HuggingChat, which is powered by a model built by [LAION](https://laion.ai)
+* [Pinecone Series B](https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/) $100m on $750m valuation for vector database
+* [Amazon improves Alexa](https://techcrunch.com/2023/04/28/amazon-working-improved-llm-to-power-alexa/) with LLM technology
+* Israeli startup [Alison](https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/) that 'analyzes creative work, such as typeface characters, colors, sounds, and text. It then gives the creative team a data-driven creative brief prompt that they can use to feed either into a generative AI production platform like Midjourney or their human creative team.' Competes with startups like 'VidMob, Replai, and Vizit, but Alison AI says it can allow advertisers to “see which creative elements had the biggest impact on their competitor’s creatives,”
+* Box announces plans pre-beta of [Box AI](https://techcrunch.com/2023/05/02/box-is-partnering-with-openai-to-bring-generative-ai-tools-across-the-platform/)
+* ['Samsung bans use of generative AI tools like ChatGPT after April internal data leak'](https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/)
+
+## 05 May 2023
+* Stability AI and DeepFloyd released [DeepFloyd IF](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/) which is an image generator with improved text creation and placement within image.
+* ['Google and OpenAI are Walmarts besieged by fruit stands'](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/) by Devin Coldewey
+
+## 08 May 2023
+* Designer's [critique](https://wattenberger.com/thoughts/boo-chatbots) about 'Why Chatbots Are Not the Future' and associated [HN thread](https://news.ycombinator.com/item?id=35773955)
+
+## 09 May 2023
+* Update on May 4th [leaked strategy memo from Google](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) about how neither they nor OpenAI have a moat versus open-source LLMs. Quite long [HN thread](https://news.ycombinator.com/item?id=35813322). Specific replies in thread:
+	* [Timeline](https://news.ycombinator.com/item?id=35818884)
+	* [Discussion about Automatic1111 and Stable Diffusion](https://news.ycombinator.com/item?id=35818514)
+	* [Relation to internet hockey stick in 1995](https://news.ycombinator.com/item?id=35826580), was [Microsoft behind in 1995](https://news.ycombinator.com/item?id=35826664), and [where did AOL fit in that year?](https://news.ycombinator.com/item?id=35832884)
+	* Followups:
+		* Jordan Burgess says framework is good but conclusion about open source winning is wrong [on Twitter](https://twitter.com/jordnb/status/1654496023778131970?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+		* Andrej Karpathy agrees with [Jordan](https://twitter.com/karpathy/status/1654922630728929280?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA) on Google Memo
+		* Andrej's overview of current [state of play](https://twitter.com/karpathy/status/1654892810590650376?s=46&t=-6Vm1QhnxGzhZT0ZrcVDnA)
+
+## 10 May 2023
+* Announcements from [Google I/O May 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14) and [HN thread](https://news.ycombinator.com/item?id=35886559)
+	* [Roundup from TC](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
+	* Semafor's summary ['Google's AI search is over'](https://www.semafor.com/article/05/10/2023/googles-ai-search-is-over)
+	* Casey Newton--['How Google is making up for lost time'](https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls) 
+	* [Google ends Bard waitlist](https://techcrunch.com/2023/05/10/google-ends-bard-waitlist-making-english-version-of-chatbot-widely-available/) making it widely available
+	* ['Google brings more AI tools to Workspace'](https://techcrunch.com/2023/05/10/google-brings-more-ai-tools-to-workspace/)
+	* ['Google introduces new features to help identify AI images in Search and elsewhere'](https://techcrunch.com/2023/05/10/google-introduces-new-features-to-help-identify-ai-images-in-search-and-elsewhere/)
+	* [Google introduces Google Duet for coding](https://techcrunch.com/2023/05/10/google-launches-a-github-copilot-competitor/) as a competitor to GitHub Copilot
+	* Google introduces a notetaking assistant called [Project Tailwind](https://techcrunch.com/2023/05/10/with-project-tailwind-google-aims-to-make-note-taking-smarter/)
+
+
+## 13 May 2023
+* AI in 21st cen = Lightbulbs in 19th century? [Ron Miller in TC](https://techcrunch.com/2023/05/02/ai-critical-light-bulb-moment/)
+* ['AI is just someone else’s computer'](https://techcrunch.com/2023/05/03/ai-is-just-someone-elses-computer/)
+* [New features for Bing and Edge from May 4, 2023](https://techcrunch.com/2023/05/04/microsoft-doubles-down-on-ai-with-new-bing-features/)
+* [Anthropic and 'constitutional AI'](https://techcrunch.com/2023/05/09/anthropic-thinks-constitutional-ai-is-the-best-way-to-train-models/)
+* [Google releases PaLM 2](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/), additional [TC commentary](https://techcrunch.com/2023/05/10/googles-palm-2-paper-shows-that-text-generating-ai-still-has-a-long-way-to-go/), and [pdf](https://ai.google/static/documents/palm2techreport.pdf)
+* Interesting interview with [Joanna Bryson from University of Bath](https://techcrunch.com/2023/05/11/keepon-carry-on/)
+* ['Making foundation models accessible: The battle between closed and open source AI'](https://techcrunch.com/2023/05/11/making-foundation-models-accessible-the-battle-between-closed-source-and-open-source-ai/) TC+ article
+
+## 15 May 2023
+* ['VCs love to talk about AI, but they aren’t writing as many checks as you might think'](https://techcrunch.com/2023/05/15/ai-weak-investments/) -- CB Insights data shows pronounced slowdown in AI investment by Ron Miller at TC
+* Blog post by [Ke Fang](https://mazzzystar.github.io/about/), a Chinese ML developer about the big differences between [GPT-4 and ChatGPT](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/) and how it gives individuals super powers. e.g., as a Chinese speaker, he sees the difference based on the SuperCLUE large chinese model benchmark. 
+	* Quote: "I have never written front-end code before, but after 48 hours of conversation with GPT-4, I built a podcast search website. The website is open-sourced with a GPT-4.0 License to express my gratitude."
+	* quote 2: "A few days later, I wanted to skip certain timestamps when watching videos on web pages. Without any experience in developing Chrome extensions, I followed the instructions by GPT-4 to create files, paste, and drag and drop, and achieved it in less than 15 minutes. I did not put it on the store, and it became a tool serving only me."
+	* [HN thread](https://news.ycombinator.com/item?id=35885797)
+* Seems that Anthropic's Claude now has a [100k context](https://twitter.com/jlowin/status/1658117052425543682) which is available in the web UI?
+	* [HN comment](https://news.ycombinator.com/item?id=35952147): 
+		* 'Claude 100k 1.3 blew me away.
+		* Giving it a task of extracting a specific column of information, using just the table header column text, from a table inside a PDF, with text extracted using tesseract, no extra layers on top. (for those that haven't tried extracting tables with OCR, it's a non-trivial problem, and the output is a mess). 40k tokens in context, it performed at extracting the data, at 100% accuracy.  * Changing the prompt to target a different column from the same table, worked perfectly as well. Changing a character in the table in the OCR context to test if it was somehow hallucinating, also accurately extracted the new data.  * One of those "Jaw to the floor" moments for me.
+		* Did the same task in GPT-4 (just limiting the context window to just 8k tokens), and it worked, but at ~4x more expensive, and without being able to feed it the whole document.
+* Interesting [HN comment](https://news.ycombinator.com/item?id=35951522) about problems with using ChatGPT to replace writers. Not working as well as planned?
+
+## 16 May 2023
+* Sam Lessin on the [S-curve of LLMs and AI](https://twitter.com/lessin/status/1658193420178030592). Others are optimistic that we are on the very early part of one or a series of S-curves that will take us smoothly to AGI. He is skeptical and believes that we will hit the top of LLM S-curves pretty quickly.
+* ['Midjourney China launches – then its announcement disappears'](https://techcrunch.com/2023/05/16/midjourney-comes-to-china/)
+* [Hippocratic.ai launched with](https://techcrunch.com/2023/05/16/hippocratic-is-building-a-large-language-model-for-healthcare/) $50m investment from General Catalyst and Julie Yoo at a16z. Founder/CEO is Munjal Shah who's previous companies were Like.com and Health IQ. Recall previous convo in Feb/March 2023.
+* Zoom announces partnership with [Anthropic to use Claude](https://techcrunch.com/2023/05/16/zoom-announces-anthropic-partnership-to-bring-claude-chatbot-to-zoom-products/)
+* ['Visual Layer helps enterprise manage the massive visual datasets they need to build AI models, raises $7M'](https://techcrunch.com/2023/05/16/visual-layer-helps-enterprise-manage-the-massive-visual-data-sets-they-need-to-build-ai-models-raises-7m/)
+
+## 17 May 2023
+* Stability AI releases an open-source variant of their closed-source hosted DreamStudio called [Stable Studio](https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release). [HN thread](https://news.ycombinator.com/item?id=35975578)
+
+
+## 20 May 2023
+* Neeva shutting down it's consumer-facing [search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown). [HN thread](https://news.ycombinator.com/item?id=36013783)
+
+## 26 May 2023
+* MosaicML introduced ['MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs'](https://www.mosaicml.com/blog/mpt-7b)
+* Check out [LMSYS Org](https://lmsys.org/projects/) which 'develops open datasets, models, systems, and evaluation tools for large models'.
+	* They are behind [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) and first [HN thread](https://news.ycombinator.com/item?id=35378683)
+* [The Verge round of MS Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai)
+* [Yoshua Bengio](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) on 'How Rogue AIs may Arise' and [HN thread](https://news.ycombinator.com/item?id=36042126)
+
+## 27 May 2023
+* [Interesting piece](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) by Honeycomb.io about the challenges of building a professional-grade product based on LLMs. HN thread has [several](https://news.ycombinator.com/item?id=36097141) similarly [skeptical](https://news.ycombinator.com/item?id=36097578) [comments](https://news.ycombinator.com/item?id=36097166)
+* Lawyer uses unwittingly-fabricated fake court cases generated by ChatGPT. [Simon Willison's post](https://simonwillison.net/2023/May/27/lawyer-chatgpt/) and [HN thread](https://news.ycombinator.com/item?id=36097900)
+
+## 29 May 2023
+* Kevin Fischer has founded companies that work with radiologists on ML and has a [blog post](https://methexis.substack.com/p/production-ai-systems-are-really) up about how AGI is not going to take over every social system when GPT5 comes out. [HN comment](https://news.ycombinator.com/item?id=36112841) and [main thread](https://news.ycombinator.com/item?id=36111596)
+* ['All the Nvidia news announced by Jensen Huang at Computex'](https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/)
+* ['Together raises $20M to build open source generative AI models'](https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/)
+* Verge roundup of [all the announcements from Microsoft Build 2023](https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai) especially around AI. [Five biggest announcements](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot) and [Ben Thompson's take](https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot)
+
+## 31 May 2023
+* Meta launches internal coding assistant (similar to GitHub Copilot) called ['CodeComnpose'](https://techcrunch.com/2023/05/18/meta-built-a-code-generating-ai-model-similar-to-copilot/). Currently only available internally, may roll out to outsiders someday.
+* ['Meta bets big on AI with custom chips — and a supercomputer'](https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/) from 5/18/2023
+* ['Adobe brings Firefly’s generative AI to Photoshop'](https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/) 5/23/2023
+* ['Anthropic raises $450M to build next-gen AI assistants'](https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/)
+* [Teens are bullying the new Snapchat AI companion](https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/) 
+* ['Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week'](https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/)
+
+## 07 June 2023
+* ['Contextual AI launches from stealth to build enterprise-focused language models'](https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/)
+* ['DeepMind repurposes game-playing AIs to optimize code and infrastructure'](https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/)
+* ['OpenAI still not training GPT-5, Sam Altman says'](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
+* Google makes generally available gen AI support in it's [Vertex AI platform](https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/)
+* Major topics in the air at Taiwan's [Computex 2023](https://techcrunch.com/2023/05/31/the-elephants-in-the-room-at-computex/): (1) geopolitics; (2) moving TSMC's taiwanese work culture to Arizona; (3) talent shortages; (4) AI chip shortages; and (5) drought in Taiwan
+
+## 20 June 2023
+* From 5/23, round up of [AI-powered video creation startups](https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/) including Gan.ai, Runway AI
+* 5/23 - ['Google experiments with ads in its AI chatbot interface and search interface'](https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/)
+* 5/23 - ['Google introduces Product Studio, a tool that lets merchants create product imagery using generative AI'](https://techcrunch.com/2023/05/23/google-product-studio-tool-lets-merchants-create-product-imagery-using-generative-ai/)
+* From 5/31 - Box alum Faizan Buzdar launches [Roll - a video creation app for high-end prosumers](https://techcrunch.com/2023/05/31/roll-wants-to-recreate-dolly-shots-and-more-using-generative-ai/) using generative AI
+* 5/31 - ['Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding'](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
+* 6/01 - ['Microsoft’s AI-powered Designer tool comes to Teams'](https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/)
+* Web browser startup [SigmaOS adds contextual AI assistant](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/) into its web browser
+* ['Dumme’s AI video editor creates YouTube Shorts in minutes'](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/)
+* 6/07 - ['Google claims that Bard is improving at math and programming'](https://techcrunch.com/2023/06/07/google-claims-that-bard-is-improving-at-math-and-programming/)
+* 6/08 - ['AI startup Cohere, now valued at over $2.1B, raises $270M'](https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/)
+* 6/12 - ['Salesforce launches AI Cloud to bring models to the enterprise'](https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/)
+* 6/13 - ['France’s Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI'](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+* Amr Awadallah (formerly co-founder of Cloudera, VP at Google) has launched his previously stelah enterprise search startup [Vectara with $28.5M in funding](https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/)
+* ['OctoML launches OctoAI, a self-optimizing compute service for AI'](https://techcrunch.com/2023/06/14/octoml-launches-octoai-a-self-optimizing-compute-service-for-ai/), pivoting from its earlier 2019 founding of optimizing ML models "to delivering a cloud platform that is a self-optimizing compute service for AI with a special emphasis on gen AI".
+* ['Google’s new generative AI lets you preview clothes on different models'](https://techcrunch.com/2023/06/14/googles-new-generative-ai-lets-you-preview-clothes-on-different-models/)
+* ['Synthesia secures $90M for AI that generates custom avatars'](https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/)
+* Long interesting pair of interviews with Pieter Abbeel and Ken Goldberg in the robotics space about [applicatins of gen AI to robotics in TC Actuator](https://techcrunch.com/2023/06/15/pieter-abbeel-and-ken-goldberg-on-generative-ai-applications/)
+* 6/19 - ['Parallel Domain’s API lets customers use generative AI to build synthetic datasets'](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
+* 6/19 - ['Vimeo intros a trio of AI-powered editing features'](https://techcrunch.com/2023/06/19/vimeo-introduces-a-trio-of-ai-powered-editing-features/)
+* ['Voice-generating platform ElevenLabs raises $19M, launches detection tool'](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/)-led by Nat Friedman, Daniel Gross, and a16z. "Other participants include SV Angel, Instagram co-founder Mike Krieger, Oculus co-founder Brendan Iribe, Deepmind and Inflection AI co-founder Mustafa Suleyman and O’Reilly Media founder Tim O’Reilly. A source familiar with the matter tells TechCrunch that the tranche values ElevenLabs at $99 million post-money — a respectable figure, especially considering that the startup launched just over a year ago."
+* ['Parrot, an AI-powered transcription platform that turns speech into text, raises $11M Series A'](https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/)
+
+## 21 June 2023
+* ['Harness releases generative AI assistant to help increase developer efficiency'](https://techcrunch.com/2023/06/21/harness-releases-generative-ai-assistant-to-help-ease-developer-workloads/) named 'AIDA' AI-Development Assistant'
+* ['Otter is introducing a meeting-oriented AI chatbot'](https://techcrunch.com/2023/06/21/otter-is-introducing-a-meeting-oriented-ai-chatbot/)
+
+## 23 June 2023
+* Inflection-1 is a new model of roughly similar size and capability to GPT-3.5 from [Inflection company](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/) and released associated [blog post](https://inflection.ai/inflection-1) and [technical paper](https://inflection.ai/assets/Inflection-1_0622.pdf)
+
+## 27 June 2023
+* Forbes article on [problems at Stability AI](https://www.forbes.com/sites/kenrickcai/2023/06/04/stable-diffusion-emad-mostaque-stability-ai-exaggeration/?sh=548add1075c5) and exaggerations/lies told by founder Emad Mostaque
+* ['BentoML scores $9M funding to expedite AI app development'](https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/)
+* ['Inflection lands $1.3B investment to build more "personal" AI'](https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/)
+
+## 06 July 2023
+* [Databricks aquires MosaicML for $1.3B](https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/)
+* [DeepMind claims forthcoming Gemini chatbot will rival ChatGPT](https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/)
+* French startup Dust is not building it's own LLM. Instead, it uses existing LLMs to [train on internal company data to improve company productivity](https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/)
+* Loora is an audio-only generative AI company that [just raised $9M](https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/)
+* ['Reka emerges from stealth to build custom AI models for the enterprise'](https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/)
+* ['Runway, a startup building generative AI for content creators, raises $141M'](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
+* Voice.ai is a more mass-market "everyman" competitor to ElevenLabs with a real-time voice changer. [Raised $6m](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
+
+## 08 July 2023
+* ['The week in AI: Generative AI spams up the web'](https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/)
+* ['SpeedyBrand uses generative AI to create SEO-optimized content'](https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/)
+* ['Meituan buys founder’s months-old ‘OpenAI for China’ for $234M'](https://techcrunch.com/2023/06/29/meituan-buys-founders-months-old-openai-for-china-for-280m/)
+* ['Speakeasy is using AI to automate API creation and distribution'](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
+
+## 18 July 2023
+* Links related to Meta's joint launch with Microsoft of LLaMA 2. [Verge article](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft), [Statement of Open Source support](https://about.fb.com/news/2023/07/llama-2-statement-of-support/), [NY Times article](https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html) by Cade Metz and Mike Isaac, and [HN](https://news.ycombinator.com/item?id=36774627), and Simon Willison's supporting [update to his CLI tool](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)  
+
+## 20 July 2023
+* Late June [TC interview](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/) with Kindred Ventures on 'massive explosion of AI startups'
+* ['CalypsoAI raises $23M to add guardrails to generative AI models'](https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/)
+* ['GitHub CEO: AI and software development are now inextricably linked'](https://techcrunch.com/2023/06/27/github-ceo-ai-and-software-development-are-now-inextricably-linked/)
+* ['China’s AI firms might further lose chip access in new US ban'](https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/)
+* ['Gleamer, which provides AI software for radiologists, raises $29.5M'](https://techcrunch.com/2023/06/28/gleamer-which-provides-ai-software-for-radiologists-raises-29-5m/)
+* ['Typeface, which is building generative AI for brands, raises $100M at a $1B valuation'](https://techcrunch.com/2023/06/29/typeface-which-is-building-generative-ai-for-brands-raises-100m-at-a-1b-valuation/)
+* ['Meta really wants to explain its AI recommendation algorithms to you'](https://techcrunch.com/2023/06/29/meta-really-wants-to-explain-its-ai-recommendation-algorithms-to-you/)
+* ['Meta expects recommendation models ‘orders of magnitude’ bigger than GPT-4. Why?'](https://techcrunch.com/2023/06/29/metas-behavior-analysis-model-is-orders-of-magnitude-bigger-than-gpt-4-why/)
+* ['Microsoft brings new AI-powered shopping tools to Bing and Edge'](https://techcrunch.com/2023/06/29/microsoft-brings-new-ai-powered-shopping-tools-to-bing-and-edge/)
+* ['AI is not a panacea for software development'](https://techcrunch.com/2023/06/30/ai-is-not-a-panacea-for-software-development/) TC+ paid article
+* ['Feels like you missed the generative AI train? 5 steps for speeding ahead in 90 days'](https://techcrunch.com/2023/07/11/feeling-late-for-the-generative-ai-train-5-clear-steps-for-speeding-ahead-in-90-days/) by Will Poole who 'invests' in startups in the global south. TC+ paid article but intro gives sufficient overview.
+* ['China’s search engine pioneer unveils open source large language model to rival OpenAI'](https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/). [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
+* ['Backed by Gradient, Fileread use large language models to make legal discovery more efficient'](https://techcrunch.com/2023/07/11/fileread/)
+* ['Anthropic releases Claude 2, its second-gen AI chatbot'](https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/)
+* ['Prompt engineering startup Vellum.ai raises $5M as demand for generative AI services scales'](https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/)
+* ['Sapphire Ventures plans to invest over $1B in enterprise AI startups'](https://techcrunch.com/2023/07/11/sapphire-ventures-plans-to-invest-over-1b-in-enterprise-ai-startups/)
+* ['eBay acquires AI-powered product authentication company Certilogo'](https://techcrunch.com/2023/07/11/ebay-acquires-product-authentication-company-certilogo/)
+* ['Shutterstock expands deal with OpenAI to build generative AI tools'](https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/)
+* ['Voice cloning platform Resemble AI lands $8M'](https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/)
+* ['Quora’s Poe chatbot introduces better context window and document upload support'](https://techcrunch.com/2023/07/12/quoras-poe-chatbot-introduces-better-context-window-and-document-upload-support/)
