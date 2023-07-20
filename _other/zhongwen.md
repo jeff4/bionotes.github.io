@@ -7,6 +7,7 @@ permalink: /zhongwen/
 * 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
 * 6/13/2023 - Miscellaneous 
 	* 貓 [猫] - māo (cat)
+	* 狗 - gǒu (dog)
 	* 貓爪子 [猫爪子]- māo zhǎo zi (cat claws)
 	* 老虎 - lǎo hǔ (tiger)
 	* 老虎爪子 - lǎo hǔ zhǎo zi (tiger claws)
@@ -46,7 +47,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-## 6/16 - 7/19
+## 6/16 - 7/22
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -60,6 +61,7 @@ permalink: /zhongwen/
 1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
 1. 嗑藥 [嗑药] - kè yào (to take drugs). See also Lesson 20.
 1. 騙 [骗] - piàn (to fool, to trick). From CH.
+1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogout) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
