@@ -450,6 +450,12 @@ sitemap: false
 ## 18 July 2023
 * Links related to Meta's joint launch with Microsoft of LLaMA 2. [Verge article](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft), [Statement of Open Source support](https://about.fb.com/news/2023/07/llama-2-statement-of-support/), [NY Times article](https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html) by Cade Metz and Mike Isaac, and [HN](https://news.ycombinator.com/item?id=36774627), and Simon Willison's supporting [update to his CLI tool](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)  
 
-
-
-
+## 20 July 2023
+* Late June [TC interview](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/) with Kindred Ventures on 'massive explosion of AI startups'
+* ['CalypsoAI raises $23M to add guardrails to generative AI models'](https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/)
+* ['GitHub CEO: AI and software development are now inextricably linked'](https://techcrunch.com/2023/06/27/github-ceo-ai-and-software-development-are-now-inextricably-linked/)
+* ['China’s AI firms might further lose chip access in new US ban'](https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/)
+* ['Gleamer, which provides AI software for radiologists, raises $29.5M'](https://techcrunch.com/2023/06/28/gleamer-which-provides-ai-software-for-radiologists-raises-29-5m/)
+* ['Typeface, which is building generative AI for brands, raises $100M at a $1B valuation'](https://techcrunch.com/2023/06/29/typeface-which-is-building-generative-ai-for-brands-raises-100m-at-a-1b-valuation/)
+* ['Meta really wants to explain its AI recommendation algorithms to you'](https://techcrunch.com/2023/06/29/meta-really-wants-to-explain-its-ai-recommendation-algorithms-to-you/)
+* ['Meta expects recommendation models ‘orders of magnitude’ bigger than GPT-4. Why?'](https://techcrunch.com/2023/06/29/metas-behavior-analysis-model-is-orders-of-magnitude-bigger-than-gpt-4-why/)
