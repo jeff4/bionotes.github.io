@@ -585,3 +585,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 男 - nán (male)
 1. 女 - nǚ (female)
 1. 穿 - chuān (to wear)
+
+### Lesson 24
+1. 最 - zuì (the most)
+1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
+1. 更 - gèng (even more)
