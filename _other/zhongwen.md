@@ -141,7 +141,7 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 5
 1. 椅子 - yǐ zi (chair)
-1. 和 - hé (and) 
+1. 和 - hé (and). See also 暖和 *nuǎn huo* from Lesson 23. And 跟 *gēn* from Lesson 8.
 1. 桌子 - zhuō zi (table) 
 1. 都 - dōu (all) 
 1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
@@ -218,7 +218,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 上午 - shàng wǔ (morning) 
 1. 下午 - xià wǔ (afternoon) 
 1. 要 - yào (to want) 
-1. 跟 - gēn (with) 
+1. 跟 - gēn (with). See also 和 *hé* from Lesson 5.
 1. 但是 - dàn shì (but) 
 1. 哪兒 [儿] - nǎr? (where?) 
 1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
@@ -567,7 +567,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 真 - zhēn (really; real)
 1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
 1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up)
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in Lesson 5.
 1. 大衣 - dà yī (overcoat)
 1. 天氣 [天气] - tiān qì (weather)
 1. 下雨 - xià yǔ (to rain)
