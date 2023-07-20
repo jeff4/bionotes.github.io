@@ -266,6 +266,7 @@ Go to [this page](/tt-blue-lotus/)
  * 了 - le 		THIS IS 'l'
  * 'h navigates to 還[还] *or* and *return*
 
+
 ### Lesson 10
 1. 太 - tài (too as in 'too much') 
 1. 自己 - zì jǐ (oneself) 
@@ -563,6 +564,24 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 23
 1. 天氣 [天气] - tiān qì (weather)
-1. 冬天 - dōng tiān (winter)
 1. 真 - zhēn (really; real)
 1. 比 - bǐ (compare; also vulgar for South American *la concha*)
+1. 去年 - qù nián (last year)
+1. 正 - zhèng (correct, right, straighten)
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up)
+1. 穿 - chuān (to wear)
+1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
+1. 大衣 - dà yī (overcoat)
+1. 讓 [让] - ràng (to allow)
+1. 下雪 - xià xuě (to snow)
+1. 下雨 - xià yǔ 
+1. 颳風 [刮风] - guā fēng (to be windy)
+1. 冬天 - dōng tiān (winter)
+1. 春天 - chūn tiān (spring)
+1. 夏天 - xià tiān (summer)
+1. 秋天 - qiū tiān (autumn, fall)
+1. 好像 - hǎo xiàng (very like, similar to, resembles)
+1. 過去 [过去] - guo qu *or* guò qù (to pass by)
+1. 漂亮 - piào liang (pretty)
+1. 男 - nán (male)
+1. 女 - nǚ (female)
