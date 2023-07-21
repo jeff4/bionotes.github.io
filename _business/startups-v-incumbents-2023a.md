@@ -479,3 +479,15 @@ sitemap: false
 * ['Stability AI releases Stable Doodle, a sketch-to-image tool'](https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/)
 * ['Meta claims its new art-generating model is best-in-class'](https://techcrunch.com/2023/07/14/meta-generative-transformer-art-model/)
 * ['Microsoft launches vector search in preview, voice cloning in general availability'](https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/)
+
+## 21 July 2023
+* ['Microsoft brings Bing Chat to the enterprise'](https://techcrunch.com/2023/07/18/microsoft-brings-bing-chat-to-the-enterprise/)
+* ['Meta launches an AI research community, but devotes few resources to it'](https://techcrunch.com/2023/07/18/meta-launches-an-ai-research-community-but-devotes-few-resources-to-it/)
+* ['Lensa AI backer exits Servers.com for $200M'](https://techcrunch.com/2023/07/18/sources-lensa-ai-backer-exits-servers-com-for-200m/)
+* ['FedML raises $11.5 to combine MLOps tools with a decentralized AI compute network'](https://techcrunch.com/2023/07/19/fedml-raises-11-5-to-combine-mlops-tools-with-a-decentralized-ai-compute-network/)
+* ['CodeSee adds generative AI to explore code bases with natural language queries'](https://techcrunch.com/2023/07/19/codesee-adds-generative-ai-to-explore-code-base-with-natural-language-queries/)
+* ['SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha'](https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/)
+* ['Unstructured, which offers tools to prep enterprise data for LLMs, raises $25M'](https://techcrunch.com/2023/07/19/unstructured-which-offers-tools-to-prep-enterprise-data-for-llms-raises-25m/)
+* ['Apple is testing a ChatGPT-like AI chatbot'](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
+* ['China’s OpenAI challenger Zhipu AI gets Meituan funding'](https://techcrunch.com/2023/07/19/chinas-openai-challenger-zhipu-ai-gets-meituan-funding/)
+* ['Can dltHub solve the Python library problem for AI? Dig Ventures thinks so'](https://techcrunch.com/2023/07/20/can-dlthub-solve-the-python-library-problem-for-ai-dig-ventures-thinks-so/) -- open source Python library to simplify loading into legacy destinations. Somewhat competes with FiveTran and other ETL vendors.
