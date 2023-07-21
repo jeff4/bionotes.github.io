@@ -450,7 +450,7 @@ sitemap: false
 ## 18 July 2023
 * Links related to Meta's joint launch with Microsoft of LLaMA 2. [Verge article](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft), [Statement of Open Source support](https://about.fb.com/news/2023/07/llama-2-statement-of-support/), [NY Times article](https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html) by Cade Metz and Mike Isaac, and [HN](https://news.ycombinator.com/item?id=36774627), and Simon Willison's supporting [update to his CLI tool](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)  
 
-## 20 July 2023
+## 19 July 2023
 * Late June [TC interview](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/) with Kindred Ventures on 'massive explosion of AI startups'
 * ['CalypsoAI raises $23M to add guardrails to generative AI models'](https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/)
 * ['GitHub CEO: AI and software development are now inextricably linked'](https://techcrunch.com/2023/06/27/github-ceo-ai-and-software-development-are-now-inextricably-linked/)
@@ -463,6 +463,8 @@ sitemap: false
 * ['AI is not a panacea for software development'](https://techcrunch.com/2023/06/30/ai-is-not-a-panacea-for-software-development/) TC+ paid article
 * ['Feels like you missed the generative AI train? 5 steps for speeding ahead in 90 days'](https://techcrunch.com/2023/07/11/feeling-late-for-the-generative-ai-train-5-clear-steps-for-speeding-ahead-in-90-days/) by Will Poole who 'invests' in startups in the global south. TC+ paid article but intro gives sufficient overview.
 * ['China’s search engine pioneer unveils open source large language model to rival OpenAI'](https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/). [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
+
+## 20 July 2023
 * ['Backed by Gradient, Fileread use large language models to make legal discovery more efficient'](https://techcrunch.com/2023/07/11/fileread/)
 * ['Anthropic releases Claude 2, its second-gen AI chatbot'](https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/)
 * ['Prompt engineering startup Vellum.ai raises $5M as demand for generative AI services scales'](https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/)
@@ -471,3 +473,9 @@ sitemap: false
 * ['Shutterstock expands deal with OpenAI to build generative AI tools'](https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/)
 * ['Voice cloning platform Resemble AI lands $8M'](https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/)
 * ['Quora’s Poe chatbot introduces better context window and document upload support'](https://techcrunch.com/2023/07/12/quoras-poe-chatbot-introduces-better-context-window-and-document-upload-support/)
+* ['Kakao ups its game in generative AI with Karlo 2.0, an AI image generator'](https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/)
+* ['Adobe says Firefly has now generated 1B images, takes it global'](https://techcrunch.com/2023/07/12/adobe-says-firefly-has-now-generated-1b-images-takes-it-global/)
+* ['Google’s AI-assisted note-taking app gets limited launch as NotebookLM'](https://techcrunch.com/2023/07/12/googles-ai-assisted-note-taking-app-gets-limited-launch-as-notebooklm/)
+* ['Stability AI releases Stable Doodle, a sketch-to-image tool'](https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/)
+* ['Meta claims its new art-generating model is best-in-class'](https://techcrunch.com/2023/07/14/meta-generative-transformer-art-model/)
+* ['Microsoft launches vector search in preview, voice cloning in general availability'](https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/)
