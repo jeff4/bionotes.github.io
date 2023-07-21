@@ -589,6 +589,13 @@ Go to [this page](/tt-blue-lotus/)
 1. 穿 - chuān (to wear)
 
 ### Lesson 24
+1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
+1. 散步 - sàn bù (to walk, stroll)
+1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 小姐 - xiǎo jiě (young lady)
+1. 生活 - shēng huó (life, livelihood)
+
+### Lesson 25
 1. 最 - zuì (the most)
 1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
 1. 更 - gèng (even more)
