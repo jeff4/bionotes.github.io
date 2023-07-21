@@ -514,7 +514,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 病 - bìng (illness)
 1. 感冒 - gǎn mào (to catch a cold)
 1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 發展 [发展] - fā zhǎn (to develop)
+1. 發展 [发展] - fā zhǎn (to develop). See also Lesson 24.
 1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from Lesson 14
 1. 醫院 [医院] - yī yuàn (hospital)
 
@@ -594,8 +594,18 @@ Go to [this page](/tt-blue-lotus/)
 1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
 1. 小姐 - xiǎo jiě (young lady)
 1. 生活 - shēng huó (life, livelihood)
+1. 比方說 [比方说] - bǐ fang shuō (for example)
+1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel)
+1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
+1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
+1. 發生 [发生] - fā shēng (to happen, to occur). See also Lesson 20.
+1. 從前 [从前] - cóng qián (before, formerly, in the past)
+1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
+1. 增加 - zēng jiā (to increase)
+1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
 
 ### Lesson 25
 1. 最 - zuì (the most)
 1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
 1. 更 - gèng (even more)
+
