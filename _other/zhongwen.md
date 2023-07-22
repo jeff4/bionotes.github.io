@@ -503,7 +503,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 電話 [电话] - diàn huà (telephone)
 1. 手機 [手机] - shǒu jī (mobile phone)
 1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 走路 - zǒu lù (to walk on a road)
+1. 走路 - zǒu lù (to walk on a road). See also Lesson 24 for *jiē*
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
 1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
@@ -603,6 +603,11 @@ Go to [this page](/tt-blue-lotus/)
 1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
 1. 增加 - zēng jiā (to increase)
 1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
+1. 立刻 - lì kè (immediately, at once)
+1. 街 - jiē (street). See also Lesson 20 for 路 *lù* (road).
+1. 人口 - rén kǒu (population; family size)
+1. 分之 - fēn zhī (part of a fraction). e.g. 三分之五 means 'three/fifths'.
+1. 就是 - jiù shì (lots of meanings. old notes say 'all except'. But see Plekko...)
 
 ### Lesson 25
 1. 最 - zuì (the most)
