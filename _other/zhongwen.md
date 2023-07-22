@@ -606,11 +606,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 立刻 - lì kè (immediately, at once)
 1. 街 - jiē (street). See also Lesson 20 for 路 *lù* (road).
 1. 人口 - rén kǒu (population; family size)
-1. 分之 - fēn zhī (part of a fraction). e.g. 三分之五 means 'three/fifths'.
+1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 
+1/3'.
 1. 就是 - jiù shì (lots of meanings. old notes say 'all except'. But see Plekko...)
-
-### Lesson 25
-1. 最 - zuì (the most)
-1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
-1. 更 - gèng (even more)
-
