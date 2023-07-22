@@ -178,7 +178,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
 1. 知道 - zhī dào (to know)
 1. 了解 - liǎo jiě (to understand) 
-1. 懂 - dǒng (to understand) 
+1. 懂 - dǒng (to understand). Radical is 重 *zhòng* from Lessons 14 and 24. And 種 *zhǒng* from Lesson 15. 
 1. 日本 - Rì běn (Japan) 
 1. 第一 - dì yī (ordinal number aka '#1') 
 1. 你是誰 [谁] - nǐ shì shuí (shuí = 'who')
