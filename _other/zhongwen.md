@@ -548,7 +548,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 一樣 [一样] - yī yàng (to be the same)
 1. 像 - xiàng (to resemble)
 1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 放假 - fàng jià (to have vacation)
+1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
+1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
 1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
 1. 錯 [错] - cuò (wrong). See also Lesson 12.
 1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
@@ -609,3 +610,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 
 1/3'.
 1. 就是 - jiù shì (lots of meanings. old notes say 'all except'. But see Plekko...)
+
+### Lesson 25
+1. 最 - zuì (the most)
+1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
+1. 更 - gèng (even more)
