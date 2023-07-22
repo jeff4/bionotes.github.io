@@ -491,3 +491,7 @@ sitemap: false
 * ['Apple is testing a ChatGPT-like AI chatbot'](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
 * ['China’s OpenAI challenger Zhipu AI gets Meituan funding'](https://techcrunch.com/2023/07/19/chinas-openai-challenger-zhipu-ai-gets-meituan-funding/)
 * ['Can dltHub solve the Python library problem for AI? Dig Ventures thinks so'](https://techcrunch.com/2023/07/20/can-dlthub-solve-the-python-library-problem-for-ai-dig-ventures-thinks-so/) -- open source Python library to simplify loading into legacy destinations. Somewhat competes with FiveTran and other ETL vendors.
+* ['Gushwork.ai raises $2M, led by Lightspeed, to outsource business tasks to workforces trained in AI'](https://techcrunch.com/2023/07/20/gushwork-ai-funding-lightspeed/)
+* ['What happened when Nous.co hooked up generative AI to its users’ household bills'](https://techcrunch.com/2023/07/20/what-happened-when-nous-co-hooked-up-generative-ai-to-its-users-household-bills/)
+* ['Google is testing an AI tool that can write news articles'](https://techcrunch.com/2023/07/20/google-reportedly-testing-ai-tool-write-news-articles/)
+* ['OpenAI launches customized instructions for ChatGPT'](https://techcrunch.com/2023/07/20/openai-launches-customized-instructions-for-chatgpt/)
