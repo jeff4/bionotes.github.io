@@ -495,5 +495,4 @@ sitemap: false
 * ['What happened when Nous.co hooked up generative AI to its users’ household bills'](https://techcrunch.com/2023/07/20/what-happened-when-nous-co-hooked-up-generative-ai-to-its-users-household-bills/)
 * ['Google is testing an AI tool that can write news articles'](https://techcrunch.com/2023/07/20/google-reportedly-testing-ai-tool-write-news-articles/)
 * ['OpenAI launches customized instructions for ChatGPT'](https://techcrunch.com/2023/07/20/openai-launches-customized-instructions-for-chatgpt/)
-* ['
-* ['
+* 
