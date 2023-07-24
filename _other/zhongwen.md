@@ -22,7 +22,7 @@ permalink: /zhongwen/
 	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
 	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
 	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
-	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from Lesson 11
+	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from L11
 	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
 	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
 * 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
@@ -51,15 +51,15 @@ permalink: /zhongwen/
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
-1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in Lesson 17.
+1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in L17.
 1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also Lesson 7*
+1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also L7*
 1. 南京 - Nánjīng
-1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also Lesson 10*
+1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also L10*
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
-1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from Lesson 22.
-1. 嗑藥 [嗑药] - kè yào (to take drugs). See also Lesson 20.
+1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from L22.
+1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
 1. 騙 [骗] - piàn (to fool, to trick). From CH.
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
 1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. 
@@ -75,7 +75,7 @@ Go to [this page](/tt-blue-lotus/)
 ## Harvard Mandarin Textbook
 ### Lesson 1
 1. 學生 - xué shēng  
-1. 老師 - lǎo shī (See also 教師 jiào shī 'teacher' in Lesson 19)
+1. 老師 - lǎo shī (See also 教師 jiào shī 'teacher' in L19)
 1. 你 - nǐ
 1. 是 - shì 
 1. 美國 - Měi guó 
@@ -119,7 +119,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 乾淨 - gān jing (clean) 
 1. 本子  - běn zi (notebook) 
 1. 對不對 - duì bù duì (is that right?)
-1. 對 - duì (correct; to, towards -- second def is from Lesson 21)
+1. 對 - duì (correct; to, towards -- second def is from L21)
 1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
 1. 朋友 - péng yǒu
 1. 中文 - Zhōng wén 
@@ -144,7 +144,7 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 5
 1. 椅子 - yǐ zi (chair)
-1. 和 - hé (and). See also 暖和 *nuǎn huo* from Lesson 23. And 跟 *gēn* from Lesson 8.
+1. 和 - hé (and). See also 暖和 *nuǎn huo* from L23. And 跟 *gēn* from L8.
 1. 桌子 - zhuō zi (table) 
 1. 都 - dōu (all) 
 1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
@@ -164,14 +164,14 @@ Go to [this page](/tt-blue-lotus/)
 1. ...還是 [还是]...? - hái shì (...or...?) 
 1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
 1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-	* see also Lesson 13
+	* see also L13
 
 ### Lesson 6
 1. 姓 - xìng (surname) 
 1. 叫 - jiào (shout; call, greet; hire, order)  
 1. 甚麽 [什么] - shén me (what) 
 1. 名字 - míng zi (name) 
-1. 怎麼 [怎么] - zěn me (how/why) See also Lesson 15
+1. 怎麼 [怎么] - zěn me (how/why) See also L15
 1. Traditional:	這怎麼發生的 - zhè zěnme fāshēng de? (How did this happen?)
 1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
 1. 以前 - yǐ qián (before) 
@@ -179,7 +179,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
 1. 知道 - zhī dào (to know)
 1. 了解 - liǎo jiě (to understand) 
-1. 懂 - dǒng (to understand). Radical is 重 *zhòng* from Lessons 14 and 24. And 種 *zhǒng* from Lesson 15. 
+1. 懂 - dǒng (to understand). Radical is 重 *zhòng* from Lessons 14 and 24. And 種 *zhǒng* from L15. 
 1. 日本 - Rì běn (Japan) 
 1. 第一 - dì yī (ordinal number aka '#1') 
 1. 你是誰 [谁] - nǐ shì shuí (shuí = 'who')
@@ -201,7 +201,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 一个小時 - yī gè xiǎo shí (one hour)
 1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
 1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
-1. 今天 - jīn tiān (today) See main section in Lesson 11
+1. 今天 - jīn tiān (today) See main section in L11
 1. 今年 - jīn nián (this year) 
 1. 日 - rì (day)
 1. 忙 - máng (busy) 
@@ -210,7 +210,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 過來 [过来]- guò lái (come over here) 
 1. 過[过]- guò (to cross; to pass time)
 1. 現在 [现在] - xiàn zài (right now) 
-1. 時候 [时候] - shí hòu (time) See also 時間 shí jiān in Lesson 18 
+1. 時候 [时候] - shí hòu (time) See also 時間 shí jiān in L18 
 1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
 1. 零 - líng (zero) 
 1. 一半 - yī bàn (one half)
@@ -221,7 +221,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 上午 - shàng wǔ (morning) 
 1. 下午 - xià wǔ (afternoon) 
 1. 要 - yào (to want) 
-1. 跟 - gēn (with). See also 和 *hé* from Lesson 5.
+1. 跟 - gēn (with). See also 和 *hé* from L5.
 1. 但是 - dàn shì (but) 
 1. 哪兒 [儿] - nǎr? (where?) 
 1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
@@ -234,12 +234,12 @@ Go to [this page](/tt-blue-lotus/)
 1. 問 - wèn (to ask) 
 1. 宿舍 - sù shè (dormitory) 
 1. 一起 - yī qǐ (together) 
-1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Originally from Lesson 20
+1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Originally from L20
 1. 有事兒 - yǒu shèr (busy) 
 1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
 1. 喜歡 [喜欢] - xǐ huan (to like) 
 1. 電影 [电影] - diàn yǐng (movie)
-1. 從 [从]- cóng (from) See also *Lesson 15*
+1. 從 [从]- cóng (from) See also *L15*
 1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
 1. 為什么 *JH preferred*  - wéi shén me? (why?). [为甚麽 *simp+trad*] - wéi shén me? (why?) 
 
@@ -313,8 +313,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 經過 [经过] - jīng guò (pass, go through, undergo)
 1. 開始 [开始] - kāi shǐ (to begin)
 1. 開[开] - kāi (to open)  
-1. 開車 [开车] - kāi chē (to drive a car) originally from Lesson 20
-1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *Lesson 13*.  
+1. 開車 [开车] - kāi chē (to drive a car) originally from L20
+1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *L13*.  
 1. 哈佛 - Hāfó (Harvard) 
 
 ### Lesson 12
@@ -325,7 +325,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 哦 - ó (*interjection* expressing doubt)
 1. 哦 - ò (*interjection* expressing realization; understanding) 
 1. 聽 [听] - tīng (to listen)
-1. 不錯 [不错] - bù cuò (correct; not bad; pretty good). See also Lesson 22.
+1. 不錯 [不错] - bù cuò (correct; not bad; pretty good). See also L22.
 1. 句 - jù (measure word for sentence)
 1. 句子 - jù zi (sentence)
 1. 走 - zǒu (to walk)
@@ -337,7 +337,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 清楚 - qīng chu (clarity, to be clear about, to understand)
 1. 復⧸複習 [复习] - fù xí (to review; revision)
 1. 語法 [语法] - yǔ fǎ (grammar)
-1. 辦法 [办法] - bàn fǎ (solution) See also *Lesson 15*
+1. 辦法 [办法] - bàn fǎ (solution) See also *L15*
 1. 法國 - Fǎ guó (France)
 1. 課文 [课文] - kè wén (text)
 1. 功課 [功课] - gōng kè (homework; schoolwork)  
@@ -345,7 +345,7 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 13
 1. 漢字 [汉字] - Hàn zì (Chinese characters)
-1. 沒関係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind') See *Lesson 11*
+1. 沒関係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind') See *L11*
 1. 以後 [以后] - yǐ hòu  (later)
 1. 得 - děi (need; must; to have to) 
 1. 字典 - zì diǎn (dictionary)
@@ -354,7 +354,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 打球 - dǎ qiú (to play ball)
 1. 打 - dǎ (to hit)
 1. 球 - qiú (ball)
-1. 應該 [应该] - yīng gāi (should) *see also Lesson 5*
+1. 應該 [应该] - yīng gāi (should) *see also L5*
 1. 考試 [考试] - kǎo shì (to take an exam)
 1. 準備 [准备] - zhǔn bèi (to prepare)
 1. 努力 - nǔ lì (diligent)
@@ -367,13 +367,13 @@ Go to [this page](/tt-blue-lotus/)
 1. 同學 [同学] tóng xué (schoolmate) 
 1. 演 - yǎn (perform, play, act in a play)
 1. 話劇 [话剧] huà jù (a play)
-1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from Lesson 20
+1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from L20
 1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
-1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19. And 有意思 *yǒu yì si* from Lesson 5.
+1. 注意 - zhù yì (pay close attention) See also 住 (to live) in L19. And 有意思 *yǒu yì si* from L5.
 1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
-1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
-1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
-1. 别人 - bié rén (other people). Originally introduced in Lesson 16
+1. 报告 - bào gào (report) See also 告訴 *gào su* in L15
+1. 别的 - bié de (others) See also 特別 (especially) in L10
+1. 别人 - bié rén (other people). Originally introduced in L16
 1. 事情 - shì qing (matter, affair, issue)
 1. 有名 - yǒu míng  
 1. 不停的 - bù tíng de (without stopping) 
@@ -381,7 +381,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
 1. 休息 - xiū xi (rest)
 1. 重要 - zhòng yào (important)
-1. 意思  - yì si (meaning) See also Lesson 5
+1. 意思  - yì si (meaning) See also L5
 1. 討論 [讨论] - tǎo lùn (to discuss)
 
 ### Lesson 15
@@ -391,15 +391,15 @@ Go to [this page](/tt-blue-lotus/)
 1. 當然 [当然] - dāng rán (of course)
 1. 種 [种] - zhǒng (type, kind)
 1. 有用 - yǒu yòng (useful)
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
+1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from L8. Originally from *L18*
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
 1. 上課 [上课] - shàng kè attend class
-1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
-1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
-1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
+1. 從...到 [从...到] - cóng...dào (from...to...) See also L8
+1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also L6* 
+1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also L12*
 1. 方法 - fāng fǎ (method, way, means)
-1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
+1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in L14
 1. 互相 - hù xiāng (mutually)
 1. 要是...就 - yào shi...jiù (if...then...)
 1. 必須 [必须] - bì xū (should; present)
@@ -407,14 +407,14 @@ Go to [this page](/tt-blue-lotus/)
 1. 回答 - huí dá (reply, response, answer)
 
 ### Lesson 16
-1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in Lesson 22
+1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
 1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
 1. 課本 [课本] - kè běn (textbook)
-1. 剛 [刚] - gāng (just) see also Lesson 11
+1. 剛 [刚] - gāng (just) see also L11
 1. 完 - wán (finished, e.g., 吃完了)
 1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
 1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
-1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in Lesson 22.
+1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in L22.
 1. 書店 [书店] - shū diàn (bookstore)
 1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
 1. 高 - gāo (high) 
@@ -436,7 +436,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
 1. 頭 [头] - tóu (head)
 1. 臉 [脸] - liǎn (face)
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain)
+1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 winter from L23.
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
 1. 試 [试] - shì (to try, to test)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
@@ -451,8 +451,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
 1. 坐 - zuò (to sit)
 1. 極了[极了] - jí le  (very, extremely)
-1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from Lesson 10*
-1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from Lesson 19*
+1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
+1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
 
 ### Lesson 18
 1. 進 [进] - jìn (to enter)
@@ -465,13 +465,13 @@ Go to [this page](/tt-blue-lotus/)
 1. 便宜 - pián yi (inexpensive)
 1. 方便 - fāng biàn (convenient)
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
-1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in Lesson 7
+1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
 1. 自行車 [自行车] - zì xíng chē (bicycle)
 1. 騎 [骑] - qí (to ride a bicycle or vehicle)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 回 - huí (to return) See also 回答 huí dá in Lesson 15
+1. 回 - huí (to return) See also 回答 huí dá in L15
 1. 帶[带] - dài (to bring along, to carry)
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
 1. 免費 [免费] - miǎn fèi (free of charge) 
@@ -493,9 +493,9 @@ Go to [this page](/tt-blue-lotus/)
 1. 台北 - Tái běi (Taipei)
 1. 忘 - wàng (to forget)
 1. 客氣 [客气] - kè qi (polite, courteous)
-1. 住 - zhù (to live at). See also 注意 *zhù yì* from Lesson 14.
+1. 住 - zhù (to live at). See also 注意 *zhù yì* from L14.
 1. 習慣 [习惯] - xí guàn (to be used to) 
-1. 教師 [教师] - jiào shī See also 老師 from Lesson 1
+1. 教師 [教师] - jiào shī See also 老師 from L1
 1. 啊 - à ("ah" as an interjection)
 
 ### Lesson 20
@@ -504,7 +504,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 電話 [电话] - diàn huà (telephone)
 1. 手機 [手机] - shǒu jī (mobile phone)
 1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 走路 - zǒu lù (to walk on a road). See also Lesson 24 for *jiē*
+1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
 1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
@@ -515,14 +515,14 @@ Go to [this page](/tt-blue-lotus/)
 1. 病 - bìng (illness)
 1. 感冒 - gǎn mào (to catch a cold)
 1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 發展 [发展] - fā zhǎn (to develop). See also Lesson 24.
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from Lesson 14
+1. 發展 [发展] - fā zhǎn (to develop). See also L24.
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
 1. 醫院 [医院] - yī yuàn (hospital)
 
 ### Lesson 21
 1. 信 - xìn (letter)
 1. 病人 - bìng rén (sick person, patient)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from Lesson 5
+1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
 1. 熱情 [热情] - rè qíng (warm, compassionate)
 1. 送 - sòng (to send)
 1. 決定 [决定] - jué dìng (to decide)
@@ -537,10 +537,10 @@ Go to [this page](/tt-blue-lotus/)
 1. 希望 - xī wàng (hope - both noun and verb)
 1. 祝 - zhù (to wish well, e.g., 祝你好)
 1.  
-1. 還 [还] - huán (to go back to; to give back, repay) from Lesson 5. Delete when done
-1. 給 [给] - gěi (to give) from Lesson 4. Delete when done
-1. 對 - duì (correct; to, towards -- second def is from Lesson 3) Delete when done
-1. 還 [还] - huán (to go back to; to give back, repay). From Lesson 5. Delete when done.
+1. 還 [还] - huán (to go back to; to give back, repay) from L5. Delete when done
+1. 給 [给] - gěi (to give) from L4. Delete when done
+1. 對 - duì (correct; to, towards -- second def is from L3) Delete when done
+1. 還 [还] - huán (to go back to; to give back, repay). From L5. Delete when done.
 
 ### Lesson 22
 1. 就要...了 -  jiù yào...le (about to...)
@@ -552,7 +552,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
 1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
 1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 錯 [错] - cuò (wrong). See also Lesson 12.
+1. 錯 [错] - cuò (wrong). See also L12.
 1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
 1. 筷子 - kuài zi (chopsticks)
 1. 餓 [饿] - è (hungry)
@@ -560,18 +560,18 @@ Go to [this page](/tt-blue-lotus/)
 1. 飯館 [饭馆] - fàn guǎn (restaurant)
 1. 難 [难] - nán (difficult, hard)
 1.  
-1. 過[过]- guò (to cross; to pass time) Originally from Lesson 7. Delete when finished
+1. 過[过]- guò (to cross; to pass time) Originally from L7. Delete when finished
 1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
-1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from Lesson 16. Delete when finished
+1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from L16. Delete when finished
 1. 菜 - cài (vegetable) DELETE WHEN FINISHED.
-1. 南方 - nán fāng (from the South, "Southern Style"). Placed into Lesson 16; delete when finished
+1. 南方 - nán fāng (from the South, "Southern Style"). Placed into L16; delete when finished
 
 ### Lesson 23
 1. 正 - zhèng (correct, right, straighten)
 1. 真 - zhēn (really; real)
 1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
 1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in Lesson 5.
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
 1. 大衣 - dà yī (overcoat)
 1. 天氣 [天气] - tiān qì (weather)
 1. 下雨 - xià yǔ (to rain)
@@ -580,7 +580,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 春天 - chūn tiān (spring)
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
-1. 冬天 - dōng tiān (winter)
+1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
 1. 去年 - qù nián (last year)
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 1. 過去 [过去] - guo qu *or* guò qù (to pass by)
@@ -600,13 +600,13 @@ Go to [this page](/tt-blue-lotus/)
 1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel)
 1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
 1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
-1. 發生 [发生] - fā shēng (to happen, to occur). See also Lesson 20.
+1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
 1. 從前 [从前] - cóng qián (before, formerly, in the past)
 1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
 1. 增加 - zēng jiā (to increase)
 1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
 1. 立刻 - lì kè (immediately, at once)
-1. 街 - jiē (street). See also Lesson 20 for 路 *lù* (road).
+1. 街 - jiē (street). See also L20 for 路 *lù* (road).
 1. 人口 - rén kǒu (population; family size)
 1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 
 1/3'.
