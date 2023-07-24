@@ -436,7 +436,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
 1. 頭 [头] - tóu (head)
 1. 臉 [脸] - liǎn (face)
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 winter from L23.
+1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
 1. 試 [试] - shì (to try, to test)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
