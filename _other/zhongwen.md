@@ -315,7 +315,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 開[开] - kāi (to open)  
 1. 開車 [开车] - kāi chē (to drive a car) originally from L20
 1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *L13*.  
-1. 哈佛 - Hāfó (Harvard) 
+1. 哈佛 - Hāfó (Harvard). See also 合作社 *co-op* from L15 
 
 ### Lesson 12
 1. 見 [见] - jiàn (verb: to meet with, to catch sight of; noun: view, opinion)
@@ -392,7 +392,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 種 [种] - zhǒng (type, kind)
 1. 有用 - yǒu yòng (useful)
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from L8. Originally from *L18*
-1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
+1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative). See also 哈佛 *Harvard* from L11 
 1. 每 - měi (every; each; per); e.g., 每天 měi tiān
 1. 上課 [上课] - shàng kè attend class
 1. 從...到 [从...到] - cóng...dào (from...to...) See also L8
