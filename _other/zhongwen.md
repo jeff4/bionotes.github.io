@@ -593,7 +593,7 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 24
 1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
 1. 散步 - sàn bù (to walk, stroll)
-1n. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
 1. 小姐 - xiǎo jiě (young lady)
 1. 生活 - shēng huó (life, livelihood)
 1. 比方說 [比方说] - bǐ fang shuō (for example)
