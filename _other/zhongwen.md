@@ -319,7 +319,7 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 12
 1. 見 [见] - jiàn (verb: to meet with, to catch sight of; noun: view, opinion)
-1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted)
+1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted). See also L24 and L25.
 1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
 1. 大家 - dà jiā (everyone)
 1. 哦 - ó (*interjection* expressing doubt)
@@ -597,7 +597,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 小姐 - xiǎo jiě (young lady)
 1. 生活 - shēng huó (life, livelihood)
 1. 比方說 [比方说] - bǐ fang shuō (for example)
-1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel)
+1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
 1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
 1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
 1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
@@ -628,3 +628,10 @@ Go to [this page](/tt-blue-lotus/)
 1. 比較 [比较] - bǐ jiào (comparatively)
 1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
 1. 鐘頭 [钟头] - zhōng tóu (hour)
+1. 雖然 [虽然] - suī rán (although)
+1. 前頭 [前头] - qián tou *aka* 前面 *qián mian* or *qián miàn* (front)
+1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
+1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
+
+### Lesson 26
+1. 日記 [日记] - rì jì (diary)
