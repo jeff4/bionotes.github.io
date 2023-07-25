@@ -388,7 +388,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 買[买] - mǎi (to buy)
 1. 賣[卖] - mài (to sell)
 1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 當然 [当然] - dāng rán (of course)
+1. 當然 [当然] - dāng rán (of course). See also 雖然 from L25. 
 1. 種 [种] - zhǒng (type, kind)
 1. 有用 - yǒu yòng (useful)
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from L8. Originally from L18.
@@ -628,7 +628,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 比較 [比较] - bǐ jiào (comparatively)
 1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
 1. 鐘頭 [钟头] - zhōng tóu (hour)
-1. 雖然 [虽然] - suī rán (although)
+1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
 1. 前頭 [前头] - qián tou *aka* 前面 *qián mian* or *qián miàn* (front)
 1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
 1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
