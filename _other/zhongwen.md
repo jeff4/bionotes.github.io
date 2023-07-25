@@ -62,7 +62,7 @@ permalink: /zhongwen/
 1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
 1. 騙 [骗] - piàn (to fool, to trick). From CH.
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
-1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. 
+1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -504,7 +504,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 電話 [电话] - diàn huà (telephone)
 1. 手機 [手机] - shǒu jī (mobile phone)
 1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*
+1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
 1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
