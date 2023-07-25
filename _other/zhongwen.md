@@ -24,7 +24,7 @@ permalink: /zhongwen/
 	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
 	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from L11
 	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
-	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1911 AD) 
+	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1912 AD) 
 * 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
 	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
 	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
