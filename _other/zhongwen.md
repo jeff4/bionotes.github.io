@@ -680,3 +680,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 錢 [钱] - qián (money)
 1. 怕 - pà (to fear)
 1. 講話 [讲话] - jiǎng huà (speech, lecture)
+
+### Lesson 28
+1. 座 - zuò (measure word for buildings, mtns, other large immovable objects)
