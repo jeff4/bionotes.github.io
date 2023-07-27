@@ -499,7 +499,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 啊 - à ("ah" as an interjection)
 
 ### Lesson 20
-1. 再見 [再见] - zài jiàn (goodbye)
+1. 再見 [再见] - zài jiàn (goodbye). See also L27.
 1. 一會兒 [一会儿] - yī huì(r) (in a moment)
 1. 電話 [电话] - diàn huà (telephone)
 1. 手機 [手机] - shǒu jī (mobile phone)
@@ -655,4 +655,18 @@ Go to [this page](/tt-blue-lotus/)
 1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
 1. 搬家 - bān jiā (to move house)
 1. 同志 - tóng zhì (comrade; colleague)
-1. 也...也...  - yě...yě... (both...and...)
+1. 也...也... - yě...yě... (both...and...)
+1. 
+
+### Lesson 27
+1. 把 - bǎ (hold, watch; *noun* handle bars)
+1. 糟糕 - zāo gāo (oh no!)
+1. 送 - sòng (to give as a present; to deliver; to accompany, escort)
+1. 圓珠筆 [圆珠笔] - yuán zhū bǐ 
+1. 丢 - diū (to lose; to misplace)
+1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
+1. 不好意思 - bù hǎo yì si (how embarrassing)
+1. 生產 [产生] - shēng chǎn (to produce, to manufacture)
+1. 共產黨 [共产党] - gòng chǎn dǎng (Communist Party)
+1. 工廠 [工厂] - gōng chǎng (factory, mill, plant)
+1. 咳⧸咍 - hāi (expressing regret or mild disgust) 
