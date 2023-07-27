@@ -656,7 +656,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 搬家 - bān jiā (to move house)
 1. 同志 - tóng zhì (comrade; colleague)
 1. 也...也... - yě...yě... (both...and...)
-1. 
 
 ### Lesson 27
 1. 把 - bǎ (hold, watch; *noun* handle bars)
