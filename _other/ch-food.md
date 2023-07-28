@@ -29,8 +29,15 @@ permalink: /ch-food/
 1. 蛋撻 [蛋挞] - dàn tǎ (egg tart) 
 1. 紅油龍炒手 - hóngyóu lóng chǎoshǒu. Spicy Pork Wontons. *literal* red oil dragon sauteed hands.  炒手 aka ['crossed hands'](https://en.wikipedia.org/wiki/Wonton#Sichuan_cuisine) is a nickname from Sichuan Cuisine
 1. 水餃 [水饺] - shuǐ jiǎ (boiled dumplings) see also 交 - jiāo (to hand in assignment) from Lesson 14 
-1.  
 1. 菜單 [菜单] - cài dān (menu) 
+
+### Crouching Tiger lunch with A+A on Wed 26 July 2023
+1. Pork Dumplings
+1. Xinjiang Lamb
+1. Salt and Pepper Pork Chop
+1. Walnut Prawns
+1. Do Miao bean sprouts
+1. Dan Dan Noodles 
 
 ### Lesson 14
 1. 休息 - xiū xi (rest)
