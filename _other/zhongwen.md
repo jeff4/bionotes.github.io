@@ -360,12 +360,12 @@ Go to [this page](/tt-blue-lotus/)
 1. 努力 - nǔ lì (diligent)
 1. 非常 - fēi cháng (extremely)
 1. 可以 - kě yǐ (can, may; *colloquial* passable, not bad)
-1. 找 - zhǎo (to look for, to seek)
+1. 找 - zhǎo (to look for, to seek). See also L28 for "giving change back".
 1. 不用 - bù yòng (don't have to)
 
 ### Lesson 14
 1. 同學 [同学] tóng xué (schoolmate) 
-1. 演 - yǎn (perform, play, act in a play)
+1. 演 - yǎn (perform, play, act in a play). See also L29.
 1. 話劇 [话剧] huà jù (a play)
 1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from L20
 1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
@@ -701,3 +701,8 @@ Go to [this page](/tt-blue-lotus/)
 1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
 1. 服務員 [服务员] - fú wù yuán (attendant)
 1. 一共 - yī gòng (altogether, in all, all told)
+1. 找 - zhǎo (to give change back). See also L13 same character and pronounciation for "to search". 
+
+### Lesson 29
+1. 表演 - biǎo yǎn (to perform; *noun* performance). See also L14. 
+1. 春假 - chūn jià (spring break)
