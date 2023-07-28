@@ -698,3 +698,6 @@ Go to [this page](/tt-blue-lotus/)
 1. 睡 - shuì (to sleep)
 1. 起 - qǐ (to wake up; to rise; to stand up)
 1. 附近 - fù jìn (vicinity)
+1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
+1. 服務員 [服务员] - fú wù yuán (attendant)
+1. 一共 - yī gòng (altogether, in all, all told)
