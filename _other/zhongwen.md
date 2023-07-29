@@ -66,6 +66,12 @@ permalink: /zhongwen/
 1. 台灣 [台湾] - Táiwān
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
+#### 7/26 visit to Crouching Tiger restaurant with A+A
+
+## 7/28 Unix + Python scripting 
+* see proj-3 directory and examine chatlog.txt file to see bash tr one-liner to verify number of lines.
+* input.txt = 840 unique characters.
+* output.txt = 729 unique characters, meaning we stripped out 111 Latin characters, puncutation, etc. using python script.
 
 ## Food
 Go to [this page](/ch-food/)
@@ -701,6 +707,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 服務員 [服务员] - fú wù yuán (attendant)
 1. 一共 - yī gòng (altogether, in all, all told)
 1. 找 - zhǎo (to give change back). See also L13 same character and pronounciation for "to search". 
+1. 又...又... - yoù...yoù... (not only...but also...)
 
 ### Lesson 29
 1. 表演 - biǎo yǎn (to perform; *noun* performance). See also L14. 
@@ -727,3 +734,11 @@ Go to [this page](/tt-blue-lotus/)
 
 ### Lesson 30
 1. 太太 - tài tai (Mrs., Madame; wife)
+1. 先生 - xiān sheng (Mr., husband; teacher)
+1. 流利 - liú lì (fluent, smooth)
+1. 聽說 [听说] - tīng shuō (to have heard people say...)
+1. 一天比一天 - yī tiān bǐ yī tiān (day by day)
+1. 提高 - tí gāo (to raise)
+1. 進步 [进步] - jìn bù (to improve)
+1. 需要 - xū yào (to need)
+1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
