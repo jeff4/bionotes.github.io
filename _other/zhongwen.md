@@ -69,9 +69,9 @@ permalink: /zhongwen/
 #### 7/26 visit to Crouching Tiger restaurant with A+A
 
 ## 7/28 Unix + Python scripting 
-* see proj-3 directory and examine chatlog.txt file to see bash tr one-liner to verify number of lines.
-* input.txt = 840 unique characters.
-* output.txt = 729 unique characters, meaning we stripped out 111 Latin characters, puncutation, etc. using python script.
+* see proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
+* input.txt = 846 unique characters.
+* output.txt = 733 unique characters, meaning we stripped out 113 Latin characters, puncutation, etc. using python script.
 
 ## Food
 Go to [this page](/ch-food/)
