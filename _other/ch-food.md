@@ -33,11 +33,12 @@ permalink: /ch-food/
 
 ### Crouching Tiger lunch with A+A on Wed 26 July 2023
 1. Pork Dumplings
-1. Xinjiang Lamb
-1. Salt and Pepper Pork Chop
+1. 新疆羊 - xīn jiāng yáng (Xinjiang Cumin Lamb)
+1. 椒鹽肉排 - jiāo yán ròu pái (jiāo yán = condiment made of roast prickly ash and salt; ròu pái = steak).  Salt and Pepper Pork Chop
 1. Walnut Prawns
-1. Do Miao bean sprouts
+1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. (Do Miao bean sprouts aka 'pea shoots' sauteed with garlic).
 1. Dan Dan Noodles 
+
 
 ### Lesson 14
 1. 休息 - xiū xi (rest)
