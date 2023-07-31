@@ -39,29 +39,7 @@ permalink: /ch-food/
 1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. (Do Miao bean sprouts aka 'pea shoots' sauteed with garlic).
 1. Dan Dan Noodles 
 
-
-### Lesson 14
-1. 休息 - xiū xi (rest)
-1. 同學 [同学] tóng xué (schoolmate) 
-1. 話劇 [话剧] huà jù (a play)
-1. 报告 - bào gào (report) See also 告訴 *gào su* in Lesson 15
-1. 别的 - bié de (others) See also 特別 (especially) in Lesson 10
-1. 演 - yǎn (perform, play, act in a play)
-1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
-1. 注意 - zhù yì (pay close attention) See also 住 (to live) in Lesson 19. And 有意思 *yǒu yì si* from Lesson 5.
-1. 通知 - tōng zhī (paper notice; announcement)
-1. 不停的 - bù tíng de (without stopping) 
-1. 别人 - bié rén (other people). Originally introduced in Lesson 16
-1. 意思  - yì si (meaning) See also Lesson 5
-1. 重要 - zhòng yào (important)
-1. 有名 - yǒu míng  
-1. 拊手 - fǔ shǒu (to clap hands)
-1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
-1. 討論 [讨论] - tǎo lùn (to discuss)
-1. 事情 - shì qing (matter, affair, issue)
-1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
-
-### Lesson 15
+### Lesson 12
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 問題 [问题] - wèn tí (question, problem)
@@ -82,3 +60,51 @@ permalink: /ch-food/
 1. 互相 - hù xiāng (mutually)
 1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
 1. 方法 - fāng fǎ (method, way, means)
+
+### Lesson 16
+1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
+1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
+1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
+1. 剛 [刚] - gāng (just) see also L11
+1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
+1. 課本 [课本] - kè běn (textbook)
+1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
+1. 開會 [开会] - kāi huì (to hold a meeting)
+1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
+1. 看見 [看见] - kàn jian (to see)
+1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
+1. 低 - dī (low, opposite of 高)
+1. 書店 [书店] - shū diàn (bookstore)
+1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
+1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
+1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
+1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in L22.
+1. 高 - gāo (high) 
+1. 完 - wán (finished, e.g., 吃完了)
+
+### Lesson 17
+1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
+1. 頭 [头] - tóu (head)
+1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
+1. 熱 [热] - rè (hot)
+1. 極了[极了] - jí le  (very, extremely)
+1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
+1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
+1. 試 [试] - shì (to try, to test)
+1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
+1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
+1. 紅 [红] - hóng (red)
+1. 差不多 - chà bu duō (almost)
+1. 覺得 [觉得] - jué de (to feel)
+1. 完全 - wán quán (completely)
+1. 借 - jiè  (to borrow; lend)
+1. 臉 [脸] - liǎn (face)
+1. 成 - chéng (to succeed; to become)
+1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
+1. 坐 - zuò (to sit)
+1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
+1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
+1. 紅油 [红油] - hóng yóu (red oil; chili oil)
+1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
+1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
+1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
