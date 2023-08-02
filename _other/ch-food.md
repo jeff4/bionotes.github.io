@@ -39,7 +39,7 @@ permalink: /ch-food/
 1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. Garlic-Sauteed Big Pea Shoots. Do Miao = pea shoots *aka* bean sprouts.
 1. 四川哧擔擔麵 [担担面] - sìchuān chī dàndan miàn. Sichuan-style Hot & Spicy Dan-Dan Noodles.
 
-### Lesson 12
+### Lesson 15
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 問題 [问题] - wèn tí (question, problem)
