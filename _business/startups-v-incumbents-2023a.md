@@ -502,3 +502,6 @@ sitemap: false
 * ['OpenAI scuttles AI-written text detector over low rate of accuracy'](https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/)
 * ['Graft is building an AI development platform for the masses'](https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/)
 * ['Egnyte is bringing generative AI capabilities to its storage platform'](https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/)
+
+## 2 August 2023
+* ['Inworld, a generative AI platform for creating NPCs, lands fresh investment'](https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/)
