@@ -108,3 +108,88 @@ permalink: /ch-food/
 1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
+
+### Lesson 18
+1. 自行車 [自行车] - zì xíng chē (bicycle)
+1. 出 - chū (exit)
+1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
+1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
+1. 搬 [般] - bān (to move)
+1. 進 [进] - jìn (to enter)
+1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
+1. 便宜 - pián yi (inexpensive)
+1. 城裏 [城里] - chéng lǐ (in town; in the city)
+1. 騎 [骑] - qí (to ride a bicycle or vehicle)
+1. 屋子 - wūz (room)
+1. 間 - jiān (measure word for rooms)
+1. 方便 - fāng biàn (convenient)
+1. 倒是 - dào shì (admittedly)
+1. 回 - huí (to return) See also 回答 huí dá in L15
+1. 帶[带] - dài (to bring along, to carry)
+1. 一間屋子 - yī jiān wūz (a single bedroom); see Pleco for many other uses of 間
+1. 山 - shān (mountain)
+1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
+1. 貴 [贵] - guì (expensive)
+1. 免費 [免费] - miǎn fèi (free of charge) 
+1. 收音機 [收音机] - shōu yīn jī (radio)
+1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
+
+### Lesson 19
+1. 習慣 [习惯] - xí guàn (to be used to) 
+1. 教師 [教师] - jiào shī See also 老師 from L1
+1. 哥哥 - gē ge (older brother)
+1. 住 - zhù (to live at). See also 注意 *zhù yì* from L14.
+1. 大夫 - dài fu (*colloquial* doctor, physician) 
+1. 大夫 - dà fū (*archaic* senior official)
+1. 妹妹 - mèi mei (younger sister)
+1. 父親 [父亲] fù qin (father); 爸爸 bà ba
+1. 姐姐 - jiě jie (older sister)
+1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
+1. 忘 - wàng (to forget)
+1. 談話 [谈话] -  tán huà (to chat) 
+1. 啊 - à ("ah" as an interjection)
+1. 父母 - fù mǔ (parents)
+1. 客氣 [客气] - kè qi (polite, courteous)
+1. 台北 - Tái běi (Taipei)
+1. 弟弟 - dì di (younger brother)
+
+### Lesson 20
+1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
+1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
+1. 片兒 [片儿] - piān(r) (a piece)
+1. 發燒 [发烧] - fā shāo (to run a fever)
+1. 再見 [再见] - zài jiàn (goodbye). See also L27.
+1. 奇怪 - qí guài (strange, weird)
+1. 病 - bìng (illness)
+1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
+1. 喂 - wéi? (hello when answering the phone)  
+1. 一會兒 [一会儿] - yī huì(r) (in a moment)
+1. 醫院 [医院] - yī yuàn (hospital)
+1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
+1. 電話 [电话] - diàn huà (telephone)
+1. 發展 [发展] - fā zhǎn (to develop). See also L24.
+1. 手機 [手机] - shǒu jī (mobile phone)
+1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
+1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
+1. 感冒 - gǎn mào (to catch a cold)
+
+### Lesson 21
+1. 身體 [身体] - shēn tǐ (body)
+1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
+1. 替 - tì (take the place of; replace, substitute for)
+1. 熱情 [热情] - rè qíng (warm, compassionate)
+1. 小說 [小说] - xiǎo shuō (*noun* a novel)
+1. 信 - xìn (letter)
+1. 翻譯 [翻译] - fān yì (translate)
+1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
+1. 病人 - bìng rén (sick person, patient)
+1. 搞 - gǎo (to get tangled with)
+1. 決定 [决定] - jué dìng (to decide)
+1. ...史 - shǐ (history of ...)
+1. 希望 - xī wàng (hope - both noun and verb)
+1. 祝 - zhù (to wish well, e.g., 祝你好)
+1. 冷 - lěng (cold)
+1. 送 - sòng (to send)
+
+### Lesson 22
