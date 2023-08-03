@@ -193,3 +193,43 @@ permalink: /ch-food/
 1. 送 - sòng (to send)
 
 ### Lesson 22
+1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
+1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
+1. 像 - xiàng (to resemble)
+1. 飯館 [饭馆] - fàn guǎn (restaurant)
+1. 家 - jiā (house)
+1. 難 [难] - nán (difficult, hard)
+1. 錯 [错] - cuò (wrong). See also L12.
+1. 餓 [饿] - è (hungry)
+1. 春節 [春节] - Chūn Jié (Spring Festival)
+1. 筷子 - kuài zi (chopsticks)
+1. 就要...了 -  jiù yào...le (about to...)
+1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
+1. 一樣 [一样] - yī yàng (to be the same)
+1. 它⧸牠 - tā (it)
+1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
+1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
+
+### Lesson 23
+1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
+1. 去年 - qù nián (last year)
+1. 颳風 [刮风] - guā fēng (to be windy)
+1. 下雨 - xià yǔ (to rain)
+1. 正 - zhèng (correct, right, straighten)
+1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
+1. 下雪 - xià xuě (to snow)
+1. 漂亮 - piào liang (pretty). See also L28.
+1. 比 - bǐ (compare; also vulgar for South American *la concha*)
+1. 女 - nǚ (female)
+1. 夏天 - xià tiān (summer)
+1. 好像 - hǎo xiàng (very like, similar to, resembles)
+1. 過去 [过去] - guo qu *or* guò qù (to pass by)
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
+1. 讓 [让] - ràng (to allow)
+1. 真 - zhēn (really; real)
+1. 穿 - chuān (to wear)
+1. 大衣 - dà yī (overcoat)
+1. 天氣 [天气] - tiān qì (weather)
+1. 男 - nán (male)
+1. 秋天 - qiū tiān (autumn, fall)
+1. 春天 - chūn tiān (spring)
