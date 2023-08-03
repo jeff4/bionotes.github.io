@@ -211,7 +211,6 @@ permalink: /ch-food/
 1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
 
 ### Lesson 23
-1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
 1. 去年 - qù nián (last year)
 1. 颳風 [刮风] - guā fēng (to be windy)
 1. 下雨 - xià yǔ (to rain)
@@ -221,7 +220,6 @@ permalink: /ch-food/
 1. 漂亮 - piào liang (pretty). See also L28.
 1. 比 - bǐ (compare; also vulgar for South American *la concha*)
 1. 女 - nǚ (female)
-1. 夏天 - xià tiān (summer)
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 1. 過去 [过去] - guo qu *or* guò qù (to pass by)
 1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
@@ -231,5 +229,9 @@ permalink: /ch-food/
 1. 大衣 - dà yī (overcoat)
 1. 天氣 [天气] - tiān qì (weather)
 1. 男 - nán (male)
-1. 秋天 - qiū tiān (autumn, fall)
 1. 春天 - chūn tiān (spring)
+1. 夏天 - xià tiān (summer)
+1. 秋天 - qiū tiān (autumn, fall)
+1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
+
+
