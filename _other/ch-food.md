@@ -83,31 +83,31 @@ permalink: /ch-food/
 1. 完 - wán (finished, e.g., 吃完了)
 
 ### Lesson 17
+1. 極了[极了] - jí le  (very, extremely)
+1. 差不多 - chà bu duō (almost)
+1. 成 - chéng (to succeed; to become)
+1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
+1. 試 [试] - shì (to try, to test)
+1. 紅 [红] - hóng (red)
+1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
+1. 坐 - zuò (to sit)
+1. 紅油 [红油] - hóng yóu (red oil; chili oil)
 1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
 1. 頭 [头] - tóu (head)
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
-1. 熱 [热] - rè (hot)
-1. 極了[极了] - jí le  (very, extremely)
-1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
-1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
-1. 試 [试] - shì (to try, to test)
-1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
-1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
-1. 紅 [红] - hóng (red)
-1. 差不多 - chà bu duō (almost)
-1. 覺得 [觉得] - jué de (to feel)
-1. 完全 - wán quán (completely)
-1. 借 - jiè  (to borrow; lend)
-1. 臉 [脸] - liǎn (face)
-1. 成 - chéng (to succeed; to become)
-1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 坐 - zuò (to sit)
-1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
-1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
-1. 紅油 [红油] - hóng yóu (red oil; chili oil)
-1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
-1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
+1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
+1. 熱 [热] - rè (hot)
+1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
+1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
+1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
+1. 借 - jiè  (to borrow; lend)
+1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
+1. 覺得 [觉得] - jué de (to feel)
+1. 完全 - wán quán (completely). See also L29.
+1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
+1. 臉 [脸] - liǎn (face)
+1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
+1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 
 ### Lesson 18
 1. 自行車 [自行车] - zì xíng chē (bicycle)
@@ -233,5 +233,3 @@ permalink: /ch-food/
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
 1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
-
-
