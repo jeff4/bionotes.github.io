@@ -64,6 +64,7 @@ permalink: /zhongwen/
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
 1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
 1. 台灣 [台湾] - Táiwān
+1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
@@ -448,7 +449,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
 1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
 1. 差不多 - chà bu duō (almost)
-1. 完全 - wán quán (completely)
+1. 完全 - wán quán (completely). See also L29.
 1. 借 - jiè  (to borrow; lend)
 1. 成 - chéng (to succeed; to become)
 1. 熱 [热] - rè (hot)
@@ -483,7 +484,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 免費 [免费] - miǎn fèi (free of charge) 
 1. 出 - chū (exit)
 1. 倒是 - dào shì (admittedly)
-1.樓 [楼] - lóu (floor of a building--originally in L19 below)
+1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
 
 ### Lesson 19
 1. 父母 - fù mǔ (parents)
@@ -502,7 +503,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 住 - zhù (to live at). See also 注意 *zhù yì* from L14.
 1. 習慣 [习惯] - xí guàn (to be used to) 
 1. 教師 [教师] - jiào shī See also 老師 from L1
-1. 啊 - à ("ah" as an interjection)
+1. 啊 - à ("ah" as an interjection). Also 啊媽 ā mā.
 
 ### Lesson 20
 1. 再見 [再见] - zài jiàn (goodbye). See also L27.
@@ -716,7 +717,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 查 - chá (to look up, to consult, to examine)
 1. 論文 [论文] - lùn wén (thesis, dissertation, paper)
 1. 提前 - tí qián (shift to an earlier date; to do in advance)
-1. 完成 - wán chéng (accomplish; complete)
+1. 完成 - wán chéng (accomplish; complete). See also L17.
 1. 可惜 - kě xī (it's a pity; too bad)
 1. 不然 - bù rán (otherwise; not so, not the case)
 1. 紐約 [纽约] - niǔ yuē (New York)
