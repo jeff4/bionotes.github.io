@@ -109,7 +109,13 @@ sitemap: false
 * [HN thread](https://news.ycombinator.com/item?id=35303574) about Ben Thompson's [interview with Jensen Huang](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/). Quotes:
 	* "I first spoke with Nvidia founder and CEO Jensen Huang after last March’s GTC conference, and again after last fall’s GTC; as I observe in the interview below, Nvidia’s semiannual conference frequency might seem very aggressive, but given Nvidia’s central role in AI our last talk seems like it was years ago.
 	* "In this interview, conducted on the occasion of this week’s GTC, we discuss what Huang calls AI’s iPhone moment — ChatGPT — and how that has affected Nvidia’s business. We also touch on the biggest announcement from GTC — Nvidia’s new DGX Cloud service — while also discussing how Nvidia responded to the Biden administration’s export controls, TSMC’s new plant in Arizona, running AI locally, and Nvidia’s position in the stack in an LLM world.
-	* List of topics: The Impact of ChatGPT | Nvidia’s ChatGPT Response | China and TSMC | DGX Cloud | The DGX Cloud Customer | CUDA and Commoditization | Centralized vs. Localized Compute
+	* List of topics: The Impact of ChatGPT
+		* Nvidia’s ChatGPT Response
+		* China and TSMC
+		* DGX Cloud
+		* The DGX Cloud Customer
+		* CUDA and Commoditization
+		* Centralized vs. Localized Compute
 
 ## 26 March 2023
 * Synopsys [2021 history and timeline](https://www.synopsys.com/glossary/what-is-moores-law.html) -- coining the term the SysMoore to refer to "SysMoore era designs converge multiple technologies in one sophisticated package, requiring a holistic analysis of the entire system. Previous methods that analyze each part of the system independently simply will not work in the SysMoore era. What is required is a hyper-convergent design flow that integrates best-in-class technology to deliver a unified analysis of the entire system."
