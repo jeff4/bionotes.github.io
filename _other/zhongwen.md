@@ -47,7 +47,7 @@ permalink: /zhongwen/
 * HBO Succession
 * 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
-## 6/16 - 7/30
+## 6/16 - 8/10
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
@@ -65,6 +65,7 @@ permalink: /zhongwen/
 1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
 1. 台灣 [台湾] - Táiwān
 1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
+1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
