@@ -496,15 +496,17 @@ sitemap: false
 * ['Google is testing an AI tool that can write news articles'](https://techcrunch.com/2023/07/20/google-reportedly-testing-ai-tool-write-news-articles/)
 * ['OpenAI launches customized instructions for ChatGPT'](https://techcrunch.com/2023/07/20/openai-launches-customized-instructions-for-chatgpt/)
 
-## 1 August 2023
+## 01 August 2023
 * ['Google Assistant reportedly pivoting to generative AI'](https://techcrunch.com/2023/07/31/google-assistant-reportedly-pivoting-to-generative-ai/). Voice assistants like Google Assistant, Siri, Alexa, are finally getting LLM-powered?
 * ['Akooda is using AI to help companies understand their business with fewer meetings'](https://techcrunch.com/2023/07/25/akooda-is-using-ai-to-help-companies-understand-their-business-with-fewer-meetings/)
 * ['OpenAI scuttles AI-written text detector over low rate of accuracy'](https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/)
 * ['Graft is building an AI development platform for the masses'](https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/)
 * ['Egnyte is bringing generative AI capabilities to its storage platform'](https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/)
 
-## 2 August 2023
+## 02 August 2023
 * ['Inworld, a generative AI platform for creating NPCs, lands fresh investment'](https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/)
 
-## 4 August 2023
+## 04 August 2023
 * ['AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung'](https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/) 
+* ['This week in AI: Experiments, retirements, and extinction events'](https://techcrunch.com/2023/08/05/this-week-in-ai-experiments-retirements-and-extinction-events/)
+* ['Google’s generative search feature now shows related videos and images'](https://techcrunch.com/2023/08/02/googles-generative-search-feature-now-shows-related-videos-and-images/)
