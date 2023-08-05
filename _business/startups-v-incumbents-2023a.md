@@ -505,3 +505,6 @@ sitemap: false
 
 ## 2 August 2023
 * ['Inworld, a generative AI platform for creating NPCs, lands fresh investment'](https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/)
+
+## 4 August 2023
+* ['AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung'](https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/) 
