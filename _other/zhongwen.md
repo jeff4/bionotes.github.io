@@ -458,7 +458,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
 1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
 1. 坐 - zuò (to sit)
-1. 極了[极了] - jí le  (very, extremely)
+1. 極了 [极了] - jí le  (very, extremely). See also 衣服 *yī fu* from L26. 
 1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
 1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
 
@@ -644,7 +644,7 @@ Go to [this page](/tt-blue-lotus/)
 ### Lesson 26
 1. 日記 [日记] - rì jì (diary)
 1. 毛衣 - máo yī (sweater)
-1. 衣服 - yī fu (clothing; garment)
+1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
 1. 淺 [浅] - qiǎn (light/pale in color; shallow)
 1. 深 - shēn (deep in color; depth)
 1. 綠 [绿] - lǜ (green)
