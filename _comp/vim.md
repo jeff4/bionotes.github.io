@@ -41,3 +41,4 @@ permalink: /vim/
 	* [Stack overflow question from 2010](https://stackoverflow.com/questions/3864467/whats-the-difference-between-vim-regex-and-normal-regex). See this [comment](https://stackoverflow.com/a/14851587) and also use vim *:help perl-patterns*
 	* vim's regex mode, invoked by prepending with \v. See vim *:help /\v*
 	* See also vim *:help pattern*
+* 8/05 - Creator and maintainer of vim [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar) passed away. :( [HN thread with personal anecdotes](https://en.wikipedia.org/wiki/Bram_Moolenaar)
