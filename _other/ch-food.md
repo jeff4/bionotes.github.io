@@ -62,25 +62,25 @@ permalink: /ch-food/
 1. 方法 - fāng fǎ (method, way, means)
 
 ### Lesson 16
-1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
-1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
-1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
-1. 剛 [刚] - gāng (just) see also L11
-1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
+1. 完 - wán (finished, e.g., 吃完了)
 1. 課本 [课本] - kè běn (textbook)
-1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
-1. 開會 [开会] - kāi huì (to hold a meeting)
-1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
-1. 看見 [看见] - kàn jian (to see)
-1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
-1. 低 - dī (low, opposite of 高)
 1. 書店 [书店] - shū diàn (bookstore)
-1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
+1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
 1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
+1. 低 - dī (low, opposite of 高)
+1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
+1. 高 - gāo (high) 
+1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
 1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
 1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in L22.
-1. 高 - gāo (high) 
-1. 完 - wán (finished, e.g., 吃完了)
+1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
+1. 剛 [刚] - gāng (just) see also L11
+1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
+1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
+1. 開會 [开会] - kāi huì (to hold a meeting)
+1. 看見 [看见] - kàn jian (to see)
+1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
+1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
 
 ### Lesson 17
 1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
