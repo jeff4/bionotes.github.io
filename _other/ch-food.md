@@ -5,7 +5,8 @@ permalink: /ch-food/
 
 ## Food
 ### Meat and protein
-1. 牛肉 - niú ròu 
+1. 牛肉 - niú ròu
+1. 羊 - yáng
 1. 魚 [鱼] - yú 
 1. 豬 [猪] - zhū ròu  
 1. 鷄/雞 [鸡] - jī ròu 
@@ -234,3 +235,4 @@ permalink: /ch-food/
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
 1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
+
