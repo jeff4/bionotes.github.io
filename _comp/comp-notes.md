@@ -216,3 +216,7 @@ permalink: /comp-notes/
 	* From the same 2011 thread on [Sedtris: Tetris in sed](https://news.ycombinator.com/item?id=2430171) where the above catonmat one-liner article appeared, also found this [2008 other side of the moon Progamming Patterns in sed](https://tech.bluesmoon.info/2008/09/programming-patterns-in-sed.html)
 * Completed Luke Smith video from 7/12.
 * Began experimenting with catonmat's [first chapter](https://catonmat.net/worlds-best-introduction-to-sed)
+
+
+## 8/08
+* Hm, perhaps look at the sed resources at [Eric Pement's site](https://www.pement.org/sed/)
