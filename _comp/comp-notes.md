@@ -199,12 +199,18 @@ permalink: /comp-notes/
 	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
 
 ### 7/12 - 7/13
-* More links: 
+* More sed links: 
 	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
 	* This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
-## 7/14 - 7/16 awk
+## 7/14 - 7/16 awk resources
 * Watched [intro video to awk by Gary Explains](https://youtu.be/jJ02kEETw70) (20 minutes long)
 * Ben Porter's [history and tutorial video for awk](https://youtu.be/E5aQxIdjT0M) (1 hour long) 
+* Bruce Barnett aka Grymoire also has an [Intro and Tutorial for Awk](https://grymoire.com/Unix/Awk.html).
+
+## 8/07
+* More sed resources (see also Notes app):
+	* From 2011 or so. [Sed-one-liners](https://catonmat.net/sed-one-liners-explained-part-one), associated [text files with all one-liners](https://catonmat.net/wp-content/uploads/2008/09/sed1line.txt) and associated [HN comment](https://news.ycombinator.com/item?id=2431264)
+	* From the same 2011 thread on [Sedtris: Tetris in sed](https://news.ycombinator.com/item?id=2430171) where the above catonmat one-liner article appeared, also found this [2008 other side of the moon Progamming Patterns in sed](https://tech.bluesmoon.info/2008/09/programming-patterns-in-sed.html)
