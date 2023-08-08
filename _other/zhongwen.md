@@ -452,7 +452,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 差不多 - chà bu duō (almost)
 1. 完全 - wán quán (completely). See also L29.
 1. 借 - jiè  (to borrow; lend)
-1. 成 - chéng (to succeed; to become)
+1. 成 - chéng (to succeed; to become). See also L18 城裏.
 1. 熱 [热] - rè (hot)
 1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
 1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
@@ -472,7 +472,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 貴 [贵] - guì (expensive)
 1. 便宜 - pián yi (inexpensive)
 1. 方便 - fāng biàn (convenient)
-1. 城裏 [城里] - chéng lǐ (in town; in the city)
+1. 城裏 [城里] - chéng lǐ (in town; in the city). See also 成 in L17 and L29
 1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
 1. 自行車 [自行车] - zì xíng chē (bicycle)
