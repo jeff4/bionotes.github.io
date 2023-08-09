@@ -68,7 +68,7 @@ permalink: /zhongwen/
 1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
 1. 危險 [危险]- wēi xiǎn (danger). 臉 *xiǎn* looks like 臉[脸] *face* from L17.
 1. 圍棋 [围棋] - wéi qí (Go the board game)
-1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties)
+1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties). see also 油 from L17.
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
