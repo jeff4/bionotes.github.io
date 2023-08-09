@@ -66,7 +66,7 @@ permalink: /zhongwen/
 
 ## 8/05 - 8/15
 1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
-1. 危險 [危险]- wēi xiǎn (danger)
+1. 危險 [危险]- wēi xiǎn (danger). 臉 *xiǎn* looks like 臉[脸] *face* from L17.
 1. 圍棋 [围棋] - wéi qí (Go the board game)
 1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties)
 
@@ -446,7 +446,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
 1. 頭 [头] - tóu (head)
-1. 臉 [脸] - liǎn (face)
+1. 臉 [脸] - liǎn (face). See also 險 (danger).
 1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
 1. 試 [试] - shì (to try, to test). See also L13 for 考試.
