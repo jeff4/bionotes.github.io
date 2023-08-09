@@ -67,6 +67,12 @@ permalink: /zhongwen/
 1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
 1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
 
+## 8/05 - 8/15
+1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
+1. 危險 [危险]- wēi xiǎn (danger)
+1. 圍棋 [围棋] - wéi qí (Go the board game)
+1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties)
+
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
 
