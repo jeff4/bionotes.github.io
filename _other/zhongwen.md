@@ -48,6 +48,7 @@ permalink: /zhongwen/
 * 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
 
 ## 6/16 - 8/10
+1. 繼承之戰 [继承之战] — jì chéng zhī zhàn (*literal* the battle of inheritance) Chinese version of title for "HBO Succession"
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
