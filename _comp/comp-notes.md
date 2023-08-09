@@ -217,6 +217,6 @@ permalink: /comp-notes/
 * Completed Luke Smith video from 7/12.
 * Began experimenting with catonmat's [first chapter](https://catonmat.net/worlds-best-introduction-to-sed)
 
-
 ## 8/08
 * Hm, perhaps look at the sed resources at [Eric Pement's site](https://www.pement.org/sed/)
+* On second thought, i think grymoire's original [Bruce Barnett's Sed intro and tutorial](https://www.grymoire.com/Unix/Sed.html) is the better way to go.
