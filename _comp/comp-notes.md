@@ -220,3 +220,6 @@ permalink: /comp-notes/
 ## 8/08
 * Hm, perhaps look at the sed resources at [Eric Pement's site](https://www.pement.org/sed/)
 * On second thought, i think grymoire's original [Bruce Barnett's Sed intro and tutorial](https://www.grymoire.com/Unix/Sed.html) is the better way to go.
+
+## 8/09
+* Finished to the end of the flag section, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
