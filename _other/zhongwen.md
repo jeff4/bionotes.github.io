@@ -43,12 +43,8 @@ permalink: /zhongwen/
 	1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
 	1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
 
-## 5/25
-* HBO Succession
-* 繼承之戰 [继承之战] — jì chéng zhī zhàn (the battle of inheritance) 
-
-## 6/16 - 8/10
-1. 繼承之戰 [继承之战] — jì chéng zhī zhàn (*literal* the battle of inheritance) Chinese version of title for "HBO Succession"
+## 5/10 - 8/03
+1. 繼承之戰 [继承之战] — jì chéng zhī zhàn. Chinese version of title for *HBO Succession*. Literal: "The Battle for Inheritance".
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
