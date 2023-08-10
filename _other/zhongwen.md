@@ -57,7 +57,7 @@ permalink: /zhongwen/
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from L22.
 1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
-1. 騙 [骗] - piàn (to fool, to trick). From CH.
+1. 騙 [骗] - piàn (to fool, to trick). From CH. Similar to 乾扁牛/羊 from ch-food
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
 1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
 1. 台灣 [台湾] - Táiwān
