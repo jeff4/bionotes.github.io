@@ -227,5 +227,8 @@ permalink: /comp-notes/
 
 ## 8/10
 * Been experimenting with alternative terminal emulators recently. First [Warp](www.warp.dev), then today [Alacritty](https://github.com/alacritty/alacritty). At some point, will refactor color themes available on [GitHub](https://github.com/alacritty/alacritty-theme)
-* Quick note on regex. z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
+
+## 8/10 Regex notes
+* z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
 * Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*.
+* The 12 reserved charactes in regex like *?.()[]* are called special characters or **metacharacters**.
