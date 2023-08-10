@@ -224,3 +224,8 @@ permalink: /comp-notes/
 ## 8/09
 * Finished to the end of the flag section, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
 * Finished up to end of the ['Multiple commands witn an -command' section](https://www.grymoire.com/Unix/Sed.html#uh-13). Next sectino is 'Filenames on the command line'.
+
+## 8/10
+* Been experimenting with alternative terminal emulators recently. First [Warp](www.warp.dev), then today [Alacritty](https://github.com/alacritty/alacritty). At some point, will refactor color themes available on [GitHub](https://github.com/alacritty/alacritty-theme)
+* Quick note on regex. z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
+* Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*.
