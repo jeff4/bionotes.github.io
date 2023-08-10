@@ -230,9 +230,11 @@ permalink: /comp-notes/
 
 ## 8/10 Regex notes
 * z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
-* Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*.
+* Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*. This tutorial mostly focuses NFA aka "regex-directed" engines.
 * The 12 reserved charactes in regex like *?.()[]* are called special characters or **metacharacters**.
 	* Note that single quote and double quote are *not* metacharacters. You can treat them as literals.
-* The section on how [regex engines work internally](https://www.regular-expressions.info/engine.html) is essential! Most flavors of sed use traditional NFA per the [3rd edition of Mastering Regular Expressions (2006)](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html). In other words, sed regex is non-deterministic. See [this excellent semi-academic blog post](https://www.abstractsyntaxseed.com/blog/regex-engine/nfa-vs-dfa). The end of Chapter 4 of MRE](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html) has good examples to help determine if a particular regex engine is NFA, Traditional NFA, POSIX NFA, DFA, or a hybrid between NFA/DFA. 
+* The section on how [regex engines work internally](https://www.regular-expressions.info/engine.html) is essential! The end of this section has a simple but clear example of how left-most matching and sequencing works when matching.
+* Most flavors of sed use traditional NFA per the [3rd edition of Mastering Regular Expressions (2006)](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html). In other words, sed regex is non-deterministic. See [this excellent semi-academic blog post](https://www.abstractsyntaxseed.com/blog/regex-engine/nfa-vs-dfa). The end of [Chapter 4 of MRE](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html) has good examples to help determine if a particular regex engine is NFA, Traditional NFA, POSIX NFA, DFA, or a hybrid between NFA/DFA. 
 	* NFA = non-deterministic aka "regex directed"
 	* DFA = deterministic aka "text directed". Always greedy.
+* Character classes = Character sets are synonyms. Defined by square brakets around the set [].
