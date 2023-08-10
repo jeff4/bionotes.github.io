@@ -232,3 +232,4 @@ permalink: /comp-notes/
 * z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
 * Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*.
 * The 12 reserved charactes in regex like *?.()[]* are called special characters or **metacharacters**.
+	* Note that single quote and double quote are *not* metacharacters. You can treat them as literals.
