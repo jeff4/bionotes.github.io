@@ -68,6 +68,7 @@ permalink: /zhongwen/
 1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
 1. 危險 [危险]- wēi xiǎn (danger). 臉 *xiǎn* looks like 臉[脸] *face* from L17.
 1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties). see also 油 from L17.
+1. 東寧 [东宁] - Dōng níng (*literal* "east peace"). First Han state that included part of Taiwan, 1661-1683. See [Kingdom of Dōngníng](https://en.wikipedia.org/wiki/Kingdom_of_Tungning). Heard about in Ep 2 of [History of Taiwan with Prof. James Lin](https://www.americanprestigepod.com/p/bonus-the-history-of-taiwan-ep-2?utm_source=%2Fsearch%2Ftaiwan&utm_medium=reader2#details)
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
