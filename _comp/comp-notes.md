@@ -238,3 +238,8 @@ permalink: /comp-notes/
 	* NFA = non-deterministic aka "regex directed"
 	* DFA = deterministic aka "text directed". Always greedy.
 * Character classes = Character sets are synonyms. Defined by square brakets around the set [].
+* ^ = negation for the remainder of a character class.
+* Most of the usual [metacharacters act as a normal literal character when inside square brackets](https://www.regular-expressions.info/charclass.html) as part of a class! i.e. "In most regex flavors, the only special characters or metacharacters inside a character class are the closing bracket ], the backslash \, the caret ^, and the hyphen -. The usual metacharacters are normal characters inside a character class, and do not need to be escaped by a backslash. To search for a star or plus, use [+*]. Your regex will work fine if you escape the regular metacharacters inside a character class, but doing so significantly reduces readability."
+	* Special note which I think applies to gsed: "The closing bracket ], the caret ^ and the hyphen - can be included by escaping them with a backslash, or by placing them in a position where they do not take on their special meaning. The POSIX and GNU flavors are an exception. They treat backslashes in character classes as literal characters. So with these flavors, you can’t escape anything in character classes."
+* Common shorthands to avoid typing the same character class over and over again:
+	* \d = [9-0]
