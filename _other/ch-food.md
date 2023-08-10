@@ -12,7 +12,7 @@ permalink: /ch-food/
 1. 鷄/雞 [鸡] - jī ròu 
 1. 蝦 [虾]- xiā. See also 放假 *fàng jià* from Lesson 22.
 1. 豆腐 - dòu fu
-1. 乾扁牛 [干扁牛] - gān biǎn niú (Dry Cooked Shredded Beef)
+1. 乾扁牛 [干扁牛] - gān biǎn niú (Dry Cooked Shredded Beef). See also 骗 *piàn* (mislead)  
 1. 乾扁羊 [干扁羊] - gān biǎn yáng (Dry Cooked Shredded Lamb)
 
 ### Vegetables
@@ -235,4 +235,3 @@ permalink: /ch-food/
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
 1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
-
