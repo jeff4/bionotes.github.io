@@ -482,6 +482,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
 1. 回 - huí (to return) See also 回答 huí dá in L15
+1. 音樂 [音乐] - yīn yuè (music) 
 1. 帶[带] - dài (to bring along, to carry)
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
 1. 免費 [免费] - miǎn fèi (free of charge) 
