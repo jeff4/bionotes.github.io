@@ -73,10 +73,13 @@ permalink: /zhongwen/
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 #### 7/26 visit to Crouching Tiger restaurant with A+A
 
-## 7/28 Unix + Python scripting 
-* see proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
-* input.txt = 846 unique characters.
-* output.txt = 733 unique characters, meaning we stripped out 113 Latin characters, puncutation, etc. using python script.
+## Unix + Python scripting to generate stats
+* 7/28/2023 -- See proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
+	* input.txt = 846 unique characters.
+	* output.txt = 733 unique characters, meaning we stripped out 113 Latin characters, puncutation, etc. using python script.
+* 8/10/2023 -- Reran 6c.py in proj-3 and added new undesired characters from output.txt to list of punctuation to be excluded.
+	* input.txt = 990 lines 
+	* output.txt = 779 unique characters after deleting lhout Latin characters, puncutation, etc. using python script.
 
 ## Food
 Go to [this page](/ch-food/)
@@ -482,9 +485,9 @@ Go to [this page](/tt-blue-lotus/)
 1. 騎 [骑] - qí (to ride a bicycle or vehicle)
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 回 - huí (to return) See also 回答 huí dá in L15
-1. 音樂 [音乐] - yīn yuè (music) 
+1. 音樂 [音乐] - yīn yuè (music). Originally introduced in L29 but JH moved it here.
 1. 帶[带] - dài (to bring along, to carry)
+1. 回 - huí (to return) See also 回答 huí dá in L15
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
 1. 免費 [免费] - miǎn fèi (free of charge) 
 1. 出 - chū (exit)
@@ -726,7 +729,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 可惜 - kě xī (it's a pity; too bad)
 1. 不然 - bù rán (otherwise; not so, not the case)
 1. 紐約 [纽约] - niǔ yuē (New York)
-1. 音樂 [音乐] - yīn yuè (music)
+1. 音樂 [音乐] - yīn yuè (music). JH introduced this in L19
 1. 旅行 - lǚ xíng (to travel, to vacation)
 1. 批評 [批评] - pī píng (to criticize)
 1. 一天到晚 - yī tiān dào wǎn (from morning til night)
