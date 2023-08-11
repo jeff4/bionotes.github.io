@@ -1,753 +1,250 @@
 ---
-title: Chinese Notes
-permalink: /zhongwen/
+title: Comp Notes
+permalink: /comp-notes/
 ---
 
+## 2021 Log
+* 2/21/2021: upgraded laptop to Big Sur. Downloaded Atom editor.
+* 2/22/2021: downloaded Command Line Tools for Mac OS v. 12.4 and was able to get "Hello World" working in Atom and cmdline using clang. Appropriate because it has been exactly 43 years and 1 day since K&R pubished this, per [Daring Fireball](https://daringfireball.net/linked/2021/02/23/hello-world) and [CSAIL at MIT](https://twitter.com/MIT_CSAIL/status/1363875135191678984).
+* 2/24/2021
+	* Started new paper notebook
+	* Redrew Thain Chapter 2 diagram [**Figure 2.1 – Typical Toolchain**](https://www3.nd.edu/~dthain/compilerbook/chapter2.pdf): Preprocessor &#8594; Compiler &#8594; Assembler &#8594; Static Linker &#8594; Dynamic Linker.
+	* Redrew [**Fig 2.2 – Stages of a Typical Unix Compiler**](https://www3.nd.edu/~dthain/compilerbook/chapter2.pdf): Scanner &#8594; Parser &#8594; *AST* &#8594; Semantic Routines &#8594; Multiple rounds of Optimizers &#8594; Code Generator &#8594; *Assembly.s output* 	* Experimented with clang to output AST per [these  instructions](https://bastian.rieck.me/blog/posts/2015/baby_steps_libclang_ast/)
+	* **cpp** is a confusingly overloaded term. 
+		* First, it may refer to the first part of the gcc tool chain which is the *cpp* **C P**re**P**rocessor. 
+		* Secondly,  the .cpp in *foo.cpp* is the file extension for C++ source files. E.g., "hello.cpp" compiles to a C++ executable that runs the "hello.o" object code.
+	* Per Figure 2.1 (see JH notes Comp #1, 2/22/2021), the gcc compiler is also called cc1 per this [Stack Overflow article](https://stackoverflow.com/questions/63561353/is-gcc-a-compiler-or-is-it-a-collection-of-tools-for-the-compilation-process).
+* 2/25/2021 - Grammar G1, p. 8
+	1. **Addition:** expression &#8592; expr + expr 
+	1. **Multiplication:** expression &#8592; expr * expr
+	1. **Assignment:** expression &#8592; expr = expr
+	1. **Call a function:** expression &#8592; id ( expr )
+	1. **Parentheses:** expression &#8592; (expr)
+	1. **An identifier is an atomic expression:** expression &#8592; id
+	1. **An integer is an atomic expression:** expression &#8592; int
+* 2/26/2021 – moved exercise files to ~/df/jeff_c_lang_exercises
+* 2/27/2021 – Started Purple Dragon Book. read about Java etc.
+* 2/28/2021 – copied test_scanner.c out into jeff_c_lang_exercises. Started Section 3.3 on Regular Expressions.
+* 3/01: Created page for the [Purple Dragon book](/aho-lam-2e/). 
+* 3/03: Drew various illustrated versions of Figure 1.6 (Aho p. 5).
+* 3/04: Further reading of Lexical and Syntax Analysis in Aho.
+* 3/05: Drew further more refined versions of Figure 1.6 (Aho p. 5).
+* 3/06: Started [K&R](/kr-88) book, successfully completed several [Edit-Compile-Run](https://wiki.c2.com/?EditCompileLinkRun) iterations for temperature conversion programs through end of p. 14.
+* 3/07 - 3/10: Worked through most of Chapter 1 of K&R.
+* 3/11: Started [K.N. King book](/knk-2008/); successfully compiled and ran first program from KNK p. 23.
+* 3/13: Wrote additional KNK programs.
+* 3/14: More KNK programs.
+* 3/15: Redrew Phases of Compiler, Figure 1.6 (Aho p. 5)
+* 3/16: More progress in Aho and Thain books
+* 3/17: More progress in Aho book.
+* 3/18: More Aho book.
+* 3/19: More Aho book.
+* 3/21: Redrew compiler diagram.
+* 3/22 - 3/23: Thain p. 14 notes in JH notebook.
+* 3/24: Reviewed Thain regular expressions again in notebook. Moved forward with Thain Section 3.4 on Finite Automata and Deterministic Finite Automata.
+* 3/25: More on FA and DFA.
+* 3/26: The New Turing Omnibus by A.K. Dewdney, Chapters 2, 10, etc. on regular expressions, finite automata, etc.
+* 4/02: Created page for Ellen D. Wu, [*The Color of Success*](/ewu-2014)
+* 4/12 - 5/03: Black Reconstruction
+* 5/10: Began The Black Jacobins
+* 5/11: Dewdney
+	* Chapter 7: Four computers of the Chomsky Hierarchy
+	* Chapter 2: Finite Automata
+	* Chapter 14: Regular Languages
+	* Chapter 26: Linear Bounded Automata
+	* Chapter 31: Turing Machines
+
+### Chapter 2: A Quick Tour
+#### Tools in a typical toolchain
+* Preprocessor (e.g., **cpp** in gcc)
+* Compiler proper (e.g., **cc1** in gcc)
+* Assembler (called [**as** or **gas**](https://en.wikipedia.org/wiki/GNU_Assembler) in gcc)
+* Static linker (e.g., [ld](https://ftp.gnu.org/old-gnu/Manuals/ld-2.9.1/html_node/ld_3.html) in gcc)
+* Dynamic linker (e.g., [ld.so](http://manpages.ubuntu.com/manpages/cosmic/man8/ld.so.8.html) in gcc)
+* See also Fig. 2.1 and drawings in JH notes Comp #1, 2/22/2021.
+
+#### Subcomponents within a Unix Compiler
+* Scanner
+* Parser (generates AST)
+* Semantic Routines
+* A series of code optimizers
+* Code generator
+* See also Fig. 2.2 and drawings in JH notes Comp #1, 2/24/2021.
+
+### Chapter 3: Scanning
+#### Section 3.1: Kinds of Tokens
+* Identifying [**tokens**](https://stackoverflow.com/a/39909662) in source code can be complicated.
+	1. **Keywords** are reserved words in the language such as *while*, *class*, or *true*.
+	2. **Identifiers** are programmer-definable names for variables, functions, classes, and other code elements. Some languages like Perl require certain **sentinels** such as the dollar sign ($) to denote all variable_names. 
+	3. **Numbers** can be formatted as integers, floating point values, fractions, or in alternate bases such as binary, octal, or hexadecimal. 
+	4. **Strings** are literal character sequences that must be clearly distinguished from keywords or identifiers, typically set off by single or double quotes. Strings should also have the ability to handle escaped characters, quotations, new lines, and unprintable characters.
+	5. **Comments** are used to clarify the code.
+	6. **Whitespace** are also used to make the code more human-readable and my play a role in the structure of the program (e.g., Python).
+
+#### Section 3.2: A simple, formal scanner
+* See [Figure 3.1](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) on p. 12.
+
+
+----------------
+
+## 2022 Log
+* 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
+* 7/11 Research into WebAuthn
+	* The two complementary components of [FIDO2](https://en.wikipedia.org/wiki/FIDO2_Project) are: (1) The  [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) standard and (2) The [CTAP2 protocol](https://en.wikipedia.org/wiki/Client_to_Authenticator_Protocol) short for Client To Authenticator Protocol 2.
+	* Use cases suggested by W3C / FIDO2 [official developer documentation](https://www.w3.org/TR/webauthn-1/#use-cases), Section 1.2
+		1. New user registration
+		2. Existing/returning user authentication
+		3. New device registration
+		4. Other use cases: (a) creation/registration of a new credential to support additional factor to increase security of an existing log-in flow, e.g., registering a Yubikey (b) single payment or other transaction from a [relying party](https://www.w3.org/TR/webauthn-1/#relying-party)
+	* Researched [relying party applications](https://en.wikipedia.org/wiki/Relying_party), [claim-based identity](https://en.wikipedia.org/wiki/Claims-based_identity), [STS](https://en.wikipedia.org/wiki/Security_token_service) short for Secure Token Service, etc.
+		* Wrt to Claim-based identity, it is important to distinguish between a **claim** refers to what an entity *is* or *is not*; claim does not refer to what the roles, responsibilties, priveleges this entity has.  In contrast, the abilities/privileges granted to a given entity is separately determined by the receiving application. Each application may have different mappings between what a "Normal User" *is* and what she can *do*.
+* 7/12 Drew diagrams and made powerpoint architecture diagrams of WebAuthn compared to traditional username/password authentication.
+* 7/14 More on WebAuthn and how to communicate it
+* 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
+* 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
+* 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
+* 7/28 Recorded second macro to add a new section to the top of a file. Invoked by @o (lowercase letter "o"):
+	1. start macro recording - q
+	2. choose register "o" you want to store this macro in: lowercase "o"
+	3. go to top of document - gg
+	4. Add 6 lines *above* - "6" then "capital O"
+	5. change back to CMD mode - <esc>
+	6. move up 2 lines - kk
+	7. change to EDIT mode - i
+	8. enter 20 dashes "---" etc
+	9. change back to CMD mode - <esc>
+	10. go back to top of document - gg
+	11. change to EDIT mode - i
+	12. change back to CMD mode - <esc>
+	13. quit out of macro recorder - q
+	* final command sequence including initial invocation of macro recording and exiting out of macro recording: qogg6O<esc>kki--------------------<esc>ggi<esc>q
+* 7/31 When in Command mode, typing * by itself (asterisk) will automatically search forward for any future instance of the current word. Interesting shortcut. No need to type / to invoke search and you can see what vim is doing b/c it populates a search field for you at the bottom of the screen.
+* 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
+* 8/18 Research on SSGs, API CMSs, and Deployment/Hosting Platforms
+* 8/20 Learned more about Visual Block mode to add inital characters to a whole bunch of lines. See OneNote for more
+* 8/21 Visual Block mode, remember shift-i to insert (*not* just lowercase i) and <esc> produces a short delay before the edits take place on all the lines.
+
+---------------------------------------
+
 ## 2023 Log
-* 5/15/2023 - Saved [500 Chinese intermediate language phrases](https://youtu.be/KKtx0_L_s7E) from Kendra's Language School Youtube Channel
-* 6/13/2023 - Miscellaneous 
-	* 貓 [猫] - māo (cat)
-	* 狗 - gǒu (dog)
-	* 貓爪子 [猫爪子]- māo zhǎo zi (cat claws)
-	* 老虎 - lǎo hǔ (tiger)
-	* 老虎爪子 - lǎo hǔ zhǎo zi (tiger claws)
-	* 爪 zhǎo / zhuǎ (two alternative pronunciations) - the noun of claw; the full character form of the 'claw' which is the [radical](https://www.chinasage.info/chars/frad_claw.htm) used in 'love' 愛, 'chicken' 鷄, 'vegetable' 菜.
-	* 抓住 - zhuā zhù (verb 'to grab')
-	* [List of 214 radicals](https://www.berlitz.com/blog/chinese-radicals-list)
-	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
+* 1/29/2023 - set up new Mac Studio
+* 1/31 - more on fish shell etc.
+* 2/01	- Experiments with Stable Diffusion / DiffusionBee
+* 2/02 - podcast discussion. Difference between [GAN and diffusion model](https://octoml.ai/blog/from-gans-to-stable-diffusion-the-history-hype-and-promise-of-generative-ai/)
+* 2/04 - Read some earlier papers on diffusion
+* 2/05 - [2015 original paper](https://arxiv.org/abs/1503.03585) on diffusion by Sohl-Dickstein, Weiss, et al "Deep Unsupervised Learning using Nonequilibrium Thermodynamics"
+* 2/08 - set up website. tested with libsyn and riverside
+* 2/09 - Got stable diffusion working on the Mac Studio and documented all the steps.
+* 2/10 - sf.org domain assigned to libsyn. researched miniconda / minimamba as alternatives.
+* 2/11 - plan: use brew to install mamba, pip (for python only libraries that are not in mamba/conda). Uninstall everything else except for npm 
+* 2/12 - Review Goodfellow, Bengio, and Courville on history of autoencoders
+* 2/13 - more GBC on autoencoders, refers to GOFAI/symbolic approach as "knowledge base" approach. But I think KB was really an 80s subset of symbolic overall approach.
+* 2/14 - Final version of sf.o e1
+* 2/15 - SF podcast now syndicated to Apple, Spotify, Overcast, etc.
+* 2/17 - 20 more eleventy
+* 2/21 - read [Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) and [Murray Shanhan](https://arxiv.org/abs/2212.03551) Feb 2023 articles on LLM
+* 2/23 - more articles on history of BERT, transformers, MUM, etc.
+	* This 18 minute [YouTube video](https://youtu.be/wi0M2J4uE5I) by Mean Gene Hacks compares 3 LLMs that all have about 175 B parameters: OpenAI's GPT-3, BigScience's BLOOM, and Facebook's OPT-175 
+* 2/24 - Today, [FB released LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) (Large Langauge Model Meta AI) in 4 sizes 7 billion parameters, 13 billion parameters, 33B parameters, and 65B parameters. Yann LeCun claims that LLaMa-13B outperforms GPT-3 (even though the latter has 175B). And LLaMA-65B is competitive with the best models like Chinchilla70B and PaLM-540B.
+* 2/25 - should read this [visual primer on pixels and css](https://every-layout.dev/rudiments/units/) by Andy
+* 2/26 - Options for next eleventy course
+	* Stephanie Eckles [Oct 2020](https://11ty.rocks/posts/create-your-first-basic-11ty-website/)
+	* Stephanie Eckles [March 2021](https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/)
+* other starter kit / tutorials sourced from [the main Eleventy site](https://www.11ty.dev/docs/tutorials/)
+	* Zach Leatherman's January 2018 tutorials: [Level 1](https://www.zachleat.com/web/eleventy-tutorial-level-1/) and [Level 2](https://www.zachleat.com/web/eleventy-tutorial-level-2/)
+	* July 2021 [a place for my head](https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/) with references on discord by [Shiv JM](https://shivjm.blog).
+	* July 2022 [Detailed guide](https://5balloons.info/guide-tailwindcss-eleventy-static-site/) to building with 11ty and TailwindCSS by Tgugnani 
+* 2/27 More courses found
+	* **Good eleventy [walkthrough](https://rphunt.github.io/eleventy-walkthrough/template-files.html) with clear organization**, explanation of data files etc
+	* good default [directory structure](https://www.webstoemp.com/blog/eleventy-projects-structure/) from webstoemp
+* 2/28 set up new computer. Got Stable Diffusion working fast! also set up .vimrc .bash_profile etc.
+* 3/01 updated colors for .bash_profile and .vimrc files. IR_Black ty Todd
+* 3/10 good list of keyboard shorcuts for [Audacity on Mac](https://tutorialslink.com/shortcut-keys/most-used-keyboard-shortcut-keys-in-audacity-for-mac-os)
+* 3/13 Wow I made so much progress this past weekend. Saturday with vim customization and Sunday with HN related projects and getting them working
+	* See [3/15 notes](/startups-v-incumbents-2023a/) on startups incumbents, the business of Gen AI.
+* 3/27 Found out about privacy-focused web analytics using [Plausible](https://plausible.io/privacy-focused-web-analytics) from Erich Grunewald's [blog](https://www.erichgrunewald.com). Came here from this [HN thread](https://news.ycombinator.com/item?id=35332537)
+* 4/05 While researching [Kraska's 2017 paper on B-Trees and Learned Indexes](https://arxiv.org/abs/1712.01208), came across this [2021 review article by Nan Wu and Yuan Xie](https://arxiv.org/abs/2102.07952) "A Survey of Machine Learning for Computer Architecture and Systems". Another interesting paper by Kraska:
+	* [2019 by Nathan, Ding, Alizadeh, Kraska](https://arxiv.org/abs/1912.01668) introducing Flood to Learn Multi-Dimensional Indexes
+* 4/09 Did some reading about how hard links and soft links and symlinks work in Unix filesystems.
+	* [this article](https://toolhub.tech/blog/Difference-between-Symbolic-Link-and-Hard-Link/) unfortunately has a lot of spammy ads but the content is not bad and there is a helpful diagram of relationship between files, data on hard disk, and relationship of hard links and symlinks.
+	* The [inode](https://en.wikipedia.org/wiki/Inode) article on wikipedia is pretty good. i-node might have referred to "index-node".
+	* [Hard link](https://en.wikipedia.org/wiki/Hard_link) article at wiki.
+	* Symbolic links, [symlinks](https://en.wikipedia.org/wiki/Symbolic_link), and soft links are all perfectly synonymous. 
+	* Note however, that macOS aliases are slightly different than symlinks. See [this article last updated 2020](https://www.lifewire.com/aliases-symbolic-links-hard-links-mac-2260189)
+	* See ChatGPT convo 4/09. Prompt to ChatGPT: 'In UNIX, is there any difference between symbolic links and soft links?'
+		* GPT response: 
+			* 'In UNIX, "symbolic link" and "soft link" are two different terms used to refer to the same thing, which is a special type of file that acts as a pointer to another file or directory.
+			* 'Symbolic links are created using the ln command with the -s option. They are also sometimes referred to as soft links or symlinks. A symbolic link is simply a small file that contains a path to the target file or directory.
+			* 'The term "soft" is used to differentiate symbolic links from "hard links," which are another type of link in UNIX. Hard links are a way to create additional names (i.e., links) for a file or directory, but they must be on the same filesystem as the original file or directory.
+			* 'So, to answer your question, there is no difference between symbolic links and soft links in UNIX. They are just two different terms used to refer to the same thing.'
+* 4/19 ["Offline Is Just Online With Extreme Latency"](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/) and [HN thread](https://news.ycombinator.com/item?id=35626015)
+* 4/28 Microsoft is rewriting some parts of Windows core in Rust. [HN thread](https://news.ycombinator.com/item?id=35735444)
+* 4/29 [Old 2014 post](https://buildyourownlisp.com/contents) on learning C by creating a compiler and designing a custom LISP. Recent [HN thread](https://news.ycombinator.com/item?id=35726033) with [rebuttal and critique](https://gist.github.com/no-defun-allowed/7e3e238c959e27d4919bb4272487d7ad)
+* 5/04 [Seven ur-languages of programming](https://madhadron.com/programming/seven_ur_languages.html) from 2021. [HN thread](https://news.ycombinator.com/item?id=35813496)
+* 5/07 Sample [dotfiles from Rachel Kroll](https://rachelbythebay.com/w/2023/05/05/dot/)
+* 5/18 Reminiscing about building out [Google's infrastructure by scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/) and [HN thread](https://news.ycombinator.com/item?id=35988984)
+* 7/05 From February, 2023, ['A human just defeated an AI in Go. Here’s why that matters'](https://news.ycombinator.com/item?id=36590242), and [HN thread](https://news.ycombinator.com/item?id=36590242)
+* 7/06 Meta/FB/Instagram launched Threads today and here's an [HN article](https://news.ycombinator.com/item?id=36612835) about how the backend is built in Python 3.10
 
-## 7/07/2023 - Chinese History
-* Major Dynasties
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
-	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
-	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
-	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from L11
-	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
-	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1912 AD) 
-* 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
-	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
-	1. 新 - xīn cháo (Xin Dynasty, 15 years to 26 AD) 
-	1. **東漢** - dōng hàn cháo (**Eastern Han Dynasty**, 195 years to 220 AD) 
-	1. 三國 - sān guó (Three Kingdoms, 45 years to 265 AD)
-	1. 西晉- xī jìn cháo (Western Jin Dynasty, 52 years to 317 AD) 
-	1. 晉 - jìn cháo (Eastern Jin Dynasty, 103 years to 420 AD) 
-	1. 隋 - suí cháo (Sui Dynasty, 37 years to 618 AD) 
-	1. **唐** - táng cháo (**Tang Dynasty**, 289 years to 907 AD) 
-	1. 五代十國 - wǔ dài shí guó (Five Dynasties and Ten Kingdoms, 53 years to 960 AD) 
-	1. **北宋** - běi sòng cháo (**Northern Song Dynasty**, 167 years to 1127 AD)    
-	1. **南宋** - nán sòng cháo (**Southern Song Dynasty**, 152 years to 1279 AD) 
-	1. 元 - yuán cháo (**Yuan Dynasty**, 97 years to 1368 AD) 
-	1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
-	1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
+### 7/09
+* Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK): 
+	* [Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)
+	* [Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)
 
-## 5/10 - 8/03
-1. 繼承之戰 [继承之战] — jì chéng zhī zhàn. Chinese version of title for *HBO Succession*. Literal: "The Battle for Inheritance".
-1. 個 [个] - gè (measure word)
-1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
-1. 到 - dào (arrive)
-1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in L17.
-1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also L7*
-1. 南京 - Nánjīng
-1. 自己 - zì jǐ (oneself; i.e. "by yourself) *See also L10*
-1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
-1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
-1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from L22.
-1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
-1. 騙 [骗] - piàn (to fool, to trick). From CH. Similar to 乾扁牛/羊 from ch-food
-1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
-1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
-1. 台灣 [台湾] - Táiwān
-1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
-1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
+### 7/11 
+* More links on sed from Hacker News:
+	* Grymoire's [Intro and Tutorial for Sed by Bruce Barnett](https://www.grymoire.com/Unix/sed.html) and associated [2015 HN thread](https://news.ycombinator.com/item?id=8851124) with a [comment about Grymoire's similar awk tutorial](https://news.ycombinator.com/item?id=8853658). Plus Grymoire's [grep tutorial](https://www.grymoire.com/Unix/Grep.html)
+	* [Differences between grep, sed, awk from Linode](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/#the-differences-between-grep-sed-and-awk) and [2023 HN thread](https://news.ycombinator.com/item?id=34280281)
+	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
+	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
 
-## 8/05 - 8/15
-1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
-1. 危險 [危险]- wēi xiǎn (danger). 臉 *xiǎn* looks like 臉[脸] *face* from L17.
-1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties). see also 油 from L17.
-1. 東寧 [东宁] - Dōng níng (*literal* "east peace"). First Han state that included part of Taiwan, 1661-1683. See [Kingdom of Dōngníng](https://en.wikipedia.org/wiki/Kingdom_of_Tungning). Heard about in Ep 2 of [History of Taiwan with Prof. James Lin](https://www.americanprestigepod.com/p/bonus-the-history-of-taiwan-ep-2?utm_source=%2Fsearch%2Ftaiwan&utm_medium=reader2#details)
+### 7/12 - 7/13
+* More sed links: 
+	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
+	* This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)
+* Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
+* Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
-#### 6/25 - 99 Ranch and Liang Mama with Julian
-#### 7/26 visit to Crouching Tiger restaurant with A+A
+## 7/14 - 7/16 awk resources
+* Watched [intro video to awk by Gary Explains](https://youtu.be/jJ02kEETw70) (20 minutes long)
+* Ben Porter's [history and tutorial video for awk](https://youtu.be/E5aQxIdjT0M) (1 hour long) 
+* Bruce Barnett aka Grymoire also has an [Intro and Tutorial for Awk](https://grymoire.com/Unix/Awk.html).
 
-## Unix + Python scripting to generate stats
-* 7/28/2023 -- See proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
-	* input.txt = 846 unique characters.
-	* output.txt = 733 unique characters, meaning we stripped out 113 Latin characters, puncutation, etc. using python script.
-* 8/10/2023 -- Reran 6c.py in proj-3 and added new undesired characters from output.txt to list of punctuation to be excluded.
-	* input.txt = 990 lines 
-	* output.txt = 779 unique characters after deleting lhout Latin characters, puncutation, etc. using python script.
+## 8/07
+* More sed resources (see also Notes app):
+	* From 2008 or so but updated since then. [Sed-one-liners](https://catonmat.net/worlds-best-introduction-to-sed), associated [text files with all one-liners](https://catonmat.net/wp-content/uploads/2008/09/sed1line.txt) and associated [HN comment](https://news.ycombinator.com/item?id=2431264). It's the first chapter of a $20 e-book [Sed One-Liners Explained](https://catonmat.net/sed-book). Note that catonmat = [Peter Krumins](https://catonmat.net/about), co-founde oBrowserling.com. And these one-liners were originally compiled by [Eric Pement](https://www.pement.org/sed/)
+	* From the same 2011 thread on [Sedtris: Tetris in sed](https://news.ycombinator.com/item?id=2430171) where the above catonmat one-liner article appeared, also found this [2008 other side of the moon Progamming Patterns in sed](https://tech.bluesmoon.info/2008/09/programming-patterns-in-sed.html)
+* Completed Luke Smith video from 7/12.
+* Began experimenting with catonmat's [first chapter](https://catonmat.net/worlds-best-introduction-to-sed)
 
-## Food
-Go to [this page](/ch-food/)
+## 8/08
+* Hm, perhaps look at the sed resources at [Eric Pement's site](https://www.pement.org/sed/)
+* On second thought, i think grymoire's original [Bruce Barnett's Sed intro and tutorial](https://www.grymoire.com/Unix/Sed.html) is the better way to go.
 
-## Tin Tin comic
-Go to [this page](/tt-blue-lotus/)
+## 8/09
+* Finished to the end of the flag section, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
+* Finished up to end of the ['Multiple commands witn an -command' section](https://www.grymoire.com/Unix/Sed.html#uh-13). Next section is 'Filenames on the command line'.
 
-## Harvard Mandarin Textbook
-### Lesson 1
-1. 學生 - xué shēng  
-1. 老師 - lǎo shī (See also 教師 jiào shī 'teacher' in L19)
-1. 你 - nǐ
-1. 是 - shì 
-1. 美國 - Měi guó 
-1. 人 - rén
-1. 嗎 - ma 
-1. 我 - wǒ 
-1. 不 - bù 
-1. 中國 - Zhōng guó 
-1. 這 [这] - zhè 
-1. 那 - nà 
-1. 書 - shū 
-1. 报纸 *JH preferred* simplified - bào zhǐ (newspaper) 
-1. 報紙 traditional - bào zhǐ (newspaper) 
+## 8/10
+* Been experimenting with alternative terminal emulators recently. First [Warp](www.warp.dev), then today [Alacritty](https://github.com/alacritty/alacritty). At some point, will refactor color themes available on [GitHub](https://github.com/alacritty/alacritty-theme)
 
-### Lesson 2
-1. 有 - yǒu 
-1. 一張紙 - yī zhāng zhǐ (one sheet of paper. 'zhāng' is a measure word)
-1. 兩  - liǎng 
-1. 很大 - hěn dà 
-1. 很小 - hěn xiǎ 
-1. 沒有 - méiyǒu 
-1. 一本書 - yī běn shū (one book. 'běn' is a measure word) 
-1. 新 - xīn (new) 
-1. 舊 [旧] - jiù (old) 
-1. 多少 - duō shǎo 
-1. 好 - hǎo 
-1. 一個人 (一 个 人) - yī gè rén. Simplified version of gè.
-1. 北京 - Běijīng 
-
-### Lesson 3
-1. 毛筆 - máo bǐ  
-1. 枝 - zhī (measure word for 'long, thin, inflexible objects'. see 'flowers' below)
-1. 一枝梅花 - yī zhī méihuā (a spray of plum blossoms — applied for flowers with their stems intact)
-1. 的 - de 
-1. Pencil - *qiān bǐ*. 鉛筆 (traditional). 铅笔 (simplified). 
-1. 長 - cháng (long)  
-1. 短 - duǎn (short) 
-1. 你們 - nǐ men 
-1. 黑 - hēi (black)
-1. 白 - bái (white) 
-1. 乾淨 - gān jing (clean) 
-1. 本子  - běn zi (notebook) 
-1. 對不對 - duì bù duì (is that right?)
-1. 對 - duì (correct; to, towards -- second def is from L21)
-1. 對不對? 恩, 那就對了! - Duì bù duì? Ēn, nà jiù duì le! 
-1. 朋友 - péng yǒu
-1. 中文 - Zhōng wén 
-1. 英國 - Yīngguó (England) 
-1. 英文 - Yīng wén (English) 
-  
-### Lesson 4
-1. 工作- gōng zuò (‘work’ as both a noun and a verb)
-1. 只 - zhǐ (only) 
-1. 只有你 - zhǐ yǒu nǐ (only you)
-1. 學習 [学习] - xué xí (to study or learn) 
-1. 看 - kàn (to look at) 
-1. 呢 - ne (question particle) 
-1. 呣 - ḿ ('What did you say?'; Expressing skepticism in response)
-1. 也 - yě (also)
-1. 幾 [几] - jǐ (how many; how few)
-1. Traditional:	你要幾隻雞 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
-1. Simplified:	你要几只鸡 - nǐ yào jǐ zhī jī (How many chickens do you want?) 
-1. 教 - jiào (to teach) 
-1. 給 [给] - gěi (to give) 
-1. 謝謝 [谢谢] - xiè xiè (thank you) 
-
-### Lesson 5
-1. 椅子 - yǐ zi (chair)
-1. 和 - hé (and). See also 暖和 *nuǎn huo* from L23. And 跟 *gēn* from L8.
-1. 桌子 - zhuō zi (table) 
-1. 都 - dōu (all) 
-1. 我們都走了 - wǒ men dōu zǒu le (We've all left)
-1. 一些 - yī xiē (a few) 
-1. 學校 [学校] - xué xiào (school)
-1. 人們 [人们] - rén men (people) 
-1. 日報 [日报] - rì bào (daily newspaper)
-1. 畫報 [画报] - huà bào (pictoral)
-1. 有意思  - yǒu yì si (interesting) 
-1. 日語 [日语] - Rì yǔ (Japanese) 
-1. 用 - yòng (to use) 
-1. 練習[练习] - liàn xí (exercise, to practice) 
-1. 作 - zuò (to do, to make) 
-1. 會 [会] - huì (to know how, to be skillful)
-1. 漢語 [汉语] - Hàn yǔ (Chinese) 
-1. 還 [还] - huán (to go back to; to give back, repay)
-1. ...還是 [还是]...? - hái shì (...or...?) 
-1. Traditional:	我應該吃這個還是那個 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-1. Simplified:	我应该吃这个还是那个 - Wǒ yīng gāi chī zhège háishì nàgè (Should I eat this or that?)
-	* see also L13
-
-### Lesson 6
-1. 姓 - xìng (surname) 
-1. 叫 - jiào (shout; call, greet; hire, order)  
-1. 甚麽 [什么] - shén me (what) 
-1. 名字 - míng zi (name) 
-1. 怎麼 [怎么] - zěn me (how/why) See also L15
-1. Traditional:	這怎麼發生的 - zhè zěnme fāshēng de? (How did this happen?)
-1. Simplified:	这怎么发生的 - Zhè zěnme fāshēng de? (How did this happen?) 
-1. 以前 - yǐ qián (before) 
-1. 吧 - ba (suggestion particle; request or mild command; indicating consent or approval; indicating some doubt in the speaker's mind) 
-1. 位 - wèi (measure word for people or position; eg. restaurants, numerical digits)
-1. 知道 - zhī dào (to know)
-1. 了解 - liǎo jiě (to understand) 
-1. 懂 - dǒng (to understand). Radical is 重 *zhòng* from Lessons 14 and 24. And 種 *zhǒng* from L15. 
-1. 日本 - Rì běn (Japan) 
-1. 第一 - dì yī (ordinal number aka '#1') 
-1. 你是誰 [谁] - nǐ shì shuí (shuí = 'who')
-1. 大學 - dà xué (college) 
-1. 室友 - shì yǒu (roommate) 
-1. 同屋 - tóng wū (roommate) 
-  
-### Lesson 7
-1. 星期 - xīng qí (week) 
-1. 禮拜 [礼拜] lǐ bài (week) also used for Monday, Tuesday, etc...
-1. 礼拜一 - lǐ bài yī (Monday)
-1. 礼拜二 - lǐ bài èr (Tuesday)
-1. 礼拜三 - lǐ bài sān (Wednesday)
-1. 礼拜四 - lǐ bài sì (Thursday) 
-1. 年 - nián 
-1. 月 - yu (month) 
-1. 一個月 [一个月]- yī gè yu 
-1. 一天 - yī tiān (one day)
-1. 一个小時 - yī gè xiǎo shí (one hour)
-1. 一分鐘 [一分钟] - yī fēn zhōng (one minute) 
-1. 兩點鐘 [两点钟] - liǎng diǎn zhōng (two o'clock) 
-1. 今天 - jīn tiān (today) See main section in L11
-1. 今年 - jīn nián (this year) 
-1. 日 - rì (day)
-1. 忙 - máng (busy) 
-1. 去 -qù (to go) 
-1. 來 [来] - lái (to come) 
-1. 過來 [过来]- guò lái (come over here) 
-1. 過[过]- guò (to cross; to pass time)
-1. 現在 [现在] - xiàn zài (right now) 
-1. 時候 [时候] - shí hòu (time) See also 時間 shí jiān in L18 
-1. 什麼時候 [什么时候] - shénme shíhòu (what time?)
-1. 零 - líng (zero) 
-1. 一半 - yī bàn (one half)
-1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.)
-
-### Lesson 8
-1. 到 - dào (arrived) 
-1. 上午 - shàng wǔ (morning) 
-1. 下午 - xià wǔ (afternoon) 
-1. 要 - yào (to want) 
-1. 跟 - gēn (with). See also 和 *hé* from L5.
-1. 但是 - dàn shì (but) 
-1. 哪兒 [儿] - nǎr? (where?) 
-1. 哪裏 [里] - nǎ lǐ? (where?); 里 also means (mile) 
-1. 哪兒 [儿] - nàr! (there!) 
-1. 那裏 [里] - nà lǐ! (there!) 
-1. 你在哪兒 [儿]? - nǐ zài nǎr? (Where are you?)
-1. 裏⧸裡 [里] - lǐ. E.g., where are you? and these are all equivalent 你在哪裏? 你在哪裡? 你在哪里? 
-1. 這裡[这里] - zhè lǐ (here)
-1. 這兒 [这儿] -  zhèr (here) 
-1. 問 - wèn (to ask) 
-1. 宿舍 - sù shè (dormitory) 
-1. 一起 - yī qǐ (together) 
-1. 對不起 [对不起] - duì bù qǐ (i'm sorry) Originally from L20
-1. 有事兒 - yǒu shèr (busy) 
-1. 我有事要做 - wǒ yǒu shì yào zuò (I have things to do) 
-1. 喜歡 [喜欢] - xǐ huan (to like) 
-1. 電影 [电影] - diàn yǐng (movie)
-1. 從 [从]- cóng (from) See also *L15*
-1. 你從哪來? [你从哪来?] - nǐ cóng nǎ lái? (Where are you from?)
-1. 為什么 *JH preferred*  - wéi shén me? (why?). [为甚麽 *simp+trad*] - wéi shén me? (why?) 
-
-### Lesson 9
-1. 好看 - hǎo kàn (good looking) 
-1. 舒服 - shū fú (comfortable) 
-1. 有時候 [有时候] - yǒu shí hòu (sometimes)
-1. 有时候(兒) - yǒu shí hòu(r) 
-1. 外邊 [外边] - wài bian (outside) 
-1. 里边 - lǐ bian (inside); *trad* 裏⧸裡 邊 - lǐ bian
-1. 前邊 [前边] - qián bian (front) 
-1. 後邊 [后边] - hòu bian (back;rear) 
-1. 右邊 [右边] - yòu bian (right side)
-1. 左邊 [左边] - zuǒ bian (left side) 
-1. 上邊 [上边] - shàng bian (top side) 
-1. 下邊 [下边] - xià bian (bottom side) 
-1. 旁邊 [旁边] - páng bian (to the side) 
-1. 中間兒 [中间儿] - zhōng jiān(r) 
-1. 地方 - dì fang (place)  
-1. 自學 [自学] - zì xué (self study)  
-1. 圖書館 [图书馆] - tú shū guǎn (library) 
-1. 常常 - cháng cháng (frequently, usually)  
-
- * 兒 [儿]		THIS is 'r'
- * 邊 [边] - bian		THIS is 'b' 
- * 裏⧸裡 [里] - lǐ		THIS is 'k' 
- * 了 - le 		THIS IS 'l'
- * 'h navigates to 還[还] *or* and *return*
-
-
-### Lesson 10
-1. 太 - tài (too as in 'too much') 
-1. 自己 - zì jǐ (oneself) 
-1. 教書 - jiāo shū (to teach)
-1. 看書 -  kàn shū (to read silently)
-1. 念書 [念书] - niàn shū (to study) 
-1. 得- de (verb particle) 
-1. 一定 - yī dìng (definitely, certainly)
-1. 特別 - tè bié (especially) 
-1. 高興 [高兴]- gāo xìng (happy) 
-1. 寫字 [写字] - xiě zì (to write characters) 
-1. 快 - kuài (fast)
-1. 慢 - màn (slow) 
-1. 说話 [说话]  - shuō huà (to talk)
-1. 跳舞 - tiào wǔ (to dance)
-1. 唱歌 (兒) - chàng gē (r) (to sing a song)
-1. 國歌 [国歌] - guó gē (national anthem)
-
-### Lesson 11
-1. 前天 - qián tiān (day before yesterday) 
-1. 昨天 - zuó tiān (yesterday) 
-1. 今天 - jīn tiān (today) 
-1. 明天 - míng tiān (tomorrow)
-1. 後天 [后天] - hòu tiān (day after tomorrow)
-1. 这么 [*trad* 這麼] - zhè me (this way; like this)
-1. 那么 [*trad* 那麼] - nà me (like that; in that way)
-1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
-1. 年級 [年级] - nián jí (class/year in school)
-1. 學期 [学期] - xué qī (school term)
-1. 參加 [参加] - cān jiā (to join a group; to participate)
-1. 吃 - chī (to eat)
-1. 東西 [东西] - dōng xi (a thing)
-1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
-1. 早 - zǎo (early) 
-1. 晚 - wǎn (late)
-1. 早安 - zǎo'ān (good morning)
-1. 晚安 - wǎn'ān (good evening)
-1. 晚會 [晚会]- wǎn huì (evening party; evening entertainment)
-1. 已經 [已经] - yǐ jīng (already)
-1. 經過 [经过] - jīng guò (pass, go through, undergo)
-1. 開始 [开始] - kāi shǐ (to begin)
-1. 開[开] - kāi (to open)  
-1. 開車 [开车] - kāi chē (to drive a car) originally from L20
-1. 關 [関;关] - guān (to open; *noun* barrier, critical juncture; mountain pass; customs gate). See also 沒關係 méi guān xi from *L13*.  
-1. 哈佛 - Hāfó (Harvard). See also 合作社 *co-op* from L15 
-
-### Lesson 12
-1. 見 [见] - jiàn (verb: to meet with, to catch sight of; noun: view, opinion)
-1. 認識 [认识] - rèn shi (to recognize someone; to be reacquainted). See also L24 and L25.
-1. 念 - niàn (to read out loud; to think of / miss; to consider or take into account)
-1. 大家 - dà jiā (everyone)
-1. 哦 - ó (*interjection* expressing doubt)
-1. 哦 - ò (*interjection* expressing realization; understanding) 
-1. 聽 [听] - tīng (to listen)
-1. 不錯 [不错] - bù cuò (correct; not bad; pretty good). See also L22.
-1. 句 - jù (measure word for sentence)
-1. 句子 - jù zi (sentence)
-1. 走 - zǒu (to walk)
-1. 就 - jiù (*adverb* at once; right away; already; as early as) 
-1. 晚上 - wǎn shang (evening; night)
-1. 晚飯 [晚饭] - wǎn fàn (dinner)
-1. 講 [讲] - jiǎng (lecture; speech; to speak or tell)
-1. 講幾句話 [讲几句话]- jiǎng jǐ jù huà (to say a few words)
-1. 清楚 - qīng chu (clarity, to be clear about, to understand)
-1. 復⧸複習 [复习] - fù xí (to review; revision)
-1. 語法 [语法] - yǔ fǎ (grammar)
-1. 辦法 [办法] - bàn fǎ (solution) See also *L15*
-1. 法國 - Fǎ guó (France)
-1. 課文 [课文] - kè wén (text)
-1. 功課 [功课] - gōng kè (homework; schoolwork)  
-1. 生詞 [生词] - shēng cí (new word)
-
-### Lesson 13
-1. 漢字 [汉字] - Hàn zì (Chinese characters)
-1. 沒関係 [没关系] - méi guān xi (it doesn't matter; *polite* 'that's all right', 'never mind') See *L11*
-1. 以後 [以后] - yǐ hòu  (later)
-1. 得 - děi (need; must; to have to) 
-1. 字典 - zì diǎn (dictionary)
-1. 能 - néng  (to be able to)
-1. 想 - xiǎng  (to think)
-1. 打球 - dǎ qiú (to play ball)
-1. 打 - dǎ (to hit)
-1. 球 - qiú (ball)
-1. 應該 [应该] - yīng gāi (should) *see also L5*
-1. 考試 [考试] - kǎo shì (to take an exam). See also L17 試 *to try*.
-1. 準備 [准备] - zhǔn bèi (to prepare)
-1. 努力 - nǔ lì (diligent)
-1. 非常 - fēi cháng (extremely)
-1. 可以 - kě yǐ (can, may; *colloquial* passable, not bad)
-1. 找 - zhǎo (to look for, to seek). See also L28 for "giving change back".
-1. 不用 - bù yòng (don't have to)
-
-### Lesson 14
-1. 同學 [同学] tóng xué (schoolmate) 
-1. 演 - yǎn (perform, play, act in a play). See also L29.
-1. 話劇 [话剧] huà jù (a play)
-1. 通知 - tōng zhī (paper notice; announcement). See also 止痛片 *zhǐ tòng piàn* from L20
-1. 交 - jiāo (to hand in an assignment). See also 水餃 [水饺] *shuǐ jiǎ* boiled dumplings 
-1. 注意 - zhù yì (pay close attention) See also 住 (to live) in L19. And 有意思 *yǒu yì si* from L5.
-1. 因為[因为]...所以 - yīn wei...suǒ yǐ (Because...therefore...)
-1. 报告 - bào gào (report) See also 告訴 *gào su* in L15
-1. 别的 - bié de (others) See also 特別 (especially) in L10
-1. 别人 - bié rén (other people). Originally introduced in L16
-1. 事情 - shì qing (matter, affair, issue)
-1. 有名 - yǒu míng  
-1. 不停的 - bù tíng de (without stopping) 
-1. 拊手 - fǔ shǒu (to clap hands)
-1. 拊掌大笑 - fǔ zhǎng dà xiào (to clap hands and laugh heartily)
-1. 休息 - xiū xi (rest)
-1. 重要 - zhòng yào (important)
-1. 意思  - yì si (meaning) See also L5
-1. 討論 [讨论] - tǎo lùn (to discuss)
-
-### Lesson 15
-1. 買[买] - mǎi (to buy)
-1. 賣[卖] - mài (to sell)
-1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 當然 [当然] - dāng rán (of course). See also 雖然 from L25. 
-1. 種 [种] - zhǒng (type, kind)
-1. 有用 - yǒu yòng (useful)
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from L8. Originally from L18.
-1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative). See also 哈佛 *Harvard* from L11 
-1. 每 - měi (every; each; per); e.g., 每天 měi tiān
-1. 上課 [上课] - shàng kè attend class
-1. 從...到 [从...到] - cóng...dào (from...to...) See also L8
-1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also L6* 
-1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also L12*
-1. 方法 - fāng fǎ (method, way, means)
-1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in L14
-1. 互相 - hù xiāng (mutually)
-1. 要是...就 - yào shi...jiù (if...then...)
-1. 必須 [必须] - bì xū (should; present)
-1. 問題 [问题] - wèn tí (question, problem)
-1. 回答 - huí dá (reply, response, answer)
-
-### Lesson 16
-1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
-1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
-1. 課本 [课本] - kè běn (textbook)
-1. 剛 [刚] - gāng (just) see also L11
-1. 完 - wán (finished, e.g., 吃完了)
-1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
-1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
-1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in L22.
-1. 書店 [书店] - shū diàn (bookstore)
-1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
-1. 高 - gāo (high) 
-1. 低 - dī (low, opposite of 高)
-1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
-1. 看見 [看见] - kàn jian (to see)
-1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
-1. 開會 [开会] - kāi huì (to hold a meeting)
-1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
-1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
-1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
-
-### Lesson 17
-1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
-1. 紅 [红] - hóng (red)
-1. 紅油 [红油] - hóng yóu (red oil; chili oil)
-1. 覺得 [觉得] - jué de (to feel)
-1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
-1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
-1. 頭 [头] - tóu (head)
-1. 臉 [脸] - liǎn (face). See also 險 (danger).
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
-1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 試 [试] - shì (to try, to test). See also L13 for 考試.
-1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
-1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
-1. 差不多 - chà bu duō (almost)
-1. 完全 - wán quán (completely). See also L29.
-1. 借 - jiè  (to borrow; lend)
-1. 成 - chéng (to succeed; to become). See also L18 城裏.
-1. 熱 [热] - rè (hot)
-1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
-1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
-1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
-1. 坐 - zuò (to sit)
-1. 極了 [极了] - jí le  (very, extremely). See also 衣服 *yī fu* from L26. 
-1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
-1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
-
-### Lesson 18
-1. 進 [进] - jìn (to enter)
-1. 搬 [般] - bān (to move)
-1. 間 - jiān (measure word for rooms)
-1. 屋子 - wūz (room)
-1. 一間屋子 - yī jiān wūz (a single bedroom); see Pleco for many other uses of 間
-1. 山 - shān (mountain)
-1. 貴 [贵] - guì (expensive)
-1. 便宜 - pián yi (inexpensive)
-1. 方便 - fāng biàn (convenient)
-1. 城裏 [城里] - chéng lǐ (in town; in the city). See also 成 in L17 and L29
-1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
-1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1. 自行車 [自行车] - zì xíng chē (bicycle)
-1. 騎 [骑] - qí (to ride a bicycle or vehicle)
-1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
-1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 回 - huí (to return) See also 回答 huí dá in L15
-1. 音樂 [音乐] - yīn yuè (music) 
-1. 帶[带] - dài (to bring along, to carry)
-1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
-1. 免費 [免费] - miǎn fèi (free of charge) 
-1. 出 - chū (exit)
-1. 倒是 - dào shì (admittedly)
-1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
-
-### Lesson 19
-1. 父母 - fù mǔ (parents)
-1. 父親 [父亲] fù qin (father); 爸爸 bà ba
-1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
-1. 哥哥 - gē ge (older brother)
-1. 弟弟 - dì di (younger brother)
-1. 姐姐 - jiě jie (older sister)
-1. 妹妹 - mèi mei (younger sister)
-1. 大夫 - dài fu (*colloquial* doctor, physician) 
-1. 大夫 - dà fū (*archaic* senior official)
-1. 談話 [谈话] -  tán huà (to chat) 
-1. 台北 - Tái běi (Taipei)
-1. 忘 - wàng (to forget)
-1. 客氣 [客气] - kè qi (polite, courteous)
-1. 住 - zhù (to live at). See also 注意 *zhù yì* from L14.
-1. 習慣 [习惯] - xí guàn (to be used to) 
-1. 教師 [教师] - jiào shī See also 老師 from L1
-1. 啊 - à ("ah" as an interjection). Also 啊媽 ā mā.
-
-### Lesson 20
-1. 再見 [再见] - zài jiàn (goodbye). See also L27.
-1. 一會兒 [一会儿] - yī huì(r) (in a moment)
-1. 電話 [电话] - diàn huà (telephone)
-1. 手機 [手机] - shǒu jī (mobile phone)
-1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
-1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
-1. 喂 - wéi? (hello when answering the phone)  
-1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
-1. 奇怪 - qí guài (strange, weird)
-1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
-1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
-1. 片兒 [片儿] - piān(r) (a piece)
-1. 病 - bìng (illness)
-1. 感冒 - gǎn mào (to catch a cold)
-1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 發展 [发展] - fā zhǎn (to develop). See also L24.
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
-1. 醫院 [医院] - yī yuàn (hospital)
-
-### Lesson 21
-1. 信 - xìn (letter)
-1. 病人 - bìng rén (sick person, patient)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 熱情 [热情] - rè qíng (warm, compassionate)
-1. 送 - sòng (to send)
-1. 決定 [决定] - jué dìng (to decide)
-1. 搞 - gǎo (to get tangled with)
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-1. 身體 [身体] - shēn tǐ (body)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
-1. 替 - tì (take the place of; replace, substitute for)
-1. ...史 - shǐ (history of ...)
-1. 翻譯 [翻译] - fān yì (translate)
-1. 冷 - lěng (cold)
-1. 希望 - xī wàng (hope - both noun and verb)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1.  
-1. 還 [还] - huán (to go back to; to give back, repay) from L5. Delete when done
-1. 給 [给] - gěi (to give) from L4. Delete when done
-1. 對 - duì (correct; to, towards -- second def is from L3) Delete when done
-1. 還 [还] - huán (to go back to; to give back, repay). From L5. Delete when done.
-
-### Lesson 22
-1. 就要...了 -  jiù yào...le (about to...)
-1. 春節 [春节] - Chūn Jié (Spring Festival)
-1. 它⧸牠 - tā (it)
-1. 一樣 [一样] - yī yàng (to be the same)
-1. 像 - xiàng (to resemble)
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
-1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 錯 [错] - cuò (wrong). See also L12.
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. 筷子 - kuài zi (chopsticks)
-1. 餓 [饿] - è (hungry)
-1. 家 - jiā (house)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 難 [难] - nán (difficult, hard)
-1.  
-1. 過[过]- guò (to cross; to pass time) Originally from L7. Delete when finished
-1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
-1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from L16. Delete when finished
-1. 菜 - cài (vegetable) DELETE WHEN FINISHED.
-1. 南方 - nán fāng (from the South, "Southern Style"). Placed into L16; delete when finished
-
-### Lesson 23
-1. 正 - zhèng (correct, right, straighten)
-1. 真 - zhēn (really; real)
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
-1. 大衣 - dà yī (overcoat)
-1. 天氣 [天气] - tiān qì (weather)
-1. 下雨 - xià yǔ (to rain)
-1. 下雪 - xià xuě (to snow)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 春天 - chūn tiān (spring)
-1. 夏天 - xià tiān (summer)
-1. 秋天 - qiū tiān (autumn, fall)
-1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
-1. 去年 - qù nián (last year)
-1. 好像 - hǎo xiàng (very like, similar to, resembles)
-1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 漂亮 - piào liang (pretty). See also L28.
-1. 讓 [让] - ràng (to allow)
-1. 男 - nán (male)
-1. 女 - nǚ (female)
-1. 穿 - chuān (to wear)
-
-### Lesson 24
-1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
-1. 散步 - sàn bù (to walk, stroll)
-1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
-1. 小姐 - xiǎo jiě (young lady)
-1. 生活 - shēng huó (life, livelihood)
-1. 比方說 [比方说] - bǐ fang shuō (for example)
-1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
-1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
-1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
-1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
-1. 從前 [从前] - cóng qián (before, formerly, in the past)
-1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
-1. 增加 - zēng jiā (to increase)
-1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
-1. 立刻 - lì kè (immediately, at once)
-1. 街 - jiē (street). See also L20 for 路 *lù* (road).
-1. 人口 - rén kǒu (population; family size)
-1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 
-1/3'.
-1. 就是 - jiù shì (lots of meanings. old notes say 'all except'. But see Plekko...)
-
-### Lesson 25
-1. 最 - zuì (the most)
-1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
-1. 更 - gèng (even more)
-1. 困難 [困难] - kùn nan (difficult)
-1. 容易 - róng yì (easy)
-1. 記 [记] - jì (to record to remember)
-1. 筆畫 [笔画] - bǐ huà (stroke order)
-1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
-1. 簡單 [简單] - jiǎn dān (simple, easy)
-1. 複雜 [复杂] - fù zá (complicated)
-1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
-1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
-1. 比較 [比较] - bǐ jiào (comparatively)
-1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
-1. 鐘頭 [钟头] - zhōng tóu (hour)
-1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
-1. 前頭 [前头] - qián tou *aka* 前面 *qián mian* or *qián miàn* (front)
-1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
-1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
-
-### Lesson 26
-1. 日記 [日记] - rì jì (diary)
-1. 毛衣 - máo yī (sweater)
-1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
-1. 淺 [浅] - qiǎn (light/pale in color; shallow)
-1. 深 - shēn (deep in color; depth)
-1. 綠 [绿] - lǜ (green)
-1. 黃 - huáng (yellow)
-1. 白 - bái (white)
-1. 藍 [蓝] - lán (blue)
-1. 樣子 [样子] - yàng zi (style, standard, pattern)
-1. 塊 [块] - kuài (piece, block)
-1. 顏色 [颜色] - yán sè (color)
-1. 點心 [点心] - diǎn xin (dim sum)
-1. 愛 [爱] - ài (love)
-1. 廁所 [厕所] - cè suǒ (toilet)
-1. 腳步 [脚步] - jiǎo bù (footstep)
-1. 手錶 [手表] - shǒu biǎo (wristwatch)
-1. 聲音 [声音] - shēng yīn (sound)
-1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
-1. 搬家 - bān jiā (to move house)
-1. 同志 - tóng zhì (comrade; colleague)
-1. 也...也... - yě...yě... (both...and...)
-
-### Lesson 27
-1. 把 - bǎ (hold, watch; *noun* handle bars)
-1. 糟糕 - zāo gāo (oh no!)
-1. 送 - sòng (to give as a present; to deliver; to accompany, escort)
-1. 圓珠筆 [圆珠笔] - yuán zhū bǐ 
-1. 丢 - diū (to lose; to misplace)
-1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
-1. 不好意思 - bù hǎo yì si (how embarrassing)
-1. 生產 [产生] - shēng chǎn (to produce, to manufacture)
-1. 共產黨 [共产党] - gòng chǎn dǎng (Communist Party)
-1. 工廠 [工厂] - gōng chǎng (factory, mill, plant)
-1. 咳⧸咍 - hāi (expressing regret or mild disgust) 
-1. 哎呀 - āi yā (interjection expressing surprise or amazement)
-1. 教室 - jiào shì (classroom)
-1. 大意 - dà yì (the big idea, gist, general idea)
-1. 停 - tíng (to stop, to pause, to halt; to park a car)
-1. 自來水 [自来水] - zì lái shuǐ (running water)
-1. 洗 - xǐ (to wash; to bathe)
-1. 百 - bǎi (one hundred *aka* number 100)
-1. 塊 [块] - kuài (a piece, lump, chunk; a dollar)
-1. 錢 [钱] - qián (money)
-1. 怕 - pà (to fear)
-1. 講話 [讲话] - jiǎng huà (speech, lecture)
-
-### Lesson 28
-1. 座 - zuò (measure word for buildings, mtns, other large immovable objects)
-1. 房子 - fáng zi (house)
-1. 大樓 [大楼] - dà lóu (large, multi-story building)
-1. 亮 - lìang (bright). See also 漂亮 *piào liang* from L23.
-1. 房錢 [房钱] - fáng qian (rent for housing)
-1. 貴 [贵] - guì (expensive)
-1. 付 - fù (to hand over; to pay)
-1. 除了...以外 - chú le ...yǐ wài (except for...)
-1. 電費 [电费] - diàn fèi (bill or fee for electricity)
-1. 毛 - máo (a dime; one-tenth of a dollar)
-1. 分 - fēn (penny, cents; 1/100th of a dollar)
-1. 空氣 [空气] - kōng qì (air)
-1. 缺點 [缺点] - quē diǎn (drawback)
-1. 起 - qǐ (to wake up; to rise; to stand up)
-1. 附近 - fù jìn (vicinity)
-1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
-1. 服務員 [服务员] - fú wù yuán (attendant)
-1. 一共 - yī gòng (altogether, in all, all told)
-1. 找 - zhǎo (to give change back). See also L13 same character and pronounciation for "to search". 
-1. 又...又... - yoù...yoù... (not only...but also...)
-
-### Lesson 29
-1. 表演 - biǎo yǎn (to perform; *noun* performance). See also L14. 
-1. 春假 - chūn jià (spring break)
-1. 計劃 [计划] - jì huà (plan, project, programme)
-1. 查 - chá (to look up, to consult, to examine)
-1. 論文 [论文] - lùn wén (thesis, dissertation, paper)
-1. 提前 - tí qián (shift to an earlier date; to do in advance)
-1. 完成 - wán chéng (accomplish; complete). See also L17.
-1. 可惜 - kě xī (it's a pity; too bad)
-1. 不然 - bù rán (otherwise; not so, not the case)
-1. 紐約 [纽约] - niǔ yuē (New York)
-1. 音樂 [音乐] - yīn yuè (music)
-1. 旅行 - lǚ xíng (to travel, to vacation)
-1. 批評 [批评] - pī píng (to criticize)
-1. 一天到晚 - yī tiān dào wǎn (from morning til night)
-1. 睡覺 [睡觉] - shuì jiào (to go to bed; to sleep)
-1. 不但...而且 - bù dàn...ér qiě (not only...but also)
-1. 老 - lǎo (to keep on; to persist)
-1. 幹 [干] - gàn (*verb* to do, to act, to work; *noun* trunk, stem, main part; cadre)
-1. 一邊...一邊 [一边...一边] - yī bīan...yī bīan (verb 1 while performing verb 2)
-1. 大聲 [大声] - dà shēng (in a loud voice)
-1. 聲音 [声音] - shēng yīn (sound)
-
-### Lesson 30
-1. 太太 - tài tai (Mrs., Madame; wife)
-1. 先生 - xiān sheng (Mr., husband; teacher)
-1. 流利 - liú lì (fluent, smooth)
-1. 聽說 [听说] - tīng shuō (to have heard people say...)
-1. 一天比一天 - yī tiān bǐ yī tiān (day by day)
-1. 提高 - tí gāo (to raise)
-1. 進步 [进步] - jìn bù (to improve)
-1. 需要 - xū yào (to need)
-1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
+## 8/10 Regex notes
+* z\* matches zero to any z's found. z+ matches 1 to any z's found. z? optionally matches z's found.
+* Good [regex tutorial](https://www.regular-expressions.info/optional.html). Question mark is called a *quantifier*. This tutorial mostly focuses NFA aka "regex-directed" engines.
+* The 12 reserved charactes in regex like *?.()[]* are called special characters or **metacharacters**.
+	* Note that single quote and double quote are *not* metacharacters. You can treat them as literals.
+* The section on how [regex engines work internally](https://www.regular-expressions.info/engine.html) is essential! The end of this section has a simple but clear example of how left-most matching and sequencing works when matching.
+* This website also has a good [summary of GNU regexp](https://www.regular-expressions.info/gnu.html) for tools like GNU sed. But the site also has [extensive documentation about regexp support/flavors for many other languages, frameworks, and tools](https://www.regular-expressions.info/reference.html).
+* Most flavors of sed use traditional NFA per the [3rd edition of Mastering Regular Expressions (2006)](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html). In other words, sed regex is non-deterministic. See [this excellent semi-academic blog post](https://www.abstractsyntaxseed.com/blog/regex-engine/nfa-vs-dfa). The end of [Chapter 4 of MRE](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/ch04.html) has good examples to help determine if a particular regex engine is NFA, Traditional NFA, POSIX NFA, DFA, or a hybrid between NFA/DFA. 
+	* NFA = Non-deterministic Finite Automata aka "regex directed"
+	* DFA = Deterministic Finite Automata aka "text directed". Always greedy.
+* Character classes = Character sets are synonyms. Defined by square brackets around the set [].
+* ^ = negation for the remainder of a character class.
+* Most of the usual [metacharacters act as a normal literal character when inside square brackets](https://www.regular-expressions.info/charclass.html) as part of a class! i.e. "In most regex flavors, the only special characters or metacharacters inside a character class are the closing bracket ], the backslash \, the caret ^, and the hyphen -. The usual metacharacters are normal characters inside a character class, and do not need to be escaped by a backslash. To search for a star or plus, use [+*]. Your regex will work fine if you escape the regular metacharacters inside a character class, but doing so significantly reduces readability."
+	* Special note which I think applies to gsed: "The closing bracket ], the caret ^ and the hyphen - can be included by escaping them with a backslash, or by placing them in a position where they do not take on their special meaning. The POSIX and GNU flavors are an exception. They treat backslashes in character classes as literal characters. So with these flavors, you can’t escape anything in character classes."
+* Common shorthands to avoid typing the same character class over and over again:
+	* **\d** = [0-9], i.e., all digits
+	* **\w** = [A-Za-z0-9_], i.e. all 'word' characters
+	* Note "It always matches the ASCII characters [A-Za-z0-9_]. Notice the inclusion of the underscore and digits. In most flavors that support Unicode, \w includes many characters from other scripts. There is a lot of inconsistency about which characters are actually included. Letters and digits from alphabetic scripts and ideographs are generally included. Connector punctuation other than the underscore and numeric symbols that aren’t digits may or may not be included." from [this section](https://www.regular-expressions.info/shorthand.html)
+	* **\s** = whitespace characters. BUT "\s stands for “whitespace character”. Again, which characters this actually includes, depends on the regex flavor. In all flavors discussed in this tutorial, it includes [ \t\r\n\f]. That is: \s matches a space, a tab, a carriage return, a line feed, or a form feed. Most flavors also include the vertical tab, with Perl (prior to version 5.18) and PCRE (prior to version 8.34) being notable exceptions. In flavors that support Unicode, \s normally includes all characters from the Unicode “separator” category. Java and PCRE are exceptions once again. But JavaScript does match all Unicode whitespace with \s." A lot of inconsistency!
+	* you can negate any of the shortcuts above by use uppercase versions of the shortcuts. e.g., **\D** = anything *other than digits*; **\S** = anything *other than whitespace characters*.
