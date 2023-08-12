@@ -65,13 +65,15 @@ permalink: /zhongwen/
 1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
 
 ## 8/05 - 8/15
-1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan)
+1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan). See LRB.
+1. 高原 -  gāo yuán (*noun* plateau, highland). See LRB.
 1. 危險 [危险]- wēi xiǎn (danger). 臉 *xiǎn* looks like 臉[脸] *face* from L17.
 1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties). see also 油 from L17.
 1. 東寧 [东宁] - Dōng níng (*literal* "east peace"). First Han state that included part of Taiwan, 1661-1683. See [Kingdom of Dōngníng](https://en.wikipedia.org/wiki/Kingdom_of_Tungning). Heard about in Ep 2 of [History of Taiwan with Prof. James Lin](https://www.americanprestigepod.com/p/bonus-the-history-of-taiwan-ep-2?utm_source=%2Fsearch%2Ftaiwan&utm_medium=reader2#details)
+1. 經驗 [经验] - jīng yàn (experience). See also 臉 [脸] liǎn (face) from L17.
+1.   
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
-#### 7/26 visit to Crouching Tiger restaurant with A+A
 
 ## Unix + Python scripting to generate stats
 * 7/28/2023 -- See proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
@@ -449,7 +451,7 @@ Go to [this page](/tt-blue-lotus/)
 1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
 1. 頭 [头] - tóu (head)
-1. 臉 [脸] - liǎn (face). See also 險 (danger).
+1. 臉 [脸] - liǎn (face). See also 險 (danger) and [经验] - jīng yàn (experience).
 1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
 1. 試 [试] - shì (to try, to test). See also L13 for 考試.
@@ -751,4 +753,3 @@ Go to [this page](/tt-blue-lotus/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
