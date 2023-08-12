@@ -56,7 +56,7 @@ permalink: /zhongwen/
 1. 滾蛋 [滚蛋] - gǔn dàn (*vulgar* get lost! beat it! f* off! from 北京 mean girl on TikTok)
 1. 功夫 and *variant* 工夫 - gōng fu (multiple definitions, including free time and kung fu. See Pleco entry for 工夫)
 1. 別罵我 [別骂我] - bié mà wǒ (don't yell at me) from TikTok. See also 別 usage from L22.
-1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
+1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20. *yào* looks like *yuè* from 音樂 (music) from L18. 
 1. 騙 [骗] - piàn (to fool, to trick). From CH. Similar to 乾扁牛/羊 from ch-food
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
 1. 6/30 - See notes on [丁丁 (Tin Tin)](/tt-blue-lotus/)
@@ -72,7 +72,7 @@ permalink: /zhongwen/
 1. 自由 - zì yóu (*adjective* relaxed, unrestrained; *noun* freedom, civil liberties). see also 油 from L17.
 1. 東寧 [东宁] - Dōng níng (*literal* "east peace"). First Han state that included part of Taiwan, 1661-1683. See [Kingdom of Dōngníng](https://en.wikipedia.org/wiki/Kingdom_of_Tungning). Heard about in Ep 2 of [History of Taiwan with Prof. James Lin](https://www.americanprestigepod.com/p/bonus-the-history-of-taiwan-ep-2?utm_source=%2Fsearch%2Ftaiwan&utm_medium=reader2#details)
 1. 經驗 [经验] - jīng yàn (experience). See also 臉 [脸] liǎn (face) from L17.
-1.   
+1.  
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
