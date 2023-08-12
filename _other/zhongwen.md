@@ -59,6 +59,7 @@ permalink: /zhongwen/
 1. 嗑藥 [嗑药] - kè yào (to take drugs). See also L20.
 1. 騙 [骗] - piàn (to fool, to trick). From CH. Similar to 乾扁牛/羊 from ch-food
 1.  [王小川 *Wáng Xiǎochuān*](https://en.wikipedia.org/wiki/Wang_Xiaochuan) founded the search engine [Sogou](https://en.wikipedia.org/wiki/Sogou) which is now a subsidiary of Tencent. Literal translation of Sogou is 'search dog' aka 搜狗 *sōu gǒu*.
+1. 6/30 - See notes on [丁丁 (Tin Tin)](/tt-blue-lotus/)
 1. 戰略 [战略] - zhàn lüè (strategy) as in business strategy or 八八戰略 bā bā zhàn lüè planned for Zhe Jiang province. See also in 走路 *road* from L20.
 1. 台灣 [台湾] - Táiwān
 1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
@@ -85,9 +86,6 @@ permalink: /zhongwen/
 
 ## Food
 Go to [this page](/ch-food/)
-
-## Tin Tin comic
-Go to [this page](/tt-blue-lotus/)
 
 ## Harvard Mandarin Textbook
 ### Lesson 1
