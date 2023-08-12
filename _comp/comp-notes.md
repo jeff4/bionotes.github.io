@@ -253,7 +253,7 @@ permalink: /comp-notes/
 * **\b** = very useful word border. Used in history file and detected The, These, There, Their, etc. See OneNote also from 8/11 under gsed notes.
 * From [The Dot section](https://www.regular-expressions.info/dot.html), scroll to the bottom two sections. \N never matches line breaks. But more importantly, use the dot sparingly. Probably better to use a negated characer class instead of the form \[^ these chars are negated\].
 * ^ and $ at the beginning and end of lines (obviously like in vim), are called [*String Anchors*](https://www.regular-expressions.info/anchors.html).
-* Parentheses are used for [grouping](https://www.regular-expressions.info/brackets.html) and [**pipes \|**](https://www.regular-expressions.info/alternation.html) are used as a case/switch to suggest different enumerated options of things to match. 
+* [Parentheses are used for grouping](https://www.regular-expressions.info/brackets.html) while [**pipes \|**](https://www.regular-expressions.info/alternation.html) are used to demarcate different enumerated options like a multiple choice or case/switch block.
 	* Note that POSIX like GNU usually chooses the longest option, etc., prefers *catapult* instead of *cat* in the expression **(cat \| catapult )**. So you need to be explicit to make sure the longest or left-most option is not used. 
 * Optional items are marked by the **? question mark** as described in [this section](https://www.regular-expressions.info/optional.html) which also explains the concept of greediness.
 * [Star \(*) and Plus \(+)](https://www.regular-expressions.info/repeat.html) allow 0-infinite matches and and Plus allow 1-infinite matches. You can also specify how much reptition exactly with curly braces{}.
