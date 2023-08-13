@@ -257,3 +257,8 @@ permalink: /comp-notes/
 	* Note that POSIX like GNU usually chooses the longest option, etc., prefers *catapult* instead of *cat* in the expression **(cat \| catapult )**. So you need to be explicit to make sure the longest or left-most option is not used. 
 * Optional items are marked by the **? question mark** as described in [this section](https://www.regular-expressions.info/optional.html) which also explains the concept of greediness.
 * [Star \(*) and Plus \(+)](https://www.regular-expressions.info/repeat.html) allow 0-infinite matches and and Plus allow 1-infinite matches. You can also specify how much reptition exactly with curly braces{}.
+
+## 8/12 Starship prompt notes
+* Successfully installed Nerd Font and Starship. Basic check show that both are working.
+* However, not seeing how to modify the color schemes for input versus output yet.
+
