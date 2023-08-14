@@ -261,4 +261,4 @@ permalink: /comp-notes/
 ## 8/12 Starship prompt notes
 * Successfully installed Nerd Font and Starship. Basic check show that both are working.
 * However, not seeing how to modify the color schemes for input versus output yet.
-
+* Next steps. Try seeing results with zsh. And try on ARM.
