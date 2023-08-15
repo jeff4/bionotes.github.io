@@ -74,8 +74,7 @@ permalink: /zhongwen/
 1. 東寧 [东宁] - Dōng níng (*literal* "east peace"). First Han state that included part of Taiwan, 1661-1683. See [Kingdom of Dōngníng](https://en.wikipedia.org/wiki/Kingdom_of_Tungning). Heard about in Ep 2 of [History of Taiwan with Prof. James Lin](https://www.americanprestigepod.com/p/bonus-the-history-of-taiwan-ep-2?utm_source=%2Fsearch%2Ftaiwan&utm_medium=reader2#details)
 1. 經驗 [经验] - jīng yàn (experience). See also 臉 [脸] liǎn (face) from L17.
 1. 討厭 [讨厌] - tǎo yàn (annoyed, annoying). See also from L14, 討論 [讨论] - tǎo lùn (to discuss)
-1.  
-
+1. 比基尼 - bǐ jī ní (bikini)
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -755,14 +754,3 @@ Go to [this page](/ch-food/)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
 1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
