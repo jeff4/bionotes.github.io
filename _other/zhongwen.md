@@ -75,6 +75,7 @@ permalink: /zhongwen/
 1. 經驗 [经验] - jīng yàn (experience). See also 臉 [脸] liǎn (face) from L17.
 1. 討厭 [讨厌] - tǎo yàn (annoyed, annoying). See also from L14, 討論 [讨论] - tǎo lùn (to discuss)
 1. 比基尼 - bǐ jī ní (bikini)
+1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -753,4 +754,3 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
