@@ -76,6 +76,7 @@ permalink: /zhongwen/
 1. 討厭 [讨厌] - tǎo yàn (annoyed, annoying). See also from L14, 討論 [讨论] - tǎo lùn (to discuss)
 1. 比基尼 - bǐ jī ní (bikini)
 1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
+1.  
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -105,7 +106,7 @@ Go to [this page](/ch-food/)
 1. 這 [这] - zhè 
 1. 那 - nà 
 1. 書 - shū 
-1. 报纸 *JH preferred* simplified - bào zhǐ (newspaper) 
+1. 报纸 *JH preferred* simplified - bào zhǐ (newspaper). 报looks like *fu* from 衣服 *yī fu*, L26. 
 1. 報紙 traditional - bào zhǐ (newspaper) 
 
 ### Lesson 2
@@ -315,7 +316,7 @@ Go to [this page](/ch-food/)
 1. 这么 [*trad* 這麼] - zhè me (this way; like this)
 1. 那么 [*trad* 那麼] - nà me (like that; in that way)
 1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
-1. 年級 [年级] - nián jí (class/year in school)
+1. 年級 [年级] - nián jí (class/year in school). See also from L17, 极了 *jí le*.
 1. 學期 [学期] - xué qī (school term)
 1. 參加 [参加] - cān jiā (to join a group; to participate)
 1. 吃 - chī (to eat)
@@ -467,7 +468,7 @@ Go to [this page](/ch-food/)
 1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
 1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
 1. 坐 - zuò (to sit)
-1. 極了 [极了] - jí le  (very, extremely). See also 衣服 *yī fu* from L26. 
+1. 極了 [极了] - jí le  (very, extremely). For simplified version, see also [年级] - *nián jí* from L11.
 1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
 1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
 
