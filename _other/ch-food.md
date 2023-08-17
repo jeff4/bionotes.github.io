@@ -98,7 +98,7 @@ permalink: /ch-food/
 1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
 1. 成 - chéng (to succeed; to become)
 1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 極了[极了] - jí le  (very, extremely)
+1. 極了[极了] - jí le  (very, extremely). For simplified version, see also [年级] - nián jí from L11.
 1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
 1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
 1. 紅 [红] - hóng (red)
