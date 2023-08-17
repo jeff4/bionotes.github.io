@@ -35,7 +35,7 @@ permalink: /ch-food/
 ### Crouching Tiger lunch with A+A on Wed 26 July 2023
 1. 手工白菜豬肉水餃 - shǒugōng báicài zhūròu shuǐ jiǎo. Literal: handmade (big) white cabbage pork meat dumplings. English: Handmade Pork & Napa Cabbage Dumplings
 1. 新疆羊 - xīn jiāng yáng (Xinjiang Cumin Lamb)
-1. 椒鹽肉排 - jiāo yán ròu pái (jiāo yán = condiment made of roast prickly ash and salt; ròu pái = steak).  Salt and Pepper Pork Chop
+1. 椒鹽肉排 [椒盐肉排] - jiāo yán ròu pái (jiāo yán = condiment made of roast prickly ash and salt; ròu pái = steak).  Salt and Pepper Pork Chop
 1. 核桃蝦 [虾] - hé tao xiā. Literally "Walnut Prawn". Engish: Walnut Prawns.
 1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. Garlic-Sauteed Big Pea Shoots. Do Miao = pea shoots *aka* bean sprouts.
 1. 四川哧擔擔麵 [担担面] - sìchuān chī dàndan miàn. Sichuan-style Hot & Spicy Dan-Dan Noodles.
