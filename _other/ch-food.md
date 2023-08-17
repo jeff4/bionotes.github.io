@@ -44,7 +44,7 @@ permalink: /ch-food/
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
 1. 問題 [问题] - wèn tí (question, problem)
-1. 每 - měi (every; each; per); e.g., 每天 měi tiān
+1. 每 - měi (every; each; per); e.g., měi tiān
 1. 種 [种] - zhǒng (type, kind)
 1. 有用 - yǒu yòng (useful)
 1. 要是...就 - yào shi...jiù (if...then...)
