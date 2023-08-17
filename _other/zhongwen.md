@@ -411,7 +411,7 @@ Go to [this page](/ch-food/)
 1. 有用 - yǒu yòng (useful)
 1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from L8. Originally from L18.
 1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative). See also 哈佛 *Harvard* from L11 
-1. 每 - měi (every; each; per); e.g., 每天 měi tiān
+1. 每 - měi (every; each; per); e.g., měi tiān
 1. 上課 [上课] - shàng kè attend class
 1. 從...到 [从...到] - cóng...dào (from...to...) See also L8
 1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also L6* 
