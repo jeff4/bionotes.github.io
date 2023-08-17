@@ -108,7 +108,7 @@ permalink: /ch-food/
 1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
 1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
 1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
-1. 臉 [脸] - liǎn (face)
+1. 臉 [脸] - liǎn (face). See also 險 (danger) and [经验] - jīng yàn (experience).
 1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
 
 ### Lesson 18
