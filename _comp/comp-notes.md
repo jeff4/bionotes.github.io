@@ -262,3 +262,6 @@ permalink: /comp-notes/
 * Successfully installed Nerd Font and Starship. Basic check show that both are working.
 * However, not seeing how to modify the color schemes for input versus output yet.
 * Next steps. Try seeing results with zsh. And try on ARM.
+
+## 8/17 sed
+* Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
