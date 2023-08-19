@@ -275,3 +275,6 @@ permalink: /comp-notes/
 	* I'm using hash-marks (#) instead of the usual forward slash (/) as delimiters. 
 	* I'm using **\\b** as word-boundaries. 
 	* The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
+
+## 8/19 sed
+* Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
