@@ -267,8 +267,7 @@ permalink: /comp-notes/
 * Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
 
 ## 8/18 sed
-* After experimentation, I realized that using the **-r** flag is critical to getting regex working well with gsed. With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like we needed to escape parens with a backslash like so \\(. Safest bet is to just turn on **-r** like so:
+* After experimentation, I realized that using the **-r** for extended regular expressions (ERE) flag is critical to getting regex working well with gsed. With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like we needed to escape parens with a backslash like so \\(. Safest bet is to just turn on **-r** like so:
 		`gsed -nr 's#\b(\w+)\b \b\1\b#\1  ~~~ \1#gp' source.txt >out.txt`
 * The above example uses **-n** to suppress automatic printing. And the **gp** options at the end ensure respectively: (1) that all instances per line are executed on (globally), NOT just the first instance; and (2) p means print each line where a line matches indicated pattern and is worked upon.
 	* Note also that i'm using hash-marks (#) instead of the usual forward slash (/) as delimiters. I'm using **\\b** as word-boundaries. The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
-
