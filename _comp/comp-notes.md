@@ -256,7 +256,7 @@ permalink: /comp-notes/
 * [Parentheses are used for grouping](https://www.regular-expressions.info/brackets.html) while [**pipes \|**](https://www.regular-expressions.info/alternation.html) are used to demarcate different enumerated options like a multiple choice or case/switch block.
 	* Note that POSIX like GNU usually chooses the longest option, etc., prefers *catapult* instead of *cat* in the expression **(cat \| catapult )**. So you need to be explicit to make sure the longest or left-most option is not used. 
 * Optional items are marked by the **? question mark** as described in [this section](https://www.regular-expressions.info/optional.html) which also explains the concept of greediness.
-* [Star \(*) and Plus \(+)](https://www.regular-expressions.info/repeat.html) allow 0-infinite matches and and Plus allow 1-infinite matches. You can also specify how much reptition exactly with curly braces{}.
+* Star \(*) and Plus \(+) allow 0-infinite matches and and Plus allow 1-infinite matches. You can also specify how much reptition exactly with curly braces{}. See more at [this article](https://www.regular-expressions.info/repeat.html)
 
 ## 8/12 Starship prompt notes
 * Successfully installed Nerd Font and Starship. Basic check show that both are working.
@@ -267,8 +267,8 @@ permalink: /comp-notes/
 * Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
 
 ## 8/18 sed
-* After experimentation, I realized that using the -r flag is critical to getting regex working well with gsed. With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like we needed to escape parens with a backslash like so \\(. Safest bet is to just turn on -r like so:
+* After experimentation, I realized that using the **-r** flag is critical to getting regex working well with gsed. With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like we needed to escape parens with a backslash like so \\(. Safest bet is to just turn on **-r** like so:
 		`gsed -nr 's#\b(\w+)\b \b\1\b#\1  ~~~ \1#gp' source.txt >out.txt`
-* The above example uses -n to suppress automatic printing. And the gp options at the end ensure respectively: (1) that all instances per line are executed on (globally), NOT just the first instance; and (2) p means print each line where a line matches indicated pattern and is worked upon.
-	* Note also that i'm using hash-marks (#) instead of the usual forward slash (/) as delimiters. I'm using \\b as word-boundaries. The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
+* The above example uses **-n** to suppress automatic printing. And the **gp** options at the end ensure respectively: (1) that all instances per line are executed on (globally), NOT just the first instance; and (2) p means print each line where a line matches indicated pattern and is worked upon.
+	* Note also that i'm using hash-marks (#) instead of the usual forward slash (/) as delimiters. I'm using **\\b** as word-boundaries. The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
 
