@@ -77,7 +77,6 @@ permalink: /zhongwen/
 1. 比基尼 - bǐ jī ní (bikini)
 1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
 1. 堂堂正正 - táng táng zhèng zhèng (impressive, dignified; open and aboveboard). From 堂堂正正的中国人 which was a nationalistic KMT term imposed by Chiang Kai-Shek in Taiwan to refer to the "aboveboard wai shen ren" after 1949. From the [wiki article](https://en.wikipedia.org/wiki/Chai_Trong-rong) about 蔡同榮 Cài Tóngróng, the academic who co-founded [WUFI](https://en.wikipedia.org/wiki/World_United_Formosans_for_Independence#1970s) in 1970 and [FAPA](https://en.wikipedia.org/wiki/Formosan_Association_for_Public_Affairs) in 1982. Also politician in the [DPP](https://en.wikipedia.org/wiki/Democratic_Progressive_Party)
-1.  
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -87,7 +86,7 @@ permalink: /zhongwen/
 	* output.txt = 733 unique characters, meaning we stripped out 113 Latin characters, puncutation, etc. using python script.
 * 8/10/2023 -- Reran 6c.py in proj-3 and added new undesired characters from output.txt to list of punctuation to be excluded.
 	* input.txt = 990 lines 
-	* output.txt = 779 unique characters after deleting lhout Latin characters, puncutation, etc. using python script.
+	* output.txt = 779 unique characters after deleting undesired Latin characters, puncutation, etc. using python script.
 
 ## Food
 Go to [this page](/ch-food/)
