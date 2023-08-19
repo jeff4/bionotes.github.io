@@ -65,7 +65,7 @@ permalink: /zhongwen/
 1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
 1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
 
-## 8/05 - 8/15
+## 8/05 - 8/25
 1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan). See LRB.
 1. 高原 -  gāo yuán (*noun* plateau, highland). See LRB.
 1. 方舟 - fāng zhōu (Noah's Ark; *literary 2 boats sailing side-by-side.) LRB
