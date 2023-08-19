@@ -265,3 +265,9 @@ permalink: /comp-notes/
 
 ## 8/17 sed
 * Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
+
+## 8/18 sed
+* After experimentation, I realized that using the -r flag is critical to getting regex working well with gsed. With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like we needed to escape parens with a backslash like so \\(.
+
+
+
