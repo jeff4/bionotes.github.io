@@ -268,7 +268,7 @@ permalink: /comp-notes/
 
 ## 8/18 sed
 * After experimentation, I realized that using the **-r** flag to activate Extended Regular Expressions (ERE)  is critical to getting regex working well with gsed. 
-* With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, looked like I needed to escape parens with a backslash like so \\(. Safest bet is to just turn on **-r** like so:
+* With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, I could use gsed without the -r flag turned on; I was able to capture patterns in groups with parentheses just by making sure I properly escaped those parens with a backslash like so \\(. However, I got inconsistent results. In the end, the best bet was to just turn on **-r** like this:
 		`gsed -nr 's#\b(\w+)\b \b\1\b#\1  ~~~ \1#gp' source.txt >out.txt`
 * The above example uses **-n** to suppress automatic printing. Other notes:
 	* The **gp** options at the end ensure respectively: (1) that all instances per line are executed on (globally), NOT just the first instance; and (2) p means print each line where a line matches indicated pattern and is worked upon.
@@ -278,3 +278,4 @@ permalink: /comp-notes/
 
 ## 8/19 sed
 * Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
+
