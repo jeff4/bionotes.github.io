@@ -76,6 +76,7 @@ permalink: /zhongwen/
 1. 討厭 [讨厌] - tǎo yàn (annoyed, annoying). See also from L14, 討論 [讨论] - tǎo lùn (to discuss)
 1. 比基尼 - bǐ jī ní (bikini)
 1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
+1. 堂堂正正 - táng táng zhèng zhèng (impressive, dignified; open and aboveboard). From 堂堂正正的中国人 which was a nationalistic KMT term imposed by Chiang Kai-Shek in Taiwan to refer to the "aboveboard wai shen ren" after 1949. From the [wiki article](https://en.wikipedia.org/wiki/Chai_Trong-rong) about 蔡同榮 Cài Tóngróng, the academic who co-founded [WUFI](https://en.wikipedia.org/wiki/World_United_Formosans_for_Independence#1970s) in 1970 and [FAPA](https://en.wikipedia.org/wiki/Formosan_Association_for_Public_Affairs) in 1982. Also politician in the [DPP](https://en.wikipedia.org/wiki/Democratic_Progressive_Party)
 1.  
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
