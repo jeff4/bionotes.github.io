@@ -148,7 +148,7 @@ permalink: /ch-food/
 1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
 1. 忘 - wàng (to forget)
 1. 談話 [谈话] -  tán huà (to chat) 
-1. 啊 - à ("ah" as an interjection)
+1. 啊 - à ("ah" as an interjection). Also 啊媽 *ā mā* grandmother.
 1. 父母 - fù mǔ (parents)
 1. 客氣 [客气] - kè qi (polite, courteous)
 1. 台北 - Tái běi (Taipei)
