@@ -279,3 +279,5 @@ permalink: /comp-notes/
 
 ## 8/19 sed
 * Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
+* When using shuf to shuffle contents of /zhongwen, make sure to use the -o option to indicate output file, e.g., 
+		'shuf source.txt -o output.txt'
