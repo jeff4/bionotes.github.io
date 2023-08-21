@@ -487,7 +487,7 @@ Go to [this page](/ch-food/)
 1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
 1. 自行車 [自行车] - zì xíng chē (bicycle)
-1. 騎 [骑] - qí (to ride a bicycle or vehicle)
+1. 騎 [骑] - qí (to ride a bicycle or vehicle). See also 奇from 奇怪 *qí guài* (strange) in L20. 
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
 1. 音樂 [音乐] - yīn yuè (music). Originally introduced in L29 but JH moved it here.
@@ -528,7 +528,7 @@ Go to [this page](/ch-food/)
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
 1. 喂 - wèi (hey! hello! as an interjection -- see Pleco)
-1. 奇怪 - qí guài (strange, weird)
+1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
 1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
 1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
 1. 片兒 [片儿] - piān(r) (a piece)
