@@ -120,7 +120,7 @@ permalink: /ch-food/
 1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
 1. 便宜 - pián yi (inexpensive)
 1. 城裏 [城里] - chéng lǐ (in town; in the city)
-1. 騎 [骑] - qí (to ride a bicycle or vehicle)
+1. 騎 [骑] - qí (to ride a bicycle or vehicle). See also 奇from 奇怪 *qí guài* (strange) in L20. 
 1. 屋子 - wūz (room)
 1. 間 - jiān (measure word for rooms)
 1. 方便 - fāng biàn (convenient)
@@ -160,7 +160,7 @@ permalink: /ch-food/
 1. 片兒 [片儿] - piān(r) (a piece)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 再見 [再见] - zài jiàn (goodbye). See also L27.
-1. 奇怪 - qí guài (strange, weird)
+1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
 1. 病 - bìng (illness)
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
