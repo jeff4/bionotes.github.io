@@ -165,7 +165,7 @@ permalink: /ch-food/
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
 1. 一會兒 [一会儿] - yī huì(r) (in a moment)
-1. 醫院 [医院] - yī yuàn (hospital)
+1. 醫院 [医院] - yī yuàn (hospital). 院 is like 元 Yuan Dynasty.
 1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
 1. 電話 [电话] - diàn huà (telephone)
 1. 發展 [发展] - fā zhǎn (to develop). See also L24.
