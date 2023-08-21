@@ -537,7 +537,7 @@ Go to [this page](/ch-food/)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 發展 [发展] - fā zhǎn (to develop). See also L24.
 1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
-1. 醫院 [医院] - yī yuàn (hospital)
+1. 醫院 [医院] - yī yuàn (hospital). 院 is like 元 Yuan Dynasty.
 
 ### Lesson 21
 1. 信 - xìn (letter)
