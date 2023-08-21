@@ -160,7 +160,7 @@ permalink: /ch-food/
 1. 片兒 [片儿] - piān(r) (a piece)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 再見 [再见] - zài jiàn (goodbye). See also L27.
-1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
+1. 奇怪 - qí guài (strange, weird). See also 骑 *qí* from L18. 
 1. 病 - bìng (illness)
 1. 了 - liǎo (to be able to, clear-sighted, to undertand clearly)
 1. 喂 - wéi? (hello when answering the phone)  
