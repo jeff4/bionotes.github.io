@@ -521,5 +521,3 @@ sitemap: false
 * ['Nvidia’s AI Workbench brings model fine-tuning to workstations'](https://techcrunch.com/2023/08/08/nvidias-ai-workbench-brings-model-fine-tuning-to-workstations/) from August 4, 2023.
 * ['Weights & Biases, which counts OpenAI as a customer, lands $50M'](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
 * ['Meet Marqo, an open source vector search engine for AI applications'](https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/)
-
-* 
