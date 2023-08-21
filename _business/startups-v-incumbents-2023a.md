@@ -516,3 +516,8 @@ sitemap: false
 * ['AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung'](https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/) 
 * ['This week in AI: Experiments, retirements, and extinction events'](https://techcrunch.com/2023/08/05/this-week-in-ai-experiments-retirements-and-extinction-events/)
 * ['Google’s generative search feature now shows related videos and images'](https://techcrunch.com/2023/08/02/googles-generative-search-feature-now-shows-related-videos-and-images/)
+
+## 20 August 2023
+* ['Nvidia’s AI Workbench brings model fine-tuning to workstations'](https://techcrunch.com/2023/08/08/nvidias-ai-workbench-brings-model-fine-tuning-to-workstations/) from August 4, 2023.
+* ['Weights & Biases, which counts OpenAI as a customer, lands $50M'](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
+* ['Meet Marqo, an open source vector search engine for AI applications'](https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/)
