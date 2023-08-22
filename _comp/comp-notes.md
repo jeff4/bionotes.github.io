@@ -190,6 +190,7 @@ permalink: /comp-notes/
 * Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK): 
 	* [Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)
 	* [Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)
+ * reviewed above two links on 8/22. not that good, very basic. use other resources...
 
 ### 7/11 
 * More links on sed from Hacker News:
