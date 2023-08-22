@@ -742,6 +742,7 @@ Go to [this page](/ch-food/)
 1. 不但...而且 - bù dàn...ér qiě (not only...but also)
 1. 老 - lǎo (to keep on; to persist)
 1. 幹 [干] - gàn (*verb* to do, to act, to work; *noun* trunk, stem, main part; cadre)
+1. 幹你媽 [干你妈] - gàn nǐ mā (vulgarity)
 1. 一邊...一邊 [一边...一边] - yī bīan...yī bīan (verb 1 while performing verb 2)
 1. 大聲 [大声] - dà shēng (in a loud voice)
 1. 聲音 [声音] - shēng yīn (sound)
@@ -756,15 +757,3 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
