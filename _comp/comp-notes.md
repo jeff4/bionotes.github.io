@@ -187,11 +187,11 @@ permalink: /comp-notes/
 * 7/06 Meta/FB/Instagram launched Threads today and here's an [HN article](https://news.ycombinator.com/item?id=36612835) about how the backend is built in Python 3.10
 
 ### 7/09
-* Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK): 
-	* [Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)
-	* [Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)
- * reviewed above two links on 8/22. not that good, very basic. use other resources...
-
+* Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK).
+* (Reviewed two links below on 8/22. Best to use other sed reources b/c these are very basic.)
+	* <del>[Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)</del>
+	* <del>[Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)</del>
+ 
 ### 7/11 
 * More links on sed from Hacker News:
 	* Grymoire's [Intro and Tutorial for Sed by Bruce Barnett](https://www.grymoire.com/Unix/sed.html) and associated [2015 HN thread](https://news.ycombinator.com/item?id=8851124) with a [comment about Grymoire's similar awk tutorial](https://news.ycombinator.com/item?id=8853658). Plus Grymoire's [grep tutorial](https://www.grymoire.com/Unix/Grep.html)
