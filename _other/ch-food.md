@@ -97,7 +97,7 @@ permalink: /ch-food/
 1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
 1. 紅油 [红油] - hóng yóu (red oil; chili oil)
 1. 極了 [极了] - jí le  (very, extremely). For simplified version, see also [年级] - *nián jí* from L11.
-1. 熱 [热] - rè (hot)
+1. 熱 [热] - rè (hot). See also 热情 *rè qíng* from L21.
 1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
 1. 差不多 - chà bu duō (almost)
 1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
@@ -178,7 +178,7 @@ permalink: /ch-food/
 1. 身體 [身体] - shēn tǐ (body)
 1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
 1. 替 - tì (take the place of; replace, substitute for)
-1. 熱情 [热情] - rè qíng (warm, compassionate)
+1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
 1. 信 - xìn (letter)
 1. 翻譯 [翻译] - fān yì (translate)
