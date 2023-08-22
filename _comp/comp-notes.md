@@ -281,3 +281,6 @@ permalink: /comp-notes/
 * Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
 * When using shuf to shuffle contents of /zhongwen, make sure to use the -o option to indicate output file, e.g., 
 		`shuf source.txt -o output.txt`
+
+## 8/22 
+* [Short blog post](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea) about Unix as a technology and as an idea. [HN thread](https://news.ycombinator.com/item?id=37205536)
