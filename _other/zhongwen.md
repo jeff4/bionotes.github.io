@@ -464,7 +464,7 @@ Go to [this page](/ch-food/)
 1. 完全 - wán quán (completely). See also L29.
 1. 借 - jiè  (to borrow; lend)
 1. 成 - chéng (to succeed; to become). See also L18 城裏.
-1. 熱 [热] - rè (hot)
+1. 熱 [热] - rè (hot). See also 热情 *rè qíng* from L21.
 1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
 1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
 1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
@@ -543,7 +543,7 @@ Go to [this page](/ch-food/)
 1. 信 - xìn (letter)
 1. 病人 - bìng rén (sick person, patient)
 1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 熱情 [热情] - rè qíng (warm, compassionate)
+1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
 1. 送 - sòng (to send)
 1. 決定 [决定] - jué dìng (to decide)
 1. 搞 - gǎo (to get tangled with)
