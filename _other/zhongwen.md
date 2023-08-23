@@ -559,8 +559,6 @@ Go to [this page](/ch-food/)
 1.  
 1. 還 [还] - huán (to go back to; to give back, repay) from L5. Delete when done
 1. 給 [给] - gěi (to give) from L4. Delete when done
-1. 對 - duì (correct; to, towards -- second def is from L3) Delete when done
-1. 還 [还] - huán (to go back to; to give back, repay). From L5. Delete when done.
 
 ### Lesson 22
 1. 就要...了 -  jiù yào...le (about to...)
