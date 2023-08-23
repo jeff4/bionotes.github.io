@@ -155,24 +155,23 @@ permalink: /ch-food/
 1. 弟弟 - dì di (younger brother)
 
 ### Lesson 20
-1. 電話 [电话] - diàn huà (telephone)
-1. 手機 [手机] - shǒu jī (mobile phone)
-1. 了 - liǎo (to be able to, clear-sighted, to understand clearly)
-1. 發展 [发展] - fā zhǎn (to develop). See also L24.
-1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
-1. 喂 - wéi? (hello when answering the phone)  
-1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
-1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
-1. 一會兒 [一会儿] - yī huì(r) (in a moment)
 1. 感冒 - gǎn mào (to catch a cold)
-1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 病 - bìng (illness)
-1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
-1. 再見 [再见] - zài jiàn (goodbye). See also L27.
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
 1. 片兒 [片儿] - piān(r) (a piece)
+1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
+1. 再見 [再见] - zài jiàn (goodbye). See also L27.
+1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
+1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
+1. 一會兒 [一会儿] - yī huì(r) (in a moment)
+1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
+1. 喂 - wéi? (hello when answering the phone)  
 1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
+1. 病 - bìng (illness)
+1. 發燒 [发烧] - fā shāo (to run a fever)
+1. 電話 [电话] - diàn huà (telephone)
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
+1. 了 - liǎo (to be able to, clear-sighted, to understand clearly)
 1. 醫院 [医院] - yī yuàn (hospital). 院 is like 元 Yuan Dynasty.
+1. 手機 [手机] - shǒu jī (mobile phone)
 
 ### Lesson 21
 1. 身體 [身体] - shēn tǐ (body)
