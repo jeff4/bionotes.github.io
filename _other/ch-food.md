@@ -174,22 +174,22 @@ permalink: /ch-food/
 1. 手機 [手机] - shǒu jī (mobile phone)
 
 ### Lesson 21
-1. 身體 [身体] - shēn tǐ (body)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
 1. 替 - tì (take the place of; replace, substitute for)
-1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-1. 信 - xìn (letter)
-1. 翻譯 [翻译] - fān yì (translate)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 病人 - bìng rén (sick person, patient)
-1. 搞 - gǎo (to get tangled with)
 1. 決定 [决定] - jué dìng (to decide)
-1. ...史 - shǐ (history of ...)
+1. 小說 [小说] - xiǎo shuō (*noun* a novel)
+1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
 1. 希望 - xī wàng (hope - both noun and verb)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1. 冷 - lěng (cold)
+1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
 1. 送 - sòng (to send)
+1. 身體 [身体] - shēn tǐ (body)
+1. ...史 - shǐ (history of ...)
+1. 冷 - lěng (cold)
+1. 翻譯 [翻译] - fān yì (translate)
+1. 病人 - bìng rén (sick person, patient)
+1. 信 - xìn (letter)
+1. 祝 - zhù (to wish well, e.g., 祝你好)
+1. 搞 - gǎo (to get tangled with)
+1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
 
 ### Lesson 22
 1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
