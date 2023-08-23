@@ -98,12 +98,12 @@ Go to [this page](/ch-food/)
 1. 老師 - lǎo shī (See also 教師 jiào shī 'teacher' in L19)
 1. 你 - nǐ
 1. 是 - shì 
-1. 美國 - Měi guó 
+1. 美國 [美国] - Měi guó 
 1. 人 - rén
 1. 嗎 - ma 
 1. 我 - wǒ 
 1. 不 - bù 
-1. 中國 - Zhōng guó 
+1. 中國 [中国] - Zhōng guó 
 1. 這 [这] - zhè 
 1. 那 - nà 
 1. 書 - shū 
@@ -357,7 +357,7 @@ Go to [this page](/ch-food/)
 1. 復⧸複習 [复习] - fù xí (to review; revision)
 1. 語法 [语法] - yǔ fǎ (grammar)
 1. 辦法 [办法] - bàn fǎ (solution) See also *L15*
-1. 法國 - Fǎ guó (France)
+1. 法國 [法国]- Fǎ guó (France)
 1. 課文 [课文] - kè wén (text)
 1. 功課 [功课] - gōng kè (homework; schoolwork)  
 1. 生詞 [生词] - shēng cí (new word)
