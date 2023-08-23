@@ -557,7 +557,8 @@ Go to [this page](/ch-food/)
 1. 希望 - xī wàng (hope - both noun and verb)
 1. 祝 - zhù (to wish well, e.g., 祝你好)
 1.  
-1. 還 [还] - huán (to go back to; to give back, repay) from L5. Delete when done
+1. 還 [还是] - hái shì (…or…?) from L5. As an alternative to 或者 *huò zhě*
+1. 還 [还] - is also *huán* (to go back to; to give back, repay) from L5. Delete when done
 1. 給 [给] - gěi (to give) from L4. Delete when done
 
 ### Lesson 22
