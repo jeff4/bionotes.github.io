@@ -285,3 +285,8 @@ permalink: /comp-notes/
 
 ## 8/22 
 * [Short blog post](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea) about Unix as a technology and as an idea. [HN thread](https://news.ycombinator.com/item?id=37205536)
+
+## 8/23 sed
+* Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
+
+
