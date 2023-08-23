@@ -77,7 +77,7 @@ permalink: /zhongwen/
 1. 比基尼 - bǐ jī ní (bikini)
 1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
 1. 堂堂正正 - táng táng zhèng zhèng (impressive, dignified; open and aboveboard). From 堂堂正正的中国人 which was a nationalistic KMT term imposed by Chiang Kai-Shek in Taiwan to refer to the "aboveboard wai shen ren" after 1949. From the [wiki article](https://en.wikipedia.org/wiki/Chai_Trong-rong) about 蔡同榮 Cài Tóngróng, the academic who co-founded [WUFI](https://en.wikipedia.org/wiki/World_United_Formosans_for_Independence#1970s) in 1970 and [FAPA](https://en.wikipedia.org/wiki/Formosan_Association_for_Public_Affairs) in 1982. Also politician in the [DPP](https://en.wikipedia.org/wiki/Democratic_Progressive_Party).
-1.  
+1. 發音 [发音] - fā yīn (pronunciation)
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
@@ -719,7 +719,7 @@ Go to [this page](/ch-food/)
 1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
 1. 服務員 [服务员] - fú wù yuán (attendant)
 1. 一共 - yī gòng (altogether, in all, all told)
-1. 找 - zhǎo (to give change back). See also L13 same character and pronounciation for "to search". 
+1. 找 - zhǎo (to give change back). See also L13 same character and pronunciation for "to search". 
 1. 又...又... - yoù...yoù... (not only...but also...)
 
 ### Lesson 29
