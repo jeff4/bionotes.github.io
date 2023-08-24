@@ -294,4 +294,9 @@ permalink: /comp-notes/
 	`gsed 'G' 1-indigenous-test.md >out.txt`
 * To add two blank lines in between each line, add another expression with a semi-colon.
 	`gsed 'G;G' 1-indigenous-test.md >out.txt`
-* Previous two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
+* In addition to defining ranges (i.e., only execute this for lines 5-20'), one can set a pattern to look for before executing the action. For example, the one-liner below will only replace lowercase 'the' with uppercase "THE' when the line contains "These" with a capital T.
+	`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
+* Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
+	`gsed -nr '/(T|t)hese/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
+* Previous several examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
+
