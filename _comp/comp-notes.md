@@ -201,7 +201,7 @@ permalink: /comp-notes/
 
 ### 7/12 
 * More sed links: 
-	* Began going through sed exercises at [50 sed examples](https://linuxhint.com/50_sed_command_examples/)
+	* Good sed exercises at [50 sed examples](https://linuxhint.com/50_sed_command_examples/). Began going through more seriously on 8/23.
 	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
 
 ### 7/13
@@ -287,9 +287,9 @@ permalink: /comp-notes/
 
 ## 8/22 
 * [Short blog post](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea) about Unix as a technology and as an idea. [HN thread](https://news.ycombinator.com/item?id=37205536)
+* Purchased Peter Krumins' (catonmat) e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book). See Box.
 
 ## 8/23 sed
-* Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
 * Next two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
 	1. Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
 		`gsed 'G' 1-indigenous-test.md >out.txt`
