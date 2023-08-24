@@ -288,5 +288,7 @@ permalink: /comp-notes/
 
 ## 8/23 sed
 * Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
-
-
+* Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
+	`gsed 'G' 1-indigenous-test.md >out.txt`
+* To add two blank lines in between each line, add another expression with a semi-colon.
+	`gsed 'G;G' 1-indigenous-test.md >out.txt`
