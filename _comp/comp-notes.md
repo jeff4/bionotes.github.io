@@ -305,3 +305,5 @@ permalink: /comp-notes/
 	1. Conversely, if you want to apply something to all the lines that **don't** have a 'These' in it, you can just add a **!** flag like so /These/!:
 		`gsed -nr '/These/! s/the/THE/gpi' 2-indigenous-test.md >out.txt`
 
+## 8/24
+* [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referenccing a Medium article.
