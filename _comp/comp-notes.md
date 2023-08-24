@@ -294,3 +294,4 @@ permalink: /comp-notes/
 	`gsed 'G' 1-indigenous-test.md >out.txt`
 * To add two blank lines in between each line, add another expression with a semi-colon.
 	`gsed 'G;G' 1-indigenous-test.md >out.txt`
+* Previous two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
