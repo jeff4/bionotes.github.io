@@ -199,10 +199,12 @@ permalink: /comp-notes/
 	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
 	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
 
-### 7/12 - 7/13
+### 7/12 
 * More sed links: 
 	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
 	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
+
+### 7/13
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
@@ -213,7 +215,7 @@ permalink: /comp-notes/
 
 ## 8/07
 * More sed resources (see also Notes app):
-	* From 2008 or so but updated since then. [Sed-one-liners](https://catonmat.net/worlds-best-introduction-to-sed), associated [text files with all one-liners](https://catonmat.net/wp-content/uploads/2008/09/sed1line.txt) and associated [HN comment](https://news.ycombinator.com/item?id=2431264). It's the first chapter of a $20 e-book [Sed One-Liners Explained](https://catonmat.net/sed-book). Note that catonmat = [Peter Krumins](https://catonmat.net/about), co-founde oBrowserling.com. And these one-liners were originally compiled by [Eric Pement](https://www.pement.org/sed/)
+	* From 2008 or so but updated since then. [Sed-one-liners](https://catonmat.net/worlds-best-introduction-to-sed), associated [text files with all one-liners](https://catonmat.net/wp-content/uploads/2008/09/sed1line.txt) and associated [HN comment](https://news.ycombinator.com/item?id=2431264). It's the first chapter of a $20 e-book [Sed One-Liners Explained](https://catonmat.net/sed-book). Note that catonmat = [Peter Krumins](https://catonmat.net/about), co-founder of Browserling.com. And these one-liners were originally compiled by [Eric Pement](https://www.pement.org/sed/)
 	* From the same 2011 thread on [Sedtris: Tetris in sed](https://news.ycombinator.com/item?id=2430171) where the above catonmat one-liner article appeared, also found this [2008 other side of the moon Progamming Patterns in sed](https://tech.bluesmoon.info/2008/09/programming-patterns-in-sed.html)
 * Completed Luke Smith video from 7/12.
 * Began experimenting with catonmat's [first chapter](https://catonmat.net/worlds-best-introduction-to-sed)
@@ -223,7 +225,7 @@ permalink: /comp-notes/
 * On second thought, i think grymoire's original [Bruce Barnett's Sed intro and tutorial](https://www.grymoire.com/Unix/Sed.html) is the better way to go.
 
 ## 8/09
-* Finished to the end of the flag section, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
+* Finished to the end of the flag section in Grymoire site, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
 * Finished up to end of the ['Multiple commands witn an -command' section](https://www.grymoire.com/Unix/Sed.html#uh-13). Next section is 'Filenames on the command line'.
 
 ## 8/10
