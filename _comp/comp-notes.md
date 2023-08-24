@@ -202,7 +202,7 @@ permalink: /comp-notes/
 ### 7/12 - 7/13
 * More sed links: 
 	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
-	* This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)
+	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
@@ -288,7 +288,6 @@ permalink: /comp-notes/
 
 ## 8/23 sed
 * Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
-* 
 * Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
 	`gsed 'G' 1-indigenous-test.md >out.txt`
 * To add two blank lines in between each line, add another expression with a semi-colon.
