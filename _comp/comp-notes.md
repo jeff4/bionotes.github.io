@@ -298,5 +298,6 @@ permalink: /comp-notes/
 	`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
 * Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
 	`gsed -nr '/(T|t)hese/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
+* Unfortunately, the initial pattern does not allow flags so something like `/These/i` would not work. *BUT* the i flag when added to the g (global) and p (print) flags will pattern match for case insensitive the/The. And it will be case-insensitive for 't', 'h', and 'e'.
+	`gsed -nr '/(T|t)hese/ s/the/THE/gpi' 2-indigenous-test.md >out.txt`
 * Previous several examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
-
