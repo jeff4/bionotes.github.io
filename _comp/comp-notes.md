@@ -201,7 +201,7 @@ permalink: /comp-notes/
 
 ### 7/12 
 * More sed links: 
-	* Began going through sed exercises at [Linux Hint](https://linuxhint.com/50_sed_command_examples/)
+	* Began going through sed exercises at [50 sed examples](https://linuxhint.com/50_sed_command_examples/)
 	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
 
 ### 7/13
@@ -290,11 +290,12 @@ permalink: /comp-notes/
 
 ## 8/23 sed
 * Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
-* Next several examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
+* Next two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
 	1. Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
 		`gsed 'G' 1-indigenous-test.md >out.txt`
 	1. To add two blank lines in between each line, add another expression with a semi-colon.
 		`gsed 'G;G' 1-indigenous-test.md >out.txt`
+* Next several examples from [this 50 examples article](https://linuxhint.com/50_sed_command_examples/#s9) starting with Example #9. Referenced on 7/12.
 	1. In addition to defining ranges (i.e., only execute this for lines 5-20'), one can set a pattern to look for before executing the action. For example, the one-liner below will only replace lowercase 'the' with uppercase "THE' when the line contains "These" with a capital T.
 		`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
 	1. Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
