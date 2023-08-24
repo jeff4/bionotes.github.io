@@ -290,17 +290,17 @@ permalink: /comp-notes/
 
 ## 8/23 sed
 * Peteris Krumins aka catonmat's e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book) via pp/c
-* Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
-	`gsed 'G' 1-indigenous-test.md >out.txt`
-* To add two blank lines in between each line, add another expression with a semi-colon.
-	`gsed 'G;G' 1-indigenous-test.md >out.txt`
-* In addition to defining ranges (i.e., only execute this for lines 5-20'), one can set a pattern to look for before executing the action. For example, the one-liner below will only replace lowercase 'the' with uppercase "THE' when the line contains "These" with a capital T.
-	`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
-* Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
-	`gsed -nr '/(T|t)hese/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
-* Unfortunately, the initial pattern does not allow flags so something like `/These/i` would not work. *BUT* the i flag when added to the g (global) and p (print) flags will pattern match for case insensitive the/The. And it will be case-insensitive for 't', 'h', and 'e'.
-	`gsed -nr '/(T|t)hese/ s/the/THE/gpi' 2-indigenous-test.md >out.txt`
-* Conversely, if you want to apply something to all the lines that **don't** have a 'These' in it, you can just add a **!** flag like so /These/!:
-	`gsed -nr '/These/! s/the/THE/gpi' 2-indigenous-test.md >out.txt`
-* Previous several examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
+* Next several examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
+	1. Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
+		`gsed 'G' 1-indigenous-test.md >out.txt`
+	1.* To add two blank lines in between each line, add another expression with a semi-colon.
+		`gsed 'G;G' 1-indigenous-test.md >out.txt`
+	1.* In addition to defining ranges (i.e., only execute this for lines 5-20'), one can set a pattern to look for before executing the action. For example, the one-liner below will only replace lowercase 'the' with uppercase "THE' when the line contains "These" with a capital T.
+		`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
+	1.* Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
+		`gsed -nr '/(T|t)hese/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
+	1.* Unfortunately, the initial pattern does not allow flags so something like `/These/i` would not work. *BUT* the i flag when added to the g (global) and p (print) flags will pattern match for case insensitive the/The. And it will be case-insensitive for 't', 'h', and 'e'.
+		`gsed -nr '/(T|t)hese/ s/the/THE/gpi' 2-indigenous-test.md >out.txt`
+	1.* Conversely, if you want to apply something to all the lines that **don't** have a 'These' in it, you can just add a **!** flag like so /These/!:
+		`gsed -nr '/These/! s/the/THE/gpi' 2-indigenous-test.md >out.txt`
 
