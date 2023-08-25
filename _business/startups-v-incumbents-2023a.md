@@ -531,3 +531,4 @@ sitemap: false
 * ['Meta releases Code Llama, a code-generating AI model'](https://techcrunch.com/2023/08/24/meta-releases-code-llama-a-code-generating-ai-model/)
 * ['Hugging Face raises $235M from investors, including Salesforce and Nvidia'](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/) Series D values HF at $4.5B.
 * ['OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5'](https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/)
+* ['Early Days of AI + Hype Cycle](https://blog.eladgil.com/p/early-days-of-ai) from Elad Gil.
