@@ -521,3 +521,13 @@ sitemap: false
 * ['Nvidia’s AI Workbench brings model fine-tuning to workstations'](https://techcrunch.com/2023/08/08/nvidias-ai-workbench-brings-model-fine-tuning-to-workstations/) from August 4, 2023.
 * ['Weights & Biases, which counts OpenAI as a customer, lands $50M'](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
 * ['Meet Marqo, an open source vector search engine for AI applications'](https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/)
+
+## 25 August 2023
+* ['Developers are now using AI for text-to-music apps'](https://techcrunch.com/2023/08/21/developers-are-now-using-ai-for-text-to-music-apps/), including companies like Songburst, CassetteAI.
+* [6 layers of AI startups](https://techcrunch.com/2023/08/22/how-this-vc-evaluates-generative-ai-startups/) in TC+ article: (1) Data, (2) Middleware, (3) Fine-tuned specialized models, (4) Cloud/Infrastructure, (5) FOundational Models, (6) Application Layer. 
+* ['Meta releases an AI model that can transcribe and translate close to 100 languages'](https://techcrunch.com/2023/08/22/meta-releases-an-ai-model-that-can-transcribe-and-translate-close-to-100-languages/)
+* ['OpenAI brings fine-tuning to GPT-3.5 Turbo'](https://techcrunch.com/2023/08/22/openai-brings-fine-tuning-to-gpt-3-5-turbo/)
+* ['ElevenLabs’ voice-generating tools launch out of beta'](https://techcrunch.com/2023/08/22/elevenlabs-voice-generating-tools-launch-out-of-beta/)
+* ['Meta releases Code Llama, a code-generating AI model'](https://techcrunch.com/2023/08/24/meta-releases-code-llama-a-code-generating-ai-model/)
+* ['Hugging Face raises $235M from investors, including Salesforce and Nvidia'](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/) Series D values HF at $4.5B.
+* ['OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5'](https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/)
