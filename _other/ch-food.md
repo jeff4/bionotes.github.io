@@ -192,22 +192,22 @@ permalink: /ch-food/
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
 
 ### Lesson 22
-1. 家 - jiā (house)
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
+1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
+1. 就要...了 -  jiù yào...le (about to...)
 1. 餓 [饿] - è (hungry)
+1. 飯館 [饭馆] - fàn guǎn (restaurant)
+1. 錯 [错] - cuò (wrong). See also L12.
+1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
 1. 春節 [春节] - Chūn Jié (Spring Festival)
 1. 像 - xiàng (to resemble)
-1. 就要...了 -  jiù yào...le (about to...)
-1. 難 [难] - nán (difficult, hard)
+1. 筷子 - kuài zi (chopsticks)
+1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
+1. 它⧸牠 - tā (it)
 1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
 1. 一樣 [一样] - yī yàng (to be the same)
-1. 錯 [错] - cuò (wrong). See also L12.
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 它⧸牠 - tā (it)
-1. 筷子 - kuài zi (chopsticks)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
+1. 難 [难] - nán (difficult, hard)
+1. 家 - jiā (house)
+1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
 
 ### Lesson 23
 1. 去年 - qù nián (last year)
