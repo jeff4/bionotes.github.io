@@ -77,24 +77,24 @@ permalink: /ch-food/
 1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
 
 ### Lesson 23
+1. 下雨 - xià yǔ (to rain)
 1. 去年 - qù nián (last year)
-1. 正 - zhèng (correct, right, straighten)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
+1. 穿 - chuān (to wear)
 1. 真 - zhēn (really; real)
-1. 下雪 - xià xuě (to snow)
-1. 男 - nán (male)
 1. 大衣 - dà yī (overcoat)
+1. 下雪 - xià xuě (to snow)
+1. 天氣 [天气] - tiān qì (weather)
+1. 讓 [让] - ràng (to allow)
 1. 漂亮 - piào liang (pretty). See also L28.
+1. 男 - nán (male)
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 讓 [让] - ràng (to allow)
-1. 穿 - chuān (to wear)
-1. 天氣 [天气] - tiān qì (weather)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
 1. 女 - nǚ (female)
-1. 下雨 - xià yǔ (to rain)
+1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
+1. 比 - bǐ (compare; also vulgar for South American *la concha*)
+1. 颳風 [刮风] - guā fēng (to be windy)
+1. 正 - zhèng (correct, right, straighten)
 1. 春天 - chūn tiān (spring)
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
