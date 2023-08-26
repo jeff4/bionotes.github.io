@@ -107,7 +107,7 @@ permalink: /ch-food/
 1. 比方說 [比方说] - bǐ fang shuō (for example)
 1. 小姐 - xiǎo jiě (young lady)
 1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
-1. 增加 - zēng jiā (to increase)
+1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
 1. 街 - jiē (street). See also L20 for 路 *lù* (road).
 1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 1/3'.
 1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
