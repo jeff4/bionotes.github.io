@@ -614,7 +614,7 @@ Go to [this page](/ch-food/)
 1. 散步 - sàn bù (to walk, stroll)
 1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
 1. 小姐 - xiǎo jiě (young lady)
-1. 生活 - shēng huó (life, livelihood)
+1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
 1. 比方說 [比方说] - bǐ fang shuō (for example)
 1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
 1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
@@ -756,3 +756,15 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
+1. 
+
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
