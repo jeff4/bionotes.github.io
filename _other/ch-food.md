@@ -40,139 +40,6 @@ permalink: /ch-food/
 1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. Garlic-Sauteed Big Pea Shoots. Do Miao = pea shoots *aka* bean sprouts.
 1. 四川哧擔擔麵 [担担面] - sìchuān chī dàndan miàn. Sichuan-style Hot & Spicy Dan-Dan Noodles.
 
-### Lesson 15
-1. 歡迎 [欢迎] - huān yíng (welcome) see also 喜歡 from Lesson 8. Originally from *Lesson 18*
-1. 合作社 - hé zuò shè (co-op; workers or farmers cooperative)
-1. 問題 [问题] - wèn tí (question, problem)
-1. 每 - měi (every; each; per); e.g., měi tiān
-1. 種 [种] - zhǒng (type, kind)
-1. 有用 - yǒu yòng (useful)
-1. 要是...就 - yào shi...jiù (if...then...)
-1. 買[买] - mǎi (to buy)
-1. 從...到 [从...到] - cóng...dào (from...to...) See also Lesson 8
-1. 賣[卖] - mài (to sell)
-1. 回答 - huí dá (reply, response, answer)
-1. 當然 [当然] - dāng rán (of course)
-1. 上課 [上课] - shàng kè attend class
-1. 告訴 [告诉] - gào su (to tell some) See also 报告 *bào gào* in Lesson 14
-1. 拿 - ná  (take, hold; seize, capture, take over; get, gain, win)
-1. 辦法 [办法] - bàn fǎ (way, means, measure) *See also Lesson 12*
-1. 必須 [必须] - bì xū (should; present)
-1. 互相 - hù xiāng (mutually)
-1. 怎麼辦? [怎么办]？- zěn me bàn？(What’s to be done? or Now what?) *See also Lesson 6* 
-1. 方法 - fāng fǎ (method, way, means)
-
-### Lesson 16
-1. 東方 [东方] - dōng fāng (the east, the Far East/Orient, "Eastern / Asian Style")
-1. 看見 [看见] - kàn jian (to see)
-1. 低 - dī (low, opposite of 高)
-1. 請 [请] - qǐng (please). See also *verb* 'to ask' definition introduced in L22
-1. 書店 [书店] - shū diàn (bookstore)
-1. 完 - wán (finished, e.g., 吃完了)
-1. 高 - gāo (high) 
-1. 行 - xíng (*adjective* capable, sufficient, competent; temporary, makeshift) 
-1. 課本 [课本] - kè běn (textbook)
-1. 西方 [西方] - xī fāng (the West, the Occident, "Western/European Style")
-1. 剛 [刚] - gāng (just) see also L11
-1. 也許 [也许] - yě xǔ (perhaps, probably, maybe)
-1. 水平很高 - shuǐ píng hěn gāo (be well above average; outstanding)
-1. 水平 - shuǐ píng (level of proficency, level of achievement; standard, level)
-1. 著 [着] - zháo (*verb* to succeed in, to hit the mark; to touch, to come into contact with)
-1. 件 - jiàn (measure word for clothing, furniture, luggage, or a piece of work)
-1. 南方 - nán fāng (from the South, "Southern Style"). Originally introduced in L22.
-1. 開會 [开会] - kāi huì (to hold a meeting)
-1. 當 [当] - dāng (to assume the role of, to work as, to serve as)
-
-### Lesson 17
-1. 完全 - wán quán (completely). See also L29.
-1. 壞 [坏] 孩子 - huài hái zi (bad or naughty child)
-1. 坐 - zuò (to sit)
-1. 有一點兒 [点有一儿] yǒu yī diǎn r (somewhat, a bit)
-1. 積極 [积极] - jī jí (positive; enthusiastic) *originally from L10*
-1. 盪 [荡] - tàng (*verb* to scald, to burn (by hot water), to blanch, to heat in hot water, to iron)
-1. 就是 - jiù shì (exactly). See Pleco for many other uses. *originally from L19*
-1. 臉 [脸] - liǎn (face). See also 險 (danger) and [经验] - jīng yàn (experience).
-1. 紅 [红] - hóng (red)
-1. 窗戶 [窗户] - chuāng hu (window) *aka* 窗子 chuāng zi 
-1. 門口兒 [门口儿] - mén kǒu(r) (entrance)
-1. 紅油 [红油] - hóng yóu (red oil; chili oil)
-1. 極了 [极了] - jí le  (very, extremely). For simplified version, see also [年级] - *nián jí* from L11.
-1. 熱 [热] - rè (hot). See also 热情 *rè qíng* from L21.
-1. 疼 - téng (to ache; to have pain). Not to be confused with 痌 tōng (pain). See also 冬天 *winter* from L23.
-1. 差不多 - chà bu duō (almost)
-1. 燙 [烫] - tàng (*verb* to scald, burn, heat up in water, to blanch, to warm with iron, to press clothing; *adjective* very hot, scalding, boiling hot)
-1. 站 - zhàn (*verb* to stand; *noun* stop like a train station)
-1. 有一點 [点有一] yǒu yī diǎn (somewhat, a bit)
-1. 試 [试] - shì (to try, to test). See also L13 for 考試.
-1. 借 - jiè  (to borrow; lend)
-1. 頭 [头] - tóu (head)
-1. 壞 [坏] - huài (to be broken, bad, ruined, spoiled; *noun* evil idea, dirty trick) 
-1. 成 - chéng (to succeed; to become). See also L18 城裏.
-1. 覺得 [觉得] - jué de (to feel)
-
-### Lesson 18
-1. 自行車 [自行车] - zì xíng chē (bicycle)
-1. 出 - chū (exit)
-1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
-1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1. 搬 [般] - bān (to move)
-1. 進 [进] - jìn (to enter)
-1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
-1. 便宜 - pián yi (inexpensive)
-1. 城裏 [城里] - chéng lǐ (in town; in the city)
-1. 騎 [骑] - qí (to ride a bicycle or vehicle). See also 奇from 奇怪 *qí guài* (strange) in L20. 
-1. 屋子 - wūz (room)
-1. 間 - jiān (measure word for rooms)
-1. 方便 - fāng biàn (convenient)
-1. 倒是 - dào shì (admittedly)
-1. 回 - huí (to return) See also 回答 huí dá in L15
-1. 帶[带] - dài (to bring along, to carry)
-1. 一間屋子 - yī jiān wūz (a single bedroom); see Pleco for many other uses of 間
-1. 山 - shān (mountain)
-1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
-1. 貴 [贵] - guì (expensive)
-1. 免費 [免费] - miǎn fèi (free of charge) 
-1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
-
-### Lesson 19
-1. 習慣 [习惯] - xí guàn (to be used to) 
-1. 教師 [教师] - jiào shī See also 老師 from L1
-1. 哥哥 - gē ge (older brother)
-1. 住 - zhù (to live at). See also 注意 *zhù yì* from L14.
-1. 大夫 - dài fu (*colloquial* doctor, physician) 
-1. 大夫 - dà fū (*archaic* senior official)
-1. 妹妹 - mèi mei (younger sister)
-1. 父親 [父亲] fù qin (father); 爸爸 bà ba
-1. 姐姐 - jiě jie (older sister)
-1. 母親 [母亲] - mǔ qin (mother); 媽媽 [妈妈] - mā ma 
-1. 忘 - wàng (to forget)
-1. 談話 [谈话] -  tán huà (to chat) 
-1. 啊 - à ("ah" as an interjection). Also 啊媽 *ā mā* grandmother.
-1. 父母 - fù mǔ (parents)
-1. 客氣 [客气] - kè qi (polite, courteous)
-1. 台北 - Tái běi (Taipei)
-1. 弟弟 - dì di (younger brother)
-
-### Lesson 20
-1. 感冒 - gǎn mào (to catch a cold)
-1. 片兒 [片儿] - piān(r) (a piece)
-1. 藥 [药] - yào (medicine). See also 7/19 notes on taking drugs.
-1. 再見 [再见] - zài jiàn (goodbye). See also L27.
-1. 奇怪 - qí guài (strange, weird). See also 骑from L18. 
-1. 叫 - jiào (call, greet; cry, shout; hire, order a cab; permit, allow; to be named)
-1. 一會兒 [一会儿] - yī huì(r) (in a moment)
-1. 走路 - zǒu lù (to walk on a road). See also L24 for *jiē*. And 戰略 *strategy*.
-1. 喂 - wéi? (hello when answering the phone)  
-1. 智能手機 [智能手机] zhì néng shǒu jī (smartphone)
-1. 病 - bìng (illness)
-1. 發燒 [发烧] - fā shāo (to run a fever)
-1. 電話 [电话] - diàn huà (telephone)
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14
-1. 了 - liǎo (to be able to, clear-sighted, to understand clearly)
-1. 醫院 [医院] - yī yuàn (hospital). 院 is like 元 Yuan Dynasty.
-1. 手機 [手机] - shǒu jī (mobile phone)
-
 ### Lesson 21
 1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
 1. 翻譯 [翻译] - fān yì (translate)
@@ -211,23 +78,23 @@ permalink: /ch-food/
 
 ### Lesson 23
 1. 去年 - qù nián (last year)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 下雨 - xià yǔ (to rain)
 1. 正 - zhèng (correct, right, straighten)
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
-1. 下雪 - xià xuě (to snow)
-1. 漂亮 - piào liang (pretty). See also L28.
+1. 颳風 [刮风] - guā fēng (to be windy)
 1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 女 - nǚ (female)
+1. 真 - zhēn (really; real)
+1. 下雪 - xià xuě (to snow)
+1. 男 - nán (male)
+1. 大衣 - dà yī (overcoat)
+1. 漂亮 - piào liang (pretty). See also L28.
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
 1. 讓 [让] - ràng (to allow)
-1. 真 - zhēn (really; real)
 1. 穿 - chuān (to wear)
-1. 大衣 - dà yī (overcoat)
 1. 天氣 [天气] - tiān qì (weather)
-1. 男 - nán (male)
+1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
+1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
+1. 女 - nǚ (female)
+1. 下雨 - xià yǔ (to rain)
 1. 春天 - chūn tiān (spring)
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
