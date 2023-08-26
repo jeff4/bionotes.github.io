@@ -99,3 +99,24 @@ permalink: /ch-food/
 1. 夏天 - xià tiān (summer)
 1. 秋天 - qiū tiān (autumn, fall)
 1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
+
+### Lesson 24
+1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
+1. 立刻 - lì kè (immediately, at once)
+1. 比方說 [比方说] - bǐ fang shuō (for example)
+1. 小姐 - xiǎo jiě (young lady)
+1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
+1. 增加 - zēng jiā (to increase)
+1. 街 - jiē (street). See also L20 for 路 *lù* (road).
+1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 1/3'.
+1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
+1. 散步 - sàn bù (to walk, stroll)
+1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
+1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
+1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
+1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 從前 [从前] - cóng qián (before, formerly, in the past)
+1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
+1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
+1. 人口 - rén kǒu (population; family size)
+
