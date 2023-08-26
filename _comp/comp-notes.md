@@ -309,5 +309,5 @@ permalink: /comp-notes/
 * [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referencing a Medium article.
 
 ## 8/26 sed - Krumins Sed One-Liners
-* **2.6** Insert a blank line below every line that matches a //pattern//.
+* **2.6** Insert a blank line below every line that matches a */pattern/*.
 
