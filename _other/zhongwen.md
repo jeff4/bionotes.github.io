@@ -319,7 +319,7 @@ Go to [this page](/ch-food/)
 1. 剛纔 [刚才] - gāng cái (a moment ago; just now)
 1. 年級 [年级] - nián jí (class/year in school). See also from L17, 极了 *jí le*.
 1. 學期 [学期] - xué qī (school term)
-1. 參加 [参加] - cān jiā (to join a group; to participate)
+1. 參加 [参加] - cān jiā (to join a group; to participate). See also 增加 *zēng jiā* from L24.
 1. 吃 - chī (to eat)
 1. 東西 [东西] - dōng xi (a thing)
 1. 玩兒 [玩儿] - wánr (to play; have fun; amuse oneself)
@@ -622,7 +622,7 @@ Go to [this page](/ch-food/)
 1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
 1. 從前 [从前] - cóng qián (before, formerly, in the past)
 1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
-1. 增加 - zēng jiā (to increase)
+1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
 1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
 1. 立刻 - lì kè (immediately, at once)
 1. 街 - jiē (street). See also L20 for 路 *lù* (road).
@@ -755,15 +755,3 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
