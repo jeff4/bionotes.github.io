@@ -40,6 +40,7 @@ permalink: /ch-food/
 1. 蒜炒大豆苗 - suàn chǎo dà dòu miáo.  suàn = garlic. Garlic-Sauteed Big Pea Shoots. Do Miao = pea shoots *aka* bean sprouts.
 1. 四川哧擔擔麵 [担担面] - sìchuān chī dàndan miàn. Sichuan-style Hot & Spicy Dan-Dan Noodles.
 
+## Flash Cards
 ### Lesson 21
 1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
 1. 翻譯 [翻译] - fān yì (translate)
@@ -119,4 +120,3 @@ permalink: /ch-food/
 1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
 1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
 1. 人口 - rén kǒu (population; family size)
-
