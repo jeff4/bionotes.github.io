@@ -314,4 +314,4 @@ permalink: /comp-notes/
 		`gsed -r '/*pattern*/G`
 	* Jeff's example from hist-ss NYer article:
 		`gsed -r '/Constable/G' gopnik-2023-dalle.md >out.txt`
-
+	* Note that the explanation for the **G** flag comes from **Example 2.1**.
