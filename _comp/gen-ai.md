@@ -242,4 +242,6 @@ permalink: /gen-ai/
 * New personal [guide to LangChain](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/) and associated [HN thread](https://news.ycombinator.com/item?id=36669866) 
 
 
+## 26 August 2023
+* Meta released two large models recently, one for code, one for translations in the past week.
 
