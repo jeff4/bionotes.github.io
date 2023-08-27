@@ -326,3 +326,8 @@ permalink: /comp-notes/
 	* Jeff's example from hist-ss NYer article:
 		`gsed = gopnik-2023-dalle.md | gsed 'N;s_\n_\t_' >out.txt`
 	* *Note: This example calls sed twice with a pipe. Instance 1 loads the file using the **=** operator. And instance two searches for new lines and replaces them with tab characters.* 
+* **3.4** Count number of lines in file aka simulate 'wc -l'
+	* PK's example:
+		`gsed -n '$='`
+	* Jeff's example from hist-ss NYer article:
+		`gsed -n '$=' gopnik-2023-dalle.md >out.txt`
