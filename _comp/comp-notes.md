@@ -325,3 +325,4 @@ permalink: /comp-notes/
 		`gsed = filename | sed 'N;s_\n_\t_'` where _ is used as delimiter instead of usual /.
 	* Jeff's example from hist-ss NYer article:
 		`gsed = gopnik-2023-dalle.md | gsed 'N;s_\n_\t_' >out.txt`
+	* *Note: This example calls sed twice with a pipe. Instance 1 loads the file using the **=** operator. And instance two searches for new lines and replaces them with tab characters.* 
