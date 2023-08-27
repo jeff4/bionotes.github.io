@@ -3,27 +3,25 @@ title: Sed Notes
 permalink: /sed/
 ---
 
-## 2023 Log
-
-### 7/09
+## 7/09/2022
 * Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK).
 * (Reviewed two links below on 8/22. Best to use other sed reources b/c these are very basic.)
 	* <del>[Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)</del>
 	* <del>[Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)</del>
  
-### 7/11 
+## 7/11 
 * More links on sed from Hacker News:
 	* Grymoire's [Intro and Tutorial for Sed by Bruce Barnett](https://www.grymoire.com/Unix/sed.html) and associated [2015 HN thread](https://news.ycombinator.com/item?id=8851124) with a [comment about Grymoire's similar awk tutorial](https://news.ycombinator.com/item?id=8853658). Plus Grymoire's [grep tutorial](https://www.grymoire.com/Unix/Grep.html)
 	* [Differences between grep, sed, awk from Linode](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/#the-differences-between-grep-sed-and-awk) and [2023 HN thread](https://news.ycombinator.com/item?id=34280281)
 	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
 	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
 
-### 7/12 
+## 7/12 
 * More sed links: 
 	* Good sed exercises at [50 sed examples](https://linuxhint.com/50_sed_command_examples/). Began going through more seriously on 8/23.
 	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
 
-### 7/13
+## 7/13
 * Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
