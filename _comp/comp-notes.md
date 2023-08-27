@@ -315,3 +315,13 @@ permalink: /comp-notes/
 	* Jeff's example from hist-ss NYer article:
 		`gsed -r '/Constable/G' gopnik-2023-dalle.md >out.txt`
 	* Note that the explanation for the **G** flag comes from **Example 2.1**.
+* **2.9** Duplicate all lines
+	* PK's example:
+		`gsed -r 'p'`
+	* Jeff's example from hist-ss NYer article:
+		`gsed -r 'p' gopnik-2023-dalle.md >out.txt`
+* **3.1** Number each line of a file
+	* PK's example:
+		`gsed = filename | sed 'N;s_\n_\t_'` where _ is used as delimiter instead of usual /.
+	* Jeff's example from hist-ss NYer article:
+		`gsed = gopnik-2023-dalle.md | gsed 'N;s_\n_\t_' >out.txt`
