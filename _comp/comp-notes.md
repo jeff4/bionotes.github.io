@@ -186,47 +186,10 @@ permalink: /comp-notes/
 * 7/05 From February, 2023, ['A human just defeated an AI in Go. Here’s why that matters'](https://news.ycombinator.com/item?id=36590242), and [HN thread](https://news.ycombinator.com/item?id=36590242)
 * 7/06 Meta/FB/Instagram launched Threads today and here's an [HN article](https://news.ycombinator.com/item?id=36612835) about how the backend is built in Python 3.10
 
-### 7/09
-* Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK).
-* (Reviewed two links below on 8/22. Best to use other sed reources b/c these are very basic.)
-	* <del>[Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)</del>
-	* <del>[Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)</del>
- 
-### 7/11 
-* More links on sed from Hacker News:
-	* Grymoire's [Intro and Tutorial for Sed by Bruce Barnett](https://www.grymoire.com/Unix/sed.html) and associated [2015 HN thread](https://news.ycombinator.com/item?id=8851124) with a [comment about Grymoire's similar awk tutorial](https://news.ycombinator.com/item?id=8853658). Plus Grymoire's [grep tutorial](https://www.grymoire.com/Unix/Grep.html)
-	* [Differences between grep, sed, awk from Linode](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/#the-differences-between-grep-sed-and-awk) and [2023 HN thread](https://news.ycombinator.com/item?id=34280281)
-	* [Gnu Sed manual and tutorial](https://www.gnu.org/software/sed/manual/sed.html)
-	* Casual [quick notes on sed](https://github.com/adrianlarion/useful-sed) with associated [2021 HN thread](https://news.ycombinator.com/item?id=29196221). Note that there may be errors in some of these sed scripts.
-
-### 7/12 
-* More sed links: 
-	* Good sed exercises at [50 sed examples](https://linuxhint.com/50_sed_command_examples/). Began going through more seriously on 8/23.
-	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
-
-### 7/13
-* Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
-* Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
-
 ## 7/14 - 7/16 awk resources
 * Watched [intro video to awk by Gary Explains](https://youtu.be/jJ02kEETw70) (20 minutes long)
 * Ben Porter's [history and tutorial video for awk](https://youtu.be/E5aQxIdjT0M) (1 hour long) 
 * Bruce Barnett aka Grymoire also has an [Intro and Tutorial for Awk](https://grymoire.com/Unix/Awk.html).
-
-## 8/07
-* More sed resources (see also Notes app):
-	* From 2008 or so but updated since then. [Sed-one-liners](https://catonmat.net/worlds-best-introduction-to-sed), associated [text files with all one-liners](https://catonmat.net/wp-content/uploads/2008/09/sed1line.txt) and associated [HN comment](https://news.ycombinator.com/item?id=2431264). It's the first chapter of a $20 e-book [Sed One-Liners Explained](https://catonmat.net/sed-book). Note that catonmat = [Peter Krumins](https://catonmat.net/about), co-founder of Browserling.com. And these one-liners were originally compiled by [Eric Pement](https://www.pement.org/sed/)
-	* From the same 2011 thread on [Sedtris: Tetris in sed](https://news.ycombinator.com/item?id=2430171) where the above catonmat one-liner article appeared, also found this [2008 other side of the moon Progamming Patterns in sed](https://tech.bluesmoon.info/2008/09/programming-patterns-in-sed.html)
-* Completed Luke Smith video from 7/12.
-* Began experimenting with catonmat's [first chapter](https://catonmat.net/worlds-best-introduction-to-sed)
-
-## 8/08
-* Hm, perhaps look at the sed resources at [Eric Pement's site](https://www.pement.org/sed/)
-* On second thought, i think grymoire's original [Bruce Barnett's Sed intro and tutorial](https://www.grymoire.com/Unix/Sed.html) is the better way to go.
-
-## 8/09
-* Finished to the end of the flag section in Grymoire site, aka the section titled ['Write to a file with /w filename'](https://www.grymoire.com/Unix/Sed.html#toc-uh-10)
-* Finished up to end of the ['Multiple commands witn an -command' section](https://www.grymoire.com/Unix/Sed.html#uh-13). Next section is 'Filenames on the command line'.
 
 ## 8/10
 * Been experimenting with alternative terminal emulators recently. First [Warp](www.warp.dev), then today [Alacritty](https://github.com/alacritty/alacritty). At some point, will refactor color themes available on [GitHub](https://github.com/alacritty/alacritty-theme)
@@ -266,44 +229,13 @@ permalink: /comp-notes/
 * However, not seeing how to modify the color schemes for input versus output yet.
 * Next steps. Try seeing results with zsh. And try on ARM.
 
-## 8/17 sed
-* Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
-
-## 8/18 sed
-* After experimentation, I realized that using the **-r** flag to activate Extended Regular Expressions (ERE)  is critical to getting regex working well with gsed. 
-* With that flag turned on, can use parentheses to create numbered capturing groups. For awhile, I could use gsed without the -r flag turned on; I was able to capture patterns in groups with parentheses just by making sure I properly escaped those parens with a backslash like so \\(. However, I got inconsistent results. 
-* In the end, the best bet was to just turn on **-r** like this:
-		`gsed -nr 's#\b(\w+)\b \b\1\b#\1  ~~~ \1#gp' source.txt >out.txt`
-* The above example uses **-n** to suppress automatic printing. Other notes:
-	* The **gp** options at the end ensure respectively: (1) that all instances per line are executed on (globally), NOT just the first instance; and (2) p means print each line where a line matches indicated pattern and is worked upon.
-	* I'm using hash-marks (#) instead of the usual forward slash (/) as delimiters. 
-	* I'm using **\\b** as word-boundaries. 
-	* The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
-
 ## 8/19 sed
-* Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
 * When using shuf to shuffle contents of /zhongwen, make sure to use the -o option to indicate output file, e.g., 
 		`shuf source.txt -o output.txt`
 
 ## 8/22 
 * [Short blog post](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea) about Unix as a technology and as an idea. [HN thread](https://news.ycombinator.com/item?id=37205536)
 * Purchased Peter Krumins' (catonmat) e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book). See Box.
-
-## 8/23 sed
-* Next two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
-	1. Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
-		`gsed 'G' 1-indigenous-test.md >out.txt`
-	1. To add two blank lines in between each line, add another expression with a semi-colon.
-		`gsed 'G;G' 1-indigenous-test.md >out.txt`
-* Next several examples from [this 50 examples article](https://linuxhint.com/50_sed_command_examples/#s9) starting with Example #9. Referenced on 7/12.
-	1. In addition to defining ranges (i.e., only execute this for lines 5-20'), one can set a pattern to look for before executing the action. For example, the one-liner below will only replace lowercase 'the' with uppercase "THE' when the line contains "These" with a capital T.
-		`gsed -nr '/These/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
-	1. Also, the pattern for 'These' can accept regex syntax. So if we want to execute this substitution on lines for both 'These' and 'these', we can search for (T|t)
-		`gsed -nr '/(T|t)hese/ s/the/THE/gp' 2-indigenous-test.md >out.txt`
-	1. Unfortunately, the initial pattern does not allow flags so something like `/These/i` would not work. *BUT* the i flag when added to the g (global) and p (print) flags will pattern match for case insensitive the/The. And it will be case-insensitive for 't', 'h', and 'e'.
-		`gsed -nr '/(T|t)hese/ s/the/THE/gpi' 2-indigenous-test.md >out.txt`
-	1. Conversely, if you want to apply something to all the lines that **don't** have a 'These' in it, you can just add a **!** flag like so /These/!:
-		`gsed -nr '/These/! s/the/THE/gpi' 2-indigenous-test.md >out.txt`
 
 ## 8/24
 * [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referencing a Medium article.
@@ -326,7 +258,7 @@ permalink: /comp-notes/
 	* Jeff's example from hist-ss NYer article:
 		`gsed = gopnik-2023-dalle.md | gsed 'N;s_\n_\t_' >out.txt`
 	* *Note: This example calls sed twice with a pipe. Instance 1 loads the file using the **=** operator. And instance two searches for new lines and replaces them with tab characters.* 
-* **3.4** Count number of lines in file aka simulate 'wc -l'
+* **3.4** Count number of lines in file *aka* simulate 'wc -l'
 	* PK's example:
 		`gsed -n '$='`
 	* Jeff's example from hist-ss NYer article:
