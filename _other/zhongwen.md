@@ -577,7 +577,7 @@ Go to [this page](/ch-food/)
 1. 餓 [饿] - è (hungry)
 1. 家 - jiā (house)
 1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 難 [难] - nán (difficult, hard)
+1. 難 [难] - nán (difficult, hard). See also L25
 1.  
 1. 過[过]- guò (to cross; to pass time) Originally from L7. Delete when finished
 1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
@@ -634,7 +634,7 @@ Go to [this page](/ch-food/)
 1. 最 - zuì (the most)
 1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
 1. 更 - gèng (even more)
-1. 困難 [困难] - kùn nan (difficult)
+1. 困難 [困难] - kùn nan (difficult). See also L22.
 1. 容易 - róng yì (easy)
 1. 記 [记] - jì (to record to remember)
 1. 筆畫 [笔画] - bǐ huà (stroke order)
@@ -643,7 +643,7 @@ Go to [this page](/ch-food/)
 1. 複雜 [复杂] - fù zá (complicated)
 1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
 1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
-1. 比較 [比较] - bǐ jiào (comparatively)
+1. 比較 [比较] - bǐ jiào (comparatively). see also 交 *jiāo* from L14 and 水餃 *shuǐ jiǎ* (dumplings).
 1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
 1. 鐘頭 [钟头] - zhōng tóu (hour)
 1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
