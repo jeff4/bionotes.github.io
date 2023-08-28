@@ -643,7 +643,7 @@ Go to [this page](/ch-food/)
 1. 複雜 [复杂] - fù zá (complicated)
 1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
 1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
-1. 比較 [比较] - bǐ jiào (comparatively)
+1. 比較 [比较] - bǐ jiào (comparatively). see also 交 *jiāo* from L14 and 水餃 *shuǐ jiǎ* (dumplings).
 1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
 1. 鐘頭 [钟头] - zhōng tóu (hour)
 1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
