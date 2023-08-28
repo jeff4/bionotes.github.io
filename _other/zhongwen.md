@@ -639,7 +639,7 @@ Go to [this page](/ch-food/)
 1. 記 [记] - jì (to record to remember)
 1. 筆畫 [笔画] - bǐ huà (stroke order)
 1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
-1. 簡單 [简單] - jiǎn dān (simple, easy)
+1. 簡單 [简單] - jiǎn dān (simple, easy). Same character as menu in Chinese Food.
 1. 複雜 [复杂] - fù zá (complicated)
 1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
 1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
@@ -755,3 +755,15 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
+1. 
+
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
