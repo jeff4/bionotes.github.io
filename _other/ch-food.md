@@ -41,65 +41,6 @@ permalink: /ch-food/
 1. 四川哧擔擔麵 [担担面] - sìchuān chī dàndan miàn. Sichuan-style Hot & Spicy Dan-Dan Noodles.
 
 ## Flash Cards
-### Lesson 21
-1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
-1. 翻譯 [翻译] - fān yì (translate)
-1. 替 - tì (take the place of; replace, substitute for)
-1. 決定 [决定] - jué dìng (to decide)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
-1. 搞 - gǎo (to get tangled with)
-1. 身體 [身体] - shēn tǐ (body)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1. 冷 - lěng (cold)
-1. 信 - xìn (letter)
-1. ...史 - shǐ (history of ...)
-1. 送 - sòng (to send)
-1. 希望 - xī wàng (hope - both noun and verb)
-1. 病人 - bìng rén (sick person, patient)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-
-### Lesson 22
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 就要...了 -  jiù yào...le (about to...)
-1. 餓 [饿] - è (hungry)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 錯 [错] - cuò (wrong). See also L12.
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. 春節 [春节] - Chūn Jié (Spring Festival)
-1. 像 - xiàng (to resemble)
-1. 筷子 - kuài zi (chopsticks)
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 它⧸牠 - tā (it)
-1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
-1. 一樣 [一样] - yī yàng (to be the same)
-1. 難 [难] - nán (difficult, hard)
-1. 家 - jiā (house)
-1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
-
-### Lesson 23
-1. 下雨 - xià yǔ (to rain)
-1. 去年 - qù nián (last year)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
-1. 穿 - chuān (to wear)
-1. 真 - zhēn (really; real)
-1. 大衣 - dà yī (overcoat)
-1. 下雪 - xià xuě (to snow)
-1. 天氣 [天气] - tiān qì (weather)
-1. 讓 [让] - ràng (to allow)
-1. 漂亮 - piào liang (pretty). See also L28.
-1. 男 - nán (male)
-1. 好像 - hǎo xiàng (very like, similar to, resembles)
-1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 女 - nǚ (female)
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 正 - zhèng (correct, right, straighten)
-1. 春天 - chūn tiān (spring)
-1. 夏天 - xià tiān (summer)
-1. 秋天 - qiū tiān (autumn, fall)
-1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
 
 ### Lesson 24
 1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
@@ -141,3 +82,27 @@ permalink: /ch-food/
 1. 筆畫 [笔画] - bǐ huà (stroke order)
 1. 比較 [比较] - bǐ jiào (comparatively)
 1. 更 - gèng (even more)
+
+### Lesson 26
+1. 黃 - huáng (yellow)
+1. 廁所 [厕所] - cè suǒ (toilet)
+1. 毛衣 - máo yī (sweater)
+1. 手錶 [手表] - shǒu biǎo (wristwatch)
+1. 也...也... - yě...yě... (both...and...)
+1. 樣子 [样子] - yàng zi (style, standard, pattern)
+1. 藍 [蓝] - lán (blue)
+1. 日記 [日记] - rì jì (diary)
+1. 聲音 [声音] - shēng yīn (sound)
+1. 搬家 - bān jiā (to move house)
+1. 塊 [块] - kuài (piece, block)
+1. 腳步 [脚步] - jiǎo bù (footstep)
+1. 綠 [绿] - lǜ (green)
+1. 點心 [点心] - diǎn xin (dim sum)
+1. 白 - bái (white)
+1. 深 - shēn (deep in color; depth)
+1. 淺 [浅] - qiǎn (light/pale in color; shallow)
+1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
+1. 愛 [爱] - ài (love)
+1. 顏色 [颜色] - yán sè (color)
+1. 同志 - tóng zhì (comrade; colleague)
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
