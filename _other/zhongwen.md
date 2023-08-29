@@ -136,7 +136,7 @@ Go to [this page](/ch-food/)
 1. 你們 - nǐ men 
 1. 黑 - hēi (black)
 1. 白 - bái (white) 
-1. 乾淨 - gān jing (clean) 
+1. 乾淨 - gān jing (clean). See also 靜*jìng* from L26.
 1. 本子  - běn zi (notebook) 
 1. 對不對 - duì bù duì (is that right?)
 1. 對 - duì (correct; to, towards -- second def is from L21)
@@ -663,14 +663,14 @@ Go to [this page](/ch-food/)
 1. 藍 [蓝] - lán (blue)
 1. 樣子 [样子] - yàng zi (style, standard, pattern)
 1. 塊 [块] - kuài (piece, block)
-1. 顏色 [颜色] - yán sè (color)
+1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
 1. 點心 [点心] - diǎn xin (dim sum)
 1. 愛 [爱] - ài (love)
 1. 廁所 [厕所] - cè suǒ (toilet)
 1. 腳步 [脚步] - jiǎo bù (footstep)
 1. 手錶 [手表] - shǒu biǎo (wristwatch)
 1. 聲音 [声音] - shēng yīn (sound)
-1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
 1. 搬家 - bān jiā (to move house)
 1. 同志 - tóng zhì (comrade; colleague)
 1. 也...也... - yě...yě... (both...and...)
@@ -755,15 +755,3 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
