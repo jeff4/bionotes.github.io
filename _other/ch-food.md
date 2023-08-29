@@ -122,22 +122,22 @@ permalink: /ch-food/
 1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
 
 ### Lesson 25
-1. 更 - gèng (even more)
-1. 困難 [困难] - kùn nan (difficult)
-1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
-1. 鐘頭 [钟头] - zhōng tóu (hour)
-1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
-1. 簡單 [简單] - jiǎn dān (simple, easy)
-1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
-1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
-1. 筆畫 [笔画] - bǐ huà (stroke order)
-1. 容易 - róng yì (easy)
 1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
-1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
-1. 複雜 [复杂] - fù zá (complicated)
 1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
-1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
-1. 比較 [比较] - bǐ jiào (comparatively)
-1. 最 - zuì (the most)
+1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
 1. 記 [记] - jì (to record to remember)
+1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
+1. 最 - zuì (the most)
+1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
+1. 複雜 [复杂] - fù zá (complicated)
+1. 簡單 [简單] - jiǎn dān (simple, easy)
+1. 容易 - róng yì (easy)
+1. 鐘頭 [钟头] - zhōng tóu (hour)
+1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
+1. 困難 [困难] - kùn nan (difficult)
 1. 前頭 [前头] - qián tou *aka* 前面 *qián mian* or *qián miàn* (front)
+1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
+1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
+1. 筆畫 [笔画] - bǐ huà (stroke order)
+1. 比較 [比较] - bǐ jiào (comparatively)
+1. 更 - gèng (even more)
