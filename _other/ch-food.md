@@ -105,4 +105,4 @@ permalink: /ch-food/
 1. 愛 [爱] - ài (love)
 1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
 1. 同志 - tóng zhì (comrade; colleague)
-1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
