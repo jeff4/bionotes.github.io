@@ -103,6 +103,6 @@ permalink: /ch-food/
 1. 淺 [浅] - qiǎn (light/pale in color; shallow)
 1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
 1. 愛 [爱] - ài (love)
-1. 顏色 [颜色] - yán sè (color)
+1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
 1. 同志 - tóng zhì (comrade; colleague)
 1. 安靜 [安静] - ān jìng (quiet, peaceful, silent)
