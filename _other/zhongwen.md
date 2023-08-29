@@ -544,7 +544,7 @@ Go to [this page](/ch-food/)
 1. 病人 - bìng rén (sick person, patient)
 1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
 1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
-1. 送 - sòng (to send)
+1. 送 - sòng (to send, to give as a present; to deliver; to accompany, escort)
 1. 決定 [决定] - jué dìng (to decide)
 1. 搞 - gǎo (to get tangled with)
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
@@ -678,7 +678,6 @@ Go to [this page](/ch-food/)
 ### Lesson 27
 1. 把 - bǎ (hold, watch; *noun* handle bars)
 1. 糟糕 - zāo gāo (oh no!)
-1. 送 - sòng (to give as a present; to deliver; to accompany, escort)
 1. 圓珠筆 [圆珠笔] - yuán zhū bǐ 
 1. 丢 - diū (to lose; to misplace)
 1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
