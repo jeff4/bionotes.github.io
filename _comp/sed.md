@@ -153,12 +153,12 @@ permalink: /sed/
 	* This captures all lines beginning with the one that has *Seine* and ending with the one that has *New York City*.
 
 ## 8/30 PK book
-* **2.2** Double-space a file which already has blank lines in it. From the semi-colon, we see there are actually two expressions. First, search for a pattern,(*aka* there is no s/find/replace/ needed). In this case, the */pattern/* being searched for is just a blank line indicated by *^$*. Second, use the **G** command to add a blank line to every line so the whole file is double-spaced.
+* **2.2** Double-space a file which already has blank lines in it. 
 	* PK's example:
 		`gsed '/^$/d;G'`
-	* JH's example:
+	* JH's version executed in h-ss directory:
 		`gsed '/^$/d;G' gopnik-2023-dalle.md >out.txt`
-
+	* Comments: From the semi-colon, we see there are actually two expressions. First, search for a pattern,(*aka* there is no s/find/replace/ needed). In this case, the */pattern/* being searched for is just a blank line indicated by *^$*. Second, use the **G** command to add a blank line to every line so the whole file is double-spaced.
 
 
 
