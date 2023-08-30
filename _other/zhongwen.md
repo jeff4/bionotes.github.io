@@ -703,7 +703,6 @@ Go to [this page](/ch-food/)
 1. 大樓 [大楼] - dà lóu (large, multi-story building)
 1. 亮 - lìang (bright). See also 漂亮 *piào liang* from L23.
 1. 房錢 [房钱] - fáng qian (rent for housing)
-1. 貴 [贵] - guì (expensive)
 1. 付 - fù (to hand over; to pay)
 1. 除了...以外 - chú le ...yǐ wài (except for...)
 1. 電費 [电费] - diàn fèi (bill or fee for electricity)
