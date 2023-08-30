@@ -101,69 +101,69 @@ permalink: /ch-food/
 1. 廁所 [厕所] - cè suǒ (toilet)
 1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
 1. 也...也... - yě...yě... (both...and...)
-1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
+1. 衣服 - yī fu (clothing; garment). See also *shū fú* (comfortable) from L9 and *fú wù yuán* (attendant) from L29. 
 1. 同志 - tóng zhì (comrade; colleague)
 1. 白 - bái (white)
 1. 腳步 [脚步] - jiǎo bù (footstep)
 1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
 
 ### Combined L24-26
-1. 搬家 - bān jiā (to move house)
-1. 困難 [困难] - kùn nan (difficult)
-1. 愛 [爱] - ài (love)
-1. 點心 [点心] - diǎn xin (dim sum)
-1. 容易 - róng yì (easy)
-1. 淺 [浅] - qiǎn (light/pale in color; shallow)
-1. 比較 [比较] - bǐ jiào (comparatively)
-1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
-1. 聲音 [声音] - shēng yīn (sound)
-1. 黃 - huáng (yellow)
-1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
-1. 日記 [日记] - rì jì (diary)
-1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
-1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 1/3'.
-1. 也...也... - yě...yě... (both...and...)
-1. 小姐 - xiǎo jiě (young lady)
-1. 最 - zuì (the most)
-1. 藍 [蓝] - lán (blue)
-1. 同志 - tóng zhì (comrade; colleague)
-1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
-1. 立刻 - lì kè (immediately, at once)
-1. 簡單 [简單] - jiǎn dān (simple, easy)
-1. 樣子 [样子] - yàng zi (style, standard, pattern)
-1. 深 - shēn (deep in color; depth)
-1. 廁所 [厕所] - cè suǒ (toilet)
-1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
-1. 手錶 [手表] - shǒu biǎo (wristwatch)
-1. 記 [记] - jì (to record to remember)
-1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
-1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
-1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
-1. 比方說 [比方说] - bǐ fang shuō (for example)
 1. 繁體字 [繁体字] - fán tǐ zì (traditional Hànzi)
-1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
-1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
-1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
-1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
-1. 塊 [块] - kuài (piece, block)
-1. 複雜 [复杂] - fù zá (complicated)
-1. 白 - bái (white)
-1. 散步 - sàn bù (to walk, stroll)
-1. 從前 [从前] - cóng qián (before, formerly, in the past)
-1. 腳步 [脚步] - jiǎo bù (footstep)
-1. 街 - jiē (street). See also L20 for 路 *lù* (road).
-1. 綠 [绿] - lǜ (green)
-1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
-1. 鐘頭 [钟头] - zhōng tóu (hour)
-1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
-1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 愛 [爱] - ài (love)
+1. 塊 [块] - kuài (piece, block; a dollar; measure word for dollar)
+1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
+1. 最 - zuì (the most)
 1. 人口 - rén kǒu (population; family size)
-1. 筆畫 [笔画] - bǐ huà (stroke order)
-1. 更 - gèng (even more)
-1. 毛衣 - máo yī (sweater)
-1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
+1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
+1. 廁所 [厕所] - cè suǒ (toilet)
+1. 鐘頭 [钟头] - zhōng tóu (hour)
+1. 同志 - tóng zhì (comrade; colleague)
+1. 比較 [比较] - bǐ jiào (comparatively)
+1. 搬家 - bān jiā (to move house)
+1. 簡化 [简化] - jiǎn huà (*verb* to simplify)
+1. 簡體字 [简体字] - jiǎn tǐ zì (simplified Hànzi)
+1. 簡單 [简單] - jiǎn dān (simple, easy)
+1. 藍 [蓝] - lán (blue)
 1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
-1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
-1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
-1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
+1. 立刻 - lì kè (immediately, at once)
+1. 點心 [点心] - diǎn xin (dim sum)
+1. 淺 [浅] - qiǎn (light/pale in color; shallow)
 1. 前頭 [前头] - qián tou *aka* 前面 *qián mian* or *qián miàn* (front)
+1. 散步 - sàn bù (to walk, stroll)
+1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
+1. 腳步 [脚步] - jiǎo bù (footstep)
+1. 樣子 [样子] - yàng zi (style, standard, pattern)
+1. 認 [认] - rèn (to recognize, to know, to admit). See also L12. 
+1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 1/3'.
+1. 綠 [绿] - lǜ (green)
+1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
+1. 白 - bái (white)
+1. 困難 [困难] - kùn nan (difficult)
+1. 小姐 - xiǎo jiě (young lady)
+1. 從前 [从前] - cóng qián (before, formerly, in the past)
+1. 更 - gèng (even more)
+1. 街 - jiē (street). See also L20 for 路 *lù* (road).
+1. 雖然 [虽然] - suī rán (although). See also 當然 from L15.
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
+1. 記 [记] - jì (to record to remember)
+1. 筆畫 [笔画] - bǐ huà (stroke order)
+1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
+1. 複雜 [复杂] - fù zá (complicated)
+1. 深 - shēn (deep in color; depth)
+1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
+1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
+1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
+1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
+1. 日記 [日记] - rì jì (diary)
+1. 容易 - róng yì (easy)
+1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
+1. 聲音 [声音] - shēng yīn (sound)
+1. 手錶 [手表] - shǒu biǎo (wristwatch)
+1. 黃 - huáng (yellow)
+1. 毛衣 - máo yī (sweater)
+1. 也...也... - yě...yě... (both...and...)
+1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
+1. 可不是嗎 [可不是吗] - kě bu shì ma (exactly, right, "that's just the way it is")
+1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
+1. 比方說 [比方说] - bǐ fang shuō (for example)
