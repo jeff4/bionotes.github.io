@@ -265,7 +265,7 @@ Go to [this page](/ch-food/)
 
 ### Lesson 9
 1. 好看 - hǎo kàn (good looking) 
-1. 舒服 - shū fú (comfortable) 
+1. 舒服 - shū fú (comfortable). See also *clothing* from L26. 
 1. 有時候 [有时候] - yǒu shí hòu (sometimes)
 1. 有时候(兒) - yǒu shí hòu(r) 
 1. 外邊 [外边] - wài bian (outside) 
@@ -654,7 +654,7 @@ Go to [this page](/ch-food/)
 ### Lesson 26
 1. 日記 [日记] - rì jì (diary)
 1. 毛衣 - máo yī (sweater)
-1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
+1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. See also *shū fú* (comfortable) from L9 and *fú wù yuán* (attendant) from L29. 
 1. 淺 [浅] - qiǎn (light/pale in color; shallow)
 1. 深 - shēn (deep in color; depth)
 1. 綠 [绿] - lǜ (green)
@@ -713,7 +713,7 @@ Go to [this page](/ch-food/)
 1. 起 - qǐ (to wake up; to rise; to stand up)
 1. 附近 - fù jìn (vicinity)
 1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
-1. 服務員 [服务员] - fú wù yuán (attendant)
+1. 服務員 [服务员] - fú wù yuán (attendant). See also clothing from L26 and comfortable from L9. 
 1. 一共 - yī gòng (altogether, in all, all told)
 1. 找 - zhǎo (to give change back). See also L13 same character and pronunciation for "to search". 
 1. 又...又... - yoù...yoù... (not only...but also...)
