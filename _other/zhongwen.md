@@ -682,7 +682,7 @@ Go to [this page](/ch-food/)
 1. 丢 - diū (to lose; to misplace)
 1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
 1. 不好意思 - bù hǎo yì si (how embarrassing)
-1. 生產 [产生] - shēng chǎn (to produce, to manufacture)
+1. 生產 [生产] - shēng chǎn (to produce, to manufacture)
 1. 共產黨 [共产党] - gòng chǎn dǎng (Communist Party)
 1. 工廠 [工厂] - gōng chǎng (factory, mill, plant)
 1. 咳⧸咍 - hāi (expressing regret or mild disgust) 
