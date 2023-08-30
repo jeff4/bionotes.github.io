@@ -96,7 +96,7 @@ permalink: /ch-food/
 1. 搬家 - bān jiā (to move house)
 1. 黃 - huáng (yellow)
 1. 點心 [点心] - diǎn xin (dim sum)
-1. 塊 [块] - kuài (piece, block)
+1. 塊 [块] - kuài (piece, block; a dollar; measure word for dollar)
 1. 綠 [绿] - lǜ (green)
 1. 廁所 [厕所] - cè suǒ (toilet)
 1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
