@@ -144,4 +144,6 @@ permalink: /sed/
 	* This works well against a copy of my zhongwen.md file.
 		`gsed -n '/###/p' 8-zhongwen-test.md >out.txt`
 	* The only problem is that in addition to grabbing the H3 level "Lessons 1-40" lines, it also captures the H4 line `#### 6/25 - 99 Ranch and Liang Mama with J`. Despite multiple experiments, I can't seem to exclude that line. Something about spaces, \s, and \w, are still not working.
-
+	* Next, we can not only print out a list of Lesson headings, we can apply a regex like so:
+		`gsed -n '/###/ s/Lesson/Chapter/p' 8-zhongwen-test.md >out.txt`
+	* The above sed line works. Also, since it is only matching lines with 'Lesson', the *99 Ranch* line is suppressed from printing in the output file.
