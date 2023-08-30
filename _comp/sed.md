@@ -136,6 +136,12 @@ permalink: /sed/
 ## 8/29 sed - PK book
 * Up to 4.11 on p. 20.
 * p. 1-3. There are four spaces: **(1)** Input Stream,**(2)** Output Stream, **(3)** Pattern Space, and **(4)** Hold Buffer.
-
-
+	* Jeff's example from hist-ss NYer article:
+		`gsed -n '$p' gopnik-2023-dalle.md >out.txt`
+		* This uses the fact that **$** means both the end of a line and the *last line* of a file. In this case, sed will output just the final line of file.
+		* However, '^p' does not seem to print the first line.
+* p. 4-5. Instead of specifying a single page (or a range of lines in the form *10,25p*), you can specify a pattern. So for example, let's just operate on the lines where there are three hashmarks at the beginning.
+	* This works well against a copy of my zhongwen.md file.
+		`gsed -n '/###/p' 8-zhongwen-test.md >out.txt`
+	* The only problem is that in addition to grabbing the H3 level "Lessons 1-40" lines, it also captures the H4 line `#### 6/25 - 99 Ranch and Liang Mama with J`. Despite multiple experiments, I can't seem to exclude that line. Something about spaces, \s, and \w, are still not working.
 
