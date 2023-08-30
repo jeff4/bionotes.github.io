@@ -133,7 +133,7 @@ permalink: /sed/
 	* Jeff's example from hist-ss NYer article:
 		`gsed -n '$=' gopnik-2023-dalle.md >out.txt`
 
-## 8/29 sed - PK book
+## 8/29 PK book
 * Up to 4.11 on p. 20.
 * p. 1-3. There are four spaces: **(1)** Input Stream,**(2)** Output Stream, **(3)** Pattern Space, and **(4)** Hold Buffer.
 	* Jeff's example from hist-ss NYer article:
