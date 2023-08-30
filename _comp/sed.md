@@ -70,7 +70,7 @@ permalink: /sed/
 * Optional items are marked by the **? question mark** as described in [this section](https://www.regular-expressions.info/optional.html) which also explains the concept of greediness.
 * Star \(*) and Plus \(+) allow 0-infinite matches and and Plus allow 1-infinite matches. You can also specify how much reptition exactly with curly braces{}. See more at [this article](https://www.regular-expressions.info/repeat.html)
 
-## 8/17 sed
+## 8/17
 * Tried duos of 'history', 'British', and 'local' in 4-test.md input file and used gsed command to remove them one at a time. Now need to have a generic regex that can remove n duplicated words.
 
 ## 8/18 sed
@@ -84,7 +84,7 @@ permalink: /sed/
 	* I'm using **\\b** as word-boundaries. 
 	* The '~~~' symbol shows how to visually see where i've inserted something into the doubled space.
 
-## 8/19 sed
+## 8/19
 * Next step, try doing case insensitive substitutions using ['s/the/the the/I' from this section](https://www.grymoire.com/Unix/Sed.html#uh-10a)
 * When using shuf to shuffle contents of /zhongwen, make sure to use the -o option to indicate output file, e.g., 
 		`shuf source.txt -o output.txt`
@@ -93,7 +93,7 @@ permalink: /sed/
 * [Short blog post](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea) about Unix as a technology and as an idea. [HN thread](https://news.ycombinator.com/item?id=37205536)
 * Purchased Peter Krumins' (catonmat) e-book [*Sed One-Liners Explained*](https://catonmat.net/sed-book). See Box.
 
-## 8/23 sed
+## 8/23
 * Next two examples from [this 10 examples article](https://www.makeuseof.com/sed-examples/) that I referenced on 7/13.
 	1. Interesting and quick way to doublespace a single-spaced file. i.e., add a blank line after each line. 
 		`gsed 'G' 1-indigenous-test.md >out.txt`
@@ -109,7 +109,7 @@ permalink: /sed/
 	1. Conversely, if you want to apply something to all the lines that **don't** have a 'These' in it, you can just add a **!** flag like so /These/!:
 		`gsed -nr '/These/! s/the/THE/gpi' 2-indigenous-test.md >out.txt`
 
-## 8/26 sed - Peter Krumins' Sed One-Liners
+## 8/26 Peter Krumins' [Sed One-Liners](https://catonmat.net/sed-book)
 * **2.6** Insert a blank line below every line that matches a */pattern/*. 
 	* PK's example:
 		`gsed -r '/pattern/G'`
@@ -151,3 +151,14 @@ permalink: /sed/
 * p. 5. One can also specify a range between two patterns. I don't have a replacement working yet but I can at least print specifically the passsage between the two regexs like so:
 		`gsed -n '/Seine/,/New York City/p' gopnik-2023-dalle.md >out.txt`
 	* This captures all lines beginning with the one that has *Seine* and ending with the one that has *New York City*.
+
+## 8/30 PK book
+* **2.2** Double-space a file which already has blank lines in it
+	* PK's example:
+		`gsed '/^$/d;G'`
+	* JH's example:
+		`gsed '/^$/d;G'`
+
+
+
+
