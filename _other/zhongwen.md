@@ -678,7 +678,7 @@ Go to [this page](/ch-food/)
 ### Lesson 27
 1. 把 - bǎ (hold, watch; *noun* handle bars)
 1. 糟糕 - zāo gāo (oh no!)
-1. 圓珠筆 [圆珠笔] - yuán zhū bǐ 
+1. 圓珠筆 [圆珠笔] - yuán zhū bǐ (ballpoint pen) 
 1. 丢 - diū (to lose; to misplace)
 1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
 1. 不好意思 - bù hǎo yì si (how embarrassing)
