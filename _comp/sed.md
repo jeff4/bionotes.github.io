@@ -135,6 +135,7 @@ permalink: /sed/
 
 ## 8/29 PK book
 * Up to 4.11 on p. 20.
+* Note. the **-e -R --regexp-extended** flags are all equivalent and turn on extended regular expressions.
 * p. 1-3. There are four spaces: **(1)** Input Stream,**(2)** Output Stream, **(3)** Pattern Space, and **(4)** Hold Buffer.
 	* Jeff's example from hist-ss NYer article:
 		`gsed -n '$p' gopnik-2023-dalle.md >out.txt`
@@ -146,4 +147,7 @@ permalink: /sed/
 	* The only problem is that in addition to grabbing the H3 level "Lessons 1-40" lines, it also captures the H4 line `#### 6/25 - 99 Ranch and Liang Mama with J`. Despite multiple experiments, I can't seem to exclude that line. Something about spaces, \s, and \w, are still not working.
 	* Next, we can not only print out a list of Lesson headings, we can apply a regex like so:
 		`gsed -n '/###/ s/Lesson/Chapter/p' 8-zhongwen-test.md >out.txt`
-	* The above sed line works. Also, since it is only matching lines with 'Lesson', the *99 Ranch* line is suppressed from printing in the output file.
+	* The above sed line works and replaces each instance of Lesson with Chapter. Also, since it is only matching lines with 'Lesson', the *99 Ranch* line is suppressed from printing in the output file.
+* p. 5. One can also specify a range between two patterns. I don't have a replacement working yet but I can at least print specifically the passsage between the two regexs like so:
+		`gsed -n '/Seine/,/New York City/p' gopnik-2023-dalle.md >out.txt`
+	* This captures all lines beginning with the one that has *Seine* and ending with the one that has *New York City*.
