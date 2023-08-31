@@ -42,5 +42,13 @@ sitemap: false
 * Even though this was still the nascent stage of industrial acceleration, it was already 'producing crying social abuses—the herding together of a homeless population in the worst quarters of the large towns; the dissolution of all traditional bonds of descent, of patriarchal subordination, of the family; overwork, especially of women and children, on an appalling scale; massive demoralization of the working class, suddenly flung into altogether new conditions, from the country into the town, from agriculture into industry, from stable conditions of existence into insecure ones changing from day to day.' p.48-49
 
 ### Robert Owen p. 49-52
-* p.49-52
-
+* p.49-52 Discusses Owen's startling social and economic success with the cotton-spinning mill at New Lanark in Scotland from 1800-1829.
+	* Grew it to 2500 inhabitants, invented schools for toddlers, paid workers full wages even when mill was stopped by external economic forces, limited working day to 10.5 hours at a time when competitors forced their workers to labor for 13-14 hours per day.
+	* 'In spite of all this, Owen was not content. The existence he had contrived for his workers was, in his eyes, still far from being worthy of human beings. **"The people were slaves at my mercy."** The relatively favourable conditions in which he had placed them were still far from allowing an all-round rational development of the character and of the intellect, much less the free exercise of all their faculties.' p.50.
+	* 2500 persons were creating as much real wealth daily as a population of 600,000 did merely 50 years earlier. 'I asked myself what became of the difference between the wealth consumed by 2,500 persons and that which would have been consumed by 600,000?' p.50
+	* The answer was profits to the owners, despite the fact that factories like his are what saved England from Napoleon. 
+	* Owen drew up a practical, detailed plan to reconstruct things in an even better way.
+* But this all changed when he began wanting to do more than simple philanthropy. 
+* 'As long as he was simply a philanthropist, he was rewarded with nothing but wealth, applause, honour, and glory. He was the most popular man in Europe. Not only men of his own class, but statesmen and princes listened to him approvingly. **But when he came out with his communist theories, it was quite a different story.**' p.51
+* 'Banished from official society, with a conspiracy of silence against him in the press, and ruined by his unsuccessful communist experiments in America in which he sacrificed all his fortune, he turned directly to the working class and continued working in their midst for thirty years.' p.51
+* 'Every social movement, every real advance in England on behalf of the workers is linked with Owen’s name.' p.51 
