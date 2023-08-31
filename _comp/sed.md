@@ -165,4 +165,12 @@ permalink: /sed/
 		`gsed 'n;d'`
 	* JH's version executed in h-ss directory:
 		`gsed 'n;d' gopnik-2023-dalle.md >out.txt`
+	* tested
+
+* **2.5** Insert a blank line above every line that matches */pattern/*
+	* PK's example:
+		`gsed '/pattern/{x;p;x}'`
+	* JH's version executed in h-ss directory:
+		`gsed '/pattern/{x;p;x}' gopnik-2023-dalle.md >out.txt`
+	* not tested yet
 
