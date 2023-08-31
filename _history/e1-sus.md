@@ -22,14 +22,14 @@ sitemap: false
 * Chapter 2 - p. 55
 * Chapter 3 - p. 65
 
-## Chapter 1
+## Chapter 1 p. 39-53
 * p.39. Two main ideas: (1) class antagonism between proprietors and non-proprieters and (2) 'anarchy in production'.
 * Examples of forerunners to 19th century prol: "(1) the Anabaptists and Thomas Munzer during the Reformation and Peasant's War; (2) the True Levellers and egalitarian Diggers during the English Revolution of 1650s; and (3) Gracchus Babeuf and the Conspiracy of Equals during the French Revolution." p.40-41
 * Introduction to Saint-Simon, Fourier, and Owen on p.41, details on their works from p.43.
 * '...the French philosophers [of the 1700s] appealed to reason as the sole judge of everything...But when the French Revolution had realized this rational society and state, the new order of things, however rational as compared with earlier conditions, proved to be by no means absolutely rational. The state based upon reason completely collapsed. Rousseau’s social contract had found its realization in the Reign of Terror, from which the bourgeoisie, after losing faith in its own political capacity, had taken refuge first in the corruption of the Directorate and finally under the wing of the Napoleonic despotism. The promised eternal peace was turned into an endless war of conquest. The society based upon reason had fared no better.' p.42 
 * For small capitalists and peasants, the 'freedom of property' turned out to just be 'freedom from property' as they were forced to sell whatever they had under 'overpowering competition [from] big capital and big landed property.' p.42
  
-### Saint-Simon, p. 45-46
+### Saint-Simon p. 45-46
 * Saint-Simon: antagonism is between 'workers' vs. 'idlers'. 'The idlers were not merely the old privileged persons, but all who lived on their incomes without taking any part in production or distribution. The “workers” were not only the wage-workers but also the manufacturers, the merchants, the bankers.' p.45
 * Who then was to lead? 'According to Saint-Simon, science and industry, both united by a new religious bond destined to restore that unity of religious ideas which had been broken since the Reformation—a necessarily mystical and rigidly hierarchical “new Christianity”. But science was the scholars; and industry was, in the first place, the active bourgeois, manufacturers, merchants, bankers.' p.45
 * F: '...to recognize the French Revolution as a...struggle and not simply as one between nobility and bourgeoisie, but *between nobility, bourgeoisie, and those without any property, was*, in the year 1802, a discovery of the greatest genius." 
@@ -52,3 +52,9 @@ sitemap: false
 * 'As long as he was simply a philanthropist, he was rewarded with nothing but wealth, applause, honour, and glory. He was the most popular man in Europe. Not only men of his own class, but statesmen and princes listened to him approvingly. **But when he came out with his communist theories, it was quite a different story.**' p.51
 * 'Banished from official society, with a conspiracy of silence against him in the press, and ruined by his unsuccessful communist experiments in America in which he sacrificed all his fortune, he turned directly to the working class and continued working in their midst for thirty years.' p.51
 * 'Every social movement, every real advance in England on behalf of the workers is linked with Owen’s name.' p.51 
+
+### Conclusion of Chapter 1 p. 52-53
+* 'The Utopians’ outlook has governed the socialist ideas of the nineteenth century for a long time and in part still does. Until very recently all French and English socialists paid homage to it. The earlier German communism, including that of Weitling, also belongs to it. To all these, socialism is the expression of absolute truth, reason and justice and needs only to be discovered to conquer the world by virtue of its own power; as absolute truth is independent of time, space, and human historical development, it is a mere accident when and where it is discovered. At the same time, absolute truth, reason and justice are different for the founder of each different school; and as each one’s special brand of absolute truth, reason and justice is in turn conditioned by his subjective understanding, his conditions of existence, the measure of his knowledge and his intellectual training, there is no other ending possible in this conflict of absolute truths than that they should grind each other down. 
+* 'Hence, from this nothing could come but a kind of eclectic, average socialism, such as in fact has dominated the minds of most of the socialist workers in France and England up to the present time; a mish-mash permitting of the most manifold shades of opinion; a mish-mash of the less striking critical statements, economic theories and pictures of future society of the founders of different sects; a mish-mash which is the more easily produced, the more the sharp edges of precision of the individual constituents are rubbed down in the stream of debate, like rounded pebbles in a brook. To make a science of socialism, it had first to be placed upon a real basis.' p.53
+
+
