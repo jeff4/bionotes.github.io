@@ -71,3 +71,5 @@ sitemap: false
 * **'This was done by the discovery of surplus value.'**
 * 'It was shown that the appropriation of unpaid labor is the basic form of the capitalist mode of production and of the exploitation of the worker effected by it; that even if the capitalist buys the labour-power of his worker at the full value it possesses as a commodity on the market, he still extracts more value from it than he paid for; and that in the last analysis this surplus-value forms those sums of value from which there is heaped up the constantly increasing mass of capital in the hands of the possessing classes. The process both of capitalist production and of the production of capital was explained.' p. 62-63
 * 'These two great discoveries, the materialist conception of history and the revelation of the secret of capitalist production through surplus-value, we owe to Marx. With them socialism became a science, which had now to be elaborated in all its details and interconnections.' p.63
+
+## Chapter 3 p. 65-85
