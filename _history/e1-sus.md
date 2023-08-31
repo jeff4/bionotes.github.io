@@ -13,14 +13,14 @@ sitemap: false
 
 
 ## Table of Contents
-* Forward to the French Edition p.1
-* Preface to the First German Edition p.5
-* Preface to the Fourth German Edition p.9
-* Introduction to the English Edition p.11
-* Main Text p.37
-* Chapter 1 p. 39
-* Chapter 2 p. 55
-* Chapter 3 p. 65
+* Forward to the French Edition - p. 1
+* Preface to the First German Edition - p. 5
+* Preface to the Fourth German Edition - p. 9
+* Introduction to the English Edition - p. 11
+* Main Text - p. 37
+* Chapter 1 - p. 39
+* Chapter 2 - p. 55
+* Chapter 3 - p. 65
 
 ## Chapter 1
 * p. 39. Two main ideas: (1) class antagonism between proprietors and non-proprieters and (2) 'anarchy in production'.
