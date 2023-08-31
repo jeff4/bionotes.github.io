@@ -135,7 +135,7 @@ permalink: /sed/
 
 ## 8/29 PK book
 * Up to 4.11 on p. 20.
-* Note. the **-e -R --regexp-extended** flags are all equivalent and turn on extended regular expressions.
+* Note. the **-E -r --regexp-extended** flags are all equivalent and turn on extended regular expressions.
 * p. 1-3. There are four spaces: **(1)** Input Stream,**(2)** Output Stream, **(3)** Pattern Space, and **(4)** Hold Buffer.
 	* Jeff's example from hist-ss NYer article:
 		`gsed -n '$p' gopnik-2023-dalle.md >out.txt`
@@ -160,5 +160,9 @@ permalink: /sed/
 		`gsed '/^$/d;G' gopnik-2023-dalle.md >out.txt`
 	* Comments: From the semi-colon, we see there are actually two expressions. First, search for a pattern,(*aka* there is no s/find/replace/ needed). In this case, the */pattern/* being searched for is just a blank line indicated by *^$*. Second, use the **G** command to add a blank line to every line so the whole file is double-spaced.
 
-
+* **2.4** Undo double spacing
+	* PK's example:
+		`gsed 'n;d'`
+	* JH's version executed in h-ss directory:
+		`gsed 'n;d' gopnik-2023-dalle.md >out.txt`
 
