@@ -34,3 +34,8 @@ sitemap: false
 * Who then was to lead? 'According to Saint-Simon, science and industry, both united by a new religious bond destined to restore that unity of religious ideas which had been broken since the Reformation—a necessarily mystical and rigidly hierarchical “new Christianity”. But science was the scholars; and industry was, in the first place, the active bourgeois, manufacturers, merchants, bankers.' p. 45
 * F: '...to recognize the French Revolution as a...struggle and not simply as one between nobility and bourgeoisie, but *between nobility, bourgeoisie, and those without any property, was*, in the year 1802, a discovery of the greatest genius." 
 
+### Fourier p.46
+* Fourier 'mercilessly lays bare the material and moral misery of the bourgeois world'. Great satirist and 'the first to declare that in any given society the degree of women's emancipation i the natural measure of the general emancipation.' p.46
+* Four stages of development for society:  (1) savagery, (2) patriarchy, (3) barbarism,(4) bourgeois society. p.47
+* Fourier 'shows that “the civilized order gives every vice practised by barbarism in a simple fashion a complex, ambiguous, equivocal, hypocritical form”; that civilization moves in “a vicious circle”, in contradictions which it constantly reproduces without being able to solve, so that it constantly attains the opposite of what it wants to achieve, or pretends it wants to achieve. So that, for example, “under civilization poverty is born of abundance itself"'. p.48
+
