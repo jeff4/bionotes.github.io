@@ -30,5 +30,7 @@ sitemap: false
 * For small capitalists and peasants, the 'freedom of property' turned out to just be 'freedom from property' as they were forced to sell whatever they had under 'overpowering competition [from] big capital and big landed property.' p.42
  
 ### Saint-Simon, p.45
-*
+* Saint-Simon: antagonism is between 'workers' vs. 'idlers'. 'The idlers were not merely the old privileged persons, but all who lived on their incomes without taking any part in production or distribution. The “workers” were not only the wage-workers but also the manufacturers, the merchants, the bankers.' p. 45
+* Who then was to lead? 'According to Saint-Simon, science and industry, both united by a new religious bond destined to restore that unity of religious ideas which had been broken since the Reformation—a necessarily mystical and rigidly hierarchical “new Christianity”. But science was the scholars; and industry was, in the first place, the active bourgeois, manufacturers, merchants, bankers.' p. 45
+* F: '...to recognize the French Revolution as a...struggle and not simply as one between nobility and bourgeoisie, but *between nobility, bourgeoisie, and those without any property, was*, in the year 1802, a discovery of the greatest genius." 
 
