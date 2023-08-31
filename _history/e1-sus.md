@@ -7,10 +7,8 @@ sitemap: false
 ## Intro Material
 * 2020 Reprint of 1975 Edition by Foreign Languages Press.
 
-
 ## To do
 * Reread from end of p.24 'The new starting-point was a compromise between teh rising middle class and the ex-feudal landwoners. The latter, though called, as now, the aristocracy, had been long since on the way which led them to become what Louis Philippe in France became..."the first bourgeois of the kingdom".'
-
 
 ## Table of Contents
 * Forward to the French Edition - p. 1
@@ -56,5 +54,3 @@ sitemap: false
 ### Conclusion of Chapter 1 p. 52-53
 * 'The Utopians’ outlook has governed the socialist ideas of the nineteenth century for a long time and in part still does. Until very recently all French and English socialists paid homage to it. The earlier German communism, including that of Weitling, also belongs to it. To all these, socialism is the expression of absolute truth, reason and justice and needs only to be discovered to conquer the world by virtue of its own power; as absolute truth is independent of time, space, and human historical development, it is a mere accident when and where it is discovered. At the same time, absolute truth, reason and justice are different for the founder of each different school; and as each one’s special brand of absolute truth, reason and justice is in turn conditioned by his subjective understanding, his conditions of existence, the measure of his knowledge and his intellectual training, there is no other ending possible in this conflict of absolute truths than that they should grind each other down. 
 * 'Hence, from this nothing could come but a kind of eclectic, average socialism, such as in fact has dominated the minds of most of the socialist workers in France and England up to the present time; a mish-mash permitting of the most manifold shades of opinion; a mish-mash of the less striking critical statements, economic theories and pictures of future society of the founders of different sects; a mish-mash which is the more easily produced, the more the sharp edges of precision of the individual constituents are rubbed down in the stream of debate, like rounded pebbles in a brook. To make a science of socialism, it had first to be placed upon a real basis.' p.53
-
-
