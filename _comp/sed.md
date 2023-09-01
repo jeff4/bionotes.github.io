@@ -22,7 +22,7 @@ permalink: /sed/
 	* <del>This might be a better [set of 10 sed examples](https://www.makeuseof.com/sed-examples/)</del>. *Completed this on 8/23.*
 
 ## 7/13
-* Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use double quotes (") rather than single quotes('). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
+* Reflections. GNU sed (invoked by gsed) works better than core utils sed that comes prepackaged with macOS. Important to use single quotes (') rather than double quotes("). And ability to chain regexps with a semi-colon (;) sequentially is pretty useful to keep patterns distinct. Although probably hard to maintain..
 * Best video so far on [sed by Luke Smith](https://youtu.be/QaGhpqRll_k)
 
 ## 8/07
