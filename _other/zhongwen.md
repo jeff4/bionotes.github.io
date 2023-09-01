@@ -536,7 +536,7 @@ Go to [this page](/ch-food/)
 1. 感冒 - gǎn mào (to catch a cold)
 1. 發燒 [发烧] - fā shāo (to run a fever)
 1. 發展 [发展] - fā zhǎn (to develop). See also L24.
-1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14. Also zhǐ is similar to 正from L23.  
+1. 止痛片 - zhǐ tòng piàn (painkiller, aspirin). See also 通知 *tōng zhī* from L14. Also zhǐ is similar to 正 from L23.  
 1. 醫院 [医院] - yī yuàn (hospital). 院 is like 元 Yuan Dynasty.
 
 ### Lesson 21
