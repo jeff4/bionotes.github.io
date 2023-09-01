@@ -73,3 +73,17 @@ sitemap: false
 * 'These two great discoveries, the materialist conception of history and the revelation of the secret of capitalist production through surplus-value, we owe to Marx. With them socialism became a science, which had now to be elaborated in all its details and interconnections.' p.63
 
 ## Chapter 3 p. 65-85
+* 'The materialist conception of history starts from the principle that production and, next to production, the exchange of things produced, is the basis of every social order; that in every society that has appeared in history, the distribution of weatlh and with it the division of society into classes...are dependent upon what is produced, how it is produced, and how the products are exchanged.' p.65
+* '[Thus], the ultimate causes of all social changes and political revolutions are to be sought, not in men's brains, not in their growing insight into eternal truth and justice, but in changes in the modes of production and exchange.' p.65
+* 'They are sought, not in the *philosophy* but in the *economics* of each particular epoch.'
+* 'The growing recognition that existing social institutions are irrational and unjust, that reason has become unreason, and kindness a scourge, is only a sign that changes in the modes of production and exchange have silently been taking place with which the social order adapted to earlier economic conditions is no longer in keeping.
+* 'From this it also follows that the means of eliminating the abuses that have been brought to light must also be present, in a more or less developed condition, within the changed relations of production themselves. 
+* 'These means are not to be invented out of one’s brain, but discovered by the brain in the existing material facts of production.
+* 'It is now pretty generally conceded that the existing social order is the creation of the ruling class of today, of the bourgeoisie. 
+* 'The mode of production peculiar to the bourgeoisie, which since Marx has been called the capitalist mode of production, was incompatible with the local privileges and the privileges of estate as well as with the reciprocal personal ties of the feudal system. The bourgeoisie shattered the feudal system and on its ruins built the bourgeois social order, the realm of free competition, of freedom of movement, of equal rights for commodity owners and all the glories of capitalism.' p.65
+* 'Since steam and the new tool-making machinery transformed the older manufacture into large-scale industry, the productive forces evolved under the guidance of the bourgeoisie developed with a rapidity and on a scale unheard of before. 
+* 'But just as manufacture and the handicraft industries, which had experienced a further growth under its influence, had come into conflict with the feudal trammels of the guilds in their time, so large-scale industry, in its more complete development, now comes into conflict with the barriers within which the capitalist mode of production holds it confined. 
+* 'The new productive forces have already outgrown the bourgeois form of using them; and this conflict between productive forces and mode of production is not a conflict engendered in men’s heads, like that between original sin and divine justice, but it exists in the facts, objectively, outside us, independently of the will and even actions of the men who have brought it on. 
+* 'Modern socialism is nothing but the reflex in thought of this actual conflict, its ideal reflection in the minds of above all the class directly suffering under it, the working class. 
+
+
