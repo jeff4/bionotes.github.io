@@ -165,12 +165,18 @@ permalink: /sed/
 		`gsed 'n;d'`
 	* JH's version executed in h-ss directory:
 		`gsed 'n;d' gopnik-2023-dalle.md >out.txt`
-	* tested
 
 * **2.5** Insert a blank line above every line that matches */pattern/*
 	* PK's example:
 		`gsed '/pattern/{x;p;x}'`
 	* JH's version executed in h-ss directory:
 		`gsed '/pattern/{x;p;x}' gopnik-2023-dalle.md >out.txt`
-	* not tested yet
 
+## 9/01 PK Book
+* **2.5** Search for /pattern/ and only print lines that contain that pattern
+	* JH's v1
+		`gsed -n '/pattern/p' e1-old-DELETE.md >out.txt`
+	* JH's v2
+		`gsed -n '/ultimately/p' e1-old-DELETE.md >out.txt`
+	* Comments: this is a simplifed version of PK's earlier example `gsed '/pattern/{x;p;x}'`
+	* need to understand use of curly braces and the swap coming from the x command better.
