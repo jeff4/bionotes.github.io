@@ -104,7 +104,7 @@ permalink: /ch-food/
 1. 春天 - chūn tiān (spring)
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 
-### Combined L21-24
+### Combined L21-23
 1. 一樣 [一样] - yī yàng (to be the same)
 1. 好像 - hǎo xiàng (very like, similar to, resembles)
 1. 家 - jiā (house)
