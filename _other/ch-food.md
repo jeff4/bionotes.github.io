@@ -1,4 +1,4 @@
----
+=---
 title: Chinese Food Notes
 permalink: /ch-food/
 ---
@@ -48,7 +48,6 @@ permalink: /ch-food/
 1. 搞 - gǎo (to get tangled with)
 1. 替 - tì (take the place of; replace, substitute for)
 1. 翻譯 [翻译] - fān yì (translate)
-1. 還 [还] - is also *huán* (to go back to; to give back, repay) from L5. Delete when done
 1. 身體 [身体] - shēn tǐ (body)
 1. 給 [给] - gěi (to give) from L4. Delete when done
 1. 小說 [小说] - xiǎo shuō (*noun* a novel)
