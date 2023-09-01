@@ -583,7 +583,6 @@ Go to [this page](/ch-food/)
 1. 別 - bié (don't...) See also TikTok at top of file.  別罵我 - bié mà wǒ (don't yell at me) 
 1. 請 [请] - qǐng (to ask). See also *verb* 'please' definition from L16. Delete when finished
 1. 菜 - cài (vegetable) DELETE WHEN FINISHED.
-1. 南方 - nán fāng (from the South, "Southern Style"). Placed into L16; delete when finished
 
 ### Lesson 23
 1. 正 - zhèng (correct, right, straighten)
