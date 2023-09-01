@@ -1,4 +1,4 @@
-=---
+---
 title: Chinese Food Notes
 permalink: /ch-food/
 ---
