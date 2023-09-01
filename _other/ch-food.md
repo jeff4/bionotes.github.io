@@ -147,7 +147,7 @@ permalink: /ch-food/
 1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
 1. 記 [记] - jì (to record to remember)
 1. 筆畫 [笔画] - bǐ huà (stroke order)
-1. 衣服 - yī fu (clothing; garment). See also simplified 极了 *jí le* from L17. 
+1. 衣服 - yī fu (clothing; garment).
 1. 複雜 [复杂] - fù zá (complicated)
 1. 深 - shēn (deep in color; depth)
 1. 所有 - suǒ yǒu (*adj* all; *verb* to own, possess; *noun* possessions)
