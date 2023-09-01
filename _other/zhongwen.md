@@ -65,7 +65,7 @@ permalink: /zhongwen/
 1. 阿媽 [阿妈] - ā mā (grandmother. In "Taiwan and southeastern China where the Minnan language is spoken, refers to *paternal grandmother*, father's mom.") See also L19.
 1. 鹽 [盐] - yán (salt) see also Crouching Tiger lunch on ch-food page.
 
-## 8/05 - 8/25
+## 8/05 - 9/15
 1. 怡情黎 - yí qíng lí (happy, affectionate, *Li* ethnic group in Hainan). See LRB.
 1. 高原 -  gāo yuán (*noun* plateau, highland). See LRB.
 1. 方舟 - fāng zhōu (Noah's Ark; *literary 2 boats sailing side-by-side.) LRB
@@ -78,6 +78,11 @@ permalink: /zhongwen/
 1. 根本問題 - gēn běn wèn tí (fundamental issue; basic problem)
 1. 堂堂正正 - táng táng zhèng zhèng (impressive, dignified; open and aboveboard). From 堂堂正正的中国人 which was a nationalistic KMT term imposed by Chiang Kai-Shek in Taiwan to refer to the "aboveboard wai shen ren" after 1949. From the [wiki article](https://en.wikipedia.org/wiki/Chai_Trong-rong) about 蔡同榮 Cài Tóngróng, the academic who co-founded [WUFI](https://en.wikipedia.org/wiki/World_United_Formosans_for_Independence#1970s) in 1970 and [FAPA](https://en.wikipedia.org/wiki/Formosan_Association_for_Public_Affairs) in 1982. Also politician in the [DPP](https://en.wikipedia.org/wiki/Democratic_Progressive_Party).
 1. 發音 [发音] - fā yīn (pronunciation)
+1. 太陽 [太阳] - tài yáng (sun, sunshine)
+1. 先生 - xiān sheng (mister)
+
+
+
 
 #### 6/25 - 99 Ranch and Liang Mama with Julian
 
