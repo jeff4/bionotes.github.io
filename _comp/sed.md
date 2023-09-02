@@ -209,4 +209,5 @@ permalink: /sed/
 		`gsed ':a; $s_\n_ _g; N; ba'` 
 	* JH's example:
 		`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
+		* Note: uses **underscore _** instead of the usual forward slash **/** delimiter.
 		* Tested and works
