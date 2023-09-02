@@ -196,12 +196,12 @@ permalink: /sed/
 		* Since the hold buffer is always empty, this has the effect of adding a newline (aka blank line) at the end of the pattern buffer. 
 		* So everytime this regex is matched, at the end of the loop it will print the entire line that contained the regex as well as an additional blank \\n at the end of it.
 	* JH's v1. 
-		`gsed '/Four/G' e1-old-DELETE.MD >out.txt`
+		`gsed '/Four/G' e1-old-DELETE.md >out.txt`
 		* Comments: (1) Prints all lines because **-n** flag is not turned on. 
 		* (2) For those lines that contain the pattern *Four*, append a \\n newline as well as the (empty) contents of the hold buffer. 
 		* Resut: Reprints entire input file but has added a blank line below the relevant matching lines in the Fourier section.
 	* JH's v2. 
- 		`gsed -n '/Four/{G;p}' e1-old-DELETE.MD >out.txt`
+ 		`gsed -n '/Four/{G;p}' e1-old-DELETE.md >out.txt`
 		* Required some experimentation but got the **-n** suppression and **p** working. i.e., out.txt only contains a few lines b/c all other lines are not captured by the regex pattern.
 	* Note, a good explanation of the g versus G commands when moving data from hold buffer to pattern space at Grymoire's site in [this section](https://www.grymoire.com/Unix/Sed.html#uh-57).
 
