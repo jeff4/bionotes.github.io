@@ -171,6 +171,7 @@ permalink: /sed/
 		`gsed '/pattern/{x;p;x}'`
 	* JH's version executed in h-ss directory:
 		`gsed '/pattern/{x;p;x}' gopnik-2023-dalle.md >out.txt`
+	* This works but I explore it more below.
 
 ## 9/01 PK Book
 * **2.5** Search for /pattern/ and only print lines that contain that pattern
@@ -180,3 +181,10 @@ permalink: /sed/
 		`gsed -n '/ultimately/p' e1-old-DELETE.md >out.txt`
 	* Comments: this is a simplifed version of PK's earlier example `gsed '/pattern/{x;p;x}'`
 	* need to understand use of curly braces and the swap coming from the x command better.
+
+* **2.5** New modified version that suppresses all printing and *only* prints out the matched pattern
+	* JH's v2
+		`gsed -n '/Capital/{x;p;x;p}' e1-old-DELETE.md >out.txt`
+	* Comments: Let's think about what's happening here. PK's original 2.5 feeds in a line into the pattern space and stops when it encounters the \\n newline character. Then, the **x** command exchanges the contents of the *pattern space* into the *hold space*. This means that the pattern space is now empty. Next, the **p** comand outputs whatever is in the pattern space which is nothing aka empty. This creates a new line. Then, the **x** command swaps what was in the hold space *back* into the pattern space. The final **p** command means, print whatever is in the pattern space, which was the line we had stored.
+		* Note that it only activates this sequence of commands for lines that match the pattern specified at the beginning.
+		* and of course, turning on the **-n** flag suppresses all line output. So the only lines printed are those where the **p** command is fired.
