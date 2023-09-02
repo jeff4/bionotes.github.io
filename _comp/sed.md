@@ -203,11 +203,12 @@ permalink: /sed/
 	* JH's v2. 
  		`gsed -n '/Four/{G;p}' e1-old-DELETE.MD >out.txt`
 		* Required some experimentation but got the **-n** suppression and **p** working. i.e., out.txt only contains a few lines b/c all other lines are not captured by the regex pattern.
+	* Note, a good explanation of the g versus G commands when moving data from hold buffer to pattern space at Grymoire's site in [this section](https://www.grymoire.com/Unix/Sed.html#uh-57).
 
 * **2.8** Join all lines in the input file
 	* PK's example:
 		`gsed ':a; $s_\n_ _g; N; ba'` 
 	* JH's example:
 		`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
-		* Note: uses **underscore _** instead of the usual forward slash **/** delimiter.
+		* Note: uses **underscore _** instead of the usual forward-slash **/** delimiter.
 		* Tested and works
