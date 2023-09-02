@@ -197,3 +197,9 @@ permalink: /sed/
 	* JH's v2. Required some experimentation but got the **-n** suppression and **p** working. i.e., out.txt only contains a few lines b/c all other lines are not captured by the regex pattern.
 		`gsed -n '/Four/{G;p}' e1-old-DELETE.MD >out.txt`
 
+* **2.8** Join all lines in the input file
+	* PK's example:
+		`gsed ':a; $s_\n_ _g; N; ba'` 
+	* JH's example:
+		`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
+		* Tested and works
