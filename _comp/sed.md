@@ -190,8 +190,11 @@ permalink: /sed/
 		* and of course, turning on the **-n** flag suppresses all line output. So the only lines printed are those where the **p** command is fired.
 
 * **2.6** Insert blank line below every line that matches */pattern/*
-	* PK's example which works as advertised. Remember **capital-G** appends a new line \\n to the pattern space and then appends over whatever is in the hold buffer to the pattern space. Since the hold buffer is always empty, this has the effect of adding a newline (aka blank line) at the end of the pattern buffer. So everytime this regex is matched, at the end of the loop it will print the entire line that contained the regex as well as an additional blank \\n at the end of it.
-		`gsed '/regex/G`
+	* PK's example which works as advertised. 
+			`gsed '/regex/G`
+		* Comments: Remember **capital-G** appends a new line \\n to the pattern space and then appends over whatever is in the hold buffer to the pattern space. 
+		* Since the hold buffer is always empty, this has the effect of adding a newline (aka blank line) at the end of the pattern buffer. 
+		* So everytime this regex is matched, at the end of the loop it will print the entire line that contained the regex as well as an additional blank \\n at the end of it.
 	* JH's v1. (1) Prints all lines because **-n** flag is not turned on. (2) For those lines that contain the pattern *Four*, append a \\n newline as well as the (empty) contents of the hold buffer. Resut: Reprints entire input file but has added a blank line below the relevant matching lines in the Fourier section.
 		`gsed '/Four/G' e1-old-DELETE.MD >out.txt`
 	* JH's v2. Required some experimentation but got the **-n** suppression and **p** working. i.e., out.txt only contains a few lines b/c all other lines are not captured by the regex pattern.
