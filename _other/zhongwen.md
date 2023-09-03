@@ -682,6 +682,7 @@ Go to [this page](/ch-food/)
 1. 糟糕 - zāo gāo (oh no!)
 1. 圓珠筆 [圆珠笔] - yuán zhū bǐ (ballpoint pen) 
 1. 丢 - diū (to lose; to misplace)
+1. 丟掉 [丢掉] - diū diào (to throw away; to discard)
 1. 再 - zài (to do again). See also 再見 *zài jiàn* from L20.
 1. 不好意思 - bù hǎo yì si (how embarrassing)
 1. 生產 [生产] - shēng chǎn (to produce, to manufacture)
