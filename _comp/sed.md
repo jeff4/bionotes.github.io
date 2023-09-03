@@ -205,6 +205,7 @@ permalink: /sed/
 		* Required some experimentation but got the **-n** suppression and **p** working. i.e., out.txt only contains a few lines b/c all other lines are not captured by the regex pattern.
 	* Note, a good explanation of the g versus G commands when moving data from hold buffer to pattern space at Grymoire's site in [this section](https://www.grymoire.com/Unix/Sed.html#uh-57).
 
+## 9/03 PK Book
 * **2.8** Join all lines in the input file
 	* PK's example:
 		`gsed ':a; $s_\n_ _g; N; ba'` 
@@ -213,3 +214,4 @@ permalink: /sed/
 		* Note: uses **underscore _** instead of the usual forward-slash **/** delimiter.
 		* Tested and works
 		* label an expression **:a** and can refer to it with the *branch* notation **ba**. 
+
