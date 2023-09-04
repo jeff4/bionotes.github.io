@@ -264,7 +264,12 @@ permalink: /sed/
 	Line 2
 	Line 3
 	Line 4
-* When executing this program for Line 1, 
+* When executing this program for Line 1, sed ignores expressions 1 and 2; 1 because it's just a label and 2 because the substitution is restricted to the last line. (**^** indicates that the *address** should only operate on the last line of the file).
+* The [`N` command](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands): 'Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands.' 
+	* Go to [GNU sed Other Commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) and scroll down to the N section for more options.
+	* In other words,   
+
+https://www.gnu.org/software/sed/manual/sed.html#index-N_002c-and-branching
 
 
 
