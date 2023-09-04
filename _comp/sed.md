@@ -267,7 +267,21 @@ permalink: /sed/
 * When executing this program for Line 1, sed ignores expressions 1 and 2; 1 because it's just a label and 2 because the substitution is restricted to the last line. (**^** indicates that the *address** should only operate on the last line of the file).
 * The [`N` command](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands): 'Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands.' 
 	* Go to [GNU sed Other Commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) and scroll down to the N section for more options.
-	* In other words,   
+	* Within just one execution cycle, after sed ignores e1 and e2 accumulates `Line 1` into the pattern space, strips out the \\n character at the end of Line 1, THEN
+	* The N command adds a newline character to the end of the pattern space and appends the contents of the next line until it hits the file's newline character at which point it stops.
+	* Then sed strips out Line 2's newline character and moves from e3 to finally reach e4 for the first time. 
+	* At this point, the e4 branch moves the program back to the top. Note that we still have not left the first execution cycle left even though we've already processed two lines!
+	* As usual, we ignore e1 and e2 and hit e3 for our next usage of the `N` command. Now `N` adds back in a newline character (that's how the N function works) and then reads in the next line of input which is Line 3. Rinse and repeat.
+	* After all four lines are stored inside the pattern space, the `N` commands executes again and adds a final trailing \\n at the very end.
+	* Then, e4 is hit and the branch command moves us back to e1. 
+	* However, since there are no more lines in the input stream, e2 is finally triggered for the very first time.
+	* In a single shot, the substitution expression replaces every single newline in the pattern space (if the input file is 100k lines long, then 100k \\n characters are eliminated in one shot).
+	* In other words, within a single execution cycle, sed will accumulate every single line into the pattern space.
+* At the end of all that, the pattern space just has one long line, consisting of `Line 1 Line 2 Line 3 Line 4`. When the sed program exits, it automatically prints the contents of the pattern space into the output stream.
+
+
+
+
 
 https://www.gnu.org/software/sed/manual/sed.html#index-N_002c-and-branching
 
