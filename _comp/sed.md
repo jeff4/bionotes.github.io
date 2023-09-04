@@ -228,4 +228,8 @@ permalink: /sed/
 	* JH's v2 example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-test.md >out.txt` 
 		* v1 logic is exactly the same as v2. Only difference is the content in the input file
-		* If you want to learn more about the **t branch** command, look at the index as well as **Example 6.4**. Also refer to the index.
+		* If you want to learn more about the **t branch** command, look at **A.19** in the Apppendix on the t command. Also, the entry for *t command* in the Index lists all the one-liners that use t:
+            1. Example 4.12, p.20
+            1. Example 4.24, p.28
+            1. Example 4.25, p.29
+            1. Example 6.4, p.56
