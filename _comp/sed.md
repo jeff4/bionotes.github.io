@@ -250,6 +250,6 @@ permalink: /sed/
 ### Revisiting PK example 2.8
 * How does this sed program join all the lines in a file into one long line? Let's decompose each statement.
 		`gsed ':a; $s_\n_ _g; N; ba' gopnik-test.md >out.txt` 
-
+* Again, I'm using **underscores _** instead of the usual **forward slash /** to delimit the substitution command. Aka *s_ _ _g* instead of *s/ / /g*.
 
 
