@@ -214,4 +214,6 @@ permalink: /sed/
 		* Note: uses **underscore _** instead of the usual forward-slash **/** delimiter.
 		* Tested and works
 		* label an expression **:a** and can refer to it with the *branch* notation **ba**. 
+	* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
+	* Suggest playing with other examples of branches before coming back to this.
 
