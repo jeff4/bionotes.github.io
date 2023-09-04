@@ -217,3 +217,10 @@ permalink: /sed/
 	* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
 	* Suggest playing with other examples of branches before coming back to this.
 
+* **4.12** Align lines right on a 79-column width
+	* PK's example:
+		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
+	* JH's example:
+		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
+		* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
+
