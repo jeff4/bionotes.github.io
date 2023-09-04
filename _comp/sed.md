@@ -238,4 +238,6 @@ permalink: /sed/
 	`gsed -e :a -e 's_^.\{1,85\}$_ &_' -e ta gopnik-test.md >out.txt` 
 	* v3 is the same as v2 except now the columns are 85 chars wide, not 79 chars.
 
+### Example 4.13 - Center all text in the middle of a 79-column width (p.21)
+
 
