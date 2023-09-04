@@ -217,19 +217,25 @@ permalink: /sed/
 	* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
 	* Suggest playing with other examples of branches before coming back to this.
 
-* **4.12** Align lines right on a 79-column width
-	* PK's example:
-		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
-	* JH's v1 example:
-		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
-		* As usual, using **underscore _** as delimiter rather than the usual grep **forward slash /**
-		* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
-		* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
-	* JH's v2 example:
-		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-test.md >out.txt` 
-		* v1 logic is exactly the same as v2. Only difference is the content in the input file
-		* If you want to learn more about the **t branch** command, look at **A.19** in the Apppendix on the t command. Also, the entry for *t command* in the Index lists all the one-liners that use t:
-            1. Example 4.12, p.20
-            1. Example 4.24, p.28
-            1. Example 4.25, p.29
-            1. Example 6.4, p.56
+### Example 4.12, Align lines right on a 79-column width (p.20)
+
+* PK's original example:
+	`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
+* JH's v1 example:
+	`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
+	* As usual, using **underscore _** as delimiter rather than the usual grep **forward slash /**
+	* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
+	* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
+* JH's v2 example:
+	`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-test.md >out.txt` 
+	* v1 logic is exactly the same as v2. Only difference is the content in the input file
+	* If you want to learn more about the **t branch** command, look at **A.19** in the Apppendix on the t command. Also, the entry for *t command* in the Index lists all the one-liners that use t:
+		1. Example 4.12, p.20
+		1. Example 4.24, p.28
+		1. Example 4.25, p.29
+		1. Example 6.4, p.56
+* JH's v3 example:
+	`gsed -e :a -e 's_^.\{1,85\}$_ &_' -e ta gopnik-test.md >out.txt` 
+
+
+
