@@ -220,8 +220,10 @@ permalink: /sed/
 * **4.12** Align lines right on a 79-column width
 	* PK's example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
-	* JH's example:
+	* JH's v1 example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
 		* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
 		* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
-
+	* JH's v2 example:
+		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-test.md >out.txt` 
+		* v1 logic is exactly the same as v2. Only difference is the content in the input file.
