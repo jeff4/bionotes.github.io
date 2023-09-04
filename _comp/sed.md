@@ -240,6 +240,8 @@ permalink: /sed/
 
 ### Example 4.13 - Center all text in the middle of a 79-column width (p.21)
 
+## 9/04 Reading the GNU sed manual
+
 ### Understanding the cycle to better use b, t, and T commands
 * When sed documentation refers to 'the cycle', they are referring to [the execution cycle](https://www.gnu.org/software/sed/manual/sed.html#Execution-Cycle). i.e., (1) reading character by character from the input stream: (2) stopping the stream when it encounters a \\n newline character; (3) placing everything that was in the input stream up to--but **not including**-- the \\n in the pattern space; (4) Then executing commands upon the content in the pattern space; (5) When the last command is finished executing for this cycle, the contents of the pattern space are automatically printed out to the output stream **unless the -n suppression flag is turned on**; and (6) finally, a new \\n character is added. Thus, the cycle for this one line is complete and sed moves onto the next line in the input file.
 	* Note, in step (4) above, each command can have a distinct address associated iwith it; addresses are a kind of condition code, and a command is only executed if the condition is verified before the command is to be executed.
