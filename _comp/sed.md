@@ -226,4 +226,5 @@ permalink: /sed/
 		* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
 	* JH's v2 example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-test.md >out.txt` 
-		* v1 logic is exactly the same as v2. Only difference is the content in the input file.
+		* v1 logic is exactly the same as v2. Only difference is the content in the input file
+		* If you want to learn more about the **t branch** command, look at the index as well as **Example 6.4**. Also refer to the index.
