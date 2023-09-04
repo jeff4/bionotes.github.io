@@ -222,7 +222,7 @@ permalink: /sed/
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
 	* JH's v1 example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
-		* As usual, using **underscore _** as delimiter rather than the usual grep *forward slash /**
+		* As usual, using **underscore _** as delimiter rather than the usual grep **forward slash /**
 		* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
 		* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
 	* JH's v2 example:
