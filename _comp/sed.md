@@ -246,3 +246,10 @@ permalink: /sed/
 	* Note, in step (4) above, each command can have a distinct address associated iwith it; addresses are a kind of condition code, and a command is only executed if the condition is verified before the command is to be executed.
 	* Unless special commands (like **D**) are used, the pattern space is automatically deleted in between each execution cycle. 
 	* In contrast, the hold buffer will keep its data between cycles unless otherwise directed.
+
+### Revisiting PK example 2.8
+* How does this sed program join all the lines in a file into one long line? Let's decompose each statement.
+		`gsed ':a; $s_\n_ _g; N; ba' gopnik-test.md >out.txt` 
+
+
+
