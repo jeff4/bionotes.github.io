@@ -211,7 +211,7 @@ permalink: /sed/
 		`gsed ':a; $s_\n_ _g; N; ba'` 
 	* JH's example:
 		`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
-		* Note: uses **underscore _** instead of the usual forward-slash **/** delimiter.
+		* Note: uses **underscore _** instead of the usual **forward-slash /** delimiter.
 		* Tested and works
 		* label an expression **:a** and can refer to it with the *branch* notation **ba**. 
 	* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
@@ -222,6 +222,7 @@ permalink: /sed/
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta` 
 	* JH's v1 example:
 		`gsed -e :a -e 's_^.\{1,78\}$_ &_' -e ta gopnik-2023-dalle.md >out.txt` 
+		* As usual, using **underscore _** as delimiter rather than the usual grep *forward slash /**
 		* Tested and works. Need to try again with a text files where everything has less than 75 chars per line.
 		* OK, new version using all input files having less than 75 characters in it already looks cleaner. Works even better than v1.
 	* JH's v2 example:
