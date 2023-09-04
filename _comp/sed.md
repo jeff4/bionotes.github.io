@@ -251,15 +251,20 @@ permalink: /sed/
 * How does this sed program join all the lines in a file into one long line? Let's decompose each statement.
 		`gsed ':a; $s_\n_ _g; N; ba' gopnik-test.md >out.txt` 
 * Again, I'm using **underscores _** instead of the usual **forward slash /** to delimit the substitution command. Aka *s_ _ _g* instead of *s/ / /g*.
-* Next, I'm going to edit the label to avoid confusiong `:a` with the [sed commands](https://www.gnu.org/software/sed/manual/sed.html#Common-Commands) `a` and `a\\` for appending text after a line. 
+* Next, I'm going to edit the label and use `TOP` instead of `a` to avoid confusiong `:a` with the [sed commands](https://www.gnu.org/software/sed/manual/sed.html#Common-Commands) `a` and `a\\` for appending text after a line. 
 		`gsed ':TOP; $s_\n_ _g; N; bTOP' gopnik-test.md >out.txt` 
 * The entire list of commands consists of 4 expressions:
-	1. :TOP
-	1. $s_\n_ _g
-	1. N
-	1. bTOP
+	1. `:TOP`
+	1. `$s_\n_ _g`
+	1. `N`
+	1. `bTOP`
 * Followed by the input file and the output location out.txt.
-
+* Let's assume that input file just has four lines:
+	Line 1
+	Line 2
+	Line 3
+	Line 4
+* When executing this program for Line 1, 
 
 
 
