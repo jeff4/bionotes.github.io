@@ -286,6 +286,7 @@ permalink: /sed/
 	* Tested and works.
 
 ## 9/06
+* Began reading O'Reilly book on sed and awk by Dale Dougherty and Arnold Robbins (2nd edition, 1997). Refer to this as *OR* from now on.
 * Important point about b, t, and T commands. If they are immediately followed by a label, then they GOTO that label. If they are *not* immediately followed by a label, they jump to the end of the script for this execution cycle. See p.127 of O'Reilly [sed & awk, 2nd Edition](https://www.oreilly.com/library/view/sed-awk/1565922255/) from 1997. (Advanced Flow Control Commands section of Chapter 6: Advanced sed Commands.)
 
 
