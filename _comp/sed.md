@@ -265,8 +265,8 @@ permalink: /sed/
 	Line 3
 	Line 4
 * When executing this program for Line 1, sed ignores expressions 1 and 2; 1 because it's just a label and 2 because the substitution is restricted to the last line. (**^** indicates that the *address** should only operate on the last line of the file).
-* The [`N` command](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands): 'Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands.' 
-	* Go to [GNU sed Other Commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) and scroll down to the N section for more options.
+* The [N command](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands): 'Add a newline to the pattern space, then append the next line of input to the pattern space. If there is no more input then sed exits without processing any more commands.' 
+	* Go to [GNU sed Other Commands](https://www.gnu.org/software/sed/manual/sed.html#Other-Commands) and scroll down to the N section for more options. Also, refer to the index and [this section of the GNU docs](https://www.gnu.org/software/sed/manual/sed.html#index-N_002c-and-branching) for more info on the `N` command. 
 	* Within just one execution cycle, after sed ignores e1 and e2 accumulates `Line 1` into the pattern space, strips out the \\n character at the end of Line 1, THEN
 	* The N command adds a newline character to the end of the pattern space and appends the contents of the next line until it hits the file's newline character at which point it stops.
 	* Then sed strips out Line 2's newline character and moves from e3 to finally reach e4 for the first time. 
