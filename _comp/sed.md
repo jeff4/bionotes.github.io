@@ -287,6 +287,7 @@ permalink: /sed/
 	`gsed '/Administration/ {s_Administration_Supervision_; :loop; n; b loop;}' 11-input.txt >out.txt`
 	* Tested and works.
 
-
+## 9/06
+* Important point about b, t, and T commands. If they are immediately followed by a label, then they GOTO that label. If they are *not* immediately followed by a label, they jump to the end of the script for this execution cycle. See p.127 of O'Reilly [sed & awk, 2nd Edition]() from 1997. (Advanced Flow Control Commands section of Chapter 6: Advanced sed Commands.)
 
 
