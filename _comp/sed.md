@@ -280,11 +280,3 @@ permalink: /sed/
 * At the end of all that, the pattern space just has one long line, consisting of `Line 1 Line 2 Line 3 Line 4`. When the sed program exits, it automatically prints the contents of the pattern space into the output stream.
 
 
-
-
-
-https://www.gnu.org/software/sed/manual/sed.html#index-N_002c-and-branching
-
-
-
-
