@@ -279,4 +279,5 @@ permalink: /sed/
 	* In other words, within a single execution cycle, sed will accumulate every single line into the pattern space.
 * At the end of all that, the pattern space just has one long line, consisting of `Line 1 Line 2 Line 3 Line 4`. When the sed program exits, it automatically prints the contents of the pattern space into the output stream.
 
-
+### Some sample scripts from the GNU sed docs
+* [Useful one-liners, exotic examples, emulating standard utilities, etc.](https://www.gnu.org/software/sed/manual/sed.html#Examples)
