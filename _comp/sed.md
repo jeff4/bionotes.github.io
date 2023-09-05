@@ -4,10 +4,8 @@ permalink: /sed/
 ---
 
 ## 7/09/2022
-* Links on [sed (for stream processing)](https://en.wikipedia.org/wiki/Sed) and [awk (for delimited columns by Aho, Weinberger, and Kernighan)](https://en.wikipedia.org/wiki/AWK).
-* (Reviewed two links below on 8/22. Best to use other sed reources b/c these are very basic.)
-	* <del>[Software Testing Help](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.)</del>
-	* <del>[Linux Geeks make use of](https://www.makeuseof.com/tag/sed-awk-learn/)</del>
+* Began reading links abouty **sed** (for stream processing) and **awk** (for delimited columns by Aho, Weinberger, and Kernighan).
+* (Reviewed these [two](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.) [links](https://www.makeuseof.com/tag/sed-awk-learn/) again on 8/22. Best to use other sed reources b/c these are very basic.)
  
 ## 7/11 
 * More links on sed from Hacker News:
