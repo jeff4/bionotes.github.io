@@ -206,7 +206,7 @@ permalink: /sed/
 	* Note, a good explanation of the g versus G commands when moving data from hold buffer to pattern space at Grymoire's site in [this section](https://www.grymoire.com/Unix/Sed.html#uh-57).
 
 ## 9/03 PK Book
-### 2.8 Join all lines in the input file
+### Example 2.8 - Join all lines in the input file
 * PK's example:
 		`gsed ':a; $s_\n_ _g; N; ba'` 
 * JH's example:
