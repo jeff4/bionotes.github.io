@@ -206,16 +206,16 @@ permalink: /sed/
 	* Note, a good explanation of the g versus G commands when moving data from hold buffer to pattern space at Grymoire's site in [this section](https://www.grymoire.com/Unix/Sed.html#uh-57).
 
 ## 9/03 PK Book
-* **2.8** Join all lines in the input file
-	* PK's example:
+### 2.8 Join all lines in the input file
+* PK's example:
 		`gsed ':a; $s_\n_ _g; N; ba'` 
-	* JH's example:
-		`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
-		* Note: uses **underscore _** instead of the usual **forward-slash /** delimiter.
-		* Tested and works
-		* label an expression **:a** and can refer to it with the *branch* notation **ba**. 
-	* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
-	* Suggest playing with other examples of branches before coming back to this.
+* JH's example:
+	`gsed ':a; $s_\n_ _g; N; ba' gopnik-2023-dalle.md >out.txt` 
+	* Note: uses **underscore _** instead of the usual **forward-slash /** delimiter.
+	* Tested and works
+	* label an expression **:a** and can refer to it with the *branch* notation **ba**. 
+* Comments: I don't fully understand syntax and control flow here. Key point is that the `$s_  _   _g` statement only executes *once*, when it encounters the final line of the file as indicated by the **$** symbol.
+* Suggest playing with other examples of branches before coming back to this.
 
 ### Example 4.12 - Align lines right on a 79-column width (p.20)
 
@@ -237,8 +237,6 @@ permalink: /sed/
 * JH's v3 example:
 	`gsed -e :a -e 's_^.\{1,85\}$_ &_' -e ta gopnik-test.md >out.txt` 
 	* v3 is the same as v2 except now the columns are 85 chars wide, not 79 chars.
-
-### Example 4.13 - Center all text in the middle of a 79-column width (p.21)
 
 ## 9/04 Understanding the execution cycle to better use b, t, and T commands
 ### Reading the GNU sed manual
@@ -281,3 +279,14 @@ permalink: /sed/
 
 ### Some sample scripts from the GNU sed docs
 * [Useful one-liners, exotic examples, emulating standard utilities, etc.](https://www.gnu.org/software/sed/manual/sed.html#Examples)
+
+## 9/05
+### 6 Examples for Sed Branching Operation
+* Created test file 11-input.txt per instructions at [this article](https://www.thegeekstuff.com/2009/12/unix-sed-tutorial-6-examples-for-sed-branching-operation/)
+* JH example
+	`gsed '/Administration/ {s_Administration_Supervision_; :loop; n; b loop;}' 11-input.txt >out.txt`
+	* Tested and works.
+
+
+
+
