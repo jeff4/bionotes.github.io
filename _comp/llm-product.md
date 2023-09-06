@@ -198,3 +198,6 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 * created atljeffh account at HeyGen. Created jeffh@sloan.mit.edu account at Yepic.AI and added credit card. Yepic website is a bit buggy.
 * successfully generated a video at HeyGen.
 * Signed up with atljeffh at Runway ML. Those tools are more generative, less focused on the video creation.
+
+## 06 September 2023=
+* Cleaned out all old accounts. Synthesia is clear winner over yepic.ai. Only downside is that they only have 1 doctor. :(
