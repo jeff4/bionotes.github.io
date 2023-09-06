@@ -288,5 +288,6 @@ permalink: /sed/
 ## 9/06
 * Began reading O'Reilly book on sed and awk by Dale Dougherty and Arnold Robbins (2nd edition, 1997). Refer to this as *OR* from now on.
 * Important point about b, t, and T commands. If they are immediately followed by a label, then they GOTO that label. If they are *not* immediately followed by a label, they jump to the end of the script for this execution cycle. See p.127 of O'Reilly [sed & awk, 2nd Edition](https://www.oreilly.com/library/view/sed-awk/1565922255/) from 1997. (Advanced Flow Control Commands section of Chapter 6: Advanced sed Commands.)
-
+* Played with using `-f filename` for more complex sed scripts. Next step is to reorganize input and output files into a single clean directory.
+* Also on advice of OR book, experimented with [ed text editor](https://en.wikipedia.org/wiki/Ed_(text_editor))
 
