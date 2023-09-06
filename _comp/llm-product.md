@@ -185,3 +185,16 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 	1. HeyGen: HeyGen is an AI video generation tool that facilitates the conversion of text into high-quality videos. The tool boasts an impressive collection of over 80 talking human avatars complete with authentic voices and perfect text lip-syncing. You may also create custom avatars through several pricing plans. Answer from [vaslou.com](https://www.vaslou.com/best-ai-video-generators-text-to-video) 
 	1. Kapwing's Text to Video AI: This tool can transform documents, essays, scripts, and blog posts into short, compelling video summaries with AI. Afterward, you can edit your AI-generated video directly in your browser with Kapwing's video editor. Trim and cut your video, add an AI voice over, apply filters and effects, or even translate it to over 70+ available languages. [Kapwing.com](https://www.kapwing.com/ai/text-to-video)
 * Each of these tools offers unique features and capabilities, so the best choice will depend on your specific needs and preferences. For instance, Synthesia IO might be the best choice if you need a wide range of languages and avatar options, while Kapwing's Text to Video AI might be more suitable if you're looking for a tool that also provides comprehensive video editing capabilities.
+
+## 05 September 2023
+### Video research
+* Sythesia.io. $30/month, no free trial. ($270/year if paid upfront)
+* Deepbrain.io. created acct with atljeffh@gmail.com before being able to see pricing page
+	* $30/month for every 10 minutes per month. i.e., $60, $120, $180 per month for 20, 40, 60 minutes, respectively.
+* HeyGen.com seems to have a free credit program with 1 minute video creation. But costs $29/month just like with the others. 
+* www.yepic.ai -- has a 3-day free trial. After that, it's £29 per user per month when billed monthly. Started free trial.
+
+### summary
+* created atljeffh account at HeyGen. Created jeffh@sloan.mit.edu account at Yepic.AI and added credit card. Yepic website is a bit buggy.
+* successfully generated a video at HeyGen.
+* Signed up with atljeffh at Runway ML. Those tools are more generative, less focused on the video creation.
