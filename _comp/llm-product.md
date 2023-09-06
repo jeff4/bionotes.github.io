@@ -1,12 +1,13 @@
 ---
 title: LLM Product Notes
 permalink: /llm-product/
+sitemap: false
 ---
 
 ## Products to use
 * ChatGPT
 * BingChat
-* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on 12 Apple 2023
+* From this [HN thread](https://news.ycombinator.com/item?id=35545019), discovered [phind.com](www.phind.com) on 12 April 2023
 
 ### 2023 Log
 
@@ -175,7 +176,7 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 ## 31 August 2023
  * Prompt: Please recommend one or a combination of tools that accepts as input a text transcript and outputs a video of a human character speaking this text in an appealing way
 
-### phind.com answer 1
+### phind.com
 * Based on GPT-4 Model
 * Based on the search results, there are several tools that can convert text transcripts into videos with human-like characters speaking the text. These tools use advanced artificial intelligence (AI) technologies to generate realistic speech and movements. Here are some of the most recommended tools:
 	1. Synthesia IO: Synthesia is an AI-powered video creation platform that can generate realistic talking head avatars to deliver messages in multiple languages. You can create custom talking head videos by uploading a script and selecting an avatar. The platform will then animate the avatar to speak the script, allowing you to create high-quality video content without needing a professional actor or videographer. Additionally, Synthesia also offers the ability to create personalized videos using a digital twin of a natural person, adding an extra layer of authenticity to your content. [Synthesia.io](https://www.synthesia.io/tools/digital-human) and [vaslou.com](https://www.vaslou.com/ai-talking-head-generator)
