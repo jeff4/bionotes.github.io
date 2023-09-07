@@ -193,11 +193,15 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 	* $30/month for every 10 minutes per month. i.e., $60, $120, $180 per month for 20, 40, 60 minutes, respectively.
 * HeyGen.com seems to have a free credit program with 1 minute video creation. But costs $29/month just like with the others. 
 * www.yepic.ai -- has a 3-day free trial. After that, it's £29 per user per month when billed monthly. Started free trial.
-
 ### summary
 * created atljeffh account at HeyGen. Created jeffh@sloan.mit.edu account at Yepic.AI and added credit card. Yepic website is a bit buggy.
 * successfully generated a video at HeyGen.
 * Signed up with atljeffh at Runway ML. Those tools are more generative, less focused on the video creation.
 
-## 06 September 2023=
+## 06 September 2023
 * Cleaned out all old accounts. Synthesia is clear winner over yepic.ai. Only downside is that they only have 1 doctor. :(
+* new option: [Rephrase.ai](https://www.rephrase.ai/). $25 per month 
+
+## 07 September 2023
+* Next steps
+* find a good medical background
