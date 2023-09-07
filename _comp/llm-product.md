@@ -202,6 +202,6 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 * Cleaned out all old accounts. Synthesia is clear winner over yepic.ai. Only downside is that they only have 1 doctor. :(
 * new option: [Rephrase.ai](https://www.rephrase.ai/). $25 per month 
 
-## 07 September 2023
+## 07 September 20233
 * Next steps
 * find a good medical background
