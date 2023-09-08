@@ -301,3 +301,9 @@ permalink: /sed/
 ## 9/07
 * Reorganized filesystems. This command now works `sed -n -f ./scripts/s1 e1-test-input.md >out.txt` and invoke cds = `../sed/` directory and  cdss = `../sed/scripts/` subdirectory which will store sed scripts like s1. Remember to `chmod 777`!
 
+### Addressing Globally Defined (OR p.59)
+* A sed command can specify 0, 1, or 2 addresses. An address can be a regular expression, a line number, or a line number addressing symbol (e.g., `$` means last line in the input stream).
+	1. If no address is specified, then the command is univerally applied to every line, sequentially. 
+	1. If there is only *one* address, then the command is only applied to any line matching that address.
+	1. If two comma-separated addresses are specified, then the command is performed on the first line matching the address and then all succeeding lines up to and *including* the line matching the second address. **aka this is a Range, formed by two address separated by 1 comma.**
+	1. If an address is followed by an **exclamation mark `!`**, then the command is applied to all lines that do *not* match that address.
