@@ -291,9 +291,13 @@ permalink: /sed/
 * Played with using `-f filename` for more complex sed scripts. Next step is to reorganize input and output files into a single clean directory.
 * Also on advice of OR book, experimented with [ed text editor](https://en.wikipedia.org/wiki/Ed_(text_editor))
 * Next steps 
-	1. Move all input files into `~/Dropbox/input/`
+	1. Move all input files into consolidated new `sed` directory
 	1. Begin building *.sh files inside that directory
 	1. Test these *.sh files to collect input and output text files
 	1. continue reading OR Chapter 4, esp. starting from p.58
 	1. working sed script `s1` is located inside `2b BioNotes/_history_socialsciences/scripts/`
 	1. See Warp for `gsed -f *scriptfile*` command.
+
+## 9/07
+* Reorganized filesystems. This command now works `sed -n -f ./scripts/s1 e1-test-input.md >out.txt` and invoke cds = `../sed/` directory and  cdss = `../sed/scripts/` subdirectory which will store sed scripts like s1. Remember to `chmod 777`!
+
