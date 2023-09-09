@@ -532,3 +532,7 @@ sitemap: false
 * ['Hugging Face raises $235M from investors, including Salesforce and Nvidia'](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/) Series D values HF at $4.5B.
 * ['OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5'](https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/)
 * ['Early Days of AI + Hype Cycle](https://blog.eladgil.com/p/early-days-of-ai) from Elad Gil.
+
+## 08 September 2023
+* Author swyx wrote a few months ago about [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer). [HN thread](https://news.ycombinator.com/item?id=36538423) and [conference in SF](https://www.ai.engineer/summit)	
+
