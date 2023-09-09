@@ -307,3 +307,10 @@ permalink: /sed/
 	1. If there is only *one* address, then the command is only applied to any line matching that address.
 	1. If two comma-separated addresses are specified, then the command is performed on the first line matching the address and then all succeeding lines up to and *including* the line matching the second address. **aka this is a Range, formed by two address separated by 1 comma.**
 	1. If an address is followed by an **exclamation mark `!`**, then the command is applied to all lines that do *not* match that address.
+
+## 9/09
+* Some discoveries implementing the `-f` script version of PK Example 4.12.
+	* First, `-e` might not work to delineate different expressions. Just use the semicolon.
+	* I guess each substitution statement `s/foo/bar/p` does **not** need to be wrapped in single quotes `'`. That will also cause an error.
+	* See `/sed/scripts/s2`. This command works when executed in the `/sed` directory: `sed -f ./scripts/s2 gopnik-test.md >out.txt`   
+
