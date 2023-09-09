@@ -535,4 +535,4 @@ sitemap: false
 
 ## 08 September 2023
 * Author swyx wrote a few months ago about [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer). [HN thread](https://news.ycombinator.com/item?id=36538423) and [conference in SF](https://www.ai.engineer/summit)	
-
+* From Benedict Evans newsletter in late June / early July, found this [McCann WorldGroup video](https://www.campaignasia.com/article/mccann-worldgroup-ceo-daryl-lee-creative-shouldnt-cede-attribution-and-measurem/491378) about how McCann helped Bimbo Bakery--the largest provider of hamburger and hot dog buns in Mexico--use generative AI to create custom logo/branding/signage for 42,000 small vendors of hamburgers and hot dogs. 
