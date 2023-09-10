@@ -1,6 +1,7 @@
 ---
 title: Comp Notes
 permalink: /comp-notes/
+sitemap: false
 ---
 
 ## 2021 Log
@@ -240,6 +241,7 @@ permalink: /comp-notes/
 ## 8/24
 * [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referencing a Medium article.
 
-## 9/09 - ssgs again. 
+## 9/09 - Back to Eleventy 
 * Getting started with Netlify [with these instructions](https://docs.netlify.com/get-started/)
-* Node.js needs to be at least version 14.15.0 or later. I'm currently on Node v20.6.0
+* Node.js needs to be at least version 14.15.0 or later. I'm currently on Node v20.6.0, npm v10.1.0
+* Node, npm, Netlify CLI are all installed and up to date. Now to choose an Eleventy Starter Kit. 
