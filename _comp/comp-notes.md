@@ -263,5 +263,28 @@ sitemap: false
 * Go to Hover and add CNAME per [this Netlify doc](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-a-subdomain). with Hostname = `www` and TargetName = `jeffhwang.netlify.app`.
 * OK after a bunch of SSH and email privacy work, got git working locally on cmdline and able to push/pull to GitHub.
 * Note: content of header and other items are stored in `twelvety/src/_includes/`
+* Success! jeffhwang.me now points to jeffhwang.netlify.app
 
+## 9/10
+### next steps
+* draw diagram explaining tree structure of Twelvety
+* test uploading photos as assets
 
+### Tree structure of Twelvety
+Command from proj-1 directory: `tree -d ./twelvety`
+./twelvety
+├── src
+│   ├── _assets
+│   │   ├── images
+│   │   └── styles
+│   ├── _data
+│   ├── _includes
+│   └── _layouts
+└── utils
+    ├── shortcodes
+    └── transforms
+
+### Comments on tree structure
+* Tooling is inside the `utils` subdirectory. No need to make any changes here
+* Note that `.twelvety.js`, `.eleventy.js`, `package.json` are files located at the root
+* I presume that I add source images to `/src/_assets/images`. And if I want to use different CSS, I add those to `/src/_assets/styles`
