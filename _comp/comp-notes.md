@@ -261,6 +261,7 @@ sitemap: false
 
 ### Configure DNS
 * Go to Hover and add CNAME per [this Netlify doc](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-a-subdomain). with Hostname = `www` and TargetName = `jeffhwang.netlify.app`.
-
+* OK after a bunch of SSH and email privacy work, got git working locally on cmdline and able to push/pull to GitHub.
+* Note: content of header and other items are stored in `twelvety/src/_includes/`
 
 
