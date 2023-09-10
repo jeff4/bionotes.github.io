@@ -273,7 +273,7 @@ sitemap: false
 ### Tree structure of Twelvety
 Command from proj-1 directory: `tree -d ./twelvety`
 
-		./twelvety
+		twelvety
 		├── src
 		│   ├── _assets
 		│   │   ├── images
