@@ -245,7 +245,7 @@ sitemap: false
 * Got started with Netlify [using these instructions](https://docs.netlify.com/get-started/)
 * Node, npm, Netlify CLI are all installed and up to date. Now to choose an Eleventy Starter Kit. 
 * Top candidate starter kits:
-	* [Twelvety by Greg Ives](https://github.com/gregives/twelvety) has nice photos and has responsive picture shortcodes with AVIF and WebP support. Last updated June 2021, 140 commits, 291 stars. This and 11tyOne by Phil Hawksworth are the leaders so far.
+	* [Twelvety by Greg Ives](https://github.com/gregives/twelvety) has nice photos and has responsive picture shortcodes with AVIF and WebP support. Last updated June 2021, 140 commits, 291 stars. This and 11tyOne by Phil Hawksworth are the leaders so far. [Demo site](https://twelvety.netlify.app).
 	* [EleventyOne by Phil Hawksworth](https://github.com/philhawksworth/eleventyone) looks small, fast, and tested. Only challenge is that it was created Jan 2021 and hasn't had much updates since then? 462 stars, 112 forks. 
 	* [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) is quite good, has 330 stars, 162 forks, last commit was in 2022.
 	* [Eleventy-Starter-Boilerplate](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) by [CreativeDesignsGuru](https://creativedesignsguru.com). Has 256 stars, 53 forks, last commit was in 2021. They offer $29 premium themes as well. Detailed instructions on running locally and deploying via Netlify. [Demo site here](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/)
