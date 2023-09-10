@@ -241,16 +241,23 @@ sitemap: false
 ## 8/24
 * [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referencing a Medium article.
 
-## 9/09 - Back to Eleventy, first deploy with Netlify 
+## 9/09 - Back to Eleventy. First deploy with Netlify 
 * Got started with Netlify [using these instructions](https://docs.netlify.com/get-started/)
 * Node, npm, Netlify CLI are all installed and up to date. Now to choose an Eleventy Starter Kit. 
-	* [Twenty Ninety](https://www.seancdavis.com/twenty-ninety) by Sean Davis
-	* [Pack11ty](https://pack11ty.dev)	
+* Top candidate starter kits:
 	* [EleventyOne by Phil Hawksworth](https://github.com/philhawksworth/eleventyone) looks small, fast, and tested. Only challenge is that it was created Jan 2021 and hasn't had much updates since then? 462 stars, 112 forks. 
-	* [11TA by Shane Robinson](https://github.com/11ta/11ta-template). [Demo site with forest](https://11ta.netlify.app) indicates that Shane was inspired by [EleventyOne](https://github.com/philhawksworth/eleventyone) and [jet by Marc Amos](https://github.com/marcamos/jet)
-	* [Neat Starter by Surjith S M](https://github.com/surjithctly/neat-starter) and [demo site](https://neat-starter.netlify.app/blog/). Barebones and created in 2020, but has 289 stars. 
 	* [Twelvety by Greg Ives](https://github.com/gregives/twelvety) has nice photos and has responsive picture shortcodes with AVIF and WebP support. Last updated June 2021, 140 commits, 291 stars. This and 11tyOne by Phil Hawksworth are the leaders so far.
-	* [Smix by Jane Doe](https://smix.netlify.app), aka by [Ru Singh](https://rusingh.com). [github repo](https://github.com/MaybeThisIsRu/smix-eleventy-starter) has 110 stars. I like the rather stark black background and simple text.
-	* [Eleventy Plus Vite by Matthias Sott](https://github.com/matthiasott/eleventy-plus-vite) and [demo site](https://eleventyplusvite.netlify.app) has 151 stars. 
 	* [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) is quite good, has 330 stars, 162 forks, last commit was in 2022.
 	* [Eleventy-Starter-Boilerplate](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) by [CreativeDesignsGuru](https://creativedesignsguru.com). Has 256 stars, 53 forks, last commit was in 2021. They offer $29 premium themes as well. Detailed instructions on running locally and deploying via Netlify. [Demo site here](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/)
+	* [Neat Starter by Surjith S M](https://github.com/surjithctly/neat-starter) and [demo site](https://neat-starter.netlify.app/blog/). Barebones and created in 2020, but has 289 stars. 
+* Other options:
+	* [Smix by Jane Doe](https://smix.netlify.app), aka by [Ru Singh](https://rusingh.com). [github repo](https://github.com/MaybeThisIsRu/smix-eleventy-starter) has 110 stars. I like the rather stark black background and simple text.
+	* [Eleventy Plus Vite by Matthias Sott](https://github.com/matthiasott/eleventy-plus-vite) and [demo site](https://eleventyplusvite.netlify.app) has 151 stars. 
+	* [Pack11ty](https://pack11ty.dev) has 184 stars
+	* [11TA by Shane Robinson](https://github.com/11ta/11ta-template). [Demo site with forest](https://11ta.netlify.app) indicates that Shane was inspired by [EleventyOne](https://github.com/philhawksworth/eleventyone) and [jet by Marc Amos](https://github.com/marcamos/jet). 11TA has 111 stars.
+	* [Twenty Ninety](https://www.seancdavis.com/twenty-ninety) by Sean Davis
+
+
+
+
+
