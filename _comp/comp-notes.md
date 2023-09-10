@@ -273,7 +273,7 @@ sitemap: false
 ### Tree structure of Twelvety
 Command from proj-1 directory: `tree -d ./twelvety`
 
-		`./twelvety
+		./twelvety
 		├── src
 		│   ├── _assets
 		│   │   ├── images
@@ -283,10 +283,13 @@ Command from proj-1 directory: `tree -d ./twelvety`
 		│   └── _layouts
 		└── utils
 		    ├── shortcodes
-		    └── transforms`
+		    └── transforms
 
 ### Comments on tree structure
 * Tooling is inside the `utils` subdirectory. No need to make any changes here
 * Note that `.twelvety.js`, `.eleventy.js`, `package.json` are files located at the root
 * I presume that I add source images to `/src/_assets/images`. And if I want to use different CSS, I add those to `/src/_assets/styles`
+
+
+
 
