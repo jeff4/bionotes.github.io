@@ -245,3 +245,9 @@ sitemap: false
 * Getting started with Netlify [with these instructions](https://docs.netlify.com/get-started/)
 * Node.js needs to be at least version 14.15.0 or later. I'm currently on Node v20.6.0, npm v10.1.0
 * Node, npm, Netlify CLI are all installed and up to date. Now to choose an Eleventy Starter Kit. 
+	* [Twenty Ninety](https://www.seancdavis.com/twenty-ninety) by Sean Davis
+	* [Pack11ty](https://pack11ty.dev)	
+	* [EleventyOne by Phil Hawksworth](https://github.com/philhawksworth/eleventyone) looks small, fast, and tested. Only challenge is that it was created Jan 2021 and hasn't had much updates since then? 462 stars, 112 forks. 
+	* [11TA by Shane Robinson](https://github.com/11ta/11ta-template). [Demo site with forest](https://11ta.netlify.app) indicates that Shane was inspired by [EleventyOne](https://github.com/philhawksworth/eleventyone) and [jet by Marc Amos](https://github.com/marcamos/jet)
+	* [Neat Starter by Surjith S M](https://github.com/surjithctly/neat-starter) and [demo site](https://neat-starter.netlify.app/blog/). Barebones and created in 2020, but has 289 stars. 
+
