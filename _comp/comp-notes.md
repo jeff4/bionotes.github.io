@@ -240,26 +240,6 @@ permalink: /comp-notes/
 ## 8/24
 * [HN thread on icons](https://news.ycombinator.com/item?id=37245530) referencing a Medium article.
 
-## 8/26 sed - Peter Krumins' Sed One-Liners
-* **2.6** Insert a blank line below every line that matches a */pattern/*. 
-	* PK's example:
-		`gsed -r '/pattern/G'`
-	* Jeff's example from hist-ss NYer article:
-		`gsed -r '/Constable/G' gopnik-2023-dalle.md >out.txt`
-	* Note that the explanation for the **G** flag comes from **Example 2.1**.
-* **2.9** Duplicate all lines
-	* PK's example:
-		`gsed -r 'p'`
-	* Jeff's example from hist-ss NYer article:
-		`gsed -r 'p' gopnik-2023-dalle.md >out.txt`
-* **3.1** Number each line of a file
-	* PK's example:
-		`gsed = filename | sed 'N;s_\n_\t_'` where _ is used as delimiter instead of usual /.
-	* Jeff's example from hist-ss NYer article:
-		`gsed = gopnik-2023-dalle.md | gsed 'N;s_\n_\t_' >out.txt`
-	* *Note: This example calls sed twice with a pipe. Instance 1 loads the file using the **=** operator. And instance two searches for new lines and replaces them with tab characters.* 
-* **3.4** Count number of lines in file *aka* simulate 'wc -l'
-	* PK's example:
-		`gsed -n '$='`
-	* Jeff's example from hist-ss NYer article:
-		`gsed -n '$=' gopnik-2023-dalle.md >out.txt`
+## 9/09 - ssgs again. 
+* Getting started with Netlify [with these instructions](https://docs.netlify.com/get-started/)
+* Node.js needs to be at least version 14.15.0 or later. I'm currently on Node v20.6.0
