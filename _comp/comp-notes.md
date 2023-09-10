@@ -260,7 +260,7 @@ sitemap: false
 	* [Twenty Ninety](https://www.seancdavis.com/twenty-ninety) by Sean Davis
 
 ### Configure DNS
-* Go to Hover and add CNAME per [this Netlify doc](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-a-subdomain)
+* Go to Hover and add CNAME per [this Netlify doc](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-a-subdomain). with Hostname = `www` and TargetName = `jeffhwang.netlify.app`.
 
 
 
