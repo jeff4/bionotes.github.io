@@ -46,7 +46,8 @@ permalink: /vim/
 
 ## 9/16/2023
 
-* Got back into [vim-plug](https://github.com/junegunn/vim-plug) because I want to have proper *.astro syntax highlighting. Referencing the [vim-astro plugin](https://github.com/wuelnerdotexe/vim-astro). Adapted instructions from this [Linux vim-plug guide](https://www.linuxfordevices.com/tutorials/linux/vim-plug-install-plugins). Main steps: (1) add a new line to `.vimrc`; (2) start new terminal window; and (3) Open a vim file and type `:PlugInstall`.
+* Got back into [vim-plug](https://github.com/junegunn/vim-plug) because I want to have proper \*.astro syntax highlighting. Referencing the [vim-astro plugin](https://github.com/wuelnerdotexe/vim-astro). Adapted instructions from this [Linux vim-plug guide](https://www.linuxfordevices.com/tutorials/linux/vim-plug-install-plugins). Main steps: (1) add a new line to `.vimrc`; (2) start new terminal window; and (3) Open a vim file and type `:PlugInstall`.
 * I also edited my `.gitignore` file within `/proj-4/a2-astro` so that temporary vim files like `*.swp` and `*.swo` are not tracked/pushed by git, per [these instructions](https://stackoverflow.com/questions/4824188/git-ignore-vim-temporary-files#comment28311078_4824199)
+	* Should read more about how [.gitignore works](https://git-scm.com/docs/gitignore)
 * Note. I currently am able to indent pretty effectively with the `ctrl-v`, select how many rows with `j`, `shift-I`, type text or tabs to apply to all lines sequence. However, deletion (aka outdenting) doesn't seem to work to well. Reread section 5 [Blockwise operators](https://vimdoc.sourceforge.net/htmldoc/visual.html#blockwise-operators) to see if I can fix this.
 	* Another potential [resource](https://vim.fandom.com/wiki/Shifting_blocks_visually)
