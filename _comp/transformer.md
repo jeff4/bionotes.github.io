@@ -1,6 +1,6 @@
 ---
 title: Transformer notes
-permalink: /transformer-1/
+permalink: /transformer/
 ---
 
 
