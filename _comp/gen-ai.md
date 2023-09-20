@@ -245,3 +245,8 @@ permalink: /gen-ai/
 ## 26 August 2023
 * Meta released two large models recently, one for code, one for translations in the past week.
 
+## 20 September 2023
+* Some Llama 2 links:
+	* 7/27 [article by Lucas Pauker](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) Some explanations on how to fine-tune a model and performance of pre-training vs fine-tuning.
+		* Comment by [Jeremy Howard}(https://news.ycombinator.com/item?id=36900969) and progress of what GPT and BERT did in terms of simplifying fine-tuning. From this [HN thread](https://news.ycombinator.com/item?id=36896710)
+	* 8/01 [article by Ollama](https://ollama.ai/blog/run-llama2-uncensored-locally) about how an uncensored locally running version of Llama-2 compares. [HN thread](https://news.ycombinator.com/item?id=36973584) with relevant [top comment](https://news.ycombinator.com/item?id=36975031)
