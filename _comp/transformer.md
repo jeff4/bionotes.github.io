@@ -58,3 +58,25 @@ sitemap: false
 
 ### Overview of fine-tuning
 * Single slide summarizing the entire production process. Foundation model construction, self-supervised trainingin, then the fine-tuning at the end. 
+
+
+
+### List of chatbots available
+* ChatGPT
+* Google BARD
+* Microsoft Bing Chat
+* Phind.com - for developers
+* Pi by Inflection AI
+* Sizzle (math) see [TC article](https://techcrunch.com/2023/09/20/former-meta-ai-vp-debuts-sizzle-an-ai-powered-learning-app-and-chatbot/)
+* Claude by Anthropic
+* Poe by Quora
+* ['Chinese users can finally try their homegrown ChatGPT equivalents'](https://techcrunch.com/2023/08/31/chinese-users-can-finally-try-their-homegrown-chatgpt-equivalents/)
+	* Ernie Bot by Baidu
+	* Doubao by ByteDance
+	* Baichuan by the founder of Sougou
+
+
+
+
+
+
