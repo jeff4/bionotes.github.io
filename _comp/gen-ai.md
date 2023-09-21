@@ -251,3 +251,4 @@ permalink: /gen-ai/
 		* Comment by [Jeremy Howard}(https://news.ycombinator.com/item?id=36900969) and progress of what GPT and BERT did in terms of simplifying fine-tuning. From this [HN thread](https://news.ycombinator.com/item?id=36896710)
 	* 8/01 [article by Ollama](https://ollama.ai/blog/run-llama2-uncensored-locally) about how an uncensored locally running version of Llama-2 compares. [HN thread](https://news.ycombinator.com/item?id=36973584) with relevant [top comment](https://news.ycombinator.com/item?id=36975031)
 * Interesting Simon Willison [blog about using Claude to summarize Hacker News](https://til.simonwillison.net/llms/claude-hacker-news-themes)
+* Ongoing comparison of best GPU CLouds for Nvidia A100 (2020 vintage) vs. H100 (2022). [Blog post](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers) and [HN thread](https://news.ycombinator.com/item?id=36333321)
