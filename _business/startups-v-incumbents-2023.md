@@ -1,6 +1,6 @@
 ---
 title: Startups v Incumbents 2023 
-permalink: /startups-v-incumbents-2023a/
+permalink: /startups-v-incumbents-2023/
 sitemap: false
 ---
 
