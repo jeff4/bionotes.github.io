@@ -35,9 +35,22 @@ sitemap: false
 		* This 7/17/2023 [substack rant](https://zzbbyy.substack.com/p/why-you-need-rag-not-finetuning)
 	* [HN comment](https://news.ycombinator.com/item?id=37091586): You can easily train Llama 2-7B on an RTX 3060 (12GB VRAM) for qlora / 4bit / GPTQ finetuning.
 
+
+### Some Llama 2 links from comp-notes Sept 20
+* 7/27 [article by Lucas Pauker](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) Some explanations on how to fine-tune a model and performance of pre-training vs fine-tuning.
+	* Comment by [Jeremy Howard}(https://news.ycombinator.com/item?id=36900969) and progress of what GPT and BERT did in terms of simplifying fine-tuning. From this [HN thread](https://news.ycombinator.com/item?id=36896710)
+* 8/01 [article by Ollama](https://ollama.ai/blog/run-llama2-uncensored-locally) about how an uncensored locally running version of Llama-2 compares. [HN thread](https://news.ycombinator.com/item?id=36973584) with relevant [top comment](https://news.ycombinator.com/item?id=36975031)
+
+
+
+
+
 ### Glossary
 * [PEFT](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) = Parameter-Efficient Fine-Tuning.
 * [RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) = Retrieval-Augmented Generation. From IBM: 'RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.'
+
+
+
 
 ### Fine-Tuning links
 * 7/05/2023 ['Fine tuning is for form, not facts'](https://www.anyscale.com/blog/fine-tuning-is-for-form-not-facts) by Anyscale.
