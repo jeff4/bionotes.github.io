@@ -6,7 +6,7 @@ permalink: /git-notes/
 ## 2023 Log
 
 ## 9/14/2023
-* First time I created a git-aware local directory and then pushed it to github. Not optimal, but I used the web UI to create a new repo at github.com.
+* Created a git-aware local directory and then pushed it to github. Not optimal, but I used the web UI to create a new repo at github.com.
 * Next, I used my terminal to navigate to the local a2-astro directory. I followed [these instructions](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git):
 	* `git remote add origin git@github.com:jeff4/a2-astro.git`
 	* Then I verified that fetch/pull has the correct URLs (aka authenticated by SSH rather than HTTPS) with the command `git remote -v`
@@ -14,6 +14,7 @@ permalink: /git-notes/
 * However, I got the error that 'fatal: The current branch master has no upstream branch. To push the current branch and set the remote as upstream, use `git push --set-upstream origin master`"
 * this worked! However, now I have two branches: `main` and `master`. So I had to set `master` as the default branch and delete the old empty `main` branch. Note that `main` branch was created when I used the web ui to create the GH.com repo originally.  
 * OK, deployed successfully to Netlify, and site is live!
+
 
 
 ## 9/22 Friday
