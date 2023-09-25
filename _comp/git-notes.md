@@ -50,3 +50,21 @@ permalink: /git-notes/
 * [Git Branch and its Operations](https://digitalvarys.com/git-branch-and-its-operations/). not the best article
 * [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches)
 	* Associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
+
+
+### Git-Tower articles from circa 2015
+1. [An introduction to Branches](https://www.git-tower.com/help/videos/learning-git-with-tower/introduction-branches) by git-tower.
+	* Associated [video](https://www.youtube.com/watch?v=Ao1beK2rEIY)
+	* HEAD and 'checked out' branch are synonymous.
+	* There can only be one active or 'checked out' branch at a single time.
+	* The checkout command moves the HEAD pointer to a different branch. It makes the other branch the currently active branch now.
+1. Next article [Creating and Checking Out Branches](https://www.git-tower.com/help/videos/learning-git-with-tower/creating-branches)
+	* [Associated video](https://www.youtube.com/watch?v=8jLJHCcu7r4)
+	* video uses git-tower gui.
+
+
+
+
+
+
+
