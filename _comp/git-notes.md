@@ -61,10 +61,10 @@ permalink: /git-notes/
 1. Next article [Creating and Checking Out Branches](https://www.git-tower.com/help/videos/learning-git-with-tower/creating-branches)
 	* [Associated video](https://www.youtube.com/watch?v=8jLJHCcu7r4)
 	* video uses git-tower gui.
-
-
-
-
-
-
+1. [Merging Branches](https://www.git-tower.com/help/videos/learning-git-with-tower/merging-branches)
+	* [Associated video](https://www.youtube.com/watch?v=hGmPhhdBAHE)
+	* Note: when merging branches, remember that you first have to change the HEAD to the *receiving branch* (aka where the new commits will merge *into*). Merges always have to be received, they are never pushed from the originating branch. So always checkout the receiving branch, probably 'main' or 'master'
+1. [Dealing with Merge Conflicts](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
+1. [Undoing Things](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
+	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." 
 
