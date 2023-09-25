@@ -29,16 +29,11 @@ permalink: /git-notes/
 
 ## 9/23 Saturday
 * succeeded in transferring domains to Netlify and provisioning ssl certs for domain names.
-* Continuing with Astro tutorial
-* Next, going to start using variables per [Unit 3.2](https://docs.astro.build/en/tutorial/2-pages/3/)
-* Completed first JS variables in both code fence area and main template area. Skipped styling pages individually in Unit 2.4. Jumped directly to site-wide styling in [Unit 2.5](https://docs.astro.build/en/tutorial/2-pages/5/)
 
 
 ## 9/25 Monday
-* Decided to go with Astro. After verifying that I'm running an `npm --version` higher than 7.0, i used `npm create astro@latest -- --template satnaing/astropaper` (double double dash required per [Running Locally instructions](https://github.com/satnaing/astro-paper#-running-locally)
 * In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
 * Edited `.gitignore` file to ignore vim temp files.
-* Next, tried to edit the social media links in the footer. Went to inspect `/src/components/Socials.astro`. And I see it's importing from `@config` which is a TypeScript file located at: `/src/config.ts`. You can toggle the list of socials by setting values to false for each desired social.
 * Followed steps from 9/22 to make sure local and remote branches synch via git. Actually, here are updated instructions. It's four steps:    
 	1. `git remote add origin git@github.com:jeff4/a3.git` This uses SSH to specify what "origin" refers to...in this case, the repo that lives at github.
 	1. Now, you have to go through usual sequence of: (a) `git add .`; (b) `git commit -m "this is my first commit"`. *Then* you have staged changes on local that allows steps 3 and 4.
