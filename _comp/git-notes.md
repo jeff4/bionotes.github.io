@@ -42,4 +42,11 @@ permalink: /git-notes/
 * In the future, I will rewrite the instructions to default naming the origin branch **main** rather than 'master'. 
 
 ### Instructions
-* [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) by Deborah Kurata at Free Code Camp
+* [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) by Deborah Kurata at Free Code Camp. Earlier article from Feb 2023 as a [gentle introduction to git branching](https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/) by the same author
+* 
+
+### Conceptual introduction to branching in Git (Feb 2023)
+* [Link](https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/) by Deborah Kurata
+* [Git Branch and its Operations](https://digitalvarys.com/git-branch-and-its-operations/). not the best article
+* [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches)
+	* Associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
