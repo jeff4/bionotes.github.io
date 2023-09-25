@@ -41,12 +41,18 @@ permalink: /git-notes/
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
 * In the future, I will rewrite the instructions to default naming the origin branch **main** rather than 'master'. 
 
-### Instructions
-* [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) by Deborah Kurata at Free Code Camp. Earlier article from Feb 2023 as a [gentle introduction to git branching](https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/) by the same author
-* 
+### Deborah Kurata articles at Free Code Camp, from 2023
+1. Conceptual introduction to branching in Git (Feb 2023). [Link](https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/) 
+1. [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) (March 2023)
+	* Remember, when you type `git add .`, you are adding files to the Git staging area. You can think of staging like a shopping cart before you check out.
+	* When you type `git commit -m "comment"`, that is when you actually check out and hit buy. Remember, this only commits things to your local repo; *not* your remote origin repo (i.e. at GitHub.com)
 
-### Conceptual introduction to branching in Git (Feb 2023)
-* [Link](https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/) by Deborah Kurata
+
+
+
+
+
+### Conceptual introduction to branching in Git 
 * [Git Branch and its Operations](https://digitalvarys.com/git-branch-and-its-operations/). not the best article
 * [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches)
 	* Associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
