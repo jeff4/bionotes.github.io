@@ -51,3 +51,10 @@ permalink: /vim/
 	* Should read more about how [.gitignore works](https://git-scm.com/docs/gitignore)
 * Note. I currently am able to indent pretty effectively with the `ctrl-v`, select how many rows with `j`, `shift-I`, type text or tabs to apply to all lines sequence. However, deletion (aka outdenting) doesn't seem to work to well. Reread section 5 [Blockwise operators](https://vimdoc.sourceforge.net/htmldoc/visual.html#blockwise-operators) to see if I can fix this.
 	* Another potential [resource](https://vim.fandom.com/wiki/Shifting_blocks_visually)
+
+## 9/24/2023
+* to switch immediately to tab number 'n', type `ngt`. e.g, to move to tab 5, type `5gt`.
+* when invoking vim on the command line, typing `vim -p filename1.txt filename2.txt` will automatically open desired files all at once, each in its own tab all in the same instance of vim.
+
+
+
