@@ -46,12 +46,5 @@ permalink: /git-notes/
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
 * In the future, I will rewrite the instructions to default naming the origin branch **main** rather than 'master'. 
 
-### Config of AstroPaper
-* Things I modified in `/src/config.ts`:
-	1. Turned 'Facebook.active' from true to false.
-	1. Modified SITE properties, except have not yet changed from `website` property from `https://astro-paper.pages.dev/` to presumed `jeffhwang.me`.
-	1. e.g., changed author to jeff; changed desc from " minimal, responsive and SEO-friendly Astro blog theme."
-	1. under `const SITE: Site = {...`, the `title:` property formerly had value "AstroPaper". I've changed it to "Jeff Hwang" and that has changed the site wide title as well as the icon in the upper left.
-* Next step is to remove Posts and Tags from the header. Succeded in doing this by just commenting out lines 61-70 in `/src/components/Header.astro`. Note that the original version is still in the `/components` directory, just renamed to `original-Header.astro.txt`.
-* Now to fix social addresses by changing them in `/src/config.ts`. Deleted most references, which were just copies of the github address
-* Executed from a4 root directory: `grep -r --exclude-dir=node_modules "Mingalaba"` to find where to delete Mingalaba on the homepage. It's located in the /src/pages/index.astro.
+### Instructions
+* [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) by Deborah Kurata at Free Code Camp
