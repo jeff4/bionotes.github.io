@@ -53,9 +53,7 @@ permalink: /git-notes/
 
 
 ### Conceptual introduction to branching in Git 
-* [Git Branch and its Operations](https://digitalvarys.com/git-branch-and-its-operations/). not the best article
-* [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches)
-	* Associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
+* [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches) and associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
 
 
 ### Git-Tower articles from circa 2015
