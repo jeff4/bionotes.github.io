@@ -15,8 +15,6 @@ permalink: /git-notes/
 * this worked! However, now I have two branches: `main` and `master`. So I had to set `master` as the default branch and delete the old empty `main` branch. Note that `main` branch was created when I used the web ui to create the GH.com repo originally.  
 * OK, deployed successfully to Netlify, and site is live!
 
-
-
 ## 9/22 Friday
 * Next edit `.gitignore` and add `*.swp *.swo` so that git does not track temporary vim files
 
@@ -46,11 +44,6 @@ permalink: /git-notes/
 1. [How to manage git branches](https://www.freecodecamp.org/news/git-branching-commands-explained/) (March 2023)
 	* Remember, when you type `git add .`, you are adding files to the Git staging area. You can think of staging like a shopping cart before you check out.
 	* When you type `git commit -m "comment"`, that is when you actually check out and hit buy. Remember, this only commits things to your local repo; *not* your remote origin repo (i.e. at GitHub.com)
-
-
-
-
-
 
 ### Conceptual introduction to branching in Git 
 * [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches) and associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
@@ -94,11 +87,5 @@ permalink: /git-notes/
 * to see local branches only, `git branch`
 * to see remote branches only, `git branch -r`
 * to see all local and remote branches, `git branch -a`
-
-
+=
 * Possibly best article? -- [git branches article by Noble Desktop](https://www.nobledesktop.com/learn/git/git-branches) including diagrams and commands
-
-
-
-
-
