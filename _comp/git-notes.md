@@ -47,11 +47,6 @@ permalink: /git-notes/
 	* Remember, when you type `git add .`, you are adding files to the Git staging area. You can think of staging like a shopping cart before you check out.
 	* When you type `git commit -m "comment"`, that is when you actually check out and hit buy. Remember, this only commits things to your local repo; *not* your remote origin repo (i.e. at GitHub.com)
 
-
-
-
-
-
 ### Conceptual introduction to branching in Git 
 * [Atlassian article](https://www.atlassian.com/git/tutorials/using-branches) and associated [YouTube video](https://www.youtube.com/watch?v=S2TUommS3O0)
 
@@ -73,7 +68,6 @@ permalink: /git-notes/
 1. [Undoing Things](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
 	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." 
 
-
 ### Operations/experimentation with a2-astro
 * First, rename local branch from 'master' --> 'main'. Let's use [this stack overflow answer](https://stackoverflow.com/a/30590238). I got it working but it was a bit complicated, involving going to the github web UI to manually changed default branch from 'master' to 'main' before `git push` worked. Probably not worth it for now. Also, there was no auto-deploy on the netlify side until I did some config to make sure Netlify was responding to the new default branch 'main' rather than the older 'master'.
 #### Experimenting with `footer-edits` branch
@@ -81,21 +75,13 @@ permalink: /git-notes/
 1. Verify that you are on main branch with `git checkout main`. (alternately, `git branch` will show a star next to `main`).
 1. Next, create a new branch with the command: `git branch <NEW-BRANCH-NAME>`. In this case, i typed `git branch footer-edits`.
 1. Then switch to the newly created branch: `git checkout footer-edits`.
-
-* Next, let's try creating a little mini branch 
-
+1. Make edits in various files
+1. afterwards, type `git add .` and `git commit -m "edits to Footer component` as usual. Have not yet pushed to origin yet. Next step: merging
+1. 
+1. Important observation: if I have the localhost dev server running, when I use the `git checkout` command to change active branch, Astro server automatically changes based on new files.
 
 ### Consolidated list of git commands
 * to see local branches only, `git branch`
 * to see remote branches only, `git branch -r`
 * to see all local and remote branches, `git branch -a`
-
-
-* Good summary of [git branches](https://www.nobledesktop.com/learn/git/git-branches) including diagrams and commands
-
-
-
-
-
-
-
+* Possibly best article? -- [git branches article by Noble Desktop](https://www.nobledesktop.com/learn/git/git-branches) including diagrams and commands
