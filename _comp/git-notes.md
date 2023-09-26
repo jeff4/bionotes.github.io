@@ -64,8 +64,7 @@ permalink: /git-notes/
 	* Note: when merging branches, remember that you first have to change the HEAD to the *receiving branch* (aka where the new commits will merge *into*). Merges always have to be received, they are never pushed from the originating branch. So always checkout the receiving branch, probably 'main' or 'master'
 1. [Dealing with Merge Conflicts](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
 1. [Undoing Things](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
-	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." 
-
+	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." lol
 
 ### Operations/experimentation with a2-astro
 * First, rename local branch from 'master' --> 'main'. Let's use [this stack overflow answer](https://stackoverflow.com/a/30590238). I got it working but it was a bit complicated, involving going to the github web UI to manually changed default branch from 'master' to 'main' before `git push` worked. Probably not worth it for now. Also, there was no auto-deploy on the netlify side until I did some config to make sure Netlify was responding to the new default branch 'main' rather than the older 'master'.
