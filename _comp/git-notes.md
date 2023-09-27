@@ -64,7 +64,8 @@ permalink: /git-notes/
 	* Note: when merging branches, remember that you first have to change the HEAD to the *receiving branch* (aka where the new commits will merge *into*). Merges always have to be received, they are never pushed from the originating branch. So always checkout the receiving branch, probably 'main' or 'master'
 1. [Dealing with Merge Conflicts](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
 1. [Undoing Things](https://www.git-tower.com/help/videos/learning-git-with-tower/merge-conflicts)
-	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." lol
+	* "Git allows you to undo almost anything. Knowing this should let you sleep a bit easier at night." 
+
 
 ### Operations/experimentation with a2-astro
 * First, rename local branch from 'master' --> 'main'. Let's use [this stack overflow answer](https://stackoverflow.com/a/30590238). I got it working but it was a bit complicated, involving going to the github web UI to manually changed default branch from 'master' to 'main' before `git push` worked. Probably not worth it for now. Also, there was no auto-deploy on the netlify side until I did some config to make sure Netlify was responding to the new default branch 'main' rather than the older 'master'.
@@ -86,5 +87,42 @@ permalink: /git-notes/
 * to see local branches only, `git branch`
 * to see remote branches only, `git branch -r`
 * to see all local and remote branches, `git branch -a`
-=
+
+## 9/26/2023
+* Practice more merges
 * Possibly best article? -- [git branches article by Noble Desktop](https://www.nobledesktop.com/learn/git/git-branches) including diagrams and commands
+
+
+## 9/27/2023
+
+### How to rename 'master' to 'main'
+1. Using GH.com web UI, I renamed github remote 'master' branch to 'main'. Went to repo's General Settings to change / manage branches
+1. To change local repo branch name, open terminal and enter these commands in sequence:
+	1. `git branch -m master main`
+	1. `git fetch origin`
+	1. `git branch -u origin/main main`
+	1. `git remote set-head origin -a`
+
+
+
+### Next Steps:
+* set up a4-paper as a netlify site
+
+
+
+
+
+### Completed
+
+all worked
+
+
+
+
+
+
+
+
+
+
+
