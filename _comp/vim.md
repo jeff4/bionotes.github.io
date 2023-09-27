@@ -59,3 +59,4 @@ permalink: /vim/
 
 ## 9/27/2023
 * Very handy way of deleting to a `search string` e.g., 'Nashville'. Instead of typing `dtN`, type `d/Nashville` followed by <CR> or `Enter` key. See [this answer](https://vi.stackexchange.com/questions/14459/delete-to-next-search-result)
+* Note that to search backwards, `Shift-/` aka `?` works just like usual reverse search. e.g., instead of typing `dTN`, type `d?Nashville` followed by <CR> or `Enter` key. 
