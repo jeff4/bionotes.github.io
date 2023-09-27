@@ -57,4 +57,5 @@ permalink: /vim/
 * when invoking vim on the command line, typing `vim -p filename1.txt filename2.txt` will automatically open desired files all at once, each in its own tab all in the same instance of vim.
 
 
-
+## 9/27/2023
+* Very handy way of deleting to a `search string` e.g., 'Nashville'. Instead of typing `dtN`, type `d/Nashville` followed by <CR> or `Enter` key. See [this answer](https://vi.stackexchange.com/questions/14459/delete-to-next-search-result)
