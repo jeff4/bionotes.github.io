@@ -106,7 +106,7 @@ sitemap: false
 1. Next, deleted deprecated `main` branch which still lives at github.com. Hm, no need, it seems that 'master' is gone. there is only 1 branch left: `main`.
 
 
-### Next Steps:
+### Completed
 1. turn a4-paper from private to public repot using web UI by going to repo Settings > General > Danger Zone
 1. set up a4-paper as a netlify site
 1. Went to netlify and deleted jeffhwang-a2.netlify.app
@@ -114,9 +114,12 @@ sitemap: false
 1. Went back to jh-a4 and verified newly available jeffhwang.me domain to `jeffhwang-a4.netlify.app`. Note that all i had to do was type `jeffhwang.me` into the netlify field and Netlify automatically created primary record jeffhwang.me as well as the redirect record `www.jeffhwang.me` field for me. And also automatically transferred SSL HTTPS cert for me. very easy once DNS are managed by Netlify
 1. OK, only took a few minutes but the new `www.jeffhwang.me` running AstroPaper is now live!
 
-### Completed
 
-all worked
-
-
+### Deleting previously merged branches
+* Below from [Noble Desktop](https://www.nobledesktop.com/learn/git/git-branches)
+* To delete a local branch, run either of these commands:
+	* `git branch -d my-branch-name`
+	* `git branch -D my-branch-name`
+* NOTE: The -d option only deletes the branch if it has already been merged. The -D option is a shortcut for `--delete --force`, which deletes the branch irrespective of its merged status.
+* Typed in `git branch -d rss-icon` and the branch was successfully deleted without warning messages because I had previously merged 'rss-icon' back into 'main'. 
 
