@@ -255,3 +255,14 @@ permalink: /gen-ai/
 
 ## 26 September 2023
 * [Intro Oracle article on RAG](https://www.oracle.com/artificial-intelligence/generative-ai/retrieval-augmented-generation-rag/) from 9/19/2023.
+* LangSmith videos from Google search on 8/28
+	https://www.youtube.com/watch?v=tFXm5ijih98
+	https://www.youtube.com/watch?v=bE9sf9vGsrM
+	https://www.youtube.com/watch?v=odxlHNLWAk4
+	https://www.youtube.com/watch?v=Weod3-ZPaPM
+	https://www.youtube.com/watch?v=ll-Xit_Khq0
+   
+* Vector database available in GCP?
+	* [Paid search result](https://archive.pinecone.io/lp/vector-database/) 
+	* [GCP integrates Vector Search in Managed Databases](https://www.infoq.com/news/2023/07/gcp-databases-vector-search/)
+
