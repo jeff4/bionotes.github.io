@@ -49,6 +49,7 @@ permalink: /zhongwen/
 1. 個 [个] - gè (measure word)
 1. 螞蟻 [蚂蚁] - mǎ yǐ (ant)
 1. 到 - dào (arrive)
+1. 6/25 - 99 Ranch and Liang Mama with Julian
 1. 火車到站了- huǒchē dào zhàn le (*literal* fire car arrived station; 'train has arrived at the station') See zhàn in L17.
 1. 鬼神 - guǐ shén (ghost; spirit; supernatural beings) - from this pro-orca [meme](https://twitter.com/lil_flight_risk/status/1670251223797354496?s=20)
 1. 半小時過去了, 我一道題也沒做出來。 - Bàn xiǎoshí guòqu le, wǒ yī dào tí yě méi zuò chūlai.  (After half an hour, I hadn’t even finished one question.) *See also L7*
@@ -83,7 +84,7 @@ permalink: /zhongwen/
 1. 先生 - xiān sheng (mister)
 
 ## 9/10 - 10/15
-## Language Log arguments about Chinese characters on Language Log
+### Language Log arguments about Chinese characters on Language Log
 * Various 2016 links from Language Log about Chinese characters versus pinyin
 	* https://languagelog.ldc.upenn.edu/nll/?p=25776
 	* In FP, ['Chinese is Not a Backward Language'](https://foreignpolicy.com/2016/05/12/chinese-is-a-21st-century-language-ignore-orientalism-2-0-critiques/)
@@ -91,9 +92,6 @@ permalink: /zhongwen/
 	* LL 2010 [Chinese 'character amnesia'](https://languagelog.ldc.upenn.edu/nll/?p=2473)
 	* LL 2012 [Chinese character amnesia revisited](https://languagelog.ldc.upenn.edu/nll/?p=4367)
 	* LL 2014 [Dumpling ingredients and character amnesia](https://languagelog.ldc.upenn.edu/nll/?p=15217)
-
-
-#### 6/25 - 99 Ranch and Liang Mama with Julian
 
 ## Unix + Python scripting to generate stats
 * 7/28/2023 -- See proj-3 directory and examine chatlog.txt file to see bash tr one-liner. Also in OneNote.
@@ -766,6 +764,7 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
+1. 
 
 ### Lesson 31
 ### Lesson 32
