@@ -17,31 +17,32 @@ permalink: /zhongwen/
 	* [Six Principles of Chinese Writing 六書](http://www.flr-journal.org/index.php/sll/article/viewFile/4968/5993) used to organize characters/radicals. For a simpler introduction, [see this article on 六書](https://studycli.org/chinese-characters/types-of-chinese-characters/) with [accompanying video](https://www.youtube.com/watch?v=_JmGW--Xy3M)
 
 ## 7/07/2023 - Chinese History
-* Major Dynasties
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
-	1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
-	1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
-	1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from L11
-	1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
-	1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1912 AD) 
-* 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
-	1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
-	1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
-	1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
-	1. 新 - xīn cháo (Xin Dynasty, 15 years to 26 AD) 
-	1. **東漢** - dōng hàn cháo (**Eastern Han Dynasty**, 195 years to 220 AD) 
-	1. 三國 - sān guó (Three Kingdoms, 45 years to 265 AD)
-	1. 西晉- xī jìn cháo (Western Jin Dynasty, 52 years to 317 AD) 
-	1. 晉 - jìn cháo (Eastern Jin Dynasty, 103 years to 420 AD) 
-	1. 隋 - suí cháo (Sui Dynasty, 37 years to 618 AD) 
-	1. **唐** - táng cháo (**Tang Dynasty**, 289 years to 907 AD) 
-	1. 五代十國 - wǔ dài shí guó (Five Dynasties and Ten Kingdoms, 53 years to 960 AD) 
-	1. **北宋** - běi sòng cháo (**Northern Song Dynasty**, 167 years to 1127 AD)    
-	1. **南宋** - nán sòng cháo (**Southern Song Dynasty**, 152 years to 1279 AD) 
-	1. 元 - yuán cháo (**Yuan Dynasty**, 97 years to 1368 AD) 
-	1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
-	1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
+### Major Dynasties
+1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
+1. **漢朝** - hàn cháo (**Han Dynasty**, 215 BC - 220 AD) 
+1. **唐朝** - táng cháo (**Tang Dynasty**, 618 AD - 907 AD) 
+1. **宋朝** - sòng cháo (**Song Dynasty**, 960 - 1127 AD)    
+1. **元朝** - yuán cháo (**Yuan Dynasty**, 1271 - 1368 AD) - see also 玩 *wánr* from L11
+1. **明朝** - míng cháo (**Ming Dynasty**, 1368 - 1644 AD) 
+1. **清朝** - qīng cháo (**Qing** / Manchu Dynasty, 1644 - 1912 AD) 
+### Complete Dynastic History
+1. 戰國時代 - zhàn guó shí dài (Warring States period,  ~250 years from ~475 BC to 220 BC)
+1. **秦朝** - qín cháo (**Qin Dynasty**, 221 - 206 BC) 
+1. **西漢** - xī hàn cháo (**Western Han Dynasty**, 215 years to 9 AD) 
+1. 新 - xīn cháo (Xin Dynasty, 15 years to 26 AD) 
+1. **東漢** - dōng hàn cháo (**Eastern Han Dynasty**, 195 years to 220 AD) 
+1. 三國 - sān guó (Three Kingdoms, 45 years to 265 AD)
+1. 西晉- xī jìn cháo (Western Jin Dynasty, 52 years to 317 AD) 
+1. 晉 - jìn cháo (Eastern Jin Dynasty, 103 years to 420 AD) 
+1. 隋 - suí cháo (Sui Dynasty, 37 years to 618 AD) 
+1. **唐** - táng cháo (**Tang Dynasty**, 289 years to 907 AD) 
+1. 五代十國 - wǔ dài shí guó (Five Dynasties and Ten Kingdoms, 53 years to 960 AD) 
+1. **北宋** - běi sòng cháo (**Northern Song Dynasty**, 167 years to 1127 AD)    
+1. **南宋** - nán sòng cháo (**Southern Song Dynasty**, 152 years to 1279 AD) 
+1. 元 - yuán cháo (**Yuan Dynasty**, 97 years to 1368 AD) 
+1. **明** - míng cháo (**Ming Dynasty**, 276 years to 1644 AD) 
+1. **清** - qīng cháo (**Qing** / Manchu Dynasty, 267 years to 1911) 
+#### 朝 - cháo (dynasty). See [this link](https://china.lu/en/dynasties-chronologie-23) for dates etc.
 
 ## 5/10 - 8/03
 1. 繼承之戰 [继承之战] — jì chéng zhī zhàn. Chinese version of title for *HBO Succession*. Literal: "The Battle for Inheritance".
@@ -765,7 +766,6 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
 
 ### Lesson 31
 ### Lesson 32
