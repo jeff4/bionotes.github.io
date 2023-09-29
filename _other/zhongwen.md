@@ -765,15 +765,3 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
