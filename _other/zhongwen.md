@@ -502,7 +502,8 @@ Go to [this page](/ch-food/)
 1. 騎 [骑] - qí (to ride a bicycle or vehicle). See also 奇from 奇怪 *qí guài* (strange) in L20. 
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
-1. 音樂 [音乐] - yīn yuè (music). Originally introduced in L29 but JH moved it here.
+1. 音樂 [音乐] - yīn yuè (music). Originally introduced in L29 but JH moved it here. 
+1. 快樂 [快乐] - kuài lè (happy, joyful). A bit confusing because the same character 樂 can be prounced *yuè* or *lè* depending on context--see yīn yuè in this chapter.
 1. 帶[带] - dài (to bring along, to carry)
 1. 回 - huí (to return) See also 回答 huí dá in L15
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
