@@ -202,6 +202,103 @@ Remember that GPT-4 might not always produce the exact output length you desire,
 * Cleaned out all old accounts. Synthesia is clear winner over yepic.ai. Only downside is that they only have 1 doctor. :(
 * new option: [Rephrase.ai](https://www.rephrase.ai/). $25 per month 
 
-## 07 September 2023
-* Next steps
-* find a good medical background
+## 13 September 2023
+### Prompt
+You: Can you write a poem about famous Harvard alumni?
+
+### GPT-4 answer
+ChatBot: In halls of old ivy and wisdom's stout tower,
+Lie figures imprinted with history's power.
+The alma mater proud, so true, so fair,
+Harvard in her girth, does impressions bear.
+
+Look to JFK, in crimson-clad find,
+Whose political genius sculpted humankind.
+The stirring speeches, his stance so brave,
+Wisdom in droves from Harvard, he did save.
+
+Yet pledged to combating fights of legality,
+See RBG’s rise with intellectual vitality.
+Harvard contained her, yet could not hold,
+Her dissenting thoughts, her justice bold.
+
+On to Zuckerberg, of the tech sphere's throne,
+In Harvard's grounds the seed for Facebook was sown.
+From a dorm drive came a global path,
+A master coder’s evolutionary wrath. 
+
+Famed Al Gore with green fervor fierce,
+Upon matters global, he sought to pierce.
+The Internet, climate change induced curses,
+Harvard inspired him, great speech-verse uses.
+
+Emma Watson to, the arts incorporates,
+From Hermoine Granger to women’s advocate.  
+Brains no magic, but particular stat,
+An Ivy honor from her academic habit..
+Harvard great, its wolves drape the earth,
+Imparting the greatness she gave at their birth.
+A prestigious lineage treasured with pride,
+A reputation well-honed; she’s a luminous guide.
+You: bye
+ChatBot: Goodbye!
+
+## 28 September 2023
+### Prompt 1
+I would like to teach advanced high schoolers how they can help shape the fine-tuning of a large language model. My initial idea is to show them how llama-2 (7-billion parameters) works as someone who responds in the neutral 21st century style. But then i will use either fine-tuning or RAG (retrieval augmented generation) with data from Shakespeare to make the LLM-chatbot sound more like William Shakespeare. Can you suggest other people who have distinctive writing styles that could demonstrate how amenable LLMs are to either fine-tuning or retrieval augmented generation?
+
+### GPT4 Answer 1
+ChatBot: Absolutely, here are some additional authors known for their unique writing styles:
+
+1. **Jane Austen:** Austen's use of irony, realism, and social commentary provide a distinctive style that students may find informative.
+
+2. **Ernest Hemingway:** Known for his straightforward and concise style marked by understated language, Hemingway could be a characteristically contrasting example to Shakespeare.
+
+3. **Charles Dickens:** He uses expressive, subtle language, plenty of adjectives and a detailed exploration of his characters' subconscious minds, which results in a highly descriptive dialogues and settings. Fine-tuning a LLM to write like Dickens can be a challenging but interesting endeavor.
+
+4. **Oscar Wilde:** Wilde is famous for his wit and the elegance of his writing. His style is marked by his clever, often times sarcastic dialogues and possible hidden meanings.
+
+5. **Edgar Allan Poe:** Known for signature horror and suspense writing, a language model tuned to Poe's style could result in spooky, eerie dialogues.
+
+6. **Mark Twain (Samuel Clemens):** Noted for his wry wit and colloquial speech, Twain could provide inspiration for tuning a LLM for a dialogue flavored with 19th-century American vernacular.
+
+All fun considerations and excellent writing styles for more engaging demonstrations to show the capabilities to mold a language model's diaphanous stylistic tendencies. 
+
+Remember to consider task-dataset fit; most literature is written in novel style which differ from chat as a genre. If possible fine-tune with author's letters, quotes, or recorded speeches.
+
+### Prompt 2
+Who are examples of historical figures with a distinctive writing style for which there are a large set of well-formated personal letters and correspondence that I can use as a fine-tuning data set?
+
+### Answer 2 from GPT4
+ChatBot: 1. Thomas Jefferson: The third president of the United States, Jefferson was known for his articulate style of writing and has a big collection of personal letters and correspondence.
+
+2. Benjamin Franklin: This prominent founding father was an esteemed author and his published correspondence has been utilized by many scholars.
+
+3. Emily Dickinson: Aside from being one, if not the, most respected female poet in the English language, the posthumously discovered handwritten letters cement Dickinson's place as a master of wordplay.
+
+4. Jane Austen: The novelist held a great volume of written correspondence - mostly in the form of letters to her sister, Cassandra. 
+
+5. Mark Twain (Samuel Clemens): His correspondence was varied and provide an excellent view into the mind of this prominent American scribe. 
+
+6. Charles Dickens: Dickew is known for his idiosyncratic style and held an extended epistolary "campaign" to discuss societal issues he was passionate about. 
+
+7. Samuel Pepys: Known for his extensive diary entries which provide invaluable primary historical accounts.
+
+8. Voltaire: Known for his wit, his prolific writings include comprehensive collections of letters that cover varied subjects as he was involved in almost all the major debates of his time.
+
+9. Victor Hugo: His array of correspondences contained conversations with other influential figures of his time. 
+
+10. Winston Churchill: The details of the former UK Prime Minister's correspondences during the World War II offer an in-depth understanding of the globally infamous period.
+
+Note that publishing rights, copyright restrictions and data formats might vary, and thus it is important to investigate any legal or copyright limitations when undertaking a project of this kind. Most of these correspondences would be analyzed in terms of hard type transcripts but the original handwritten copies, where available, offer another layer of context.
+
+### Prompt 3
+ Does Alexander Hamilton have a distinctive voice that could be used for this project?
+
+### Answer 3
+
+ChatBot: As an AI, I can't actually hear voices, but I can provide you with information based on historical records. Alexander Hamilton lived in the 18th century, so there are no audio recordings of his voice and therefore we can't confirm any distinctive voice characteristics he might've had. If you're referencing a present-day interpretation, such as Lin-Manuel Miranda's portrayal in the musical "Hamilton," then you could consider that kind of voice ages, intensity of language, accent influenced by his origin etc., however it would be an artistic interpretation, not a historically accurate portrayal.
+
+
+## 9/28/2023 answer from Phind.com
+* Overall, similar answer. See [cached q+a](https://www.phind.com/search?cache=lf93e4ytqzm81ai43eow45n5) here.
