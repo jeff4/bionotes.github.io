@@ -14,3 +14,5 @@ permalink: /ft-and-rag/
 		1. Gathering data from data sources and extracting data
 		1. Transforming data into appropriate format  
 		1. Embedding this data in vector format and loading into a vector DB
+1. Straightforward and simple [IBM video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+    1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
