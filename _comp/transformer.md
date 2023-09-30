@@ -61,7 +61,8 @@ sitemap: false
 	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
 * more general [IBM video](https://www.youtube.com/watch?v=hfIUstzHs9A) explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
 
-### Video: [How are LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
+#### Video: [How are LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
+1. Video published January, 2023.
 1. 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
 1. Three steps in building in LLM that sequentially improve aka 'fine-tune' the model.
 	1. Generative pretraining with a large corpus of unsupervised data
@@ -102,22 +103,19 @@ sitemap: false
 			* "Learning to summarize from human feedback" by Stiennon et al (2020)
 		* This preference ranking is summarized into a scalar reard suitable for reinforecment learning like in a video game.
 		* Next, a separate 'reward model' is initialized with weights from the supervised model
-
-
-
-
-
-
-
-
-
-
-
-
-
+		* One can turn the ranking of 5 choices into a set of pairs. Aka rather than A > B > C > D, we can have pairs such as: `A > D`, `B > C`, `A > C`, etc.
+		* Using a clearer reward function, the reward model and the pre-trained policy model interact with each other in a chat which further optimizes the pre-trained policy model.
+		* PPO has become a popular method. See "Proximal policy optimization algorithms" by Schulman et al (2017). see (11:15)
+1.  The learned reward model can lead to overoptimazation. Interesting chart at (11:45) from Gao et all 2022 "Scaling Laws for Reward Model Overoptimization". [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) the version which the video uses: "When a measure [aka metric] becomes the target, it ceases to become a good measure." 
+	* The authors of the InstructGPT paper try to get around this by adding an additional term that penalizes the KL divergence between the RL policy and the policy previously learned from supervised fine-tuning.
+1. The combination of reward modeling (reward model + policy model interaction) and PPO is repeated several times.
+	* At each iteration, the updated policy can be used to gather more reponses for preference ranking and a new reward model is trained. Then the policy model is updated again through another round of PPO.
+1. See chart from InstructGPT Ouyang paper at (12:35). Shows how PPO > supervised fine-tuning > prompted GPT > vanilla GPT. 
+	* The combo of supervised fine-tuning (SFT) plus RHLF/PPO means that the resulting 1.3 B parameter model provides chat answers that human reviewers *prefer* over the simply prompt-trained GPT-3 model with 175-B parameters. a 100x improvement in efficiency as measured by number of parameters!!
+1. Despite all this improvements, Chat-GPT's behavior is still highly dependent on the wording of input / prompts.
 
 "t = *x<sub>t+1</sub>*
 "l = *x<sub>1</sub>,... x<sub>t</sub>*
 
 
-Next video is "What are Transformer Neural Networks?" by Ari Seff. [Link](https://www.youtube.com/watch?v=XSSTuhyAmnI) from May, 2021.
+* Next video is "What are Transformer Neural Networks?" by Ari Seff. [Link](https://www.youtube.com/watch?v=XSSTuhyAmnI) from May, 2021.
