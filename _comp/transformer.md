@@ -96,6 +96,25 @@ sitemap: false
 1. RLHF
 	* One way to further fine-tune through this interaction is by Reinforcement Learning through Human Feedback
 	* Some RL functions already come with a clear reward function. think about traditional Atari arcade games. see ["Playing Atari with Deep Reinforcement Learning" (2013)](https://arxiv.org/abs/1312.5602) by Minh, Kavukcuoglu, et al.
+	* Here is the process. 
+		* A human has a conversation with the model. the model generates 4-5 responses. then the human ranks those potential responses from most preferred to least. Papers:
+			* "Deep reinforcement learning from human preferences" by Christiano et al (2017)
+			* "Learning to summarize from human feedback" by Stiennon et al (2020)
+		* This preference ranking is summarized into a scalar reard suitable for reinforecment learning like in a video game.
+		* Next, a separate 'reward model' is initialized with weights from the supervised model
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 "t = *x<sub>t+1</sub>*
 "l = *x<sub>1</sub>,... x<sub>t</sub>*
