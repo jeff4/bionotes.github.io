@@ -70,3 +70,10 @@ sitemap: false
 	* What is a language model? (1:49)
 		* "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables *x<sub>1</sub>,... x<sub>t</sub>*, what is the value of the next element *x<sub>t+1</sub>*?
 		* During training, we adjust the value of the parameters for next element *X<sub>t+1</sub>* such that it more accurately models the 'ground truth' value of *x<sub>t+1</sub>*.
+		* This sequence prediction technique has been used in many domains such as audio waveforms, chemical structure prediction (e.g., structures of organic molecules)
+		* In the specific example of language models, each of the variables *x<sub>1</sub>,... x<sub>t</sub>* is referred to as a *token*. A token can represent a whole word or just a portion of a word.  
+		* Uses the example of the sentence "Alice painted her house __???__". Given history *h*, what is the probability that the next word = ['brown', 'beige', 'red', 'because', 'with',...]. And each of these options has its own probability.
+
+
+"t = *x<sub>t+1</sub>*
+"l = *x<sub>1</sub>,... x<sub>t</sub>*
