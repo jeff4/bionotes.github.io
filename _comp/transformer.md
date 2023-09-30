@@ -61,7 +61,7 @@ sitemap: false
 	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
 * more general [IBM video](https://www.youtube.com/watch?v=hfIUstzHs9A) explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
 
-### How are [LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
+### Video: [How are LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
 * 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
 * Three steps in building in LLM that sequentially improve aka 'fine-tune' the model.
 	1. Generative pretraining with a large corpus of unsupervised data
