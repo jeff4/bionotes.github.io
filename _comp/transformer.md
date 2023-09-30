@@ -37,14 +37,9 @@ sitemap: false
 	* Comment by [Jeremy Howard}(https://news.ycombinator.com/item?id=36900969) and progress of what GPT and BERT did in terms of simplifying fine-tuning. From this [HN thread](https://news.ycombinator.com/item?id=36896710)
 * 8/01 [article by Ollama](https://ollama.ai/blog/run-llama2-uncensored-locally) about how an uncensored locally running version of Llama-2 compares. [HN thread](https://news.ycombinator.com/item?id=36973584) with relevant [top comment](https://news.ycombinator.com/item?id=36975031)
 
-
-
-
 ### Glossary
 * [PEFT](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) = Parameter-Efficient Fine-Tuning.
 * [RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) = Retrieval-Augmented Generation. From IBM: 'RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.'
-
-
 
 ### List of chatbots available
 * ChatGPT
@@ -60,9 +55,7 @@ sitemap: false
 	* Doubao by ByteDance
 	* Baichuan by the founder of Sougou
 
-
 ### 9/30 notes
-
 * Straightforward and simple on fine-tuning and LLMs overall[IBM video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
 	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
 	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
@@ -74,4 +67,4 @@ sitemap: false
 		1. Generative pretraining with a large corpus of unsupervised data
 		1. Fine-tuning with instruction, ground-truth labelled q+a pairs
 		1. RLHF 
-	* What is a language model? (1:49): "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables 'x<sub>1</sub>,... x<sub>t</sub>', what is the value of the next element 'x<sub>t+1</sub>'?
+	* What is a language model? (1:49): "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables *x<sub>1</sub>,... x<sub>t</sub>*, what is the value of the next element *x<sub>t+1</sub>*?
