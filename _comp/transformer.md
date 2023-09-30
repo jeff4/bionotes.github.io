@@ -62,27 +62,29 @@ sitemap: false
 * more general [IBM video](https://www.youtube.com/watch?v=hfIUstzHs9A) explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
 
 ### Video: [How are LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
-* 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
-* Three steps in building in LLM that sequentially improve aka 'fine-tune' the model.
+1. 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
+1. Three steps in building in LLM that sequentially improve aka 'fine-tune' the model.
 	1. Generative pretraining with a large corpus of unsupervised data
 	1. Fine-tuning with instruction, ground-truth labelled q+a pairs
 	1. RLHF 
-* What is a language model? (1:49)
+1. What is a language model? (1:49)
 	* "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables *x<sub>1</sub>,... x<sub>t</sub>*, what is the value of the next element *x<sub>t+1</sub>*?
 	* During training, we adjust the value of the parameters for next element *X<sub>t+1</sub>* such that it more accurately models the 'ground truth' value of *x<sub>t+1</sub>*.
 	* This sequence prediction technique has been used in many domains such as audio waveforms, chemical structure prediction (e.g., structures of organic molecules)
 	* In the specific example of language models, each of the variables *x<sub>1</sub>,... x<sub>t</sub>* is referred to as a *token*. A token can represent a whole word or just a portion of a word.  
 	* Uses the example of the sentence "Alice painted her house `X`". Given history *h*, `X` may taken on any of these values = ['brown', 'beige', 'red', 'because', 'with',...]. Each of these options has its own probability.
 	* Language models are agnostic to model architecture. But since the 2017 "Attention is all you need" paper, most language models are huge transformer models with billions of parameters
-* Transformer models since 2017
+1. Transformer models since 2017
 	* Example models include GPT3 (2020), PaLM (2022) from Google.
 	* History that is used to condition the next token prediction only has a limited window, aka context length. For example, the underlying LLM for GPT-3 can attend to a history of about 3000 words. Long enough for short conversations but not long enough for generating a novel.
-* Why is this not enough? Why do we need fine-tuning?
+1. Why is this not enough? Why do we need fine-tuning?
 	* Answer: misalignment. Based solely on pre-training, the model is actually trained a mix of many types of tasks. For example, let's say the user asks: 'Explain how the bubble sort algorithm works?'
 	* Because there is some large set of examinations in the training corpus, it's likely that the model will reply with something like 'Explain how the merge sort algorithm works?' because that sort of question is one of many that might appear with the bubble question.
 	* in order to guide the LLM to the smaller subset of data/training within its model taht is appopriate, we can do a few things to constrain it to a specific subset/task. This can be done by prompt engineering for exampe.
 	* One challenge of prompt engineering is that it might be tiresome for the end-user.
-* 
+1. Thus, part two of building the LLM is supervised fine-tuning 
+	* Before the advent of creation of synthetic datasets, people paid pairs of humans to have dialogues. These dialogues have been captured in to a supervised dataset that can be used for fine-tuning.
+	* This can be called a typical imitation learning setup, specifically 'behavior cloning' where we try to mimic an expert's `action distribution` conditioned on an `input state`.
 
 "t = *x<sub>t+1</sub>*
 "l = *x<sub>1</sub>,... x<sub>t</sub>*
