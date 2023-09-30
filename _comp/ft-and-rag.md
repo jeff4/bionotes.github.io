@@ -14,4 +14,3 @@ permalink: /ft-and-rag/
 		1. Gathering data from data sources and extracting data
 		1. Transforming data into appropriate format  
 		1. Embedding this data in vector format and loading into a vector DB
-
