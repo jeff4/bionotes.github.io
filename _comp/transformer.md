@@ -4,7 +4,6 @@ permalink: /transformer/
 sitemap: false
 ---
 
-
 ### March 29, 2023
 * Tutorials to consider going through
 	* [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) by George Gerganov. Speech to text on Apple Silicon.
@@ -20,8 +19,6 @@ sitemap: false
 * Wikipedia article
 * Original 2017 Attention is All You Need paper
 
-
-
 ### Thoughts on Llama and Llama 2 
 * [Wikipedia article](https://en.wikipedia.org/wiki/LLaMA)
 * [Anyscale article from August 2023](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
@@ -35,7 +32,6 @@ sitemap: false
 		* This 7/17/2023 [substack rant](https://zzbbyy.substack.com/p/why-you-need-rag-not-finetuning)
 	* [HN comment](https://news.ycombinator.com/item?id=37091586): You can easily train Llama 2-7B on an RTX 3060 (12GB VRAM) for qlora / 4bit / GPTQ finetuning.
 
-
 ### Some Llama 2 links from comp-notes Sept 20
 * 7/27 [article by Lucas Pauker](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning) Some explanations on how to fine-tune a model and performance of pre-training vs fine-tuning.
 	* Comment by [Jeremy Howard}(https://news.ycombinator.com/item?id=36900969) and progress of what GPT and BERT did in terms of simplifying fine-tuning. From this [HN thread](https://news.ycombinator.com/item?id=36896710)
@@ -44,20 +40,9 @@ sitemap: false
 
 
 
-
 ### Glossary
 * [PEFT](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) = Parameter-Efficient Fine-Tuning.
 * [RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) = Retrieval-Augmented Generation. From IBM: 'RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.'
-
-
-
-
-### Fine-Tuning links
-* 7/05/2023 ['Fine tuning is for form, not facts'](https://www.anyscale.com/blog/fine-tuning-is-for-form-not-facts) by Anyscale.
-
-
-### Overview of fine-tuning
-* Single slide summarizing the entire production process. Foundation model construction, self-supervised trainingin, then the fine-tuning at the end. 
 
 
 
@@ -89,3 +74,4 @@ sitemap: false
 		1. Generative pretraining with a large corpus of unsupervised data
 		1. Fine-tuning with instruction, ground-truth labelled q+a pairs
 		1. RLHF 
+	* What is a language model? (1:49): "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables 'x<sub>1</sub>,... x<sub>t</sub>', what is the value of the next element 'x<sub>t+1</sub>'?
