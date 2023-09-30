@@ -72,7 +72,8 @@ sitemap: false
 		* During training, we adjust the value of the parameters for next element *X<sub>t+1</sub>* such that it more accurately models the 'ground truth' value of *x<sub>t+1</sub>*.
 		* This sequence prediction technique has been used in many domains such as audio waveforms, chemical structure prediction (e.g., structures of organic molecules)
 		* In the specific example of language models, each of the variables *x<sub>1</sub>,... x<sub>t</sub>* is referred to as a *token*. A token can represent a whole word or just a portion of a word.  
-		* Uses the example of the sentence "Alice painted her house __???__". Given history *h*, what is the probability that the next word = ['brown', 'beige', 'red', 'because', 'with',...]. And each of these options has its own probability.
+		* Uses the example of the sentence "Alice painted her house `X`". Given history *h*, `X` may taken on any of these values = ['brown', 'beige', 'red', 'because', 'with',...]. Each of these options has its own probability.
+
 
 
 "t = *x<sub>t+1</sub>*
