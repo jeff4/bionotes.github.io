@@ -95,7 +95,7 @@ sitemap: false
 	* In other words, an LLM can't just passively observe an expert during training. It needs to *act* or *interact*
 1. RLHF
 	* One way to further fine-tune through this interaction is by Reinforcement Learning through Human Feedback
-
+	* Some RL functions already come with a clear reward function. think about traditional Atari arcade games. see ["Playing Atari with Deep Reinforcement Learning" (2013)](https://arxiv.org/abs/1312.5602) by Minh, Kavukcuoglu, et al.
 
 "t = *x<sub>t+1</sub>*
 "l = *x<sub>1</sub>,... x<sub>t</sub>*
