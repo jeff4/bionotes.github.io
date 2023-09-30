@@ -85,6 +85,17 @@ sitemap: false
 1. Thus, part two of building the LLM is supervised fine-tuning 
 	* Before the advent of creation of synthetic datasets, people paid pairs of humans to have dialogues. These dialogues have been captured in to a supervised dataset that can be used for fine-tuning.
 	* This can be called a typical imitation learning setup, specifically 'behavior cloning' where we try to mimic an expert's `action distribution` conditioned on an `input state`.
+	* At (7:15) of the video, good chart showing how the fine-tuned supervised model outperforms prompted GPT which outperforms vanilla GPT with no adjustment at all. Even better b/c it has less need for prompting from an end-user.
+		* This chart is from the [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
+1. But even fine-tuning still has limitations. 
+	* For a variety of reasons, the model may poorly learn the true probability distribution of a human expert. See "Efficient Reductions for Imitation Learning" (2010) by Ross & Bagnell. 
+	* As novel states are encountered, the model may compound error after error.
+	* It can be shown mathematically that the error rate grows quadratically (x<sup>2</sup>!) if x = length of history.
+	* In the case of a LLM, early mistakes during generation can cause it to make overconfident assertions.	
+	* In other words, an LLM can't just passively observe an expert during training. It needs to *act* or *interact*
+1. RLHF
+	* One way to further fine-tune through this interaction is by Reinforcement Learning through Human Feedback
+
 
 "t = *x<sub>t+1</sub>*
 "l = *x<sub>1</sub>,... x<sub>t</sub>*
