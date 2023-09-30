@@ -85,3 +85,7 @@ sitemap: false
 
 * How are [LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo)
 	* 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
+	* Three steps in building in LLM that sequentially improve aka 'fine-tune' the model.
+		1. Generative pretraining with a large corpus of unsupervised data
+		1. Fine-tuning with instruction, ground-truth labelled q+a pairs
+		1. RLHF 
