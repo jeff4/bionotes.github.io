@@ -76,7 +76,12 @@ sitemap: false
 	* Baichuan by the founder of Sougou
 
 
+### 9/30 notes
 
+* Straightforward and simple on fine-tuning and LLMs overall[IBM video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
+	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
+* more general [IBM video](https://www.youtube.com/watch?v=hfIUstzHs9A) explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
 
-
-
+* How are [LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo)
+	* 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
