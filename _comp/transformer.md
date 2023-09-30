@@ -67,4 +67,6 @@ sitemap: false
 		1. Generative pretraining with a large corpus of unsupervised data
 		1. Fine-tuning with instruction, ground-truth labelled q+a pairs
 		1. RLHF 
-	* What is a language model? (1:49): "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables *x<sub>1</sub>,... x<sub>t</sub>*, what is the value of the next element *x<sub>t+1</sub>*?
+	* What is a language model? (1:49)
+		* "A language model is just a special case of an autoregressive sequence model. Aka, given some history of observed variables, where history is specified by variables *x<sub>1</sub>,... x<sub>t</sub>*, what is the value of the next element *x<sub>t+1</sub>*?
+		* During training, we adjust the value of the parameters for next element *X<sub>t+1</sub>* such that it more accurately models the 'ground truth' value of *x<sub>t+1</sub>*.
