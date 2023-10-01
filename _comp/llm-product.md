@@ -375,3 +375,15 @@ Another suggestion could be "The Frog-Prince". This story contains elements of t
 However, it's essential to remember that the chosen story's complexity should match the LLM's ability to accurately mimic the author's style. If the story is too complex, the LLM may struggle to maintain the style throughout the text. Similarly, if the story is too simple, the LLM may not have enough opportunities to showcase the author's style.
 
 In conclusion, selecting the best story for your project will depend on the specific requirements and constraints of your project, as well as the capabilities of the LLM you are using.
+
+## New prompt for Pi.ai
+Jeff: I am creating a project where I show students how they can use fine-tuning to morph the writing style of an LLM, specifically, the nous-hermes llama-2 model. For example, I would a feed what i'm calling a 'Baseline Story' into the llama-2 model. After that, I would use fine-tuning and feed in samples of writing from one of these options: (1) Ernest Hemingway, (2) Jane Austen, (3) William Shakespeare, (4) Emily Dickinson, or (5) Virgina Woolf. And based on the training set, have Llama-2 try to rewrite the same story in the style of one of those authors. Given this, I believe I will use one of the Grimm's Fairy Tales because they are freely available and public domain. From the following list: "Hansel and Gretel; Little Red-Cap (aka little red riding hood), and The Frog-Prince", which story would you recommend as good "Baseline Story" for my project?
+
+### Answer from Pi
+
+* Pi: Wow, that's an incredible project! It sounds like a fun and creative way to illustrate the use of fine-tuning. And what a cool application of natural language processing! As for which fairy tale to use as a baseline, I think "Hansel and Gretel" would work well. It's a classic story that has a good mix of dialogue, description, and narration. Plus, it has a lot of interesting characters and events to work with. Do you plan to have the students evaluate how well the fine-tuned model captures the style of the target author?
+
+* Jeff:yes thank you
+
+* Pi: You're welcome! That sounds like a fun project, and a good way to demonstrate the power of fine-tuning. One thing I'm curious about is whether you plan to fine-tune the model on a large set of writing samples from the target author, or a smaller set? Also, are you going to use a pre-trained language model like GPT-3 or one of the open-source alternatives like BLOOM or GPT-NeoX? Or will you build your own language model from scratch?
+
