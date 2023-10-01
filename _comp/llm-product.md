@@ -387,3 +387,13 @@ Jeff: I am creating a project where I show students how they can use fine-tuning
 
 * Pi: You're welcome! That sounds like a fun project, and a good way to demonstrate the power of fine-tuning. One thing I'm curious about is whether you plan to fine-tune the model on a large set of writing samples from the target author, or a smaller set? Also, are you going to use a pre-trained language model like GPT-3 or one of the open-source alternatives like BLOOM or GPT-NeoX? Or will you build your own language model from scratch?
 
+## New prompt for phind.com
+* Jeff: please rewrite this 5000 character story of little red cap so it fits in less than 1500 characters
+
+### Phind.com's answer
+* [cached answer](https://www.phind.com/search?cache=d481ub7o97haeihpcd2qf78s)
+A girl known as Little Red-Cap, due to her favorite red velvet cap, was sent by her mother to deliver cake and wine to her sick grandmother. She was warned to stay on the path and not talk to strangers. On her way, she met a wolf, but unaware of his wickedness, she wasn't afraid. She told him she was heading to her grandmother's house, which was in the woods under three large oak trees.
+
+The wolf, seeing an opportunity for a meal, distracted Little Red-Cap with the beauty of the flowers around them. While she was picking flowers, the wolf went to the grandmother's house, devoured her, and disguised himself in her clothes. When Little Red-Cap arrived, she found the door open and was surprised by her grandmother's appearance. She noted her big ears, eyes, hands, and mouth, to which the wolf replied they were all the better to hear, see, hug, and eat her with. The wolf then swallowed Little Red-Cap.
+
+A huntsman passing by the house heard the wolf's loud snoring and decided to check if the grandmother needed anything. Upon finding the wolf in bed, he cut open its stomach, freeing Little Red-Cap and her grandmother. They filled the wolf's belly with stones, causing him to die when he awoke. The huntsman took the wolf's skin, the grandmother revived after eating the cake and wine, and Little Red-Cap promised never to stray from the path again. 
