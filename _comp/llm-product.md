@@ -334,8 +334,6 @@ Their adventure symbolized a significant message; true courage lies in leaving y
 And indeed the Oak Tree, Ellington, and his accompanying environment and inhabitants alike, they lived harmoniously and blissfully, happily ever after.
 
 
-
-
 ### phind.com
 * [cached URL](https://www.phind.com/search?cache=hm6it3x4zz2t7bjqp196ir2f)
 
@@ -356,3 +354,24 @@ Sure, here is a simple story that can serve as the base for your project:
 > And as for Agnes and Toby, they continued to weave and tell their stories, their tapestries serving as a testament to their friendship, creativity, and the magic of storytelling. And they all lived happily ever after.
 
 This story has a clear narrative structure, a variety of characters, and a mix of dialogue and description, making it a good candidate for style transformation.
+
+## New Prompt for Phind.com
+* link to [cached answer](https://www.phind.com/search?cache=jucx50voj6yszot1mvujn5h2)
+### Prompt
+Jeff: Act as if you are a machine-learning academic expert on large language models who also happens to know the contents and suitability of every single one of the Grimm Brothers' Fairy Tales. I am creating a project where I show students how they can use fine-tuning to morph the writing style of an LLM, specifically, the nous-hermes llama-2 model. For example, I would a feed what i'm calling a 'Baseline Story' into the llama-2 model. After that, I would use fine-tuning and feed in samples of writing from one of these options: (1) Ernest Hemingway, (2) Jane Austen, (3) William Shakespeare, (4) Emily Dickinson, or (5) Virgina Woolf. And based on the training set, have Llama-2 try to rewrite the same story in the style of one of those authors. Given this, I believe I will use one of the Grimm's Fairy Tales because they are freely available and public domain. Given the possibilities out there which include the following list: "The golden bird, Hans in luck, Jorinda and Jorindel, The travelling musicians, Old Sultan, The straw, the coal, and the bean, Briar Rose, The dog and the sparrow, The twelve dancing princesses, The fisherman and his wife, The willow-wren and the bear, The frog-prince, Cat and mouse in partnership, The goose-girl, The adventures of Chanticleer and Partlet, Rapunzel, Fundevogel, The valiant little tailor, Hansel and Gretel, The mouse, the bird, and the sausage, Mother Holle, Little Red-Cap [Little Red Riding Hood], The robber bridegroom, Tom Thumb, Rumpelstiltskin, Clever Gretel, The old man and his grandson, The little peasant, Frederick and Catherine, Sweetheart Roland, Snowdrop, The pink, Clever Elsie, The miser in the bush, Ashputtel, The white snake, The wolf and the seven little kids, The queen bee, The elves and the shoemaker, The juniper-tree, The turnip, Clever Hans, The three languages, The fox and the cat, The four clever brothers, Lily and the lion, The fox and the horse, The blue light, The raven, The golden goose, The water of life, The twelve huntsmen, The king of the golden mountain, Doctor Knowall, The seven ravens, The wedding of Mrs Fox, The salad, The story of the youth who went forth to learn what fear was, King grisly-beard, Iron Hans, Cat-skin, Snow-white and Rose-red.""
+ 
+Which story would you recommend as good "Baseline Story" for my project?
+  
+### Phind.com's answer
+
+Choosing a "Baseline Story" for your project depends on a few factors such as the complexity of the story, the number of characters, the story's length, and the amount of dialogue. It's also essential to consider the type of language used in the story, as some of the Grimm's Fairy Tales have a simpler narrative style than others.
+
+From the list of stories you have provided, "Hansel and Gretel" could be a good choice. The story is well-known and contains several elements that could be interesting in other writing styles. It has a clear narrative structure, a mix of dialogue and description, and a variety of characters. This story also has a good balance of action and dialogue, which can allow the LLM to showcase the chosen author's style effectively en.wikipedia.org.
+
+Alternatively, "Little Red-Cap" (also known as "Little Red Riding Hood") could also be a suitable choice. It is a relatively short story with a straightforward plot that can be easily adapted to different writing styles. The characters are well-defined, and the dialogue is straightforward, making it easier for the LLM to adapt to the style of the selected author en.wikipedia.org.
+
+Another suggestion could be "The Frog-Prince". This story contains elements of transformation and deals with themes of promises and rewards, which could be interesting in the styles of different authors. The story also has a good mix of dialogue and narration en.wikipedia.org.
+
+However, it's essential to remember that the chosen story's complexity should match the LLM's ability to accurately mimic the author's style. If the story is too complex, the LLM may struggle to maintain the style throughout the text. Similarly, if the story is too simple, the LLM may not have enough opportunities to showcase the author's style.
+
+In conclusion, selecting the best story for your project will depend on the specific requirements and constraints of your project, as well as the capabilities of the LLM you are using.
