@@ -397,3 +397,59 @@ A girl known as Little Red-Cap, due to her favorite red velvet cap, was sent by 
 The wolf, seeing an opportunity for a meal, distracted Little Red-Cap with the beauty of the flowers around them. While she was picking flowers, the wolf went to the grandmother's house, devoured her, and disguised himself in her clothes. When Little Red-Cap arrived, she found the door open and was surprised by her grandmother's appearance. She noted her big ears, eyes, hands, and mouth, to which the wolf replied they were all the better to hear, see, hug, and eat her with. The wolf then swallowed Little Red-Cap.
 
 A huntsman passing by the house heard the wolf's loud snoring and decided to check if the grandmother needed anything. Upon finding the wolf in bed, he cut open its stomach, freeing Little Red-Cap and her grandmother. They filled the wolf's belly with stones, causing him to die when he awoke. The huntsman took the wolf's skin, the grandmother revived after eating the cake and wine, and Little Red-Cap promised never to stray from the path again. 
+
+# 10/01/2023
+## Prompt
+* Who is Jeff Hwang?
+
+### Pi.ai answer
+* Well, based on my research, Jeff Hwang is a financial professional who works as a partner and managing director at a firm called Beacon Pointe Advisors. He has over 15 years of experience in the financial industry, and he's known for delivering authentic planning and investment solutions to his clients. From what I can tell, he's a well-respected professional who's dedicated to helping his clients achieve their financial goals. Do you know Jeff Hwang personally, or are you just curious about who he is?
+
+### api-GPT-4 answer
+* ChatBot: Jeff Hwang is a known figure in several areas such as authorship and gaming management. He is a widely known gambling strategist, renowned particularly for his expertise in several casino games like Omaha and poker. He authored the "Pot-Limit Omaha Poker" and "The Big Play Strategy," which are considered significant books in the realm of the game. Details about personal life or other professions not related to the industry above might not be readily available depending on the specifics of the person in question.
+
+### phind.com
+* [Cached link](https://www.phind.com/search?cache=orahu963n5lzsafjcorckljl)
+* Answer: Jeff Hwang is a versatile personality based in Las Vegas, known for his various roles as a gaming industry expert, author, poker player, card counter, game designer, stock analyst, and restaurateur lasvegasweekly.com.
+
+Hwang's background is primarily in the gaming industry. He learned how to count cards as a teenager and became an expert in Omaha poker. He has authored books such as "Pot-Limit Omaha Poker: The Big Play Strategy" and "The Modern Baseball Card Investor" lasvegasweekly.com.
+
+In addition to his gaming expertise, Hwang also has a background in the stock market, having done internships at Fidelity and the Motley Fool. His gaming and stock market experience enabled him to write about the gaming industry from various perspectives lasvegasweekly.com.
+
+In recent years, Hwang has turned his focus towards the restaurant industry. He is the owner of Taverna Costera, a combination restaurant, coffee shop, bar, and music venue located in Las Vegas lasvegasweekly.com.
+
+He also founded a game development company about five or six years ago, creating a lineup of games that he later sold to Galaxy Gaming lasvegasweekly.com.
+
+Note: There is another person named Jeff Hwang, known as Captain Jeff “Claw” Hwang, who is a military aviator. He is famous for shooting down two MiG-29 fighters while piloting his F-15C during the NATO intervention in the Kosovo conflict eurasiantimes.com. These two individuals are not the same and should not be confused with each other.
+
+### Google Bard
+There are several notable people named Jeff Hwang, including:
+
+* Jeff Hwang, Writer: Jeff Hwang is a semi-professional poker player and an investment analyst who regularly writes about the gaming industry for the Motley Fool, a well known website about stocks and investing. He has also written several books on poker, including "Pot-Limit Omaha Poker" and "Advanced Pot-Limit Omaha."
+* Jeff Hwang, CFA, CAIA: Jeff Hwang is a Partner and Managing Director of Beacon Pointe's North Carolina office with over 15 years of experience delivering authentic planning and investment solutions to his clients. He leads a team of like-minded professionals serving private business owners, corporate executives and health care professionals with their unique planning and investment needs.
+* Jeffrey Hwang, Software Engineer: Jeffrey Hwang is a software engineer with a passion for application development, distributed architectures, and machine learning. He has worked at several companies, including Facebook AI and Mattel.
+* Jeff Hwang, Digital Content / Programming / Strategy Lead: Jeff Hwang is a Digital Content / Programming / Strategy Lead at Mattel. He is responsible for developing and executing Mattel's digital strategy across all platforms.
+* It is unclear which Jeff Hwang you are referring to. If you can provide more context, I may be able to give you a more specific answer.
+
+### Microsoft Bing Chat
+Jeff Hwang is a person who has many roles and achievements in different fields. According to the web search results, he is:
+
+- A gaming industry consultant and the best-selling author of several books on pot-limit Omaha poker, a popular variant of poker. (1)
+- A partner and managing director of Beacon Pointe’s North Carolina office, a financial planning and investment firm. (2)
+- A former fighter pilot who shot down two enemy planes over Kosovo in 1999 and retired as the vice commander of the 142nd Fighter Wing in Oregon.(3) 
+- A restaurateur who opened a Korean barbecue restaurant called 90 Proof in Las Vegas in 2020.(4) 
+
+He seems to be a very versatile and accomplished person.
+
+Source: Conversation with Bing, 10/1/2023
+(1) About Jeff - Jeff Hwang. http://www.jeffhwang.com/about-jeff.html.
+(2) Jeff Hwang, CFP®, CRPC - Beacon Pointe Advisors. https://beaconpointe.com/contact-us/greensboro-north-carolina/jeff-hwang/.
+(3) Distinguished fighter pilot retires - AF. https://www.142wg.ang.af.mil/News/Photos/igphoto/2000978365/.
+(4) Gaming expert-turned-restaurateur Jeff Hwang on counting cards and the .... https://lasvegasweekly.com/dining/2022/feb/24/gaming-expert-turned-restaurateur-jeff-hwang-on-co/.
+(5) Jeff Hwang - Home. http://www.jeffhwang.com/.
+
+
+
+
+
+
