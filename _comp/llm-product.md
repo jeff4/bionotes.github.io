@@ -299,6 +299,60 @@ Note that publishing rights, copyright restrictions and data formats might vary,
 
 ChatBot: As an AI, I can't actually hear voices, but I can provide you with information based on historical records. Alexander Hamilton lived in the 18th century, so there are no audio recordings of his voice and therefore we can't confirm any distinctive voice characteristics he might've had. If you're referencing a present-day interpretation, such as Lin-Manuel Miranda's portrayal in the musical "Hamilton," then you could consider that kind of voice ages, intensity of language, accent influenced by his origin etc., however it would be an artistic interpretation, not a historically accurate portrayal.
 
-
 ## 9/28/2023 answer from Phind.com
 * Overall, similar answer. See [cached q+a](https://www.phind.com/search?cache=lf93e4ytqzm81ai43eow45n5) here.
+
+## 9/30
+
+### Prompt
+I am creating a project where I show students how they can use fine-tuning to morph the writing style of an LLM, specifically, the nous-hermes llama-2 model. For example, I would feed in a story to the llama-2 model. The story might begins something like "Once upon a time there were three little piggies.... and then ends with and the pigs lived happily ever after". After that, I would use fine-tuning and feed in samples of writing from either: (1) Ernest Hemingway, (2) Jane Austen, (3) William Shakespeare, (4) Emily Dickinson, or (5) Virgina Woolf. And based on the training set, have Llama-2 try to rewrite the same story in the style of one of those authors. Given this, can you write a simple story no longer than 500 words that is the base "original story" that will be morphed into various retellings wih various styles?
+
+
+### api-GPT-4
+Title: "The Oak and the Sparrows"
+
+Long, long ago, in an enchanted forest, lived the oldest oak tree named Ellington. Ellington stood taller and wider than the rest, acting as a guardian for the forest inhabitants, silently witnessing the passage of time and serving as a home for countless creatures. 
+
+Among them were Valeria and Movna, two lively sparrows who were inseparable sisters made their cozy nest on one of Ellington's toughest branches. They chirped cheerful songs every day, creating a soothing symphony for the entire forest.
+
+One normal day, Movna wanted to gather the tastiest worms for Valeria, who was rather ill. Determined, she left the refuge of Ellington at first blush of the morning. After hours of searching, still, there no worms to bring back. Seeing Valeria's pale face, Movna flew in despair over the meadows fighting her fear of crossing the boundaries.
+
+As Movna left, Ellington feel into a silent worry for the little bird, aware of the menacing natural dangers lurking within the forest expanse. His pain was evident in the way his leaves hung down low, and the rest of the forest creatures too fell into a collective anxiety.
+
+Hours turned into a full day, and just as the pall of gloom was settling in, the corner of Ellington's eye sparkled bright. Movna, injured but alive was flying back towards home, carrying a massive worm squiggled in her beak.
+
+How the forest rejoiced at the sight! The echo of a thousand celebrations filled the air. Valeria, though weak, rattled a happy chirrup for her brave sister. Ellington, full of relief lifted his branches high as if to bring the prodigal child in the horizon closer to his warm embrace quickly.
+
+Movna, with her triumphant smile aflame, collapsed near Valeria due to exhaustion. Teary-eyed, valeria accepted her devoted sister's efforts rewaring her with gentle pecks on the head symbolizing her profound love.
+
+Gently nursing Movna back to strength, Valeria fed her sister portions from the treasured worm. They huddled together warm on the sturdy branch of their enduring home, the quiet hero who brought them together, their beloved Ellington.
+
+Resolved in unity and the spirit of sacrifice, the siblings, their fellow creatures, and Ellington reveled in the peaceful life at the heart of the brilliant forest.
+
+Their adventure symbolized a significant message; true courage lies in leaving your comfort zone despite jeopardies, and love is powerful enough to breathe life into desperation, fostering unbreakable bonds. The forest recollected memories of their little adventure from time to time, as Ellington now stood as an allegory of his sparrows' impossible tale - resilient, generous and heroic. 
+
+And indeed the Oak Tree, Ellington, and his accompanying environment and inhabitants alike, they lived harmoniously and blissfully, happily ever after.
+
+
+
+
+### phind.com
+* [cached URL](https://www.phind.com/search?cache=hm6it3x4zz2t7bjqp196ir2f)
+
+Sure, here is a simple story that can serve as the base for your project:
+
+> Once upon a time, in a small village nestled between the mountains and the sea, there lived a kind and wise old woman named Agnes. Agnes was known throughout the village for her exceptional skill in weaving beautiful tapestries, each one telling a unique story. She lived in a quaint little cottage, filled with the colorful threads of her stories, each one more vibrant and intricate than the last.
+
+> One day, a young boy named Toby, who was known for his curiosity and adventurous spirit, visited Agnes. He had heard the stories of her magical tapestries and wanted to see them for himself. Agnes welcomed Toby into her home and showed him her work. Toby was amazed by the beauty and intricacy of each tapestry, but one particular piece caught his eye. It was a tapestry of a majestic dragon soaring through the skies over a vast kingdom.
+
+> Toby, intrigued by the tale woven into the fabric, asked Agnes about the story behind the dragon tapestry. Agnes, with a twinkle in her eye, began to tell the tale. The dragon, she said, was a benevolent creature who protected the kingdom from various threats. It was respected and loved by the kingdom's inhabitants for its bravery and wisdom.
+
+> Toby listened intently, his imagination ignited by the story. He asked Agnes if he could learn to weave his own tapestry. Agnes, delighted by Toby's interest, agreed to teach him. Over the next few weeks, Toby learned to weave under Agnes's guidance. He started with simple patterns, gradually moving onto more complex designs.
+
+> Eventually, Toby wove his own tapestry, depicting his adventure with Agnes. It was a simple piece compared to Agnes's work, but it held a charm of its own. The villagers were impressed by Toby's skill and applauded his effort. Toby, filled with pride and gratitude, thanked Agnes for teaching him the art of weaving.
+
+> From then on, Toby continued to weave, creating his own stories and sharing them with the village. He carried on Agnes's legacy, reminding everyone of the magic that lies within their own hands. And so, the art of weaving, along with the stories it held, lived on in the heart of the village, from one generation to the next.
+
+> And as for Agnes and Toby, they continued to weave and tell their stories, their tapestries serving as a testament to their friendship, creativity, and the magic of storytelling. And they all lived happily ever after.
+
+This story has a clear narrative structure, a variety of characters, and a mix of dialogue and description, making it a good candidate for style transformation.
