@@ -434,22 +434,17 @@ There are several notable people named Jeff Hwang, including:
 ### Microsoft Bing Chat
 Jeff Hwang is a person who has many roles and achievements in different fields. According to the web search results, he is:
 
-- A gaming industry consultant and the best-selling author of several books on pot-limit Omaha poker, a popular variant of poker. (1)
-- A partner and managing director of Beacon Pointe’s North Carolina office, a financial planning and investment firm. (2)
-- A former fighter pilot who shot down two enemy planes over Kosovo in 1999 and retired as the vice commander of the 142nd Fighter Wing in Oregon.(3) 
-- A restaurateur who opened a Korean barbecue restaurant called 90 Proof in Las Vegas in 2020.(4) 
+* A gaming industry consultant and the best-selling author of several books on pot-limit Omaha poker, a popular variant of poker. (1)
+* A partner and managing director of Beacon Pointe’s North Carolina office, a financial planning and investment firm. (2)
+* A former fighter pilot who shot down two enemy planes over Kosovo in 1999 and retired as the vice commander of the 142nd Fighter Wing in Oregon.(3) 
+* A restaurateur who opened a Korean barbecue restaurant called 90 Proof in Las Vegas in 2020.(4) 
 
 He seems to be a very versatile and accomplished person.
 
 Source: Conversation with Bing, 10/1/2023
-(1) About Jeff - Jeff Hwang. http://www.jeffhwang.com/about-jeff.html.
-(2) Jeff Hwang, CFP®, CRPC - Beacon Pointe Advisors. https://beaconpointe.com/contact-us/greensboro-north-carolina/jeff-hwang/.
-(3) Distinguished fighter pilot retires - AF. https://www.142wg.ang.af.mil/News/Photos/igphoto/2000978365/.
-(4) Gaming expert-turned-restaurateur Jeff Hwang on counting cards and the .... https://lasvegasweekly.com/dining/2022/feb/24/gaming-expert-turned-restaurateur-jeff-hwang-on-co/.
-(5) Jeff Hwang - Home. http://www.jeffhwang.com/.
-
-
-
-
-
+- (1) About Jeff - Jeff Hwang. http://www.jeffhwang.com/about-jeff.html.
+- (2) Jeff Hwang, CFP®, CRPC - Beacon Pointe Advisors. https://beaconpointe.com/contact-us/greensboro-north-carolina/jeff-hwang/.
+- (3) Distinguished fighter pilot retires - AF. https://www.142wg.ang.af.mil/News/Photos/igphoto/2000978365/.
+- (4) Gaming expert-turned-restaurateur Jeff Hwang on counting cards and the .... https://lasvegasweekly.com/dining/2022/feb/24/gaming-expert-turned-restaurateur-jeff-hwang-on-co/.
+- (5) Jeff Hwang - Home. http://www.jeffhwang.com/.
 
