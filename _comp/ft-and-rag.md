@@ -26,3 +26,20 @@ permalink: /ft-and-rag/
 	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
 	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
 
+### 9/30
+* Hardware Corner has a [link to all versions of nous-hermes](https://www.hardware-corner.net/llm-database/Nous-Hermes/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
