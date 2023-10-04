@@ -554,3 +554,9 @@ sitemap: false
 * ['Chinese users can finally try their homegrown ChatGPT equivalents'](https://techcrunch.com/2023/08/31/chinese-users-can-finally-try-their-homegrown-chatgpt-equivalents/)
 * ['Context.ai wants to merge product analytics sensibilities with LLMs'](https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/) -- $3.5m seed funding from GV. Six employees who want to help LLM developers to get clearer better feedback from their LLM end-users about the quality of the LLLM's generated answers.
 * ['Google upgrades Vertex AI to keep pace with the generative AI boom'](https://techcrunch.com/2023/08/29/google-upgrades-vertex-ai-to-keep-pace-with-the-generative-ai-boom/) -- During its annual Cloud Next conference, Google announced updates to Vertex AI, its cloud-based platform that provides workflows for building, training and deploying machine learning models. Vertex AI now features updated AI models for text, image and code generation, as well as new third-party models from startups including Anthropic and Meta and extensions that let developers incorporate company data and take action on a user’s behalf.
+
+
+## 04 October 2023
+* ['Meta debuts generative AI tools for advertisers'](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/)
+
+
