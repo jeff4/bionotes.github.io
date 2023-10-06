@@ -43,3 +43,8 @@ permalink: /ft-and-rag/
 * The more powerful the models become, the more programs they store. And the benefits of finding the right program (by figuring out the right prompt) become even greater.
 * Unless LLMs change substantially in the future, prompt engineering is not going anywhere. What's going to happen, however, is that it will likely get automated so the end user doesn't have to deal with it. Better program search.
 
+
+
+### 10/06
+* Article on Parameter-Efficient Fine-Tuning [PEFT](https://huggingface.co/blog/peft)
+
