@@ -128,6 +128,13 @@ sitemap: false
 
 pasting here for now. delete if duplicative...
 
+
 * GPT - https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
 * Llama and Llama 2 — https://en.wikipedia.org/wiki/LLaMA
 * Anyscale [claims that Llama 2](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper) summary is as factually accurate as GPT-4 and is 30x cheaper
+
+## 10/08
+### Notes on IBM video 1
+
+
+
