@@ -55,12 +55,6 @@ sitemap: false
 	* Doubao by ByteDance
 	* Baichuan by the founder of Sougou
 
-### 9/30 notes
-* Straightforward and simple on fine-tuning and LLMs overall[IBM video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
-	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
-	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
-* more general [IBM video](https://www.youtube.com/watch?v=hfIUstzHs9A) explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
-
 #### Video: [How are LLMs trained?](https://www.youtube.com/watch?v=VPRSBzXzavo) by Ari Seff
 1. Video published January, 2023.
 1. 45 seconds in, InstructGPT was a forerunner to ChatGPT. See this [March 2022 paper](https://arxiv.org/abs/2203.02155) by Ouyang, Wu et al "Training language models to follow instructions with human feedback"
@@ -134,7 +128,16 @@ pasting here for now. delete if duplicative...
 * Anyscale [claims that Llama 2](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper) summary is as factually accurate as GPT-4 and is 30x cheaper
 
 ## 10/08
-### Notes on IBM video 1
+## Outline of IBM video 1 - general video on LLMs
+* [Link](https://www.youtube.com/watch?v=hfIUstzHs9A)
+* JH first encountered 9/30
+* more general video explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
 
 
+## Outline of IBM video 2 - specific video on methods of alignment, fine-tuning, etc.)
+* [Link](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+* JH first encountered 9/30
+* Straightforward and simple on fine-tuning and LLMs overall[IBM video](
+	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
+	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
 
