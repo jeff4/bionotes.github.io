@@ -7,7 +7,8 @@ permalink: /ft-and-rag/
 
 ## 9/20/2023
 ### Fine-Tuning links
-* 7/05/2023 ['Fine tuning is for form, not facts'](https://www.anyscale.com/blog/fine-tuning-is-for-form-not-facts) by Anyscale.
+* ['Fine tuning is for form, not facts'](https://www.anyscale.com/blog/fine-tuning-is-for-form-not-facts) by Anyscale. Posted July 2023
+* Amazon ['jumpstart foundation models and customize rag'](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html)
 
 ### Overview of fine-tuning
 * Single slide summarizing the entire production process. Foundation model construction, self-supervised trainingin, then the fine-tuning at the end. 
