@@ -59,3 +59,20 @@ permalink: /ft-and-rag/
 	* chatml prompt format
 	* instruction finetuning datasets
 	* pro-tips
+* See JH's [main transformer page](/transformer) to see notes on IBM video 2 specific to fine-tuning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
