@@ -1,4 +1,4 @@
---
+---
 title: Notes on Fine-Tuning and RAG
 permalink: /ft-and-rag/
 ---
