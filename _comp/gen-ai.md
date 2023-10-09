@@ -261,8 +261,12 @@ permalink: /gen-ai/
 	https://www.youtube.com/watch?v=odxlHNLWAk4
 	https://www.youtube.com/watch?v=Weod3-ZPaPM
 	https://www.youtube.com/watch?v=ll-Xit_Khq0
-   
 * Vector database available in GCP?
 	* [Paid search result](https://archive.pinecone.io/lp/vector-database/) 
 	* [GCP integrates Vector Search in Managed Databases](https://www.infoq.com/news/2023/07/gcp-databases-vector-search/)
+* Above links/notes copied to 2-post in 2-astro
 
+
+## 09 October 2023
+* A lot of updates added to `/5-slides`, `/71-gpt3`, `/72-gpt4`, `/74-llama2`
+* Anthropic has [a new paper](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components) that pushes forward capability of interpreting ANNs. Instead of trying to understand a single artificial neuron, this is able to find a better unit of analysis, called features. A feature by their definition corresponds to linear combinations of a neural activations.
