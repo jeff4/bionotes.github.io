@@ -559,4 +559,19 @@ sitemap: false
 ## 04 October 2023
 * ['Meta debuts generative AI tools for advertisers'](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/)
 
-
+## 09 October 2023
+* ['Artists across industries are strategizing together around AI concerns'](https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/) 
+* ['Gradient raises $10M to let companies deploy and fine-tune multiple LLMs'](https://techcrunch.com/2023/10/05/gradient-raises-10m-to-let-companies-deploy-and-fine-tune-multiple-llms/) 
+* ['Generative AI removing background noise from recordings is just one of the new tools for podcasters'](https://techcrunch.com/2023/10/04/generative-ai-removing-background-noise-from-recordings-is-just-one-of-the-new-tools-for-podcasters/) startup is called Podcastle 
+* ['Amazon to invest up to $4 billion in AI startup Anthropic'](https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/) 
+* [New features announced for ChatGPT](https://techcrunch.com/2023/09/25/openai-chatgpt-voice/) including image interpretation and voice for verbal conversations. Published/announced 9/25, will be rolling out over 2 weeks. also ability to translate podcasters into other languages.
+* ['Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models* ['French AI startup Mistral AI makes its first large language model free for everyone'](https://techcrunch.com/2023/09/27/mistral-ai-makes-its-first-large-language-model-free-for-everyone/) 
+* ['https://techcrunch.com/2023/09/26/openais-gpt-4-with-vision-still-has-flaws-paper-reveals/'](https://techcrunch.com/2023/09/26/openais-gpt-4-with-vision-still-has-flaws-paper-reveals/)
+* ['AlphaSense, an AI-based market intel firm, snaps up $150M at a $2.5B valuation'](https://techcrunch.com/2023/09/28/alphasense-an-ai-based-market-intel-firm-snaps-up-150m-at-a-2-5b-valuation/) 
+* ['Amazon launches its Bedrock generative AI service in general availability'](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/) 
+* [' Humata AI summarizes and answers questions about your PDFs'](https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/)
+* ['LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI'](https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/) from Oct 3rd. 
+* ['Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models'](https://techcrunch.com/2023/10/03/arc-browsers-new-ai-powered-features-combine-openai-and-anthropics-models/)
+* ['Yahoo spins out Vespa, its search tech, into an independent company'](https://techcrunch.com/2023/10/04/yahoo-spins-out-vespa-its-search-tech-into-an-independent-company/). this is one of the oldest DBs that offer vector DB capabilities but also more. See [HN thread](https://news.ycombinator.com/item?id=37769962)
+* ['Rabbit is building an AI model that understands how software works'](https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/)
+* ['Meta debuts generative AI features for advertisers'](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/) 
