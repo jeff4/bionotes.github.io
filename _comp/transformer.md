@@ -134,11 +134,14 @@ pasting here for now. delete if duplicative...
 * Speaker: Kate Soule, Sr. Mgr Business Strategy
 * JH first encountered 9/30
 * more general video explaining relationship between Foundation Models vs. LLMs vs. other types of models. Outline this 9 minute video
+### with time codes
 * (2:45) the diagram is drawn on the left at this time code–Sets. Largest set: Generative Model > Foundation Model > LLM
 * (1:00) Stanford paper that said individual models for individual use cases would be subsumed by a single large model with a foundational capability, aka a 'foundation model'.
     * Moreover, this FM would have the ability be able to tackle many other new use cases that perhaps it was not initially tuned for
 * (1:52). The Foundation Model or FM is trained via unsupervised training on unstructured (or in JH's opinion, semi-unstructured) data.  
-* (2:58) Even though these models are pre-trained  
+* (2:58) Even though these models are pre-trained
+
+* 
 
 ## Outline of IBM video 2 - specific video on methods of alignment, fine-tuning, etc.)
 * [Link](https://www.youtube.com/watch?v=T-D1OfcDW1M)
