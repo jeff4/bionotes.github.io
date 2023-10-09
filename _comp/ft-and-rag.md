@@ -31,7 +31,7 @@ permalink: /ft-and-rag/
 * Hardware Corner has a [link to all versions of nous-hermes](https://www.hardware-corner.net/llm-database/Nous-Hermes/)
 
 ## 10/03
-### Text from François Chollet's Twitter on 10/3:
+### Text from [François Chollet's Twitter](https://twitter.com/fchollet/status/1709242747293511939) on 10/3:
 
 * My interpretation of prompt engineering is this:
 
@@ -43,7 +43,7 @@ permalink: /ft-and-rag/
 
 * The more powerful the models become, the more programs they store. And the benefits of finding the right program (by figuring out the right prompt) become even greater.
 * Unless LLMs change substantially in the future, prompt engineering is not going anywhere. What's going to happen, however, is that it will likely get automated so the end user doesn't have to deal with it. Better program search.
-
+### [FChollet's substack post](https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering) about prompt engineering. 10/09
 
 ## 10/06
 * Article on Parameter-Efficient Fine-Tuning [PEFT](https://huggingface.co/blog/peft)
@@ -61,18 +61,6 @@ permalink: /ft-and-rag/
 	* pro-tips
 * See JH's [main transformer page](/transformer) to see notes on IBM video 2 specific to fine-tuning
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## See also show-notes in 0-tue
+* for updated listing of prompt engineering techniques
 
