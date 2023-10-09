@@ -574,4 +574,3 @@ sitemap: false
 * ['Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models'](https://techcrunch.com/2023/10/03/arc-browsers-new-ai-powered-features-combine-openai-and-anthropics-models/)
 * ['Yahoo spins out Vespa, its search tech, into an independent company'](https://techcrunch.com/2023/10/04/yahoo-spins-out-vespa-its-search-tech-into-an-independent-company/). this is one of the oldest DBs that offer vector DB capabilities but also more. See [HN thread](https://news.ycombinator.com/item?id=37769962)
 * ['Rabbit is building an AI model that understands how software works'](https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/)
-* ['Meta debuts generative AI features for advertisers'](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/) 
