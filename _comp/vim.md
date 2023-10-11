@@ -60,3 +60,9 @@ permalink: /vim/
 ## 9/27/2023
 * Very handy way of deleting to a `search string` e.g., 'Nashville'. Instead of typing `dtN`, type `d/Nashville` followed by <CR> or `Enter` key. See [this answer](https://vi.stackexchange.com/questions/14459/delete-to-next-search-result)
 * Note that to search backwards, `Shift-/` aka `?` works just like usual reverse search. e.g., instead of typing `dTN`, type `d?Nashville` followed by <CR> or `Enter` key. 
+
+## 10/11/2023
+* vim has a built in sort utility works very well. If you want to sort all lines `:%sort u`. For more see [this article](https://vim.fandom.com/wiki/Sort_lines#:~:text=Yes%2C%20it%27s%20that%20simple.,%27%3E%20on%20the%20command%20line.)
+
+
+
