@@ -139,14 +139,19 @@ pasting here for now. delete if duplicative...
 * (1:00) Stanford paper that said individual models for individual use cases would be subsumed by a single large model with a foundational capability, aka a 'foundation model'.
     * Moreover, this FM would have the ability be able to tackle many other new use cases that perhaps it was not initially tuned for
 * (1:52). The Foundation Model or FM is trained via unsupervised training on unstructured (or in JH's opinion, semi-unstructured) data.  
-* (2:58) Even though these models are pre-trained
+* (2:58) Even though these models are pre-trained  
+*  
 
-* 
 
 ## Outline of IBM video 2 - specific video on methods of alignment, fine-tuning, etc.)
 * [Link](https://www.youtube.com/watch?v=T-D1OfcDW1M)
 * JH first encountered 9/30
-* Straightforward and simple on fine-tuning and LLMs overall[IBM video](
+* Straightforward and simple on fine-tuning and LLMs overall
 	1. Critical point. RAG is a small data store that is quick and easy to update with new information without having to retrain the whole foundation model. 
 	1. It can also be clearer about what source it is using for a given fact. and if there are no good sources to back it up, the LLM is instructed to not be as confident or simply say i don't know or that there are not good sources about this.
 
+
+## 10/13
+* See [Transformer page](/gen-ai/), May 27, 2023 to see links to QLoRA](/gen-ai/), May 27, 2023 to see links to QLoRA
+* Simple straightforward June, 2023 article by Timothy B. Lee and Sean Trott about ['Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
+* Lightning.ai has an [AI Glossary](https://lightning.ai/glossary/)
