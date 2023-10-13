@@ -64,3 +64,12 @@ permalink: /ft-and-rag/
 ## See also show-notes in 0-tue
 * for updated listing of prompt engineering techniques
 
+
+## 10/13
+* New article from Lightning.ai on ['Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments'](https://lightning.ai/pages/community/lora-insights/). 
+
+
+
+
+
+
