@@ -215,6 +215,7 @@ permalink: /gen-ai/
 
 ## 27 May 2023
 * New paper ['QLoRA: Efficient Finetuning of Quantized LLMs'](https://arxiv.org/abs/2305.14314) and [HN thread](https://news.ycombinator.com/item?id=36064568) 
+	* Follow up August article by Databricks ['Efficient Fine-Tuning with LoRA: A Guide to Optimal Parameter Selection for Large Language Models'](https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms)
 
 ## 28 May 2023
 * Good PDF ['The Little Book of Deep Learning'](https://www.fleuret.org/public/lbdl.pdf) and related [HN thread](https://news.ycombinator.com/item?id=35767789)
@@ -270,3 +271,10 @@ permalink: /gen-ai/
 ## 09 October 2023
 * A lot of updates added to `/5-slides`, `/71-gpt3`, `/72-gpt4`, `/74-llama2`
 * Anthropic has [a new paper](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components) that pushes forward capability of interpreting ANNs. Instead of trying to understand a single artificial neuron, this is able to find a better unit of analysis, called features. A feature by their definition corresponds to linear combinations of a neural activations.
+
+## 13 October 2023
+* Updated version of the paper ['Textbooks are all you need'](https://arxiv.org/abs/2306.11644) - October, 2023 that includes the 1.5 version of the [phi model](https://venturebeat.com/business/meet-phi-1-5-the-new-language-model-that-could-make-training-ai-radically-cheaper-and-faster/) from Microsoft Research. Phi-1.5 is an LLM that could make training AI radically cheaper and faster.
+	* See also this [KD Nuggets article](https://www.kdnuggets.com/effective-small-language-models-microsoft-phi-15) about the same Phi-1.5 model. Only has 1.3B parameters but performs well!
+* September 2023 paper showing how effectively foundation models can scale to long contexts (aka 32k tokens). ['Effective Long-Context Scaling of Foundation Models.'](https://arxiv.org/abs/2309.16039)
+* Good article by Jeremy Howard and author Sylvain Gugger on [the history of the AdamW algorithm](https://www.fast.ai/posts/2018-07-02-adam-weight-decay.html) as a competitor to SGD.
+* New article from Lightning.ai on ['Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments'](https://lightning.ai/pages/community/lora-insights/). 
