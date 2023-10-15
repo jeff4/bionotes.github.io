@@ -155,3 +155,6 @@ pasting here for now. delete if duplicative...
 * See [Transformer page](/gen-ai/), May 27, 2023 to see links to QLoRA](/gen-ai/), May 27, 2023 to see links to QLoRA
 * Simple straightforward June, 2023 article by Timothy B. Lee and Sean Trott about ['Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * Lightning.ai has an [AI Glossary](https://lightning.ai/glossary/)
+* Important... [read the transcript of this March, 2023](https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/) recent review of advances in transformers, etc. by Microsoft.
+* see 81-glossary for some new stuff to add to this transformer page. Think through what should go in transformer and what should go into this page
+	* maybe rename this page into `foundation` and rename current `/foundation` page into `/foundation-stanford` page.
