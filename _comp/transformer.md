@@ -158,3 +158,6 @@ pasting here for now. delete if duplicative...
 * Important... [read the transcript of this March, 2023](https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/) recent review of advances in transformers, etc. by Microsoft.
 * see 81-glossary for some new stuff to add to this transformer page. Think through what should go in transformer and what should go into this page
 	* maybe rename this page into `foundation` and rename current `/foundation` page into `/foundation-stanford` page.
+
+## 10/15
+* More reading
