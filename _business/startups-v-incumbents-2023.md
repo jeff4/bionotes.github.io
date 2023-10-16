@@ -574,7 +574,12 @@ sitemap: false
 * ['Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models'](https://techcrunch.com/2023/10/03/arc-browsers-new-ai-powered-features-combine-openai-and-anthropics-models/)
 * ['Yahoo spins out Vespa, its search tech, into an independent company'](https://techcrunch.com/2023/10/04/yahoo-spins-out-vespa-its-search-tech-into-an-independent-company/). this is one of the oldest DBs that offer vector DB capabilities but also more. See [HN thread](https://news.ycombinator.com/item?id=37769962)
 * ['Rabbit is building an AI model that understands how software works'](https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/)
+* [' 
 
 
 ## 13 October 2023
 * Short article from June, 2023 [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/) by the Autopilot Fund. References the [2015 a16z article "Distribution vs. Innovation"](https://a16z.com/distribution-vs-innovation/?ref=blog.autopilot.fund)
+
+## 16 October 2023
+* ['Box unveils unique AI pricing plan to account for high cost of running LLMs'[(https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
+* ['Box announces Hubs, a custom portal to share specialized content'](https://techcrunch.com/2023/10/11/box-announces-hubs-a-custom-portal-to-share-specialized-content/) 
