@@ -581,5 +581,6 @@ sitemap: false
 * Short article from June, 2023 [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/) by the Autopilot Fund. References the [2015 a16z article "Distribution vs. Innovation"](https://a16z.com/distribution-vs-innovation/?ref=blog.autopilot.fund)
 
 ## 16 October 2023
-* ['Box unveils unique AI pricing plan to account for high cost of running LLMs'[(https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
+* ['Box unveils unique AI pricing plan to account for high cost of running LLMs'](https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
 * ['Box announces Hubs, a custom portal to share specialized content'](https://techcrunch.com/2023/10/11/box-announces-hubs-a-custom-portal-to-share-specialized-content/) 
+* [' 
