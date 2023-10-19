@@ -42,121 +42,23 @@ permalink: /ch-food/
 
 ## Flash Cards
 
-### Lesson 21
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 病人 - bìng rén (sick person, patient)
-1. 搞 - gǎo (to get tangled with)
-1. 替 - tì (take the place of; replace, substitute for)
-1. 翻譯 [翻译] - fān yì (translate)
-1. 身體 [身体] - shēn tǐ (body)
-1. 給 [给] - gěi (to give) from L4. Delete when done
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
-1. ...史 - shǐ (history of ...)
-1. 決定 [决定] - jué dìng (to decide)
-1. 希望 - xī wàng (hope - both noun and verb)
-1. 冷 - lěng (cold)
-1. 送 - sòng (to send, to give as a present; to deliver; to accompany, escort)
-1. 信 - xìn (letter)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
-
-### Lesson 22
-1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
-1. 錯 [错] - cuò (wrong). See also L12.
-1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
-1. 就要...了 -  jiù yào...le (about to...)
-1. 像 - xiàng (to resemble)
-1. 家 - jiā (house)
-1. 筷子 - kuài zi (chopsticks)
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. 一樣 [一样] - yī yàng (to be the same)
-1. 春節 [春节] - Chūn Jié (Spring Festival)
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 難 [难] - nán (difficult, hard). See also L25
-1. 它⧸牠 - tā (it)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 餓 [饿] - è (hungry)
-
-### Lesson 23
-1. 漂亮 - piào liang (pretty). See also L28.
-1. 去年 - qù nián (last year)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 讓 [让] - ràng (to allow)
-1. 秋天 - qiū tiān (autumn, fall)
-1. 正 - zhèng (correct, right, straighten)
-1. 夏天 - xià tiān (summer)
-1. 著 [着] - zhe (particle added to indicate 'continued action or state', e.g., 站著 *zhàn zhe* means "standing")
-1. 天氣 [天气] - tiān qì (weather)
-1. 女 - nǚ (female)
-1. 大衣 - dà yī (overcoat)
-1. 下雨 - xià yǔ (to rain)
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
-1. 真 - zhēn (really; real)
-1. 男 - nán (male)
-1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
-1. 下雪 - xià xuě (to snow)
-1. 穿 - chuān (to wear)
-1. 春天 - chūn tiān (spring)
-1. 好像 - hǎo xiàng (very like, similar to, resembles)
-
-### Combined L21-23
-1. 一樣 [一样] - yī yàng (to be the same)
-1. 好像 - hǎo xiàng (very like, similar to, resembles)
-1. 家 - jiā (house)
-1. 大衣 - dà yī (overcoat)
-1. 兒女 [儿女] - ér nǚ (children; literally 'boy girl')
-1. 男 - nán (male)
-1. 飯館 [饭馆] - fàn guǎn (restaurant)
-1. 讓 [让] - ràng (to allow)
-1. 女 - nǚ (female)
-1. 秋天 - qiū tiān (autumn, fall)
-1. 放假 - fàng jià (to have vacation). See also 蝦 xiā from Chinese food page.
-1. 難 [难] - nán (difficult, hard). See also L25
-1. 搞 - gǎo (to get tangled with)
-1. 夏天 - xià tiān (summer)
-1. 颳風 [刮风] - guā fēng (to be windy)
-1. 聖誕老人 - shèng dàn lǎo rén (Santa Claus)      
-1. 真 - zhēn (really; real)
-1. 小說 [小说] - xiǎo shuō (*noun* a novel)
-1. 餓 [饿] - è (hungry)
-1. 穿 - chuān (to wear)
-1. 天氣 [天气] - tiān qì (weather)
-1. 次 - cì (number of times, e.g., 三次 means '3 times'.) Many other defs including position in a series, 2nd rate, etc. See Pleco for more on 次.
-1. ...史 - shǐ (history of ...)
-1. 它⧸牠 - tā (it)
-1. 筷子 - kuài zi (chopsticks)
-1. 暖和 - nuǎn huo (*adjective* warm, mild; *verb* warm up). Same character as *hé* in L5.
-1. 聖誕節 [圣诞节] - Shèng dàn Jié (Christmas)
-1. 漂亮 - piào liang (pretty). See also L28.
-1. 身體 [身体] - shēn tǐ (body)
-1. 正 - zhèng (correct, right, straighten)
-1. 希望 - xī wàng (hope - both noun and verb)
-1. 或者 - huò zhě (either...or...). Don't confuse with 都 *dōu* (all) from L5
-1. 熱情 [热情] - rè qíng (warm, compassionate). See also 热 from L17.
-1. 下雨 - xià yǔ (to rain)
-1. 替 - tì (take the place of; replace, substitute for)
-1. 著 [着] - zhe (indicate 'continued action or state', e.g.,*zhàn zhe* means "standing")
-1. 下雪 - xià xuě (to snow)
-1. 還 [还] - is also *huán* (to go back to; to give back, repay) from L5. Delete when done
-1. 送 - sòng (to send, to give as a present; to deliver; to accompany, escort)
-1. 並且 [并且] - bìng qiě (and, besides, moreover; as well as)
-1. 給 [给] - gěi (to give) from L4. Delete when done
-1. 去年 - qù nián (last year)
-1. 決定 [决定] - jué dìng (to decide)
-1. 比 - bǐ (compare; also vulgar for South American *la concha*)
-1. 冬天 - dōng tiān (winter). See also 疼 *pain* from L17.
-1. 信 - xìn (letter)
-1. 像 - xiàng (to resemble)
-1. 錯 [错] - cuò (wrong). See also L12.
-1. 春天 - chūn tiān (spring)
-1. 就要...了 -  jiù yào...le (about to...)
-1. 過去 [过去] - guo qu *or* guò qù (to pass by)
-1. 病人 - bìng rén (sick person, patient)
-1. 冷 - lěng (cold)
-1. 祝 - zhù (to wish well, e.g., 祝你好)
-1. 翻譯 [翻译] - fān yì (translate)
-1. 春節 [春节] - Chūn Jié (Spring Festival)
+### Lesson 24
+1. 立刻 - lì kè (immediately, at once)
+1. 發現 [发现] - fā xiàn (to discover, to find, to realize)
+1. 發生 [发生] - fā shēng (to happen, to occur). See also L20.
+1. 介紹 [介绍] - jiè shào (to introduce, to present, to recommend)
+1. 生活 - shēng huó (life, livelihood). Reminds me of 話 *huà*. 
+1. 同時 [同时] - tóng shí (at the same time, simultaneously, meanwhile)
+1. 人口 - rén kǒu (population; family size)
+1. 分之 - fēn zhī (part of a fraction). e.g. 三分之一 means 'one out of three pieces' aka 'one-third' aka 1/3'.
+1. 增加 - zēng jiā (to increase). See also 參加 *cān jiā* from L11
+1. 就是 - jiù shì (lots of meanings. old notes say 'all except'. But see Pleco...)
+1. 從前 [从前] - cóng qián (before, formerly, in the past)
+1. 比方說 [比方说] - bǐ fang shuō (for example)
+1. 體重 [体重] - tǐ zhòng (body weight). Therefore, 體重增加 means "to gain weight".
+1. 小姐 - xiǎo jiě (young lady)
+1. 從...起 [从...起] - cóng...qi/qǐ (former; before)
+1. 感覺 [感觉] - gǎn jué (*noun* perception, sensation; *verb* to feel, perceive; to realize)
+1. 街 - jiē (street). See also L20 for 路 *lù* (road).
+1. 認為 [认为] - rèn wéi (to believe, have a strong opinion, to have a dream, to feel). See also L12.
+1. 散步 - sàn bù (to walk, stroll)
