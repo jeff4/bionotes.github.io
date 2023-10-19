@@ -644,7 +644,7 @@ Go to [this page](/ch-food/)
 
 ### Lesson 25
 1. 最 - zuì (the most)
-1. 最近 - zuì jìn (recently). *Note* there is no traditional form of 近.
+1. 最近 - zuì jìn (recently). *Note* there is no special simplified character version of 近.
 1. 更 - gèng (even more)
 1. 困難 [困难] - kùn nan (difficult). See also L22.
 1. 容易 - róng yì (easy)
