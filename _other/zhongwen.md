@@ -507,7 +507,7 @@ Go to [this page](/ch-food/)
 1. 帶[带] - dài (to bring along, to carry)
 1. 回 - huí (to return) See also 回答 huí dá in L15
 1. 費 [费] - fèi (to take a lot, e.g., làng fèi means "waste")
-1. 免費 [免费] - miǎn fèi (free of charge) 
+1. 免費 [免费] - miǎn fèi (free of charge). Note similarity with 晚安 *good evening* from Lesson 11.
 1. 出 - chū (exit)
 1. 倒是 - dào shì (admittedly)
 1. 樓 [楼] - lóu (floor of a building--originally in L19 below)
