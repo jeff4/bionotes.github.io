@@ -682,7 +682,7 @@ Go to [this page](/ch-food/)
 1. 腳步 [脚步] - jiǎo bù (footstep)
 1. 手錶 [手表] - shǒu biǎo (wristwatch)
 1. 聲音 [声音] - shēng yīn (sound)
-1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 靜 *jing* from L3. 
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 淨 *jing* from L3. 
 1. 搬家 - bān jiā (to move house)
 1. 同志 - tóng zhì (comrade; colleague)
 1. 也...也... - yě...yě... (both...and...)
