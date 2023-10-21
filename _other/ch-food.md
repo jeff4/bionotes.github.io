@@ -84,3 +84,27 @@ permalink: /ch-food/
 1. 最近 - zuì jìn (recently). *Note* there is no special simplified character version of 近.
 1. 更 - gèng (even more)
 
+### Lesson 26
+1. 搬家 - bān jiā (to move house)
+1. 日記 [日记] - rì jì (diary)
+1. 腳步 [脚步] - jiǎo bù (footstep)
+1. 手錶 [手表] - shǒu biǎo (wristwatch)
+1. 同志 - tóng zhì (comrade; colleague)
+1. 深 - shēn (deep in color; depth)
+1. 廁所 [厕所] - cè suǒ (toilet)
+1. 安靜 [安静] - ān jìng (quiet, peaceful, silent). 靜 looks somewhat like 淨 *jing* from L3. 
+1. 衣服 - yī fu (clothing; garment). See also *shū fú* (comfortable) from L9 and *fú wù yuán* (attendant) from L29. 
+1. 藍 [蓝] - lán (blue)
+1. 顏色 [颜色] - yán sè (color). sè is similar to 晚 *wǎn*.
+1. 毛衣 - máo yī (sweater)
+1. 淺 [浅] - qiǎn (light/pale in color; shallow)
+1. 聲音 [声音] - shēng yīn (sound)
+1. 愛 [爱] - ài (love)
+1. 點心 [点心] - diǎn xin (dim sum)
+1. 黃 - huáng (yellow)
+1. 也...也... - yě...yě... (both...and...)
+1. 白 - bái (white)
+1. 塊 [块] - kuài (piece, block; a dollar; measure word for dollar)
+1. 綠 [绿] - lǜ (green)
+1. 樣子 [样子] - yàng zi (style, standard, pattern)
+
