@@ -666,7 +666,7 @@ Go to [this page](/ch-food/)
 ### Lesson 26
 1. 日記 [日记] - rì jì (diary)
 1. 毛衣 - máo yī (sweater)
-1. 衣服 - yī fu (clothing; garment). See also *shū fú* (comfortable) from L9 and *fú wù yuán* (attendant) from L29. 
+1. 衣服 - yī fu (clothing; garment). See also *shū fú* (comfortable) from L9 and *fú wù yuán* (attendant) from L28. 
 1. 淺 [浅] - qiǎn (light/pale in color; shallow)
 1. 深 - shēn (deep in color; depth)
 1. 綠 [绿] - lǜ (green)
@@ -765,3 +765,15 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
+1. 
+
+### Lesson 31
+### Lesson 32
+### Lesson 33
+### Lesson 34
+### Lesson 35
+### Lesson 36
+### Lesson 37
+### Lesson 38
+### Lesson 39
+### Lesson 40
