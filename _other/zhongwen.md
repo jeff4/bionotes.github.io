@@ -498,7 +498,7 @@ Go to [this page](/ch-food/)
 1. 城裏 [城里] - chéng lǐ (in town; in the city). See also 成 in L17 and L29
 1. 時間 [时间] - shí jiān (time) See also 時候 shí hòu in L7
 1. 公共汽車 [公共汽车] - gōng gòng qì chē (bus)
-1. 自行車 [自行车] - zì xíng chē (bicycle)
+1. 自行車 [自行车] - zì xíng chē (bicycle). See also 旅行 *lǚ xíng* (vacation) from L29.
 1. 騎 [骑] - qí (to ride a bicycle or vehicle). See also 奇from 奇怪 *qí guài* (strange) in L20. 
 1. 一輛自行車 [一辆自行车] - yī liàng zì xíng chē (one bicycle, liang is measure word for vehicles)
 1. 收音機 [收音机] - shōu yīn jī (radio)
@@ -737,13 +737,13 @@ Go to [this page](/ch-food/)
 1. 計劃 [计划] - jì huà (plan, project, programme)
 1. 查 - chá (to look up, to consult, to examine)
 1. 論文 [论文] - lùn wén (thesis, dissertation, paper). See also 討論 *tǎo lùn* from L14.
-1. 提前 - tí qián (shift to an earlier date; to do in advance)
+1. 提前 - tí qián (shift to an earlier date; to do in advance). See also 提高 *tí gāo* from L30
 1. 完成 - wán chéng (accomplish; complete). See also L17.
 1. 可惜 - kě xī (it's a pity; too bad)
 1. 不然 - bù rán (otherwise; not so, not the case)
 1. 紐約 [纽约] - niǔ yuē (New York)
 1. 音樂 [音乐] - yīn yuè (music). JH introduced this in L19
-1. 旅行 - lǚ xíng (to travel, to vacation)
+1. 旅行 - lǚ xíng (to travel, to vacation). See also 行 from L16 (sufficient), and bicycle from L18.
 1. 批評 [批评] - pī píng (to criticize)
 1. 一天到晚 - yī tiān dào wǎn (from morning til night)
 1. 睡覺 [睡觉] - shuì jiào (to go to bed; to sleep). Note that 覺 is also pronounced *jué*, as seen in L17, L24.
@@ -761,7 +761,7 @@ Go to [this page](/ch-food/)
 1. 流利 - liú lì (fluent, smooth)
 1. 聽說 [听说] - tīng shuō (to have heard people say...)
 1. 一天比一天 - yī tiān bǐ yī tiān (day by day)
-1. 提高 - tí gāo (to raise)
+1. 提高 - tí gāo (to raise). See also 提前 *tí qián* (move earlier in calendar) from L29.
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
