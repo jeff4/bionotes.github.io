@@ -746,7 +746,7 @@ Go to [this page](/ch-food/)
 1. 旅行 - lǚ xíng (to travel, to vacation)
 1. 批評 [批评] - pī píng (to criticize)
 1. 一天到晚 - yī tiān dào wǎn (from morning til night)
-1. 睡覺 [睡觉] - shuì jiào (to go to bed; to sleep)
+1. 睡覺 [睡觉] - shuì jiào (to go to bed; to sleep). Note that 覺 is also pronounced *jué*, as seen in L17, L24.
 1. 不但...而且 - bù dàn...ér qiě (not only...but also)
 1. 老 - lǎo (to keep on; to persist)
 1. 幹 [干] - gàn (*verb* to do, to act, to work; *noun* trunk, stem, main part; cadre)
