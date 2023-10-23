@@ -413,7 +413,7 @@ Go to [this page](/ch-food/)
 1. 休息 - xiū xi (rest)
 1. 重要 - zhòng yào (important)
 1. 意思  - yì si (meaning) See also L5
-1. 討論 [讨论] - tǎo lùn (to discuss)
+1. 討論 [讨论] - tǎo lùn (to discuss). See also 論文 *lùn wén* (dissertation) from L29.
 
 ### Lesson 15
 1. 買[买] - mǎi (to buy)
@@ -736,7 +736,7 @@ Go to [this page](/ch-food/)
 1. 春假 - chūn jià (spring break)
 1. 計劃 [计划] - jì huà (plan, project, programme)
 1. 查 - chá (to look up, to consult, to examine)
-1. 論文 [论文] - lùn wén (thesis, dissertation, paper)
+1. 論文 [论文] - lùn wén (thesis, dissertation, paper). See also 討論 *tǎo lùn* from L14.
 1. 提前 - tí qián (shift to an earlier date; to do in advance)
 1. 完成 - wán chéng (accomplish; complete). See also L17.
 1. 可惜 - kě xī (it's a pity; too bad)
