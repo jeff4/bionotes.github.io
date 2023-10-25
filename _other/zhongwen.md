@@ -765,15 +765,13 @@ Go to [this page](/ch-food/)
 1. 進步 [进步] - jìn bù (to improve)
 1. 需要 - xū yào (to need)
 1. 解決 [解决] - jiě jué (to fix, to resolve, to solve)
-1. 
-
-### Lesson 31
-### Lesson 32
-### Lesson 33
-### Lesson 34
-### Lesson 35
-### Lesson 36
-### Lesson 37
-### Lesson 38
-### Lesson 39
-### Lesson 40
+1. 下兒 [下儿] - xiàr (measure word for actions–see Pleco; capacity of a container)
+1. 關心 [关心] - guān xīn (concerned about)
+1. 情況 [情况] - qíng kuàng (circumstances, condition, situation)
+1. 算是 - suàn shì (at last, finally; considered to be)
+1. 許多 [许多] - xǔ duō (many; lots of)
+1. 需要 -  xū yào (to need)
+1. 解決 [解决] - jiě jué (to solve)
+1. 國家[国家] - guó jiā (nation)
+1. 恐怕 - kǒng pà (to be afraid that...; verb/adverb of fear, dread, etc.)
+1. 得很 - de hěn (extremely...)
