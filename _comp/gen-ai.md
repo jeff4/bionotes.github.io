@@ -278,3 +278,6 @@ permalink: /gen-ai/
 * September 2023 paper showing how effectively foundation models can scale to long contexts (aka 32k tokens). ['Effective Long-Context Scaling of Foundation Models.'](https://arxiv.org/abs/2309.16039)
 * Good article by Jeremy Howard and author Sylvain Gugger on [the history of the AdamW algorithm](https://www.fast.ai/posts/2018-07-02-adam-weight-decay.html) as a competitor to SGD.
 * New article from Lightning.ai on ['Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments'](https://lightning.ai/pages/community/lora-insights/). 
+
+## 25 October 2023
+* New Jina AI release launches [open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/) and [HN thread](https://news.ycombinator.com/item?id=38020109). Also Simon Willison has already built a [Jina plugin for this](https://simonwillison.net/2023/Oct/26/llm-embed-jina/) and explains embeddings in general [in this blog post](https://simonwillison.net/2023/Oct/23/embeddings/)
