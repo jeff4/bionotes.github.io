@@ -159,5 +159,6 @@ pasting here for now. delete if duplicative...
 * see 81-glossary for some new stuff to add to this transformer page. Think through what should go in transformer and what should go into this page
 	* maybe rename this page into `foundation` and rename current `/foundation` page into `/foundation-stanford` page.
 
-## 10/15
-* More reading
+## 10/27
+* Consider subscribing to the $10/month $100/yr Damien Benveniste [TheAIEdge](https://newsletter.theaiedge.io/archive) paid substack. Currently on free substack. Esp. to view his 10/26 48-minute video on Intros to LLM: 2014 RNN Encoder-Decoder Architecture by Bengio et al. See also Photos for screenshot of diagram
+* 2014 Cho et al Bengio paper ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"](https://arxiv.org/abs/1406.1078). Introduced Encoder-Decoder architecture to world of RNNs with important consequences for encoder-decoder work in Transformers and LLMs ~5 years later. Pointed out by Damine Benveniste. PDF is in Box
