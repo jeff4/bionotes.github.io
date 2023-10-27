@@ -130,3 +130,24 @@ permalink: /ch-food/
 1. 教室 - jiào shì (classroom)
 1. 洗 - xǐ (to wash; to bathe)
 1. 糟糕 - zāo gāo (oh no!)
+
+### Lesson 28
+1. 合適 [适適] - hé shì (suitable; appropriate; fitting). See also 哈佛 Harvard from L11, 合作社 from L15.
+1. 分 - fēn (penny, cents; 1/100th of a dollar)
+1. 毛 - máo (a dime; one-tenth of a dollar)
+1. 缺點 [缺点] - quē diǎn (drawback)
+1. 一共 - yī gòng (altogether, in all, all told)
+1. 找 - zhǎo (to give change back). See also L13 same character and pronunciation for "to search". 
+1. 起 - qǐ (to wake up; to rise; to stand up)
+1. 服務員 [服务员] - fú wù yuán (attendant). See also clothing from L26 and comfortable from L9. 
+1. 電費 [电费] - diàn fèi (bill or fee for electricity)
+1. 房錢 [房钱] - fáng qian (rent for housing)
+1. 空氣 [空气] - kōng qì (air)
+1. 座 - zuò (measure word for buildings, mtns, other large immovable objects)
+1. 付 - fù (to hand over; to pay)
+1. 大樓 [大楼] - dà lóu (large, multi-story building)
+1. 附近 - fù jìn (vicinity)
+1. 又...又... - yoù...yoù... (not only...but also...)
+1. 亮 - lìang (bright). See also 漂亮 *piào liang* from L23.
+1. 房子 - fáng zi (house)
+1. 除了...以外 - chú le ...yǐ wài (except for...)
