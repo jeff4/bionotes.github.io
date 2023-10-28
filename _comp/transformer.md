@@ -163,7 +163,7 @@ pasting here for now. delete if duplicative...
 * Consider subscribing to the $10/month $100/yr Damien Benveniste [TheAIEdge](https://newsletter.theaiedge.io/archive) paid substack. Currently on free substack. Esp. to view his 10/26 48-minute video on Intros to LLM: 2014 RNN Encoder-Decoder Architecture by Bengio et al. See also Photos for screenshot of diagram
 * 2014 Cho et al Bengio paper ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"](https://arxiv.org/abs/1406.1078). Introduced Encoder-Decoder architecture to world of RNNs with important consequences for encoder-decoder work in Transformers and LLMs ~5 years later. Pointed out by Damine Benveniste. PDF is in Box
 
-## 10/27
+## 10/28
 * Read LoRA and QLoRA papers 2021, 2023
 * RNN Encoder-Decoder paper by Bengio et al 2014
 * Illustrated Transformer by Jay post-2017
