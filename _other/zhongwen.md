@@ -784,3 +784,4 @@ Go to [this page](/ch-food/)
 1. 最好 - zuì hǎo (it would be best)
 1. 推 - tuī (to push; to shove)
 1. 牆⧸墻 [墙] - qiáng (wall). 人牆- rén qiáng (human wall).
+1.
