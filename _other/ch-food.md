@@ -151,3 +151,28 @@ permalink: /ch-food/
 1. 大樓 [大楼] - dà lóu (large, multi-story building)
 1. 一共 - yī gòng (altogether, in all, all told)
 1. 亮 - lìang (bright). See also 漂亮 *piào liang* from L23.
+
+### Lesson 29
+1. 論文 [论文] - lùn wén (thesis, dissertation, paper). See also 討論 *tǎo lùn* from L14.
+1. 睡覺 [睡觉] - shuì jiào (to go to bed; to sleep). Note that 覺 is also pronounced *jué*, as seen in L17, L24.
+1. 查 - chá (to look up, to consult, to examine)
+1. 提前 - tí qián (shift to an earlier date; to do in advance). See also 提高 *tí gāo* from L30
+1. 春假 - chūn jià (spring break)
+1. 紐約 [纽约] - niǔ yuē (New York)
+1. 聲音 [声音] - shēng yīn (sound)
+1. 計劃 [计划] - jì huà (plan, project, programme)
+1. 一天到晚 - yī tiān dào wǎn (from morning til night)
+1. 老 - lǎo (to keep on; to persist)
+1. 表演 - biǎo yǎn (to perform; *noun* performance). See also L14. 
+1. 完成 - wán chéng (accomplish; complete). See also L17.
+1. 可惜 - kě xī (it's a pity; too bad)
+1. 幹 [干] - gàn (*verb* to do, to act, to work; *noun* trunk, stem, main part; cadre)
+1. 旅行 - lǚ xíng (to travel, to vacation). See also 行 from L16 (sufficient), and bicycle from L18.
+1. 批評 [批评] - pī píng (to criticize)
+1. 幹你媽 [干你妈] - gàn nǐ mā (vulgarity)
+1. 不但...而且 - bù dàn...ér qiě (not only...but also)
+1. 不然 - bù rán (otherwise; not so, not the case)
+1. 音樂 [音乐] - yīn yuè (music). JH introduced this in L19
+1. 一邊...一邊 [一边...一边] - yī bīan...yī bīan (verb 1 while performing verb 2)
+1. 大聲 [大声] - dà shēng (in a loud voice)
+
