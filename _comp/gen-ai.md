@@ -281,3 +281,9 @@ permalink: /gen-ai/
 
 ## 25 October 2023
 * New Jina AI release launches [open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/) and [HN thread](https://news.ycombinator.com/item?id=38020109). Also Simon Willison has already built a [Jina plugin for this](https://simonwillison.net/2023/Oct/26/llm-embed-jina/) and explains embeddings in general [in this blog post](https://simonwillison.net/2023/Oct/23/embeddings/)
+
+## 13 November 2023
+* Maybe CNNs are not quite obsolete. Places where convolutional neural nets perform as well as transformers. ['The convolution empire strikes back'](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+* Paper: 'Evaluating Large Language Models: A Comprehensive Survey'. [arXiv link](https://arxiv.org/abs/2310.19736). [PDF](https://arxiv.org/pdf/2310.19736.pdf).
+* Important summary article on [AI and Open Source](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) in 2023 by Sebastian Raschka.
+* Rust and Web Assembly language for faster lighterweight LLMs? [article](https://www.secondstate.io/articles/fast-llm-inference/) and [HN thread](https://news.ycombinator.com/item?id=38246668)
