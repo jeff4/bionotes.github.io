@@ -583,4 +583,7 @@ sitemap: false
 ## 16 October 2023
 * ['Box unveils unique AI pricing plan to account for high cost of running LLMs'](https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
 * ['Box announces Hubs, a custom portal to share specialized content'](https://techcrunch.com/2023/10/11/box-announces-hubs-a-custom-portal-to-share-specialized-content/) 
-* [' 
+
+## 13 November 2023
+* From Benedict Evans' newsletter. Google blog post on ['What AI can and can’t do — and what that means for marketers'](https://www.thinkwithgoogle.com/marketing-strategies/automation/what-ai-can-and-cant-do-for-marketers/)
+* Yann LeCun quoted in this early November [VentureBeat article](https://venturebeat.com/ai/forget-chatgpt-why-llama-and-open-source-ai-win-2023/) about the importance of Open Source LLMs.
