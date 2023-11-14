@@ -587,3 +587,5 @@ sitemap: false
 ## 13 November 2023
 * From Benedict Evans' newsletter. Google blog post on ['What AI can and can’t do — and what that means for marketers'](https://www.thinkwithgoogle.com/marketing-strategies/automation/what-ai-can-and-cant-do-for-marketers/)
 * Yann LeCun quoted in this early November [VentureBeat article](https://venturebeat.com/ai/forget-chatgpt-why-llama-and-open-source-ai-win-2023/) about the importance of Open Source LLMs.
+* ['S-LoRA: Serving Thousands of Concurrent LoRA Adapters'](https://arxiv.org/abs/2311.03285). Collaboration between UC Berkeley and Stanford, allows efficient running of thousands of LLMs on a single GPU. [VentureBeat article](https://venturebeat.com/ai/running-thousands-of-llms-on-one-gpu-is-now-possible-with-s-lora/)
+
