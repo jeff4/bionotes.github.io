@@ -589,3 +589,18 @@ sitemap: false
 * Yann LeCun quoted in this early November [VentureBeat article](https://venturebeat.com/ai/forget-chatgpt-why-llama-and-open-source-ai-win-2023/) about the importance of Open Source LLMs.
 * ['S-LoRA: Serving Thousands of Concurrent LoRA Adapters'](https://arxiv.org/abs/2311.03285). Collaboration between UC Berkeley and Stanford, allows efficient running of thousands of LLMs on a single GPU. [VentureBeat article](https://venturebeat.com/ai/running-thousands-of-llms-on-one-gpu-is-now-possible-with-s-lora/)
 
+## 14 November 2023
+* ['You.com launches new APIs to connect LLMs to the web'](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/)
+* Summary article from 11/10/2023 on ['This week in AI: OpenAI plays for keeps with GPTs'](https://techcrunch.com/2023/11/10/this-week-in-ai-openai-plays-for-keeps-with-gpts/)
+* Another summary article ['Everything announced at OpenAI’s first developer event'](https://techcrunch.com/2023/11/06/everything-announced-at-openais-first-developer-event/)
+* Kai-Fu Lee's LLM startup 01.ai ['Valued at $1B, Kai-Fu Lee’s LLM startup unveils open source model'](https://techcrunch.com/2023/11/05/valued-at-1b-kai-fu-lees-llm-startup-unveils-open-source-model/)
+* ['Dashtoon uses AI to turn storytellers into comics artists'](https://techcrunch.com/2023/11/02/dashtoon/)
+* ['DeepMind’s latest AlphaFold model is more useful for drug discovery'](DeepMind’s latest AlphaFold model is more useful for drug discovery) new alpha fold model, succesor to Alpha Fold 2
+* Stats update on ChatGPT and other AI app revenue ['ChatGPT app revenue shows no signs of slowing, but some other AI apps top it'](https://techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/)
+* ['While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win'](https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/) ZenML
+* ['Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries'](https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/)
+* Open source competitors to OpenAI's multimodal version of GPT-4V. LLaVA-1.5 and Alibaba's Qwen-VL. ['Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V'](https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/)
+
+
+
+
