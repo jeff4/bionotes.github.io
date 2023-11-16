@@ -601,6 +601,12 @@ sitemap: false
 * ['Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries'](https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/)
 * Open source competitors to OpenAI's multimodal version of GPT-4V. LLaVA-1.5 and Alibaba's Qwen-VL. ['Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V'](https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/)
 
+## 16 November 2023
+* ['Menlo Ventures closes on $1.35B in new capital, targets investments in AI startups'](https://techcrunch.com/2023/11/16/menlo-ventures-closes-on-1-35b-in-new-capital-targets-investments-in-ai-startups/)
+
+
+
+
 
 
 
