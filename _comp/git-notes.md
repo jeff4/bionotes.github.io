@@ -123,3 +123,15 @@ sitemap: false
 * NOTE: The -d option only deletes the branch if it has already been merged. The -D option is a shortcut for `--delete --force`, which deletes the branch irrespective of its merged status.
 * Typed in `git branch -d rss-icon` and the branch was successfully deleted without warning messages because I had previously merged 'rss-icon' back into 'main'. 
 
+
+## 12/03 Sunday in Philomath
+* Next edit `.gitignore` and add `*.swp *.swo` so that git does not track temporary vim files
+* Also added `.DS_Store` to keep that Mac file from being tracked
+
+### commands to use github webui
+* Used web app at github.com to create a new repo called `a7`
+* Local commandline used these 3 commands in succession
+	1. `git remote add origin git@github.com:jeff4/a7.git` This uses SSH to specify what "origin" refers to...in this case, the repo that lives at github.
+	1. `git push --set-upstream origin main` This names the main branch "main". Note that i did not name it "master".
+	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin main` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
+
