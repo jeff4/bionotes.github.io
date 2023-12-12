@@ -604,7 +604,19 @@ sitemap: false
 ## 16 November 2023
 * ['Menlo Ventures closes on $1.35B in new capital, targets investments in AI startups'](https://techcrunch.com/2023/11/16/menlo-ventures-closes-on-1-35b-in-new-capital-targets-investments-in-ai-startups/)
 
-
+## 11 December 2023
+* Funding announcement of [Liquid AI](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/), MIT startup focused on [LTC aka Liquid Time Constant ANNs](https://arxiv.org/abs/2006.04439) from research in late 2020/early 2021. Follow-up with additional resources in this [LTC-SE paper](https://arxiv.org/abs/2304.08691) applied to embedded systems in April 2023.
+* ['Early impressions of Google’s Gemini aren’t great'](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/)
+* ['Everything you know about the podcast industry is a lie'](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
+* ['
+* ['
+* ['
+* ['
+* ['
+* ['
+* ['
+* ['
+* ['
 
 
 
