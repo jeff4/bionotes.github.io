@@ -287,3 +287,6 @@ permalink: /gen-ai/
 * Paper: 'Evaluating Large Language Models: A Comprehensive Survey'. [arXiv link](https://arxiv.org/abs/2310.19736). [PDF](https://arxiv.org/pdf/2310.19736.pdf).
 * Important summary article on [AI and Open Source](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) in 2023 by Sebastian Raschka.
 * Rust and Web Assembly language for faster lighterweight LLMs? [article](https://www.secondstate.io/articles/fast-llm-inference/) and [HN thread](https://news.ycombinator.com/item?id=38246668)
+
+## 11 December 2023
+* Funding announcement of [Liquid AI](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/), MIT startup focused on [LTC aka Liquid Time Constant ANNs](https://arxiv.org/abs/2006.04439) from research in late 2020/early 2021. Follow-up with additional resources in this [LTC-SE paper](https://arxiv.org/abs/2304.08691) applied to embedded systems in April 2023.
