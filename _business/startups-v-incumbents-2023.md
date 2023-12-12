@@ -607,18 +607,14 @@ sitemap: false
 ## 11 December 2023
 * Funding announcement of [Liquid AI](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/), MIT startup focused on [LTC aka Liquid Time Constant ANNs](https://arxiv.org/abs/2006.04439) from research in late 2020/early 2021. Follow-up with additional resources in this [LTC-SE paper](https://arxiv.org/abs/2304.08691) applied to embedded systems in April 2023.
 * ['Early impressions of Google’s Gemini aren’t great'](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/)
+* ['Google’s best Gemini demo was faked'](https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/)
 * ['Everything you know about the podcast industry is a lie'](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
-* ['
-* ['
-* ['
-* ['
-* ['
-* ['
-* ['
-* ['
-* ['
-
-
-
-
-
+* ['System of intelligence — generative AI at the app layer'](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)
+* ['Mistral AI, a Paris-based OpenAI rival, closed its $415 million Series A'](https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/), less than 6 months after its $112 seed round
+* ['Microsoft looks to free itself from GPU shackles by designing custom AI chips'](https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/)
+* ['Microsoft launches a deepfakes creator at Ignite 2023 event'](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/)
+* ['Google Photos turns to AI to organize and categorize your photos for you'](https://techcrunch.com/2023/11/15/google-photos-turns-to-ai-to-organize-and-categorize-your-photos-for-you/)
+* ['Kyutai is a French AI research lab with a $330 million budget that will make everything open source'](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
+* ['Will the OpenAI chaos boost open source models?'](https://techcrunch.com/2023/11/21/will-the-openai-chaos-boost-open-source-models/)
+* ['OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return'](https://techcrunch.com/2023/11/23/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
+* ['Laredo wants to use GenAI to automate dev work'](https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/)
