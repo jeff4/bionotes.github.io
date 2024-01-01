@@ -290,3 +290,9 @@ permalink: /gen-ai/
 
 ## 11 December 2023
 * Funding announcement of [Liquid AI](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/), MIT startup focused on [LTC aka Liquid Time Constant ANNs](https://arxiv.org/abs/2006.04439) from research in late 2020/early 2021. Follow-up with additional resources in this [LTC-SE paper](https://arxiv.org/abs/2304.08691) applied to embedded systems in April 2023.
+
+## 01 January 2024
+* On [HN](https://news.ycombinator.com/item?id=38834244) front page today, found a reference to this [arXiv page](https://arxiv.org/abs/2310.20360) 600-page book 'Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory'. Published October, 2023 from a course given at ETH Zurich by academics Arnulf Jentzen, Beno Kuckuck, Philippe von Wurstemberger. 
+* From the same [HN thread](https://news.ycombinator.com/item?id=38835197), found this draft book in progress. *Understanding Deep Learning* by Simon J.D. Prince. [Main page here](https://udlbook.github.io/udlbook/). 
+	* Nice because the free PDF of this book section 1.6 has nice references as of Dec 2023 about good textbooks and other resources on a various approaches to DL, including math focused, coding-focused, computer vision optimized, reinforcement learning focused, etc.
+    * Also dives into argmin and argmax pretty early. Handy [wiki article](https://en.wikipedia.org/wiki/Arg_max) on arg max functions. 
