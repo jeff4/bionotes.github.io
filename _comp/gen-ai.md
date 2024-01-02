@@ -296,3 +296,5 @@ permalink: /gen-ai/
 * From the same [HN thread](https://news.ycombinator.com/item?id=38835197), found this draft book in progress. *Understanding Deep Learning* by Simon J.D. Prince. [Main page here](https://udlbook.github.io/udlbook/). 
 	* Nice because the free PDF of this book section 1.6 has nice references as of Dec 2023 about good textbooks and other resources on a various approaches to DL, including math focused, coding-focused, computer vision optimized, reinforcement learning focused, etc.
     * Also dives into argmin and argmax pretty early. Handy [wiki article](https://en.wikipedia.org/wiki/Arg_max) on arg max functions. 
+* From same thread, and also referenced in the Prince UDL book, began looking at Bishop (2006) *Pattern Recognition and Machine Learning* textbook. Per [this HN comment](https://news.ycombinator.com/item?id=38836444), Bishop has a simpler notation than the 600-pg ETH book by Jentzen et al. Bishop's notation is clear like Goodfellow (2016) but is a little mathematically deeper. 
+	* Most importantly, Bishop has a good self-contained introduction to the relevant probability theory.
