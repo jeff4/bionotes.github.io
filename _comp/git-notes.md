@@ -135,3 +135,7 @@ sitemap: false
 	1. `git push --set-upstream origin main` This names the main branch "main". Note that i did not name it "master".
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin main` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
 
+## 1/02/2024 Tuesday
+* Used `git log --oneline` to view specific commits to revert to. 
+
+
