@@ -1,6 +1,6 @@
 ---
-title: Startups v Incumbents 2023 
-permalink: /startups-v-incumbents-2023/
+title: Startups v Incumbents
+permalink: /startups-v-incumbents/
 sitemap: false
 ---
 
@@ -618,3 +618,9 @@ sitemap: false
 * ['Will the OpenAI chaos boost open source models?'](https://techcrunch.com/2023/11/21/will-the-openai-chaos-boost-open-source-models/)
 * ['OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return'](https://techcrunch.com/2023/11/23/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 * ['Laredo wants to use GenAI to automate dev work'](https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/)
+
+## 07 December 2024
+* ['AI-powered search engine Perplexity AI raises $73m at $520m'](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
+* ['
+* ['
+* ['
