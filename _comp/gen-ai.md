@@ -35,7 +35,7 @@ permalink: /gen-ai/
 	* as of 3/15, kindle edition is $19.59. Paperback is $37.79. Both come with free PDF.
 	* 2nd edition published March 25, 2022
 * [Good guide](https://sebastianraschka.com/blog/2023/llm-reading-list.html) to all the relevant papers over the last 9 years on transformers, LLMs etc. by Sebastian Raschka. Published February, 2023.
-## Created [this page](/startups-v-incumbents-2023a) for business notes on Generative AI (March 15, 2023)
+## Created [this page](/startups-v-incumbents) for business notes on Generative AI (March 15, 2023)
 * Yann LeCun reposted this March 2, 2023 lecture by Professor Pascale Fung on [ChatGPT: What it can and cannot do](https://youtube.com/watch?v=ORoTJZcLXek&si=EnSIkaIECMiOmarE)
 	* Watched up to 3:30 where Prof Fung describes history and mapping Shannon's model of communication to Speech Recognition and Machine Translation.
 	* Source --> Transmitter/Encoder --> Channel/SpeechRecog/MachineTranslator --> Receiver/Decoder --> Destination/Output
