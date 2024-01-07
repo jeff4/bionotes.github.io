@@ -298,3 +298,9 @@ permalink: /gen-ai/
     * Also dives into argmin and argmax pretty early. Handy [wiki article](https://en.wikipedia.org/wiki/Arg_max) on arg max functions. 
 * From same thread, and also referenced in the Prince UDL book, began looking at Bishop (2006) *Pattern Recognition and Machine Learning* textbook. Per [this HN comment](https://news.ycombinator.com/item?id=38836444), Bishop has a simpler notation than the 600-pg ETH book by Jentzen et al. Bishop's notation is clear like Goodfellow (2016) but is a little mathematically deeper. 
 	* Most importantly, Bishop has a good self-contained introduction to the relevant probability theory.
+
+## 07 January 2024
+* Good overview and history of various [RAG variants](https://arxiv.org/abs/2312.10997) for Retrieval-Augmented Generation for LLMs.
+
+
+
