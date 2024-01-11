@@ -301,6 +301,6 @@ permalink: /gen-ai/
 
 ## 07 January 2024
 * Good overview and history of various [RAG variants](https://arxiv.org/abs/2312.10997) for Retrieval-Augmented Generation for LLMs.
-
+* Re-found and re-read piece by Sebastian Mellen on ['Summarization is the Killer Use Case for LLMs'](https://news.ycombinator.com/item?id=37946023) with [HN comment by Simon Willson](https://news.ycombinator.com/item?id=37946389) and general [HN thread](https://news.ycombinator.com/item?id=37946389).
 
 
