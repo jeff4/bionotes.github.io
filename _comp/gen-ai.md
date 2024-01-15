@@ -305,3 +305,6 @@ permalink: /gen-ai/
 
 ## 12 January 2024
 * Multiple resources on the latest in vector database in this [HN thread](https://news.ycombinator.com/item?id=38971221)
+
+## 15 January 2024
+* Run-through of Hyung Won Chung's [slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g27b2b69cf28_1_1094) from OpenAI. Originally sent by Seymour October, 2023.
