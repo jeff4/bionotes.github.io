@@ -308,3 +308,5 @@ permalink: /gen-ai/
 
 ## 15 January 2024
 * Run-through of Hyung Won Chung's [slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g27b2b69cf28_1_1094) from OpenAI. Originally sent by Seymour October, 2023.
+* JP Morgan AI Research published [DocLLM](https://arxiv.org/abs/2401.00908) a multi-modal LLM that can interpret invoices, receipts, purchase orders, and other visually laid out forms. Posted to [FB group](https://www.facebook.com/groups/DeepNetGroup/permalink/2115818488811022/) on 1/12/2024. 
+* November 2023 survey of Multi-Modal LLMs at [arXiv](https://arxiv.org/abs/2311.13165?fbclid=IwAR1GfPDG_JEjaP0ZysadyGA31jPSL7VIZRWwVvpzNHLRg9Nb1UUNgLPota0) posted on 1/15/2024 at FB Group [AI+DL](https://www.facebook.com/Myeongha0929/posts/pfbid02FDAoXkc3z6hUveJtjU1x93ADvYimyhu63ciD1CMEevuB8ksHn7yuV5x2BTW6Rfhwl).
