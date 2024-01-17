@@ -142,11 +142,11 @@ sitemap: false
 * Followed [these instructions](https://stackoverflow.com/a/72157779) to: (1) create home directory, (2) initialize with a `.git` files in that directory, and (3) clone everything from remote [repo named `ms_protodev_llm`](https://github.com/sduncker1/ms_protodev_llm) at github.
 	* Note that above instructions uses `https://github.com/username/...` indicating HTTPS instead of the preferred SSH method which uses `git@github.com:username/reponame.git`. 
 	* I will be using SSH for everything below.
+	* Note: the generic form of the command is `git clone git@github.com:(username)/[reponame].git {desired local directory name}`
+	*  By default, this command maps remote main to local main branch. If the remote branch is called master, you need to manage that. Or accept master as the local "trunk branch".
 * You can do this all in one command.
 	1. First, navigate to the desired parent directory, eg `demo_files`.
-	1. Next, the desired command is of the form `git clone git@github.com:(username)/[reponame].git {desired local directory name}`
-	1. By default, this command maps remote main to local main branch. If the remote branch is called master, you need to manage that. Or accept master as the local "trunk branch".
-	1. Actual command: *git **clone** git@github.com:sduncker1/ms_protodev_llm.git **protodev-llm***
+	1. Next, type: *git **clone** git@github.com:sduncker1/ms_protodev_llm.git **protodev-llm***
 		* Note again that the local directory is bolded and called **protodev-llm**. Located in /demo_files/protodev-llm/
 		* All files including .git and .gitignore are stored there.
-	1. Test edited at github.com and used `git pull origin` to verify that files are pulling and pushing properly. all working!
+* Test edited at github.com and used `git pull origin` to verify that files are pulling and pushing properly. all working!
