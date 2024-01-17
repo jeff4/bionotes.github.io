@@ -3,7 +3,7 @@ title: Generative AI
 permalink: /gen-ai/
 ---
 
-## 2023 Log
+## 2023 Gen AI
 * 2/09 - Got stable diffusion working on the Mac Studio and documented all the steps.
 * 2/12 - Review Goodfellow, Bengio, and Courville on history of autoencoders
 * 2/13 - more GBC on autoencoders, refers to GOFAI/symbolic approach as "knowledge base" approach. But I think KB was really an 80s subset of symbolic overall approach.
@@ -291,6 +291,8 @@ permalink: /gen-ai/
 ## 11 December 2023
 * Funding announcement of [Liquid AI](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/), MIT startup focused on [LTC aka Liquid Time Constant ANNs](https://arxiv.org/abs/2006.04439) from research in late 2020/early 2021. Follow-up with additional resources in this [LTC-SE paper](https://arxiv.org/abs/2304.08691) applied to embedded systems in April 2023.
 
+## 2024 Gen AI
+
 ## 01 January 2024
 * On [HN](https://news.ycombinator.com/item?id=38834244) front page today, found a reference to this [arXiv page](https://arxiv.org/abs/2310.20360) 600-page book 'Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory'. Published October, 2023 from a course given at ETH Zurich by academics Arnulf Jentzen, Beno Kuckuck, Philippe von Wurstemberger. 
 * From the same [HN thread](https://news.ycombinator.com/item?id=38835197), found this draft book in progress. *Understanding Deep Learning* by Simon J.D. Prince. [Main page here](https://udlbook.github.io/udlbook/). 
@@ -310,3 +312,9 @@ permalink: /gen-ai/
 * Run-through of Hyung Won Chung's [slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g27b2b69cf28_1_1094) from OpenAI. Originally sent by Seymour October, 2023.
 * JP Morgan AI Research published [DocLLM](https://arxiv.org/abs/2401.00908) a multi-modal LLM that can interpret invoices, receipts, purchase orders, and other visually laid out forms. Posted to [FB group](https://www.facebook.com/groups/DeepNetGroup/permalink/2115818488811022/) on 1/12/2024. 
 * November 2023 survey of Multi-Modal LLMs at [arXiv](https://arxiv.org/abs/2311.13165?fbclid=IwAR1GfPDG_JEjaP0ZysadyGA31jPSL7VIZRWwVvpzNHLRg9Nb1UUNgLPota0) posted on 1/15/2024 at FB Group [AI+DL](https://www.facebook.com/Myeongha0929/posts/pfbid02FDAoXkc3z6hUveJtjU1x93ADvYimyhu63ciD1CMEevuB8ksHn7yuV5x2BTW6Rfhwl).
+
+## 17 January 2024
+* [HN comment](https://news.ycombinator.com/item?id=39029084) about how it's more than just focusing on chat interaction that one has to be thoughtful about extracting and searching to get relevant context. "you can't just throw chunks into a vector DB". Part of this [HN thread](https://news.ycombinator.com/item?id=39000241) responding to this article on ['RAG using data & role of knowledge graphs'](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/).
+
+
+
