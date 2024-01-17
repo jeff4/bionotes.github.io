@@ -138,4 +138,9 @@ sitemap: false
 ## 1/02/2024 Tuesday
 * Used `git log --oneline` to view specific commits to revert to. 
 
-
+## 1/16 Tuesday
+* Pulled down new git directory for prototype llm
+* Followed [these instructions](https://stackoverflow.com/a/72157779) to: (1) create home directory, (2) initialize with a `.git` files in that directory, and (3) clone everything from remote [repo named `ms_protodev_llm`](https://github.com/sduncker1/ms_protodev_llm) at github.
+	1. Created `demo_files/protodev-llm/` directory to map to main [github repo](https://github.com/sduncker1/ms_protodev_llm)
+* Navigate into this directory with `cd protodev-llm`
+* `git remote add origin git@github.com:sduncker1/ms_protodev_llm.git`
