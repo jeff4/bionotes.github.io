@@ -141,6 +141,11 @@ sitemap: false
 ## 1/16 Tuesday
 * Pulled down new git directory for prototype llm
 * Followed [these instructions](https://stackoverflow.com/a/72157779) to: (1) create home directory, (2) initialize with a `.git` files in that directory, and (3) clone everything from remote [repo named `ms_protodev_llm`](https://github.com/sduncker1/ms_protodev_llm) at github.
+	* Note that above instructions uses `https://github.com/username/...` indicating HTTPS instead of the preferred SSH method which uses `git@github.com:username/reponame.git`. 
+	* I will be using SSH for everything below.
+* You can do this all in one command.
+	1. First, navigate to the desired parent directory, eg `demo_files`.
+	1. Next, the desired command is of the form `git clone git@github.com:(username)/[reponame].git {desired local directory name}`
 	1. Created `demo_files/protodev-llm/` directory to map to main [github repo](https://github.com/sduncker1/ms_protodev_llm)
 * Navigate into this directory with `cd protodev-llm`
 * `git remote add origin git@github.com:sduncker1/ms_protodev_llm.git`
