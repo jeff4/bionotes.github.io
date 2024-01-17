@@ -146,7 +146,7 @@ sitemap: false
 	1. First, navigate to the desired parent directory, eg `demo_files`.
 	1. Next, the desired command is of the form `git clone git@github.com:(username)/[reponame].git {desired local directory name}`
 	1. By default, this command maps remote main to local main branch. If the remote branch is called master, you need to manage that. Or accept master as the local "trunk branch".
-	1. Actual command: *git **clone** git@github.com:sduncker1/ms_protodev_llm.git **protodev-llm**
+	1. Actual command: *git **clone** git@github.com:sduncker1/ms_protodev_llm.git **protodev-llm***
 		* Note again that the local directory is bolded and called **protodev-llm**. Located in /demo_files/protodev-llm/
 		* All files including .git and .gitignore are stored there.
 	1. Test edited at github.com and used `git pull origin` to verify that files are pulling and pushing properly. all working!
