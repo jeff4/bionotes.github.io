@@ -1,4 +1,4 @@
---
+---
 title: Comp Notes
 permalink: /comp-notes/
 sitemap: false
