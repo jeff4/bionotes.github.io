@@ -949,7 +949,7 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 
 ## Daily
 * 1/21 - planned next GBC chapters
-* 1/25 - Work on mindscale/labs  
+* 1/23 - Work on mindscale/labs  
 
 ## 1/24 More notes
 * [HN thread](https://news.ycombinator.com/item?id=39119835) about fast, Rust-based editor Zed going [open-source](https://zed.dev/blog/zed-is-now-open-source). Currently [macOS only](https://zed.dev/faq), on road-map to [support Linux](https://news.ycombinator.com/item?id=39120029) by 2025. 
