@@ -64,5 +64,6 @@ permalink: /vim/
 ## 10/11/2023
 * vim has a built in sort utility works very well. If you want to sort all lines `:%sort u`. For more see [this article](https://vim.fandom.com/wiki/Sort_lines#:~:text=Yes%2C%20it%27s%20that%20simple.,%27%3E%20on%20the%20command%20line.)
 
-
-
+## 2/05/2024
+* Notes on `qq` macro recordings can be found in a7 > History of Technology section > Pasquinelli Chapter 2 *aka* `54-pas-chap2`.
+* Notes on new `qq` macro recordings can be found in a7 > Eng > Part II Diallectics *aka* `72-p2`.
