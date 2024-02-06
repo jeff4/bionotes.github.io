@@ -3,7 +3,7 @@ title: Notes on vim
 permalink: /vim/
 ---
 
-## 2023 Log
+## Log
 * 2/18/2023 - Found good reasoning and explanation of syntax highlights for vim [here](https://www.cduan.com/technical/vi/vi-4.shtml) 
 * 2/25/2023 - Great advanced vim resource especially vimscripting [here](https://learnvimscriptthehardway.stevelosh.com/)
 * 3/02/2023 - Cool new tricks in this 14-minute MAKC [Youtube video](https://www.youtube.com/watch?v=B-EPvfxcgl0) titled "My Favorite Vim Tricks". Outline:
@@ -67,3 +67,11 @@ permalink: /vim/
 ## 2/05/2024
 * Notes on `qq` macro recordings can be found in a7 > History of Technology section > Pasquinelli Chapter 2 *aka* `54-pas-chap2`.
 * Notes on new `qq` macro recordings can be found in a7 > Eng > Part II Diallectics *aka* `72-p2`.
+
+## 2/06/2024
+* This is how you paste into the `:` command line, officially called the *Ex command line*. Add something to the default register using `y` for yank, e.g., `yl` for 1 letter, `yw` for 1 word.
+	* e.g., `yb` for one word backward
+	* Then, go to ex cmd line by typing <esc> and typing `:`
+	* `<Ctrl> + r` and then type *"* to access the default register
+	* Can type `"a` to access the **a** register
+* For more detailed instructions in how to enter in escape/control characters, see this comment
