@@ -7,7 +7,7 @@ permalink: /vim/
 * 2/18/2023 - Found good reasoning and explanation of syntax highlights for vim [here](https://www.cduan.com/technical/vi/vi-4.shtml) 
 * 2/25/2023 - Great advanced vim resource especially vimscripting [here](https://learnvimscriptthehardway.stevelosh.com/)
 * 3/02/2023 - Cool new tricks in this 14-minute MAKC [Youtube video](https://www.youtube.com/watch?v=B-EPvfxcgl0) titled "My Favorite Vim Tricks". Outline:
-	* Tabs, Custom Workspaces, Multi-language Spell Checking, (auto) completonn Ctrl-p/n, File Explorers, Visual Block mode, Macros 
+	* Tabs, Custom Workspaces, Multi-language Spell Checking, (auto) completon Ctrl-p/n, File Explorers, Visual Block mode, Macros 
 * 3/03/2023 - From The Valuable Dev. [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) ... part of series. 
 	* First article for beginners is [here](https://thevaluable.dev/vim-commands-beginner/).
 	* Guide for intermediate users is [here](https://thevaluable.dev/vim-intermediate/)
@@ -74,4 +74,4 @@ permalink: /vim/
 	* Then, go to ex cmd line by typing <esc> and typing `:`
 	* `<Ctrl> + r` and then type *"* to access the default register
 	* Can type `"a` to access the **a** register
-* For more detailed instructions in how to enter in escape/control characters, see this comment
+* For more detailed instructions in how to enter in escape/control characters, see [this comment](https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-the-vim-command-line)
