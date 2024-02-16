@@ -316,5 +316,8 @@ permalink: /gen-ai/
 ## 17 January 2024
 * [HN comment](https://news.ycombinator.com/item?id=39029084) about how it's more than just focusing on chat interaction that one has to be thoughtful about extracting and searching to get relevant context. "you can't just throw chunks into a vector DB". Part of this [HN thread](https://news.ycombinator.com/item?id=39000241) responding to this article on ['RAG using data & role of knowledge graphs'](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/).
 
-
-
+## 15 February 2024
+* New OpenAI text-to-video model called Sora
+	* [Blog post](https://openai.com/sora)
+	* [Research paper](https://openai.com/research/video-generation-models-as-world-simulators)
+	* [#1 item on HN homepage,](https://news.ycombinator.com/item?id=39386156) Has 1200 comments posted in the last 6 hours alone.
