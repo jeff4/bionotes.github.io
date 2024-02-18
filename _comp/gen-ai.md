@@ -321,3 +321,6 @@ permalink: /gen-ai/
 	* [Blog post](https://openai.com/sora)
 	* [Research paper](https://openai.com/research/video-generation-models-as-world-simulators)
 	* [#1 item on HN homepage,](https://news.ycombinator.com/item?id=39386156) Has 1200 comments posted in the last 6 hours alone.
+
+## 17 February 2024
+* Series B
