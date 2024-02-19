@@ -956,3 +956,4 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 
 ## 2/16
 * New generation of data apps using [Framework](https://observablehq.com/framework/) from [Observable](https://observablehq.com). [Blog post](https://news.ycombinator.com/item?id=39383386) and [HN thread](https://observablehq.com/blog/observable-2-0)
+* Began reading O'Reilly's [Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307). Feel like `ls | grep "search string"` works well. and doesn't even need any wildcards! to filter blog by date, etc.
