@@ -322,5 +322,8 @@ permalink: /gen-ai/
 	* [Research paper](https://openai.com/research/video-generation-models-as-world-simulators)
 	* [#1 item on HN homepage,](https://news.ycombinator.com/item?id=39386156) Has 1200 comments posted in the last 6 hours alone.
 
-## 17 February 2024
-* Series B
+## 20 February 2024
+* [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db) and [HN thread](https://news.ycombinator.com/item?id=39119198).
+* Sebastian Raschka article on [Coding LoRA from Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all) and [HN thread](https://news.ycombinator.com/item?id=39091777)
+* Another Raschka article [Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch) from 2/18/2024.
+* Interesting 2016 blog post examining why debugging, not math, is the reason [Why machine learning is hard](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) and [HN thread](https://news.ycombinator.com/item?id=39109481)
