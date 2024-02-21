@@ -621,6 +621,6 @@ sitemap: false
 
 ## 07 December 2024
 * ['AI-powered search engine Perplexity AI raises $73m at $520m'](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
-* ['
-* ['
-* ['
+
+## 20 February 2024
+* [Bret Taylor's new AI company aims to help customers get answers and complete tasks automatically](https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/) from 2/13/2024. Taylor announced that he was leaving Salesforce in Nov 2022 same time ChatGPT launched. [Sierra AI](https://sierra.ai/news/introducing-sierra) is the company he's been working on.
