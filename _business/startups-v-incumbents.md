@@ -637,3 +637,7 @@ sitemap: false
 * [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/)
 * [Bret Taylor's new AI company aims to help customers get answers and complete tasks automatically](https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/) from 2/13/2024. Taylor announced that he was leaving Salesforce in Nov 2022 same time ChatGPT launched. [Sierra AI](https://sierra.ai/news/introducing-sierra) is the company he's been working on.
 * Follow up [2/19 Techcrunch article](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/) on Bret Taylor's Sierra AI
+
+## 21 February 2024
+* Google released open-source 2B and 7B versions of it's Gemma models. [Blog post](https://blog.google/technology/developers/gemma-open-models/), [HN thread](https://news.ycombinator.com/item?id=39453271). [Verge article](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source).
+
