@@ -327,3 +327,4 @@ permalink: /gen-ai/
 * Sebastian Raschka article on [Coding LoRA from Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all) and [HN thread](https://news.ycombinator.com/item?id=39091777)
 * Another Raschka article [Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch) from 2/18/2024.
 * Interesting 2016 blog post examining why debugging, not math, is the reason [Why machine learning is hard](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) and [HN thread](https://news.ycombinator.com/item?id=39109481)
+* Training a small (~10m parameter) transformer following Andrej Karpathy's tutorial. [Beyond Self-Attention: How a Small Language Model Predicts the Next Token](https://shyam.blog/posts/beyond-self-attention/) and [HN thread](https://news.ycombinator.com/item?id=39251909)
