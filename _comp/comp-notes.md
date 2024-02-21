@@ -949,13 +949,20 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 
 ## Daily
 * 1/21 - planned next GBC chapters
-* 1/25 - Work on mindscale/labs  
+* 1/24 - Work on mindscale/labs  
 
 ## 1/24 More notes
 * [HN thread](https://news.ycombinator.com/item?id=39119835) about fast, Rust-based editor Zed going [open-source](https://zed.dev/blog/zed-is-now-open-source). Currently [macOS only](https://zed.dev/faq), on road-map to [support Linux](https://news.ycombinator.com/item?id=39120029) by 2025. 
 
-## 2/16
+## 2/15
 * New generation of data apps using [Framework](https://observablehq.com/framework/) from [Observable](https://observablehq.com). [Blog post](https://news.ycombinator.com/item?id=39383386) and [HN thread](https://observablehq.com/blog/observable-2-0)
 * Began reading O'Reilly's [Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307). Feel like `ls | grep "search string"` works well. and doesn't even need any wildcards! to filter blog by date, etc.
 
+## 2/16
+* New generation of data apps using [Framework](https://observablehq.com/framework/) from [Observable](https://observablehq.com). [Blog post](https://news.ycombinator.com/item?id=39383386) and [HN thread](https://observablehq.com/blog/observable-2-0)
+
 ## 2/20
+* InfoQ article on [Cloud-Computing in the Post-Serverless Era](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
+* IEEE 2016 article on [The Surprising Story of the First Microprocessors](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors). Hint: It actually didn't start with the [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004) in 1971.
+* [HN post](https://news.ycombinator.com/item?id=39147528) to a Medium article about 'Is Cloud the New Mainframe?'.
+* [HN thread](https://news.ycombinator.com/item?id=39197619) about Ben Thompson's Stratechery post on [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
