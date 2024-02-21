@@ -622,5 +622,18 @@ sitemap: false
 ## 07 December 2024
 * ['AI-powered search engine Perplexity AI raises $73m at $520m'](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
 
+
+## 08 February 2024
+* ['Google launches Gemini Ultra, its most powerful LLM yet'](https://techcrunch.com/2024/02/08/google-goes-all-in-on-gemini-and-launches-20-paid-tier-for-gemini-ultra/) 
+	* "Google Bard is no more. Almost exactly a year after first introducing its (rushed) efforts to challenge OpenAI’s ChatGPT, the company is retiring the name and rebranding Bard as Gemini, the name of its family of foundation models. More importantly, though, it is also now launching Gemini Ultra, its most capable large language model yet. Gemini Ultra will be a paid experience, though. Google is making it available through a new $20 Google One tier (with a two-month free trial) that also includes 2TB of storage and the rest of Google One’s feature set, as well as access to Gemini in Google Workspace apps like Docs, Slides, Sheets and Meet."
+
+## 14 February 2024
+* [Amazon announces largest text-to-speech AI model yet shows ’emergent abilities’](https://techcrunch.com/2024/02/14/largest-text-to-speech-ai-model-yet-shows-emergent-abilities/)
+* [Kong’s new open source AI Gateway makes building multi-LLM apps easier](https://techcrunch.com/2024/02/15/kongs-new-open-source-ai-gateway-makes-building-multi-llm-apps-easier/)
+* [Scribe raises $25M Series B to automate internal knowledge capture](https://techcrunch.com/2024/02/15/scribe-raises-25m-series-b-to-automate-internal-knowledge-capture/)
+
 ## 20 February 2024
+* TC Anshu Sharma ['What if Christensen was wrong about disruption?'](https://techcrunch.com/2024/01/30/what-if-christensen-was-wrong-about-disruption/)
+* [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/)
 * [Bret Taylor's new AI company aims to help customers get answers and complete tasks automatically](https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/) from 2/13/2024. Taylor announced that he was leaving Salesforce in Nov 2022 same time ChatGPT launched. [Sierra AI](https://sierra.ai/news/introducing-sierra) is the company he's been working on.
+* Follow up [2/19 Techcrunch article](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/) on Bret Taylor's Sierra AI
