@@ -961,7 +961,7 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 ## 2/16
 * New generation of data apps using [Framework](https://observablehq.com/framework/) from [Observable](https://observablehq.com). [Blog post](https://news.ycombinator.com/item?id=39383386) and [HN thread](https://observablehq.com/blog/observable-2-0)
 
-## 2/19
+## 2/21
 * InfoQ article on [Cloud-Computing in the Post-Serverless Era](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 * IEEE 2016 article on [The Surprising Story of the First Microprocessors](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors). Hint: It actually didn't start with the [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004) in 1971.
 * [HN post](https://news.ycombinator.com/item?id=39147528) to a Medium article about 'Is Cloud the New Mainframe?'.
