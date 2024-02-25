@@ -305,6 +305,7 @@ permalink: /gen-ai/
 * Good overview and history of various [RAG variants](https://arxiv.org/abs/2312.10997) for Retrieval-Augmented Generation for LLMs.
 * Re-found and re-read piece by Sebastian Mellen on ['Summarization is the Killer Use Case for LLMs'](https://news.ycombinator.com/item?id=37946023) with [HN comment by Simon Willson](https://news.ycombinator.com/item?id=37946389) and general [HN thread](https://news.ycombinator.com/item?id=37946389).
 
+G
 ## 12 January 2024
 * Multiple resources on the latest in vector database in this [HN thread](https://news.ycombinator.com/item?id=38971221)
 
@@ -335,3 +336,4 @@ permalink: /gen-ai/
 ## 24 February 2024
 * Quick summary overview of Mamba--which is a way for Transformer/Attention architectures to reduce the quadratic growth in computational demand as sequence length increases. [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html) by Jack Cook and [HN thread](https://jackcook.com/2024/02/23/mamba.html)
 	* Mamba created by Albert Gu and Tri Dao. Sasha Rush aka [Alexander Rush](https://rush-nlp.com) wrote [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html).
+* Feb 2024 survey of LLMs by Shervin Minaee, T. Mikolov, N. Nikzad, ..., X. Amatriain, Jianfeng Gao. [arXiv link](https://arxiv.org/abs/2402.06196).
