@@ -966,3 +966,7 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 * IEEE 2016 article on [The Surprising Story of the First Microprocessors](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors). Hint: It actually didn't start with the [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004) in 1971.
 * [HN post](https://news.ycombinator.com/item?id=39147528) to a Medium article about 'Is Cloud the New Mainframe?'.
 * [HN thread](https://news.ycombinator.com/item?id=39197619) about Ben Thompson's Stratechery post on [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+
+## 2/24
+* New course at Purdue University on [Semiconductor Fabrication 101](https://www.purdue.edu/newsroom/releases/2022/Q2/purdue-launches-nations-first-comprehensive-semiconductor-degrees-program.html) and [HN thread](https://news.ycombinator.com/item?id=39325659)
+* Brief history and tour of [C Compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of) and earlier [history of C programming language](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
