@@ -332,6 +332,6 @@ permalink: /gen-ai/
 ## 21 February 2024
 * New Andrej Karpathy [YouTube video](https://www.youtube.com/watch?v=zduSFxRajkE) focused on tokenizing. After he left OpenAI a few weeks ago. [HN thread](https://news.ycombinator.com/item?id=39443965)
 
-## 23 February 2024
+## 24 February 2024
 * Quick summary overview of Mamba--which is a way for Transformer/Attention architectures to reduce the quadratic growth in computational demand as sequence length increases. [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html) by Jack Cook and [HN thread](https://jackcook.com/2024/02/23/mamba.html)
 	* Mamba created by Albert Gu and Tri Dao. Sasha Rush aka [Alexander Rush](https://rush-nlp.com) wrote [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html).
