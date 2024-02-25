@@ -641,3 +641,8 @@ sitemap: false
 ## 21 February 2024
 * Google released open-source 2B and 7B versions of it's Gemma models. [Blog post](https://blog.google/technology/developers/gemma-open-models/), [HN thread](https://news.ycombinator.com/item?id=39453271). [Verge article](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source).
 
+## 25 February 2024
+* ['China’s Moonshot AI zooms to $2.5B valuation, raising $1B for an LLM focused on long context'](https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/)
+* Feb 21, 2024, ChatGPT seems to be working weirdly. Gary Marcus [post](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk) and [HN thread](https://news.ycombinator.com/item?id=39450669)
+* Elad Gil's [new article](https://blog.eladgil.com/p/things-i-dont-know-about-ai) about 'Things I Don't Know About AI'. [HN thread](https://news.ycombinator.com/item?id=39453622)
+* ['Mindy gets backing from Sequoia to build an email-based AI assistant'](https://techcrunch.com/2024/02/13/mindy-get-backing-from-sequoia-to-build-an-email-based-ai-assistant/)
