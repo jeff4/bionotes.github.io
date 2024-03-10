@@ -24,6 +24,7 @@ permalink: /eigen/
 * **Notebook 18** / 2020: March - September / 
 * **Notebook 19** / September 2020 - August 2021 / 
 * **Notebook 20** / August 2021 - December 2022 /
+* **Notebook 21** / December 2022 - April 2024/
 
 ## Linear Algebra Done Right
 * Review of T-invariant subspaces, eigenvalues, eigenvectors, and eigenspaces
@@ -74,3 +75,6 @@ permalink: /eigen/
 * 1/25 Proof of addition for **N** as developed by Pelayo
 * 1/26 additional examples of iterated addition per Pelayo
 * 5/25 Good PDF ['Everything you always wanted to know about mathematics (2013)'](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) and [HN thread](https://news.ycombinator.com/item?id=36069847)
+
+### 2024 Log
+* 3/09/2024. Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022.
