@@ -77,4 +77,5 @@ permalink: /eigen/
 * 5/25 Good PDF ['Everything you always wanted to know about mathematics (2013)'](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) and [HN thread](https://news.ycombinator.com/item?id=36069847)
 
 ### 2024 Log
-* 3/09/2024. Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022.
+* 3/09/2024 Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022.
+* 3/10
