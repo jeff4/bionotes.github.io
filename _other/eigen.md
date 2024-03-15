@@ -79,4 +79,4 @@ permalink: /eigen/
 ### 2024 Log
 * 3/09/2024 Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022.
 * 3/11 more on lists, length, difference from sets; beginning vector space definition.
-* 3/14 more on vector space V
+* 3/14 more on vector space V. defining L = linearly independent set of vectors; B = basis; S = set of vectors that collectively span V.
