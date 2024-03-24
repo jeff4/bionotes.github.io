@@ -150,3 +150,10 @@ sitemap: false
 		* Note again that the local directory is bolded and called **protodev-llm**. Located in `/demo_files/protodev-llm/`.
 		* All files including .git and .gitignore are stored there.
 * Test edited at github.com and used `git pull origin` to verify that files are pulling and pushing properly. All working!
+
+## 3/24
+* [Instructions](https://stackoverflow.com/a/10510482) on forcing local changes to github (aka forcing from local client to github). Short version: `git push -f origin`
+* [Instructions](https://phoenixnap.com/kb/git-overwrite-local-branch-with-remote) on forcing the local client to accept the current True state from remote (aka from GitHub). Short version has 2 steps:
+	1. `git fetch`
+	1. `git reset --hard @{u}`   Note: '@{u} is a shorthand for the upstream branch that your current branch is tracking. The shorthand is useful if you are not sure of the name of the remote branch, as you don't have to specify it.'
+
