@@ -320,4 +320,5 @@ permalink: /sed/
 Also, whitespace is mostly ignored. So you can format all the expressions in a single line separated by semicolons (;).  Or have each expression parsed out onto each of its own lines:w
 
 ## 3/27/2024
-* To grep for files of the form `68-temp.md`, `69-competitors`, just type `ls | grep 6.-`. B/c `.` refers to a single character of any value, followed by the literal `-`.
+* To grep for files of the form '68-temp.md', '69-competitors', just type `ls | grep 6.-`. B/c `.` refers to a single character of any value, followed by the literal `-`.
+
