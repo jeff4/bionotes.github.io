@@ -646,3 +646,6 @@ sitemap: false
 * Feb 21, 2024, ChatGPT seems to be working weirdly. Gary Marcus [post](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk) and [HN thread](https://news.ycombinator.com/item?id=39450669)
 * Elad Gil's [new article](https://blog.eladgil.com/p/things-i-dont-know-about-ai) about 'Things I Don't Know About AI'. [HN thread](https://news.ycombinator.com/item?id=39453622)
 * ['Mindy gets backing from Sequoia to build an email-based AI assistant'](https://techcrunch.com/2024/02/13/mindy-get-backing-from-sequoia-to-build-an-email-based-ai-assistant/)
+
+## 27 March 2024
+* Interesting [Harper's article](https://web.archive.org/web/20240327152111/https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/) on defense industry, AI, and relationship with Silicon Valley. Goes back to usage of IBM System 360 in Vietnam War all the way to Hamas attacks October 7, 2023. [HN thread](https://news.ycombinator.com/item?id=39839789)
