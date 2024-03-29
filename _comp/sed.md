@@ -317,7 +317,8 @@ permalink: /sed/
 ## 9/09
 * More observations
 * Again, if using curly braces inside the script, **do not** use single quotes to encapsulate teh sed script the way you would on the command line. Single quotes not needed.
-* Also, whitespace is mostly ignored. So you can format all the expressions in a single line separated by semicolons (;).  Or have each expression parsed out onto each of its own lines:w
+Also, whitespace is mostly ignored. So you can format all the expressions in a single line separated by semicolons (;).  Or have each expression parsed out onto each of its own lines:w
 
-
+## 3/27/2024
+* To grep for files of the form '68-temp.md', '69-competitors', just type `ls | grep 6.-`. B/c `.` refers to a single character of any value, followed by the literal `-`.
 
