@@ -78,4 +78,4 @@ permalink: /eigen/
 
 ### 2024 Log
 * 3/09/2024. Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022.
-* 3/29/2024. Working on visual proofs for Theorems 3.22 and 3.25.
+* 3/30/2024. Working on visual proofs for Theorems 3.22 and 3.25.
