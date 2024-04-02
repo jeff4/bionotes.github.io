@@ -337,3 +337,6 @@ G
 * Quick summary overview of Mamba--which is a way for Transformer/Attention architectures to reduce the quadratic growth in computational demand as sequence length increases. [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html) by Jack Cook and [HN thread](https://jackcook.com/2024/02/23/mamba.html)
 	* Mamba created by Albert Gu and Tri Dao. Sasha Rush aka [Alexander Rush](https://rush-nlp.com) wrote [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html).
 * Feb 2024 survey of LLMs by Shervin Minaee, T. Mikolov, N. Nikzad, ..., X. Amatriain, Jianfeng Gao. [arXiv link](https://arxiv.org/abs/2402.06196).
+
+## 01 April 2024
+* After multi-year delay, Grant Sanderson posted a new YouTube video in his "What is a neural network?" series. [Chapter 5: But what is GPT?](https://www.youtube.com/watch?v=wjZofJX0v4M) 
