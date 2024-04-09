@@ -81,5 +81,5 @@ permalink: /eigen/
 ### 2024 Log
 * 3/09/2024. Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022. Using Axler 4th edition for this run.
 * 3/25/2024. Working on visual proofs for Theorems 3.22 and 3.25.
-* 4/01/2024. Began Section 3D on inverse functions, invertibility etc.
+* 4/01/2024. Began Section 3D on inverse functions, invertibility etc. Also started Notebook #22.
 * 4/06/2024. Began Section 5A on eigenspaces. Interesting changes between 3rd and 4th editions wrt when operators are introduced. 3rd edition introduces operators in Section 3D; 4th Ed introduces them at beginning of 5A. 
