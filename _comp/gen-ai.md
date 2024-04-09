@@ -340,3 +340,6 @@ G
 
 ## 01 April 2024
 * After multi-year delay, Grant Sanderson posted a new YouTube video in his "What is a neural network?" series. [Chapter 5: But what is GPT?](https://www.youtube.com/watch?v=wjZofJX0v4M) 
+
+## 08 April 2024
+* Paper last week on how undifferentiated / unstructured large volume of AI Agents are all you need. Title: 'More Agents Is All You Need' -- [arXiv link](https://arxiv.org/abs/2402.05120) and [HN thread](https://news.ycombinator.com/item?id=39955725)
