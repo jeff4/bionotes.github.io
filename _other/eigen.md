@@ -84,4 +84,5 @@ permalink: /eigen/
 * 4/01/2024. Began Section 3D on inverse functions, invertibility etc. Also started Notebook #22.
 * 4/06/2024. Began Section 5A on eigenspaces. Interesting changes between 3rd and 4th editions wrt when operators are introduced. 3rd edition introduces operators in Section 3D; 4th Ed introduces them at beginning of 5A. 
 * 4/07 Reviewed definition of invariant maps and invariant subspaces from [Wikipedia](https://en.wikipedia.org/wiki/Invariant_subspace). Wiki also introduces the terminology of calling a subspace **W** 'T-invariant' because a space **W** is only invariant with respect to a specific map T.
+* 4/08 Also looked at eigen calculations in Singh.
 * 4/09 Reviewed G. Strang [YouTube lecture](https://www.youtube.com/watch?v=cdZnhQjJu4I&t=891s) MIT OpenCourseWare on eigenvalues and eigenvectors. Up to 14:50 out of 51:00
