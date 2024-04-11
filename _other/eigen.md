@@ -86,3 +86,4 @@ permalink: /eigen/
 * 4/07 Reviewed definition of invariant maps and invariant subspaces from [Wikipedia](https://en.wikipedia.org/wiki/Invariant_subspace). Wiki also introduces the terminology of calling a subspace **W** 'T-invariant' because a space **W** is only invariant with respect to a specific map T.
 * 4/08 Also looked at eigen calculations in Singh.
 * 4/09 Reviewed G. Strang [YouTube lecture](https://www.youtube.com/watch?v=cdZnhQjJu4I&t=891s) MIT OpenCourseWare on eigenvalues and eigenvectors. Up to 14:50 out of 51:00
+* 4/10 Worked out on paper characteristic equation etc based on Strang MIT lecture
