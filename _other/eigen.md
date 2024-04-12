@@ -87,3 +87,4 @@ permalink: /eigen/
 * 4/08 Also looked at eigen calculations in Singh.
 * 4/09 Reviewed G. Strang [YouTube lecture](https://www.youtube.com/watch?v=cdZnhQjJu4I&t=891s) MIT OpenCourseWare on eigenvalues and eigenvectors. Up to 14:50 out of 51:00
 * 4/10 Worked out on paper characteristic equation etc based on Strang MIT lecture
+* 4/11 finished lecture 21 of strang lecture, started lecture 22.
