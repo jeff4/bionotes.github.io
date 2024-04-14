@@ -89,3 +89,4 @@ permalink: /eigen/
 * 4/10 Worked out on paper characteristic equation etc based on Strang MIT lecture
 * 4/11 finished lecture 21 of strang lecture, started lecture 22.
 * 4/12 Calculated eigenvectors and eigenvalues for matrices A and B from Strang lecture 21.
+* 4/14 More on Strang lecture 21.
