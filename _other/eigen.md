@@ -90,3 +90,4 @@ permalink: /eigen/
 * 4/11 finished lecture 21 of strang lecture, started lecture 22.
 * 4/12 Calculated eigenvectors and eigenvalues for matrices A and B from Strang lecture 21.
 * 4/14 More on Strang lecture 21.
+	* Sometimes, one can add together matrices in the Av&#8407; = lambdav&#8407; equation, mostly they cannot. And one can only do it when the two matrices happen to share the same eigenvectors.
