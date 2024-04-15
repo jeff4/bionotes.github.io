@@ -91,3 +91,6 @@ permalink: /eigen/
 * 4/12 Calculated eigenvectors and eigenvalues for matrices A and B from Strang lecture 21.
 * 4/14 More on Strang lecture 21.
 	* Sometimes, one can add together matrices in the Av&#8407; = &#955;v&#8407; equation, mostly they cannot. And one can only do it when the two matrices happen to share the same eigenvectors.
+* 4/15 What square matrices have no real eigenvalues? Rotation Matrices, which still have eigenvalues that are complex numbers. 
+	* See [this Quora answer](https://qr.ae/psPPYi): 'So the answer is: it depends on which ring you’re working in. If you’re working in C, then every polynomial with coefficients in C has solutions in C, so every square matrix would have eigenvalues. If you’re working in some other ring R, then your matrix may not have eigenvalues whenever its characteristic polynomial happens not to have any solutions in R.'
+	* See also [this answer](https://qr.ae/psPPo1) which says that all complex square matrcies have eigenvalues. This is the result of the spectral theorem. Also extending concept of eigen values to eigen pairs, even/odd dimensions, ortations. In 4-D space, you can have 2 independent rotations in 2 non-intersecting planes.
