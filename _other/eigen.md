@@ -99,4 +99,4 @@ permalink: /eigen/
 * 4/23. Note. Master [YouTube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) for Strang's Spring 2005 lecture MIT 18.06 Linear Algebra
 	* [Lecture 21](https://www.youtube.com/watch?v=cdZnhQjJu4I&list=PLE7DDD91010BC51F8&index=23) - Intro to Eigenvalues, Eigenvectors
 	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
-* 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has ** n distinct eigenvalues**.
+* 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has **n distinct eigenvalues**.
