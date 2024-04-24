@@ -96,4 +96,7 @@ permalink: /eigen/
 	* See also [this answer](https://qr.ae/psPPo1) which says that all complex square matrcies have eigenvalues. This is the result of the spectral theorem. Also extending concept of eigen values to eigen pairs, even/odd dimensions, ortations. In 4-D space, you can have 2 independent rotations in 2 non-intersecting planes.
 * 4/16 For Example 5.6 (p. 134) for T : **F<sup>3</sup>** &#8594; **F<sup>3</sup>** where T(x,y,z) = ( 7x+3z, 3x+6y+9z, -6y ). Use notes on how to calculate the determinant of a 3x3 square matrix from JH math notebook #5, 10/25/2017 - PB+HL Chapter 1, section 2, Exercise 7.
 * 4/21 eigenvector matrix S, eigenvalue matrix &#923;
-* 4/24 finished lecture 22
+* 4/23. Note. Master [YouTube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) for Strang's Spring 2005 lecture MIT 18.06 Linear Algebra
+	* [Lecture 21](https://www.youtube.com/watch?v=cdZnhQjJu4I&list=PLE7DDD91010BC51F8&index=23) - Intro to Eigenvalues, Eigenvectors
+	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
+* 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has ** n distinct eigenvalues**.
