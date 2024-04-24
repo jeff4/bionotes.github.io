@@ -96,3 +96,4 @@ permalink: /eigen/
 	* See also [this answer](https://qr.ae/psPPo1) which says that all complex square matrcies have eigenvalues. This is the result of the spectral theorem. Also extending concept of eigen values to eigen pairs, even/odd dimensions, ortations. In 4-D space, you can have 2 independent rotations in 2 non-intersecting planes.
 * 4/16 For Example 5.6 (p. 134) for T : **F<sup>3</sup>** &#8594; **F<sup>3</sup>** where T(x,y,z) = ( 7x+3z, 3x+6y+9z, -6y ). Use notes on how to calculate the determinant of a 3x3 square matrix from JH math notebook #5, 10/25/2017 - PB+HL Chapter 1, section 2, Exercise 7.
 * 4/21 eigenvector matrix S, eigenvalue matrix &#923;
+* 4/24 finished lecture 22
