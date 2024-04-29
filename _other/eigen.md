@@ -102,3 +102,4 @@ permalink: /eigen/
 	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
 * 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has **n distinct eigenvalues**. This is from their intro course on pure and applied linear algebra [Tufts Math 70](https://courses.math.tufts.edu/math70/). Here is the [2020 syllabus](https://courses.math.tufts.edu/math70/70-SY-F20.pdf)
 * 4/28 - Started Notebook 23 after finishing Fibonacci Sequence using AS = S&#923;
+* 4/29 - up to 5.7
