@@ -1,118 +1,111 @@
 ---
-title: Javascript
-permalink: /javascript/
+title: Linear Algebra
+permalink: /eigen/
 ---
 
-## Kiessling Book 1 on Node
-* p. 7 - What do we need to implement: what tasks must be fulfilled?
-	1. HTTP Server to serve webpages
-	2. A Router so our server can provide different responses based on different requests. In other words, a component that maps different requests to different responses
-	3. Request Handlers to actually fulfill requests as mapped by the Router
-	4. Request Data Handling that formats incoming POST requests received by the Request Handlers from the client browser.
-	5. View Logic (aka the V in MVC). This takes the URL's obtained by the Request Handlers in response to requests and needs to be presented such that it can be viewed in the user's browser
-	6. Finally UPLOAD HANDLER that knows how to ingest pictures uploaded by users.  
-* p. 10: invoking http.createServer() method to create an httpServer object that we named 'http'.
-	* p. 11-12 explanation about how JS lets you implicitly create anonymous functions with local scope (see the *say()* method created on p. 10). In JS, since functions can just be values, you can "pass functions around". To better understand this, examine the 2 implementations on p. 11-12 with an implicit function passing version of creating an http.Server object and another explicit function creation version of the http.Server object.
-* p.12-13 explanation of how JS is single-threaded and therefore requires the asynchronous, event-driven model unlike many other languages. For example, an http server implemented in PHP would spawn a new thread for every incoming client http request.
-	* Also review Felix Geisendoerfer's [post](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb) to better understand how asynch Node and JS works.
-* p. 15-16 experimented with packaging asynch code into different modules / js files.
-	* created jeff_server.js file with *exports.start = start;* as final expression
-	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
-
-## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
-### 13 on Asynchronous JavaScript p. 602
-* Discussion of implementing asynch, event-driven for client side and server side JS.
-* Prior to ES6, introduced in 2015, asynch a little more manually implemented. But ES6 introduced [Promises](https://www.freecodecamp.org/news/javascript-promises-explained/). It seems that Kiessling doesn't discuss Promises at all in his first book; there are only a few references to Promises in book 2.
-### 13.1 Asynch Programming with Callbacks
-#### 13.1.4 Callbacks and Events in Node p. 608
-* Node’s *fs.readFile()* function takes a two-parameter callback as its last argument. It reads the specified file asynchronously and then invokes the callback. If the file was read successfully, it passes the file contents as the second callback argument. If there was an error, it passes the error as the first callback argument. In this example, we express the callback as an arrow function, which is a succinct and natural syntax for this kind of simple operation.  
-* Node also defines a number of event-based APIs. p.609
-
-
-## Kyle Simpson - You Don’t Know Javascript, 2e
-### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
-* <del>Chapter 1 - What is Javascript?</del>
-* [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
-* [Chapter 3 - Digging to the Roots of JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md)
-* [Chapter 4 - The Bigger Picture](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch4.md)
-* [Appendix A - Exploring Further](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md)
-* [Appendix B - Practice!](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apB.md)
-
-### [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
-* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/foreword.md)
-* [Chapter 1 - What's the Scope?](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
-* [Chapter 2 - Illustrating Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md)
-* [Chapter 3 - The Scope Chain](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch3.md)
-* [Chapter 4 - Around the Global Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch4.md)
-* [Chapter 5 - The (Not So) Secret Lifecycle of Variables](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch5.md)
-* [Chapter 6 - Limiting Scope Exposure](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch6.md)
-* [Chapter 7 - Using Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
-* [Chapter 8 - The Module Pattern](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch8.md)
-* [Appendix A: Exploring Further](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/apA.md)
-* [Appendix B: Practice](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/apB.md)
-
-### [Objects and Classes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
-* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/foreword.md)
-* [Chapter 1 - Object Foundations](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch1.md)
-* [Chapter 2 - How Objects Work](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch2.md)
-* [Chapter 3 - Classy Objects](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch3.md)
-* [Chapter 4 - This Works](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)
-* [Chapter 5 - Delegation](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch5.md)
+## Index of Math Notebooks
+* **Notebook 1** / *2017: January - May* / Linear Algebra / Solving Simultaneous Equations
+* **Notebook 2** / *2017: May - June* / Linear Algebra and Goodfellow *Deep Learning* p. 34 - 79
+* **Notebook 3** / *2017: June - August* /  Goodfellow *Deep Learning* p. 82 - p.201 / Khan Academy on gradients &#8711;f
+* **Notebook 4** / *2017: August - October* / Lang *Calculus of Several Variables* p. 385-415; p. 49 - 96
+* **Notebook 5** / *2017: October - November* / Lang *Calculus of Several Variables* p. 99 - 139; p. 434 Jacobean Matrix, container for multiple gradient f's (&#8711;f) / PBHL Baxandall & Liebeck *Vector Calculus* starting October 24, 2017.
+* **Notebook 6** / *2017: November - December* / PBHL *Vector Calculus* p. 35-48 / Robert Hogg et al. *Introduction to Mathematical Statistics, Seventh Edition (2014)* / PBHL *Vector Calculus* p. 48-64 / Rosebrock *Deep Learning for Computer Vision with Python* Chapter 10 p. 127 
+* **Notebook 7** / *December 2017 - January 2018* / PBHL p. 69 Chapter 2, Section 1: **Differential Geometry** / PBHL p. 81 Chapter 2, Section 9: **Particle Dynamics** / PBHL p. 97 Chapter 3, Section 1: Level Curves, Sets, Graphs / PBHL p. 101 Chapter 3, Section 2: Continuity and Limits for **R**<sup>m</sup> &#8594; **R**<sup>1</sup> / Abu-Mostafa, Magdon-Ismail, Lin (AML) *Learning from Data* (2012) p. 1-15 
+* **Notebook 8** / 2018: January - April / PBHL p.123-126 Differentiability and linear approximation in **R**<sup>1</sup> &#8594; **R**<sup>n</sup>  / PBHL p. 126 Differentiability and Tangent Planes
+* **Notebook 9** / 2018: February / 
+* **Notebook 10** / 2018: April - August / 
+* **Notebook 11** / 2018: August - October / 
+* **Notebook 12** / 2018: September - October / 
+* **Notebook 13** / October 2018 - February 2019 / 
+* **Notebook 14** / 2019: November - December / 
+* **Notebook 15** / 2019: February - July / 
+* **Notebook 16** / 2019: July - October / 
+* **Notebook 17** / November 2019 - March 2020 / 
+* **Notebook 18** / 2020: March - September / 
+* **Notebook 19** / September 2020 - August 2021 / 
+* **Notebook 20** / August 2021 - December 2022 /
+* **Notebook 21** / December 2022 - March 2024/
+* **Notebook 22** / April 2024 - May 2024/
+* **Notebook 23** / May 2024 - /
 
 
+## Linear Algebra Done Right
+* Review of T-invariant subspaces, eigenvalues, eigenvectors, and eigenspaces
+* Review of upper-triagonal matrices, diagonals, diagonal matrices
 
+### Next videos to watch
+* Overall [playlist](https://www.youtube.com/watch?v=lRxtpGT5338&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6) by Dr. Trefor Bazett
+* #26 <del>[Are Matrix Transformations and Linear Transformation the same? Part I](https://www.youtube.com/watch?v=RNKsV5RrLPA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=26)</del>
+* #27 <del>[Every vector is a linear combination of the same n simple vectors!](https://www.youtube.com/watch?v=914Uy8ohr_8&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=27)</del> *aka* introducing the standard basis vectors &#238;, &#309;; or &#234;<sub>1</sub> ...  &#234;<sub>n</sub> for n-dimensions. And why these are so useful for decomposing matrices and the foundation for linear combinations.
+* #28 <del>[Matrix Transformations are the same thing as Linear Transformations](https://www.youtube.com/watch?v=RNKsV5RrLPA&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=28)</del>
+* #60 [What eigenvalues and eigenvectors mean geometrically](https://www.youtube.com/watch?v=4wTHFmZPhT0&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=60)
+* #65 [How the Diagonalization Process Works](https://www.youtube.com/watch?v=nNwZA1X-C3c&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=65)
+* #68 [Eigenvalues, Eigenvectors & Diagonalization–full example in complex spaces](https://www.youtube.com/watch?v=FOoi8h47Tw4&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=68)
 
-### [Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md) 
-* [Chapter 1 - Primitives](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch1.md)
-* [Chapter 2 - Value Behaviors](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch2.md)
-* [Chapter 3 - Object Values](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch3.md)
+### 2021 Log
+* 8/18/2021: Back to basics, doing problems in Singh p. 493 - 503, finding eigenvalues using 3B1B 2x2 matrix quicktechnique. Then finding associated eigenvectors by setting up the characteristic equation det(**A** - &#955;**I**) = **0** and then solving the resulting system of equations.
+* 8/19: Reviewed fastest way to solve systems of equations, whether Gaussian elimination or others to complete Singh Exercises 7.1.1 p. 503. See this link also for reduced row echelon form [RREF](https://www.usna.edu/Users/math/uhan/sm286a/rref.pdf)
+* 8/20: Review of Gaussian elimination problems
+* 8/21: More Gauss elimination problems from K. Singh textbook
+* 8/22: final gaussian elimination problems. Back to algebraic numeric calculation of eigenvalues and eigenvectors before more abstract proof versions.
+* 8/23: Singh Exercises 7.1 p. 503 to calculate eigenvalues and eigenvectors
+* 8/24: Learned how to solve 4-variable systems more efficiently using Wolfram Alpha as an aid for managing transition between mixed fractions and exact rational number results.
+* 9/01: Two eigenvalue/eigenvector problems from Singh 7.2, p. 503
+* 9/02: Posted Day 2 of Gaussian elimination
+* 9/03: Posted Day 3 of Gaussian elimination and prepped IG post for Saturday
+* 9/04: Day 1 of Axler, Chapter 5 on IG
+* 9/05: Day 2 of Axler. Building momentum in understanding how all pieces of chapter 5 fit together.
+* 9/06: Day 3 of Axler on IG.
 
+### 2022 Log
+* 8/03/2022 Researched some new books on abstract algebra, group theory, etc.
+* 8/23 Been working on Nathan Jacobson's *Basic Algebra I*, 2nd Edition for the last week or two. Had a nice breakthrough on generalizing Cartesian Products from 2 parent sets to n-parent sets. For example, the coordinate / components of an n-dimensional vector in R<sup>n</sup>
+* 8/25 More work on Jacobson / Jake
 
+### 2023 Log
+* 1/01/2023 [notes on Peano's Axioms](https://www2.hawaii.edu/~robertop/Courses/TMP/7_Peano_Axioms.pdf) used to formally develop set of natural numbers and related operations by [Roberto Pelayo](https://www2.hawaii.edu/~robertop/pelayo.html) [University of Hawaii site](https://www2.hawaii.edu/~robertop/pelayo.html).
+* 1/02 continued on Pelayo's treatment of Peano's Axioms
+* 1/03 more on successor functions S()
+* 1/04 Downloaded [history of science/math article](https://www.academia.edu/1530661/Peanos_axioms_in_their_historical_context) by Michael Segre. Extensive paper: *Peano's Axiom's in their Historical Context* (1994)
+* 1/06 downloaded [12 articles about Peano](https://hubertkennedy.angelfire.com/TwelveArticles.pdf) collected by [Hubert Kennedy](https://en.wikipedia.org/wiki/Hubert_Kennedy) in context from wiki article on [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano)
+* 1/07 More progress on Segre paper
+* 1/08 From Pelayo, Axiom 9: If *V* is an inductive set, then **N** is a proper subset of *V*. Alternately, **N** &#8834; *V* where *V* is an inductive set.
+* 1/09 Peano first introduced the union and intersection notation commonly used today per Segre
+* 1/10 More Segre / Peano
+* 1/16 Review of how to integrate all 9 axioms
+* 1/23 Jacobson treatment of Peano post-Pelayo
+* 1/24 Exercises on Jacobson p. 19
+* 1/25 Proof of addition for **N** as developed by Pelayo
+* 1/26 additional examples of iterated addition per Pelayo
+* 5/25 Good PDF ['Everything you always wanted to know about mathematics (2013)'](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) and [HN thread](https://news.ycombinator.com/item?id=36069847)
 
-## 2022 Log
-* 6/23/2022 Reinstalled Postgres and updated brew
-* 6/24/2022 Decided transition from version 9 to 14 of Postgres caused too many problems. Spent significant time trying to change default port listening behavior because clients just couldn't connect to main Postgres server. Decided my needs were well met by a simple SQLite3 database instead. Built a quick and simple CRUD app with Node.js, Express, and SQLite as the data store using [this tutorial](https://medium.com/swlh/creating-a-crud-application-using-node-js-and-sqlite3-a57d4a39ab69).
-	* found a few errors but with some modifications I could get this work. Also used TablePlus as a GUI db browser to verify. 
-* 6/25 Built new CRUD app with MongoDB backend. Used new GUI http app to send GET/POST etc. to test and populate backend. Began using vim and VS Code [together](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim).
-* 6/26 Mostly finished building my first [MERN app](https://www.mongodb.com/languages/mern-stack-tutorial). 
-	* Reading more about Server API Endpoints at:
-		* [Hubspot](https://blog.hubspot.com/website/api-endpoint)
-		* [SmartBear](https://smartbear.com/learn/performance-monitoring/api-endpoints/)
-	* Difference between HTTP [POST versus PUT](https://restfulapi.net/rest-put-vs-post/)
-		* POST mostly equivalent to CREATE database operations. If invoked multiple times, will create multiple entries.
-		* PUT mostly equivalent to UPDATE database operations. PUT method is idempotent which means if invoked multiple times, will only result in a single entry being updated with the same final value. From [this article](https://www.restapitutorial.com/lessons/idempotency.html), "From a RESTful service standpoint, for an operation (or service call) to be idempotent, clients can make that same call repeatedly while producing the same result. In other words, making multiple identical requests has the same effect as making a single request."
-	* Good quick overview of [benefits of linting](https://sourcelevel.io/blog/what-is-a-linter-and-why-your-team-should-use-it), including first lint program written for Unix in 1978
-* 6/27 Everything in MERN is working well. Tested multiple times and was able to add and delete records, consistently start and stop server, start and stop React front end etc.
-* 6/28 Did some thinking and writing about difference between DevMarketing and DevRel. How DevRel = Evangelism + Advocacy.
-* 7/04 Reinstalled Vim on Visual Studio Code. 
-* 7/05 - 7/06 More vim practice.
-* 7/07 Experimented more with very basic searches in vim. 
-	* /[string] then *enter* then *n* to find next instance of [string]. Also realized that to find previous instance of string, type capital *N*.
-	* Also, **(** and **)** by themselves move you to the beginning and end of the current sentence, respectively. This means that *d(* means delete from cursor to beginning of sentence. Conversely, *d)* means delete from cursor to the end of the current sentence.
-	* More reading of Kiessling Node book 1.
-* 7/08 More experimentation with vim. 10G goes to 10th line. gg beginning of document. G end of document. J to join current line with next line.
-* 7/09 More building of Kiessling Node app. Built first server.js app. Began studying and thinking about http class in Node.
-* 7/10 Began experimenting with Visual Mode in vim for the first time. V = switch to line-wise visual mode. Combine this with regular motion keys like j,k and then y (just once) to yank multiple lines at once (visually) and the p will allow to copy/paste.
-* 7/20 Rebuilt hello world Node app to allow me to examine bitwise operations. Working well and I'm able to experiment with rather large decimal numbers and see what happens when I apply XOR operations on them.
-* 7/26 Began reading about how to use registers in vim. [Good article here](https://www.brianstorti.com/vim-registers/)
-* 7/27 Recorded simple first macro in vim. Turning on line numbers with :set number invoked by @n
-* 8/02 Reviewed [JS learning options](https://techbootcamps.utexas.edu/blog/best-ways-to-learn-javascript/)
-* 8/03 Started reading *You Don't Know Javascript, 2nd Edition*. On [Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md).
-* 8/13 Began combined review of objects, value, scope in Flanagan, Simpson, and on YouTube.
-	* confirmed knowledge of back-tick and interpolated expressions in strings. read a bunch about by-ref / by-val; objects / classes / primitive data types; various types of scope and closure. Best knowledge comes from reading Kyle Simpson, supplemented by Flanagan.
-* 8/14 Notes on Kiessling Node book
-	* p. 10 the require() method is specific to CommonJS as a way of importing modules, files, etc.
-	* Module / class / method hierarchy that leads to http.createServer() command: Node.js [**HTTP Module**](https://www.w3schools.com/nodejs/nodejs_http.asp) > createServer() method > http.Server Object. In other words, invoking [http.createServer()](https://nodejs.org/api/http.html#httpcreateserveroptions-requestlistener) createsa a [http.Server object](https://nodejs.org/api/http.html#class-httpserver).
-		* Here are the W3Schools articles on [http.createServer()](https://www.w3schools.com/nodejs/met_http_createserver.asp) and [http.Server class](https://www.w3schools.com/nodejs/obj_http_server.asp) 
-	* Wrote 2 simple js programs to test out implict versus explicit functions. see ~/js_lang_exercises directory and look at 1-node and 2-node.
-	* Also read further into Kiessling Book 1 on implementing different versions of http server with http.createServer(), how to organize a large js program into different modules. exports.start = start; allows the start() function to be accessed by index.js.
-	* Thought about various ways to change the datatype of a variable: (1) js default is coercion, (2) Java and other languages also have the concept of casting to *temporarily* change a type, (3) overall topic of type conversion. I *think* that the superset is just called type conversion of which 2 subsets are coercion and casting.
-	* Everything that is not a primitive datatype is an object, an instantiation of an abstract class. Every class has a prototype it inherits from (with some minor exceptions). Because everything ultimately inherits from Object.prototype, every object has methods like toString().
-* 8/16 experimented with packaging JS programs into modules with export function. Kiessling p. 15-16
-* 8/17 turns out Kiessling Book 1 is shorter than expected. I skimmed through to the end of it; the second half is actually a preview of a future book.
-
-## 2024 Log
-### 4/30/2024
-* Set up next.js for mindscale website.
-* See also instructions on [main git page](/git-notes/)
-
+### 2024 Log
+* 3/09/2024. Starting over with Math which I've not looked at for about a year, since January 2023. Continuing with Notebook 21 which I started back in Dec 2022. Using Axler 4th edition for this run.
+* 3/25/2024. Working on visual proofs for Theorems 3.22 and 3.25.
+* 4/01/2024. Began Section 3D on inverse functions, invertibility etc. Also started Notebook #22.
+* 4/06/2024. Began Section 5A on eigenspaces. Interesting changes between 3rd and 4th editions wrt when operators are introduced. 3rd edition introduces operators in Section 3D; 4th Ed introduces them at beginning of 5A. 
+* 4/07 Reviewed definition of invariant maps and invariant subspaces from [Wikipedia](https://en.wikipedia.org/wiki/Invariant_subspace). Wiki also introduces the terminology of calling a subspace **W** 'T-invariant' because a space **W** is only invariant with respect to a specific map T.
+* 4/08 Also looked at eigen calculations in Singh.
+* 4/09 Reviewed G. Strang [YouTube lecture](https://www.youtube.com/watch?v=cdZnhQjJu4I&t=891s) MIT OpenCourseWare on eigenvalues and eigenvectors. Up to 14:50 out of 51:00
+* 4/10 Worked out on paper characteristic equation etc based on Strang MIT lecture
+* 4/11 finished lecture 21 of strang lecture, started lecture 22.
+* 4/12 Calculated eigenvectors and eigenvalues for matrices A and B from Strang lecture 21.
+* 4/14 More on Strang lecture 21.
+	* Sometimes, one can add together matrices in the Av&#8407; = &#955;v&#8407; equation, mostly they cannot. And one can only do it when the two matrices happen to share the same eigenvectors.
+* 4/15 What square matrices have no real eigenvalues? Rotation Matrices, which still have eigenvalues that are complex numbers. 
+	* See [this Quora answer](https://qr.ae/psPPYi): 'So the answer is: it depends on which ring you’re working in. If you’re working in C, then every polynomial with coefficients in C has solutions in C, so every square matrix would have eigenvalues. If you’re working in some other ring R, then your matrix may not have eigenvalues whenever its characteristic polynomial happens not to have any solutions in R.'
+	* See also [this answer](https://qr.ae/psPPo1) which says that all complex square matrcies have eigenvalues. This is the result of the spectral theorem. Also extending concept of eigen values to eigen pairs, even/odd dimensions, ortations. In 4-D space, you can have 2 independent rotations in 2 non-intersecting planes.
+* 4/16 For Example 5.6 (p. 134) for T : **F<sup>3</sup>** &#8594; **F<sup>3</sup>** where T(x,y,z) = ( 7x+3z, 3x+6y+9z, -6y ). Use notes on how to calculate the determinant of a 3x3 square matrix from JH math notebook #5, 10/25/2017 - PB+HL Chapter 1, section 2, Exercise 7.
+* 4/21 eigenvector matrix S, eigenvalue matrix &#923;
+* 4/23. Note. Master [YouTube playlist](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) for Strang's Spring 2005 lecture MIT 18.06 Linear Algebra
+	* [Lecture 21](https://www.youtube.com/watch?v=cdZnhQjJu4I&list=PLE7DDD91010BC51F8&index=23) - Intro to Eigenvalues, Eigenvectors
+	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
+* 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has **n distinct eigenvalues**. This is from their intro course on pure and applied linear algebra [Tufts Math 70](https://courses.math.tufts.edu/math70/). Here is the [2020 syllabus](https://courses.math.tufts.edu/math70/70-SY-F20.pdf)
+* 4/28 - Started Notebook 23 after finishing Fibonacci Sequence using AS = S&#923;
+* 4/30 - Thinking through the proof of Theorem 5.11 (p.136) in Axler 4e: Linearly independent eigenvectors.
+	* **Statement of Theorem** Let T be an operator on V. Then every list of eigenvectors of T corresponding to *distinct* eigenvalues of T is linearly independent. 
+	* **Proof**
+		1. Suppose the desired result is false. Then there must exist a smallest positive integer **m** such that there exists a linearly dependent list v&#8407;<sub>1</sub>...v&#8407;<sub>m</sub> of e-vectors of T corresponding to distinct e-values lambda<sub>1</sub>...lambda<sub>m</sub> of T. 
+			* Note: **m** must be equal to or greater than 2 because an eigenvector is by definition, a non-zero vector.
+		1. Thus there must exist a list of scalars a<sub>1</sub>...a<sub>m</sub> that belong to **F<sup>1</sup>**, none of which are 0 (because of the minimality of **m**), such that the linear combinations of a<sub>1</sub>v&#8407;<sub>1</sub> + ... + a<sub>m</sub>v&#8407;<sub>m</sub> = 0.
+		1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
