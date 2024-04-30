@@ -102,8 +102,10 @@ permalink: /eigen/
 	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
 * 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has **n distinct eigenvalues**. This is from their intro course on pure and applied linear algebra [Tufts Math 70](https://courses.math.tufts.edu/math70/). Here is the [2020 syllabus](https://courses.math.tufts.edu/math70/70-SY-F20.pdf)
 * 4/28 - Started Notebook 23 after finishing Fibonacci Sequence using AS = S&#923;
-* 4/30 - Thinking through the proof of Theorem 5.11 (p.136) in Axler 4e: Linearly independent eigenvectors. Let T be an operator on V. Then every list of eigenvectors of T corresponding to *distinct* eigenvalues of T is linearly independent. 
-	1. Suppose the desired result is false. Then there must exist a smallest positive integer **m** such that there exists a linearly dependent list v&#8407;<sub>1</sub>...v&#8407;<sub>m</sub> of e-vectors of T corresponding to distinct e-values lambda<sub>1</sub>...lambda<sub>m</sub> of T. 
-		* Note: **m** must be equal to or greater than 2 because an eigenvector is by definition, a non-zero vector.
-	1. Thus there must exist a list of scalars a<sub>1</sub>...a<sub>m</sub> that belong to **F<sup>1</sup>**, none of which are 0 (because of the minimality of **m**), such that the linear combinations of a<sub>1</sub>v&#8407;<sub>1</sub> + ... + a<sub>m</sub>v&#8407;<sub>m</sub> = 0.
-	1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
+* 4/30 - Thinking through the proof of Theorem 5.11 (p.136) in Axler 4e: Linearly independent eigenvectors.
+	* **Statement of Theorem** Let T be an operator on V. Then every list of eigenvectors of T corresponding to *distinct* eigenvalues of T is linearly independent. 
+	* **Proof**
+		1. Suppose the desired result is false. Then there must exist a smallest positive integer **m** such that there exists a linearly dependent list v&#8407;<sub>1</sub>...v&#8407;<sub>m</sub> of e-vectors of T corresponding to distinct e-values lambda<sub>1</sub>...lambda<sub>m</sub> of T. 
+			* Note: **m** must be equal to or greater than 2 because an eigenvector is by definition, a non-zero vector.
+		1. Thus there must exist a list of scalars a<sub>1</sub>...a<sub>m</sub> that belong to **F<sup>1</sup>**, none of which are 0 (because of the minimality of **m**), such that the linear combinations of a<sub>1</sub>v&#8407;<sub>1</sub> + ... + a<sub>m</sub>v&#8407;<sub>m</sub> = 0.
+		1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
