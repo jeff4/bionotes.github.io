@@ -114,6 +114,5 @@ permalink: /javascript/
 ## 2024 Log
 ### 4/30/2024
 * Set up next.js for mindscale website.
-
-
+* See also instructions on [main git page](/git-notes/)
 
