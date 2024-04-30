@@ -19,9 +19,6 @@ permalink: /javascript/
 	* created jeff_server.js file with *exports.start = start;* as final expression
 	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
 
-
-
-
 ## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
 ### 13 on Asynchronous JavaScript p. 602
 * Discussion of implementing asynch, event-driven for client side and server side JS.
@@ -33,7 +30,6 @@ permalink: /javascript/
 
 
 ## Kyle Simpson - You Don’t Know Javascript, 2e
-
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * <del>Chapter 1 - What is Javascript?</del>
 * [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
@@ -114,3 +110,10 @@ permalink: /javascript/
 	* Everything that is not a primitive datatype is an object, an instantiation of an abstract class. Every class has a prototype it inherits from (with some minor exceptions). Because everything ultimately inherits from Object.prototype, every object has methods like toString().
 * 8/16 experimented with packaging JS programs into modules with export function. Kiessling p. 15-16
 * 8/17 turns out Kiessling Book 1 is shorter than expected. I skimmed through to the end of it; the second half is actually a preview of a future book.
+
+## 2024 Log
+### 4/30/2024
+* Set up next.js for mindscale website.
+
+
+
