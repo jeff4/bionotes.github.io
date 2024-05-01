@@ -30,6 +30,7 @@ permalink: /javascript/
 
 
 ## Kyle Simpson - You Don’t Know Javascript, 2e
+}
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * <del>Chapter 1 - What is Javascript?</del>
 * [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
@@ -115,4 +116,14 @@ permalink: /javascript/
 ### 4/30/2024
 * Set up next.js for mindscale website.
 * See also instructions on [main git page](/git-notes/)
+* Following this react-nextjs course on YouTube.
 
+### Steps
+1. Use mkdir to create desired directory within demo_f
+1. Navigate into new subdirectory, and type 
+1. Edit newly created `package.json` file.
+1. install dependencies with this command `npm install next react react-dom`
+1. This has now edited the `package.json` file with a list of dependencies and versions for next, react, and react-dom.
+1. Now go into `package.json` and edit to rename `test` command to `dev` command. It should say `"dev": "next dev"`.
+1. Create new subdirectory and two files `/n1/app/layout.js` and `/n1/app/page.js1`.
+1. Navigate to n1 and run server by typing `npm run dev` and view in browser at URL localhost:3000
