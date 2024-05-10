@@ -971,7 +971,7 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 * New course at Purdue University on [Semiconductor Fabrication 101](https://www.purdue.edu/newsroom/releases/2022/Q2/purdue-launches-nations-first-comprehensive-semiconductor-degrees-program.html) and [HN thread](https://news.ycombinator.com/item?id=39325659)
 * Brief history and tour of [C Compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of) and earlier [history of C programming language](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
 
-## 3/18
+## 3/19
 * [HN thread](https://news.ycombinator.com/item?id=39720388) about CMU's [CS251 course](https://www.cs251.com) on Great Ideas in Theoretical Computer Science.
 * Hugo Barra's long and detailed review and thoughts on AVP from the perspective of a previous head of FB/Meta's Oculus and VR projects. [Article](https://hugo.blog/2024/03/11/vision-pro/) and [HN thread](https://news.ycombinator.com/item?id=39711725).
 * Is the Internet Dying? [Ed Zitron's thoughts](https://www.wheresyoured.at/are-we-watching-the-internet-die/), [Cory Dransfeldt's blog](https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/), and [HN thread](https://news.ycombinator.com/item?id=39684795)
