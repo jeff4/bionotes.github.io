@@ -102,7 +102,7 @@ permalink: /eigen/
 	* [Lecture 22](https://www.youtube.com/watch?v=13r9QY6cmjc&list=PLE7DDD91010BC51F8&index=24) - Diagonalizability, Fibonnaci's Sequence
 * 4/24 - Tufts [PDF](https://courses.math.tufts.edu/math70/Section%20Summaries/Chapter5/sec%205.3.pdf) Theorems 5 and 6 about how an n x n matrix is diagonalizable iff it has **n distinct eigenvalues**. This is from their intro course on pure and applied linear algebra [Tufts Math 70](https://courses.math.tufts.edu/math70/). Here is the [2020 syllabus](https://courses.math.tufts.edu/math70/70-SY-F20.pdf)
 * 4/28 - Started Notebook 23 after finishing Fibonacci Sequence using AS = S&#923;
-* 5/15 - Thinking through the proof of Theorem 5.11 (p.136) in Axler 4e: Linearly independent eigenvectors.
+* 5/18 - Thinking through the proof of Theorem 5.11 (p.136) in Axler 4e: Linearly independent eigenvectors.
 	* **Statement of Theorem** Let T be an operator on V. Then every list of eigenvectors of T corresponding to *distinct* eigenvalues of T is linearly independent. 
 	* **Proof**
 		1. Suppose the desired result is false. Then there must exist a smallest positive integer **m** such that there exists a linearly dependent list v&#8407;<sub>1</sub>...v&#8407;<sub>m</sub> of e-vectors of T corresponding to distinct e-values lambda<sub>1</sub>...lambda<sub>m</sub> of T. 
