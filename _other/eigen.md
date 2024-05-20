@@ -110,3 +110,4 @@ permalink: /eigen/
 		1. Thus there must exist a list of scalars a<sub>1</sub>...a<sub>m</sub> that belong to **F<sup>1</sup>**, none of which are 0 (because of the minimality of **m**), such that the linear combinations of a<sub>1</sub>v&#8407;<sub>1</sub> + ... + a<sub>m</sub>v&#8407;<sub>m</sub> = 0.
 		1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
 * 5/18 - Restarted thinking about how eigenvalues and eigenvectors have no meaning without a specific map T or matrix A associated. And the most powerful (only?) usage is in operators aka square matrices. See also Theorem 5.11 is better expressed in Axler 3e vs. Axler 4e.
+* 5/19 - In general, only square matrices have eigenvectors and eigenvalues. Although Singular Value Decomposition SVD allows one to find equivalents in rectangular non-square matrices.
