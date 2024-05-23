@@ -113,7 +113,7 @@ permalink: /javascript/
 * 8/17 turns out Kiessling Book 1 is shorter than expected. I skimmed through to the end of it; the second half is actually a preview of a future book.
 
 ## 2024 Log
-### 4/30/2023
+### 4/30/2024
 * Set up next.js for mindscale website.
 * See also instructions on [main git page](/git-notes/)
 * Following this [react-nextjs course on YouTube](https://www.youtube.com/watch?v=h2BcitZPMn4).
