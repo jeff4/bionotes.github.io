@@ -111,5 +111,5 @@ permalink: /eigen/
 		1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
 * 5/18 - Restarted thinking about how eigenvalues and eigenvectors have no meaning without a specific map T or matrix A associated. And the most powerful (only?) usage is in operators aka square matrices. See also Theorem 5.11 is better expressed in Axler 3e vs. Axler 4e.
 * 5/20 - In general, only square matrices have eigenvectors and eigenvalues. Although Singular Value Decomposition SVD allows one to find equivalents in rectangular non-square matrices.
-* 5/26
+* 5/27
 	* Completed proof of Theorem 5.1
