@@ -110,6 +110,6 @@ permalink: /eigen/
 		1. Thus there must exist a list of scalars a<sub>1</sub>...a<sub>m</sub> that belong to **F<sup>1</sup>**, none of which are 0 (because of the minimality of **m**), such that the linear combinations of a<sub>1</sub>v&#8407;<sub>1</sub> + ... + a<sub>m</sub>v&#8407;<sub>m</sub> = 0.
 		1. Apply T - lambda<sub>m</sub>I to both sides of the equation above, getting...
 * 5/18 - Restarted thinking about how eigenvalues and eigenvectors have no meaning without a specific map T or matrix A associated. And the most powerful (only?) usage is in operators aka square matrices. See also Theorem 5.11 is better expressed in Axler 3e vs. Axler 4e.
-* 5/20 - In general, only square matrices have eigenvectors and eigenvalues. Although Singular Value Decomposition SVD allows one to find equivalents in rectangular non-square matrices.
-* 5/27
-	* Completed proof of Theorem 5.1
+* 5/19 - In general, only square matrices have eigenvectors and eigenvalues. Although Singular Value Decomposition SVD allows one to find equivalents in rectangular non-square matrices.
+* 6/01 - In trying to understand the proof for Theorem 5.12 (p. 136) I was led back to Theorem 2.22 (p.35): "In a finite-dimensional vector space, the length of every linearly independent list of vectors is less than or equal to the length of every spanning list of vectors."
+	* As a follow up, interesting examples on the following p. 36, involving Example 2.23 (no list of length 4 is linearly independent in **R<sup>3</sup>**) and Ex. 2.24 (No list of length three, aka a list of 3 vectors, can possibly span **R<sup>4</sup>**.)
