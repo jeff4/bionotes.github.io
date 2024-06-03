@@ -113,3 +113,4 @@ permalink: /eigen/
 * 5/19 - In general, only square matrices have eigenvectors and eigenvalues. Although Singular Value Decomposition SVD allows one to find equivalents in rectangular non-square matrices.
 * 6/01 - In trying to understand the proof for Theorem 5.12 (p. 136) I was led back to Theorem 2.22 (p.35): "In a finite-dimensional vector space, the length of every linearly independent list of vectors is less than or equal to the length of every spanning list of vectors."
 	* As a follow up, interesting examples on the following p. 36, involving Example 2.23 (no list of length 4 is linearly independent in **R<sup>3</sup>**) and Ex. 2.24 (No list of length three, aka a list of 3 vectors, can possibly span **R<sup>4</sup>**.)
+* 6/02 - Continued on to understanding polynomials, application to Differentiation Functions like linear map D, etc. And finally, application of raising operators to a power, e.g., **T<sup>m</sup>**.
