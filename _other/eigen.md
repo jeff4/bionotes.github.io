@@ -115,3 +115,4 @@ permalink: /eigen/
 	* As a follow up, interesting examples on the following p. 36, involving Example 2.23 (no list of length 4 is linearly independent in **R<sup>3</sup>**) and Ex. 2.24 (No list of length three, aka a list of 3 vectors, can possibly span **R<sup>4</sup>**.)
 * 6/02 - Continued on to understanding polynomials, application to Differentiation Functions like linear map D, etc. And finally, application of raising operators to a power, e.g., **T<sup>m</sup>**.
 * 6/03 - Decided to review what I might have missed in Chapter 4, Polynomials. Interesting difference in Fundmantal Theorem of algebra as applied to Complex vs Real Numbers.
+* 6/04 - completed Section 5A, including multiplication of polynomial function of operators. Properties: (a) homomorphism property and (b) associative property.
