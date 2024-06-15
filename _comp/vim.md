@@ -1,4 +1,4 @@
----
+	---
 title: Notes on vim
 permalink: /vim/
 ---
@@ -75,3 +75,9 @@ permalink: /vim/
 	* `<Ctrl> + r` and then type *"* to access the default register
 	* Can type `"a` to access the **a** register
 * For more detailed instructions in how to enter in escape/control characters, see [this comment](https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-the-vim-command-line)
+
+## 2/15/2024
+* Began thinking of transitioning from vim to Neovim. See comparisons in this [Baeldung Linux article](https://www.baeldung.com/linux/vim-vs-neovim)
+
+
+
