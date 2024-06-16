@@ -118,4 +118,4 @@ permalink: /eigen/
 * 6/04 - completed Section 5A, including multiplication of polynomial function of operators. Properties: (a) homomorphism property and (b) associative property.
 * 6/05 - Went back to review Chapter 4: Polynomials
 * 6/10 - Completed all of Polynomials, (including careful study of fundamentals of division operations for **R<sup>1</sup>**). Back to Chapter 5, Section 5B, minimal polynomial.
-* 6/15 - Interesting. Treatment of monic polynomials and minimal polynomials are moved in Chapter 8 (Axler 3e) to Chapter 5 (Axler 4e).
+* 6/16 - Interesting. Treatment of monic polynomials and minimal polynomials are moved in Chapter 8 (Axler 3e) to Chapter 5 (Axler 4e).
