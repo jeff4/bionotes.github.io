@@ -113,12 +113,12 @@ permalink: /javascript/
 * 8/17 turns out Kiessling Book 1 is shorter than expected. I skimmed through to the end of it; the second half is actually a preview of a future book.
 
 ## 2024 Log
-### 4/30/2023
+### 4/30/2024
 * Set up next.js for mindscale website.
 * See also instructions on [main git page](/git-notes/)
 * Following this [react-nextjs course on YouTube](https://www.youtube.com/watch?v=h2BcitZPMn4).
 
-### Steps
+#### Steps for next.js
 1. Use `mkdir n1` to create desired directory within demo_f
 1. Navigate into new subdirectory, and type 
 1. Edit newly created `package.json` file.
@@ -128,3 +128,16 @@ permalink: /javascript/
 1. Create new subdirectory and two files `/n1/app/layout.js` and `/n1/app/page.js1`.
 1. Navigate to n1 and run server by typing `npm run dev` and view in browser at URL localhost:3000
 1. Watched up to 10:11. Have mixed in some jsx already meow.
+
+### 6/19/2024
+#### setting up authentication
+* See dialog in ChatGPT with suggested Astro code.
+* From [this DevTo post](https://dev.to/itsabdessalam/password-protect-your-site-with-netlify-and-github-actions-1aah), I found these options for securing a site via Netlify--possibly with minimal or zero code changes to GitHub itself. [Main Netlify article](https://docs.netlify.com/security/secure-access-to-sites/)
+	1. [Authenticate with Netlify Identity](https://docs.netlify.com/security/secure-access-to-sites/identity/)
+	1. [Basic authentication with custom headers](https://docs.netlify.com/security/secure-access-to-sites/basic-authentication-with-custom-http-headers/)o 
+	1. [Use OAuth provider tokens on site](https://docs.netlify.com/security/secure-access-to-sites/oauth-provider-tokens/) 
+	1. [Basic password protection vs. team login protection](https://docs.netlify.com/security/secure-access-to-sites/site-protection/#basic-password-protection-versus-team-login-protection) 
+	1. [Protect your site with a single shared password](https://docs.netlify.com/security/secure-access-to-sites/site-protection/#protect-your-site-with-a-basic-password) 
+* Also, this is an interesting [Oct 2023 post](https://github.com/lucia-auth/lucia/discussions/1231) by the creator of the Lucia auth library. Found at 1:33 of this [YouTube video](https://www.youtube.com/watch?v=S37uRvBr65k)
+
+
