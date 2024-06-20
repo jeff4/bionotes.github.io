@@ -145,3 +145,4 @@ permalink: /javascript/
 * Found this 2022 piece by Stas Klymenko with a [Node.js Roadmap for Beginners](https://dev.to/hellnar/nodejs-roadmap-for-beginners-25ml). Starts with theory/fundamentals bfore building CRUD / MERN servers. Also covers authentication of JWT vs. Sessions.
 * Started rereading Flanagan's O'Reilly book on Javascript, 7th Edition (2020).
 * Up to pg. 53 of SVP 'Javascript, Beginner to Pro' (2021).
+* See also these [NodeJS Learning Resources](https://nodejs.org/en/about/get-involved). No Discord channel for Node apparently.
