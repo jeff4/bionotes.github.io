@@ -146,3 +146,12 @@ permalink: /javascript/
 * Started rereading Flanagan's O'Reilly book on Javascript, 7th Edition (2020).
 * Up to pg. 53 of SVP 'Javascript, Beginner to Pro' (2021).
 * See also these [NodeJS Learning Resources](https://nodejs.org/en/about/get-involved). No Discord channel for Node apparently.
+* Table comparing the names used in various languages for common data structures
+
+|             | **Array**    | **Map**          | **Set**       |
+|-------------|--------------|------------------|---------------|
+| **JavaScript** | array        | map              | set           |
+| **Python**     | list         | dict             | set           |
+| **Java**       | Array / ArrayList | HashMap          | HashSet       |
+| **CS**         | Dynamic Array | Hash Table / Associative Array / Dictionary | Hash-Set      |
+
