@@ -144,3 +144,4 @@ permalink: /javascript/
 * Created dev.to account and found this April, 2024 [article](https://dev.to/snikidev/astrojs-as-an-alternative-to-nextjs-pushing-the-limits-30ga) by Nikita Kakuev on how the Astro approach (if not necessarily the Astro framework) is the future. "The future is simple, vanilla JS because simplicity always wins."
 * Found this 2022 piece by Stas Klymenko with a [Node.js Roadmap for Beginners](https://dev.to/hellnar/nodejs-roadmap-for-beginners-25ml). Starts with theory/fundamentals bfore building CRUD / MERN servers. Also covers authentication of JWT vs. Sessions.
 * Started rereading Flanagan's O'Reilly book on Javascript, 7th Edition (2020).
+* Up to pg. 53 of SVP 'Javascript, Beginner to Pro' (2021).
