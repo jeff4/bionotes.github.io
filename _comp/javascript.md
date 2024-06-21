@@ -29,7 +29,7 @@ permalink: /javascript/
 * Node also defines a number of event-based APIs. p.609
 
 
-## Kyle Simpson - You Don’t Know Javascript, 2e
+## Kyle Simpson - You Don’t Know Javascript Yet, 2e
 }
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * <del>Chapter 1 - What is Javascript?</del>
@@ -215,3 +215,7 @@ Here are the definitions for the specified items along with their equivalent dat
 		print(len(s)) # Output: 2
 		```
 	* **Differences:** Both JavaScript sets and Python sets store unique values and do not allow duplicates. JavaScript sets maintain insertion order, while Python sets are unordered collections. Both support basic set operations like union, intersection, and difference.
+
+
+### 6/20/2024
+* Restarted Chapter 2 of Sampson "You Don't Know Javascript Yet".
