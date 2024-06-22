@@ -123,4 +123,4 @@ permalink: /eigen/
 * 6/18 - More youtube links:
 	* [Overview of the Minimal Polynomial](https://www.youtube.com/watch?v=FshxASI95rs) from MathDoctorBob
 	* [Visual Math 'What are...minimal polynomials?'](https://www.youtube.com/watch?v=rCIjgX98jnw)
-* 6/19
+* 6/20
