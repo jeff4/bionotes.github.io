@@ -30,7 +30,7 @@ permalink: /javascript/
 
 
 ## Kyle Simpson - You Don’t Know Javascript Yet, 2e
-}
+
 ### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * <del>Chapter 1 - What is Javascript?</del>
 * [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
