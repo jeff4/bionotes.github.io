@@ -222,3 +222,6 @@ Here are the definitions for the specified items along with their equivalent dat
 * Up to p. 49 of Flanagan. Wrote simple programs with arrays and functions and used node to print out to `console.log();`.
 * Flanagan talks about arrow functions `=>` in ES6 and later on p. 50.
 * Out of curiousity, began looking at Maps, Chapter 11, p. 485
+
+### 6/23/2024
+* Got Flanagan's histogram program working (Example 1-1, p. 56). See proj-2.
