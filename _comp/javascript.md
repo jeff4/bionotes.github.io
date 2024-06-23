@@ -216,6 +216,8 @@ Here are the definitions for the specified items along with their equivalent dat
 		```
 	* **Differences:** Both JavaScript sets and Python sets store unique values and do not allow duplicates. JavaScript sets maintain insertion order, while Python sets are unordered collections. Both support basic set operations like union, intersection, and difference.
 
-
 ### 6/20/2024
 * Restarted Chapter 2 of Sampson "You Don't Know Javascript Yet".
+* Verified that I have working Hello World across all machines in both the terminal and browser, using Firefox Developer Tools to view console there. cmd-option-io.
+* Up to p. 49 of Flanagan. Wrote simple programs with arrays and functions and used node to print out to `console.log();`.
+* Flanagan talks about arrow functions `=>` in ES6 and later on p. 50.
