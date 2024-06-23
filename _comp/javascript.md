@@ -228,3 +228,5 @@ Here are the definitions for the specified items along with their equivalent dat
 * Got Flanagan's histogram program working (Example 1-1, p. 56). See proj-2.
 * Completed miles --> km program in SVP p. 43 (end of Chap 2).
 * Next step: continue with SVP chapter 3.
+* Up to p. 53 in SVP chapter 3; about to begin using Array methods.
+    * Note also there are good reasons why a javascript does not have a simple equivalent to this Objective C method `NSStringFromSelector`. Need to do something like `let arrayName = Object.keys({arr})[0]`. and then reference `arrayName` later in console.log(), per [this answer](https://stackoverflow.com/a/52598270). For byVal and byRef discussion see [this answer](https://stackoverflow.com/a/51005683)
