@@ -1,4 +1,5 @@
 ---
+
 title: Javascript
 permalink: /javascript/
 ---
@@ -225,3 +226,5 @@ Here are the definitions for the specified items along with their equivalent dat
 
 ### 6/23/2024
 * Got Flanagan's histogram program working (Example 1-1, p. 56). See proj-2.
+* Completed miles --> km program in SVP p. 43 (end of Chap 2).
+* Next step: continue with SVP chapter 3.
