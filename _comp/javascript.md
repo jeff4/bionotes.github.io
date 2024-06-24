@@ -242,3 +242,4 @@ console.log(arrayName);
 
 ### 6/24/2024
 * splice() on SVP p.54. First argument indicates which index location the splice will begin. Second argument indicates how many existing entries (starting at the point of splicing--will be deleted). Note that if you accidentally delete more entries than exist in the original array, splice() will *not* throw an error; it will just delete all the elements available to the end of the array (going to the right edge).
+* on SVP p. 59, practice exercise 3.2, shopping list
