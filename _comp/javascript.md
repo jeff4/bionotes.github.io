@@ -232,7 +232,9 @@ Here are the definitions for the specified items along with their equivalent dat
     * Note also there are good reasons why a javascript does not have a simple equivalent to this Objective C method `NSStringFromSelector`. Need to do something like `let arrayName = Object.keys({arr})[0]`. and then reference `arrayName` later in console.log(), per [this answer](https://stackoverflow.com/a/52598270). For byVal and byRef discussion see [this answer](https://stackoverflow.com/a/51005683)
 
 ```
-let arrayName = Object.keys({arr})[0]
+let arr = [1, 2, 3];
+let arrayName = Object.keys({arr})[0];
+console.log(arrayName);
 ```
 
 
