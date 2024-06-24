@@ -147,6 +147,7 @@ permalink: /javascript/
 * Started rereading Flanagan's O'Reilly book on Javascript, 7th Edition (2020).
 * Up to pg. 53 of SVP 'Javascript, Beginner to Pro' (2021).
 * See also these [NodeJS Learning Resources](https://nodejs.org/en/about/get-involved). No Discord channel for Node apparently.
+* from 6/24, see this [reddit answer](https://www.reddit.com/r/learnjavascript/comments/wthq0b/best_way_to_learn_javascript/), esp the Intermediate section.
 
 #### datastructures
 * Table comparing the names used in various languages for common data structures
