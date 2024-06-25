@@ -247,3 +247,11 @@ console.log(arrayName);
 * Completed up to Object p.63.
 * Up to Arrays in Objects p. 65
 
+### 6/25/2024
+* Completed Chapter 3, now on SVP Chapter 4 'Control Flow'.
+* Goal is to finish everything before Chapter 8 (build in JS methods like Array Methods, String Methods, etc.)
+    * Chap 4 - if/else
+    * Chap 5 - loops
+    * Chap 6 - Functios
+    * Chap 7 - Classes
+    
