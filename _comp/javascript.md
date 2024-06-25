@@ -254,4 +254,4 @@ console.log(arrayName);
     * Chap 5 - loops
     * Chap 6 - Functios
     * Chap 7 - Classes
-    
+* Unary operators are like `i++`. Binary operators require two operands like `1 + 1`. Ternary operators (SVP p. 76) require 3 operands like ` age<18  ?  console.log("denied") :  console.log("admitted");`    
