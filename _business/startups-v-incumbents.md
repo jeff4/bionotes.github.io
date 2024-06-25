@@ -653,3 +653,9 @@ sitemap: false
 ## 23 April 2024
 * Meta released [Llama 3](https://techcrunch.com/2024/04/18/meta-releases-llama-3-claims-its-among-the-best-open-models-available/) and is using it to power the [Facebook AI chatbo](https://techcrunch.com/2024/04/18/meta-adds-its-ai-chatbot-powered-by-llama-3-to-the-search-bar-across-its-apps/) to all it's apps.
 * Microsoft released the next version of it's lightweight Phi model that can run on phones. [Verge article](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model), [HN thread](https://news.ycombinator.com/item?id=40127806)
+
+## 24 June 2024
+* Steve Yegge considers junior employees (devs, lawyers, writers, etc.) in this [blog post](https://sourcegraph.com/blog/the-death-of-the-junior-developer). [HN thread](https://news.ycombinator.com/item?id=40783682).
+	* Says that coding assistants have made a quantum leap in last 6 weeks (circa mid-May).
+
+
