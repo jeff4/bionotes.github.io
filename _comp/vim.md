@@ -80,4 +80,6 @@ permalink: /vim/
 * Began thinking of transitioning from vim to Neovim. See comparisons in this [Baeldung Linux article](https://www.baeldung.com/linux/vim-vs-neovim)
 
 
-
+## 6/25/2024
+* When using the `:%s` regex, remember that `\n` refers to the newlines in the search field, and `\r` refers to newlines in the replace field.
+	* So for example, if you want to replace *text* \<newline\> with *text* **;** \<newline\>, you would type `%s|\n|;\r|gc`.
