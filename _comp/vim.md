@@ -1,4 +1,4 @@
-	---
+---
 title: Notes on vim
 permalink: /vim/
 ---
