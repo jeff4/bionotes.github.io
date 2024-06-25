@@ -231,7 +231,6 @@ Here are the definitions for the specified items along with their equivalent dat
 * Next step: continue with SVP chapter 3.
 * Up to p. 53 in SVP chapter 3; about to begin using Array methods.
     * Note also there are good reasons why a javascript does not have a simple equivalent to this Objective C method `NSStringFromSelector`. Need to do something like `let arrayName = Object.keys({arr})[0]`. and then reference `arrayName` later in console.log(), per [this answer](https://stackoverflow.com/a/52598270). For byVal and byRef discussion see [this answer](https://stackoverflow.com/a/51005683)
-
 ```
 let arr = [1, 2, 3];
 let arrayName = Object.keys({arr})[0];
@@ -257,3 +256,4 @@ console.log(arrayName);
 * Unary operators are like `i++`. Binary operators require two operands like `1 + 1`. Ternary operators (SVP p. 76) require 3 operands like ` age<18  ?  console.log("denied") :  console.log("admitted");`    
 * SVP p. 76. Remember-- *condition* **?** *statement associated with true* *:** *statement associated with false*
 	* aka if *operand1 is true*, then *execute operand 2*. Otherwise, *execute operand3*. 
+	* aka if *op1 CONDITION is true*, then *EXECUTE op2*. Otherwise, *EXECUTE op2*.
