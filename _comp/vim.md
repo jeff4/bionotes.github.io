@@ -83,3 +83,6 @@ permalink: /vim/
 ## 6/25/2024
 * When using the `:%s` regex, remember that `\n` refers to the newlines in the search field, and `\r` refers to newlines in the replace field.
 	* So for example, if you want to replace *text* \<newline\> with *text* **;** \<newline\>, you would type `%s|\n|;\r|gc`.
+* Use [this article](https://www.brianstorti.com/vim-registers/) to understand how to add and retrieve characters from registers. For cut and paste. 
+	* For example, to add everyting from the cursor to the end of the line `$` to the register `a`, type `"ay$`. B/c y = (y)ank and $ indicates the end of the current line.
+	* Then, to paste what's in the register `a`, simply type `"ap`.
