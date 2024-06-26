@@ -262,3 +262,5 @@ console.log(arrayName);
 	* "In contrast, functions are actions. They are bundles of statements that can be executed when called."
 	* "For more on this, see the anonymous functions section on p. 142."
 * Completed up to Practice Exercise 6.3 on p. 122
+
+### 6/26
