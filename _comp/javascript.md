@@ -261,3 +261,4 @@ console.log(arrayName);
 * Chapter 6, p. 119: "Variables *are* something but they don't *do* anything."
 	* "In contrast, functions are actions. They are bundles of statements that can be executed when called."
 	* "For more on this, see the anonymous functions section on p. 142."
+* Completed up to Practice Exercise 6.3 on p. 122
