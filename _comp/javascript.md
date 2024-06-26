@@ -1,5 +1,4 @@
 ---
-
 title: Javascript
 permalink: /javascript/
 ---
@@ -257,4 +256,5 @@ console.log(arrayName);
 * SVP p. 76. Remember-- *condition* **?** *statement associated with true* **:** *statement associated with false*
 	* aka if *operand1 is true*, then *execute operand 2*. Otherwise, *execute operand3*. 
 	* aka if **op1 CONDITION is true**, then **EXECUTE op2**. Otherwise, **EXECUTE op2**.
-* Up to page 79, default case in switch statements.
+* finished Chapter 4. Got stuck a little bit in standard input / standard output and ability to define scope of variables. And => arrow functions. Will be able to resovle this afteer I finishe Chapter 6.
+* for now, on to Chapter 5, loops.
