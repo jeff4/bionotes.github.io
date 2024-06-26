@@ -658,4 +658,9 @@ sitemap: false
 * Steve Yegge considers junior employees (devs, lawyers, writers, etc.) in this [blog post](https://sourcegraph.com/blog/the-death-of-the-junior-developer). [HN thread](https://news.ycombinator.com/item?id=40783682).
 	* Says that coding assistants have made a quantum leap in last 6 weeks (circa mid-May).
 
-
+## 26 June 2024
+* From Erik Kuld's investors at Wing Venture Capital, some interesting articles:
+	* [AI-first](https://www.wing.vc/ai-first)
+	* [Data](https://www.wing.vc/industries/data)
+	* [PLG](https://www.wing.vc/industries/plg)
+* Launch of [Figma Slides](https://www.figma.com/blog/figma-slides/) and [HN thread](https://news.ycombinator.com/item?id=40802676)
