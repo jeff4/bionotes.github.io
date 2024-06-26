@@ -263,4 +263,8 @@ console.log(arrayName);
 	* "For more on this, see the anonymous functions section on p. 142."
 * Completed up to Practice Exercise 6.3 on p. 122
 
-### 6/26
+
+### 6/26/2024
+* SVP Chapter 6. Interesting exceptions and JS handling of weird parameters p. 122 - 123. **Default or unsuitable parameters**.
+
+
