@@ -266,5 +266,7 @@ console.log(arrayName);
 
 ### 6/26/2024
 * SVP Chapter 6. Interesting exceptions and JS handling of weird parameters p. 122 - 123. **Default or unsuitable parameters**.
-
+	* p. 125 - spread operator
+	* p. 127 - rest to stuff extra parameters into a function into an array.
+    
 
