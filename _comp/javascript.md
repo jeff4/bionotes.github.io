@@ -258,3 +258,6 @@ console.log(arrayName);
 	* aka if **op1 CONDITION is true**, then **EXECUTE op2**. Otherwise, **EXECUTE op2**.
 * finished Chapter 4. Got stuck a little bit in standard input / standard output and ability to define scope of variables. And => arrow functions. Will be able to resovle this afteer I finishe Chapter 6.
 * for now, on to Chapter 5, loops.
+* Chapter 6, p. 119: "Variables *are* something but they don't *do* anything."
+	* "In contrast, functions are actions. They are bundles of statements that can be executed when called."
+	* "For more on this, see the anonymous functions section on p. 142."
