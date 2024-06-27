@@ -274,3 +274,4 @@ console.log(arrayName);
 * p. 132. Declaring a variable with `var x = "foo"` means that foo is available anywhere throughout the function; even if `var x` is declared at the very end of the function.
 	* In contrast, declaring `let y = "bar"` means that `bar` is *only* available within the statement block in `{...}`.
 
+### 6/27
