@@ -273,5 +273,7 @@ console.log(arrayName);
 * p. 131 "it can be confusing to combine local variables and `return`. Right now, we're telling you the local variables declared inside a function are not available outside of the function, **but with `return` you can make their values available *outside* the function**. So if you need their values outside a function, you can return the values. The key word here is **values**!"
 * p. 132. Declaring a variable with `var x = "foo"` means that foo is available anywhere throughout the function; even if `var x` is declared at the very end of the function.
 	* In contrast, declaring `let y = "bar"` means that `bar` is *only* available within the statement block in `{...}`.
-
-### 6/27
+* p. 134 - Global variables. **Variables are accessible in the scope--either *function* or *block*--where they are defined...*plus* any smaller / "lower" scopes within them.**
+    * A variable defined at the top level of the program is available everywhere in the program-- aka a *global variable*.
+    * A variable defined outside of a function will be available *inside* that function.
+* up to p.137. Partway through IIFEs.
