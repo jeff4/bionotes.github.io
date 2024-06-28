@@ -277,3 +277,5 @@ console.log(arrayName);
     * A variable defined at the top level of the program is available everywhere in the program-- aka a *global variable*.
     * A variable defined outside of a function will be available *inside* that function.
 * up to p.137. Partway through IIFEs.
+
+### 6/28
