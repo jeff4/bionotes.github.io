@@ -664,3 +664,6 @@ sitemap: false
 	* [Data](https://www.wing.vc/industries/data)
 	* [PLG](https://www.wing.vc/industries/plg)
 * Launch of [Figma Slides](https://www.figma.com/blog/figma-slides/) and [HN thread](https://news.ycombinator.com/item?id=40802676)
+
+## 29 June 2024
+* Rodney Brook's [skepticism about gen AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
