@@ -280,3 +280,4 @@ console.log(arrayName);
 
 ## 6/29/2024
 * Completed Chapter 6 but need to do end of chapter exercises. Back to SVP Chapter 5 on loops.
+* Went back to Chapter 2 of Flanagan.
