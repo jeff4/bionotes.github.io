@@ -280,4 +280,29 @@ console.log(arrayName);
 
 ## 6/29/2024
 * Completed Chapter 6 but need to do end of chapter exercises. Back to SVP Chapter 5 on loops.
-* Went back to Chapter 2 of Flanagan.
+* Went back to Flanagan and completed Chapter 2: "Lexical Structure". Including reserved words, literals, semi-colons, line breaks, whitespaces, Unicode UTF-16, etc.
+
+### Flanagan Chapter 3: Types, Values, Variables. p. 71
+* p. 71 Basic types in JS:
+	1. Primitive Types
+	1. Object Types
+	1. Weird primitive types: `null` and `primitive` and `Symbol`.
+* Special kinds of objects: array, Map, Set.
+* p. 73 important point: "In JS, **functions** and **classes** are themselves *values* that can be manipulated by JavaScript programs. Like any JavaScript value that is not a primitive value, functions and classes are a specialized kind of object. They are covered in detail in Chapters 8 and 9."
+* p, 75, in general, don't use `var` to declare new functions. Almost always use `let` for modern code; if you are declaring a constant, use `const`.
+
+#### Flanagan 3.3: Text p. 86
+* p. 86 core type in JS for text is the *string*.
+* p. 88 how to handle line breaks. Representing multiple output lines on 1-source code JS line. And also breaking a long line of text into multiple lines of a JS source code.
+* p. 90 "Remember that strings are immutable in JavaScript. Methods like `replace()` and `toUpperCase()` return new strings: they do not modify the string on which they are invoked."
+
+#### Flanagan 3.7: Object p. 104
+* Note, main chapter on Object is Chapter 6, p. 250.
+* p. 104 - "When a JS interpreter starts (or whenever a web browser loads a new page), it creates a new global object and gives it an initial set of properties that define: (1) *Global constants* like `undefined`, `Infinity`, and `NaN`; (2) *Global functions* like `isNaN()`, `parseInt()`, `eval()`; (3) *Constructor functions* like `Date()`, `RegExp()`, `String()`, `Object()`, `Array()`; and (4) *Global objects* like `Math` and `JSON`.
+* p. 105 - "In *Node*, the global object has a property named `global` whose value is the global object itself, so you can always refer to the global object by the name `global` in Node programs." 
+* p. 105 - "As of ES2020, `globalThis` is the standard way to refer to global object in any context--implemented in all browsers and Node."
+* p. 105-106 - "There is a fundamental difference between **primitive values** (strings, numbers, booleans, `undefined`, `null`) and **objects** (e.g., arrays and functions).
+
+
+
+
