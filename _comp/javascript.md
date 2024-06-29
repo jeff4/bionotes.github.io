@@ -302,7 +302,47 @@ console.log(arrayName);
 * p. 105 - "In *Node*, the global object has a property named `global` whose value is the global object itself, so you can always refer to the global object by the name `global` in Node programs." 
 * p. 105 - "As of ES2020, `globalThis` is the standard way to refer to global object in any context--implemented in all browsers and Node."
 * p. 105-106 - "There is a fundamental difference between **primitive values** (strings, numbers, booleans, `undefined`, `null`) and **objects** (e.g., arrays and functions).
+* p. 106. Primitives are *immutable* and compare by *value*.
+* p. In contrast, Objects are *mutable* and are *not* compared by value. e.g., 2 arrays that have the same elements in the same locations are *not* equal.
+	* Objects are compared *by reference*. p. 107
+
+#### Flanagan 3.9: Type Conversions p. 108
+* e.g., when JS expects a Boolean value and we supply it with a value of any type, JS will not error; it will convert "truthy" values into `true` and "falsy" values into `false`.
+* p. 109-110, Table 3-2: JS type conversions.
+* Section 3.9.1: Conversions and Equality p. 111. Just always use `===` to be safe.
+* Section 3.9.2: Explicit Conversions p. 112. Simplest way to change type is to use `String()`, `Number()`, `Boolean()`. E.g.:
+	*  Convert the boolean value `true` into a string value by typing: `String(true);` or equivalently `true.toString();`. Which both produce output of `"false"` as a String value.
+
+#### Flanagan 3.9.3: Converting between Objects and Primitive Types 
+* p. 115 - 122
+* Complex and multiple sections. Read more closely later if you find yourself doing this. Skip for now.
 
 
+#### Flanagan 3.10: Declaring Variables, Initialization, Assignment p. 122
+* When to use constants? see Box on p. 123-124.
+	> There are two schools of thought about the use of the const keyword. 
+	> One approach is to use `const` only for values that are fundamentally unchanging, like the physical constants shown, or program version numbers, or byte sequences used to identify file types, for example. 
+	> Another approach recognizes that many of the so-called variables in our program don’t actually ever change as our program runs. In this approach, we declare everything with `const`, and then if we find that we do actually want to allow the value to vary, we switch the declaration to `let`. This may help prevent bugs by ruling out accidental changes to variables that we did not intend.  
+	> In one approach, we use const only for values that must not change. In the other, we use const for any value that does not happen to change.
+	> Flanagan prefers Approach 1, they physical constants approach.
+* p. 125 - Explanation of scope wrt variables, similar to SVP Chapter 6 (p. 131 - 134) on scope. 
+* p. 126 - Do *not* declare the same variable in a scope more than once using the `let` or `const` keywords. Syntax error. And also don't do it in a nested scope even though the JS interpreter will allow it--bad practice.
 
+#### Flanagan 4.4: Property Access Expressions p. 140
+* Note that there are two ways to access the properties of arrays, maps, and other objects:
+	* Bracket syntax, e.g., array[0]; --> more on this in Flanagan, Chapter 7.
+	* 'Dot Syntax', e.g., `let object = {name: "jeff");`. The expression `object.name` outputs `jeff`. For more, see Chapter 6 on Objects.
 
+#### Flanagan 4.5: Expressions to invoke functions or methods
+* p. 144 - 145
+* examples of functions with arguments / input parameters
+	* f("hello");
+	* Math.max( x, y, z );
+* foobar.sort() -- a function with no arguments passed in.
+* For more, see Chapter 8 Functions and Chapter 9 Classes.
+* p. 147-148 -- Flanagaan 4.6: Creating Objects with the *constructor function* `new`. Eg., `new Point(2,3);`.
+* p. 149 -151 -- Table 4.1 Javascript operators.
+	* Unary operator `typeof` returns what type the input operand is.
+
+### Chapter 5: Statements p. 197
+* Up to Flanagan p. 210, Section 5.4 on loops. 
