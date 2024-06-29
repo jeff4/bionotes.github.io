@@ -278,4 +278,5 @@ console.log(arrayName);
     * A variable defined outside of a function will be available *inside* that function.
 * up to p.137. Partway through IIFEs.
 
-### 6/28
+## 6/29/2024
+* Completed Chapter 6 but need to do end of chapter exercises. Back to SVP Chapter 5 on loops.
