@@ -345,4 +345,10 @@ console.log(arrayName);
 	* Unary operator `typeof` returns what type the input operand is.
 
 ### Chapter 5: Statements p. 197
-* Up to Flanagan p. 210, Section 5.4 on loops...
+* Up to Flanagan p. 210, Section 5.4 on loops. 
+
+#### Flanagan 5.4.4 for/of loops p. 215
+* Introduced in ES6 in 2015 works for *iterable* objects like arrays. See Flanagan Chapter 12 for more.
+* p. 216-217 `for/of` in the context of objects
+* Objects by default are *not* iterable. If you try to use the `for/of` consturect with objects out of the box, you will receive a TypeError at runtime.
+* However, you can use the `for/in` loop construct *or* you can combine `for/of` with the `Object.keys()` method.
