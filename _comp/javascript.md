@@ -345,4 +345,4 @@ console.log(arrayName);
 	* Unary operator `typeof` returns what type the input operand is.
 
 ### Chapter 5: Statements p. 197
-* Up to Flanagan p. 210, Section 5.4 on loops. 
+* Up to Flanagan p. 210, Section 5.4 on loops...
