@@ -350,5 +350,5 @@ console.log(arrayName);
 #### Flanagan 5.4.4 for/of loops p. 215
 * Introduced in ES6 in 2015 works for *iterable* objects like arrays. See Flanagan Chapter 12 for more.
 * p. 216-217 `for/of` in the context of objects
-* Objects by default are *not* iterable. If you try to use the `for/of` consturect with objects out of the box, you will receive a TypeError at runtime.
-* However, you can use the `for/in` loop construct *or* you can combine `for/of` with the `Object.keys()` method.
+    * Objects by default are *not* iterable. If you try to use the `for/of` consturect with objects out of the box, you will receive a TypeError at runtime.
+    * However, you can use the `for/in` loop construct *or* you can combine `for/of` with the `Object.keys()` method.
