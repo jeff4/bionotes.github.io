@@ -357,3 +357,5 @@ console.log(arrayName);
 * Mostly can ignore `for/in` loops now. Only shows up in legacy code because the `for/of` construct is more modern and mostly does everything we need to better, esp. in combination with the `Object.keys()` and `Object.entries()` methods.
 
 ### Flanagan 5.5 Jumps p. 222
+
+## 7/01/2024
