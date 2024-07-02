@@ -361,3 +361,9 @@ console.log(arrayName);
 * *JS Definitive Guide* **Section 5.5 Jumps** (Flanagan p. 222)
 * Mostly completed Flanagan Chapter 5. Onto other chapters in Flanagan.
 * SVP p. 96 - nested loops. Handy method to show an array in "table" format. Instead of `console.log(jhArray);`, try `console.table(jhArray);`
+* Next is SVP p. 104 "looping over objects by coverting the object into an array". Use the Object.keys() built-in function.
+
+## 7/02/2024
+* More on loops in SVP.
+
+
