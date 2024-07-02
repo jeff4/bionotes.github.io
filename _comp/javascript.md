@@ -358,6 +358,6 @@ console.log(arrayName);
 
 
 ## 7/01/2024
-* Flanagan 5.5 Jumps p. 222
+* *JS Definitive Guide* **Section 5.5 Jumps** (Flanagan p. 222)
 * Mostly completed Flanagan Chapter 5. Onto other chapters in Flanagan.
 * SVP p. 96 - nested loops. Handy method to show an array in "table" format. Instead of `console.log(jhArray);`, try `console.table(jhArray);`
