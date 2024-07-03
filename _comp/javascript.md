@@ -377,7 +377,7 @@ console.log(arrayName);
 * p. 252. JS uses the `own property` to refer to non-inherited properties.
 
 #### Flanagan 6.2 p. 252
-* p. 255, section 6.2.3 **Prototypes**.
+* p. 255, **Section 6.2.3: Prototypes**.
 	* Almost every JS object has a second JS object associated with it-- the *prototype*. The first object inherits its properties from its associated prototype.
 	* All objects created by object literals (aka method 1 below) share the same prototype: the `Object.prototype`. 
 	* In contrast, objects created by the `new` keyword and constructor() invocation (aka method 2 below) use the value of the `prototype` property of the constructor function as their prototype.
