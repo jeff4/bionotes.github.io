@@ -387,13 +387,26 @@ console.log(arrayName);
 	* Most constructor() functions have a prototype that inherits from the `Object.prototype`. e.g., the `Date.prototype` inherits properties from `Object.prototype`. So a Date object created like so: `let jh-date = new Date();` inherits properties from *both* `Date.prototype` *and* `Object.prototype`. 
 		* This linked series of prototype objects is known as a **prototype chain**.
 * p. 252 of creating objects: (1) using object literals; (2) with the `new` keyword; (3) with the `Object.create()` function.
-	1. 6.2.1 Object literals, e.g., `let point = { x:0, y:0};`
-	1. 6.2.2 Creating with `new` keyword. This uses the *constructor function* of JS objects. The way it works is you declare a new object, use the `=` sign for invokation, use the `new` keyword, and then invoke the constructor function. Examples:
+	1. **6.2.1 Object literals**, e.g., `let point = { x:0, y:0};`
+	1. **6.2.2 Creating with `new` keyword**. This uses the *constructor function* of JS objects. The way it works is you declare a new object, use the `=` sign for invokation, use the `new` keyword, and then invoke the constructor function. Examples:
 		* `let jh-obj = new Object()`;
 		* `let arr = new Array();`
 		* `let jh-date = new Date();` // Create a Date object representing the current time.
+	1. **6.2.3 Using Object.create()**. e.g., `let obj1 = Object.create( {x:1, y:2} );` means that `obj1` inhreits properties x and y. thus. `obj1.x + obj1.y` evaluates to `3`.
 
-	
+#### More on Object.create() section 6.2.3
+* You can pass null as an argument into `Object.create()` like so, but this means that the newly created object will *not* inherit anything. Not even basic methods like `toString()` and ability to work with operators like `+`.
+	* `let obj2 = Object.create(null);`
+* If you want to create an 'ordinary' empty object, the one created by `let o1 = {};` or by `let o2 = new Object()`;, you need to pass in `Object.prototype` as an argument into the create() method like so:
+	`let obj3 = Object.create( Object.prototype );`
+* The ability to create a new object with an arbitrary prototype is very powerful; we'll show more about this later in Chapter 6.
+* One use for `Object.create()` is when one want to guard against unintended modification of an object by a library function that one doesn't have control over. Instead of passing the object directly into that library function, you can pass an object that inherits from it. If the function reads properties of the passed-in object, the function will see the *inherited* values. However, if the function tries to set the properties, those writes will not affect the properties of the original object.
+		```
+		let o = { x: "don't change this property value" };
+		library.function(Object.create(o)); // Guard against accidental modification
+		```
 
-
-
+#### Flanagan 6.3: Querying and Setting properties
+* p. 257 To obtain the value of a property, use the `.` dot or square bracket `[]` operators from Section 4.4. The lefthand side of the equation should be san expression whose value is an object. 
+* If using the `.` operator, the righthand side must be a simple identifier that names the property.
+* If using `[]`, the value within the brackets must be an expression that evaluates to a string that contains the desired property name.
