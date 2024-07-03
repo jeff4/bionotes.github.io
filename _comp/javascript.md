@@ -365,6 +365,35 @@ console.log(arrayName);
 
 ## 7/02/2024
 * Completed all loops in SVP Chapter 5. Need to go back and review `break` and `continue` in the context of nested loops and labelled blocks.
-* Began SVP Chapter 7 on Classes p. 149.
+* Began SVP Chapter 7 on Classes p. 149. Note also that Flanagan covers Classes in Chapter 9 p. 403.
+
+
+### Flanagan Chapter 6: Objects p. 251
+* All JS objects display prototypical inheritance with the exception of the base JS `Object`.
+* JS objects are dynamic, aka, properties can usually be added, deleted, and updated.
+	* However, JS objects can also be used to simulate static objects, aka the *structs* of statically typed languages.
+	* Furthermore, objects can represent sets of strings (by ignoring the "value" part of *key-value* pairs.)
+* Any value in JS that is not a primitive value is an object. However, strings, numbers, and booleans have methods that make them seem to act like objects.
+* p. 252. JS uses the `own property` to refer to non-inherited properties.
+
+#### Flanagan 6.2 p. 252
+* p. 255, section 6.2.3 **Prototypes.
+	* Almost every JS object has a second JS object associated with it-- the *prototype*. The first object inherits its properties from its associated prototype.
+	* All objects created by object literals (aka method 1 below) share the same prototype: the `Object.prototype`. 
+	* In contrast, objects created by the `new` keyword and constructor() invocation (aka method 2 below) use the value of the `prototype` property of the constructor function as their prototype.
+		* So for example, the object created by `let obj = new Object();` inherits from the `Object.prototype`, just like `let obj2 = {};` does.
+	* **Key point:** Almost all objects have a *prototype*, but only a very small number of objects have a unique/spcial `prototype property`. It is the rare objects with a `prototype property` that go on to define prototypes for all other objects.
+	* `Object.prototype` is one of the rare objects that has no prototype; it does *not* inherit properties from anyone.
+	* Most constructor() functions have a prototype that inherits from the `Object.prototype`. e.g., the `Date.prototype` inherits properties from `Object.prototype`. So a Date object created like so: `let jh-date = new Date();` inherits properties from *both* `Date.prototype` *and* `Object.prototype`. 
+		* This linked series of prototype objects is known as a **prototype chain**.
+* p. 252 of creating objects: (1) using object literals; (2) with the `new` keyword; (3) with the `Object.create()` function.
+	1. 6.2.1 Object literals, e.g., `let point = { x:0, y:0};`
+	1. 6.2.2 Creating with `new` keyword. This uses the *constructor function* of JS objects. The way it works is you declare a new object, use the `=` sign for invokation, use the `new` keyword, and then invoke the constructor function. Examples:
+		* `let jh-obj = new Object()`;
+		* `let arr = new Array();`
+		* `let jh-date = new Date();` // Create a Date object representing the current time.
+
+	
+
 
 
