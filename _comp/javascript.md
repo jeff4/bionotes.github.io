@@ -397,7 +397,7 @@ console.log(arrayName);
 #### More on Object.create() section 6.2.3
 * You can pass null as an argument into `Object.create()` like so, but this means that the newly created object will *not* inherit anything. Not even basic methods like `toString()` and ability to work with operators like `+`.
 	* `let obj2 = Object.create(null);`
-* If you want to create an 'ordinary' empty object, the one created by `let o1 = {};` or by `let o2 = new Object()`;, you need to pass in `Object.prototype` as an argument into the create() method like so:
+* If you want to create an 'ordinary' empty object, the one created by `let o1 = {};` or by `let o2 = new Object();`, you need to pass in `Object.prototype` as an argument into the create() method like so:
 	`let obj3 = Object.create( Object.prototype );`
 * The ability to create a new object with an arbitrary prototype is very powerful; we'll show more about this later in Chapter 6.
 * One use for `Object.create()` is when one want to guard against unintended modification of an object by a library function that one doesn't have control over. Instead of passing the object directly into that library function, you can pass an object that inherits from it. If the function reads properties of the passed-in object, the function will see the *inherited* values. However, if the function tries to set the properties, those writes will not affect the properties of the original object.
