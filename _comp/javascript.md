@@ -411,3 +411,55 @@ console.log(arrayName);
 * p. 257 To obtain the value of a property, use the `.` dot or square bracket `[]` operators from Section 4.4. The lefthand side of the equation should be san expression whose value is an object. 
 * If using the `.` operator, the righthand side must be a simple identifier that names the property.
 * If using `[]`, the value within the brackets must be an expression that evaluates to a string that contains the desired property name.
+
+
+## 7/03/2024
+* Flanagan p. 258 **Section 6.3.1: Objects as Hash Maps *aka* Associative Arrays**
+* These two expressions evaluate to the same value:
+	* `object.property` -- looks like syntax used in C and Java to access the static property of a C struct or Java object.
+	* `object["property"]` -- looks like you are accessing a cell in an array, but instead of using the index number to find the cell, you are matching on a string called "property".
+* In other words, JS objects are actually hash-maps (aka *dict* in Python, aka *map* in JS). Key-value pairs.
+* In strongly typed languages like C, C++, and Java, an object can only have a fixed number of properties; plus the names of these object properties must be specified in advance.
+* In contrast, JS can create any number of properties dynamically.
+* Furthermore, when you use the `.` syntax to access an object's properties, that property can only be accessed (and uniquely identified) by it's **name**. 
+	* aka, *Identifies must be entered directly into a JS program; since properties are not a datatype, they cannot be manipulated by the JS engine.* p. 259
+* On ther other hand, when one access the property of an object using the `[]` notation, the name of the property is expressed as a string.
+* Strings *are* JS datatypes; so as strings, they can be manipulated and created while the program is running.
+* Example, p. 259-260:
+
+	```
+	let addr = "";
+	
+	for (let i = 0; i < 4; i++)  {
+		addr += customer[`address${i}`] + "\n";
+	}
+	````] + "\n";
+	}
+	```
+* The code above reads and concatenates the `address0`, `address1`, `address2`, and `address3` properties of the `customer` object.
+* The example above demonstrates the flexibility of using the array notation to access properties of an object with string expressions.
+* The code *could* be rewritten using the `.` notation, but there are cases where only a `[]` array notation will do.
+	* Example of tracking a stock portfolio dynamically p. 260 - 261.
+* Historically, JS objects have been used as maps *aka* associative arrays. **However, since the introduction of formal `Map` data structures in ES6, the map is usually a better choice than a plain object.**
+	* See section 11.1.2 for more on maps.
+
+#### Flanagan 6.3.2 Inheritance p. 261
+* JS objects have a set of 'own properties' as well as another set of properties they've inherited from their prototype object.
+* p. 262 Example. Assume you have an object `obj` with a property `x`. Let's say you try to access property `x` by using either `obj.x` or `obj["x"]` syntax.
+	* If the prototype of `obj` does not possess an own property by the name of `x`, *but* has a prototype itslef, the query is performed on the prototype of the prototype.
+	* This process along the prototype chain continues until a property `x` can be found. *Or* until an object with a `null` prototype is found.
+	* Next, suppose you assign the property `x` to object `obj`. If `obj` already has an *own* (aka non-inherited) property named `x`, then the assignment simply changes the value of this existing `x` property.
+	* Otherwise, the assignment creates a *new property* named `x` on the object `obj`.
+	* If `obj` previously inherited the property `x`, that inherited property is now hidden by the newly created own property of the same name.
+* p. 263 Property assignment examines the prototype chain only to determine whether the assignment is allowed.
+	* However, if `obj` inherits a *read-only* property named `x`, then the assignment is **not** allowed.
+* **Key point** If the assignment of this property *is* allowed, it always creates the property for the original `obj` object; **not** for the prototype or indeed any other prototypes in the prototype chain.
+	* This fact is a key feature of JS which means that we can selectively override the properties of various child objects with precision.
+* p. 263-264 exception to general trule that a property assignment either works on `obj` *or* fails re: setter methods.
+
+#### Flanagan 6.3.3 Property Access Errors p. 264
+
+
+
+
+
