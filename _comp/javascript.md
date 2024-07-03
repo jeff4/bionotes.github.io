@@ -364,6 +364,7 @@ console.log(arrayName);
 * Next is SVP p. 104 "looping over objects by coverting the object into an array". Use the Object.keys() built-in function.
 
 ## 7/02/2024
-* More on loops in SVP.
+* Completed all loops in SVP Chapter 5. Need to go back and review `break` and `continue` in the context of nested loops and labelled blocks.
+* Began SVP Chapter 7 on Classes p. 149.
 
 
