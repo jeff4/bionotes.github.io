@@ -401,10 +401,11 @@ console.log(arrayName);
 	`let obj3 = Object.create( Object.prototype );`
 * The ability to create a new object with an arbitrary prototype is very powerful; we'll show more about this later in Chapter 6.
 * One use for `Object.create()` is when one want to guard against unintended modification of an object by a library function that one doesn't have control over. Instead of passing the object directly into that library function, you can pass an object that inherits from it. If the function reads properties of the passed-in object, the function will see the *inherited* values. However, if the function tries to set the properties, those writes will not affect the properties of the original object.
-		```
-		let o = { x: "don't change this property value" };
-		library.function(Object.create(o)); // Guard against accidental modification
-		```
+
+	```
+	let o = { x: "don't change this property value" };
+	library.function(Object.create(o)); // Guard against accidental modification
+	```
 
 #### Flanagan 6.3: Querying and Setting properties
 * p. 257 To obtain the value of a property, use the `.` dot or square bracket `[]` operators from Section 4.4. The lefthand side of the equation should be san expression whose value is an object. 
