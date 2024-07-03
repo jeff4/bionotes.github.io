@@ -377,12 +377,12 @@ console.log(arrayName);
 * p. 252. JS uses the `own property` to refer to non-inherited properties.
 
 #### Flanagan 6.2 p. 252
-* p. 255, section 6.2.3 **Prototypes.
+* p. 255, section 6.2.3 **Prototypes**.
 	* Almost every JS object has a second JS object associated with it-- the *prototype*. The first object inherits its properties from its associated prototype.
 	* All objects created by object literals (aka method 1 below) share the same prototype: the `Object.prototype`. 
 	* In contrast, objects created by the `new` keyword and constructor() invocation (aka method 2 below) use the value of the `prototype` property of the constructor function as their prototype.
 		* So for example, the object created by `let obj = new Object();` inherits from the `Object.prototype`, just like `let obj2 = {};` does.
-	* **Key point:** Almost all objects have a *prototype*, but only a very small number of objects have a unique/spcial `prototype property`. It is the rare objects with a `prototype property` that go on to define prototypes for all other objects.
+	* **Key point:** Almost all objects have a *prototype*, but only a very small number of objects have a unique/special `prototype property`. It is the rare objects with a `prototype property` that go on to define prototypes for all other objects.
 	* `Object.prototype` is one of the rare objects that has no prototype; it does *not* inherit properties from anyone.
 	* Most constructor() functions have a prototype that inherits from the `Object.prototype`. e.g., the `Date.prototype` inherits properties from `Object.prototype`. So a Date object created like so: `let jh-date = new Date();` inherits properties from *both* `Date.prototype` *and* `Object.prototype`. 
 		* This linked series of prototype objects is known as a **prototype chain**.
