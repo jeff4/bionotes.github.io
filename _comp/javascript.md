@@ -520,4 +520,41 @@ console.log(arrayName);
 * Note that JSON syntax is a *subset* of broader JS syntax; it cannot represent *all* JS values.
 * things that are supported by `JSON.stringify()` and `JSON.parse()`: JS objects, arrays, strings, finite numbers, and the following primitive types: `true`, `false`, and `null`.
 
+#### Flanagan 6.9 Object Methods p. 277
+* Again, all JS objects (except those explicitly created without a prototype) inherit properties from `Object.prototype`. 
+* These inherited properties are primarily methods. B/c they are universally available, they are of particular interest to JS programmers.
+* See Chapter 9 for defining methods generally for an entire class of objects.
+
+#### 6.9.1 toString()
+* The `toString()` methods takes no arguments; it returns a string that somehow represens the value of the object on which it was invoked.
+* JS invokes this method whenever it needs to convert the object to a string.
+* This occurs when you use the `+` operator to concat a string with an object or when you pass an object to a method that expects a string.
+* the default `toString()` method is not very informative, often outputting something like `[object Object]`.
+* As a result, many classes define their own versions of `toString()`. e.g., when an array is converted to a string, one obtains a list of the array elements, each element of which has been converted into a string.
+* As another example, when you convert a function to a string, you obtain the source code of the function.
+* Example of defining a custom `jhToString()` method:
+
+	```
+	let point = {
+		x: 1,
+		y: 2, 
+		toString: function() {
+			return `(${this.x}, ${this.y})`;
+		}
+	};
+
+	String(point) // outputs "(1, 2)": toString() is used for string conversions
+	```
+
+#### 6.9.2 toLocaleString() Method p. 278
+* In addition to the basic `toString()` method, all JS objects have a `toLocaleString()` method.
+* This method returns a localized string representation of the object.
+* See p. 279 for an example of converting between different kinds of thousands separators.
+
+
+#### 6.9.3 valueOf() Method p. 279
+* The `valueOf()` method is called when JS needs to convert an object to a dprimitive type *other* than String.
+* The base `valueOf()` method is pretty vanilla, but classes that inherit and modify it are more interesting. For example, let's look at Date objects. `Date.valueOf()` converts dates into numbers; this allows Date objects to be chronologically compared using the `<` and `>` operators.
+* Let's show how we might write a custom `valueOf()` method for our usual `point` object.
+
 
