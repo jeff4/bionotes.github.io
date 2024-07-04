@@ -471,6 +471,7 @@ console.log(arrayName);
 	"x" in obj;  // Evaluates to 'true' b/c obj.x is an own property
 	"y" in obj; // Evaluates to 'false' b/c obj does not have an 'y' property
 	"toString" in obj; // Evaluates to 'true' b/c obj inherits the toString property from Object
+	```
 
 * Regarding the `hasOwnProperty()` method, this method tests whether the object has an own property with that name. If that property exists but is an *inherited* property, the method will return `false`.
 * the `propertyIsEnumerable()` refines the `hasOwnProperty()` test. It returns `true` only if the property is an own property and the *enumerable* attribute is true.
@@ -481,8 +482,11 @@ console.log(arrayName);
 	obj.x !== undefined // Evals to true b/c obj.x property exists
 	obj.y !== undefined // Evals to *false* b/c obj.x does *not* exist
 	obj.toString !== undefined // Evals to *true* b/c obj inherited that property.
+	```
 
 #### Section 6.6 Enumerating Properties p. 270
 * Instead of querying properties one and a time, we can do it systematically.
+
+
 
 
