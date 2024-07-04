@@ -602,10 +602,112 @@ console.log(arrayName);
 * Next, you want to create an object with properties named `x` and `y` that hold the values from those earlier variables before you defined the object.
 * This is what it would like in earlier vanilla JS:
 
+    ```
+	let x = 1, y = 2, z = 3;
+	let obj = {
+		x: x,
+		y: y,
+		z: z,
+	};
+	```
+
+* Same thing but with more concise syntax, from ES6 onwards:
+
+	```
+	let x = 1, y = 2, z = 3;
+	let obj = { x, y, z };
+	```
+
+#### 6.10.2 Computed Property Names p. 281
+* Sometimes, one needs to create an object with a specific property. But it the name of that property is not a constant at compile-time; thus it cannot be typed into the source code.
+* This means one needs to dynamically generate property names.
+* i.e., the property name is stored in a variable or is the return value of a function that we invoke.
+* You can't use the standard, simple, basic JS object literal for this type of property.
+* Instead, we can create an object and then use the desired properties as an extra step.
+* This is how one programmed before ES6:
+
+	```
+	const PROPERTY_NAME = "p1";
+	function computePropertyName() {
+		return "p" + 2;
+	}
+
+	let obj = {};
+	obj[PROPERTY_NAME] = 1;
+	obj[computePropertyName()]: 2;
+	```
+* In contrast, here is the more concise syntax after ES6:
+
+	```
+	const PROPERTY_NAME = "p1";
+	function computePropertyName() {
+
+	let obj2 = {
+		[PROPERTY_NAME]: 1,
+		[computePropertyName()]: 2
+	};
+
+	obj2.p1 + obj2.p2   // => 3
+	```
+* With the new ES6 syntax, the `[]` brackets delimit an arbitrary JS expression. That expression is evaluated, and the resulting value (converted to a string, if necessary) is used as the property name.
+* One case where one might want to use computed properties is when one has a library of JS code that expects to be passed objects with a particular set of properties.
+* And furthermore, the names of those properties are defined as constants in that library.
+* If one is writing code to create the objects that will be passed to that library, one *could* **hardcode** the property names. However, that would risk bugs if one types the property names wrong as well as version mismatch if a new version of the library changes the required property names.
+* The new ES6 syntax makes one's code more robust.
+
+#### 6.10.3 Symbols as Property Names p. 283
+* As explained in Flanagan Section 3.6, Symbols are opaque values that can only be used as property names.
+* Since every Symbol is distinct from every other Symbol, it is a great type to use when making unique property names.
+* Call the `Symbol()` factory function. For more, see why this helps code reliability with 3rd party libraries but is *not* necessarily a security measure on p. 284.
 
 
+#### 6.10.4 Spread Operator ... p. 284
+* In ES2018 and later, we can use the `...` spread operator.
 
+	```
+	let position = { x:0, y:0 };
+	let dimensions = { width:100, height:75 };
+	let rect = { ...position, ...dimensions };
+	rect.x + rect.y + rect.width + rect.height // ==> 75
+	```
 
+* In the above code, the properties of the `position` and `dimensions` objects are *spread out* into the `rect` object literal as if they had been laboriously written literally inside the curly braces.
+* What happens when the **target object** and the **source object that is being spread into the target** both have properties that have the same name? See p. 285 for the answer.
+* Also, note that **the spread operator *only* spreads an object's *own* properties; but does *not* spread any inherited properties**.
+* Note the big-O reasons why `...` can be inefficient in loops or recursive functions (p. 285-6).
 
+#### 6.10.5 Shorthand Methods p. 286
+* When a function is defined as a property of an object, we all that function a *method*.
+* Prior to ES6, one would define a method in an object literal using a function definition expression just like one would define any other property of an object.
+* However, as of ES6, the object literal syntax (and class definition syntax as shown in Chapter 9) has been extended to allow a shortcut.
+	* In ES6 and later, the `function` keyword and colon `:` are omitted.
+* Pre-ES6 code:
+	```
+	let square = {
+		area: function() {
+			return this.side * this.side;
+		},
+		side: 10
+	};
 
+	square.area() // => outputs '100'
+	```
+* ES6 and later. Note the omission of `function` keyword and colon `:`... 
+	```
+	let square = {
+		area() {
+			return this.side * this.side;
+		},
+		side: 10
+	};
 
+	square.area() // => outputs '100'
+	```
+* Both versions of the code are equivalent.
+
+#### 6.10.6 Property Getters and Setters p. 287
+* All the object properties discussed so far are called **data properties**.
+* JS also supports **accessor properties** which are associated with `getter()` and `setter()` methods.
+* More....
+
+#### 6.11 Summary p. 291
