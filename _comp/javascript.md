@@ -458,8 +458,31 @@ console.log(arrayName);
 * p. 263-264 exception to general trule that a property assignment either works on `obj` *or* fails re: setter methods.
 
 #### Flanagan 6.3.3 Property Access Errors p. 264
+* When trying to access a property, expressions do not always succeed in setting a value or returning a value.
+* If an object exists but the queried property does *not*, JS will simply evaluate your request to `undefined`. However, if the sought after object does not exist at all, we will receive a `TypeError`. p. 264
+* Deleting properties (Flanagan 6.4 p. 266-268)
 
+#### Section 6.5 Testing Properties p. 268
+* Ways of checking if an object has various properties, and enumerating them systematically: (1) using the `in` operator; (2) the `hasOwnProperty()` method; (3) the `propertyIsEnumerable()` method; and (4) basic querying properties directly via `.` and `[]`.
+* **`in`** operator. Returns `true` if the object has an *own* property or an *inherited* property by that name. Ex.
 
+	```
+	let obj = { x:1 };
+	"x" in obj;  // Evaluates to 'true' b/c obj.x is an own property
+	"y" in obj; // Evaluates to 'false' b/c obj does not have an 'y' property
+	"toString" in obj; // Evaluates to 'true' b/c obj inherits the toString property from Object
 
+* Regarding the `hasOwnProperty()` method, this method tests whether the object has an own property with that name. If that property exists but is an *inherited* property, the method will return `false`.
+* the `propertyIsEnumerable()` refines the `hasOwnProperty()` test. It returns `true` only if the property is an own property and the *enumerable* attribute is true.
+* don't always need to use the `in` operator. Instead, you can do an equality test like so:
+
+	```
+	let obj = { x:1 };
+	obj.x !== undefined // Evals to true b/c obj.x property exists
+	obj.y !== undefined // Evals to *false* b/c obj.x does *not* exist
+	obj.toString !== undefined // Evals to *true* b/c obj inherited that property.
+
+#### Section 6.6 Enumerating Properties p. 270
+* Instead of querying properties one and a time, we can do it systematically.
 
 
