@@ -779,8 +779,7 @@ console.log(arrayName);
 
 
 #### 6.11 Summary p. 291
-
-
+* Flanagan Chapter 6 on Objects is completed!
 
 
 ## 7/04/2024
@@ -791,3 +790,5 @@ console.log(arrayName);
     * [Data Types and Data Structures in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
     * [Concurrency and the Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 * MDN [Overview and links to CSS resources](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
+### Flanagan Chapter 9: Classes p. 403
