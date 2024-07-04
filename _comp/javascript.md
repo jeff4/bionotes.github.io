@@ -551,10 +551,61 @@ console.log(arrayName);
 * This method returns a localized string representation of the object.
 * See p. 279 for an example of converting between different kinds of thousands separators.
 
-
 #### 6.9.3 valueOf() Method p. 279
 * The `valueOf()` method is called when JS needs to convert an object to a dprimitive type *other* than String.
 * The base `valueOf()` method is pretty vanilla, but classes that inherit and modify it are more interesting. For example, let's look at Date objects. `Date.valueOf()` converts dates into numbers; this allows Date objects to be chronologically compared using the `<` and `>` operators.
 * Let's show how we might write a custom `valueOf()` method for our usual `point` object.
+
+	```
+	let point = {
+		x: 3,
+		y: 4, 
+		valueOf: function() {
+			return Math.hypot(this.x, this.y);
+		}
+	};
+
+	Number(point); // => 5: valueOf() is used for conversions to numbers
+
+	point > 4; // Evaluates to true
+	point > 5; // Evaluates to false
+	point < 6; // Evaluates to true
+	```
+
+#### 6.9.4 toJSON() Method p. 280
+* The `Object.prototype` does not actually define a `toJSON()` method. However, the `JSON.stringify()` method does look for a `toJSON()` method on any object it's asked to serialize.
+* If this method exists on the object to be serialized, it is invoked.
+* In which case the return value is serialized instead of the original obje ct.
+* For example, the Date class defines a `toJSON()` method that returns a serializable string representation of the date.
+* Let's see what it would be like to define a `toJSON()` method for our usual Point object:
+
+	```
+	let point = {
+		x: 1,
+		y: 2, 
+		toString: function() {
+			return `(${this.x}, ${this.y})`;
+		},
+		toJSON: function() {
+			return this.toString();
+		}
+	};
+
+	JSON.toStringify([point]); // => '["(1, 2)"]'
+	```
+
+#### Flanagan 6.10 extended Object Literal Syntax
+* p. 281 Recent versions of JS have extended the syntax for object literals in a few useful ways.
+
+#### 6.10.1 Shorthand properties p. 281
+* Suppose you have values stored in variables `x` and `y`.
+* Next, you want to create an object with properties named `x` and `y` that hold the values from those earlier variables before you defined the object.
+* This is what it would like in earlier vanilla JS:
+
+
+
+
+
+
 
 
