@@ -711,3 +711,13 @@ console.log(arrayName);
 * More....
 
 #### 6.11 Summary p. 291
+
+
+
+## From MDN
+* Via Vue.js [tutorial](https://vuejs.org/guide/introduction.html). Began poking around MDN and found [article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) on Inheritance and the Prototype Chain.
+* Other good MDN resources:
+    * [JS language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+    * [Data Types and Data Structures in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+    * [Concurrency and the Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+* MDN [Overview and links to CSS resources](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
