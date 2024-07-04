@@ -708,13 +708,89 @@ console.log(arrayName);
 #### 6.10.6 Property Getters and Setters p. 287
 * All the object properties discussed so far are called **data properties**.
 * JS also supports **accessor properties** which are associated with `getter()` and `setter()` methods.
-* More....
+* When a program *queries the value of an accessor property*, JS invokes the **getter method** (passing no arguments).
+	* The return value of this method becomes the value of the property access expression.
+* When a program *sets the value* of an accessor property, JS invokes the **setter method**, passing the value of the righthand side of the assignment.
+	* This method is responsible for 'setting', in some sense, the property value.
+	* The return value of the setter method is ignored.
+* If a property has both a getter() *and* a setter() method, the property is a read/write property.
+	* If a property only has a getter() method, it is a read-only property.
+	* If a property only has a setter() method, it is a write-only property. This is *not* possible iwth data properties. Furthermore, attempts to read this write-only property, the return always evaluates to `undefined`.
+* p. 288 Accessor properties can be defined with an extension to the *object literal* syntax. e.g., 
+
+	```
+	let obj = {
+
+		//An ordinary data property
+		dataProp: someValue,
+
+		// An accessor property defined as a pair of functions
+		get accessorProp() { return this.dataProp; },
+		set accessorProp(value) { return this.dataProp = value; }
+	}
+	```
+* Accessor properties are defined as one or two methods whose name is the same as the property name.
+* They 'look' like the **ES6 function shorthand**, with the exception that these getter/setter definitions are prefixed with the `get` and `set` keywords respectively.
+* p. 289 Coniser this slightly more interesting example with a 2d Cartesian point:
+
+	```
+	let point = {
+
+		// x and y are regular read/write data properties
+		x: 1.0,
+		y: 1.0,
+
+		// r is a read/write accessor property with a getter() and a setter()
+
+		get r() { return Math.hypot( this.x, this.y ); },
+
+		set r(newvalue) {
+			let oldValue = Math.hypot ( this.x, this.y );
+			let ratio = newValue / oldValue;
+			this.x *= ratio;
+			this.y *= ratio;
+		},
+
+		// angleTheta is a read-only accessor property with a getter() only
+		get angleTheta() { 
+			return Math.atan2( this.y,  this.x ); 
+		}
+	};
+
+
+	point.r     // => Math.SQRT2
+	point.angleTheta // =>  Math.PI / 4
+
+	```
+
+##### Getter() / Setter() inheritance p. 290
+* Accessor properties are inherited, just as data properties are.
+* Therefore, one can use the object `point` above as a prototype for other points.
+* One can also give new objects their own, distinct, `x` and `y` properties. Adn these new objects will then inehritthe r and angleTheta properties, e.g.:
+
+	```
+	let q = Object.create(point); // A new object that inherits getter()/setter()
+	q.x = 3; // Create a point q with it's own x/y properties
+	q.y = 4; 
+	q.r;     // => 5 aka the inherited accessor properties work
+	q.angleTheta; // => Math.atan( 4, 3)
+	```
+* The code above uses accessor properties to define an API that provides two representations--Cartesian coordinates and polar coordinates from a single set of data.
+
 
 #### 6.11 Summary p. 291
 
 
 
-## From MDN
+
+
+
+
+
+
+
+## 7/04/2024
+### From MDN
 * Via Vue.js [tutorial](https://vuejs.org/guide/introduction.html). Began poking around MDN and found [article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) on Inheritance and the Prototype Chain.
 * Other good MDN resources:
     * [JS language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
