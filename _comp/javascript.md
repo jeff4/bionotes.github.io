@@ -486,7 +486,38 @@ console.log(arrayName);
 
 #### Section 6.6 Enumerating Properties p. 270
 * Instead of querying properties one and a time, we can do it systematically.
+* p. 270-271 `for/in` for enumeration. As discussed in 6/29/2024 above, can mostly ignore `for/in` nowadays. In almost all cases, just use the more modern `for/of` construct.
 
+#### Four functions related to for/of loops p. 271 - 272
+1. `Object.keys()` returns an array with the names of the enumerable own properties of the object. It does *not* included inherited properties, non-enumerable properties, and others.
+1. `Object.getOwnPropertyNames()` works similarly to `Object.keys()` but also includes *non-enumerable* own properties as long as the keys are strings.
+1. `Object.getOwnPropertySymbols()`
+1. `Reflect.ownKeys()` returns pretty much all property names: enumerable and non-enumerable, both string and Symbol. See also section 14.6.
+* See also Section 6.6.1 on Property Enumeration Order p. 272-273.
 
+#### Flanagan 6.7 Extending Objects p.273
+* Often, we want to copy the properties from one object to another object. Sample code:
+
+	```
+	let target = { x:1 }, source = { y:2, z:3 };
+	for (let key of Object.keys(source)) {
+		target[key] = source[key];
+	}
+
+	console.table(target) 
+	```
+* However, since this is a common operation, many JS frameworks have definied utility functions, often called `extend()` to perform the above copying operation.
+* Furthermore, ES6 adds `Object.assign()` which provides this capability into the core JS language.
+	* `Object.assign()` expects two or more objects as its input arguments.
+	* It modifies and returns the first argument (the target object), but does not alter the second or any subsequent arguments (which are all source objects).
+	* for more, see p. 273 - 274.
+* Per Section 6.10.4, we can see how to use the `...` spread operator to copy-and-override objedcts.
+
+#### Flanagan 6.8 Serializing Objects p.276
+* Object *serialization* is the process of converting an object's state to a string from which it can later be restored.
+* `JSON.stringify()` serializes JS objects into a string.
+* `JSON.parse()` does the reverse operation; it turns a string back into a JS object.
+* Note that JSON syntax is a *subset* of broader JS syntax; it cannot represent *all* JS values.
+* things that are supported by `JSON.stringify()` and `JSON.parse()`: JS objects, arrays, strings, finite numbers, and the following primitive types: `true`, `false`, and `null`.
 
 
