@@ -783,12 +783,6 @@ console.log(arrayName);
 
 
 
-
-
-
-
-
-
 ## 7/04/2024
 ### From MDN
 * Via Vue.js [tutorial](https://vuejs.org/guide/introduction.html). Began poking around MDN and found [article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) on Inheritance and the Prototype Chain.
