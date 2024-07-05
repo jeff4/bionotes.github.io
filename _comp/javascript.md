@@ -880,8 +880,64 @@ console.log(arrayName);
 * This means that all objects created with the same constructor function inherit from the same object and are therefore members of the same class.
 * See below example for how we can rewrite the declaration of a RANGE class with an idiomatic constructor function rather than a simpler factory fucntion. Note that this next example is not the *most* modern way b/c it doesn't use the `class` keyword from ES6.
 * So this is the sequence: (1) Example 9-1 uses factory function; (2) Example 9-2 uses a constructor function but *not* with the most modern ES6 `class` keyword; (3) Example 9-3 builds the Range class in the most modern `class` way (p. 416-417)
+* So let's see what Example 9-2 looks like (p. 408-409)
 
 ## 7/05/2024
 * Decided to run a local http server. Two options from thie [Stack Overflow question](https://stackoverflow.com/q/32332485):
 	1. Use [http-server](https://stackoverflow.com/a/32336922). Install in desired directory (or parent directory) by running `npm install -g http-server`. Run server with `http-server ./ -p 80`. Or whatever desired port.
 	1. Specific for macOS, use [live server](https://stackoverflow.com/a/51009471), which has nice benefit of auto-reloading when files change. Install with `npm install -g live-server`. Run with `live-server --port=80` or whichever preferred port.
+* Used Firefox Developer Tools `cmd-option-I` to test scripts. Works.
+
+##### Example 9-2 p. 408
+```
+// This is a Constructor Function that initializes new Range Objects
+// Note that it does not create or return the object. It just initializes it.
+
+function Range(from, to) {
+
+	// Store the start and end points (state) of this new Range object
+	// These are non-inherited properties that are unique to this object
+
+	this.from = from;
+	this.to = to;
+}
+	
+
+// All Range objects inherit from this object.
+// Note that the property name must be a 'prototype' for this to work.
+
+Range.prototype = {
+
+	// returns true if x is in the Range,
+	// returns false if x is not in the Range
+	// This method works for text and Date Ranges as well as numeric
+
+	includes: function(x) {
+		return this.from <= x
+		&&
+			x <= this.to;
+	},
+
+	// A generator function that makes this class iterable.
+	// Note that it only works for numeric Ranges.
+	
+	[Symbol.iterator]: function*() {
+		for (let x = Math.ceil(this.from); x <= this.to; x++) 
+			yield x;
+	},
+
+	// Return a string representation of the Range
+	
+	toString: function() {
+		return "(" + this.from + "..." + this.to + ")";
+	}
+};
+
+
+let r = new Range(1,19);
+
+let bool = r.includes(2);   // => true b/c 2 is in the range
+console.log(bool);
+
+console.log(r.toString());    // outputs "(1...3)"
+```
