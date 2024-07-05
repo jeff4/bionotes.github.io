@@ -961,12 +961,3 @@ console.log(r.toString());    // outputs "(1...3)"
 * The constructor function that initializes the sate of a new object is not fundamental.
 	* Two constructor functions may have `prototype` propeties that point to the same prototype object.
 * Even though constructors are *not* as fundamental as prototypes, the constructor serves as **"the public face of the class"**.
-
-
-
-
-
-
-##### Example 9-3
-
-```
