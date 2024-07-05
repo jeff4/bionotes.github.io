@@ -792,3 +792,60 @@ console.log(arrayName);
 * MDN [Overview and links to CSS resources](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
 ### Flanagan Chapter 9: Classes p. 403
+* p. 404. Note again that JS inheritance is based on prototypes which is quite different than the classical OO inheritance seen in C++/Java.
+
+
+#### Flanagan 9.1: Classes and Prototypes p. 404
+* In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. Simple Javascript class:
+
+
+
+	```	
+	//This is a factory function that returns a new 'RANGE object'
+	function range(from, to) {
+
+		// Use Object.creat() to create an object that inherits from the prototyp object defined below
+		// the prototype object is stored as a property of this function, and defines the shared
+		// methods (behavior) of all following 'range' objects.
+
+		let r = Object.create(range.methods);
+
+
+		// Store the start and end points (state) of this new range object. These are noninherited
+		// properties
+		r.from = from;
+		r.to = to;
+
+		// Finally, return the new object
+		return r;
+	}
+
+	//The below prototype object defines methods inherited by all RANGE objects
+	range.methods = {
+
+		// returns true if x is in the range,
+		// returns false if x is not in the range
+		// This method works for text and Date ranges as well as numeric
+
+		includes(x) {
+			return this.from <= x 
+				&&
+				x <= this.to
+		},
+
+		// A generator function that makes instances of the RANGE class iterable
+		// note that this only works for numeric ranges
+
+		*[Symbol.iterator]() {
+			
+			for ( let x = Math.ceil(this.from); x <= this.to; x++) {
+				yield x;
+			}
+
+		},
+
+		// Return a string representation of the range
+		toString() { return "(" + this.from + "..." + this.to + ")"; }
+
+	};
+* See below for examples of calling and using the `range` object.
