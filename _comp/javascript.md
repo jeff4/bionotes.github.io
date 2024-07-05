@@ -933,9 +933,9 @@ Range.prototype = {
 	}
 };
 
-
+// Below statements construct a new Range instance named 'r'
+// And use some of r's methods.
 let r = new Range(1,19);
-
 let bool = r.includes(2);   // => true b/c 2 is in the range
 console.log(bool);
 
@@ -961,3 +961,53 @@ console.log(r.toString());    // outputs "(1...3)"
 * The constructor function that initializes the sate of a new object is not fundamental.
 	* Two constructor functions may have `prototype` propeties that point to the same prototype object.
 * Even though constructors are *not* as fundamental as prototypes, the constructor serves as **"the public face of the class"**.
+* e.g., the `Range()` constructor creates Range objects.
+* More fundamentally, however, constructors are used as the righthand operand of the `instanceof` operator when testing objects for membership in a class. 
+* e.g., if we have an objct `r` and want to know if it is a Range object, we can write:
+
+	```
+	r instanceof Range // => true b/c 'r' inherits from the Range.prototype
+	```
+
+* The instanceof operator was described in Section 4.9.4. The leftahnd operand should be the object being tested (`r`). The righthand operand whould be the *constructor function that names the class*.
+* The expression `o instanceof C` evaluates to `true` if `o` inherits from `C.prototype`.
+	* The inheritance need not be direct: if `o` inherits from an object that inherits from an object that inherits from `C.prototype`, the expression will still evaluate to `true`.
+* See p.413 to explain the usage of the `isPrototypeOf()` method.
+
+#### 9.2.2 The constructor Property p. 413
+* Even though we created an object in Example 9-2 to contain the methods for our Range class, this is not necessary.
+* Any regular JS function can be used as a constructor. Constructor invocations need a `prototype` property.
+* Therefore, every regular JS function automatically has a prototype` property.
+* The value of this property is an object that has a single, non-enumerable `constructor` property.
+* The value of the `constructor` property is the function object.
+
+	```
+	let F = function() {}; // This is a function object
+	let p = F.prototype; // This is the prototype object associated with F.
+	let c = p.constructor; // This is the function associated with the prototype
+	c === F;    // => true b/c F.prototype.constructor === F for any F
+	```
+* The existence of this predefined prototype object with its `constructor` property means that objects typically inherit a `constructor` property that refers to their constructor function.
+* Since constructors serve as the public identity of a class, this constructor property gives the class of an object:
+	```
+	let o = new F();   // Create an object o of class F
+	o.constructor === F // => true b/c the constructor property specifies the class
+	```
+* See Fig 9-1 on p. 415 to see relationship between Constructor, Prototype, and Instances.
+* Another common technique seen in older JS code is the using the predefined prototype object with its `constructor` property and adding methods to it one at a time with code like this:
+	```
+	//older code
+	// Extend the predefined Range.prototype object so we don't overwrite
+	// the automatically created Range.prototype.constructor property
+
+	Range.prototype.includes = function(x) {
+		return this.from <= x && x <= this.to;
+	};
+
+	Range.prototype.toString = function() {
+		return "(" + this.from + "..." + this.to + ")";
+	};
+
+#### Classes with the class Keyword
+* Classes have been part of JS since it was first released. But Classes finally get their own syntax in ES6.
+
