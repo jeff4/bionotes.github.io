@@ -796,7 +796,8 @@ console.log(arrayName);
 
 
 #### Flanagan 9.1: Classes and Prototypes p. 404
-* In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. Simple Javascript class:
+* In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. 
+* **Example 9-1 Simple Javascript class:**
 
 	```	
 	//This is a factory function that returns a new 'RANGE object'
