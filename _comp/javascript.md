@@ -849,3 +849,32 @@ console.log(arrayName);
 	```
 * See below for examples of calling and using the `range` object.
 
+	```	
+	let r = range(1,3);  // create a range object
+	r.includes(2);   // => true b/c 2 is in the range
+	r.toString();    // outputs "(1...3)"
+	[...r]           // converts to an array via iterator: [1, 2, 3] 
+* A few things worth noting in above example:
+	1. This code defines a *factory function* `range()` for creating new Range objects.
+	1. It uses the `methods` property of this `range()` function as a convenient place to store the prototype object that defines the class. There is nothing special or idiomatic about putting the prototype object here.
+	1. The `range()` function defines `from` and `to` properties on each Range object.
+		* These are unshared, non-inherited properties that define the unique state of each individual Range object.	1. The `range.methods` object uses the ES6 shorthand syntax for defining methods, which is why you don't see the `function` keyword anywhere. (Recall shorthand for method declaration in an object per Section 6.10.5)
+	1. One of the methods of the prototype has the computed name `Symbol.iterator`. This means that it is defining an iterator for Range objects.
+		* The name of this method is prefixed with a `*`, which indicates that it is a *generator function* instead of a regular function.
+		* Iterators and generators are covered in detail in Chapter 12.
+		* For now, the upshot is that instances of this Range class can be usd with the `for/of` loop and with the `...` spread operator.
+	1. The shared, inherited methods defined in `range.methods` all use the `from` the `to` properties that were initialized in the `range()` factory function.
+		* In order to refer to them, they use the `this` keyword to refer to the object through which they were invoked. 
+		* The use of `this` is a fundamental characteristic of the methods of any class.
+
+#### Section 9.2 Classes and Constructors
+* The previous example is a simple way to define a JS class. But it is *not* the idiomatic way to do so, b/c it doesn't use a **constructor function**.
+* A Constructor is a function that is designed for the initialization of newly created objects.
+* Constructors are invoked using the `new` keyword as described in Section 8.2.3.
+* Constructor invocations using `new` automatically create the new object, so the constructor itself only needs to initialize the state of that new object.
+* The critical feature of constructor invocations is the the constructor's `prototype` property is used as the prototype for the new object (See Section 6.2.3.).
+* Finally, we can clarify this: **it is function objects that have a `prototype` property.**
+* This means that all objects created with the same constructor function inherit from the same object and are therefore members of the same class.
+* See below example for how we can rewrite the declaration of a RANGE class with an idiomatic constructor function rather than a simpler factory fucntion. Note that this next example is not the *most* modern way b/c it doesn't use the `class` keyword from ES6.
+* So this is the sequence: (1) Example 9-1 uses factory function; (2) Example 9-2 uses a constructor function but *not* with the most modern ES6 `class` keyword; (3) Example 9-3 builds the Range class in the most modern `class` way (p. 416-417)
+
