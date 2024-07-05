@@ -854,6 +854,8 @@ console.log(arrayName);
 	r.includes(2);   // => true b/c 2 is in the range
 	r.toString();    // outputs "(1...3)"
 	[...r]           // converts to an array via iterator: [1, 2, 3] 
+	```
+	
 * A few things worth noting in above example:
 	1. This code defines a *factory function* `range()` for creating new Range objects.
 	1. It uses the `methods` property of this `range()` function as a convenient place to store the prototype object that defines the class. There is nothing special or idiomatic about putting the prototype object here.
@@ -877,4 +879,5 @@ console.log(arrayName);
 * This means that all objects created with the same constructor function inherit from the same object and are therefore members of the same class.
 * See below example for how we can rewrite the declaration of a RANGE class with an idiomatic constructor function rather than a simpler factory fucntion. Note that this next example is not the *most* modern way b/c it doesn't use the `class` keyword from ES6.
 * So this is the sequence: (1) Example 9-1 uses factory function; (2) Example 9-2 uses a constructor function but *not* with the most modern ES6 `class` keyword; (3) Example 9-3 builds the Range class in the most modern `class` way (p. 416-417)
+
 
