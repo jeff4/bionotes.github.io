@@ -941,3 +941,6 @@ console.log(bool);
 
 console.log(r.toString());    // outputs "(1...3)"
 ```
+##### Notes on Example 9-2
+* Capitalized from object `range` to Class `Range`.
+* Now that we have a constructor function, must use the keyword `new` when creating a new Range instance. This bug caused me problems for a while.
