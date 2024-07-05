@@ -881,4 +881,7 @@ console.log(arrayName);
 * See below example for how we can rewrite the declaration of a RANGE class with an idiomatic constructor function rather than a simpler factory fucntion. Note that this next example is not the *most* modern way b/c it doesn't use the `class` keyword from ES6.
 * So this is the sequence: (1) Example 9-1 uses factory function; (2) Example 9-2 uses a constructor function but *not* with the most modern ES6 `class` keyword; (3) Example 9-3 builds the Range class in the most modern `class` way (p. 416-417)
 
-
+## 7/05/2024
+* Decided to run a local http server. Two options from thie [Stack Overflow question](https://stackoverflow.com/q/32332485):
+	1. Use [http-server](https://stackoverflow.com/a/32336922). Install in desired directory (or parent directory) by running `npm install -g http-server`. Run server with `http-server ./ -p 80`. Or whatever desired port.
+	1. Specific for macOS, use [live server](https://stackoverflow.com/a/51009471), which has nice benefit of auto-reloading when files change. Install with `npm install -g live-server`. Run with `live-server --port=80` or whichever preferred port.
