@@ -944,3 +944,29 @@ console.log(r.toString());    // outputs "(1...3)"
 ##### Notes on Example 9-2
 * Capitalized from object `range` to Class `Range`.
 * Now that we have a constructor function, must use the keyword `new` when creating a new Range instance. This bug caused me problems for a while.
+* Another critical difference between Examples 9-1 and 9-2 is the way the prototype object is named. In Example 9-1, the prototype was `range.methods`. This was a convenient and descriptive name, but it was arbitrary.
+	* In Example 9-2, the prototype is `Range.prototype` and this name is *mandatory*.
+	* An invocation of the `Range()` constructor automatically uses `Range.prototype` as the prototype of the new Range objects.
+* Note some things that did *not* change between Ex 9-1 and 9-2:
+	1. The range methods are defined and invoked in the same way between both examples.
+	1. B/c Ex 9-2 demonstrates the idiomatic way to create classes in versions of JS *before* ES6, it does *not* use the ES6 shorthand method syntax in the prototype object; it explicitly spells out the methods with the **`function`** keyword.
+	1. Note also that neither Ex 9-1 and 9-2 use the arrow notation when defining constructors or methods. 
+		* Recall from Section 8.1.3 that functions defined in this way do *not* have a `prototype` property and so cannot be used as constructors.
+		* Also, arrow functions inherit the `this` keyword from teh context in which they are defined rather than setting it based on the object through which they are invoked, and this makes them useless for methods.
+		* B/c the defining characteristic of methods is that they use `this` to refer the instance on which they were invoked.
+* Fortunately, the new ES6 class syntax doesn't allow the option of defining methods with arrow functions. So this is not a mistake you can actually make when using that syntax.
+
+#### Section 9.2.1 Constructors, Class Identity, and instanceof p. 412
+* As we've seen, the prototype object is fundamental to the identity of a class: two objects are instances of the same class if and only if they inherit fromt eh same prototype object.
+* The constructor function that initializes the sate of a new object is not fundamental.
+	* Two constructor functions may have `prototype` propeties that point to the same prototype object.
+* Even though constructors are *not* as fundamental as prototypes, the constructor serves as **"the public face of the class"**.
+
+
+
+
+
+
+##### Example 9-3
+
+```
