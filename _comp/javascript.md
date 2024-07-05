@@ -798,8 +798,6 @@ console.log(arrayName);
 #### Flanagan 9.1: Classes and Prototypes p. 404
 * In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. Simple Javascript class:
 
-
-
 	```	
 	//This is a factory function that returns a new 'RANGE object'
 	function range(from, to) {
@@ -848,4 +846,6 @@ console.log(arrayName);
 		toString() { return "(" + this.from + "..." + this.to + ")"; }
 
 	};
+	```
 * See below for examples of calling and using the `range` object.
+
