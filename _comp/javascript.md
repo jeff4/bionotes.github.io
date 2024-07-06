@@ -996,7 +996,7 @@ console.log(r.toString());    // outputs "(1...3)"
 * See Fig 9-1 on p. 415 to see relationship between Constructor, Prototype, and Instances.
 * Another common technique seen in older JS code is the using the predefined prototype object with its `constructor` property and adding methods to it one at a time with code like this:
 	```
-	//older code
+	// older code
 	// Extend the predefined Range.prototype object so we don't overwrite
 	// the automatically created Range.prototype.constructor property
 
@@ -1007,6 +1007,7 @@ console.log(r.toString());    // outputs "(1...3)"
 	Range.prototype.toString = function() {
 		return "(" + this.from + "..." + this.to + ")";
 	};
+    ```
 
 #### Section 9.3 Classes with the class Keyword p. 416
 * Classes have been part of JS since it was first released. But Classes finally get their own syntax in ES6.
@@ -1021,3 +1022,48 @@ console.log(r.toString());    // outputs "(1...3)"
 1. The class declared with the `class` keyword, which is followed by the nae of the class and a class body in curly braces.
 1. The class body includes method definitions that use *object literal method shorthand*; this was also used in Ex 9-1--where the `function` keyword is omitted.
     * Unlike object literals, however, **no commas are used to separate each method**.
+    * Although class bodies are superficially similar to object literals, they are *not* the same thing.
+    * In particular, class bodies do not support the definition of properties with name/value pairs.
+1. The keyword `constructor` is used to define the constructor function for the class.
+    * The function defined is not actually *named* 'constructor', however!
+    * The `class` declaration statement defines a new variable `Range` and assigns the value of this special constructor function to that variable.
+1. If your class does not need to do any initialization, you can omit the `constructor` keyword and associated class body. In that case, an empty constructor function will be implicitly created by JS for you.
+1. If one wants to define a class that subclasses (aka *inherits from*) another class, you can use the `extends` keyword with the `class` keyword.
+    * In the below example, a `span` is like a range. But instead of initializing with a start and end, we initialize it with `start` and `length`variables.
+
+    ```
+    class Span extends Range {
+        constructor(start, length) {
+            if (length >=0) {
+                super(start, start + length);
+            } else {
+                super(start + length, start);
+            }
+        }
+    }
+1. More on `extends` and `super` in section 9.5.
+
+#### alternate versions of class declaration p. 419
+* Just as a function declaration has statement and expression forms, so too with class declarations. e.g., 
+
+```
+// function declaration -- statement
+let square  = function(x) {
+    return x * x; 
+};
+
+// function declaration -- expression
+square(3)   // evaluates to 9
+
+
+// class declaration -- statement
+let Square = class {
+    constructor(x) {
+        this.area = x * x;
+    }
+};
+
+// class declaration -- expression
+new Square(3).area   // evals to 9
+```
+* As with function definition expressions, class defintion expressions can include an optional class name. If you provide such a class name, that name is only defined within the class body itself.
