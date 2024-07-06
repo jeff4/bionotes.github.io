@@ -1068,3 +1068,5 @@ let Square = class {
 new Square(3).area   // evals to 9
 ```
 * As with function definition expressions, class defintion expressions can include an optional class name. If you provide such a class name, that name is only defined within the class body itself.
+
+### 7/06
