@@ -1041,6 +1041,7 @@ console.log(r.toString());    // outputs "(1...3)"
             }
         }
     }
+    ```
 1. More on `extends` and `super` in section 9.5.
 
 #### alternate versions of class declaration p. 419
