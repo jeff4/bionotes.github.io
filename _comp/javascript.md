@@ -1008,6 +1008,16 @@ console.log(r.toString());    // outputs "(1...3)"
 		return "(" + this.from + "..." + this.to + ")";
 	};
 
-#### Classes with the class Keyword
+#### Section 9.3 Classes with the class Keyword p. 416
 * Classes have been part of JS since it was first released. But Classes finally get their own syntax in ES6.
+* Just tested Example 9-3 and it works! See `./_df9/13-ex-9-3.js` for JS code. Called from `./t2.html`.
+* Note that invocation of classes after they are defined in Examples 9-2 and 9-3 work *exactly the same way*. With a constructor function and a `new` keyword.
+* The introduction in ES6 of the `class` keyword *does not alter the fundamental nature of JS' prototype-based classes*. 
+* Although Ex 9-3 uses the `class` keyword, the resulting Range object is a constructor function, just like the version defined in Ex 9-2.
+* The new `class` syntax is clean and convenient. 
+* **But it Ex 9-3 is best thought of as *syntatic sugar* for the more fundamental class definition mechanism in Ex 9-2.** 
 
+#### Notes about the final syntax shown in Ex 9-3 p. 417-418
+1. The class declared with the `class` keyword, which is followed by the nae of the class and a class body in curly braces.
+1. The class body includes method definitions that use *object literal method shorthand*; this was also used in Ex 9-1--where the `function` keyword is omitted.
+    * Unlike object literals, however, **no commas are used to separate each method**.
