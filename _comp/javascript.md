@@ -278,7 +278,7 @@ console.log(arrayName);
 * The ability to create a new object with an arbitrary prototype is very powerful; we'll show more about this later in Chapter 6.
 * One use for `Object.create()` is when one want to guard against unintended modification of an object by a library function that one doesn't have control over. Instead of passing the object directly into that library function, you can pass an object that inherits from it. If the function reads properties of the passed-in object, the function will see the *inherited* values. However, if the function tries to set the properties, those writes will not affect the properties of the original object.
 
-	```
+	```javascript
 	let o = { x: "don't change this property value" };
 	library.function(Object.create(o)); // Guard against accidental modification
 	```
@@ -303,7 +303,7 @@ console.log(arrayName);
 * Strings *are* JS datatypes; so as strings, they can be manipulated and created while the program is running.
 * Example, p. 259-260:
 
-	```
+	```javascript
 	let addr = "";
 	
 	for (let i = 0; i < 4; i++)  {
@@ -342,7 +342,7 @@ console.log(arrayName);
 * Ways of checking if an object has various properties, and enumerating them systematically: (1) using the `in` operator; (2) the `hasOwnProperty()` method; (3) the `propertyIsEnumerable()` method; and (4) basic querying properties directly via `.` and `[]`.
 * **`in`** operator. Returns `true` if the object has an *own* property or an *inherited* property by that name. Ex.
 
-	```
+	```javascript
 	let obj = { x:1 };
 	"x" in obj;  // Evaluates to 'true' b/c obj.x is an own property
 	"y" in obj; // Evaluates to 'false' b/c obj does not have an 'y' property
@@ -353,7 +353,7 @@ console.log(arrayName);
 * the `propertyIsEnumerable()` refines the `hasOwnProperty()` test. It returns `true` only if the property is an own property and the *enumerable* attribute is true.
 * don't always need to use the `in` operator. Instead, you can do an equality test like so:
 
-	```
+	```javascript
 	let obj = { x:1 };
 	obj.x !== undefined // Evals to true b/c obj.x property exists
 	obj.y !== undefined // Evals to *false* b/c obj.x does *not* exist
@@ -374,7 +374,7 @@ console.log(arrayName);
 #### Flanagan 6.7 Extending Objects p.273
 * Often, we want to copy the properties from one object to another object. Sample code:
 
-	```
+	```javascript
 	let target = { x:1 }, source = { y:2, z:3 };
 	for (let key of Object.keys(source)) {
 		target[key] = source[key];
@@ -410,7 +410,7 @@ console.log(arrayName);
 * As another example, when you convert a function to a string, you obtain the source code of the function.
 * Example of defining a custom `jhToString()` method:
 
-	```
+	```javascript
 	let point = {
 		x: 1,
 		y: 2, 
@@ -432,7 +432,7 @@ console.log(arrayName);
 * The base `valueOf()` method is pretty vanilla, but classes that inherit and modify it are more interesting. For example, let's look at Date objects. `Date.valueOf()` converts dates into numbers; this allows Date objects to be chronologically compared using the `<` and `>` operators.
 * Let's show how we might write a custom `valueOf()` method for our usual `point` object.
 
-	```
+	```javascript
 	let point = {
 		x: 3,
 		y: 4, 
@@ -455,7 +455,7 @@ console.log(arrayName);
 * For example, the Date class defines a `toJSON()` method that returns a serializable string representation of the date.
 * Let's see what it would be like to define a `toJSON()` method for our usual Point object:
 
-	```
+	```javascript
 	let point = {
 		x: 1,
 		y: 2, 
@@ -478,7 +478,7 @@ console.log(arrayName);
 * Next, you want to create an object with properties named `x` and `y` that hold the values from those earlier variables before you defined the object.
 * This is what it would like in earlier vanilla JS:
 
-    ```
+    ```javascript
 	let x = 1, y = 2, z = 3;
 	let obj = {
 		x: x,
@@ -489,7 +489,7 @@ console.log(arrayName);
 
 * Same thing but with more concise syntax, from ES6 onwards:
 
-	```
+	```javascript
 	let x = 1, y = 2, z = 3;
 	let obj = { x, y, z };
 	```
@@ -502,7 +502,7 @@ console.log(arrayName);
 * Instead, we can create an object and then use the desired properties as an extra step.
 * This is how one programmed before ES6:
 
-	```
+	```javascript
 	const PROPERTY_NAME = "p1";
 	function computePropertyName() {
 		return "p" + 2;
@@ -514,7 +514,7 @@ console.log(arrayName);
 	```
 * In contrast, here is the more concise syntax after ES6:
 
-	```
+	```javascript
 	const PROPERTY_NAME = "p1";
 	function computePropertyName() {
 
@@ -540,7 +540,7 @@ console.log(arrayName);
 #### 6.10.4 Spread Operator ... p. 284
 * In ES2018 and later, we can use the `...` spread operator.
 
-	```
+	```javascript
 	let position = { x:0, y:0 };
 	let dimensions = { width:100, height:75 };
 	let rect = { ...position, ...dimensions };
@@ -558,7 +558,7 @@ console.log(arrayName);
 * However, as of ES6, the object literal syntax (and class definition syntax as shown in Chapter 9) has been extended to allow a shortcut.
 	* In ES6 and later, the `function` keyword and colon `:` are omitted.
 * Pre-ES6 code:
-	```
+	```javascript
 	let square = {
 		area: function() {
 			return this.side * this.side;
@@ -569,7 +569,7 @@ console.log(arrayName);
 	square.area() // => outputs '100'
 	```
 * ES6 and later. Note the omission of `function` keyword and colon `:`... 
-	```
+	```javascript
 	let square = {
 		area() {
 			return this.side * this.side;
@@ -594,7 +594,7 @@ console.log(arrayName);
 	* If a property only has a setter() method, it is a write-only property. This is *not* possible iwth data properties. Furthermore, attempts to read this write-only property, the return always evaluates to `undefined`.
 * p. 288 Accessor properties can be defined with an extension to the *object literal* syntax. e.g., 
 
-	```
+	```javascript
 	let obj = {
 
 		//An ordinary data property
@@ -609,7 +609,7 @@ console.log(arrayName);
 * They 'look' like the **ES6 function shorthand**, with the exception that these getter/setter definitions are prefixed with the `get` and `set` keywords respectively.
 * p. 289 Coniser this slightly more interesting example with a 2d Cartesian point:
 
-	```
+	```javascript
 	let point = {
 
 		// x and y are regular read/write data properties
@@ -644,7 +644,7 @@ console.log(arrayName);
 * Therefore, one can use the object `point` above as a prototype for other points.
 * One can also give new objects their own, distinct, `x` and `y` properties. Adn these new objects will then inehritthe r and angleTheta properties, e.g.:
 
-	```
+	```javascript
 	let q = Object.create(point); // A new object that inherits getter()/setter()
 	q.x = 3; // Create a point q with it's own x/y properties
 	q.y = 4; 
@@ -675,7 +675,7 @@ console.log(arrayName);
 * In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. 
 * **Example 9-1 Simple Javascript class:**
 
-	```	
+	```javascript	
 	//This is a factory function that returns a new 'RANGE object'
 	function range(from, to) {
 
@@ -726,7 +726,7 @@ console.log(arrayName);
 	```
 * See below for examples of calling and using the `range` object.
 
-	```	
+	```javascript	
 	let r = range(1,3);  // create a range object
 	r.includes(2);   // => true b/c 2 is in the range
 	r.toString();    // outputs "(1...3)"
@@ -765,7 +765,7 @@ console.log(arrayName);
 * Used Firefox Developer Tools `cmd-option-I` to test scripts. Works.
 
 ##### Example 9-2 p. 408
-```
+```javascript
 // This is a Constructor Function that initializes new Range Objects
 // Note that it does not create or return the object. It just initializes it.
 
@@ -841,7 +841,7 @@ console.log(r.toString());    // outputs "(1...3)"
 * More fundamentally, however, constructors are used as the righthand operand of the `instanceof` operator when testing objects for membership in a class. 
 * e.g., if we have an objct `r` and want to know if it is a Range object, we can write:
 
-	```
+	```javascript
 	r instanceof Range // => true b/c 'r' inherits from the Range.prototype
 	```
 
@@ -857,7 +857,7 @@ console.log(r.toString());    // outputs "(1...3)"
 * The value of this property is an object that has a single, non-enumerable `constructor` property.
 * The value of the `constructor` property is the function object.
 
-	```
+	```javascript
 	let F = function() {}; // This is a function object
 	let p = F.prototype; // This is the prototype object associated with F.
 	let c = p.constructor; // This is the function associated with the prototype
@@ -865,13 +865,13 @@ console.log(r.toString());    // outputs "(1...3)"
 	```
 * The existence of this predefined prototype object with its `constructor` property means that objects typically inherit a `constructor` property that refers to their constructor function.
 * Since constructors serve as the public identity of a class, this constructor property gives the class of an object:
-	```
+	```javascript
 	let o = new F();   // Create an object o of class F
 	o.constructor === F // => true b/c the constructor property specifies the class
 	```
 * See Fig 9-1 on p. 415 to see relationship between Constructor, Prototype, and Instances.
 * Another common technique seen in older JS code is the using the predefined prototype object with its `constructor` property and adding methods to it one at a time with code like this:
-	```
+	```javascript
 	// older code
 	// Extend the predefined Range.prototype object so we don't overwrite
 	// the automatically created Range.prototype.constructor property
@@ -907,7 +907,7 @@ console.log(r.toString());    // outputs "(1...3)"
 1. If one wants to define a class that subclasses (aka *inherits from*) another class, you can use the `extends` keyword with the `class` keyword.
     * In the below example, a `span` is like a range. But instead of initializing with a start and end, we initialize it with `start` and `length`variables.
 
-    ```
+    ```javascript
     class Span extends Range {
         constructor(start, length) {
             if (length >=0) {
@@ -923,7 +923,7 @@ console.log(r.toString());    // outputs "(1...3)"
 #### alternate versions of class declaration p. 419
 * Just as a function declaration has statement and expression forms, so too with class declarations. e.g., 
 
-```
+```javascript
 // function declaration -- statement
 let square  = function(x) {
     return x * x; 
