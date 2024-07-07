@@ -87,7 +87,8 @@ permalink: /vim/
 	* For example, to add everyting from the cursor to the end of the line `$` to the register `a`, type `"ay$`. B/c y = (y)ank and $ indicates the end of the current line.
 	* Then, to paste what's in the register `a`, simply type `"ap`.
 
-## 7/07/2024 -- repeat on how to store and paste with register
+## 7/07/2024
+* Repeated instructions on how to store and paste with register
 #### Example 1
 * to yank next 3 words and store in register **a**, type `"ay3w`.
 * to paste item in register **a**, type `"ap`.
