@@ -1035,17 +1035,17 @@ new Square(3).area   // evals to 9
 * For example, let's add the below static **parse** method to Example 9-3:
 
 	```javascript
-	static parse(s) {
+	static parse(str) {
 
-		let matches = s.match(/^\((\d+)\.\.\.(\d+)\)$/);
+		let matches = str.match(/^\((\d+)\.\.\.(\d+)\)$/);
 
 		if (!matches) {
-			throw new TypeError(`Cannot parse Range from "${s}".`)
+			throw new TypeError(`Cannot parse Range from "${str}".`)
 		}
 		return new Range( parseInt(matches[1]), parseInt(matches[2]) );
 	}
 	```
-* The method defined by this code is `Range.parse()`, not LATEST
+* The method defined by this code is `Range.parse()`, not..........
 
 
 
