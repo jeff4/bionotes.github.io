@@ -676,55 +676,55 @@ console.log(arrayName);
 
 ### Example 9-1 p. 404
 
-	```javascript	
-	//This is a factory function that returns a new 'RANGE object'
-	function range(from, to) {
+```javascript	
+//This is a factory function that returns a new 'RANGE object'
+function range(from, to) {
 
-		// Use Object.creat() to create an object that inherits from the prototyp object defined below
-		// the prototype object is stored as a property of this function, and defines the shared
-		// methods (behavior) of all following 'range' objects.
+	// Use Object.creat() to create an object that inherits from the prototyp object defined below
+	// the prototype object is stored as a property of this function, and defines the shared
+	// methods (behavior) of all following 'range' objects.
 
-		let r = Object.create(range.methods);
+	let r = Object.create(range.methods);
 
 
-		// Store the start and end points (state) of this new range object. These are noninherited
-		// properties
-		r.from = from;
-		r.to = to;
+	// Store the start and end points (state) of this new range object. These are noninherited
+	// properties
+	r.from = from;
+	r.to = to;
 
-		// Finally, return the new object
-		return r;
-	}
+	// Finally, return the new object
+	return r;
+}
 
-	//The below prototype object defines methods inherited by all RANGE objects
-	range.methods = {
+//The below prototype object defines methods inherited by all RANGE objects
+range.methods = {
 
-		// returns true if x is in the range,
-		// returns false if x is not in the range
-		// This method works for text and Date ranges as well as numeric
+	// returns true if x is in the range,
+	// returns false if x is not in the range
+	// This method works for text and Date ranges as well as numeric
 
-		includes(x) {
-			return this.from <= x 
-				&&
-				x <= this.to
-		},
+	includes(x) {
+		return this.from <= x 
+			&&
+			x <= this.to
+	},
 
-		// A generator function that makes instances of the RANGE class iterable
-		// note that this only works for numeric ranges
+	// A generator function that makes instances of the RANGE class iterable
+	// note that this only works for numeric ranges
 
-		*[Symbol.iterator]() {
-			
-			for ( let x = Math.ceil(this.from); x <= this.to; x++) {
-				yield x;
-			}
+	*[Symbol.iterator]() {
+		
+		for ( let x = Math.ceil(this.from); x <= this.to; x++) {
+			yield x;
+		}
 
-		},
+	},
 
-		// Return a string representation of the range
-		toString() { return "(" + this.from + "..." + this.to + ")"; }
+	// Return a string representation of the range
+	toString() { return "(" + this.from + "..." + this.to + ")"; }
 
-	};
-	```
+};
+```
 * See below for examples of calling and using the `range` object.
 
 	```javascript	
