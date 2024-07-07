@@ -1004,6 +1004,24 @@ new Square(3).area   // evals to 9
 
 * Note again that only 9-2 uses the `function` keyword to explicitly indicate that methods are being defined for the prototype object *and* the constructor/factory functions. ie., *both* 9-1 and 9-3 simply declare `toString()`    instead of 9-2's `toString: function()`.
 * 9-1 and 9-2 are similar in that there is a distinct `{}` expression holding the prototype definition; again 9-3 just includes the prototype methods in the `class {}` 
+* 9-1 and 9-2 are also similar in that they use the *Object Name* when definining the prototype. Again, 9-3 doesn't need that b/c prototype definition is implicit within the `class Range {}` block:
+	* 9-1 `range.methods = {};`
+	* 9-2 `Range.prototype = {};`
+
+#### Comparison of factory / constructor function
+* 9-2 and 9-3 very similar. main difference is use of *function* vs. *class* keywords. Also, 9-3 ES6 syntax has explicit `constructor` keyword:
+	* 9-2: `function Range(from, to) {}` plus no explicit *constructor* keyword.
+	* 9-3: `class Range(from, to) { constructor(from, to)  }`
+* 9-1 is most different from 9-2 and 9-3. 
+	* 9-1 needs to use the `let r = Object.create(range.methods)` where **range.methods** is the prototype object.
+	* It's also more complicated b/c 9-1 uses `r.from = from;` rather than 9-2 and 9-3's clearer syntax `this.from = from;`.
+
+    
+
+
+
+
+
 
 ## register info
 * to paste *```javascript* in the register **j**, type `"jp`.
