@@ -987,20 +987,22 @@ new Square(3).area   // evals to 9
 ## 7/07/2024
 ### JH thoughts on Ex 9-1, 9-2, 9-3
 * Spent some time on Saturday 7/06 writing up notecards to break down how the factory function vs. constructor function syntax works in older and post-ES6 syntax, as well as associated prototype.method definition, and how to call/create instances of these objects.
-* 9-1 and 9-2 are similar in that they require two different statements: (1) One for their respective prototype definitions and (2) Another expression for definition of their factory/constructor functions.
-	* In contrast, 9-3's post-ES6 syntax is nice in that a single statment handles class definition all in a single statement block that *combines* the `Constructor function` *and* the `Prototype method definitions`.
+* 9-1 and 9-2 are similar in that they require two different `{}` blocks: (1) One for their respective prototype definitions and (2) Another block for definition of their factory/constructor functions.
+	* In contrast, 9-3's post-ES6 syntax is nice in that a single `{}` block handles class definition all in a single block that *combines* the `Constructor function` *and* the `Prototype method definitions` within one pair of curly braces.
 * 9-2 and 9-3 and deeply similar despite surface differences in syntatic sugar. 
 
 #### Prototype syntax comparison
 * 9-2 uses `Range.prototype = { (1) includes:,  (2) [Symbol.iterator]:,  (3) toString:  };`.
-* 9-3 uses *no* explicit statement to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
+* 9-3 uses *no* explicit keyword to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
 
 	```javascript
 	(2) includes(x) { return this.from<= && <=this.to; } // no comma at end of method!
 	(3) *[Symbol.iterator]() { for(x=Math; x<=this; x++)  yield x;  } // no comma at end of method!
 	(4) toString() {  return `(${this.from}...${this.to})`;   } // no comma at end of method!
 	```
-    
+
+* Note again that only 9-2 uses the `function` keyword to explicitly indicate that methods are being defined for the prototype object *and* the constructor/factory functions. ie., *both* 9-1 and 9-3 simply declare `toString()`    instead of 9-2's `toString: function()`.
+* 9-1 and 9-2 are similar in that there is a distinct `{}` expression holding the prototype definition; again 9-3 just includes the prototype methods in the `class {}` 
 
 ## register info
 * to paste *```javascript* in the register **j**, type `"jp`.
