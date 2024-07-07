@@ -996,8 +996,11 @@ new Square(3).area   // evals to 9
 * 9-3 uses *no* explicit statement to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
 
 	```javascript
-	(2) includes(x) { return this.from<= && <=this.to } // no comma at end of method!
-	(3) *[Symbol.iterator]() { for(x=Math; x<=this; x++)  yield x;  }
+	(2) includes(x) { return this.from<= && <=this.to; } // no comma at end of method!
+	(3) *[Symbol.iterator]() { for(x=Math; x<=this; x++)  yield x;  } // no comma at end of method!
+	(4) toString() {  return `(${this.from}...${this.to})`;   } // no comma at end of method!
+	```
+    
 
 ## register info
 * to paste *```javascript* in the register **j**, type `"jp`.
