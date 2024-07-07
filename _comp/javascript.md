@@ -955,3 +955,8 @@ new Square(3).area   // evals to 9
 #### Prototype syntax comparison
 * 9-2 uses `Range.prototype = { (1) includes:,  (2) [Symbol.iterator]:,  (3) toString:  };`.
 * 9-3 uses *no* explicit statement to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
+
+
+## register info
+* to paste *```javascript* in the register **j**, type `"jp`.
+* to yank next 3 words and store in register **a**, type `"ay3w`.
