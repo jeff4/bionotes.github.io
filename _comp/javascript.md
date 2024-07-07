@@ -4,12 +4,13 @@ permalink: /javascript/
 ---
 
 ## 2024 Log
+
 ### 6/19/2024
 #### setting up authentication
 * See dialog in ChatGPT with suggested Astro code.
 * From [this DevTo post](https://dev.to/itsabdessalam/password-protect-your-site-with-netlify-and-github-actions-1aah), I found these options for securing a site via Netlify--possibly with minimal or zero code changes to GitHub itself. [Main Netlify article](https://docs.netlify.com/security/secure-access-to-sites/)
 	1. [Authenticate with Netlify Identity](https://docs.netlify.com/security/secure-access-to-sites/identity/)
-	1. [Basic authentication with custom headers](https://docs.netlify.com/security/secure-access-to-sites/basic-authentication-with-custom-http-headers/)o 
+	1. [Basic authentication with custom headers](https://docs.netlify.com/security/secure-access-to-sites/basic-authentication-with-custom-http-headers/) 
 	1. [Use OAuth provider tokens on site](https://docs.netlify.com/security/secure-access-to-sites/oauth-provider-tokens/) 
 	1. [Basic password protection vs. team login protection](https://docs.netlify.com/security/secure-access-to-sites/site-protection/#basic-password-protection-versus-team-login-protection) 
 	1. [Protect your site with a single shared password](https://docs.netlify.com/security/secure-access-to-sites/site-protection/#protect-your-site-with-a-basic-password) 
@@ -943,3 +944,14 @@ let Square = class {
 new Square(3).area   // evals to 9
 ```
 * As with function definition expressions, class defintion expressions can include an optional class name. If you provide such a class name, that name is only defined within the class body itself.
+
+## 7/07/2024
+### JH thoughts on Ex 9-1, 9-2, 9-3
+* Spent some time on Saturday 7/06 writing up notecards to break down how the factory function vs. constructor function syntax works in older and post-ES6 syntax, as well as associated prototype.method definition, and how to call/create instances of these objects.
+* 9-1 and 9-2 are similar in that they require two different statements: (1) One for their respective prototype definitions and (2) Another expression for definition of their factory/constructor functions.
+	* In contrast, 9-3's post-ES6 syntax is nice in that a single statment handles class definition all in a single statement block that *combines* the `Constructor function` *and* the `Prototype method definitions`.
+* 9-2 and 9-3 and deeply similar despite surface differences in syntatic sugar. 
+
+#### Prototype syntax comparison
+* 9-2 uses `Range.prototype = { (1) includes:,  (2) [Symbol.iterator]:,  (3) toString:  };`.
+* 9-3 uses *no* explicit statement to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
