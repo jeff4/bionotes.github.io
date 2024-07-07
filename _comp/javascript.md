@@ -894,6 +894,45 @@ console.log(r.toString());    // outputs "(1...3)"
 * The new `class` syntax is clean and convenient. 
 * **But it Ex 9-3 is best thought of as *syntatic sugar* for the more fundamental class definition mechanism in Ex 9-2.** 
 
+### Example 9-3 p. 416-417
+
+```javascript
+class Range {
+	constructor(from, to) {
+
+		// Store the start and end points (state) of this new Range object
+		// These are non-inherited properties that are unique to this object
+	
+		this.from = from;
+		this.to = to;
+	}
+	
+	// returns true if x is in the Range,
+	// returns false if x is not in the Range
+	// This method works for text and Date Ranges as well as numeric
+
+	includes(x) {
+		return this.from <= x
+		&&
+			x <= this.to;
+	}
+
+	// A generator function that makes instances of this class iterable.
+	// Note that it only works for numeric Ranges.
+	
+	*[Symbol.iterator]() {
+		for (let x = Math.ceil(this.from); x <= this.to; x++) 
+			yield x;
+	}
+
+	// Return a string representation of the Range
+	
+	toString() {
+		return `(${this.from}...${this.to})`;
+	}
+}
+```
+
 #### Notes about the final syntax shown in Ex 9-3 p. 417-418
 1. The class declared with the `class` keyword, which is followed by the nae of the class and a class body in curly braces.
 1. The class body includes method definitions that use *object literal method shorthand*; this was also used in Ex 9-1--where the `function` keyword is omitted.
@@ -956,6 +995,9 @@ new Square(3).area   // evals to 9
 * 9-2 uses `Range.prototype = { (1) includes:,  (2) [Symbol.iterator]:,  (3) toString:  };`.
 * 9-3 uses *no* explicit statement to indicate that prototype methods are being defined. It's **implicit** in ES6. And the first method occuring early in the same expression of the Constructor function is method 1. So these are methods 2-4 equivalent to (1) includes  (2) [Symbol]   (3) toStrong in 9-2.
 
+	```javascript
+	(2) includes(x) { return this.from<= && <=this.to } // no comma at end of method!
+	(3) *[Symbol.iterator]() { for(x=Math; x<=this; x++)  yield x;  }
 
 ## register info
 * to paste *```javascript* in the register **j**, type `"jp`.
