@@ -86,3 +86,11 @@ permalink: /vim/
 * Use [this article](https://www.brianstorti.com/vim-registers/) to understand how to add and retrieve characters from registers. For cut and paste. 
 	* For example, to add everyting from the cursor to the end of the line `$` to the register `a`, type `"ay$`. B/c y = (y)ank and $ indicates the end of the current line.
 	* Then, to paste what's in the register `a`, simply type `"ap`.
+
+## 7/07/2024 -- repeat on how to store and paste with register
+#### Example 1
+* to yank next 3 words and store in register **a**, type `"ay3w`.
+* to paste item in register **a**, type `"ap`.
+#### Example 2
+* to yank from current cursor to end of line and store in register **b**, type `"by$`.
+* to paste item in register **b**, type `"bp`.
