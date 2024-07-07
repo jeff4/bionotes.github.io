@@ -673,7 +673,8 @@ console.log(arrayName);
 
 #### Flanagan 9.1: Classes and Prototypes p. 404
 * In JavaScript, a class is a set of objects that inherit properties from the same prototype object. The prototype object, therefore, is the central feature of a class. 
-* **Example 9-1 Simple Javascript class:**
+
+### Example 9-1 p. 404
 
 	```javascript	
 	//This is a factory function that returns a new 'RANGE object'
@@ -764,7 +765,7 @@ console.log(arrayName);
 	1. Specific for macOS, use [live server](https://stackoverflow.com/a/51009471), which has nice benefit of auto-reloading when files change. Install with `npm install -g live-server`. Run with `live-server --port=80` or whichever preferred port.
 * Used Firefox Developer Tools `cmd-option-I` to test scripts. Works.
 
-##### Example 9-2 p. 408
+### Example 9-2 p. 408
 ```javascript
 // This is a Constructor Function that initializes new Range Objects
 // Note that it does not create or return the object. It just initializes it.
