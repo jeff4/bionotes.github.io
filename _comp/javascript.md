@@ -1045,7 +1045,29 @@ new Square(3).area   // evals to 9
 		return new Range( parseInt(matches[1]), parseInt(matches[2]) );
 	}
 	```
-* The method defined by this code is `Range.parse()`, not..........
+* The method defined by this code is **Range.parse()**; it is **not** *Range.prototype.prase()*. Thus, it must be invoked through a *constructor*, **not** just an instance.
+	1. This will cause an TypeError: *r.parse is not a function*
+		```javascript
+		r.parse( '(1...10)'  );
+		```
+	1. Whereas this usage of a calling a constructor will work and create a brand-new Range object:
+		```javascript
+		let r = Range.parse( '(1...10)' );
+		```
+* We will sometimes hear *static methods* referred to as **class methods** b/c they are invoked using the name of the class/consturctor.
+	* When this term is used, we are contrasting *class methods* with the regular **instance methods** that are invoked on instances of a class.
+	* B/c static methods are invoked on the constructor rather than any particular instance, it almoost never makes sense to use the **this** keyword in a static method.
+	* For more, see Example 9-4 below.
+
+
+#### 9.3.2 Getters, Setters, and other Method Forms. p. 421
+* Within a *class* body, one an define getter and setter methods, just like one can within object literals.
+	* The only difference is that in *class bodies*, one does not put a comma after a getter or setter. See Ex 9-4 below.
+* In general all the shorthand method definition syntaxes allowed for object literals are also allowed in class bodies.
+	* This also includes generator methods (marked with an initial `*`) and methods whose nmaes are teh value of an expression in square brackets.
+
+#### 9.3.3 Public, Private, and Static Fields p. 422
+	
 
 
 ### Regarding updates to field/property declaration in Classes
@@ -1055,6 +1077,10 @@ new Square(3).area   // evals to 9
 	1. [Section 2 - Private Methods and Fields](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde#privateMethodsFields) where they introduce the `#` hashtag as a way of setting private methods and fields.
 * Read more from Mozilla Dev Network > References > [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) > [Private properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties).
 	* Probably good to read through entire MDN Reference for classes: [Class Overview linked above](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor), [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends), [Public Class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields), [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static), and [Static Intialization Blocks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks).
+
+
+
+
 
 
 ## register info
