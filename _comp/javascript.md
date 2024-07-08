@@ -1056,5 +1056,5 @@ new Square(3).area   // evals to 9
 
 
 ## register info
-* to paste *```javascript* in the register **j**, type `"jp`.
+* to paste *```javascript* from the register **j**, type `"jp`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
