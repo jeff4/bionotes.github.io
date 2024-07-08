@@ -1048,6 +1048,11 @@ new Square(3).area   // evals to 9
 * The method defined by this code is `Range.parse()`, not..........
 
 
+### Regarding updates to field/property declaration in Classes
+* Post ES6, the syntax for declaring fields in classes has evolved. I *think* the final standardization happened in [ES2022](https://www.w3schools.com/js/js_2022.asp), under [Class Field Declarations](https://www.w3schools.com/js/js_2022.asp#mark_class_fields) and [JS Private Methods and Fields](https://www.w3schools.com/js/js_2022.asp#mark_class_fields).
+	* See also this Dev.To [article on ES 20222](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde), esp. [Section 1 - Class Field Declarations](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde#classFields) and [Section 2 - Private Methods and Fields](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde#privateMethodsFields) where they introduce the `#` hashtag as a way of setting private methods and fields.
+* Read more from Mozilla Dev Network > References > [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) > [Private properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties).
+	* Probably good to read through entire MDN Reference for Classes: [Overview linked above](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor), [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends), [Public class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields), [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static), and [Static Intialization Blocks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks).
 
 
 ## register info
