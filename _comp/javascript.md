@@ -1075,9 +1075,9 @@ new Square(3).area   // evals to 9
 * In ES6, if one wants to define a field on a class instance, it must be done *inside the **constructor** function* or within one of the class methods.
 	* If one wants to define a *static field* for a class, ES6 only lets that be done *outside the class body*--**after** the class has already been dfined.
 	* Example 9-4 includes examples of both kinds of fields.
+* To see discussion circa early 2020 on syntax standardization, see p. 422-425.
 
 ### Example 9-4: A Class for Complex Numbers p. 425-427
-
 #### A1: Class declaration using old ES6 syntax
 * Exactly the same as B1 below except it does *not* include as static fields `ZERO`, `ONE`, etc.
 
@@ -1189,7 +1189,7 @@ class Complex {
 	static I = new Complex( 0,1 );
 }
 ```
-#### 3: Creating new Complex objects and using them
+#### 3: Same syntax for both A and B -- creating new Complex objects and using them
 
 ```javascript
 let c = new Complex( 6, 10);
@@ -1201,7 +1201,7 @@ console.log(c.plus(d).toString());
 console.log(Complex.ZERO.toString());
 ```
 
-### Regarding updates to field/property declaration in Classes
+### JH notes on ES6 vs. ES2022 syntax for field/property declaration in Classes
 * Post ES6, the syntax for declaring fields in classes has evolved. I *think* the final standardization happened in [ES2022](https://www.w3schools.com/js/js_2022.asp), under [Class Field Declarations](https://www.w3schools.com/js/js_2022.asp#mark_class_fields) and [JS Private Methods and Fields](https://www.w3schools.com/js/js_2022.asp#mark_class_fields).
 * See also this Dev.To [article on ES 20222](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde):
 	1. [Section 1 - Class Field Declarations](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde#classFields)
@@ -1209,6 +1209,33 @@ console.log(Complex.ZERO.toString());
 * Read more from Mozilla Dev Network > References > [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) > [Private properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties).
 	* Probably good to read through entire MDN Reference for classes: [Class Overview linked above](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor), [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends), [Public Class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields), [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static), and [Static Intialization Blocks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks).
 
+### Section 9.4 Adding Methods to Existing Classes p. 428
+* JS's prototype-based inheritance mechanism is dynamic: an object inherits properties from its prototype, even if the properties of the prototype change *after* the object is created.
+* This means we can augment JS classes simply by adding new methods to their prototype objects.
+* For example, one can add this new method to the Complex object so that users can calculate the complex conjugate using Complex:
+```javascript
+Complex.prototype.conj = function () {
+    return new Complex( this.r, -this.i );
+};
+```
+* The prototype object of built-in JS classes is also open to changes.
+* This means that we can add new methods to JS strings, arrays, functions, numbers, etc.
+* This is useful for implementing new language features in older versions of JS.
+* For example, if we want to invoke a function `f` this many times, passing the iteration number
+```javascript
+Number.prototype.times = function(f, context) {
+    let n = this.valueOf();
+    for ( let i = 0;  i < n;  i++ )
+        f.call( context, i );
+};
+
+
+let n = 3
+n.times ( 
+    i => { 
+        console.log( `hello ${i}`); 
+    } 
+);
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
