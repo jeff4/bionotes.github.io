@@ -1238,6 +1238,19 @@ n.times (
     } 
 );
 ```
+* p. 429 -- Adding methods to prototypes of built-in types like Number in th example above is generally a bad idea b/c it will cause confusion and break compatibility if a future version of JS defines a method with the same name.
+
+### 9.5 Subclasses p. 429
+* In traditional OO programming, a class B can *extend* aka *subclass* a class A.
+* We say that A is a **superclass** of B; alternately, B is a **subclass** of A.
+* The class B can define its own methods, some of which may *override* the methods of the same name defined by superclass A.
+* If a method of B overrides a method of A, the overriding B method often needs to invoke the overriden method in A.
+* Similarly, the constructor for subclass B *constructor `B()`* must typically invoke the superclass A's *constructor `A()`* in order to ensure that instances are properly initialized.
+* Section 9.5.1 demonstrates how to subclass using the old pre-ES6 way.
+* Section 9.5.2  then shows how to subclass using modern ES6 syntax using `class` and `extends` keywords.
+* Then, Section 9.5.3 talkes about using using object composition (aka **delegation**) instead of inheritance; this avoids subclasses entirely.
+* Section 9.5.4 (p. 440) discusses **Class Hierarchies and Abstract Classes**.
+
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
