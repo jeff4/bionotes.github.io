@@ -1236,6 +1236,7 @@ n.times (
         console.log( `hello ${i}`); 
     } 
 );
+```
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
