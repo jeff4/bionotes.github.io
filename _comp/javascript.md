@@ -1076,12 +1076,127 @@ new Square(3).area   // evals to 9
 	* If one wants to define a *static field* for a class, ES6 only lets that be done *outside the class body*--**after** the class has already been dfined.
 	* Example 9-4 includes examples of both kinds of fields.
 
-### Example 9-4: A Class for Complex Numbers p. 425
+### Example 9-4: A Class for Complex Numbers p. 425-427
+```javascript
+
+class Complex {
+	constructor(real, imaginary) {
+
+		this.r = real; // holds the real part
+		this.i = imaginary; // holds the imaginary part
+	}
+	
+
+	plus(that) {
+		return new Complex(this.r + that.r, this.i + that.i);
+	}
+
+	times(that) {
+		return new Complex( 
+			this.r * that.r - this.i * that.i, 
+			this.r * that.i + this.i * that.r
+		)
+	}
+
+	static sum( c, d ) { return c.plus(d); }
+	static product( c, d ) { return c.times(d); }
 
 
+	get real() {
+		return this.r;
+	}
+
+	get imaginary() {
+		return this.i;
+	}
+
+	get magnitude() {
+		return Math.hypot( this.r, this.i );
+	}
+
+	toString() {
+		return `{ ${this.r}, ${this.i}}`; 
+	}
+
+	equals(that) {
+		return that instanceof Complex &&
+			this.r === that.r &&
+			this.i === that.i;
+	}
+}
+```
+
+#### 2a: Using old ES6 syntax -- calling a few common classes
+```javascript
+Complex.ZERO = new Complex( 0,0 );
+Complex.ONE = new Complex( 1,0 );
+Complex.I = new Complex( 0,1 );
+```
+
+#### 2b: New ES6 syntax -- creating a few common classes as static fields within Class body
+```javascript
+
+class Complex {
+	constructor(real, imaginary) {
+
+		this.r = real; // holds the real part
+		this.i = imaginary; // holds the imaginary part
+	}
+	
+
+	plus(that) {
+		return new Complex(this.r + that.r, this.i + that.i);
+	}
+
+	times(that) {
+		return new Complex( 
+			this.r * that.r - this.i * that.i, 
+			this.r * that.i + this.i * that.r
+		)
+	}
+
+	static sum( c, d ) { return c.plus(d); }
+	static product( c, d ) { return c.times(d); }
 
 
+	get real() {
+		return this.r;
+	}
 
+	get imaginary() {
+		return this.i;
+	}
+
+	get magnitude() {
+		return Math.hypot( this.r, this.i );
+	}
+
+	toString() {
+		return `{ ${this.r}, ${this.i}}`; 
+	}
+
+	equals(that) {
+		return that instanceof Complex &&
+			this.r === that.r &&
+			this.i === that.i;
+	}
+
+	static ZERO = new Complex( 0,0 );
+	static ONE = new Complex( 1,0 );
+	static I = new Complex( 0,1 );
+}
+```
+#### 3: Creating new Complex objects and using them
+
+```javascript
+let c = new Complex( 6, 10);
+let d = new Complex( c.i, c.r);
+
+console.log(c.magnitude);
+console.log(Complex.product( c, d));
+console.log(c.plus(d).toString());
+console.log(Complex.ZERO.toString());
+```
 
 ### Regarding updates to field/property declaration in Classes
 * Post ES6, the syntax for declaring fields in classes has evolved. I *think* the final standardization happened in [ES2022](https://www.w3schools.com/js/js_2022.asp), under [Class Field Declarations](https://www.w3schools.com/js/js_2022.asp#mark_class_fields) and [JS Private Methods and Fields](https://www.w3schools.com/js/js_2022.asp#mark_class_fields).
@@ -1090,10 +1205,6 @@ new Square(3).area   // evals to 9
 	1. [Section 2 - Private Methods and Fields](https://dev.to/digitalpollution/embracing-modern-javascript-features-in-es13-es2022-3dde#privateMethodsFields) where they introduce the `#` hashtag as a way of setting private methods and fields.
 * Read more from Mozilla Dev Network > References > [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) > [Private properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties).
 	* Probably good to read through entire MDN Reference for classes: [Class Overview linked above](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor), [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends), [Public Class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Public_class_fields), [static](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static), and [Static Intialization Blocks](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks).
-
-
-
-
 
 
 ## register info
