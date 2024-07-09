@@ -1222,6 +1222,7 @@ Complex.prototype.conj = function () {
 * This means that we can add new methods to JS strings, arrays, functions, numbers, etc.
 * This is useful for implementing new language features in older versions of JS.
 * For example, if we want to invoke a function `f` this many times, passing the iteration number
+
 ```javascript
 Number.prototype.times = function(f, context) {
     let n = this.valueOf();
