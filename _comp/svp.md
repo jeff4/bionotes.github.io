@@ -34,7 +34,54 @@ let p = new Person("Joe", "Black");
 * In most other languages, if you try to invoke a Class's `constructor` function to create an instance of that class *without* putting in the correct number & type of input arguments, the program crashes.
 * *However*, in JS, it fails gracefully by leaving the missing parameters as `undefined`. So in the above example, if we called the Person constructor function like so:
 ```javascript
-let p2 = new Person("Alice");
+let p2 = new Person("Jane");
 console.log(p2);
 ```
-* The output is `Person { firstName: 'Alice', lastName: undefined }`
+* The output is `Person { firstName: 'Jane', lastName: undefined }`
+
+### Default values for Class Fields p. 153
+* One can specify default values in the constructor function. (See ES2022 notes on private fields but SVP was published in 2021).
+* Let's rewrite the Person Class like so:
+```javascript
+
+class Person {
+	constructor(firstName, lastName = "Doe") {
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+}
+```
+* Which would now return `Jane Doe` if we invoke the Person constructor like so:
+```
+let p3 = new Person("Jane");
+console.log( p3.firstName + " " + p3.lastName);
+```
+
+### Methods p. 154
+* In a class, we an specify functions.
+* This means that our object can start doing things using the object's own properties--for example, printing a name.
+* Functions on a class are called methods. 
+* When defining these methods, we don't use the `function` keyword; instead we just use the name followed by `()`.
+```javascript
+
+class Person {
+	constructor (firstName, lastName = "Doe") {
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+
+	invite() {
+		console.log( "Hey, please come in! My name is " + this.firstName + ".");
+	}
+}
+
+let p1 = new Person("John", "Smith");
+p1.invite();
+```
+* Outputs: `Hey, please come in! My name is John.`.
+
+
+### Properties p. 156
+* Properties aka fields, hold the Class's data. We've already seen some properties already: `firstName` and `lastName`. 
+* Often it is not desirable to provide direct access to properties. (Ah, they use the `#` hashtag standard from ES2022 for private fields!)
+
