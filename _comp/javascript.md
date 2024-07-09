@@ -1066,8 +1066,21 @@ new Square(3).area   // evals to 9
 * In general all the shorthand method definition syntaxes allowed for object literals are also allowed in class bodies.
 	* This also includes generator methods (marked with an initial `*`) and methods whose nmaes are teh value of an expression in square brackets.
 
+
+## 7/08/2024 
 #### 9.3.3 Public, Private, and Static Fields p. 422
-	
+* In the discussion of classes defined like in Example 9-3 (aka defined by the **class** keyword), we have only described methds within the class body.
+* The ES6 Standard only allows creation of *methods* and *static methods.*
+* ES6 does *not* include syntax for defining fields. (For update and correction, see notes on ES2022 below).
+* In ES6, if one wants to define a field on a class instance, it must be done *inside the **constructor** function* or within one of the class methods.
+	* If one wants to define a *static field* for a class, ES6 only lets that be done *outside the class body*--**after** the class has already been dfined.
+	* Example 9-4 includes examples of both kinds of fields.
+
+### Example 9-4: A Class for Complex Numbers p. 425
+
+
+
+
 
 
 ### Regarding updates to field/property declaration in Classes
