@@ -1077,8 +1077,11 @@ new Square(3).area   // evals to 9
 	* Example 9-4 includes examples of both kinds of fields.
 
 ### Example 9-4: A Class for Complex Numbers p. 425-427
-```javascript
 
+#### A1: Class declaration using old ES6 syntax
+* Exactly the same as B1 below except it does *not* include as static fields `ZERO`, `ONE`, etc.
+
+```javascript
 class Complex {
 	constructor(real, imaginary) {
 
@@ -1126,14 +1129,14 @@ class Complex {
 }
 ```
 
-#### 2a: Using old ES6 syntax -- calling a few common classes
+#### A2: Using old ES6 syntax -- calling a few common classes
 ```javascript
 Complex.ZERO = new Complex( 0,0 );
 Complex.ONE = new Complex( 1,0 );
 Complex.I = new Complex( 0,1 );
 ```
 
-#### 2b: New ES6 syntax -- creating a few common classes as static fields within Class body
+#### B1 + B2: New ES6 syntax -- Class declaration and creating a few common classes as static fields within Class body
 ```javascript
 
 class Complex {
