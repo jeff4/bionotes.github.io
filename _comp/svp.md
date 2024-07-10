@@ -90,6 +90,7 @@ p1.invite();
 ## Accessors -- Getters and Setters p. 157
 * Although **accessors** -- like **getters** and **setters** -- *look* like functions b/c they have a `()`. They are in fact *not*. They are **properties** aka data fields.
 * Very important point: if you try to call an object's properties *as if* it were a function (aka using **()**), you will get an error. So for example,
+
 ```javascript
 class Cat{
     #name
