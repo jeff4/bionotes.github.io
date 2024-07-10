@@ -42,8 +42,8 @@ console.log(p2);
 ### Default values for Class Fields p. 153
 * One can specify default values in the constructor function. (See ES2022 notes on private fields but SVP was published in 2021).
 * Let's rewrite the Person Class like so:
-```javascript
 
+```javascript
 class Person {
 	constructor(firstName, lastName = "Doe") {
 		this.firstName = firstName;
@@ -51,7 +51,9 @@ class Person {
 	}
 }
 ```
+
 * Which would now return `Jane Doe` if we invoke the Person constructor like so:
+
 ```
 let p3 = new Person("Jane");
 console.log( p3.firstName + " " + p3.lastName);
@@ -62,8 +64,8 @@ console.log( p3.firstName + " " + p3.lastName);
 * This means that our object can start doing things using the object's own properties--for example, printing a name.
 * Functions on a class are called methods. 
 * When defining these methods, we don't use the `function` keyword; instead we just use the name followed by `()`.
-```javascript
 
+```javascript
 class Person {
 	constructor (firstName, lastName = "Doe") {
 		this.firstName = firstName;
@@ -78,6 +80,7 @@ class Person {
 let p1 = new Person("John", "Smith");
 p1.invite();
 ```
+
 * Outputs: `Hey, please come in! My name is John.`.
 
 
@@ -100,6 +103,7 @@ class Cat{
 
 let c = new Cat("Mittens", "Black");
 ```
+
 * If one tries to access the cat's name with `c.name()`, **this will cause an error**. But `c.name` will work.
 * Accessors are declared with the `get` and `set` keywords.
 * Properties cannot be set from the outside *without* the special access method provided by a Class and its instances. In other words, the object is always in control. This principle is called **encapsulation**.
@@ -116,4 +120,6 @@ let c = new Cat("Mittens", "Black");
 * We don't need to look at how the `Object.prototype` is implemented in JS; we just need to know that it is the base object that is always at the very top of the inheritance tree. `Object.prototype` is always present in every JS object.
 * There is a prototype **property** available to all classes, and it always named *prototype*. It can be accessed by typing `ClassName.prototype`.
 * Let's use an example with the Person class.
+
+
 
