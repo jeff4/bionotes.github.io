@@ -4,7 +4,7 @@ permalink: /sed/
 ---
 
 ## 7/09/2023
-* Began reading links abouty **sed** (for stream processing) and **awk** (for delimited columns by Aho, Weinberger, and Kernighan).
+* Began reading links about **sed** (for stream processing) and **awk** (for delimited columns by Aho, Weinberger, and Kernighan).
 * (Reviewed these [two](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.) [links](https://www.makeuseof.com/tag/sed-awk-learn/) again on 8/22. Best to use other sed reources b/c these are very basic.)
  
 ## 7/11 
