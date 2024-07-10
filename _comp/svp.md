@@ -84,4 +84,10 @@ p1.invite();
 ### Properties p. 156
 * Properties aka fields, hold the Class's data. We've already seen some properties already: `firstName` and `lastName`. 
 * Often it is not desirable to provide direct access to properties. (Ah, they use the `#` hashtag standard from ES2022 for private fields!)
+* See `_ch7/3b-private-field-validation.js` for working example version of SVP example on p. 157.
 
+
+## Accessors -- Getters and Setters p. 157
+* Although **accessors** -- like **getters** and **setters** -- *look* like functions b/c they have a `()`. They are in fact *not*. They are **properties** aka data fields.
+* Accessors are declared with the `get` and `set` keywords.
+* Properties cannot be set from the outside *without* the special access method provided by a Class and its instances. In other words, the object is always in control.
