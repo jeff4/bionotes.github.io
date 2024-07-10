@@ -8,7 +8,7 @@ permalink: /svp/
 * Published 2021, Pakt Publishing
 
 ## 7/08/2024
-## Chapter 10: Classes
+## Chapter 7: Classes
 * See proj2 *.js files to see Dog implementations from p. 151.
 * p. 152
 
