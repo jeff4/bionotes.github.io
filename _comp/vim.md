@@ -95,3 +95,6 @@ permalink: /vim/
 #### Example 2
 * to yank from current cursor to end of line and store in register **b**, type `"by$`.
 * to paste item in register **b**, type `"bp`.
+
+## 7/09/2024
+* Equivalent to **Save As...** in macOS / Windows / Office. Type `:w {pathname}/{NEW filename}` will write current file contents into the NEW file. Note that this does *not* save current contents into the current file so you must type `:w` separately to make sure that happens. See more [here](https://stackoverflow.com/a/4980194).
