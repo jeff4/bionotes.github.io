@@ -3,7 +3,7 @@ title: Sed Notes
 permalink: /sed/
 ---
 
-## 7/09/2022
+## 7/09/2023
 * Began reading links abouty **sed** (for stream processing) and **awk** (for delimited columns by Aho, Weinberger, and Kernighan).
 * (Reviewed these [two](https://www.softwaretestinghelp.com/unix-filter-awk-sed-commands/#:~:text=Unix%20provides%20sed%20and%20awk,well%20with%20delimited%20field%20processing.) [links](https://www.makeuseof.com/tag/sed-awk-learn/) again on 8/22. Best to use other sed reources b/c these are very basic.)
  
@@ -322,3 +322,5 @@ Also, whitespace is mostly ignored. So you can format all the expressions in a s
 ## 3/27/2024
 * To grep for files of the form '68-temp.md', '69-competitors', just type `ls | grep 6.-`. B/c `.` refers to a single character of any value, followed by the literal `-`.
 
+## 7/10/2024
+* Used this command `gsed -nr 's|^[0-9]+\.|1.|gp' 93-ideas.md >out.md` to to find every instance of an initial number at the beginning of a line, and replace it with a `1.`. Reason: Original conversion to ordered list in Byword did not insert "1." everywhere, but had actual "1., 2., 3., ..., 134.". 
