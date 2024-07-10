@@ -89,5 +89,20 @@ p1.invite();
 
 ## Accessors -- Getters and Setters p. 157
 * Although **accessors** -- like **getters** and **setters** -- *look* like functions b/c they have a `()`. They are in fact *not*. They are **properties** aka data fields.
+* Very important point: if you try to call an object's properties *as if* it were a function (aka using **()**), you will get an error. So for example,
+```javascript
+class Cat{
+    #name
+    #color
+
+    // Appropriate getters and setters for #name and #color
+
+}
+
+
+let c = new Cat("Mittens", "Black");
+```
+* If one tries to access the cat's name with `c.name()`, **this will cause an error**. But `c.name` will work.
 * Accessors are declared with the `get` and `set` keywords.
-* Properties cannot be set from the outside *without* the special access method provided by a Class and its instances. In other words, the object is always in control.
+* Properties cannot be set from the outside *without* the special access method provided by a Class and its instances. In other words, the object is always in control. This principle is called **encapsulation**.
+
