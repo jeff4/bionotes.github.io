@@ -104,3 +104,16 @@ let c = new Cat("Mittens", "Black");
 * Accessors are declared with the `get` and `set` keywords.
 * Properties cannot be set from the outside *without* the special access method provided by a Class and its instances. In other words, the object is always in control. This principle is called **encapsulation**.
 
+### Inheritance p. 159
+* Example of `Vehicle` that has a `Motorcycle` subclass. See `/proj-2/_ch7-classes/4a-vehicles.js`. 
+* In the `Motorcycle` constructor, we see the **super** keyword. This is calling the constructor function from the parent class `Vehicle`, which means that all the **fields** from superclass Vehicle are also populated; plus all the Vehicle's superclass **methods** are available for free.
+* *Calling **super** is NOT optional.* If you are ever calling a class that is a child of another class, *you must always call `super`.* p. 160
+
+
+### Prototypes p. 161
+* A prototype is the JS mechanism by which it makes possible to create objects. When nothing is specified when creating a class, the objects inherit from the **Object.prototype** prototype.
+* This is a rather complex built-in JS class that we can use.
+* We don't need to look at how the `Object.prototype` is implemented in JS; we just need to know that it is the base object that is always at the very top of the inheritance tree. `Object.prototype` is always present in every JS object.
+* There is a prototype **property** available to all classes, and it always named *prototype*. It can be accessed by typing `ClassName.prototype`.
+* Let's use an example with the Person class.
+
