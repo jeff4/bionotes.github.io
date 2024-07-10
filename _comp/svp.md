@@ -94,11 +94,8 @@ p1.invite();
 class Cat{
     #name
     #color
-
     // Appropriate getters and setters for #name and #color
-
 }
-
 
 let c = new Cat("Mittens", "Black");
 ```
