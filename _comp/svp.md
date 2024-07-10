@@ -119,7 +119,7 @@ let c = new Cat("Mittens", "Black");
 * This is a rather complex built-in JS class that we can use.
 * We don't need to look at how the `Object.prototype` is implemented in JS; we just need to know that it is the base object that is always at the very top of the inheritance tree. `Object.prototype` is always present in every JS object.
 * There is a prototype **property** available to all classes, and it always named *prototype*. It can be accessed by typing `ClassName.prototype`.
-* Let's use an example with the Person class.
-
+* Let's use an example with the Person class p. 161. See `4b-prototype-person.js`.
+* Finished with Chapter 7. 
 
 
