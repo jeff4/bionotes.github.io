@@ -3,7 +3,7 @@ title: Node.JS 2022 onwards
 permalink: /node/
 ---
 
-## 2022 Log
+#NodeJS -- 2022 Log
 
 ## Kiessling Book 1 on Node, Summer 2022
 * p. 7 - What do we need to implement: what tasks must be fulfilled?
@@ -96,4 +96,30 @@ permalink: /node/
 	* Quite good [2018 article](https://blog.laputa.io/understanding-expressjs-d5ef4f4646c8) by Xiao Han. Unfortunately it's a Medium article.
 	* Another [2018 article](https://www.sohamkamani.com/nodejs/expressjs-architecture/)--this one by Soham Kamani. Seems pretty good at first glance.
 
+## 7/11/2024
 ## Back to Kiessling's Node books, Summer 2024
+* got initial program p. 10 working. 
+* Example of **anonymous function** below from p. 11. See also 2b and 2c in `/_k1-node`:
+
+```javascript
+
+function jhExecute( someFunction, inputString ) {
+	someFunction( inputString );
+}
+
+// Calling jhExecute while defining function() as an 
+// *anonymous function*.
+
+jhExecute(
+
+	// paramater 1
+	function (word) {
+		console.log(word)
+	},
+
+	// paramater 2
+	"Is this an input string?"
+);
+```
+
+* Let's go back to the minimal HTTP server again.
