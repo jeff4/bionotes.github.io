@@ -113,7 +113,7 @@ permalink: /node/
 * 8/16 experimented with packaging JS programs into modules with export function. Kiessling p. 15-16
 * 8/17 turns out Kiessling Book 1 is shorter than expected. I skimmed through to the end of it; the second half is actually a preview of a future book.
 
-## 2024 Log
+# 2024 Log
 ### 4/30/2024
 * Set up next.js for mindscale website.
 * See also instructions on [main git page](/git-notes/)
@@ -131,3 +131,7 @@ permalink: /node/
 1. Watched up to 10:11. Have mixed in some jsx already meow.
 
 
+## 7/10/2024
+* Trying to find a good library to read the source code of. Some articles analyzing Express.js.
+	* Quite good [2018 article](https://blog.laputa.io/understanding-expressjs-d5ef4f4646c8) by Xiao Han. Unfortunately it's a Medium article.
+	* Another [2018 article](https://www.sohamkamani.com/nodejs/expressjs-architecture/)--this one by Soham Kamani. Seems pretty good at first glance.
