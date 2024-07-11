@@ -3,6 +3,7 @@ title: Node.JS 2022 onwards
 permalink: /node/
 ---
 
+## 2022 Log
 
 ## Kiessling Book 1 on Node, Summer 2022
 * p. 7 - What do we need to implement: what tasks must be fulfilled?
@@ -20,7 +21,7 @@ permalink: /node/
 	* created jeff_server.js file with *exports.start = start;* as final expression
 	* index.js file just has 2 commands: *var imac_server = require("./jeff_server");* and *imac_server.start();*
 
-## David Flanagan, O'Reilly: JavaScript – The Definitive Guide, 7e 
+## David Flanagan, O'Reilly: JavaScript 7e, Summer 2022
 ### 13 on Asynchronous JavaScript p. 602
 * Discussion of implementing asynch, event-driven for client side and server side JS.
 * Prior to ES6, introduced in 2015, asynch a little more manually implemented. But ES6 introduced [Promises](https://www.freecodecamp.org/news/javascript-promises-explained/). It seems that Kiessling doesn't discuss Promises at all in his first book; there are only a few references to Promises in book 2.
@@ -30,48 +31,7 @@ permalink: /node/
 * Node also defines a number of event-based APIs. p.609
 
 
-## Kyle Simpson - You Don’t Know Javascript Yet, 2e
-
-### [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
-* <del>Chapter 1 - What is Javascript?</del>
-* [Chapter 2 - Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
-* [Chapter 3 - Digging to the Roots of JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md)
-* [Chapter 4 - The Bigger Picture](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch4.md)
-* [Appendix A - Exploring Further](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md)
-* [Appendix B - Practice!](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apB.md)
-
-### [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
-* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/foreword.md)
-* [Chapter 1 - What's the Scope?](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
-* [Chapter 2 - Illustrating Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch2.md)
-* [Chapter 3 - The Scope Chain](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch3.md)
-* [Chapter 4 - Around the Global Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch4.md)
-* [Chapter 5 - The (Not So) Secret Lifecycle of Variables](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch5.md)
-* [Chapter 6 - Limiting Scope Exposure](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch6.md)
-* [Chapter 7 - Using Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)
-* [Chapter 8 - The Module Pattern](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch8.md)
-* [Appendix A: Exploring Further](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/apA.md)
-* [Appendix B: Practice](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/apB.md)
-
-### [Objects and Classes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
-* [Foreward](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/foreword.md)
-* [Chapter 1 - Object Foundations](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch1.md)
-* [Chapter 2 - How Objects Work](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch2.md)
-* [Chapter 3 - Classy Objects](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch3.md)
-* [Chapter 4 - This Works](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)
-* [Chapter 5 - Delegation](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch5.md)
-
-
-
-
-### [Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md) 
-* [Chapter 1 - Primitives](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch1.md)
-* [Chapter 2 - Value Behaviors](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch2.md)
-* [Chapter 3 - Object Values](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch3.md)
-
-
-
-## 2022 Log
+## Other stuff from 2022
 * 6/23/2022 Reinstalled Postgres and updated brew
 * 6/24/2022 Decided transition from version 9 to 14 of Postgres caused too many problems. Spent significant time trying to change default port listening behavior because clients just couldn't connect to main Postgres server. Decided my needs were well met by a simple SQLite3 database instead. Built a quick and simple CRUD app with Node.js, Express, and SQLite as the data store using [this tutorial](https://medium.com/swlh/creating-a-crud-application-using-node-js-and-sqlite3-a57d4a39ab69).
 	* found a few errors but with some modifications I could get this work. Also used TablePlus as a GUI db browser to verify. 
@@ -135,3 +95,5 @@ permalink: /node/
 * Trying to find a good library to read the source code of. Some articles analyzing Express.js.
 	* Quite good [2018 article](https://blog.laputa.io/understanding-expressjs-d5ef4f4646c8) by Xiao Han. Unfortunately it's a Medium article.
 	* Another [2018 article](https://www.sohamkamani.com/nodejs/expressjs-architecture/)--this one by Soham Kamani. Seems pretty good at first glance.
+
+## Back to Kiessling's Node books, Summer 2024
