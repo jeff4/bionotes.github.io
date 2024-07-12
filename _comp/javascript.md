@@ -41,7 +41,7 @@ permalink: /javascript/
 * [Chapter 2 - Value Behaviors](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch2.md)
 * [Chapter 3 - Object Values](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/ch3.md)
 
-## 2024 Log
+# 2024 Log
 
 ### 6/19/2024
 #### setting up authentication
@@ -1288,6 +1288,23 @@ n.times (
 * Section 9.5.2  then shows how to subclass using modern ES6 syntax using `class` and `extends` keywords.
 * Then, Section 9.5.3 talkes about using using object composition (aka **delegation**) instead of inheritance; this avoids subclasses entirely.
 * Section 9.5.4 (p. 440) discusses **Class Hierarchies and Abstract Classes**.
+
+## 7/10/2024 - Flanagan Chapter 10: Modules p. 450
+### Three types of modules
+1. Do-it-yourself modules using JS classes, objects, and closures
+2. Pre-ES6 `require()` and `module.exports = someValue` functions exemplified by Node. Aka [CommonJS](https://en.wikipedia.org/wiki/CommonJS) (CJS).
+3. Introduced in 2015, native modularity through `import()`, `import`, and `export`. Per this [w3schools summary of ES6](https://www.w3schools.com/js/js_es6.asp#mark_modules), this built-in functionality was only introduced to JS in ES6. AKa [ESM](https://hacks1.wpenginepowered.com/2018/03/es-modules-a-cartoon-deep-dive/) aka ES Modules.
+
+
+
+### Other info
+* See here for an [Oct 2023 LinkedIn article](https://www.linkedin.com/pulse/what-commonjs-esm-format-manoj-shrestha/) discussing the difference between Approach #2 (Node / CJS) vs. Approach #3 (ESM, modern `import/export`).
+* See also this [2023 history of JS modules](https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer).
+
+
+
+
+
 
 
 ## register info
