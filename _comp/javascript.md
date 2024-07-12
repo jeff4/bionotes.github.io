@@ -1292,8 +1292,8 @@ n.times (
 ## 7/10/2024 - Flanagan Chapter 10: Modules p. 450
 ### Three types of modules
 1. Do-it-yourself modules using JS classes, objects, and closures
-2. Pre-ES6 `require()` and `module.exports = someValue` functions exemplified by Node. Aka [CommonJS](https://en.wikipedia.org/wiki/CommonJS) (CJS).
-3. Introduced in 2015, native modularity through `import()`, `import`, and `export`. Per this [w3schools summary of ES6](https://www.w3schools.com/js/js_es6.asp#mark_modules), this built-in functionality was only introduced to JS in ES6. AKa [ESM](https://hacks1.wpenginepowered.com/2018/03/es-modules-a-cartoon-deep-dive/) aka ES Modules.
+2. Pre-ES6 `require()` and `module.exports = someValue` functions exemplified by Node. **Aka [CommonJS](https://en.wikipedia.org/wiki/CommonJS) (CJS).**
+3. Introduced in 2015, native modularity through `import()`, `import`, and `export`. Per this [w3schools summary of ES6](https://www.w3schools.com/js/js_es6.asp#mark_modules), this built-in functionality was only introduced to JS in ES6. **aka [ESM](https://hacks1.wpenginepowered.com/2018/03/es-modules-a-cartoon-deep-dive/) aka ES Modules.**
 
 
 
