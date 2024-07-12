@@ -166,7 +166,11 @@ console.log("Query completed!");
 
 ```javascript
 database.query( 
+
+	// param 1
 	"Select * From big_table", 
+
+	// param 2
 	function(rows)  {
 		let result = rows;
 	}
@@ -176,8 +180,14 @@ console.log("Query completed!");
 
 ```
 
-
-
+#### More commentary on asynch p. 13
+* In *Version 1*, the code was synchronous. **First**, do the DB query. And then--only *after* the query is finished, **secondly** print "Query completed".
+* In *Version 2*, the code is asyncronous, assuming that the `database.query()` is part of an asynch library like Node.js.
+* In *V2*, the code sends teh query to the DB. But now, instead of waiting for the query to complete, the code makes a 'mental note' that says: 
+	'When at some point in the future, the DB server is finished and I get back the results of the query, then I must execute the anonymous function that was passed to *database.query()*'.
+* And before we hear back from the DB server, the Node server *immediately executes *console.log()* and then enters teh **event loop**.
+* Node.js continuously cycles through this loop again and again whenever there is nothing else to do, waiting for events. Events like, e.g., a slow database query finally delivering its results.
+* This also explains why our HTTP server needs a function it can call upon incoming requestsi-- if Node.js would start the server and then just pause, waiting for the next request, continuing only when it arrives, that would be highly inefficent. If a second user requests the server while it is still serving the first request, that second request could only be answered after the first one is done--as soon as you have more than a handful of HTTP requests per second, this wouldn’t work at all.
 
 
 
