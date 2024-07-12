@@ -123,3 +123,61 @@ jhExecute(
 ```
 
 * Let's go back to the minimal HTTP server again.
+* By now it should be clear what we are actually doing here: we pass the createServer function an anonymous function.  We could achieve the same by refactoring our code to:
+
+```javascript
+let httpObj = require("http");
+
+function onRequest( request, response) {
+	response.writeHead(200, {"Content-Type": "text/plain"});
+	response.write("Hello v 3a!");
+	response.end();
+}
+
+httpObj.createServer(onRequest).listen(4321);
+```
+
+* Note how there is an embedded call of the onRequest() function, who's paramters are fed in from the http.listen() function call. compare `3a.js` with `2a.js`.
+
+### Event-driven asynch callbacks p. 12
+* Node's approach is different than that used in the runtimes for Java, Python, Ruby, and PHP.
+* Uses the example of a database query. 
+* Assume we are using a PHP web server. 
+	1. The PHP server would spawn a new thread for each database request. Call it **thread1**. 
+	1. It's ok if thread1 just hangs until the DB returns perhaps millions of rows, b/c the PHP server is multi-threaded.
+	1. So the PHP thread can just keep spawning new threads for new requests etc. And each of the threads would no block each other, so the server would stay reponsive.
+	1. The web server starts its own PHP process for every HTTP request it receives. 
+	1. If one of these requests results in the execution of a slow piece of code, it results in a slow page load for this particular user, but other users requesting other pages would not be affected.
+* Now, let's see the same situation with a NodeJS server.
+	1. Node only has *one* process
+	1. If there is a slow database query somewhere in this process, this affects the whole proces--everything comes to a halt until the slow query has finished. 
+	1. This delays the experience for *every single client user* interacting with the Node server.
+* To avoid this, JavaScript, and therefore Node.js, introduces the concept of event-driven, asyn- chronous callbacks, by utilizing an event loop.
+
+#### Version 1: DB query without asynch promise
+* This will be slow b/c the `Query completed!` print statement will not happen until after the DB query has returned all the rows.
+
+```javascript
+let result = database.query("Select * From big_table");
+console.log("Query completed!");
+```
+
+#### Version 2: DB query using asynch promise
+
+```javascript
+database.query( 
+	"Select * From big_table", 
+	function(rows)  {
+		let result = rows;
+	}
+);
+
+console.log("Query completed!");
+
+```
+
+
+
+
+
+
