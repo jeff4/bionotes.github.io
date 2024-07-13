@@ -1296,13 +1296,17 @@ n.times (
 3. Introduced in 2015, native modularity through `import()`, `import`, and `export`. Per this [w3schools summary of ES6](https://www.w3schools.com/js/js_es6.asp#mark_modules), this built-in functionality was only introduced to JS in ES6. **aka [ESM](https://hacks1.wpenginepowered.com/2018/03/es-modules-a-cartoon-deep-dive/) aka ES Modules.**
 
 
+## 7/12/2024
 
 ### Other info
 * See here for an [Oct 2023 LinkedIn article](https://www.linkedin.com/pulse/what-commonjs-esm-format-manoj-shrestha/) discussing the difference between Approach #2 (Node / CJS) vs. Approach #3 (ESM, modern `import/export`).
 * See also this [2023 history of JS modules](https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer) by Devlin Glasman.
 	* Might be a *fourth* approach from the the Glasman article involving AMD (Asynchronous Module Definition), which is used by the package [RequireJS](https://www.tutorialspoint.com/requirejs/requirejs_quick_guide.htm). RequireJS was created in 2009 by David Mark.
 
-
+### Big picture and next steps
+* To better understand the various module systems (esp Node-styl CJS and ES6-style ESM), should re-implement Example 9-8. That's the foundation for going through the examples in Chapter 10 on modules.
+* After we are satisfied with Chapter 10 on Modules, jump to Flanagan Chapter 15 on modern Web Programming with JS. 
+* Note also from p. 715 (text box) : 'there is no longer any need for this book to document [legacy web APIs]  or for you to learn about them. **The web platform has matured and stabilized, and if you are a seasoned web developer who remembers the fourth or fifth edition of this book, then you may have as much outdated knowledge to forget as you have new material to learn.**'
 
 
 
