@@ -1306,7 +1306,7 @@ n.times (
 ### Big picture and next steps
 * To better understand the various module systems (esp Node-styl CJS and ES6-style ESM), should re-implement Example 9-8. That's the foundation for going through the examples in Chapter 10 on modules.
 * After we are satisfied with Chapter 10 on Modules, jump to Flanagan Chapter 15 on modern Web Programming with JS. 
-* Note also from p. 715 (text box) : 'there is no longer any need for this book to document [legacy web APIs]  or for you to learn about them. **The web platform has matured and stabilized, and if you are a seasoned web developer who remembers the fourth or fifth edition of this book, then you may have as much outdated knowledge to forget as you have new material to learn.**'
+* Note also from p. 715 (text box) : 'there is no longer any need for this book [as of early 2020] to document [legacy web APIs]  or for you to learn about them. **The web platform has matured and stabilized, and if you are a seasoned web developer who remembers the fourth or fifth edition of this book, then you may have as much outdated knowledge to forget as you have new material to learn.**'
 
 
 
