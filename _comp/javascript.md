@@ -1299,7 +1299,8 @@ n.times (
 
 ### Other info
 * See here for an [Oct 2023 LinkedIn article](https://www.linkedin.com/pulse/what-commonjs-esm-format-manoj-shrestha/) discussing the difference between Approach #2 (Node / CJS) vs. Approach #3 (ESM, modern `import/export`).
-* See also this [2023 history of JS modules](https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer).
+* See also this [2023 history of JS modules](https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer) by Devlin Glasman.
+	* Might be a *fourth* approach from the the Glasman article involving AMD (Asynchronous Module Definition), which is used by the package [RequireJS](https://www.tutorialspoint.com/requirejs/requirejs_quick_guide.htm). RequireJS was created in 2009 by David Mark.
 
 
 
