@@ -1308,6 +1308,7 @@ n.times (
 * After we are satisfied with Chapter 10 on Modules, jump to Flanagan Chapter 15 on modern Web Programming with JS. 
 * Note also from p. 715 (text box) : 'there is no longer any need for this book [as of early 2020] to document [legacy web APIs]  or for you to learn about them. **The web platform has matured and stabilized, and if you are a seasoned web developer who remembers the fourth or fifth edition of this book, then you may have as much outdated knowledge to forget as you have new material to learn.**'
 
+## 7/13/2024
 
 
 
