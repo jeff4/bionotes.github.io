@@ -1359,7 +1359,8 @@ const BitSet = (
 
 * In the above code (p. 451-452), the public API of the module is in the `return class BitSet extends...` part at the very end. The class can use the private functions and constants defined earlier, but will be hidden from users of the class.
 * This approach to modularity becomes more interesting when we have more than one item in it.
-* See this sample "Stats module" for example (p. 452):
+
+#### Stats Module example p. 452
 
 ```javascript
 const stats = ( 
@@ -1390,7 +1391,7 @@ const stats = (
 );
 ```
 
-* And here is a test of how we might use the module
+* And here is a test of how we might use the Stats module
 
 ```javascript
 let x = stats.mean([1, 3, 5, 7, 9]);
