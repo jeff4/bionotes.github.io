@@ -1485,19 +1485,6 @@ let average = statsObj.mean([...b]); // average = 20
  
 
 
-
-
-
-
-
-
-
-
-
-```
-
-
-
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
