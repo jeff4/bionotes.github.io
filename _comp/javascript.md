@@ -1474,7 +1474,6 @@ let average = statsObj.mean([...b]); // average = 20
 * In Node programming, it is normal to split programs into as many small files as seem natural.
 * These files of JS code are assumed to all live on a fast filesystem.
 * Unlike web browsers, which have to read JS files over a slow / unstable network connection, there is no need or benefit to bundling a Node program into a single JS file.
-
 * In Node, each file is an independent module with a private namespace.* In Node, constants, variables, functions, and classes defined in one file are **private to that file** *unless* the file explicitly exports them.
 * Values exported by one Node module are only visible to another module if the target module *explicitly* imports them.
 * Node modules import other modules with the **require()** function and export their public API by: (1) setting properties of the Expots object or (2) replacing the `module.exports` object entirely.
@@ -1483,7 +1482,45 @@ let average = statsObj.mean([...b]); // average = 20
 ### Section 10.2.1 Node Exports p. 455
 * Node defines a global `exports` object that is always available.
 * If one is writing a Node module that exports multiple values, one can simply assign them to the properties of this object:
- 
+
+```javascript
+const sum  = ( x, y ) => x + y;
+const square = x => x * x;
+
+exports.mean = data => data.reduce(sum) / data.length;
+exports.stddev = function(d) {
+    let m = exports.mean(d);
+    return Math.sqrt(
+        d.map( x => x - m).reduce(sum) / (d.length-1)
+    );
+};
+```
+
+* Often, however, you want to define a module that exports only a *single* function or class rather than an object full of functions or classes.
+* To do this, you simply assign the single value you want to export to **module.exports** like so:
+
+```javascript
+module.exports = class BitSet extends AbstractWritableSet {
+    // implementation omitted...
+};
+```
+
+* The default value of `module.exports` is the same object that `exports` refers to.
+* In the previous stats module, we could have assigned the mean function to `module.exports.mean` instead of `exports.mean`.
+* Another approach with modules like the stats module is to export a single object at *the end of the module*, rather than exporting functions one by one as you go:
+
+```javascript 
+// Define all functions, public and private
+const sum
+const square
+const mean = data => data.reduce
+const stddev = d => {
+};
+
+// Now export only the public ones
+module.exports = { mean, stddev };
+```
+### Section 10.2.2 Node Imports p. 456
 
 
 ## register info
