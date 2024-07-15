@@ -1315,7 +1315,7 @@ n.times (
 	* See `_df9/19-ex-9-8-commented.js` for commented version.
 
 ## 7/15/2024 - Back to Chapter 10
-### 10.1 Modules for Classes and Closures
+## 10.1 Modules for Classes and Closures
 * p. 450
 * Consider Example 9-8, (Flanagan p. 441), which defined several classes, all of which had a *has()* method. 
 * One would have no problem writing JS that uses the several classes and subclasses of Set from 9-8.
@@ -1469,7 +1469,7 @@ let average = statsObj.mean([...b]); // average = 20
 * It's also a nice intro to the **require()** function used in Node.
 
 
-### Section 10.2 Modules in Node
+## Section 10.2 Modules in Node
 * p. 454
 * In Node programming, it is normal to split programs into as many small files as seem natural.
 * These files of JS code are assumed to all live on a fast filesystem.
