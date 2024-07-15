@@ -1328,6 +1328,81 @@ n.times (
 	* Instead of defining global classes with names like SingletonSet and BitSet, we could have simply defined *one* global `Sets` class with *properties* for **SingletonSet** and **BitSet**.
 	* If we had done that, then users of the `Sets` library would access them via syntax like `Sets.Singleton` and `Sets.Bit`.
 
+### Examples of private functions and variables
+* p. 451
+* As seen in Section 8.6 on Closures (p. 376), local variables and nested functions--declared inside another function-- are private to that function.
+* This means we can use IIFE (immediately invoked function expressions) to achive a kind of modularity.
+* At the same time, we can make the public API of our module return the value of functions.
+* Consider the BitSet class. We could structure the module like so:
+
+```javascript
+const BitSet = ( 
+	function() {
+	
+		// Private implementation details here
+		
+		function isValid(set, n) { ... }
+		function has( set, byte, bit ) { ...}
+		
+		const BITS = new Uint8Array( [ 1, 2, 4, 8, 16, 32, 64, 128] );
+	
+		const MASKS = new Uint8Array( [ ~1, ~2, ~4, ~8, ~16, ~32, ~64, ~128] );
+	
+		return class BitSet extends AbstractWritableSet {
+			// implementation omitted
+	
+			...
+		};
+	} () 
+);
+```
+
+* In the above code (p. 451-452), the public API of the module is in the `return class BitSet extends...` part at the very end. The class can use the private functions and constants defined earlier, but will be hidden from users of the class.
+* This approach to modularity becomes more interesting when we have more than one item in it.
+* See this sample "Stats module" for example (p. 452):
+
+```javascript
+const stats = ( 
+	function() {
+		
+		// Utility functions private to the Stats module
+		const sum = (x, y) => x + y;
+		const square = x => x * x;
+
+		// A public function that will be exported
+		function mean(data) {
+			return data.reduce(sum) / data.length;
+		}
+
+		// A public function that we will export
+		function stddev( data ) {
+			let m = mean(data);
+			return Math.sqrt(
+				data.map( x=> x-m ).map(square).reduce(sum) / (data.length-1)
+			);
+		}
+
+		// We export the public function as properties of an object
+		return {
+			mean, stddev
+		};
+	}()
+);
+```
+
+* And here is a test of how we might use the module
+
+```javascript
+let x = stats.mean([1, 3, 5, 7, 9]);
+let y = stats.stddev([1, 3, 5, 7, 9]);
+
+console.log(x);
+console.log(y);
+```
+
+* Tested code above in `live-server`, and it works.
+
+
 
 
 
