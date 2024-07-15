@@ -1309,13 +1309,23 @@ n.times (
 * Note also from p. 715 (text box) : 'there is no longer any need for this book [as of early 2020] to document [legacy web APIs]  or for you to learn about them. **The web platform has matured and stabilized, and if you are a seasoned web developer who remembers the fourth or fifth edition of this book, then you may have as much outdated knowledge to forget as you have new material to learn.**'
 
 ## 7/14/2024
-* Got Example 9-8 fully built `Sets.js` Class hierarcy of new sets working.
+* Got Example 9-8 (Flanagan p. 441) fully built `Sets.js` Class hierarcy of new sets working.
 	* See `_df9/18-ex-9-8.js` for uncommented version.
 * Created fully commented version of `Sets.js` Class hierarcy of new sets. Verified that it's still working.
 	* See `_df9/19-ex-9-8-commented.js` for commented version.
 
 ## 7/15/2024 - Back to Chapter 10
-* 
+### 10.1 Modules for Classes and Closures
+* p. 450
+* Consider Example 9-8, (Flanagan p. 441), which defined several classes, all of which had a *has()* method. 
+* One would have no problem writing JS that uses the several classes and subclasses of Set from 9-8.
+	* ...because e.g., there is no danger that the `SingletonSet` class's *has()* method will overwrite the `BitSet` class's *has()* method.
+* The reason that methods of one class are independent of the methods of other, unrelated classes, is that the methods of each class are defined as **properties** of *independent prototype objects*. 
+* The reason that classes are modular is that *objects are modular*.* Defining a property in a JS object is a lot like declaring a variable. But adding properties to objects doe snot affect the global namespace of a program; nor doe sit affect the properties of other objects.
+* JS defines many math functions and constants. But instead of defining all of them globally, they are logically grouped as properties of the single global `Math` JS object.
+* We could have used the same strategy with *Example 9-8* (p. 441). 
+	* Instead of defining global classes with names like SingletonSet and BitSet, we could have simply defined *one* global `Sets` class with *properties* for **SingletonSet** and **BitSet**.
+	* If we had done that, then users of the `Sets` library would access them via syntax like `Sets.Singleton` and `Sets.Bit`.
 
 
 
