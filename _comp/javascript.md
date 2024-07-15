@@ -1322,7 +1322,7 @@ n.times (
 	* ...because e.g., there is no danger that the `SingletonSet` class's *has()* method will overwrite the `BitSet` class's *has()* method.
 * The reason that methods of one class are independent of the methods of other, unrelated classes, is that the methods of each class are defined as **properties** of *independent prototype objects*. 
 * The reason that classes are modular is that *objects are modular*.
-* Defining a property in a JS object is a lot like declaring a variable. But adding properties to objects doe snot affect the global namespace of a program; nor doe sit affect the properties of other objects.
+* Defining a property in a JS object is a lot like declaring a variable. But adding properties to objects does not affect the global namespace of a program; nor doe sit affect the properties of other objects.
 * JS defines many math functions and constants. But instead of defining all of them globally, they are logically grouped as properties of the single global `Math` JS object.
 * We could have used the same strategy with *Example 9-8* (p. 441). 
 	* Instead of defining global classes with names like SingletonSet and BitSet, we could have simply defined *one* global `Sets` class with *properties* for **SingletonSet** and **BitSet**.
@@ -1474,6 +1474,7 @@ let average = statsObj.mean([...b]); // average = 20
 * In Node programming, it is normal to split programs into as many small files as seem natural.
 * These files of JS code are assumed to all live on a fast filesystem.
 * Unlike web browsers, which have to read JS files over a slow / unstable network connection, there is no need or benefit to bundling a Node program into a single JS file.
+
 * In Node, each file is an independent module with a private namespace.* In Node, constants, variables, functions, and classes defined in one file are **private to that file** *unless* the file explicitly exports them.
 * Values exported by one Node module are only visible to another module if the target module *explicitly* imports them.
 * Node modules import other modules with the **require()** function and export their public API by: (1) setting properties of the Expots object or (2) replacing the `module.exports` object entirely.
