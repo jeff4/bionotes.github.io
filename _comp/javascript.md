@@ -1403,7 +1403,16 @@ console.log(y);
 
 * Tested code above in `live-server`, and it works.
 
+### Section 10.1.1 Automating Closure-Based Modularity
+* p. 453. It's a fairly mechanical process to transform a file of JS into this kind of module by inserting some text at the beginning and the end of the file.
+* All that is needed is some convention for the file of JS code to indicate which values are to be exported and which are not.
+* Imagine a tool that takes a set of files, wraps the content of each of those files within an IIFE (immediatel invoked function expression), keeps track of the return value of each function, and concats everything into one giant file.
+* The result might look something like the belwo
 
+#### Bundle of Sets.js and Stats.js
+
+```javascript
+```
 
 
 
