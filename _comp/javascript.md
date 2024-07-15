@@ -1407,11 +1407,93 @@ console.log(y);
 * p. 453. It's a fairly mechanical process to transform a file of JS into this kind of module by inserting some text at the beginning and the end of the file.
 * All that is needed is some convention for the file of JS code to indicate which values are to be exported and which are not.
 * Imagine a tool that takes a set of files, wraps the content of each of those files within an IIFE (immediatel invoked function expression), keeps track of the return value of each function, and concats everything into one giant file.
-* The result might look something like the belwo
+* The result might look something like the below.
 
 #### Bundle of Sets.js and Stats.js
 
 ```javascript
+const jhModules = {};
+
+function require( moduleName) {
+	return jhModules[moduleName];
+}
+
+jhModules["sets.js"] = ( 
+	function() {
+		const exports = {};
+	
+		// contents of the sets.js file go here:
+		exports.BitSet = class BitSet {...};
+	
+		return exports;
+	} ()
+);
+
+jhModules["stats.js"] = (
+	function() {
+		const exports = {};
+
+		// contents of the stats.js file go here:
+		const sum = (x, y) => x + y;
+		const square = x => x * x;
+
+		exports.mean = function( data ) { ... };
+		exports.stddev = function( data ) { ... };
+	
+		return exports;
+	} ()
+);
+```
+
+* With the `sets.js` and `stats.js` modules bundled into a single file as above, we could write code like below to use those modules.
+
+```javascript
+
+// Get references to the modules that we need
+const statsObj = require("stats.js");
+const bitSetObj = require("sets.js");
+
+// Now create objects since those modules are now available
+// aka, sets.js and stats.js have been imported
+
+let b = new bitSetObj(100);
+
+b.insert(10);
+b.insert(20);
+b.insert(30);
+
+let average = statsObj.mean([...b]); // average = 20
+```
+
+* The code above is a rough sketch about how code-bundling tools such as `webpack` and `Parcel` for web browsers work.
+* It's also a nice intro to the **require()** function used in Node.
+
+
+### Section 10.2 Modules in Node
+* p. 454
+* In Node programming, it is normal to split programs into as many small files as seem natural.
+* These files of JS code are assumed to all live on a fast filesystem.
+* Unlike web browsers, which have to read JS files over a slow / unstable network connection, there is no need or benefit to bundling a Node program into a single JS file.
+* In Node, each file is an independent module with a private namespace.* In Node, constants, variables, functions, and classes defined in one file are **private to that file** *unless* the file explicitly exports them.
+* Values exported by one Node module are only visible to another module if the target module *explicitly* imports them.
+* Node modules import other modules with the **require()** function and export their public API by: (1) setting properties of the Expots object or (2) replacing the `module.exports` object entirely.
+
+
+### Section 10.2.1 Node Exports p. 455
+* Node defines a global `exports` object that is always available.
+* If one is writing a Node module that exports multiple values, one can simply assign them to the properties of this object:
+ 
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 
