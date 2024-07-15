@@ -354,10 +354,10 @@ Also, whitespace is mostly ignored. So you can format all the expressions in a s
 	* Ensure you have no additional or missing spaces in the pattern. If it still doesn't work, consider double-checking the actual text and ensuring the spaces and digits are matched correctly. 
 	
 	### Use initial \v to invoke _very magic_mode in vim
-	If the issue persists, here’s an alternative approach using `\v` (very magic) which simplifies the escaping:
+	* If the issue persists, here’s an alternative approach using `\v` (very magic) which simplifies the escaping:
 	
 	```vim
 	:%s/\v(\d\.)/~\1/gc
 	```
 	
-	Using `\v` at the beginning of the pattern makes Vim treat most characters as literal, reducing the need for excessive escaping.
+	* Using `\v` at the beginning of the pattern makes Vim treat most characters as literal, reducing the need for excessive escaping.
