@@ -1310,7 +1310,14 @@ n.times (
 
 ## 7/14/2024
 * Got Example 9-8 fully built `Sets.js` Class hierarcy of new sets working.
+	* See `_df9/18-ex-9-8.js` for uncommented version.
 * Created fully commented version of `Sets.js` Class hierarcy of new sets. Verified that it's still working.
+	* See `_df9/19-ex-9-8-commented.js` for commented version.
+
+## 7/15/2024 - Back to Chapter 10
+* 
+
+
 
 
 ## register info
