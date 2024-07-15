@@ -1310,7 +1310,7 @@ n.times (
 
 ## 7/14/2024
 * Got Example 9-8 fully built `Sets.js` Class hierarcy of new sets working.
-
+* Created fully commented version of `Sets.js` Class hierarcy of new sets. Verified that it's still working.
 
 
 ## register info
