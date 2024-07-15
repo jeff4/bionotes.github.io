@@ -324,3 +324,40 @@ Also, whitespace is mostly ignored. So you can format all the expressions in a s
 
 ## 7/10/2024
 * Used this command `gsed -nr 's|^[0-9]+\.|1.|gp' 93-ideas.md >out.md` to to find every instance of an initial number at the beginning of a line, and replace it with a `1.`. Reason: Original conversion to ordered list in Byword did not insert "1." everywhere, but had actual "1., 2., 3., ..., 134.". 
+
+## 7/15/2024
+* Wasn't *quite* able to get this regx working, but it was still an interesting exercise in vim. from ChatGPT
+* It looks like the issue might be related to how the escape sequences are interpreted in Vim. In Vim, you need to escape the backslashes properly. Let's adjust your command accordingly:
+
+```vim
+:%s|\(\d\.\)|~\1|gc
+```
+
+* In Vim, the escape sequence for capturing groups should be `\(\)`, and to match a digit, you can use `\d`. Try this corrected command:
+
+```vim
+:%s|\(\d\.\)|~\1|gc
+```
+
+* If you want to include a space before the digit, ensure you have a space in the pattern:
+
+```vim
+:%s| \(\d\.\)| ~\1|gc
+```
+
+* Let's break it down again:
+- `:%s| \(\d\.\)| ~\1|gc` - Search and replace command in Vim.
+- ` ` (space) - Matches a literal space.
+- `\(\d\.\)` - Captures a digit followed by a period.
+- ` ~\1` - Replaces with a space, a tilde, and the captured group.
+
+* Ensure you have no additional or missing spaces in the pattern. If it still doesn't work, consider double-checking the actual text and ensuring the spaces and digits are matched correctly. 
+
+### Use initial **\v** to very magic
+If the issue persists, here’s an alternative approach using `\v` (very magic) which simplifies the escaping:
+
+```vim
+:%s/\v(\d\.)/~\1/gc
+```
+
+Using `\v` at the beginning of the pattern makes Vim treat most characters as literal, reducing the need for excessive escaping.
