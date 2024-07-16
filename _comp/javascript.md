@@ -1521,13 +1521,81 @@ const stddev = d => {
 // Now export only the public ones
 module.exports = { mean, stddev };
 ```
-### Section 10.2.2 Node Imports p. 456
-
 
 ## 7/16/2024
 ### Experimenting with simple node module loading
 * From [W3Schools](https://www.w3schools.com/nodejs/nodejs_modules.asp), how to create and import node modules.
 * See `k1-node/3b` which loads `jhModule.js`.
+
+
+
+### Section 10.2.2 Node Imports p. 456
+* A Node module imports any other module by calling the **require()** function.
+* The argument to this function is the mae of the module to be imported. 
+* The return value of `require()` is whatever that module exports--typically, this is a function, a class, or an object.
+* If one wants to import a system module that is built into Node *or* a module that one has installed via *npm* or a similar package mgr, then one can simply used the **unqualified name** of the module. 
+	* i.e., no `/` characters are needed to turn it into a filesystem path.
+* Example. The filesystem module **fs** is built into Node. The express web server framework **express** is *not* built into Node. But since Express was installed via NPM on the local filesystem, it is invoked in the same way:
+
+```javascript
+
+// Create a local fsObject by importing the "fs" module
+const fsObject = require( "fs" ); 
+
+// Create a local expressObject by importing the "Express" module
+const expressObject = require( "express" ); 
+
+```
+
+* When one imports a module of one's own code, the module name should be the path to the file that contains that code, relative to the current module's directory.
+	* It is legal to use absolute paths with a `/` character.
+	* However, it is more typical to begin with `./` or `../` to indicate that they are in the current directory or relative to somewhere in the parent directory.
+* When a module exports just a single function or class, one just needs the `require()` command.
+* **However, when you are importing an object with multiple properties**, you have a choice: 
+	1. Import the entire object with all it's functions
+	1. Import the specific properties only (using the destructuring assignment)
+
+```javascript
+
+/* Approach 1a: import entire object
+ */
+const statsObject = require('./stats.js');
+
+/* Approach 1b: import entire Stats object but specify that we 
+ * that we *only* want the 'mean' property to calcuate avgs
+ */
+let meanObject = statsObject.mean(data);
+
+/* Approach 2: Use idiomatic destructing assignment
+ * to import precisely the exact functions we want
+ * directly from the local namespace
+ */
+const { stddev } = require( './stats.js');
+
+// The below is pretty succinct but loses the context provided
+// by the 'stats' prefix to the stddev() function.
+let sdObject = stddev( data );
+```
+
+### Section 10.2.3 Node-style modules for the web browser
+* Exports with an Exports object and a **require()** function are built into Node. 
+* But if we are willing ot process our files with bundling tools like *webpack*, then it is possible to to use node-style modules (aka CJS aka (CommonJS)[https://en.wikipedia.org/wiki/CommonJS]) for code targeted at web browsers.
+* This used to be quite common before ES6. However, now that JS has its own native import/export module syntax, that might become less common.
+
+
+### 10.3 Native modules in ES6
+* ES6 Modules aka ES Modules (aka [ESM](https://nodejs.org/api/esm.html#introduction)), differ from CommonJS in two ways: (1) the syntax for importing and exporting; and (2) how modules are defined in web brosers.
+
+#### Other differences between ESM 'old-fashioned JS scripts for the web'
+1. Most obvious difference is the modularity. Aka, in regular scripts, top-level declarations of variables, functions, classes, all go into the smae global context shared by all the scripts.
+	* In contrast, whether using CommonJS or ESM, modules create their own private context.
+1. Code inside a ESM module is always in **strict mode**. In fact, ESM modules are by default in a sort of 'super-strict mode' more than even Node modules. See p. 459 Flanagan for more.
+
+
+### Section 10.3.1 ESM Exports
+* Under ES6, ESM modules simply add the `export` keyword before the declaration. 
+* Approach 1, scatter exports all over your code
+
 
 
 ## register info
