@@ -1524,6 +1524,12 @@ module.exports = { mean, stddev };
 ### Section 10.2.2 Node Imports p. 456
 
 
+## 7/16/2024
+### Experimenting with simple node module loading
+* From [W3Schools](https://www.w3schools.com/nodejs/nodejs_modules.asp), how to create and import node modules.
+* See `k1-node/3b` which loads `jhModule.js`.
+
+
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
