@@ -1594,7 +1594,51 @@ let sdObject = stddev( data );
 
 ### Section 10.3.1 ESM Exports
 * Under ES6, ESM modules simply add the `export` keyword before the declaration. 
-* Approach 1, scatter exports all over your code
+* Approach 1, scatter `export`keywords all over your code
+
+```javascript
+export constant numberPi = Math.PI;
+
+export function degreesToRadians(d) {
+	return d * numberPi / 180;
+}
+
+export class Circle {
+	constructor(r) { this.r = r; }
+	area() {
+		return numberPi * this.r * this.r;
+	}
+}
+```
+
+* Approach 2: Define constants, variables, functions, classes as normal with *no* export keywords. And then, only at the end, write a single export statement that declares what will be exported all in a single block.
+
+```javascript
+
+constant numberPi = Math.PI;
+
+function degreesToRadians(d) {
+	return d * numberPi / 180;
+}
+
+class Circle {
+	constructor(r) { this.r = r; }
+	area() {
+		return numberPi * this.r * this.r;
+	}
+}
+
+// NEW consolidated export statment 
+export {
+	Circle,
+	degreesToRadians,
+	numberPi
+};
+```
+
+#### Default exports
+* see p. 461
+
 
 
 
