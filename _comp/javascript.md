@@ -1733,6 +1733,43 @@ import { render as renderUI } from "./ui.js";
 * **The defer attribute** of the `<script>` tag causes the browser to defer execution of the script until after the document has been fully loaded and is ready to be manipulated.
 * **The async attribute** of the `<script>` tag causes the browser to run the script as soon as possible but *does not block document parsing while the JS is being downloaded* to the client browser.
 * If a `<script>` tag has both attributes, the **async** attribute takes precedence.
+* Scripts with the **type="module"** attribute are automatically executed after the document has been downloaded to the client; as if it had the **defer** attribute. This can be overridden by paring type=module with an **async** attribute in the same `<script>` tag.
+
+### Brief intro to the DOM
+* p. 722
+* Much more detail on the DOM in Section 15.3 (p. 760).
+* The DOM API mirrors the tree structure of an HTML document. 
+* For every HTML tag in the document, there is a corresponding JS *Element* object.
+* For every run of text in the HTML document, there is a corresponding JS *Text* object.
+* The *Element*,*Text*, and *Document* classes are all subclasses of the **Node** superclass.
+* *Node* objects are organized into a tree structure that JS can query and traverse using the DOM API.
+* The DOM API includes methods for creating new **Element** and **Text** nodes, inserting them into the document as children of other **Element** objects, moving them around the document, and for deleting them from the document.
+* There is a JS class that corresponds to every single HTML tag type.
+* Each occurrence of a tag in a document is represented by an instance of the class. Examples:
+* The HTML `<body>` tag is represented by an instance of the JS **HTMLBodyElement** class.
+* The HTML `<table>` tag is represented by an instance of the JS **HTMLTableElement** class.
+* The HTML `<img>` tag is represented by an instance of the JS **HTMLImageElement** class. Note also that HTMLImage has a JS `src` property that corresponds to the *src* attribute of the HTML `<img>` tag.
+
+### 15.1.3 The Global Object in Client Browsers
+* There is one global object per browser or tab.
+* All the JS code running in that window shares that same global object.
+* This is true regardless of how many scripts or modules in the document. Furthermore, that means that any property is visible to all other scripts.
+* The global object is where the JS standard library is defined, including the **parse()** function, the `Math` object, the `Set` class, etc.
+* The **document** JS property of the window's global object represents the currently displayed document.
+* The global object's **fetch()** method makes http network requests.
+* The global object's **Audio()** constructor allows JS programs to play sounds.
+* In web browsers, the global object does double duty. In addition to defining built-in types and functions, the global object also represnts the current web browser window.
+* The global object defines properties like **history** (represent the window's browsing history, see Section 15.10.2), **innerWidth** (window's current width in pixels).
+* A critical property of the global object is named **window**, and the value is the global object itself.
+	* This means you can simply type `window` to refer to the global object in your client-side code.
+	* When using window-specific features, it is often good to include the `window.`- prefix. eg, `window.innerWidth` is clearer than just `innerWidth`.
+
+### 15.1.4 Scripts all share a namespace p. 727
+
+
+
+
+
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
