@@ -1787,8 +1787,48 @@ import { render as renderUI } from "./ui.js";
 #### Sequence p. 729
 * One can think of JS program execution as occurring in two phases.
 * **Phase 1:** the document content is loaded, and the code from the `<script>` elements is run.
-* **Phase 2:**
-    
+	1. Scripts generally run in the order in they are placed in the doc (modulo **defer** and **async** attributes of the `<script>` tag).
+	1. The JS code within any single script is run from top to bottom, subject to standard JS control-flow.
+	1. Some non-obvious things might happen like the creation/loading of various classes and objects so they are available for Phase 2.
+* **Phase 2:** After the document is loaded and all scripts have run, then the asynch and event-driven part of JS execution starts.
+	1. If a script is going to be active in Phase 2, then one of the things it must have done during Phase 1 is to register at least *one* event handler or callback function that will be invoked async.
+	1. During the event-driven Phase 2, the browser invokes event handler functions and other callbacks in response to things that happen asynch.
+	1. Event handlers are most commonly invoked in response to user input (mouse clicks, keystrokes, etc.) but also by network activity, resource loading, elapsed time, or errors in JS
+	1. For more on events and event handlers, see Section 15.2.
+
+#### More on Phase 2 events p. 730
+* Some of the first events to happen in Phase 2 are the **DOMContentLoaded** and **load** events.
+	* *DOMContentLoaded* is triggered when the HTML document has been completely loaded and parsed.
+	* The *load* event is triggered when all the document's external resources (e.g., images) are also fully loadd.
+* JS programs often use one of the above events as a trigger or starting signal.
+* It is common to see programs whose scripts define functions but take no action other than registering and event handler function to be triggered by the *load* event at the beginning of Phase 2.
+	* This *load* event handler than manipulates teh document and does whatever it is that the program is supposed to do.
+* Note: it is common in JS programming for an event handler function such as *load* to register yet other event handler functions.
+* Phase 1 is relatively short, and should ideally be less than 1 second.
+* Once a document is loaded, Phase 2 lasts as long as the document is displayed in the web browser.
+
+### Client-Side JS Threading Model p. 731
+* JS is a single threaded language. Single-threaded execution makes for simpler programming.
+* One can assume that two event handlers will *never* run at the same time.
+* One can manipulate the document knowing that no other thread is attempting to modify it at the same time.
+* One never need worry about race conditions etc. when writing JS code.
+* Single-threaded execution means that web browsers stop responding to user input while scripts and event handlers are executing.
+* However, this means that JS programmers have to be careful to keep their execution times short b/c they don't want the user to be waiting while their page hangs.
+	* If an event handler performs a computationally intensive task, the browser may become nonresponsive, possibly causing the user to think that it has crashed.
+
+#### Web workers p. 731
+* The web platform defines a controlled form of concurrency called a **web worker**.
+* A web worker is a background thread for performing computationally intensive tasks without freeing the UI.
+* The code that runs in a web worker thread does not have access ot document content. 
+	* Web worker JS does not share any state with the main thread or with other workers.    
+	* Web worker JS can only communicate with the main thread and other workers through asynch message events so that concurrency is not detctable in the main thread.
+* Thus, **web workers do *not* change the single-threaded execution model** of JS.
+* See Section 15.13 for more on safe threading and web workers.
+
+#### Client-Side JS Timeline p.732
+* More detailed breakdown of the steps in a client-side web page live, more granular than the Phase 1 and 2 distinction from above.
+1. The web browser creates a **Document object** and begins parsing the web page, adding **Element objects** and **Text nodes** to the document as it parses HTML elements and their textual content. The `document.readyState` property has the value *loading* at this stage. 
+1. When the HTML parser encounters a **`<script>`** tag that does not have any of the *async*, *defer*, or *type="module"* attributes, it adds that script tag to the document and then executes the script. The script is executed synchronously, and the HTML parser pauses while the script downloads (if necessary) and runs. A script like this can use **document.write()** to insert text into the input stream, and that text will become part of the document when the parser resumes. A script like this often simply defines functions and registers event handlers for later use, but it can traverse and manipulate the document tree as it exists at that time. That is, non-module scripts that do not have an *async* or *defer* attribute can see their own `<script>` tag and document content that comes before it.
 
 
 
