@@ -1766,7 +1766,29 @@ import { render as renderUI } from "./ui.js";
 
 ### 15.1.4 Scripts all share a namespace p. 727
 * Module-based scripts are clean b/c functions, classes, variabless, etc are private to their module. (Unless one of those items are explicitly exported with the `export` or `object.export` keywords.)
+* In contrast, non-module scripts all share the same global namespace of a document.
+	* This can be convenient for small JS programs, but once you include 3rd-party libraries, it all becomes a mess.
+* This is one reason to use `let`, `class`, and `const` from ES6. 
+	* Unlike the legacy `var` and `function` declarations which create properties on the shared global object, modern keywords do not create properties on the global object.
+	* **Note:** however `let`, `class`, and `const` *still* live in the shared namespace.
 
+### 15.1.5 Execution of JS programs p. 728
+* There is no formal definition of a 'program' in client-side JS.
+* But in general, a JS program consists of all the bits of JS code within or referenced from a single HTML document.
+* All of these separate bits of code share a single global **Window* object; they all have access to the same underlying **Document** object.
+* Scripts that are not modules also share a top-level namespace.
+
+#### iFrames p. 728-729
+* If a webpage includes an embedded frame (i.e., using the `<iframe`> element), the JS code in the embedded document has a *different global object* than the enclosing window.
+	* Thus, the iframe also has a distinct Document object and global object from the enclosing window.
+* However, if the container document and the contained document are both loaded from the same server, the code in one document can interact with the code in the other document.
+* See Section 15.13.6 (p. 957) for more info on how to send messages can be passed between JS in the containing window and the JS in the contained iframe.
+
+#### Sequence p. 729
+* One can think of JS program execution as occurring in two phases.
+* **Phase 1:** the document content is loaded, and the code from the `<script>` elements is run.
+* **Phase 2:**
+    
 
 
 
