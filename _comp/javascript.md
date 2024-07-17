@@ -1722,12 +1722,17 @@ import { render as renderUI } from "./ui.js";
 <script async src="async.js"></script>
 ```
 
-* Note, per this [phind.com answer](https://www.phind.com/search?cache=j3l4x7oq4j2f8ktvtyqibe8w), one can place the **defer** and **async** attributes after the **src==** attribute. Like so:
+* Note, per this [phind.com answer](https://www.phind.com/search?cache=j3l4x7oq4j2f8ktvtyqibe8w), one can place the **defer** and **async** attributes after the **src=** attribute. Like so:
 
 ```html
 <script src="deferred.js" defer ></script>
 <script src="async.js" async ></script>
 ```
+* Both defer and async are ways of telling the browser that the linked script does not use `document.write()` to generate HTML output.
+	* Therefore, the browser can continue to parse and render the document while simultaneously downloading the script.
+* **The defer attribute** of the `<script>` tag causes the browser to defer execution of the script until after the document has been fully loaded and is ready to be manipulated.
+* **The async attribute** of the `<script>` tag causes the browser to run the script as soon as possible but *does not block document parsing while the JS is being downloaded* to the client browser.
+* If a `<script>` tag has both attributes, the **async** attribute takes precedence.
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
