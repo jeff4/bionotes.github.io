@@ -1636,10 +1636,44 @@ export {
 };
 ```
 
-#### Default exports
-* see p. 461
+#### Default exports p. 461
+* When a module only exports a single value (typically a function or a class), we tend to use `export default` rather than just vanilla *default*. e.g, `export default class BitSet {   //implementation omitted }`.
+* Default exports are a little easier for the target module to import.
+* Regular exports with the **export** keyword can only be done on declarations that have a name.
+* In contrast, **default exports** can export *any* expression, including anonymous functions.
+* This means that if one uses `export default`, one can export object literals. Thus, unlike in regular *export* syntax, when one sees `{}` after a `export default` expression, it really is referring to an object literal.
+
+#### Final notes on exports p. 462
+* One may only export at the main level of your JS file. i.e., you *cannot* export a value from inside any lower scope, aka within a class, loop, function, or conditional.
+
+### Section 10.3.2 ESM Imports p. 462
+* Simple example of import: `import BitSet from './sets.js';`
+* By universal convention, imports are placed at the beginning of a module, although *hoisting* means it's not strictly necessary.
+* Here is the syntax if you are importing multiple classes from the same module:
+
+```javascript
+import { mean, stddev } from "./stats.js";
+```
+
+* You can even import all classes, functions, etc. from a module with `*`: `import * as statsObject from "./stats.js";`.
+
+#### What happens if you try to import from a module that has _not_ defined any exports?
+* You just use this syntax `import "./analytics.js";`.
+* A module like this runs the first time it is imported. (And subsequent imports do nothing.) 
+	* A module that just defines functions is only useful if it exports at least one of those functions. But if a module runs some code, then it can be useful to import even without symbols. 
+	* An analytics module for a web application might run code to register various event handlers and then use those event handlers to send telemetry data back to the server at appropriate times. 
+	* The module is self-contained and does not need to export anything, but we still need import it so that it does actually run as part of our program.
+
+### Section 10.3.3 ESM import/export renaming p. 466
 
 
+
+### Section 10.3.4 ESM Re-exports p. 468
+
+
+### 10.3.5, 10.3.6, 10.3.7 -- JS modules on the Web
+* p. 470 - 477
+* Probably best to read these after we finish Flanagan Chapter 15 on Web Programming
 
 
 ## register info
