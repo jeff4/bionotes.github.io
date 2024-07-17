@@ -1707,8 +1707,12 @@ import { render as renderUI } from "./ui.js";
 * Back in the 90s, there was a thought that non-JS languages would be supported, leading to the **langauge="javascript"** and **type="application/javascript"** attributes of the `<script>` tag. 
 * Turns out that is not needed b/c JS is the only language of the web. So basically can ignore the `language=` and `type=` attributes of script with the possible exception of embedding live data in a web page.
 
-
 #### 'defer' and 'async' attributes of the <script> tag
+* In the 90s before formalization of the DOM, JS modified HTML page content using the **document.write()** method.
+* Back then, `document.write()` tag would execute wherever it is in the HTML page. One hack people used to do was to place all the documents.write() statements at the bottom of the page. This way, JS would only execute after the other HTML content had first loaded in the client browser.
+
+
+
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
