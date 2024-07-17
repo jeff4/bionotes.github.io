@@ -1690,6 +1690,17 @@ import { render as renderUI } from "./ui.js";
 
 ***
 
+## Flanagan Chapter 15 Web Programming p. 713
+* aka front-end or client-side JS
+
+### 15.1.1 JS inside HTML `<script>` tags
+* Although one can place JS code directly in-line within an HTML page, it's far more common now to use the **src** attribute of the `<script>` tag like so: 
+
+```html
+<script src="client-scripts/digitalClock.js"></script>
+```
+
+
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
