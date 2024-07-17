@@ -1826,7 +1826,7 @@ import { render as renderUI } from "./ui.js";
 * See Section 15.13 for more on safe threading and web workers.
 
 #### Client-Side JS Timeline p.732
-* More detailed breakdown of the steps in a client-side web page live, more granular than the Phase 1 and 2 distinction from above.
+##### More detailed breakdown of the steps in a client-side web page live, more granular than the *Phase 1* and *Phase 2* distinction from above.
 1. The web browser creates a **Document object** and begins parsing the web page, adding **Element objects** and **Text nodes** to the document as it parses HTML elements and their textual content. The `document.readyState` property has the value *loading* at this stage. 
 1. When the HTML parser encounters a **`<script>`** tag that does not have any of the *async*, *defer*, or *type="module"* attributes, it adds that script tag to the document and then executes the script. 
 	* The script is executed synchronously, and the HTML parser pauses while the script downloads (if necessary) and runs. 
