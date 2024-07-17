@@ -1709,10 +1709,20 @@ import { render as renderUI } from "./ui.js";
 
 #### 'defer' and 'async' attributes of the <script> tag
 * In the 90s before formalization of the DOM, JS modified HTML page content using the **document.write()** method.
-* Back then, `document.write()` tag would execute wherever it is in the HTML page. One hack people used to do was to place all the documents.write() statements at the bottom of the page. This way, JS would only execute after the other HTML content had first loaded in the client browser.
+* Back then, `document.write()` tag would execute wherever it is in the HTML page. One hack people used to do was to place all the documents.write() statements at the bottom of the page. 
+	* This way, JS would only execute after the other HTML content had first loaded in the client browser.
+* That style is now deprecated, esp. since a `<script>` with a **document.write()** statement placed in *the middle* of an HTML page would **blocking** aka **synchronous**. (see p. 720.)
+* Solution: introducing the **async** and **defer** attributes as part of the `<script>` tag.
+	* Getting conflicting (possibly wrong) answers from ChatGPT about when **async** and **defer** were introduced. 
+	* For now, let's assume that browsers started supporting them around 2009, was formally supported as a 'W3C Recommendation' in October 2014.
+* Syntax:
 
+```html
+<script defer src="deferred.js"></script>
+<script async src="async.js"></script>
+```
 
-
+* Note, per this [phind.com answer](https://www.phind.com/search?cache=j3l4x7oq4j2f8ktvtyqibe8w), one can place the **defer** and **async** attributes after the **src==** attribute.
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
