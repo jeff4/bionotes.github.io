@@ -1588,7 +1588,7 @@ let sdObject = stddev( data );
 
 ### Section 10.2.3 Node-style modules for the web browser
 * Exports with an Exports object and a **require()** function are built into Node. 
-* But if we are willing ot process our files with bundling tools like *webpack*, then it is possible to to use node-style modules (aka CJS aka (CommonJS)[https://en.wikipedia.org/wiki/CommonJS]) for code targeted at web browsers.
+* But if we are willing ot process our files with bundling tools like *webpack*, then it is possible to to use node-style modules (aka CJS aka [CommonJS](https://en.wikipedia.org/wiki/CommonJS)) for code targeted at web browsers.
 * This used to be quite common before ES6. However, now that JS has its own native import/export module syntax, that might become less common.
 
 
@@ -1690,6 +1690,7 @@ import { render as renderUI } from "./ui.js";
 
 ***
 
+## 7/16/2024
 ## Flanagan Chapter 15 Web Programming p. 713
 * aka front-end or client-side JS
 
@@ -1734,10 +1735,9 @@ import { render as renderUI } from "./ui.js";
 * **The async attribute** of the `<script>` tag causes the browser to run the script as soon as possible but *does not block document parsing while the JS is being downloaded* to the client browser.
 * If a `<script>` tag has both attributes, the **async** attribute takes precedence.
 * Scripts with the **type="module"** attribute are automatically executed after the document has been downloaded to the client; as if it had the **defer** attribute. This can be overridden by paring type=module with an **async** attribute in the same `<script>` tag.
-
-### Brief intro to the DOM
-* p. 722
-* Much more detail on the DOM in Section 15.3 (p. 760).
+## 7/17/2024
+### 15.1.2 Brief intro to the DOM p. 722
+* Short intro; there is much more detail on the DOM in Section 15.3 (p. 760).
 * The DOM API mirrors the tree structure of an HTML document. 
 * For every HTML tag in the document, there is a corresponding JS *Element* object.
 * For every run of text in the HTML document, there is a corresponding JS *Text* object.
@@ -1765,7 +1765,7 @@ import { render as renderUI } from "./ui.js";
 	* When using window-specific features, it is often good to include the `window.`- prefix. eg, `window.innerWidth` is clearer than just `innerWidth`.
 
 ### 15.1.4 Scripts all share a namespace p. 727
-
+* Module-based scripts are clean b/c functions, classes, variabless, etc are private to their module. (Unless one of those items are explicitly exported with the `export` or `object.export` keywords.)
 
 
 
