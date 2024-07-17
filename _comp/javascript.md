@@ -144,13 +144,12 @@ Here are the definitions for the specified items along with their equivalent dat
 * Next step: continue with SVP chapter 3.
 * Up to p. 53 in SVP chapter 3; about to begin using Array methods.
     * Note also there are good reasons why a javascript does not have a simple equivalent to this Objective C method `NSStringFromSelector`. Need to do something like `let arrayName = Object.keys({arr})[0]`. and then reference `arrayName` later in console.log(), per [this answer](https://stackoverflow.com/a/52598270). For byVal and byRef discussion see [this answer](https://stackoverflow.com/a/51005683)
-```
+
+```javascript
 let arr = [1, 2, 3];
 let arrayName = Object.keys({arr})[0];
 console.log(arrayName);
 ```
-
-
 
 ### 6/24/2024
 * splice() on SVP p.54. First argument indicates which index location the splice will begin. Second argument indicates how many existing entries (starting at the point of splicing--will be deleted). Note that if you accidentally delete more entries than exist in the original array, splice() will *not* throw an error; it will just delete all the elements available to the end of the array (going to the right edge).
@@ -195,6 +194,8 @@ console.log(arrayName);
 ## 6/29/2024
 * Completed Chapter 6 but need to do end of chapter exercises. Back to SVP Chapter 5 on loops.
 * Went back to Flanagan and completed Chapter 2: "Lexical Structure". Including reserved words, literals, semi-colons, line breaks, whitespaces, Unicode UTF-16, etc.
+
+***
 
 ### Flanagan Chapter 3: Types, Values, Variables. p. 71
 * p. 71 Basic types in JS:
@@ -258,6 +259,8 @@ console.log(arrayName);
 * p. 149 -151 -- Table 4.1 Javascript operators.
 	* Unary operator `typeof` returns what type the input operand is.
 
+***
+
 ### Chapter 5: Statements p. 197
 * Up to Flanagan p. 210, Section 5.4 on loops. 
 
@@ -281,6 +284,7 @@ console.log(arrayName);
 * Completed all loops in SVP Chapter 5. Need to go back and review `break` and `continue` in the context of nested loops and labelled blocks.
 * Began SVP Chapter 7 on Classes p. 149. Note also that Flanagan covers Classes in Chapter 9 p. 403.
 
+***
 
 ### Flanagan Chapter 6: Objects p. 251
 * All JS objects display prototypical inheritance with the exception of the base JS `Object`.
@@ -704,6 +708,8 @@ console.log(arrayName);
     * [Data Types and Data Structures in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
     * [Concurrency and the Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 * MDN [Overview and links to CSS resources](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
+*** 
 
 ### Flanagan Chapter 9: Classes p. 403
 * p. 404. Note again that JS inheritance is based on prototypes which is quite different than the classical OO inheritance seen in C++/Java.
@@ -1289,6 +1295,9 @@ n.times (
 * Then, Section 9.5.3 talks about using using object composition (aka **delegation**) instead of inheritance; this avoids subclasses entirely.
 * Section 9.5.4 (p. 440) discusses **Class Hierarchies and Abstract Classes**.
 
+
+***
+
 ## 7/10/2024 - Flanagan Chapter 10: Modules p. 450
 ### Three types of modules
 1. Do-it-yourself modules using JS classes, objects, and closures
@@ -1665,15 +1674,21 @@ import { mean, stddev } from "./stats.js";
 	* The module is self-contained and does not need to export anything, but we still need import it so that it does actually run as part of our program.
 
 ### Section 10.3.3 ESM import/export renaming p. 466
+* If 2 different modules export 2 different values that share the same name, we have to rename one of the imported values to use them. This is accomplished with the `as` keyword, e.g.:
 
-
+```javascript
+import { render as renderImage } from "./imageutils.js";
+import { render as renderUI } from "./ui.js";
+```
 
 ### Section 10.3.4 ESM Re-exports p. 468
-
+* When there are intermediate files that import and export immediately. Sort of a "hello/goodbye" scenario.
 
 ### 10.3.5, 10.3.6, 10.3.7 -- JS modules on the Web
 * p. 470 - 477
 * Probably best to read these after we finish Flanagan Chapter 15 on Web Programming
+
+***
 
 
 ## register info
