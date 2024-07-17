@@ -1722,7 +1722,12 @@ import { render as renderUI } from "./ui.js";
 <script async src="async.js"></script>
 ```
 
-* Note, per this [phind.com answer](https://www.phind.com/search?cache=j3l4x7oq4j2f8ktvtyqibe8w), one can place the **defer** and **async** attributes after the **src==** attribute.
+* Note, per this [phind.com answer](https://www.phind.com/search?cache=j3l4x7oq4j2f8ktvtyqibe8w), one can place the **defer** and **async** attributes after the **src==** attribute. Like so:
+
+```html
+<script src="deferred.js" defer ></script>
+<script src="async.js" async ></script>
+```
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
