@@ -1700,7 +1700,15 @@ import { render as renderUI } from "./ui.js";
 <script src="client-scripts/digitalClock.js"></script>
 ```
 
+* Important note: HTML does *not* support this concise syntax `<script/>`. One must *always* have an opening and closing script tag like so: `<script> </script>`.
+* p. 718-719. When importing JS modules, one must load the top-level module with the **type=:"module"** of the `<script>` tag. See section 10.3.5 for complete detials.
 
+#### No languages supported other than JS p. 719
+* Back in the 90s, there was a thought that non-JS languages would be supported, leading to the **langauge="javascript"** and **type="application/javascript"** attributes of the `<script>` tag. 
+* Turns out that is not needed b/c JS is the only language of the web. So basically can ignore the `language=` and `type=` attributes of script with the possible exception of embedding live data in a web page.
+
+
+#### 'defer' and 'async' attributes of the <script> tag
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
