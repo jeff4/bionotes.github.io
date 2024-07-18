@@ -1908,12 +1908,23 @@ import { render as renderUI } from "./ui.js";
 * **XSS** aka **cross-site scripting** is a term for a category of security issues in which an attacker injects HTML tags or scripts into a target website.
 * Front-end devs must guard against XSS.
 * A web page is vulnerable to XSS if it dynamically generates document content and bases that content on user-submitted data without first *sanitizing* that data by removing any embedded HTML tags from it.
+* As a trivial example, consider the following HTML page that uses JS to greet users by name:
 
+`<script>`
 
+```javascript
+let name = new URL(document.URL).searchParams.get("visitorName");
 
+document.querySelector('h1').innerHTML = "Hello " + visitorName;
 
+```
 
-
+`</script>`
+* The 2-line script extracts input from the "visitorName" query parameter of the document URL.
+* It then uses the DOM API to inject an HTML string inot the first `<h1>` tag in the document.
+* The page is intended to be invoked with an URL like this: `http://www.example.com/greet.html?name=Jeff`.
+* When used likje this, it displays the text "Hello Jeff". 
+* **But**, consider what happens when it is invoked with this query parameter
 
 
 ## register info
