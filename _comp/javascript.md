@@ -1914,7 +1914,6 @@ import { render as renderUI } from "./ui.js";
 
 ```javascript
 let name = new URL(document.URL).searchParams.get("visitorName");
-
 document.querySelector('h1').innerHTML = "Hello " + visitorName;
 
 ```
@@ -1924,7 +1923,10 @@ document.querySelector('h1').innerHTML = "Hello " + visitorName;
 * It then uses the DOM API to inject an HTML string inot the first `<h1>` tag in the document.
 * The page is intended to be invoked with an URL like this: `http://www.example.com/greet.html?name=Jeff`.
 * When used likje this, it displays the text "Hello Jeff". 
-* **But**, consider what happens when it is invoked with this query parameter
+* **But**, consider what happens when it is invoked with this query parameter `name=%3Cimg%20src=%22x.png%22%20onload=%22alert(%27hacked%27)%22/%3E`. When the URL-escaped parameters are deoded, the URL causes this HTML to be injected into the document: `Hello <img src="x.png" onload="alert('hacked')"/>`.
+	* After the image loads, the string of JS in the **onload** attribute is executed and the global **alert()** function displays a modal dialogue window to appear.
+	* Of course, a single dialog box is relatively benign, but demonstrates that arbitrary code execution is possible on this site b/c it allows unsanitized HTML.
+* XSS is called this b/c more than one site is involved.
 
 
 ## register info
