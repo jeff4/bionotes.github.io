@@ -1904,6 +1904,11 @@ import { render as renderUI } from "./ui.js";
 	1. Alter their origin by setting the **document.domain** to the domain suffix.
 	1. **CORS** aka Cross-Origin Resource Sharing 
 
+***
+
+## 7/18/2024
+* Tested xss scripting on localhost with `live-server` and it worked.
+
 #### Cross-Site Scripting p. 740
 * **XSS** aka **cross-site scripting** is a term for a category of security issues in which an attacker injects HTML tags or scripts into a target website.
 * Front-end devs must guard against XSS.
@@ -1913,21 +1918,39 @@ import { render as renderUI } from "./ui.js";
 `<script>`
 
 ```javascript
-let name = new URL(document.URL).searchParams.get("visitorName");
-document.querySelector('h1').innerHTML = "Hello " + visitorName;
+let userName = new URL(document.URL).searchParams.get("userName");
+document.querySelector('h1').innerHTML = "Hello " + userName;
 
 ```
 
 `</script>`
-* The 2-line script extracts input from the "visitorName" query parameter of the document URL.
+* The 2-line script extracts input from the "userName" query parameter of the document URL.
 * It then uses the DOM API to inject an HTML string inot the first `<h1>` tag in the document.
-* The page is intended to be invoked with an URL like this: `http://www.example.com/greet.html?name=Jeff`.
+* The page is intended to be invoked with an URL like this: `http://www.example.com/greet.html?userName=Jeff`.
 * When used likje this, it displays the text "Hello Jeff". 
-* **But**, consider what happens when it is invoked with this query parameter `name=%3Cimg%20src=%22x.png%22%20onload=%22alert(%27hacked%27)%22/%3E`. When the URL-escaped parameters are deoded, the URL causes this HTML to be injected into the document: `Hello <img src="x.png" onload="alert('hacked')"/>`.
+* **But**, consider what happens when it is invoked with this query parameter `userName=%3Cimg%20src=%22x.png%22%20onload=%22alert(%27hacked%27)%22/%3E`. When the URL-escaped parameters are deoded, the URL causes this HTML to be injected into the document: `Hello <img src="x.png" onload="alert('hacked')"/>`.
 	* After the image loads, the string of JS in the **onload** attribute is executed and the global **alert()** function displays a modal dialogue window to appear.
 	* Of course, a single dialog box is relatively benign, but demonstrates that arbitrary code execution is possible on this site b/c it allows unsanitized HTML.
 * XSS is called this b/c more than one site is involved.
+	* Site B includes a specially created link to Site A.
+	* If Site B can convince users that that it is a legit site and they can click the Site B lin, they will be taken to Site A--**but now Site A will be running code from Site B**!
+	* Exploit 1: deface the page or cause other malfuctions on Site A.
+	* Exploit 2: Even worse, can read account info and other stuff from cookies stored by Site A, sending that data back to Site B.
+	* Exploit 3: Injected code could even track user keystrokes and send that data back to Site B.
+* **Solution I:** replace special HTML characters in untrusted input string with their equivalent HTML entities. (see example on p. 741-742.
+* **Solution II:** Structure web app so that untrusted content is always displayed in an `<iframe>` with the **sandbox** HTML attribute set to disable scripting and other capabilities.
 
+### 15.2 Events p. 742
+* Client-side JS use an async, event-driven programming model. This means that the browser generates an **event** every time something interesting happens to the document, browser, or associated element/object.
+* In client-side JS, events can occur on any element within an HTML document. This means that web browsers are *more complicated than Node programming*.
+
+#### Definitions related to events p. 743 - 745
+* **Event Type**
+* **Event Target**
+* **Event Handler** aka **Event Listener**
+* **Event Object**
+* **Event Propagation**
+* **Default Actions**
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
