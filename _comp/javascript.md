@@ -1871,11 +1871,49 @@ import { render as renderUI } from "./ui.js";
 * Client-side code can also use **console.log()** and related methods to produce output. 
 	* **Note:** *console.log()* output can only be viewed in the developer tools console. So this is useful for debugging that is hidden from end-users.
 
-
 ### JS Program Errors p. 735
 * Unlike Node applications and other apps running directly on the OS, a JS program in a web browser can't really 'crash'.
 * If an exception occurs while your client-side JS is running and you do not have a **try/catch** statement to handle it, an error message will be displayed to the dev tools console.
 	* **But**, any event handlers that have ben registered keep running and responding to events. 
+* To define an error handler of last resort, set the **onError** property of the *Window* object to an error handler function.o
+* for more on handling of Promises and managing the call stack, view p. 735-736.
+
+### 15.1.8 The Web Security Model p. 737
+* There are two competing goals that browser-makers try to balance:
+	1. Preventing malicious code from running that can read or alter user data, compromise user privacy, etc.
+	1. Make client-side APIs powerful and effective for building web apps.
+
+#### What JS Can't Do p. 737
+* The first line of defense is that some web browsers simply don't support certain capabilities. 
+* E.g., client-side JS does not provide any way to write or delete arbitrary files or list arbitrary directories on the client computer.
+* This means that the vanilla JS cannot simply delete data or plant viruses.
+* Furthermore, client-side JS does not have general networking capabilities. Although there APIs like the below, general-purpose internet clients and servers cannot be written with client-side JS. 
+	* A client-side JS program can make (only?) make http requests. (Section 15.11.1 for more.)
+	* The WebSockets API defines a socket-like affordance for communicating with specialized servers (Section 15.11.3)
+
+#### Same-Origin Policy p. 738
+* The *same-origin policy* is a sweeping security restriction of what web content JS code can interact with.
+* It typically comes into play when a web page includes `<iframe>` elements.
+* In this case, the same-origin policy governs the interactions of JS code in one frame with the content in other iframes.
+* The origin of a document is defined as the protocol, the host, and the port of the URL from which the document was loaded.
+* Documents loaded from different web servers have different origins; documents loaded via different ports on the same host also have different origins.
+* A document loaded with the `http:` protocol has a different origin than the `https:` protocol even if they come from the same web server.
+* Browsers typically treat every **file:URL** as a separate origin.
+* **Note:** the origin of the script is not relevant to the same-origin policy. What matters is the orign of the **document** in which the script is embedded. (see p. 738-739 for more.)
+* The same-origin policy poses problems for large websites with multiple subdomains like *www.example.com* and *store.example.com*. Two solutions:
+	1. Alter their origin by setting the **document.domain** to the domain suffix.
+	1. **CORS** aka Cross-Origin Resource Sharing 
+
+#### Cross-Site Scripting p. 740
+* **XSS** aka **cross-site scripting** is a term for a category of security issues in which an attacker injects HTML tags or scripts into a target website.
+* Front-end devs must guard against XSS.
+* A web page is vulnerable to XSS if it dynamically generates document content and bases that content on user-submitted data without first *sanitizing* that data by removing any embedded HTML tags from it.
+
+
+
+
+
+
 
 
 ## register info
