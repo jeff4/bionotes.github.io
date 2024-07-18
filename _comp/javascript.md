@@ -1963,8 +1963,29 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 	* When event handlers are invoked for an object, we say that the browser has 'fired', 'triggered', or 'dispatched' the event.
 	* There are a number of ways to register event handlers; see Sections 15.2.2 and 15.2.3 for more.
 1. **Event Object**
+	* Event objects are associated with a particular event and contains details about that event.
+	* Event objects are passed as arguments to the event handler function.
+	* All event objects have a **type property** that specifies the event type and a **target property** specifying the event target.
+	* Each event type defines a set of properties for its associated event objects.
+	* e.g., a *mouse event object* includes coordinates of the mouse pointer.
+	* e.g., a *keyboard event object* includes key pressed and associated modifier keys that were also pressed.
 1. **Event Propagation**
+	* Event propagation is the process by which a browser decides which objects to trigger event handlers on.
+	* For events that are specific to a single object--such as the **load** event on the *Window* object or a **message** event on a *Worker* object--no propagation is required.
+	* But when certain kinds of events occur on elements within the HTML document, they propagate up the document tree.
+		* If the user moves the mouse over a hyperlink, the **mousemove** event is first fired on the `<a>` element that defines the linke. 
+		* *Then*, the event is fired on the containing elements: perhaps a `<p>` element, a `<section>` element, or the Document object itself.
+	* It is sometimes more convenient to register a single event handler on a Document or some other container element than to register handlers on each individual element you're interested in.
+	* An event handler can stop the propagation of an event so that it will not continue to bubble and will not trigger handlers on containing elements.
+	* Handlers do this by invoking a a method of the event object.
+	* In another form of event propagation, known as **event capturing**, handlers specially registered on container elements have the opportunity to intercept (aka *capture*( events before they are delivered to their actual target. See Section 15.2.4 for more.
 1. **Default Actions**
+* Some events have default actions associated with them. 
+* e.g., when a click event occurs on a hyper link, the default action is for the browser to follow the link and load a new page. Event handlers can prevent the default action by invoking a method for the event object.
+	* This is called **cancelling** the event. See Section 15.2.5
+
+
+
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
