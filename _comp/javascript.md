@@ -1854,7 +1854,7 @@ import { render as renderUI } from "./ui.js";
 ### 15.1.6 Program Input/Output p. 734
 * Like any program, client-side JS programs process input data and then produce output data. Here are some types of input:
 	1. The content of the document itslef, which the JS code can access via the DOM API.
-	1. User input in the form of events. The HTML **<button>** element may respond to mouse clicks or touchscreen taps. Or, the HTML **<textarea>** element may accept text input. See Section 15.2 for more.
+	1. User input in the form of events. The HTML **`<button>`** element may respond to mouse clicks or touchscreen taps. Or, the HTML **`<textarea>`** element may accept text input. See Section 15.2 for more.
 	1. The URL of the document being displayed is available to client-side JS as the **document.URL**. If one passes this string to the **URL()** constructor (Section 11.9), one can easily access the path, query-string, and other sections of the URL.
 	1. The content of the http *Cookie* request header is available to the client-side code as **document.cookie**.
 		* Cookies are usually used by server-side code to maintain user ssessions but client-side code can also use them when needed.
