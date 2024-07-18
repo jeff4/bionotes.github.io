@@ -1945,12 +1945,26 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 * In client-side JS, events can occur on any element within an HTML document. This means that web browsers are *more complicated than Node programming*.
 
 #### Definitions related to events p. 743 - 745
-* **Event Type**
-* **Event Target**
-* **Event Handler** aka **Event Listener**
-* **Event Object**
-* **Event Propagation**
-* **Default Actions**
+1. **Event Type** aka **Event Name**
+	* This string specifies what kind of event occurred. 
+	* For example, *type* **mousemove** means that the user has moved the mouse. 
+	* The *type* **keydown** means that the user has pressed a key on the keyboard down.  
+	* The *type* **load** means that a document or some other resource has finished loading on the client from the network.
+	* B/c the type of an event is just a string, it's sometimes called an *event name*.
+1. **Event Target**
+	* This is the object upon which the event occurred or with which an event is associated.
+	* When we speak of an event, we must specify both the type and the target
+	* A **load** event *on* a `Window`, for example, or a **click** event *on* a `<button>` element.
+	* The most common event targets are Window, Document, and Element objects.
+	* Other targets include **Worker objects** (see Section 15.13 on threads). Workers are targeted by *message* events when a worker thread sends a message to the main thread.
+1. **Event Handler** aka **Event Listener**
+	* This function handles or responds to an event. Applications register their event handler functions with the web browser, specifying *event types* and *event targets*. 
+	* When an event of the specified type occurs on the specified target, the browser invokes the handler function.
+	* When event handlers are invoked for an object, we say that the browser has 'fired', 'triggered', or 'dispatched' the event.
+	* There are a number of ways to register event handlers; see Sections 15.2.2 and 15.2.3 for more.
+1. **Event Object**
+1. **Event Propagation**
+1. **Default Actions**
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
