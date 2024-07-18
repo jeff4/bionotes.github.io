@@ -1907,7 +1907,7 @@ import { render as renderUI } from "./ui.js";
 ***
 
 ## 7/18/2024
-* Tested xss scripting on localhost with `live-server` and it worked.
+* Tested xss scripting example below on localhost with `live-server` and it worked.
 
 #### Cross-Site Scripting p. 740
 * **XSS** aka **cross-site scripting** is a term for a category of security issues in which an attacker injects HTML tags or scripts into a target website.
