@@ -1833,9 +1833,49 @@ import { render as renderUI } from "./ui.js";
 	* A script like this can use **document.write()** to insert text into the input stream, and that text will become part of the document when the parser resumes. 
 	* A script like this often simply defines functions and registers event handlers for later use, but it can traverse and manipulate the document tree as it exists at that time. 
 	* That is, non-module scripts that do not have an *async* or *defer* attribute can see their own `<script>` tag and document content that comes before it.
+1. When the parser encounters a `<script>` element that has the async attribute set, it begins downloading the script text (and if the script is a module, it also recursively downloads all of the script’s dependencies) and continues parsing the document. 
+	* The script will be executed as soon as possible after it has downloaded. 
+	* But the parser does not stop and wait for it to download. 
+	* Asynchronous scripts must *not* use the **document.write()** method. They can see their own `<script>` tag and all document content that comes before it, and may or may not have access to additional document content.
+1. When the document is completely parsed, the **document.readyState** property changes its value to *interactive*.
+1. Any scripts that had the *defer* attribute set--along with any module scripts that do *not* have the *async* attribute--are executed in the order in which they appear in the document.
+	* Async scripts may also be executed at this time.
+	* Deferred scripts now have access to the complete document and they must *not* use the **document.write()** method.
+1. The browser fires a **DOMContentLoaded** event on the **Document** object.
+	* This marks the transition from Phase 1 to Phase 2.
+	* Note, however, that there may still be *async* scripts that have not yet executed at this point.
+1. This marks the transition from Phase 1 to Phase 2.
+	* Note, however, that there may still be *async* scripts that have not yet executed at this point.
+1. Phase 2 is in full swing. The document is fully parsed at this point.
+	* But the client browser may still be waiting for additional content, such as images, to load.
+	* When all such content finishes loading, and when all *async* scripts have loaded and executed, the **document.readyState** property changes state to *complete* and the browser now fires the *load* event on the **Window** object.
+1. From this point on, event handlers are invoked asynchronously in reponse to user input events, network events, timer expirations, etc.
+
+### 15.1.6 Program Input/Output p. 734
+* Like any program, client-side JS programs process input data and then produce output data. Here are some types of input:
+	1. The content of the document itslef, which the JS code can access via the DOM API.
+	1. User input in the form of events. The HTML **<button>** element may respond to mouse clicks or touchscreen taps. Or, the HTML **<textarea>** element may accept text input. See Section 15.2 for more.
+	1. The URL of the document being displayed is available to client-side JS as the **document.URL**. If one passes this string to the **URL()** constructor (Section 11.9), one can easily access the path, query-string, and other sections of the URL.
+	1. The content of the http *Cookie* request header is available to the client-side code as **document.cookie**.
+		* Cookies are usually used by server-side code to maintain user ssessions but client-side code can also use them when needed.
+		* See Section 15.12.2 (p. 932) for more.
+	1. The global **navigator** property provides access to info about the web browser, the OS it's running on, and the capabilities of each. For example:
+		* **navigator.userAgent** is a string that identifies the web browser.
+		* **navigator.language** is the user's preferred language.
+		* **navigator.hardwareConcurrency** returns the number of logical CPUs available to the web browser
+		* the global **screen** property provides access to the user's display size via the **screen.width** and **screen.height** properties.
+		* In a sense, the **navigator** and **screen** objects are to web browsers as environment variables are to Node programs.
+
+#### JS client-side output p. 735
+* Client-side JS typically provides output by manipulating the DOM api; or by using a framework like React, Angular, Vue, Next.JS to manipulate the document.
+* Client-side code can also use **console.log()** and related methods to produce output. 
+	* **Note:** *console.log()* output can only be viewed in the developer tools console. So this is useful for debugging that is hidden from end-users.
 
 
-
+### JS Program Errors p. 735
+* Unlike Node applications and other apps running directly on the OS, a JS program in a web browser can't really 'crash'.
+* If an exception occurs while your client-side JS is running and you do not have a **try/catch** statement to handle it, an error message will be displayed to the dev tools console.
+	* **But**, any event handlers that have ben registered keep running and responding to events. 
 
 
 ## register info
