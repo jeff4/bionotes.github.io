@@ -342,7 +342,40 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 #### Method 1: Setting Event Handler Properties p. 747
 * Simplest and oldest way.
 * By convention, event handler properties have names that start with *on* followed by the event name, e.g., *onclick*, *onchange*, *onload*, *onmouseover*, etc.
+* The following event handler example sets the *onload* property of the **Window** objet to a function.
 
+```javascript
+/* The function defined below is an event handler: it is invoked when the document loads.
+ *
+ */
+
+window.onload = function() {
+
+	// Look up a <form> element
+	let form = document.querySelector("form#shipping");
+
+
+	// Register an event handler function on the
+	// form object that will be invoked before 
+	// the form is submitted.
+	// Assume the isFormValid() function is 
+	// defined elsewhere.
+	
+	form.onsubmit = function(event) {
+
+		// check whether form inputs are valid
+		if (!isFormValid(this) ) {
+
+			// and if form inputs are *not* valid,
+			// then prevent form submission
+			event.preventDefault();
+		}
+	};
+};
+```
+
+* The shortcoming of event handler properties is that they are designed around the assumption that event targets will only have at most one hanlder for each type of event.
+* It is often better to register event handlers using the *addEventListener()* because that technique (Method #2) does *not* overwrite any previously registered handlers.
 
 ***
 
