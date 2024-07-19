@@ -3,7 +3,7 @@ title: Client JavaScript
 permalink: /web-js/
 ---
 
-## 2024 Log
+## WebJS / Client JS / Front End JavaScript
 
 ***
 
@@ -310,20 +310,22 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 
 ## 7/19/2024
 ### 15.2.1 Event Categories
-* Client-side JS suppports so many *event types* that this chapter will not cover them all.
-* However, this book will group events into a few common categories.
-	1. **Device-dependent input events** Examples: mousedown, mousemove, mouseup, touchstart, touchmove, touchend, keydown, keyup
-	1. **Device-independent input events** Events that are device agnostic. e.g., 
-		* The *click* event indicates that a link or button (or other document element has been activated. This activation can come from a mouse click, a keyboard, or with a tap on a touch screen.
-		* The *input* event is a device-independent superclass of keydown which supports keyboard input, as well as cut-and-paste, and methods used for ideogram based scripts like Chinese.
-		* The *pointerdown*, *pointermove*, and *pointerup* event types are device-independent alternatives to mouse and touch events, which respond to pointers, touch-screens, pen- and stylus- inputs.
-	1. **User Interface events** aka UI events are higher-level events. Often on HTML form elements.
-		* *Focus* event is when a text input field gains keyboard focus.
-		* *Change* event is when a user changes the value displayed by a form element.
-		* *Submit* event is when a user clicks a **Submit** button in a form.
-	1. **State-change events**
-	1. **API-specific events**
+##### Client-side JS suppports so many *event types* that this chapter will not cover them all. However, this book will group events into a few common categories.
+1. **Device-dependent input events** Examples: mousedown, mousemove, mouseup, touchstart, touchmove, touchend, keydown, keyup
+1. **Device-independent input events** Events that are device agnostic. e.g., 
+	* The *click* event indicates that a link or button (or other document element has been activated. This activation can come from a mouse click, a keyboard, or with a tap on a touch screen.
+	* The *input* event is a device-independent superclass of keydown which supports keyboard input, as well as cut-and-paste, and methods used for ideogram based scripts like Chinese.
+	* The *pointerdown*, *pointermove*, and *pointerup* event types are device-independent alternatives to mouse and touch events, which respond to pointers, touch-screens, pen- and stylus- inputs.
+1. **User Interface events** aka UI events are higher-level events. Often on HTML form elements.
+	* *Focus* event is when a text input field gains keyboard focus.
+	* *Change* event is when a user changes the value displayed by a form element.
+	* *Submit* event is when a user clicks a **Submit** button in a form.
+1. **State-change events**
+1. **API-specific events**
 
+
+
+***
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
@@ -331,4 +333,3 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 * to yank next 3 words and store in register **a**, type `"ay3w`.
 
 `<script>`
-
