@@ -345,8 +345,8 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 * The following event handler example sets the *onload* property of the **Window** objet to a function.
 
 ```javascript
-/* The function defined below is an event handler: it is invoked when the document loads.
- *
+/* The function defined below is an event handler--
+ * it is invoked when the document loads.
  */
 
 window.onload = function() {
