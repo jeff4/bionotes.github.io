@@ -311,7 +311,8 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 ## 7/19/2024
 ### 15.2.1 Event Categories
 ##### Client-side JS suppports so many *event types* that this chapter will not cover them all. However, this book will group events into a few common categories.
-1. **Device-dependent input events** Examples: mousedown, mousemove, mouseup, touchstart, touchmove, touchend, keydown, keyup
+1. **Device-dependent input events** 
+	* Examples: mousedown, mousemove, mouseup, touchstart, touchmove, touchend, keydown, keyup
 1. **Device-independent input events** Events that are device agnostic. e.g., 
 	* The *click* event indicates that a link or button (or other document element has been activated. This activation can come from a mouse click, a keyboard, or with a tap on a touch screen.
 	* The *input* event is a device-independent superclass of keydown which supports keyboard input, as well as cut-and-paste, and methods used for ideogram based scripts like Chinese.
@@ -321,8 +322,26 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 	* *Change* event is when a user changes the value displayed by a form element.
 	* *Submit* event is when a user clicks a **Submit** button in a form.
 1. **State-change events**
+	* Events from network or browser activity; not from user input.
+	* Example: **load** fired by the *Window* object after a document finishes loading.
+	* Example: **DOMContentLoaded** fired by the *Document* object after a document finishes loading.
+	* Also, browsers fire *online* and *offline* events on the Window object when network connectivity changes.
+	* Example: **popstate** event is fired by the browser's history management mechanism in response to the browser's Back button (See 15.10.4).
 1. **API-specific events**
+	* A number of web APIs defined by HTML and related specs include their own event types.
+	* The HTML `<video>` and `<audio>` elements define a long list of associated event types such as *waiting*, *playing*, *seeking*, *volumechange*, etc. for media playback.
+	* Generally speaking, web platform APIs that are async and were developed before **Promises** were added to JS are event-based and define API-specific events.
+	* Example: The **IndexedDB API** fires *success* and *error* events when database requests succeed or fail.
+	* Although the new **fetch() API** for making HTTP requests is Promise-based, it replaced the old XMLHttpRequest API which itself defined several API-spcific event types.
 
+### 15.2.2 Registering Event Handlers p. 747
+* There are 2 basic ways to register event handlers.
+* First: set a property on the object or document element of the event target. (This goes back to the 1990s.)
+* Second: pass the handler to the **addEventListener()** method of the object or element.
+
+#### Method 1: Setting Event Handler Properties p. 747
+* Simplest and oldest way.
+* By convention, event handler properties have names that start with *on* followed by the event name, e.g., *onclick*, onchange, onload, onmouseover, etc.
 
 
 ***
