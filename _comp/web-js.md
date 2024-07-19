@@ -341,7 +341,7 @@ document.querySelector('h1').innerHTML = "Hello " + userName;
 
 #### Method 1: Setting Event Handler Properties p. 747
 * Simplest and oldest way.
-* By convention, event handler properties have names that start with *on* followed by the event name, e.g., *onclick*, onchange, onload, onmouseover, etc.
+* By convention, event handler properties have names that start with *on* followed by the event name, e.g., *onclick*, *onchange*, *onload*, *onmouseover*, etc.
 
 
 ***
