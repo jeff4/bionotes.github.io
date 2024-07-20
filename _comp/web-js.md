@@ -419,10 +419,12 @@ function( event ) {
 		* See more on passing in an **Options** object as the third argumnet on page 752-753.
 * Consider this code, which registers *two handlers* for the **click** event on the `<button>` element.
 
+#### Code Part 1: HTML
+
 ```html
 <button id = "mybutton"> Click me! </button>
 
-<script
+<script>
 let b = document.querySelector( "#mybutton" );
 
 b.onclick = function() {
