@@ -379,6 +379,24 @@ window.onload = function() {
 * The shortcoming of event handler properties is that they are designed around the assumption that event targets will only have at most one hanlder for each type of event.
 * It is often better to register event handlers using the *addEventListener()* because that technique (Method #2) does *not* overwrite any previously registered handlers.
 
+##### Setting Event Handler Attributes p. 748
+* The event handler properties of document elements can also be defined directly in the HTML file as attributes on the corresponding HTML tag.
+* Handlers that would be registered on the *Window* element with JS can be defined with attributes on the `<body>` tag in HTML.
+	* But this technique is generally frowned upon in modern web development. But it is possible and it's documented here b/c you may see it in legacy code.
+* When defining an event handler as an HTML attribute, the attribute value should be a string of JS code.
+* That code should be the *body* of the event handler function; *not* a complete function declaration.
+	* i.e., your HTML event handler code should not be surrounded by curly braces `{}` and prefixed with the **function** keyword. e.g.
+
+	```javascript
+	<button onclick="console.log('Thanks!!');"> Please Click Here. </button>
+ 	```
+    
+* If an event handler attribute contains multiple JS statements, you must remember to separate those statements with semicolons or break the attribute value across multiple lines.
+
+
+#### Method 2: Add Event Listeners p. 750
+
+
 ***
 
 ## register info
