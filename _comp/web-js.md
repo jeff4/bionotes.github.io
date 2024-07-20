@@ -423,7 +423,11 @@ function( event ) {
 
 ```html
 <button id = "mybutton"> Click me! </button>
+```
 
+#### Code Part 2: JavaScript
+
+```javascript
 <script>
 let b = document.querySelector( "#mybutton" );
 
@@ -436,9 +440,21 @@ b.addEventListener(
 		console.log( "Thanks again!" );
 	}
 );
-
 </script>
 ```
+
+* Note the differences between the two techniques used. Calling **addEventListner()** with *click* as its first argument does *not* affect the value of the `onclick` property.
+* In this code, a button click will log *two messages* to the developer console.
+* If we called *addEventListener()* first and *then* set **onclick**, we would still log two messages--just in the opposite order.
+* More importantly, you can call addEventListener() multiple times to register more than one handler function for the same event type of the same object.
+* When an event occurs on an object, all the handlers registered for that type of event are invoked in the order in which they are registered.
+* Invoking `addEventListener()` more than once on the same object with the same arguments has no effect.
+* The handler function remains registered only *once*, and the repeated invocation does not alter the order in which handlers are invoked.
+
+##### removeEventListener() p. 751
+* `addEventListener()` is paired with a  `removeEventListener` method which expects the same two arguments (plus an optional third argument) but removes an event handler function from an object rather than adding it.
+* It is often useful to temporarily register an event handler and then remove it soon afterward.
+* For example, p. 751
 
 ***
 
