@@ -423,7 +423,7 @@ function( event ) {
 <button id = "mybutton"> Click me! </button>
 
 <script
-let b= document.querySelector( "#mybutton" );
+let b = document.querySelector( "#mybutton" );
 
 b.onclick = function() {
 	console.log( "Thanks for clicking me!!" );
