@@ -387,7 +387,7 @@ window.onload = function() {
 * That code should be the *body* of the event handler function; *not* a complete function declaration.
 	* i.e., your HTML event handler code should not be surrounded by curly braces `{}` and prefixed with the **function** keyword. e.g.
 
-```javascript
+```html
 	<button onclick="console.log('Thanks!!');"> Please Click Here. </button>
 ```
     
