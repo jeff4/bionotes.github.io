@@ -392,7 +392,20 @@ window.onload = function() {
 ```
     
 * If an event handler attribute contains multiple JS statements, you must remember to separate those statements with semicolons or break the attribute value across multiple lines.
+* When you specify a string of JS code as the value of an HTML event handler attribute, the browser converts your string into a function that works something like this:
 
+```javascript
+
+function( event ) {
+	with( document ) {
+		with( this.form || {} ) {
+			/* your code here */
+		}
+	}
+}
+```
+
+* The **event** argument above means that your handler code can refer to the current event object as an *event*.
 
 #### Method 2: Add Event Listeners p. 750
 
