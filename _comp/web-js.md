@@ -406,9 +406,37 @@ function( event ) {
 ```
 
 * The **event** argument above means that your handler code can refer to the current event object as an *event*.
+* Avoid the code above in general; see more on p. 750.
 
 #### Method 2: Add Event Listeners p. 750
+* The better, more modern way of adding event listeners.
+* Any object can be an *event target* automatically defines a method named **addEventListener()**.
+	* This includes objects like **Window** objects, **Document** objects, and all document **Element** objects.
+* The `addEventListener()` method accepts **three arguments**:
+	1. The **event type** for which the handler is being registered. The event type (aka *event name*) is a string that does **not** include the 'on-' prefix used when setting event handler properties (Method #1 above).
+	1. The **function** that should be invoked when the specified type of event occurs.
+	1. The final argument is optional and explained below. (p. 752). This argument is a boolean. If the boolean value is `true`, than the handler function is registered as a **capturing event handler** and is invoked at a different phase of eent dispatch. See more in 15.2.4.
+		* See more on passing in an **Options** object as the third argumnet on page 752-753.
+* Consider this code, which registers *two handlers* for the **click** event on the `<button>` element.
 
+```html
+<button id = "mybutton"> Click me! </button>
+
+<script
+let b= document.querySelector( "#mybutton" );
+
+b.onclick = function() {
+	console.log( "Thanks for clicking me!!" );
+};
+
+b.addEventListener( 
+	"click" , () => {
+		console.log( "Thanks again!" );
+	}
+);
+
+</script>
+```
 
 ***
 
