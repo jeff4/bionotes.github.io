@@ -95,7 +95,7 @@ permalink: /web-js/
 ### 15.1.5 Execution of JS programs p. 728
 * There is no formal definition of a 'program' in client-side JS.
 * But in general, a JS program consists of all the bits of JS code within or referenced from a single HTML document.
-* All of these separate bits of code share a single global **Window* object; they all have access to the same underlying **Document** object.
+* All of these separate bits of code share a single global **Window** object; they all have access to the same underlying **Document** object.
 * Scripts that are not modules also share a top-level namespace.
 
 #### iFrames p. 728-729
@@ -106,11 +106,15 @@ permalink: /web-js/
 
 #### Sequence p. 729
 * One can think of JS program execution as occurring in two phases.
-* **Phase 1:** the document content is loaded, and the code from the `<script>` elements is run.
+
+#### Phase 1
+* The document content is loaded, and the code from the `<script>` elements is run.
 	1. Scripts generally run in the order in they are placed in the doc (modulo **defer** and **async** attributes of the `<script>` tag).
 	1. The JS code within any single script is run from top to bottom, subject to standard JS control-flow.
 	1. Some non-obvious things might happen like the creation/loading of various classes and objects so they are available for Phase 2.
-* **Phase 2:** After the document is loaded and all scripts have run, then the asynch and event-driven part of JS execution starts.
+
+#### Phase 2
+* After the document is loaded and all scripts have run, then the asynch and event-driven part of JS execution starts.
 	1. If a script is going to be active in Phase 2, then one of the things it must have done during Phase 1 is to register at least *one* event handler or callback function that will be invoked async.
 	1. During the event-driven Phase 2, the browser invokes event handler functions and other callbacks in response to things that happen asynch.
 	1. Event handlers are most commonly invoked in response to user input (mouse clicks, keystrokes, etc.) but also by network activity, resource loading, elapsed time, or errors in JS
@@ -163,8 +167,6 @@ permalink: /web-js/
 	* Deferred scripts now have access to the complete document and they must *not* use the **document.write()** method.
 1. The browser fires a **DOMContentLoaded** event on the **Document** object.
 	* This marks the transition from Phase 1 to Phase 2.
-	* Note, however, that there may still be *async* scripts that have not yet executed at this point.
-1. This marks the transition from Phase 1 to Phase 2.
 	* Note, however, that there may still be *async* scripts that have not yet executed at this point.
 1. Phase 2 is in full swing. The document is fully parsed at this point.
 	* But the client browser may still be waiting for additional content, such as images, to load.
