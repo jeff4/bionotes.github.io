@@ -423,12 +423,13 @@ function( event ) {
 
 ```html
 <button id = "mybutton"> Click me! </button>
+
+<script> <!--opening script tag for JS below -->
 ```
 
 #### Code Part 2: JavaScript
 
 ```javascript
-<script>
 let b = document.querySelector( "#mybutton" );
 
 b.onclick = function() {
@@ -440,6 +441,11 @@ b.addEventListener(
 		console.log( "Thanks again!" );
 	}
 );
+```
+
+#### Code Part 3: Closing HTML tag
+
+```html
 </script>
 ```
 
