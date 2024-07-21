@@ -462,6 +462,10 @@ b.addEventListener(
 * It is often useful to temporarily register an event handler and then remove it soon afterward.
 * For example, p. 751
 
+
+## 7/20/2024
+
+
 ***
 
 ## register info
