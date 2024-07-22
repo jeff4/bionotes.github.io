@@ -475,6 +475,42 @@ b.addEventListener(
 	1. **Pointer events** (aka hardware-agnostic notification from devices including mouse, touch, pen/stylus) fired on *Document*, *HTMLElement*.
 	1. **SVG events** fired on *SVGElement*, *SVGAnimationElement*, *SVGGraphicsElement*.
 	1. And many more...
+* Got pages "t09.html" / "t10.html" working with button to change color. Use live-server, etc.
+* Back to Flanagan p. 754
+
+### Sections skimmed p. 754 - 760
+* 15.2.3 Event Handler Invocation 
+* 15.2.4 Event Propagation
+* 15.2.5 Event Cancellation
+* 15.2.6 Dispatching Custom Events
+
+### 15.3 Scripting Documents p. 760
+* Every Window object has a **document** property that refers to the `Document` object. Section 15.3 is all about the DOM, Document object.
+* See this diagram generated on 7/21/2024 by ChatGPT:
+
+```
+Window
+└── Document
+    └── Node
+        ├── Element
+        │   ├── HTMLElement
+        │   │   ├── HTMLDivElement
+        │   │   ├── HTMLSpanElement
+        │   │   ├── HTMLParagraphElement
+        │   │   └── ... (other HTML element classes)
+        │   └── SVGElement
+        ├── Text
+        └── ... (other node types)
+```
+
+1. The `Window` object is not part of the DOM class hierarchy that starts with `Node`. Instead, `Window` is the global object that represents the browser window and provides the environment in which scripts run. It has properties and methods for controlling the browser window, accessing the DOM, and handling events, among other things.
+1. The relationship can be described like this:
+	1. **Window**: The global object that represents the browser window. It provides properties and methods for controlling the window and interacting with the DOM. For example, `window.document` provides access to the `Document` object, which represents the entire HTML document.
+	1. **Document**: The `Document` object is a property of the `Window` object. It represents the entire HTML document and serves as the entry point for accessing the rest of the DOM.
+1. In summary, the `Window` object is the top-level object in the browser's JavaScript environment. The `Document` object is a property of the `Window` object, and the DOM class hierarchy begins with `Node` under the `Document` object.
+
+### 15.3.1 Selecting Document Elements
+* The JS Document Object
 
 ***
 
