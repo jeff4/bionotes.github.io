@@ -466,14 +466,23 @@ b.addEventListener(
 
 ## 7/20/2024
 * Began checking out [MDN docs on Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers).
-* Another entry point is [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
-
+* Another entry point is [MDN intro to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
+* Look at how many events are listed in the [MDN event reference!](https://developer.mozilla.org/en-US/docs/Web/Events) three columns, including what objects these events are fired on:
+	1. **Animation** events fired on *Document*, *Window*, *HTMLElement*.
+	1. **Async data fetching** events fired on *AbortSignal*, *XMLHttpRequest*, *FileReader*.
+	1. **CSS Transition** events fired on *Document*, *Window*, *HTMLElement*.
+	1. **Messaging events** (aka events related to a window receiving a msg from another browsing context) fired on Window.
+	1. **Pointer events** (aka hardware-agnostic notification from devices including mouse, touch, pen/stylus) fired on *Document*, *HTMLElement*.
+	1. **SVG events** fired on *SVGElement*, *SVGAnimationElement*, *SVGGraphicsElement*.
+	1. And many more...
 
 ***
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to paste *`<script>`* from the register **k**, type `"kp`.
+* to paste *`<script>`* from the register **d**, type `"dp`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
 
 `<script>`
+fired on Document, Window, HTMLElement.
