@@ -462,8 +462,11 @@ b.addEventListener(
 * It is often useful to temporarily register an event handler and then remove it soon afterward.
 * For example, p. 751
 
+***
 
-## 7/21/2024
+## 7/20/2024
+* Began checking out [MDN docs on Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers).
+* Another entry point is [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
 
 
 ***
