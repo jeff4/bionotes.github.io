@@ -484,6 +484,7 @@ b.addEventListener(
 * 15.2.5 Event Cancellation
 * 15.2.6 Dispatching Custom Events
 
+## 7/22/2024
 ### 15.3 Scripting Documents p. 760
 * Every Window object has a **document** property that refers to the `Document` object. Section 15.3 is all about the DOM, Document object.
 * See this diagram generated on 7/21/2024 by ChatGPT:
