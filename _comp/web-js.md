@@ -581,6 +581,81 @@ let titles = document.querySelectorAll("h1, h2, h3");
 * For example the JS *Document* object has properties **images**, **forms**, and **links** that map to the HTML elements `<img>`, `<form>`, `<a>`, respectively.
 * The above properties refer to HTMLCollection objects which are much like NodeList objects. But in addition to be being indexed by arrayIndex, they can be accessed by *element ID* and or *element name*.
 
+### 15.3.2 Document Structure and Traversal p. 767
+
+#### Element Objects p. 767 - 768
+
+1. parentNode
+1. children
+1. childElementCount
+1. firstElementChild, lastElementChild
+1. nextElementSibling, previousElementSibling
+
+### Two sample functions p. 768 - 769
+* These functions demonstrate how one can recursively do depth-first traversal of a document
+* **Function 1:** `traverse( e,f)` which recursively traverses the Document or an Element *e*, invoking the function *f* on *e* and each of e's descendants
+
+```javascript
+function traverse( e, f) {
+
+	// Invoke f() on e
+	f(e);  
+
+	// Iterate over the children
+	for( let child of e.children ) {
+
+		// Recurse on each
+		traverse( child, f );
+	}
+}
+```
+
+* **Function 2:** `traverse2( e,f )`
+
+```javascript
+function traverse2( e, f) {
+
+	// Invoke f() on e
+	f(e);
+
+	// Iterate over the children linked-list style
+	let child = e.firstElementChild;
+		while( child !== null ) {
+
+			// Recurse
+			traverse2( child, f );
+			child = child.nextElementSibling;
+
+		}
+
+}
+```
+
+### Alternate Method of Traversal: Documents as Trees of Nodes p. 769 - 771
+* If one wishes to use **Text** nodes (and not ignore them), one can use a different set of properties that are alwys defined on all Node JS objects.
+* All Node JS objects define these properties:
+	1. parentNode
+	1. childNodes
+	1. firstChild, lastChild
+	1. nextSibling, previousSibling
+	1. nodeType
+	1. nodeValue
+	1. NodeName
+* This method is pretty fragile, b/c if even a single blank line `\n` is added, it moves everything off by one. p. 771.
+
+### 15.3.3 Attributes
+* An *HTML element* is basically a **tag name** plus a series of **attributes** (aka name/value pairs called attributes).
+* The clunkier method to create/read/update/delete these attributes is using methods defined by the JS *Element* class such as: `getAttribute()`, `setAttribute()`, `hasAttribute()`, and `removeAttribute()`.
+* The preferred method is accessing these attributes as **properties of the corresponding *JS object***, aka properties of the **HTMLElement** JS object.
+* i.e., it's usually easier to easier to find the URL like so (instead of calling something like `getURL()`):
+
+```javascript
+let jeffImg = document.querySelector("#main_image");
+let jeffUrl = jeffImg.src; // aka src attribute is the URL of the image
+
+jeffImg.id === "main_image"; // returns true b/c we looked up the image by id
+
+```
 
 ***
 
