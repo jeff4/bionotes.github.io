@@ -515,8 +515,8 @@ Window
 * However, to select *more nested* JS Elements objects (mapping to the corresponding HTML tags that are also further nested), we must use the DOM JS methods **querySelector()** and **querySelectorAll()**.
 * Each Element, e.g., a `button` JS object therefore has a DOM method like `button.querySelector()`. This is so named from the CSS syntax for **selectors**. p. 761.
 * CSS selectors can describe elements by: (1) tag name; (2) the value of their `id` attribute; or (3) words in their `class` attribute. Examples:
-	* `div` Any <div> element
-	* `#nav` The element with id="nav"
+	* `div` Any `<div>` element
+	* `#nav` The element with `id="nav"`
 	* `.warning` The element with "warning" in its class attribute
 * The `#` character is used to match based on the `id` attribute and the `.` character is used to match based on the class attribute.
 * JS Element objects can also be selected based on more general attribute values:
@@ -525,7 +525,7 @@ Window
 * Note in the above examples, we combine a tag name selector (or a `*` wildcard for many tag names) with an attribute selector.
 * See also these more complex combinations:
 	* `span.fatal.error` Any HTML tag <span> with *fatal* and *error* in its `class` attribute.
-	* `span[lang="f"].warning` Any HTML tag <span> in French with the *warning* class.
+	* `span[lang="f"].warning` Any HTML tag <span> in French with the `warning` class.
 * Selectors can also specify document structure
 	* `#log span` Any <span> descendant of the element with HTML `id="log"`
 	* `#log>span` Any <span> child of the element with HTML `id="log"`
@@ -539,7 +539,7 @@ Window
 #### querySelector()
 * The **querySelector()** method takes a CSS selector string as its input argument. 
 * The **querySelector()** method outputs the first matching element in the document that it finds; *of* returns a **null** if nothing matches.
-* e.g., to find the document element for the HTML tag with the attribute *id="spinner"*:
+* e.g., to find the document element for the HTML tag with the attribute `id="spinner`:
 
 ```javascript
 let spinner = document.querySelector("#spinner");
