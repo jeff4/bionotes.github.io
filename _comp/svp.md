@@ -198,3 +198,7 @@ While the **DOM** and **BOM** serve different purposes, they often work together
 * p. 214 allows browser to see how many previously visited pages in the length of the stack that is returned by the `console.dir(history)` command.
 	* To go 1 page back, type `window.history.go(-1)`
 	* To go 2 pages back, type `window.history.go(-2)`
+* p. 216 The URL of the current webpage is found in the JS property **window.property**. Thus within Dev Tools > Console, type `console.dir(window.location)` or equivalently, `console.dir(location)` .
+* I quite like the Safari Dev Tools. Just like FireFox on macOS, both are accessible via **cmd+option+I**.
+	* In Safari, to access JS console, **cmd+option+C**
+	* In FireFox, to access JS console, **shift+option+J**
