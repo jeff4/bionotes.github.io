@@ -157,4 +157,30 @@ let c = new Cat("Mittens", "Black");
 | `value`            | Sets the initial value of the element it is added to.                           | `button`, `input`, `li`, and a few we haven't seen yet  |
 | `style`            | Gives a specified layout to the HTML element it is added to.                    | All of them                                             |
 
+### BOM - Browser Object Model p. 211
+* The BOM, aka the **window browser object** is the amazing 'magic' element that makes it possible to communicate with the browser.
+* The window object contains all the properties required to represent the window of the browser.
+* Each browser has its own implementation of the BOM.
+* For more on relationship between BOM and DOM, see ChatGPT from 7/22/2024.
+
+#### What is BOM?
+The **Browser Object Model (BOM)** is a representation of the browser's environment. It provides the objects through which you can interact with the browser itself, outside the context of the page content. This includes objects like `window`, `navigator`, `location`, `history`, and `screen`.
+
+#### Key Features of BOM:
+- **Browser Interaction**: Allows interaction with browser properties and methods, such as manipulating the browser window, accessing browser history, and retrieving information about the user's screen.
+- **Independent of HTML**: Unlike the DOM, the BOM is not related to the document's structure but rather to the browser environment itself.
+- **Window Object**: The `window` object is the global object in a browser environment, and all other BOM objects (like `navigator`, `location`, etc.) are its properties.
+
+#### How BOM Relates to HTML and Front-end Development:
+- **Browser Control**: BOM allows developers to control browser behaviors, which is crucial for tasks like redirection, detecting browser capabilities, or working with browser storage.
+- **Supplementing DOM**: While the DOM handles document structure, the BOM provides the ability to interact with the broader environment, offering additional functionality beyond just document manipulation.
+
+### Relationship Between DOM and BOM
+
+While the **DOM** and **BOM** serve different purposes, they often work together in front-end development to create dynamic, interactive web applications.
+
+- **`window` as a Bridge**: In the browser, the `window` object acts as a bridge between the DOM and BOM. The `document` object is a property of the `window`, and it represents the DOM. Therefore, when you interact with `document`, you're accessing the DOM through the BOM's `window` object.
+- **Complementary Roles**: While DOM manipulations change the content and structure of a web page, BOM provides the ability to interact with the browser itself, offering a complete suite for building rich web applications.
+- **JavaScript Integration**: Both the DOM and BOM are integral to JavaScript in the browser. JavaScript relies on the DOM for document manipulation and the BOM for browser-level operations, making it a powerful language for front-end development.
+- **User Experience**: Together, the DOM and BOM enable developers to create highly interactive and user-friendly experiences. For example, dynamically updating the content of a page (DOM) and managing browser sessions or detecting user settings (BOM) can lead to a seamless user experience.
 
