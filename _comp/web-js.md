@@ -578,7 +578,7 @@ let titles = document.querySelectorAll("h1, h2, h3");
 
 #### Historical ShortCut Selectors p. 765 - 766
 * For historical reasons, the **Document** class defines shortcut properties to access certain kinds of nodes. 
-* For example the JS *Document* object has properties images, forms, and links that map to the HTML elements `<img>`, `<form>`, `<a>`.o
+* For example the JS *Document* object has properties **images**, **forms**, and **links** that map to the HTML elements `<img>`, `<form>`, `<a>`, respectively.
 * The above properties refer to HTMLCollection objects which are much like NodeList objects. But in addition to be being indexed by arrayIndex, they can be accessed by *element ID* and or *element name*.
 
 
