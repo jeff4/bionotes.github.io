@@ -122,4 +122,39 @@ let c = new Cat("Mittens", "Black");
 * Let's use an example with the Person class p. 161. See `4b-prototype-person.js`.
 * Finished with Chapter 7. 
 
+***
+
+## 7/22/2024
+
+# SVP Chapter 9: The DOM
+### HTML Crash Course
+* p. 206 HTML elements
+* We open every element with a `<elementName>` and close every element with a `</elementName>`.
+* p. 208 The html `<Head>` element contains a lot of things meant for the browser and not the end user. This incluces:
+	* CSS
+	* JS scripts
+	* metadata e.g., info for search engines
+* Example
+
+```html
+<head>
+
+	<title> Title that appears in browser tab </title>
+	<meta name="page description in Google" content="This is the preview that appears in Google." >
+	<script src="externalJavaScript.js"></script>
+
+</head>
+```
+* See p. 209 for an example of common HTML tags
+
+### HTML Attributes p. 210
+
+| **Attribute name** | **Description**                                                                 | **Can be used on which element?**                       |
+|--------------------|---------------------------------------------------------------------------------|---------------------------------------------------------|
+| `id`               | Gives an element a unique ID, such as age.                                      | All of them                                             |
+| `name`             | Used to give a custom name to an element.                                       | `input`, `button`, `form`, and quite a few we haven't seen yet |
+| `class`            | Special metadata that can be added to an element. This can result in a certain layout or JavaScript manipulation. | Almost all of them inside body                          |
+| `value`            | Sets the initial value of the element it is added to.                           | `button`, `input`, `li`, and a few we haven't seen yet  |
+| `style`            | Gives a specified layout to the HTML element it is added to.                    | All of them                                             |
+
 
