@@ -557,9 +557,29 @@ let titles = document.querySelectorAll("h1, h2, h3");
 * Instead, the return is an array-like JS object called a **NodeList**.
 * `NodeList` JS objects have a **length** property and can be indexed like regular arrays.
 * `NodeList` JS objects are also iterable and can be manipulated by the modern `for/of` loop construct.
-* To convert `NodeList` JS objects 
+* To convert a `NodeList` JS object into a regular array, pass the NodeList into `Array.from()`.
+* The **querySelectorAll()** and **querySelectorAll()** are implemented by both the **Element** and **Document** JS classes.
+	* When invoked on an element, these methods will only return elements that are children of that element.
 
+#### CSS Pseudoelements
+* CSS defines pseudoelements like `::first-line` and `::first-letter`.
+* In CSS, these match portions of *text nodes* rather than actual elements.
+* However, **querySelectorAll()** and **querySelectorAll()** will *not* work when fed `::first-letter`.
+* Furthermore, for security/privacy reasons, many browsers will refuse to return matches for `:link` and `:visited`.
 
+#### Using closest() and matches() p. 764-765
+
+#### Other Element Selection methods p. 765
+* In addition to **querySelectorAll()** and **querySelectorAll()**, the DOM also defines a number of older element selection methods that are mostly obsolete. e.g:
+	**getElementById()**
+	**getElementsByName()**
+	**getElementsByTagName()**
+	**getElementsByClassName()**
+
+#### Historical ShortCut Selectors p. 765 - 766
+* For historical reasons, the **Document** class defines shortcut properties to access certain kinds of nodes. 
+* For example the JS *Document* object has properties images, forms, and links that map to the HTML elements `<img>`, `<form>`, `<a>`.o
+* The above properties refer to HTMLCollection objects which are much like NodeList objects. But in addition to be being indexed by arrayIndex, they can be accessed by *element ID* and or *element name*.
 
 
 ***
@@ -568,7 +588,8 @@ let titles = document.querySelectorAll("h1, h2, h3");
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to paste *`<script>`* from the register **k**, type `"kp`.
 * to paste *`<script>`* from the register **d**, type `"dp`.
+* to paste *`<script>`* from the register **q**, type `"dq`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
 
 `<script>`
-fired on Document, Window, HTMLElement.
+**querySelectorAll()** and **querySelectorAll()**
