@@ -510,7 +510,57 @@ Window
 1. In summary, the `Window` object is the top-level object in the browser's JavaScript environment. The `Document` object is a property of the `Window` object, and the DOM class hierarchy begins with `Node` under the `Document` object.
 
 ### 15.3.1 Selecting Document Elements
-* The JS Document Object
+* The **JS Document** object has a *JS head property** (that maps to the HTML `<head>` element).
+* The **JS Document** object has a *JS body property** (that maps to the HTML `<body>` element).
+* However, to select *more nested* JS Elements objects (mapping to the corresponding HTML tags that are also further nested), we must use the DOM JS methods **querySelector()** and **querySelectorAll()**.
+* Each Element, e.g., a `button` JS object therefore has a DOM method like `button.querySelector()`. This is so named from the CSS syntax for **selectors**. p. 761.
+* CSS selectors can describe elements by: (1) tag name; (2) the value of their `id` attribute; or (3) words in their `class` attribute. Examples:
+	* `div` Any <div> element
+	* `#nav` The element with id="nav"
+	* `.warning` The element with "warning" in its class attribute
+* The `#` character is used to match based on the `id` attribute and the `.` character is used to match based on the class attribute.
+* JS Element objects can also be selected based on more general attribute values:
+	* `p[lang="fr"]` A paragraph written in French, aka HTML tag `<p lang="fr">`.
+	* `*[name="x"]` Any element with the `name="x"` attribute.
+* Note in the above examples, we combine a tag name selector (or a `*` wildcard for many tag names) with an attribute selector.
+* See also these more complex combinations:
+	* `span.fatal.error` Any HTML tag <span> with *fatal* and *error* in its `class` attribute.
+	* `span[lang="f"].warning` Any HTML tag <span> in French with the *warning* class.
+* Selectors can also specify document structure
+	* `#log span` Any <span> descendant of the element with HTML `id="log"`
+	* `#log>span` Any <span> child of the element with HTML `id="log"`
+	* `body>h1:first-child` The first `<h1>` child of the `<body>` 
+	* `img + p.caption` A HTML `<p>` element with class `"caption"` immediately after an `<img>` tag
+	* `h2 ~ p` Any `<p>` HTML tag that follows an `<h2>` HTML tag is a sibling of it.
+* If two selectors are separated by a comma, it means we've selected elements that match either one of the selectors:
+	* `button, input[type="button"]` All `<button>` and `<input type="button">` elements 
+* As one can see, the CSS selectors allow us to reer to elements witin an HTML document by type, ID, class, attributes, and position within the document.
+
+#### querySelector()
+* The **querySelector()** method takes a CSS selector string as its input argument. 
+* The **querySelector()** method outputs the first matching element in the document that it finds; *of* returns a **null** if nothing matches.
+* e.g., to find the document element for the HTML tag with the attribute *id="spinner"*:
+
+```javascript
+let spinner = document.querySelector("#spinner");
+```
+
+#### querySelectorAll()
+* Similar to **querySelector()** method except it matches *all* matching elements in the document.
+* The following selector finds all HTML Elements with `<h1>`, `<h2>`, `<h3>`.
+
+```javascript
+let titles = document.querySelectorAll("h1, h2, h3");
+```
+
+* Importantly, the return value of querySelectorAll() is *not* an array of ELement JS objects.
+* Instead, the return is an array-like JS object called a **NodeList**.
+* `NodeList` JS objects have a **length** property and can be indexed like regular arrays.
+* `NodeList` JS objects are also iterable and can be manipulated by the modern `for/of` loop construct.
+* To convert `NodeList` JS objects 
+
+
+
 
 ***
 
