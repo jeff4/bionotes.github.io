@@ -484,6 +484,8 @@ b.addEventListener(
 * 15.2.5 Event Cancellation
 * 15.2.6 Dispatching Custom Events
 
+***
+
 ## 7/22/2024
 ### 15.3 Scripting Documents p. 760
 * Every Window object has a **document** property that refers to the `Document` object. Section 15.3 is all about the DOM, Document object.
@@ -682,8 +684,51 @@ f.method = "POST";  // Set the HTTP request type
 #### The Class Attribute p. 774
 * The class attribute of an HTML element is a particularly important one. 
 * Its value is a space-separated list of CSS classes that apply to the element and affect how it is styled with CSS.
-* Because class is a reserved word in JavaScript, the value of this attribute is available through the className property on Element objects.
+* Because `class` is a reserved word in JavaScript, the value of this attribute is available through the 
+**className** property on JS *Element* objects.
+* Unfortunately, the HTML `class` attribute of html `<elements>` are poorly named. 
+	* The value for class is a *list* of CSS classes, not just a single class.
+	* It is common in client-side JS programming to add and remove individual class names from this list rather than working with the list as a single string.
+* For this reason, JS Element objects also define a **classList** property that allows one to treat the html `<class>` attribute as a list.
+* The value of the *classList* JS object is an iterable Array-like object.
+* Example for when we want to know the user that the program is busy, we display a spinner. To do do this, we have to remove the *hidden* class and add the *animated* class
 
+```javascript
+let jeffSpinner = document.querySelector*("#spinner");
+jeffSpinner.classList.remove("hidden");
+jeffSpinner.classList.add("animated");
+```
+
+#### Dataset Attributes p. 775
+* Sometimes, we want to add additional info to an HTML element.
+* In HTML, any attribute whose name is lowercase and begins with the prefix *data-* is considered valid and one can use them for any purpose.
+* These **dataset attributes** will not affect the presentation of the elements on which they appear.
+* These dataset attributes define a standard way of attaching additional data without compromising the HTML validity. See example below
+* HTML
+
+```html
+<h2 id="title" data-section-number="16.1">Attributes</h2>
+```
+
+* JS to access section number in above HTML:
+
+```javascript
+let number = document.querySelector("#title").dataset.sectionNumber;
+console.log(number);  // will output 16.1
+```
+
+15.3.4 Element Content
+* Element content as HTML p. 777
+	* innerHTML vs. outerHTML
+	* p. 779 "**innerText** has some unusual and complex behaviors, such as attempting to preserve table formatting. It is not well specified nor implemented compatibly between browsers, however, and should no longer be used."
+* Element content as Plain Text p. 778
+	* Use the `textContent` property
+
+### 15.3.5 Creating, Inserting, Deleting Nodes p. 779
+
+
+### 15.3.6 Example p. 782
+* Using JS and the DOM to generate a Table of Contents for your HTML page.
 
 
 
