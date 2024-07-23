@@ -510,8 +510,8 @@ Window
 1. In summary, the `Window` object is the top-level object in the browser's JavaScript environment. The `Document` object is a property of the `Window` object, and the DOM class hierarchy begins with `Node` under the `Document` object.
 
 ### 15.3.1 Selecting Document Elements
-* The **JS Document** object has a *JS head property** (that maps to the HTML `<head>` element).
-* The **JS Document** object has a *JS body property** (that maps to the HTML `<body>` element).
+* The **JS Document** object has a *JS head property* (that maps to the HTML `<head>` element).
+* The **JS Document** object has a *JS body property* (that maps to the HTML `<body>` element).
 * However, to select *more nested* JS Elements objects (mapping to the corresponding HTML tags that are also further nested), we must use the DOM JS methods **querySelector()** and **querySelectorAll()**.
 * Each Element, e.g., a `button` JS object therefore has a DOM method like `button.querySelector()`. This is so named from the CSS syntax for **selectors**. p. 761.
 * CSS selectors can describe elements by: (1) tag name; (2) the value of their `id` attribute; or (3) words in their `class` attribute. Examples:
