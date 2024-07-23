@@ -6,6 +6,7 @@ permalink: /svp/
 ## Notes on Laurence Lars Svekis, Maaike van Putten, Rob Percival
 * JS from Beginner to Professional
 * Published 2021, Pakt Publishing
+* SVP = Svekis, van Putten, Percival
 
 ## 7/08/2024
 ## Chapter 7: Classes
@@ -185,3 +186,15 @@ While the **DOM** and **BOM** serve different purposes, they often work together
 - **JavaScript Integration**: Both the DOM and BOM are integral to JavaScript in the browser. JavaScript relies on the DOM for document manipulation and the BOM for browser-level operations, making it a powerful language for front-end development.
 - **User Experience**: Together, the DOM and BOM enable developers to create highly interactive and user-friendly experiences. For example, dynamically updating the content of a page (DOM) and managing browser sessions or detecting user settings (BOM) can lead to a seamless user experience.
 
+
+***
+
+## 7/23/2024
+
+### More in SVP Chapter 9 
+* p. 212. Can inspect tree within Dev Tools > Console by typing `console.dir(window)`.  
+* p. 213 `window.history.length` outputs length of history object.
+* p. 214. `console.dir(<OBJECT>)` shows all properties of whatever JS object listed in <OBJECT>.
+* p. 214 allows browser to see how many previously visited pages in the length of the stack that is returned by the `console.dir(history)` command.
+	* To go 1 page back, type `window.history.go(-1)`
+	* To go 2 pages back, type `window.history.go(-2)`
