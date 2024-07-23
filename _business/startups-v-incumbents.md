@@ -667,3 +667,11 @@ sitemap: false
 
 ## 29 June 2024
 * Rodney Brook's [skepticism about gen AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
+
+## 23 July 2024
+* Meta announces Llama version 3.1. Zuckerberg's [blog post](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) about how "Open Source AI is the Path Forward".
+	* [HN thread responding to Zuck's blog post](https://news.ycombinator.com/item?id=41046773)
+	* [Different HN thread about Llama 3.1 itself](https://news.ycombinator.com/item?id=41046540)
+
+
+
