@@ -656,7 +656,38 @@ let jeffUrl = jeffImg.src; // aka src attribute is the URL of the image
 jeffImg.id === "main_image"; // returns true b/c we looked up the image by id
 
 ```
-fired on Document, Window, HTMLElement.
+#### Form-submission attribute access sample code p. 773
+
+```javascript
+let f = document.querySelector("form") // find first <form> in the document
+f.action = "https://www.example.com/submit"; // Set the URL to submit it to
+f.method = "POST";  // Set the HTTP request type
+```
+
+* **Important Note:** While HTML attributes are note case-sensitive, **JS property names *are* case-sensitive**.
+	* To convert an attribute nmae to the equivalent JS property, write it in lowercase.
+	* If the attribute is more than one word long, put it in Camel Case, e.g., `defaultChecked` and `tabIndex`.
+	* *Exception:* Event Handler properties like `onclick` are written in all lowercase.
+* Some HTML attribute names are reserved words in JS. The general rule for these words is to prefix the propery name with "html" when converting to JS.
+	* e.g., The HTML `<label>` element has an HTML attribute called **for**.
+	* of course, `for` is a reserved word in JS.
+	* So we convert the HTML tag `<label for=" ">` into the JS property **htmlFor** of the JS object **label**.
+* Note that the HTML `class` attributes is translated into the JS property **className**. (If we followed the usual rule above, it should turn into the JS property **htmlClass**.
+
+#### Property-based API does not allow deletion p. 774
+* Note that this property-based API for getting and setting attribute values does not define any way to remove an attribute from an element. 
+* In particular, the **delete** operator cannot be used for this purpose. If you need to delete an attribute, use the **removeAttribute()** method.
+
+#### The Class Attribute p. 774
+* The class attribute of an HTML element is a particularly important one. 
+* Its value is a space-separated list of CSS classes that apply to the element and affect how it is styled with CSS.
+* Because class is a reserved word in JavaScript, the value of this attribute is available through the className property on Element objects.
+
+
+
+
+
+
 ***
 
 ## register info
@@ -665,6 +696,7 @@ fired on Document, Window, HTMLElement.
 * to paste `fired on Document, Window, HTMLElement.` from the register **d**, type `"dp`.
 * to paste `**querySelectorAll()** and **querySelectorAll()**` from the register **q**, type `"dq`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
+* to yank from cursor to end of the current line and store in register **b**, type `"by$`.
 
 `<script>`
 **querySelectorAll()** and **querySelectorAll()**
