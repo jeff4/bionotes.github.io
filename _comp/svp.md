@@ -201,4 +201,5 @@ While the **DOM** and **BOM** serve different purposes, they often work together
 * p. 216 The URL of the current webpage is found in the JS property **window.property**. Thus within Dev Tools > Console, type `console.dir(window.location)` or equivalently, `console.dir(location)` .
 * I quite like the Safari Dev Tools. Just like FireFox on macOS, both are accessible via **cmd+option+I**.
 	* In Safari, to access JS console, **cmd+option+C**
-	* In FireFox, to access JS console, **shift+option+J**
+	* In FireFox, to access JS console, **shift+option+J**. This doesn't work the way I want. 
+* From ChatGPT, the Safari Dev Tools Console, the **O** icon = *Objects*, the **F** icon = *Function*, the **S** icon = *String*, 
