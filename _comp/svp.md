@@ -163,6 +163,7 @@ let c = new Cat("Mittens", "Black");
 * Each browser has its own implementation of the BOM.
 * For more on relationship between BOM and DOM, see ChatGPT from 7/22/2024.
 
+### Excerpt from ChatGPT (7/22)
 #### What is BOM?
 The **Browser Object Model (BOM)** is a representation of the browser's environment. It provides the objects through which you can interact with the browser itself, outside the context of the page content. This includes objects like `window`, `navigator`, `location`, `history`, and `screen`.
 
@@ -175,7 +176,7 @@ The **Browser Object Model (BOM)** is a representation of the browser's environm
 - **Browser Control**: BOM allows developers to control browser behaviors, which is crucial for tasks like redirection, detecting browser capabilities, or working with browser storage.
 - **Supplementing DOM**: While the DOM handles document structure, the BOM provides the ability to interact with the broader environment, offering additional functionality beyond just document manipulation.
 
-### Relationship Between DOM and BOM
+#### Relationship Between DOM and BOM
 
 While the **DOM** and **BOM** serve different purposes, they often work together in front-end development to create dynamic, interactive web applications.
 
