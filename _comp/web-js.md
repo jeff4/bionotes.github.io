@@ -656,14 +656,14 @@ let jeffUrl = jeffImg.src; // aka src attribute is the URL of the image
 jeffImg.id === "main_image"; // returns true b/c we looked up the image by id
 
 ```
-
+fired on Document, Window, HTMLElement.
 ***
 
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to paste *`<script>`* from the register **k**, type `"kp`.
-* to paste *`<script>`* from the register **d**, type `"dp`.
-* to paste *`<script>`* from the register **q**, type `"dq`.
+* to paste `fired on Document, Window, HTMLElement.` from the register **d**, type `"dp`.
+* to paste `**querySelectorAll()** and **querySelectorAll()**` from the register **q**, type `"dq`.
 * to yank next 3 words and store in register **a**, type `"ay3w`.
 
 `<script>`
