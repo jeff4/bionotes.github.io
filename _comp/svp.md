@@ -220,5 +220,10 @@ console.dir(ele1);
 const eles = document.querySelectorAll(".output");
 console.dir(eles);
 ```
+* Completed everything in Chapter 9. Except might be worthwile to do Practice Exercise 9.3, Chapter Project (Manipulating HTML elements with JS), and Self-Check Quiz (p. 221 - 223)
 
-* 
+### Chapter 10: Dynamic Element Manipulation Using the DOM p. 225
+* Topics: basic DOM travseral, DOM element access, Element click handler, `this` keyword in the DOM, changing the class of an element, event listeners
+
+
+#### Basic DOM traversal p. 226
