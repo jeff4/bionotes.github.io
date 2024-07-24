@@ -317,4 +317,12 @@ document.body.children.greeting.innerText = "Goodbye, my friend! 👋"
 	* Input: *document.getElementsByClassName("kitty");*
 	* Output: `HTMLCollection { 0: div#four.kitty, length: 1, … }`
 
+### Accessing elements by tag name p. 232
+* Command and output below
 
+```html
+	* Input: *document.getElementsByTagName("div");*
+	* Output: `HTMLCollection { 0: div#one.example, 1: div#two.example, 2: div#three.something, 3: div#four.kitty, length: 4, … }`
+```
+
+* As we can see, every element with the `div` tag are returned.
