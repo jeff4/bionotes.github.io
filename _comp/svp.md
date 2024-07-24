@@ -305,9 +305,16 @@ document.body.children.greeting.innerText = "Goodbye, my friend! 👋"
 		<div id="one" class="example">Hi!</div>
 		<div id="two" class="example">Hi!</div>
 		<div id="three" class="something">Hi!</div>
+		<div id="four" class="kitty">Feline</div>
 	</body>
 
 </html>
 ```
 
-* Let's access the elements by ID.
+* Let's access the elements by ID and then ClassName, respectively. See below for JS commands and outputs to Dev Tools Console.
+	* Input: *document.getElementById("four");*
+	* `<div id="four" class="kitty">`
+	* Input: *document.getElementsByClassName("kitty");*
+	* `HTMLCollection { 0: div#four.kitty, length: 1, … }`
+
+
