@@ -279,6 +279,8 @@ document.body.children.forest.children.tree1.nextElementSibling;
 
 * Let's traverse to the `<p>` element with this JS command in the browser's Dev Tools console: **document.body.children.greeting**.
 	* Output: `<p id="greeting">`
+
+#### Changing innerText p. 230
 * We can then assign a new value using the `innerText` property with this command:
 
 ```javascript
@@ -286,3 +288,26 @@ document.body.children.greeting.innerText = "Goodbye, my friend! 👋"
 ```
 
 * Which changes *`<p id="greeting">Hi</p>`* into **`<p id="greeting">Goodbye, my friend! 👋</p>`**
+
+
+#### Changing innerHTML p. 231
+* If we want to change not just the plain text but also the HTML tags, we use edit the **innerHTML** property. 
+
+### Accessing elements in the DOM p. 231 - 233
+* Now let's use this new HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+	<body>
+		<h1> Just an example</h1>
+		<div id="one" class="example">Hi!</div>
+		<div id="two" class="example">Hi!</div>
+		<div id="three" class="something">Hi!</div>
+	</body>
+
+</html>
+```
+
+* Let's access the elements by ID.
