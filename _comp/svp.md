@@ -203,3 +203,22 @@ While the **DOM** and **BOM** serve different purposes, they often work together
 	* In Safari, to access JS console, **cmd+option+C**
 	* In FireFox, to access JS console, **shift+option+J**. This doesn't work the way I want. 
 * From ChatGPT, the Safari Dev Tools Console, the **O** icon = *Objects*, the **F** icon = *Function*, the **S** icon = *String*, 
+* Completed Practice Exercise 9.2 on p. 217
+
+### SVP's treatment of the DOM p. 217
+* Exercise on p. 220 - 221. HTML is entered into `t11.html`. Then tried this in the FireFox Dev Tools Console successfully.
+
+
+```javascript
+const ele1 = document.querySelector("h1");
+console.dir(ele1);
+```
+
+* And output is as expected: the properties of the **h1** JS object. Now let's try to select all elements with the HTML class name `< ELEMENT class="output">`
+
+```javascript
+const eles = document.querySelectorAll(".output");
+console.dir(eles);
+```
+
+* 
