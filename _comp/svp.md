@@ -225,5 +225,74 @@ console.dir(eles);
 ### Chapter 10: Dynamic Element Manipulation Using the DOM p. 225
 * Topics: basic DOM travseral, DOM element access, Element click handler, `this` keyword in the DOM, changing the class of an element, event listeners
 
-
 #### Basic DOM traversal p. 226
+* had some success and some failure in trying to implement commands from p. 225 - 229. 
+* Sample HTML page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+	<body>
+		<h1> Let's find the treasure! </h1>
+		<div id="forest">
+			<div id="tree1">
+				<div id="squirrel"></div>
+				<div id="flower"></div>
+			</div>
+
+
+			<div id="tree2">
+
+				<div id="shrubbery">
+					<div id="treasure"></div>
+				</div>
+
+				<div id="mushroom">
+					<div id="bug"></div>
+				</div>
+
+			</div>
+
+		</div>
+
+	</body>
+</html>
+```
+
+* Sample commands in Dev Tools Console:
+
+```javascript
+document.body.children.forest.children.tree2.parentElement;
+document.body.children.forest.children.tree2;
+document.body.children.forest.children.tree2.previousElementSibling;
+document.body.children.forest.children.tree1.nextElementSibling;
+```
+
+### Selecting elements as objects p. 229
+
+* Sample HTML page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+	<body>
+		<h1> Welcome page </h1>
+		<p id="greeting">
+			Hi!
+		</p>
+	</body>
+
+</html>
+```
+
+* Let's traverse to the `<p>` element with this JS command in the browser's Dev Tools console: **document.body.children.greeting**.
+	* Output: `<p id="greeting">`
+* We can then assign a new value using the `innerText` property with this command:
+
+```javascript
+document.body.children.greeting.innerText = "Goodbye, my friend! 👋" 
+```
+
+* Which changes `<p id="greeting">Hi</p>` into `<p id="greeting">Goodbye, my friend! 👋</p>`
