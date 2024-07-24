@@ -285,4 +285,4 @@ document.body.children.forest.children.tree1.nextElementSibling;
 document.body.children.greeting.innerText = "Goodbye, my friend! 👋" 
 ```
 
-* Which changes `<p id="greeting">Hi</p>` into `<p id="greeting">Goodbye, my friend! 👋</p>`
+* Which changes *`<p id="greeting">Hi</p>`* into **`<p id="greeting">Goodbye, my friend! 👋</p>`**
