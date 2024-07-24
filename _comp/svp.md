@@ -232,7 +232,6 @@ console.dir(eles);
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
 	<body>
 		<h1> Let's find the treasure! </h1>
 		<div id="forest">
@@ -240,22 +239,15 @@ console.dir(eles);
 				<div id="squirrel"></div>
 				<div id="flower"></div>
 			</div>
-
-
 			<div id="tree2">
-
 				<div id="shrubbery">
 					<div id="treasure"></div>
 				</div>
-
 				<div id="mushroom">
 					<div id="bug"></div>
 				</div>
-
 			</div>
-
 		</div>
-
 	</body>
 </html>
 ```
@@ -276,14 +268,12 @@ document.body.children.forest.children.tree1.nextElementSibling;
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
 	<body>
 		<h1> Welcome page </h1>
 		<p id="greeting">
 			Hi!
 		</p>
 	</body>
-
 </html>
 ```
 
