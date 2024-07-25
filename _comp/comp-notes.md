@@ -983,3 +983,12 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 1. `Ctrl+w` to delete the previous word
 1. `Ctrl+u` to delete the entire line.
 
+## 7/25/2024
+* Reflections on last month of JS learning.
+* Started in earnest around 6/21/2024.
+* Since then, significant progress through SVP and Flanagan. Am currently in a bit of a slog through client-side JS because I am adding new info about HTML (e.g., going deeper on HTML `<div>` ), and going deeper on CSS.
+* On 7/24, purchased paper copy of Jennifer Robbins' [Learning Web Design, 5th ed](https://www.oreilly.com/library/view/learning-web-design/9781491960196/) from 2018.
+* Watched next steps for a frontend dev in 2024-2025. This [March, 2024](https://www.youtube.com/watch?v=EzTxYQmU8OE) video by ByteGrad has what seems like reasonable advice. Also from BytGrad, two series to look at regarding CSS Grid vs Flexbox:
+	* [7-minute flexbox tutorial](https://www.youtube.com/watch?v=y_taUkBEouU) from 2022.
+	* [9 Layout Example on Flexbox](https://www.youtube.com/watch?v=xN1BkNItTRk&t=82s) from 2023. 40-minute Crash Course by ByteGrad.
+	* Not from ByteGrad is this tutorial From Feb, 2023 -- [CSS Grid vs. Flexbox](https://www.simplilearn.com/tutorials/css-tutorial/css-grid-vs-flexbox#:~:text=CSS%20Grid%20provides%20two%2Ddimensional,axis%2C%20either%20horizontally%20or%20vertically.)
