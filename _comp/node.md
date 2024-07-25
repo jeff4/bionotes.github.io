@@ -1,6 +1,7 @@
 ---
 title: Node.JS 2022 onwards
 permalink: /node/
+sitemap: false
 ---
 
 # NodeJS -- 2022 Log
@@ -190,4 +191,5 @@ console.log("Query completed!");
 * This also explains why our HTTP server needs a function it can call upon incoming requestsi-- if Node.js would start the server and then just pause, waiting for the next request, continuing only when it arrives, that would be highly inefficent. If a second user requests the server while it is still serving the first request, that second request could only be answered after the first one is done--as soon as you have more than a handful of HTTP requests per second, this wouldn’t work at all.
 
 
-
+## 7/18/2024
+* [July 2024 dev.to article](https://dev.to/vyan/how-to-structure-your-backend-code-in-nodejs-expressjs-2bdd) explaning how to structure backend code using the subdirectory structure of ExpressJS as an example.
