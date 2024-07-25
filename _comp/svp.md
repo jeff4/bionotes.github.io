@@ -1,6 +1,7 @@
 ---
 title: SVP JS
 permalink: /svp/
+sitemap: false
 ---
 
 ## Notes on Laurence Lars Svekis, Maaike van Putten, Rob Percival
@@ -326,3 +327,4 @@ document.body.children.greeting.innerText = "Goodbye, my friend! 👋"
 ```
 
 * As we can see, every element with the `div` tag are returned.
+* After a ChatGPT dialog, I've decided to properly learn CSS from Jennifer ORobbins' *Learning Web Design*, 5th Edition (2018).
