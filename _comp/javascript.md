@@ -1,6 +1,7 @@
 ---
 title: Javascript
 permalink: /javascript/
+sitemap: false
 ---
 
 ## 2022 Log
