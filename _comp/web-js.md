@@ -1,6 +1,7 @@
 ---
 title: Client JavaScript
 permalink: /web-js/
+sitemap: false
 ---
 
 ## WebJS / Client JS / Front End JavaScript
@@ -55,8 +56,9 @@ permalink: /web-js/
 
 ***
 
-## 7/17/2024
+## 7/17/2024 - More Flanagan
 ### 15.1.2 Brief intro to the DOM p. 722
+
 * Short intro; there is much more detail on the DOM in Section 15.3 (p. 760).
 * The DOM API mirrors the tree structure of an HTML document. 
 * For every HTML tag in the document, there is a corresponding JS *Element* object.
@@ -727,8 +729,11 @@ console.log(number);  // will output 16.1
 ### 15.3.5 Creating, Inserting, Deleting Nodes p. 779
 
 
-### 15.3.6 Example p. 782
+### 15.3.6 Example p. 782 - 785
 * Using JS and the DOM to generate a Table of Contents for your HTML page.
+
+
+### Section 15.4 Scripting CSS p. 785
 
 
 
