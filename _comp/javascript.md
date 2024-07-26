@@ -1688,6 +1688,10 @@ import { render as renderUI } from "./ui.js";
 ### 10.3.5, 10.3.6, 10.3.7 -- JS modules on the Web
 * p. 470 - 477
 * Probably best to read these after we finish Flanagan Chapter 15 on Web Programming
+* 
+
+## 7/26/2024
+* Learning Web Design 5e arrived
 
 ***
 
