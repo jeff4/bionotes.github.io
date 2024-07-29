@@ -1690,7 +1690,7 @@ import { render as renderUI } from "./ui.js";
 * Probably best to read these after we finish Flanagan Chapter 15 on Web Programming
 
 
-## 7/28/2024
+## 7/29/2024
 # Started Learning Web Design, 5d, Jennifer N. Robbins
 ### Chapter 11: Introducing CSS p. 239
 * Up to p. 242
