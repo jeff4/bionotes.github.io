@@ -58,7 +58,10 @@ sitemap: false
 	* Therefore, an element sized to 10rem would measure 160 pixels.
 * More on **em** unit p. 254
 	* In traditional publishing, the em is equal to the capital letter **M** in the current font size
-	* In CSS, an *em* is calculated ad the distance between baselines when the font is set without any extra space between the lines (aka *leading*). 
+	* In CSS, an *em* is calculated ad the distance between baselines when the font is set without any extra space between the lines (aka *leading*).
+
+
+## 7/31
 
 ***
 
