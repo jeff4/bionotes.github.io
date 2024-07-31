@@ -27,6 +27,41 @@ sitemap: false
 
 ***
 
+### Conflicting Styles: The Cascade p. 249
+* Priority, Specificity, Rule Order
+
+### The Box Model p. 251
+
+### Grouped Selectors p. 252
+
+### Units of Measurement p. 253
+* Absolute Units
+	1. px - pixel, defined as 1/96 of an inch in CSS3  
+	1. in - inches
+	1. mm - millimeters
+	1. cm - centimeters
+	1. q - 0.25 mm
+	1. pt - points (1/72 of an inch). Points are a unit commonly used in print design
+	1. pc - picas (1 pica = 12 points aka 1/6 of an inch). Used in print design
+* Relative Units
+	1. em - unit of measurement equal to the capital letter **M** in the current font size
+	1. ex - x-height, aka about the height of a lowercase **x** in the current font
+	1. rem - aka *root em*, equal to the *em* size of the root element (html).
+	1. ch - zero width, equal to the width of a **0** (zero) in the current font and size
+* Relative Units - Viewport
+	1. vw - viewport width, equal to 1/100 of the current viewport width
+	1. vh - viewport height, equal to 1/100 of the current viewport height
+	1. vmin - viewport minimum unit, equal to the value of **vw** or **vh**, whichever is smaller
+	1. vmax - viewport maximum unit, equal to the value of **vw** or **vh**, whichever is larger
+* More on **rem** unit p. 254
+	* In modern browsers, the default root font size is **16 pixels**. 
+	* Therefore, an element sized to 10rem would measure 160 pixels.
+* More on **em** unit p. 254
+	* In traditional publishing, the em is equal to the capital letter **M** in the current font size
+	* In CSS, an *em* is calculated ad the distance between baselines when the font is set without any extra space between the lines (aka *leading*). 
+
+***
+
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to paste *`<script>`* from the register **k**, type `"kp`.
