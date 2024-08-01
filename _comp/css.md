@@ -88,6 +88,7 @@ header {
 
 # Chapter 12: Formatting Text p. 261
 * Use the `Black Goose Bistro` sample webpage from Chapter 5.
+* Current work stored in `proj-3/_ch12/`
 
 ***
 
