@@ -58,10 +58,27 @@ sitemap: false
 	* Therefore, an element sized to 10rem would measure 160 pixels.
 * More on **em** unit p. 254
 	* In traditional publishing, the em is equal to the capital letter **M** in the current font size
-	* In CSS, an *em* is calculated ad the distance between baselines when the font is set without any extra space between the lines (aka *leading*).
+	* In CSS, an *em* is calculated ad the distance between baselines when the font is set without any extra space between the lines (aka *leading*). 
+	* The trick to working with *em* is to remember each em is always relevant to the current font size of the element it's in. e.g., if one sets a 2em left margin on an `<h1>`, `<h2>`, or `<p>`, those elements will not line up nicely becuse the em units are based on their respective element sizes. See Fig 11-11 on p. 255.
+
+***
+
+## 7/31/2024
+### Viewport Percentage Length ( vw / vh ) p. 255
+* Viewport Width (vw) and viewport height (vh) are relatvie to the size of the current viewport.
+* 1 vw = 1/100 of the current width of the viewport
+* 1 vh = 1/100 of the current height of the viewport
+* Viewport based units are useful for ensuring that images and text elements stay full width or height of the viewport like so:
+
+```css
+header {
+	width: 100vw;
+	height: 100 vh;
+}
+```
 
 
-## 7/31
+
 
 ***
 
