@@ -91,12 +91,36 @@ header {
 * Current work stored in `proj-3/_ch12/`
 
 ### A Word about Properties p. 262
-#### Each CSS property listed in this book is accompanied by info on how it behaves and how to use it. They include:
+#### This table explains how the book's formatting conveys information about how to understand CSS properties as laid out in this volume.
 1. Values
 1. Default
 1. Applies to
 1. Inherits
-1. In addition, here are some CSS-wide keywords:
+1. In addition, here are some CSS-wide keywords. All CSS properties accept the three CSS-wide keywords.
+	1. initial - explicitly sets the property to it's default/initial value
+	1. inherit - explicitly force an element to inherit a style property from its parent
+	1. unset - erases declared values occurrin earlier in the cascade
+
+### Font Names p. 263
+
+### All about Web Fonts p. 264 - 265
+
+### Generic Font Families p. 266
+* How to stack font families p. 267
+
+### Specifying Font Size p. 269
+* Sizing text with relative values, aka *rem* values vs *em* measurements p. 270 - 272
+
+### Bold, Italic, Small-Caps, etc.
+* Bold = Font Weight p. 273
+* Italic = Font Style p. 274
+* Small Caps = Font Variant in CSS 2.1  p. 275
+* Shortcut to consolidate fonts into the shorthand **font** property p. 276
+
+
+### Advanced Typography with CSS p. 277
+
+### More selectors p. 281
 
 
 
