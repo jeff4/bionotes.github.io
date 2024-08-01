@@ -72,7 +72,7 @@ sitemap: false
 
 ```css
 header {
-	width: 100vw;
+	width: 100 vw;
 	height: 100 vh;
 }
 ```
