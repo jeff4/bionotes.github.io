@@ -77,6 +77,14 @@ header {
 }
 ```
 
+* The equivalent for ensuring that the header is always exactly 50% of the current viewport height and width is:
+
+```css
+header {
+	width: 50 vw;
+	height: 50 vh;
+}
+```
 
 
 
