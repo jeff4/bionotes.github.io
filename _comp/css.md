@@ -90,6 +90,16 @@ header {
 * Use the `Black Goose Bistro` sample webpage from Chapter 5.
 * Current work stored in `proj-3/_ch12/`
 
+### A Word about Properties p. 262
+#### Each CSS property listed in this book is accompanied by info on how it behaves and how to use it. They include:
+1. Values
+1. Default
+1. Applies to
+1. Inherits
+1. In addition, here are some CSS-wide keywords:
+
+
+
 ***
 
 ## register info
