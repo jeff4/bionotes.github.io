@@ -98,3 +98,6 @@ permalink: /vim/
 
 ## 7/09/2024
 * Equivalent to **Save As...** in macOS / Windows / Office. Type `:w {pathname}/{NEW filename}` will write current file contents into the NEW file. Note that this does *not* save current contents into the current file so you must type `:w` separately to make sure that happens. See more [here](https://stackoverflow.com/a/4980194).
+
+## 8/03/2024
+* Let's install LSP server and relevant plugins for syntax highlighting snd CoC code completion for TypeScript and React
