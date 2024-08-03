@@ -115,5 +115,7 @@ Plug 'mattn/vim-lsp-settings'
 1. So I will use brew to update my vim. Currently using default that came with macOS, stored in `/usr/bin/vim`. 
 1. Went through `brew update; doctor; upgrade` cycle for all machines.
 1. Now installing vim using `brew install vim`. For more context, see the [Homebrew vim page](https://formulae.brew.sh/formula/vim)
-
+1. Success. Now, running updated vim version 9.1 (02 Jan 2024)
+	* On x86, running from the  `/usr/local/bin/vim` directory . 
+	* On arm64 Apple Silicon, running from the  `/opt/homebrew/bin/vim` directory .
 
