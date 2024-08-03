@@ -103,8 +103,8 @@ permalink: /vim/
 * Let's install LSP server and relevant plugins for syntax highlighting snd CoC code completion for TypeScript and React
 
 ### Steps
-1. Verify that PlugIn still works 
 1. Watched this YouTube [video](https://youtu.be/n6JEqPuWOxg?si=hI6hUuiYtQym2EFJ&t=51) by [Nir Lichtman](https://www.youtube.com/@nirlichtman) at 51 seconds. You can see his [.vimrc file](https://github.com/nir9/welcome/blob/86d44256e856fede939ba33088f2631b3335cb5e/.vimrc) at GitHub
+1. Edit my own `.vimrc` file
 1. Make sure these plug-ins are included within the `call plug#begin( expand() )` and `call plug#end()` lines. 
 
 ```vim
