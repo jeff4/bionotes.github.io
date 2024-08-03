@@ -1699,6 +1699,12 @@ import { render as renderUI } from "./ui.js";
 * What is syntax for calling an external `styles.css` file within an HTML page?
 * I've seen how to do it embedded in-line within HTML and within the `<styles>` tags.
 
+## 8/02/2024
+* Installed typescript on all three machines. See commands and checks in OneNote
+
+
+
+
 ***
 
 ## register info
