@@ -101,6 +101,7 @@ permalink: /vim/
 
 ## 8/03/2024
 * Let's install LSP server and relevant plugins for syntax highlighting snd CoC code completion for TypeScript and React
+* Note: `:bd` in vim clears the current buffer (aka closes the window like if you are in PlugInstall) without quitting vim. Before this, I was using `:q` to quit vim entirely to clear away PlugInstall. For more, see [Stack Overflow](https://stackoverflow.com/a/23592407)
 
 ### Steps
 1. Watched this YouTube [video](https://youtu.be/n6JEqPuWOxg?si=hI6hUuiYtQym2EFJ&t=51) by [Nir Lichtman](https://www.youtube.com/@nirlichtman) at 51 seconds. You can see his [.vimrc file](https://github.com/nir9/welcome/blob/86d44256e856fede939ba33088f2631b3335cb5e/.vimrc) at GitHub
@@ -118,4 +119,8 @@ Plug 'mattn/vim-lsp-settings'
 1. Success. Now, running updated vim version 9.1 (02 Jan 2024)
 	* On x86, running from the  `/usr/local/bin/vim` directory . 
 	* On arm64 Apple Silicon, running from the  `/opt/homebrew/bin/vim` directory .
+
+### More steps
+* Open up vim, and run plug install with `:PlugInstall` and choose Yes to install the new vim plugins.
+* Next time you open up any particular filetype with a *.c`, *.js`, *.ts`, etc. type **:LspInstallServer** and press `Y` for yes. This will ensure that the desired Language Server is installed.
 
