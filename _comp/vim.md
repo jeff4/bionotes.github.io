@@ -122,5 +122,5 @@ Plug 'mattn/vim-lsp-settings'
 
 ### More steps
 * Open up vim, and run plug install with `:PlugInstall` and choose Yes to install the new vim plugins.
-* Next time you open up any particular filetype with a *.c`, *.js`, *.ts`, etc. type **:LspInstallServer** and press `Y` for yes. This will ensure that the desired Language Server is installed.
+* Next time you open up any particular filetype with a `*.c`, `*.js`, `*.ts`, etc. type **:LspInstallServer** and press `Y` for yes. This will ensure that the desired Language Server is installed.
 
