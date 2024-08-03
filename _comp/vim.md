@@ -108,5 +108,12 @@ permalink: /vim/
 1. Make sure these plug-ins are included within the `call plug#begin( expand() )` and `call plug#end()` lines. 
 
 ```vim
-Plug 'wuelnerdotexe/vim-astro'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
 ```
+1. Hm. Looks like I may need to upgrade my version of vim which is currently at 9.0. But CoC requires 9.0.0438 per [these instructions](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#requirements). 
+1. So I will use brew to update my vim. Currently using default that came with macOS, stored in `/usr/bin/vim`. 
+1. Went through `brew update; doctor; upgrade` cycle for all machines.
+1. Now installing vim using `brew install vim`
+
+
