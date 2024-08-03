@@ -114,6 +114,6 @@ Plug 'mattn/vim-lsp-settings'
 1. Hm. Looks like I may need to upgrade my version of vim which is currently at 9.0. But CoC requires 9.0.0438 per [these instructions](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#requirements). 
 1. So I will use brew to update my vim. Currently using default that came with macOS, stored in `/usr/bin/vim`. 
 1. Went through `brew update; doctor; upgrade` cycle for all machines.
-1. Now installing vim using `brew install vim`
+1. Now installing vim using `brew install vim`. For more context, see the [Homebrew vim page](https://formulae.brew.sh/formula/vim)
 
 
