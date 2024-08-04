@@ -124,3 +124,6 @@ Plug 'mattn/vim-lsp-settings'
 * Open up vim, and run plug install with `:PlugInstall` and choose Yes to install the new vim plugins.
 * Next time you open up any particular filetype with a `*.c`, `*.js`, `*.ts`, etc. type **:LspInstallServer** and press `Y` for yes. This will ensure that the desired Language Server is installed.
 
+* To disable everything, just go to the .vimrc file and comment out the 2 lines for the lsp plugins: prabir.../vim-lisp` and `mattn/vim-lsp-settings`.
+* No need to rerun :PlugInstall, uninstall, etc, it will all be turned off.
+* Also, looks like there is a TypeScript LSP that automatically pops up when I open `*.js` files. But *not* any default JS Lsp's.
