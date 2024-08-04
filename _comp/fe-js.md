@@ -1,6 +1,6 @@
 ---
-title: Client JavaScript
-permalink: /web-js/
+title: Front End JavaScript
+permalink: /fe-js/
 sitemap: false
 ---
 
