@@ -126,3 +126,4 @@ Plug 'mattn/vim-lsp-settings'
 * To disable everything, just go to the .vimrc file and comment out the 2 lines for the lsp plugins: prabir.../vim-lisp` and `mattn/vim-lsp-settings`.
 * No need to rerun :PlugInstall, uninstall, etc, it will all be turned off.
 * Also, looks like there is a TypeScript LSP that automatically pops up when I open `*.js` files. But *not* any default JS Lsp's.
+* Ok got all machines working. Can easily toggle on/off lsp functionality by commenting on/off 2 plugins in `.vimrc`.
