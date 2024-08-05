@@ -14,22 +14,22 @@ sitemap: false
 	* Part II: Features
 	* Part III: Usage
 	* Part IV: Extra Credit
-* Section I: Concepts 
+* **Section I: Concepts**
 	1. Chapter 2: Type System overview
 	1. Chapter 3: **Unions** to expand type possibilities and **Narrowing** to reduce type possibilities. Also *literal types* are a more advanced, specific version of *primitive types* like strings, arrays, etc.
 	1. Chapter 4: **Objects**
-* Section II: Features
+* **Section II: Features**
 	1. Chapter 5: Functions
 	1. Chapter 5: Arrays
 	1. Chapter 5: Interfaces
 	1. Chapter 8: Classes
 	1. Chapter 9: Type Modifiers
 	1. Chapter 10: Generics
-* Section III: Usage
+* **Section III: Usage**
 	1. Chapter 11: Declaration Files
 	1. Chapter 12: Using IDE Features
 	1. Chapter 13: Configuration Options
-* Section IV: Extra Credit
+* **Section IV: Extra Credit**
 	1. Chapter 14: Syntax Extensions
 	1. Chapter 15: Type Operations
 
