@@ -41,6 +41,23 @@ sitemap: false
 	* It's ok to change the value as long as it is the same type within a strongly typed system
 	* However, if one tries to reassign from  `str1 = 'Adam'` to `str1 = [1,2,3]`, TypeScript will throw a type error.
 * Type Annotations. Concept of the *evolving any*
+* Unnecessary Type Annotations. The following **: string** type annotation is redundant because TS could already infer that `firstName` is of type *string*:
+
+```javascript
+let firstName: string = "Tina";
+// Does not change the type system
+```
+
+* If one does add a *type annotation* to a variable with an initial type, TS will check wthat it matches the type of the variable's value. 
+* The following `firstName` is declared to be of type *string* but its initializer is the *number* `42` which TS notes is an incompatibility:
+
+```javascript
+let firstName: string = 42;
+// Error: Type 'number' is not assignable to type 'string'.
+```
+
+* Many developers--myself included-- generally prfer not to add type annotations on variables where those annotations wouldn't change anything.
+
 
 
 
