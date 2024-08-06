@@ -10,10 +10,10 @@ sitemap: false
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
 * Chapters in *Learing TypeScript* organized into 3 main sections with one extra section:
-	* Part I: Concepts
-	* Part II: Features
-	* Part III: Usage
-	* Part IV: Extra Credit
+	* **Part I: Concepts**
+	* **Part II: Features**
+	* **Part III: Usage**
+	* **Part IV: Extra Credit**
 * **Section I: Concepts**
 	1. Chapter 2: Type System overview
 	1. Chapter 3: **Unions** to expand type possibilities and **Narrowing** to reduce type possibilities. Also *literal types* are a more advanced, specific version of *primitive types* like strings, arrays, etc.
