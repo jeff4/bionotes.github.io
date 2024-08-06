@@ -35,12 +35,14 @@ sitemap: false
 
 
 ## 8/04/2024
-### Chapter 1: From JS to TS
+### Chapter 2: The Type System p. 37
 * Syntax Errors vs Type Errors
-* Assignability
+* Assignability p. 42
 	* It's ok to change the value as long as it is the same type within a strongly typed system
 	* However, if one tries to reassign from  `str1 = 'Adam'` to `str1 = [1,2,3]`, TypeScript will throw a type error.
-* Type Annotations. Concept of the *evolving any*
+
+### Type Annotations p. 44
+* Concept of the *evolving any*
 * Unnecessary Type Annotations. The following **: string** type annotation is redundant because TS could already infer that `firstName` is of type *string*:
 
 ```javascript
@@ -56,10 +58,17 @@ let firstName: string = 42;
 // Error: Type 'number' is not assignable to type 'string'.
 ```
 
-* Many developers--myself included-- generally prfer not to add type annotations on variables where those annotations wouldn't change anything.
+## 8/06/2024
+### Trying to get vim to automatically report TS errors
+* Let's test error-checking using lsp on champ24. Hm. things are compiling and running, but auto error checking is not happening. weird.
+* Did all testing on champ24.
+* Error messages etc are showing up properly in `proj-2/_df9/` for c files. But in `proj-3`, although tsc compiles and reports proper compile-time errors. But errors not showing up despite properly invoking `LspInstallServer` and yes.
 
+### More on Type Annotations
+* Many developers--myself included-- generally prfer not to add type annotations on variables where those annotations wouldn't change anything. p. 46
+* Having to manually type out annotations can be cumbersome. Esp. when types change; Goldberg will illustrate some examples of this later in the book. 
 
-
+### Type Shapes p. 46
 
 
 
