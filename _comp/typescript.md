@@ -80,6 +80,23 @@ let firstName: string = 42;
 * Mostly straightforward
 
 ## Chapter 3: Unions and Literals p. 51
+* *Unions* expand a value's allowed type to **two or more possible types**
+* *Narrowing* reduces a value's allowed type to ** *not* be one ore more possible types**.
+
+### Union Types p. 51
+
+* Consider this code example:
+
+```javascript
+let mathematician = Math.random() > 0.5
+	? undefined
+	: "Mark Goldberg";
+```
+
+* What type is the `mathematician` object? Answer: it's neither only *undefined* or *string*--even though `mathematician` could be either of those types. 
+* `mathematician` can be *either* undefined or string. 
+* This kind of *either-or* type is called a **union**. 
+* TS represents union types using the `|` pipe operator in between the potential types aka in between the **constituents**.
 
 
 
