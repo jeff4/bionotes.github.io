@@ -65,10 +65,21 @@ let firstName: string = 42;
 * Error messages etc are showing up properly in `proj-2/_df9/` for c files. But in `proj-3`, although tsc compiles and reports proper compile-time errors. But errors not showing up despite properly invoking `LspInstallServer` and yes.
 
 ### More on Type Annotations
-* Many developers--myself included-- generally prfer not to add type annotations on variables where those annotations wouldn't change anything. p. 46
+* Many developers--myself included--generally prefer not to add type annotations on variables where those annotations wouldn't change anything. p. 46
 * Having to manually type out annotations can be cumbersome. Esp. when types change; Goldberg will illustrate some examples of this later in the book. 
 
 ### Type Shapes p. 46
+* TS does more than check that the values assigned to variables match their original types. 
+* TS also knows what **member properties** should exist on objects.
+* If one attempts to access a property of some variable, TS will make sure that this property is known to exist as part of that varible's type.
+* Went through Queen Latifah example on p. 47 and verified that tsc reports compile-time error when one tries to call the push() property/method on a string. 
+* Went through Cher example on p. 47 and verified it works and fails as expected.
+* The point is, TS's understanding of object shapes allows TS to report issues with both the *usage* and *assignability* of objeects. See more in Chapter 4 on Objects.
+
+### Modules p. 47-49
+* Mostly straightforward
+
+## Chapter 3: Unions and Literals p. 51
 
 
 
