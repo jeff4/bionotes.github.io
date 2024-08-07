@@ -117,11 +117,70 @@ header {
 * Small Caps = Font Variant in CSS 2.1  p. 275
 * Shortcut to consolidate fonts into the shorthand **font** property p. 276
 
-
+## 8/06/2024
 ### Advanced Typography with CSS p. 277
 
 ### More selectors p. 281
+* In the previous chapter, we saw how to group selectors together in a comma-separated list so we can apply properties to several elements at once.
+* Here are examples of the selectors we've already covered:
+	* Element selector `p { color: navy }`
+	* Grouped selectors `p, ul, td, th { color: navy }`
+* Of course, that's hard-coded and hard to maintain. So for more maintanable CSS, let's learn about 3 options: (1) descendant selectors, (2) ID selectors, (3) class selectors
 
+#### Descendant Selectors p. 281
+* A **descendent selector** targets elements that are contained within another element.
+	* This is an example of a contextual selector.
+	* See text box on p. 283 for other examples of contextual selectors: child selector, next-sibling selector, subsequent-sibling selectors
+* For example, `li em { color: olive }` will apply an *olive* color only to the **emphasized (em)** lines (li) in the diagram on p. 282.
+* Another example: `h1 em, h2 em, h3 em { color: red }` *only* targets emphasized elements that appear in h1, h2, or h3 headings.
+
+#### ID Selectors p. 282
+* Remember, the *id attribute* gives an element a unique name to identify that element.
+* *id* is commonly used to give names andmeaning to **div** and **span** elements.
+* When referring to a previously defined *id*, one uses the `#` hashtag/pound symbol. e.g., 
+
+```html
+
+<li id="cat1"> First Cat </li>
+<!-- Below line references the desired id selector in CSS -->
+```
+
+```css
+li#cat1 { color: olive }
+```
+
+* Because *id* values must be unique in each HTML document, one can omit the element name like so:
+
+```css
+#cat1 { color: red }
+```
+
+* One can use an `ID selector` as part of a *contextual selector*. in the below example, a style is applied only to `a` elements that appear within the element identified as *resources*.
+* In this way, one can treat links in the element named 'resources' *differently* than all the other links on the page without any additional markup:
+
+```css
+#resources a { text-decoration: BOLD }
+```
+
+#### Class Selectors p. 284
+* One last selector type: class selectors.
+* Unlike *id elements* that must be uniquely named in a document, **class elements** can share the same name.
+* Also, an element can belong to multiple classes at the same time.
+* *Class elements* are indicated by a `.` prior to the name, just as *id element* are indicated by a `#`.
+* e.g., to select *all* paragraphs (indicated by `<p>` in html) that have the class name `class="superman"` 
+
+```css
+p.superman { color: blue }
+```
+
+* To apply a property to *every* element of the same class, one omits the element name in the selector but **leave the period in**. Example:
+
+```css
+.superman { color: red }
+```
+
+### Specificity 101 p. 284
+* Priority and specificity of when multiple selectors seem to conflict.
 
 
 ***
