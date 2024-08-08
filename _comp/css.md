@@ -183,6 +183,8 @@ p.superman { color: blue }
 * Priority and specificity of when multiple selectors seem to conflict.
 
 
+## 8/07
+
 ***
 
 ## register info
