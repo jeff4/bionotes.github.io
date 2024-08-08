@@ -98,7 +98,7 @@ let mathematician = Math.random() > 0.5
 * This kind of *either-or* type is called a **union**. 
 * TS represents union types using the `|` pipe operator in between the potential types aka in between the **constituents**.
 
-
+## 8/08
 
 ***
 
