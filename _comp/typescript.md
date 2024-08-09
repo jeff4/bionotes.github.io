@@ -125,15 +125,19 @@ let physicist = Mathh.random() > 0.5
 	? "Marie Curie"
 	: 84;
 
-physicist.toString(); 		// OK-- both "Marie Curie" and "84" can be converted toString
 
-physicist.toString();		// Error here because
-		// 'toUpperCase()' property only exists for type 'string'
-		// but **not** for type 'number'
+// OK-- both "Marie Curie" and "84" can be converted toString
+physicist.toString();
 
-physicist.toFixed();	 // Error here because
-		// 'toFixed() property only exists for type 'number'
-		// but **not** for type 'string'
+// Error here because
+// 'toUpperCase()' property only exists for type 'string'
+// but **not** for type 'number'
+physicist.toString();
+
+// Error here because
+// 'toFixed() property only exists for type 'number'
+// but **not** for type 'string'
+physicist.toFixed();
 ```
 
 * Restricting access to properties that don't exist on all union types is a safety feature. p. 53
