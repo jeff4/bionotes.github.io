@@ -140,7 +140,39 @@ physicist.toString();
 physicist.toFixed();
 ```
 
-* Restricting access to properties that don't exist on all union types is a safety feature. p. 53
+* Restricting access to properties that don't exist on all union types is a safety feature. i.e., If an object is not of a type that is *definitively* contains property, TS will believe it unsafe to try that property. After all, the property might not exist.
+
+### Narrowing p. 54
+* Narrowing is when TS infers from your code that a value is of a more specific type than what is defined, declared, or previously inferred as.
+* Once TS knows that a value's type is more narrow than previously known, it will allow you to treat the value like that more specific type.
+* A logical check that can be used to narrow types is called a *type guard*. 
+
+#### Assignment Narrowing p. 54
+
+#### Conditional Checks p. 55
+
+#### Typeof Checks p. 56
+
+### Literal Types p. 57
+* Now that we've discussed union types and narrowing types, let's introduce *literal types* which are sort of 'narrowing' primitive types.
+* Example:
+
+```typescript
+const philosopher = "Hypatia";
+```
+
+* What type is the *philosopher* object?
+	* Initial answer is that it is a  *string* type.
+* But! `philosopher` is not just any old string. It's specifically the value *Hypatia*. Therefore, the *philosopher* variable's type is technically the more specific *Hypatia*.
+* This is the concept fo the *literal* type. 
+* The type of a value that is known to be a specific value of a primitive, rather than any of those primitive's values at all.
+* The primitive type **string** represents the set of all possible strings that could ever exist; the literal type *Hyaptia* represents just that one string.
+* If you declare a variable as *const* and directly assign a literal value, TS will infer that the variable to be that literal value as a type.
+* When you are in IDE and hover over a *const* variable with an initial literal value, it will show the variable's type as that literal instead of the more general primitive.
+* See Figures 3-2 and Figure 3-3 on p. 57.
+
+
+
 
 
 
