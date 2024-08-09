@@ -179,11 +179,17 @@ p.superman { color: blue }
 .superman { color: red }
 ```
 
+## 8/09/2024
 ### Specificity 101 p. 284
-* Priority and specificity of when multiple selectors seem to conflict.
+* Review of priority and specificity of when multiple selectors seem to conflict. In order, beginning with the *least specific and important* and ending with the  **most specific** and **most powerful and overriding**.
+	1. **Individual Element Selectors** - weakest
+	1. **Class Selectors** - overrides individual element selectors but no one else
+	1. **ID selectors** - override class selectors but weaker than inline
+	1. **Inline styles** - most powerful and specific and override ID selectors and *everyone else*
+* Furthermore, p. 284-285 has a checkbox system to determine the more complex rules
 
 
-## 8/07
+
 
 ***
 
