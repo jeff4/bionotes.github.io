@@ -97,8 +97,48 @@ let mathematician = Math.random() > 0.5
 * `mathematician` can be *either* undefined or string. 
 * This kind of *either-or* type is called a **union**. 
 * TS represents union types using the `|` pipe operator in between the potential types aka in between the **constituents**.
+* The *mathematician* type is thought of as **type:** `string | undefined`. Try hovering over that expression in a TS-aware code editor and should see a tooltip that looks like Fig 3-1 on p. 52. 
 
-## 8/08
+#### Declaring Union Types p. 52
+* Union types are an example of a situation when it might be useful to give an *explicit* type annotation for a variable even though that variable has an initial value.
+* Consider this new example:
+
+```typescript
+let thinker: string | null = null;
+if (Math.random() > 0.5) {
+	thinker = "Sussane Langer"; // ok
+}
+
+```
+
+* In the above example, the **thinker** object starts off with a *null* value but is known to potentially contain a *string* value instead.
+* Giving **thinker** an *explicit* `string | null` type annotation means TS will allow that variable to be assigned values of type *string*.
+* Union type declarations can be placed anywhere one might declare a type using a type annotation
+
+#### Union Properties p. 53
+* When a value is known to be a union type, TS will only allow devs to access member properties that exist in *all possible types* in that union.
+* TS will produce a type-checking error if one tries to access a type that doesn't exist on all possible associated types.
+* Example:
+
+```typescript
+let physicist = Mathh.random() > 0.5
+	? "Marie Curie"
+	: 84;
+
+physicist.toString(); // b/c both "Marie Curie" and "84" can be converted toString
+
+physicist.toString();	// Error here because
+						// 'toUpperCase()' property only exists for type 'string'
+						// but **not** for type 'number'
+
+physicist.toFixed();	// Error here because
+						// 'toFixed() property only exists for type 'number'
+						// but **not** for type 'string'
+```
+
+* Restricting access to properties that don't exist on all union types is a safety feature. p. 53
+
+
 
 ***
 
