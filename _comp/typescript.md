@@ -125,7 +125,7 @@ let physicist = Mathh.random() > 0.5
 	? "Marie Curie"
 	: 84;
 
-physicist.toString(); 		// b/c both "Marie Curie" and "84" can be converted toString
+physicist.toString(); 		// OK-- both "Marie Curie" and "84" can be converted toString
 
 physicist.toString();		// Error here because
 		// 'toUpperCase()' property only exists for type 'string'
