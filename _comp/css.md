@@ -187,9 +187,54 @@ p.superman { color: blue }
 	1. **ID selectors** - override class selectors but weaker than inline
 	1. **Inline styles** - most powerful and specific and override ID selectors and *everyone else*
 * Furthermore, p. 284-285 has a checkbox system to determine the more complex rules
+* Make sure to go back to checkboxes above and work out in a paper notebook *and* do Exercise 12-5 on p. 286 to Black Goose Bistro.
 
+### Text Line Adjustments p. 287
+* This section styles entire lines of text rather than individual words/characters.
 
+#### Line Height p. 287
+* property name: **line-height**
+* values: number, length measurement, percentage, normal
+* applies to: all elements
+* Defines the minimum distance fromt eh baseline to the baseline in text. we saw it before as a shorthand **font** property.
+* Note: **the baseline** refers to the imaginary line upon which the bottoms of characters sit.
+* See visual examples on p. 287-288
 
+#### Indents p. 288
+* property name: **text-indent**
+* values: length measurement, percentage, 
+* default value: 0
+* applies to: block containers
+* This applies indenting, including the ability to do hanging indents. See Fig 12-13 on p. 289
+ 
+```css
+p#1 { text-indent: 2em; } 
+p#2 { text-indent: 25%; } 
+p#3 { text-indent: -35px; } /* hanging indent */
+```
+
+#### Horizontal Text Alignment p. 289
+* property name: **text-align**
+* values: left, right, center, justify, start, end
+* default value: start
+* applies to: block containers
+ 
+
+#### Underlines and other "decorations" p. 289
+* property name: **text-decoration**
+* values: none, underline, overline, line-through, blink
+* default value: none
+* applies to: all elements
+* **The most popular use of `text-decoration` is *removing the underline in HTML hyperlinks*.**, e.g., `a { text-decoration: none; }`.
+
+### Capitalization features p. 291-292
+* property name: **text-transform**
+
+#### Spacing of text between each character p. 292
+* property name 1: **letter-spacing**
+* property name 2: **word-spacing**
+
+#### Text Shadow p. 293
 
 ***
 
