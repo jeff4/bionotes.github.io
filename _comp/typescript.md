@@ -169,11 +169,64 @@ const philosopher = "Hypatia";
 * The primitive type **string** represents the set of all possible strings that could ever exist; the literal type *Hyaptia* represents just that one string.
 * If you declare a variable as *const* and directly assign a literal value, TS will infer that the variable to be that literal value as a type.
 * When you are in IDE and hover over a *const* variable with an initial literal value, it will show the variable's type as that literal instead of the more general primitive.
-* See Figures 3-2 and Figure 3-3 on p. 57.
+* See Figures 3-2 and Figure 3-3 on p. 57
 
 
+## 8/10/2024
+* One can think of each primitive type as a *union of every possible matching **literal** value*.
+	* ie., a primitive type is the set of all possible literal values of that type.
+* Other than the *boolean*, *null*, and *undefined* types, all other primitives such as number and string have an infinite number of literal types. 
+* The common types one will find in typical TS code are:
+	* **boolean**: *true* | *false*
+	* **null** and **undefined**: both hae just one literal value, themselves
+	* **number**: (0, 1, 2, ...) or (0.1, 0.2, ...) or similar ...
+	* ***string**
+* Union type annotations can mix and match between literals and primitives. 
+* e.g., the representation of a lifespan, for example, might be represented by any number or *one* of a couple known edge cases. Examples:
 
+```typescript
 
+let lifespan: number | "ongoing" | "uncertain";
+
+lifespan = 89; // ok
+lifespan = "ongoing"; // ok
+
+lifespan = true; // results in error b/c 'boolean' was not in type annotation
+
+```
+
+#### Literal Assignability p. 58
+* We have seen how different primitive types such as **number** and **string** are not assignable to eaach other. 
+* Similarly, different literal types within the same primitive types (e.g., `0` and `1`) are **not assignable to each other**.
+* Consider this example p. 58-59
+
+```typescript
+//Example 1
+let specificallyAda: "Ada";
+specificallyAda = "Ada"; // ok
+specificallyAda = "Byron"; // Error: one cannot assign to type 'Ada'
+
+// Example 2
+let someString = ""; // Type: string
+
+specificallyAda = someString;
+// another error b/c type 'string' cannot be assigned to 
+// type 'Ada'
+```
+
+* Literal types *are* allowed to be assigned to their corresponding primitive types.
+* Any specific literal string is *still* a **string**.
+
+### Strict Null Checking p. 59
+* The Billion Dollar Mistake by Tony Hoare (quoted in 2009) on p. 60.
+* There are many type systems in CS that allow null values to be used in places that require a different type. 
+* In languages *without* strict null checking, code like this would be allowed:
+
+```javascript
+const firstName: string = null;
+```
+
+* E.g., C++ or Java would allow the above. Continue on p. 60
 
 
 ***
