@@ -9,6 +9,7 @@ sitemap: false
 ### Chapter 11: Introducing CSS p. 239
 * Book arrived in mail on Friday 7/26.
 * Up to p. 242
+* JNR = shorthand for *Learning Web Design* by Jennifer N. Robbins
 
 ## 7/30/2024
 * Three ways of attaching styles to a document
@@ -244,15 +245,27 @@ p#3 { text-indent: -35px; } /* hanging indent */
 * See box on p. 294
 * partial list: white-space, vertical-align, word-break / line-break, text-justify, text-align-last, tab-size, hyphens, overflow-wrap, hanging-punctuation, direction, etc.
 
+## 8/10/2024
 ### Completed Exercises 12-5 and 12-6
 * Exercise 12-5 p. 286
 * Exercise 12-6 p. 295
 
-## 8/10/2024
 ### Changing List Bullets and Numbers 
 * p. 296 - 298
 
 # Chapter 13: Colors and Backgrounds p. 303
+* Color names p. 304. There are 140 standard colornames, per JNR as well as per the [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) site: "Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value."
+* Handy table listing all 140 colors, with associated RGB and hex values on p. 305 of JNR.
+* Intro to RGB and Hex Colors p. 306-308.
+
+### RGBa Color p. 309
+* How to use 4th value to specify alpha channel aka transparaency.
+* HSL (hue, saturation, lightness) equivalent is HSLa alpha channel on p. 311.
+
+### Foreground Color p. 311
+
+
+### Background Color p. 312
 
 
 ***
