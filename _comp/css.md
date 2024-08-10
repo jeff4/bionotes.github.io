@@ -236,6 +236,8 @@ p#3 { text-indent: -35px; } /* hanging indent */
 
 #### Text Shadow p. 293
 
+## 8/10
+
 ***
 
 ## register info
