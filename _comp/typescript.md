@@ -177,10 +177,10 @@ const philosopher = "Hypatia";
 	* ie., a primitive type is the set of all possible literal values of that type.
 * Other than the *boolean*, *null*, and *undefined* types, all other primitives such as number and string have an infinite number of literal types. 
 * The common types one will find in typical TS code are:
-	* **boolean**: *true* | *false*
+	* **boolean**: *true* \| *false*
 	* **null** and **undefined**: both hae just one literal value, themselves
 	* **number**: (0, 1, 2, ...) or (0.1, 0.2, ...) or similar ...
-	* ***string**
+	* **string**
 * Union type annotations can mix and match between literals and primitives. 
 * e.g., the representation of a lifespan, for example, might be represented by any number or *one* of a couple known edge cases. Examples:
 
