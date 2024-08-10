@@ -235,8 +235,25 @@ p#3 { text-indent: -35px; } /* hanging indent */
 * property name 2: **word-spacing**
 
 #### Text Shadow p. 293
+* property name: **text-shadow**
+* values: `horizontal offset, vertical offset, blur radius, color`, `none`
+* default value: none
+* applies to: all elements
 
-## 8/10
+### Many other text properties
+* See box on p. 294
+* partial list: white-space, vertical-align, word-break / line-break, text-justify, text-align-last, tab-size, hyphens, overflow-wrap, hanging-punctuation, direction, etc.
+
+### Completed Exercises 12-5 and 12-6
+* Exercise 12-5 p. 286
+* Exercise 12-6 p. 295
+
+## 8/10/2024
+### Changing List Bullets and Numbers 
+* p. 296 - 298
+
+# Chapter 13: Colors and Backgrounds p. 303
+
 
 ***
 
