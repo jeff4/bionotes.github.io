@@ -305,6 +305,39 @@ blockquote {
 	background-color: #c6de89;
 }
 ```
+#### Example of marking up specific text elements p. 313
+
+```css
+.glossary {
+	color: #0378a9; /* blue */
+	background-color: yellow;
+}
+```
+
+```html
+<p>
+Every variety of cabbage had their origin in the wild cabbage of Europe (
+	<dfn class="glossary"><i>Brassica oleracea</i></dfn>
+)
+<p>
+```
+
+#### Background Clipping p. 314
+* property name: **background-clip**
+* values: border-box \| padding-box \| content-box
+* default value: border-box
+* applies to: all elements
+
+#### Other notes
+* See Fig 13-12 on p. 314 for visuals of border-box, padding-box, and content-box.
+
+
+
+
+
+
+### Finally, External Style Sheets p. 348 - 351
+
 
 ***
 
