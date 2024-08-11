@@ -306,13 +306,7 @@ blockquote {
 }
 ```
 #### Example of marking up specific text elements p. 313
-
-```css
-.glossary {
-	color: #0378a9; /* blue */
-	background-color: yellow;
-}
-```
+* In this HTML example... 
 
 ```html
 <p>
@@ -320,6 +314,14 @@ Every variety of cabbage had their origin in the wild cabbage of Europe (
 	<dfn class="glossary"><i>Brassica oleracea</i></dfn>
 )
 <p>
+```
+* ...the `<dfn>` element has a classname= *glossary*, which can be specifically targeted by this CSS:
+
+```css
+.glossary {
+	color: #0378a9; /* blue */
+	background-color: yellow;
+}
 ```
 
 #### Background Clipping p. 314
@@ -331,8 +333,65 @@ Every variety of cabbage had their origin in the wild cabbage of Europe (
 #### Other notes
 * See Fig 13-12 on p. 314 for visuals of border-box, padding-box, and content-box.
 
+### Opacity p. 315
 
+#### Opacity property
+* property name: **opacity**
+* values: *number* from 0 to 1
+* default value: 1
+* applies to: all elements
 
+## 8/11/2024
+### Pseudo-Class Selectors p.316-320
+* Note: A text-box in the left side column of page 316 summarizes the selectors JNR has covered so far.
+* The concept of pseudo-class selectors refers to dynamic states of various potential classes, like whether a hyperlink `<a>` has been clicked, whether something has `focus` right now or not, or if there is a pointer `onHover` at the moment.
+
+#### Example: `<a>` HyperLink Pseudo-Class p. 316
+* This css makes sure that unclicked links are colored *crimson* while links that have been clicked are colored *silver*:
+
+```css
+a:link {
+	color: crimson;
+}
+
+a:visited {
+	color: silver;
+}
+```
+
+#### Focus State p. 317
+* In this example, when a user selects a text input in a form, it gets a yellow background color to make it stand out from other form inputs:
+
+```css
+input:focus {
+	background-color: yellow;
+}
+```
+
+#### Hover State p. 317
+* Hover states occur when mouse or other pointers glide over an element.
+* Most commoly used to let user know that some action is possible.
+* Also used to trigger pop-up menus for navigation or tooltips.
+* Example which gives hyperlinks a light pink background color while the mouse hovers over them:
+
+```css
+a:hover {
+	color: crimson;
+	background-color: #ffd9d9;
+}
+```
+
+* this css makes sure that underlines for a hyperlink only occurs on hover:
+
+```css
+a:hover {
+	text-decoration: underline;
+}
+```
+
+* See also box on using Hover on Touch Devices on p. 318. Hover doesn't really work the same way on mobile and other touch devices.
+
+	
 
 
 
