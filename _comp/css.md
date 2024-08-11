@@ -263,10 +263,47 @@ p#3 { text-indent: -35px; } /* hanging indent */
 * HSL (hue, saturation, lightness) equivalent is HSLa alpha channel on p. 311.
 
 ### Foreground Color p. 311
+* Equivalent to text and border of an element.
+* Consider the 'outline' color in PowerPoint or Apple iOS Image Editor
 
+#### Color p. 311 - 312
+* property name: **color**
+* values: color value (css color names OR rgb OR hex number)
+* default value: depends on browser/user preferences
+* applies to: all elements
 
-### Background Color p. 312
+#### Example p. 312
+* See image on p. 312
 
+```css
+blockquote {
+	border: 4px dashed;
+	color: green;
+}
+```
+
+```html
+<blockquote>
+In the latitude of central New England, cabbages are note secure.
+</blockquote>
+```
+
+### Background Color p. 312 - 314
+* property name: **background-color**
+* values: color value (css color names OR rgb OR hex number) \| transparent
+* default value: transparent
+* applies to: all elements
+
+#### Other notes
+* Bg color fills the **canvas** behind the element, plus any padding / extra space.
+* Let's apply this to the `blockquote` above with this style: 
+
+```css
+blockquote {
+	border: 4px dashed;
+	color: green;
+	background-color: #c6de89;
+}
 
 ***
 
