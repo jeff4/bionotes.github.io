@@ -327,7 +327,33 @@ type Id = number | string;
 * This chapter examines how TS has a sophisticated way of handling very complex object shapes
 
 ### Object Types
-* When one creates an object 
+* When one creates an object literal with the {...} syntax, TS will consider it to be a new *object type* (aka a new **type shape**) based on its properties.
+* That object type will have the same property names and primitive types as the object's values.
+* Accessing properties of the value can be done using either the `value.member` or equivalent `value['member']` syntax.
+* TS understands that the **poet** varible's type is that of an object with two properties:
+	1. **born** of type *number*
+	1. **name** of type *string*
+* Accessing these members would be allowed, but attempting to access any other member name would cause a type error for that name not existing:
+
+```typescript
+const poet = {
+	born: 1935,
+	name: "Mary Oliver",
+};
+
+poet['born']; // type: number
+poet.name; // type: string
+
+
+
+// Below reports an error
+// Error: Property 'died' does not exist on
+// type '{ name: string; start: number; }'
+poet.died;
+```
+
+* Object types are a *core concept* for how TS understands JS code. 
+
 
 
 
