@@ -344,8 +344,6 @@ const poet = {
 poet['born']; // type: number
 poet.name; // type: string
 
-
-
 // Below reports an error
 // Error: Property 'died' does not exist on
 // type '{ name: string; start: number; }'
