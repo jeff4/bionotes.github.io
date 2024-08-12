@@ -227,6 +227,108 @@ const firstName: string = null;
 ```
 
 * E.g., C++ or Java would allow the above. Continue on p. 60
+* For more on configuring the TypeScript compiler, see Chapter 13 'Configuration Options', which include the option **strictNullCheck**. By default, strictNullCheck is on. When it is turned off, every variable in your code adds `... | null | undefined` as additional types. 
+* When *strictNullCheck* is turned off, the following code is considered totally type safe--even though it really isn't. That's why you should keep it on!
+
+```typescript
+let nameMaybe = Math.random() > 0.5
+	? "Tony Hoare"
+	: undefined;
+```
+* When strictNullCheck is turned off, the command `nameMaybe.toLowerCase();` gets a *Potential runtime error: cannot read property 'toLowercase' of undefined.*
+* When strictNullCheck is turned on, the TS sees the potential crash at compile time. So `nameMaybe.toLowerCase();` reports *Error: Object is possibly 'undefined'.*
+
+## 8/11/2024
+### Truthiness Narrowing p. 61
+* Review of concept of *truthiness* for values that would evaluate to `true` in a Boolean context.
+* TS can narrow a variable's type from a truthiness check if only *some* of its potential values may be truthy.
+
+```typescript
+let geneticist = Math.random() > 0.5
+	? "Barbara McClintock"
+	: undefined;
+
+if (geneticist) {
+	geneticist.toUpperCase(); // Ok b/c it's a string
+}
+
+// But!!! the below gets an 'Error: Object is possibly undefined'
+geneticist.toUpperCase();
+```
+
+* Logical operators that perform truthiness checks work also, specifically **&&** and **?.** such as:
+
+```typescript
+geneticist && geneticist.toUpperCase(); // ok b/c string *or* undefined
+geneticist?.toUpperCase(); // ok b/c string *or* undefined
+```
+
+* However, truthiness checking does not go the other way; if all we know about a value is that it is `string | undefined` and falsy, that does not tell us whether it is an empty string or *undefined*.
+
+### Variable Without Initial Values p. 62
+* Variables declared without an initial value default to *undefined* in JS. 
+* TS is smart enough to understand that the variable is *undefined* until a value is defined. TS will report a specialized error message if you then try to use that variable (e.g., by trying to access its properties) before assigning a vlaue. 
+
+```typescript
+let mathematician: string;
+mathematician?.length; // Error: variable 'mathematician' is used before it is assigned a value.
+
+mathematician = "Euler";
+mathematician.length; // OK
+```
+
+* Note that this reporting does not apply if the variable's type includes *undefined*. Adding `| undefined` to a variable's type indicates to TS that it doesn't need to be defined before use b/c `undefined` is a valid type for its value.
+
+### Type Aliases p. 63
+* Most union types one sees in code will usually only have two or three constituents.
+* However, sometimes we see longer union types that are a pain to type out repeatedly.
+* Each of these examples has four possible types:
+
+```typescript
+let rawDataFirst: boolean | number | string | null | undefined;
+let rawDataSecond: boolean | number | string | null | undefined;
+let rawDataThird: boolean | number | string | null | undefined;
+```
+
+* The concept of **type aliases** makes it easier to assign names to reused types. So the above code could be written this way using type aliases:
+
+
+```typescript
+type RawDataAlias = boolean | number | string | null | undefined;
+
+let rawDataFirst: RawDataAlias;
+let rawDataSecond: RawDataAlias;
+let rawDataThird: RawDataAlias;
+```
+
+* **Note: Type Aliases are *not* javascript.** Both type aliases and type annotations are *not* compiled to output JS; they exist *purely* in the TS type system.
+* So be careful you don't try to access type aliases or type annotations during runtime. See p. 64.
+
+
+### Combining Type Aliases p. 64-65
+* Type aliases may reference other type aliases. 
+
+```typescript
+type Id = number | string;
+
+// Below is equivalent to: number | string | undefined | null
+type IdMaybe = Id | undefined | null;
+```
+
+* Type aliases don't have to be declared in order of usage. 
+* The previous code snippet could be rewritten to have *IdMaybe* come before *Id*
+
+```typescript
+type IdMaybe = Id | undefined | null; // ok even though declared first
+type Id = number | string;
+```
+
+## Chapter 4: Objects p. 67
+* This chapter examines how TS has a sophisticated way of handling very complex object shapes
+
+### Object Types
+* When one creates an object 
+
 
 
 ***
