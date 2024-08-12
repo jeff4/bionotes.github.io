@@ -7,6 +7,8 @@ sitemap: false
 # Learning TypeScript
 * Josh Goldberg
 * O'Reilly Media, 2022
+* LTS = Learning TypeScript by Josh Goldberg
+
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
 * Chapters in *Learing TypeScript* organized into 3 main sections with one extra section:
@@ -351,6 +353,65 @@ poet.died;
 ```
 
 * Object types are a *core concept* for how TS understands JS code. 
+* *Every value* other than `null` or `undefined` has a set of members in tis backing type shape; therefore, TS must understand the object type for every value in order to type check it.
+
+### Declaring Object Types p. 68
+* Inferring types directly from existing objects is nice and all--but we also want to be able to explicitly declare the type of an object.
+* Thus, it's nice to declare an *object shape* separately from the *object* that satisfies it.
+* Object types may be described using a syntax that that looks similar to object literals but with *types* instead of *values* for fields. It's the same syntax that TS shows in error messages about type assignability.
+
+```typescript
+let poetLater: {
+	born: number;
+	name: string; 
+};
+
+// this is ok...
+poetLater = {
+	born: 1935,
+	name: "Mary Oliver",
+};
+
+// this reports an error
+// Error: Type 'string' is not assignable to 
+// type '{ name: string; start: number; }'
+poetLater = "Sappho";
+```
+
+### Aliased Object Types p. 69
+* Constantly writing out object types like `{ name: string; start: number; }` gets repetitive and tiresome. It's more common to use *type aliases* to assign a *name* to each type shape. 
+* The previous code can be written like this:
+
+
+```typescript
+
+type Poet = {
+	born: number;
+	name: string;
+};
+
+let poetLater: Poet;
+
+// below is OK
+
+poetLater = {
+	born: 1935,
+	name: "Sara Teasdale",
+};
+
+// Below is an error
+// Error: Type 'string' is not assignable to 'Poet'.
+poetLater = "Emily Dickinson";
+
+```
+
+* Note, most TS code prefers to use **interfaces** instead of aliased object types. Interfaces are covered in LTS Chpter 7. But most of the material here in Chapter 4 using object types applies to interfaces as well.
+
+### Structural Typing p. 69
+* TS's typing system is *structurally typed*, aka nay value that happens to satisfy a type is allowed to be used as a value of that type.
+* i.e., when one declares that a parameter or variable is of a particular object type, one is telling TS that whatever objects one uses, they *need* to have those properties.
+* The following `WithFirstName` and `WithLastName` aliased object types both only declare a single member of type *string*. p. 70.
+ 
 
 
 
