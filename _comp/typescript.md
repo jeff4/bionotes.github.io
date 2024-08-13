@@ -408,13 +408,68 @@ poetLater = "Emily Dickinson";
 * Note, most TS code prefers to use **interfaces** instead of aliased object types. Interfaces are covered in LTS Chpter 7. But most of the material here in Chapter 4 using object types applies to interfaces as well.
 
 ### Structural Typing p. 69
-* TS's typing system is *structurally typed*, aka nay value that happens to satisfy a type is allowed to be used as a value of that type.
+* TS's typing system is *structurally typed*, *aka* any value that happens to satisfy a type is allowed to be used as a value of that type.
 * i.e., when one declares that a parameter or variable is of a particular object type, one is telling TS that whatever objects one uses, they *need* to have those properties.
 * The following `WithFirstName` and `WithLastName` aliased object types both only declare a single member of type *string*. p. 70.
  
+```typescript
+type WithFirstName = {
+	firstName: string;
+};
+
+type WithLastName = {
+	lastName: string;
+};
+
+const hasBoth = {
+	firstName: "Lucille",
+	lastName: "Clifton",
+};
+
+// OK b/c 'hasBoth' contains a firstName property of type *string*
+let withFirstName: WithFirstName = hasBoth;
+
+// OK b/c 'hasBoth' contains a lastName property of type *string*
+let withLastName: WithLastName = hasBoth;
+
+```
+
+* The *hasBoth* variable just so happens to have both firstName and lastName properties, so it can be provided to variables that are declared as *either* type **WithFirstName** *or* type **WithLastName**.
+* **Note:** Structural typing is *not* the same as **duck typing**, whereby *If it looks like a duck, walks like a duck, and quacks like a duck, it's probably a duck*.
+	1. Structural typing is when there is a *static* system checking the type--in TS's case, the type checker.
+	1. Duck Typing is when *nothing* checks object types until they are used at runtime.
+* In summary, JS is *duck typed* whereas TypeScript is *structurally typed*.
 
 
+### Usage Checking
+* When providing a value to a location annotated with an object type, TS will check that the value is assignable to that object type.
+* To start, the value must have the object type's required properties.
+* If any member required on the object type is missing in the object, TS will issue a type error.
+* The following **FirstAndLastNames** aliased object type requires that both the *first* and *last* properties exist.
+* An object containing both of those is allowed to be used in a variable declared to be of type **FirstAndLastNames**, but an object without them is not:
 
+```typescript
+type FirstAndLastNames = {
+	first: string;
+	last: string;
+};
+
+
+// OK
+const hasBoth: FirstAndLastNames = {
+	first: "Sarojini",
+	last: "Naidu", 
+};
+
+
+const hasOnlyOne: FirstAndLastNames = {
+	first: "Sappho"
+};
+// Property 'last' is missing in type '{ first: string; }'
+// but required in type 'FirstAndLastNames'.
+```
+
+* Mismatched types between the two are not allowed either. p. 71
 
 ***
 
