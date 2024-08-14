@@ -11,7 +11,7 @@ sitemap: false
 
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
-* Chapters in *Learing TypeScript* organized into 3 main sections with one extra section:
+* Chapters in *Learning TypeScript* organized into 3 main sections with one extra section:
 	* **Part I: Concepts**
 	* **Part II: Features**
 	* **Part III: Usage**
@@ -586,12 +586,80 @@ const poemMismatch: Poem = {
 	* This way, TS will provide a more informative error message referring to *Author* rather than the more generic error message `{ firstName: string; lastName: string; }`
 
 ```typescript
+type Author = {
+	firstName: string;
+	lastName: string;
+};
+
+type Poem = {
+	author: Author;
+	name: string;
+};
+
+const poemMismatch: Poem = {
+	author: {
+		name: "Sylvia Plath",
+	},
+
+// Error: Type '{ name: string; }' is not assignable 
+// to type 'Author'.
+// Object literal may only specify known properties,
+// and 'name' does not exist in type 'Author'.
 ```
 
+* It's generally a good idea to move nested objects into their own type names like this b/c it makes for more readable code and more readable error messages.
 
 
+### Optional Properties p. 75
+* Object type properties don't all have to be required in the object.
+* You can include a `?` before the `:` in a type property's type annotation to indicate that this is an *optional property* of that object.
+* This **Book** type requires only a *pages* property and optionally allows an *author*.
 
+```typescript
+type Book = {
+	author?: string;
+	pages: number;
+};
 
+//OK
+const ok: Book = {
+	author: "Rita Dove",
+	pages: 80,
+};
+
+const missing: Book = {
+	author: "Rita Dove",
+};
+
+// Error: Property 'pages' is missing in type
+// '{ author: string; }' but required in type 'Book'.
+```
+
+* Keep in mind there is a difference between optional properties and properties whose type happens to include *undefined* in a type union.
+	* A property declared as optional with `?` is allowed to not exist.
+	* A property declared as *required* and `| undefined` must exist, even if the value is *undefined*.
+* The *editor* property in the following `Writers` type may be skipped in declaring variables bcause it has a `?` in its declaration.
+
+```typescript
+
+type Writers = {
+	author: string | undefined;
+	editor?: string;
+};
+
+// OK: author is provided as undefined
+const hasRequired: Writers = {
+	author: undefined,
+};
+
+//Error below
+const missingRequired: Writers = {};
+
+// Error: Property 'author' is missing in type 
+// '{}' but required in type 'Writers'.
+```
+
+* Chapter 7 covers other properties (Interfaces) while Chapter 13 Configuration Options describes strictness options.
 
 ***
 
