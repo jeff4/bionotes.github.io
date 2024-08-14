@@ -469,7 +469,129 @@ const hasOnlyOne: FirstAndLastNames = {
 // but required in type 'FirstAndLastNames'.
 ```
 
-* Mismatched types between the two are not allowed either. p. 71
+* Mismatched types between the two are not allowed either.
+* Object types specify both the names of required properties and the types those properties are expected to be .
+* If an object's property doesn't match, TS will report a type error.
+* The following **TimeRange** type expects the *start* member to be of type **Date**. 
+* The *hasStartString* object is causing a type error because its *start* is type *string* instead.
+
+```typescript
+type TimeRange = {
+	start: Date;
+};
+
+const hasStartDate: TimeRange = {
+	start: "1879-02-13",
+	// error: type 'string' is not assignable to type 'Date'.
+};
+```
+
+### Excess Property Checking p. 72
+
+* TS will report a type error if a variable is declared with an object type and its initial value has *only* fields than its type describes.
+* Therefore, declaring a variable to be of an object type is a way of getting the type checker to make sure it has *only* the expected fields on that type. 
+* This makes sure that *a type has **no** extra fields*.
+
+```typescript
+
+type Poet = {
+	born: number;
+	name: string;
+}
+
+// below is ok
+// because all fields match what's expected in Poet
+
+const poetMatch: Poet = {
+	born: 1928,
+	name: "Maya Angelou",
+};
+
+// Below throws an error
+// b/c there is an extra property called 'activity'
+
+const extraProperty: Poet = {
+	born: 1935,
+	name: "Mary Oliver",
+	activity: "walking",
+};
+
+
+// Error: Type '{ activity: string; born: number; name: string; }'
+// is not assignable to type 'Poet'.
+//   Object literal may only specify known properties,
+//   and 'activity' does not exist in type 'Poet'.
+```
+
+* **Note:** excess property checks (JH what i would call 'extra property checks') *only* trigger for object literals being created in locations that are declared to be an object type.
+* Providing an existing object literal *bypasses* extra property checs.
+
+```typescript
+const existingObj = {
+	born: 1935,
+	name: "Mary Oliver",
+	activity: "walking",
+};
+
+const extraPropertyButOk: Poet = existingObject;
+// will *not* throw an error b/c the *initial value*
+// matched the correct number of properties (2)
+// expected for a Poet object
+```
+
+### Nested Object Types p. 73
+* Just as JS objects can be nested as members within other objects, TS's object types must also be able to represent nested object types in the type system.
+* The syntax to do this is the same as before--but with a `{...}` object type instead of just a primitive name.
+i
+```typescript
+
+type Poem = {
+
+	author: {
+		firstName: string;
+		lastName: string;
+	};
+
+	name: string;
+};
+
+
+// below is ok
+
+const poemMatch: Poem = {
+	
+	author: {
+		firstName: "Sylvia";
+		lastName: "Plath";
+	};
+
+	name: "Lady Lazarus",
+};
+
+const poemMismatch: Poem = {
+	author: {
+		name: "Sylvia Plath",
+	},
+
+	// Reports error b/c there is no fName or lName 
+
+
+	name: "Tulips",
+
+}
+```
+
+* Object *poemMismatch* is not assignable b/c its *author* property includes *name* instead of *firstName* and *lastName* as expected by type **Poem**.
+* Alternate method of defining the **Poem** object, by extracting an **Author** aliased object type.
+	* This way, TS will provide a more informative error message referring to *Author* rather than the more generic error message `{ firstName: string; lastName: string; }`
+
+```typescript
+```
+
+
+
+
+
 
 ***
 
