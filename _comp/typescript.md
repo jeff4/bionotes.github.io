@@ -876,7 +876,27 @@ const oneArt: ShortPoem = {
 ## Chapter 5: Functions p. 87
 * This chapter describes how to annotate the input *parameters* and output *return values* for functions, similar to how Chapter 2 show how one can use type annotations to annotate values of variables.
 
+### Function Parameters p. 87
+* Consider the following `sing()` function that takes an input *song* parameters and logs it:
 
+```typescript
+function sing(song) {
+	console.log( `Singing: ${song}!`);
+}
+```
+
+* There's no information about what type *song* is; it could be a string, a number, a boolean, whatever.
+* In this case, TS will consider *song* to be of type: **any**.
+* As with variables, TS allows one to declare the type of function parameters using annotations. Here is the improved version with a required type:
+
+```typescript
+function sing(song: string) {
+	console.log( `Singing: ${song}!`);
+}
+```
+* Require Parameters p. 88
+* Unlike JS, which allows functions to be called with any number of arguments, TS assumes that *all parameters declared on a function are **required**.*
+* Providing the wrong number of input arguments will raise TS errors. See example p. 88: 
 
 ***
 
