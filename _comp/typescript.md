@@ -733,10 +733,26 @@ poem.pages;
 poem.rhymes;
 ```
 
-
+* Restricting access to potentially nonexistent members of objects can be a good thing for code safety.
+* If a value might be one of multiple types, properties that don't exist on all of those types aren't guaranteed to exist on the object.
 
 
 #### Narrowing Object Type  p. 78-79
+* If the type checker sees that an area of code can only be run if a union typed value contains a certain property, it will narrow the value's type to only the constituents that contain that property.
+* In other words, TS's type narrowing will apply to objects if you check their shape in code.
+* Continuing the explicitly typed **poem** example from above, check whether *pages* in **poem** acts as a type guard for TS to indicate that it is a **PoemWithPages**.
+* If 
+
+```typescript
+if ("pages" in poem) {
+	poem.pages; // OK: poem is narrowed to PoemWithPages
+} else {
+	poem.rhymes; // OK: poem is narrowed 
+
+
+//NOT COMPLETE p. 78
+
+```
 
 
 #### Discriminated Unions p. 78-79
