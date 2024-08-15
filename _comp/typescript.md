@@ -661,6 +661,40 @@ const missingRequired: Writers = {};
 
 * Chapter 7 covers other properties (Interfaces) while Chapter 13 Configuration Options describes strictness options.
 
+## 8/14/2024
+### Unions of Objects Types p. 76
+* It is reasonable in TS code to want to be able to describe a type that can be *two or more* different object types that have slightly different properties.
+* Furthermore, your code might want to be able to type narrow between those object types based on the value of a property.
+
+#### Inferred Object-Type Unions p. 76
+
+
+#### Explicit Object-Type Unions p. 77
+
+
+#### Narrowing Object Type  p. 78-79
+
+
+#### Discriminated Unions p. 78-79
+
+
+### Intersection Types p. 81o
+
+### Dangers of Intersection Types p. 83
+
+
+### Summary of Chapter 4 p. 84-85
+
+***
+
+
+# Part II Features p. 86
+
+## Chapter 5: Functions p. 87
+
+
+
+
 ***
 
 
