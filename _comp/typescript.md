@@ -820,13 +820,30 @@ type Writing = {
 type Written Art = Artwork & Writing;
 // Equivalent to:
 // {
-//		genre:string;
-//		name:string; 
-//		pages:number;
+//   genre:string;
+//   name:string; 
+//   pages:number;
 // }
 ```
 
 * Intersection types can be combined with union types, which is sometimes useful to describe discriminated unions in one type. Example on p. 81-82:
+
+```typescript
+type ShortPoem = { author: string } & (
+	| { kigo: 
+
+
+
+
+
+
+
+
+
+
+
+```
+
 
 
 ### Dangers of Intersection Types p. 83
