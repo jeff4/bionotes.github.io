@@ -22,8 +22,8 @@ sitemap: false
 	1. Chapter 4: **Objects**
 * **Section II: Features**
 	1. Chapter 5: Functions
-	1. Chapter 5: Arrays
-	1. Chapter 5: Interfaces
+	1. Chapter 6: Arrays
+	1. Chapter 7: Interfaces
 	1. Chapter 8: Classes
 	1. Chapter 9: Type Modifiers
 	1. Chapter 10: Generics
