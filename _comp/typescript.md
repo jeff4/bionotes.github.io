@@ -834,6 +834,8 @@ type ShortPoem = { author: string } & (
 	| { meter: number; type: "villanelle"; }
 );
 
+// ------
+
 const morningGlory: ShortPoem = {
 	author: "Fukuda Chiyo-ni",
 	kigo: "Morning Glory",
