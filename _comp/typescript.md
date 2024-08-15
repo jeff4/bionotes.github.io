@@ -830,18 +830,31 @@ type Written Art = Artwork & Writing;
 
 ```typescript
 type ShortPoem = { author: string } & (
-	| { kigo: 
+	| { kigo: string; type: "haiku"; }
+	| { meter: number; type: "villanelle"; }
+);
 
+const morningGlory: ShortPoem = {
+	author: "Fukuda Chiyo-ni",
+	kigo: "Morning Glory",
+	type: "haiku",
+};
+// above variable declaration is OK
 
+// ------
 
+const oneArt: ShortPoem = {
+	author: "Elizabeth Bishop",
+	type: "villanelle",
+};
 
-
-
-
-
-
-
-
+// Above generates error
+// Error: Type '{ author: string; type: "villanelle"; }'
+// is not assignable to type 'ShortPoem'.
+//   Type '{ author: string; type: "villanelle"; }' is not assignable to 
+//   type '{ author: string; } & { meter: number; type: "villanelle"; }'.
+//       Property 'meter' is missing type '{ author: string; type: "villanelle"; }'
+//       but required in type '{ meter: number; type: "villanelle"; }'.
 ```
 
 
