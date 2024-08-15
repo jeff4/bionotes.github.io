@@ -741,24 +741,93 @@ poem.rhymes;
 * If the type checker sees that an area of code can only be run if a union typed value contains a certain property, it will narrow the value's type to only the constituents that contain that property.
 * In other words, TS's type narrowing will apply to objects if you check their shape in code.
 * Continuing the explicitly typed **poem** example from above, check whether *pages* in **poem** acts as a type guard for TS to indicate that it is a **PoemWithPages**.
-* If 
 
 ```typescript
 if ("pages" in poem) {
 	poem.pages; // OK: poem is narrowed to PoemWithPages
 } else {
-	poem.rhymes; // OK: poem is narrowed 
-
-
-//NOT COMPLETE p. 78
-
+	poem.rhymes; // OK: poem is narrowed to PoemWithRhymes
+}
 ```
 
+* Note that TypeScript won't allow truthiness existence checks like `if(poem.pages) { /*...*/ }`.
+* Attempting to access a property of an object that *might not exist* is a **type error**, even if used in a way that seems to behave like a type guard:
+
+```
+Error: Property 'pages' does not exist on type 'PoemWithPages | PoemWithRhymes'. 
+Property 'pages' does not exist on type 'PoemWithRhymes'.
+```
 
 #### Discriminated Unions p. 78-79
+* Another popular form of union typed objects in JS / TS is to have a property on the object indicate what shape the object is.
+* This kind of type shape is called a **discriminated union**.
+	* The associated property whose value indicates the object's type is called a *discriminant*.
+* TS is able to perform type narrowing for code that type guards on *discriminant* properties.
+* Example p. 80: 
 
+```typescript
+type PoemWithPages = {
+	name: string;
+	pages: number;
+	type: 'pages';
+};
+
+type PoemWithRhymes = {
+	name: string;
+	rhymes: boolean;
+	type: 'rhymes';
+};
+type Poem = PoemWithPages | PoemWithPages;
+
+const poem: Poem = Math.random() > 0.5
+	? { name: "The Double Image", pages: 7, type: "pages" }
+	: { name: "Her Kind", rhymes: true, type: "rhymes" };
+
+if (poem.type == "pages") {
+	console.log(`It's got pages: ${poem.pages}`); // Ok
+} else {
+	console.log(`It rhymes: ${poem.rhymes}`);
+}
+
+poem.types; // Type: 'pages' | 'rhymes'
+
+poem.pages:
+//   ~~~~~
+// Error: Property 'pages' does not exist on type 'Poem'.
+// Property 'pages' does not exist on type 'PoemWithRhymes'.
+```
+
+* *Discriminated unions are my **favorite** feature in TS*. B/c they beautifully combine a common elegant JS pattern with TS' type narrowing.
+* *Chapter 10: Generics* willshow more around discriminated unions for generic data operations.
 
 ### Intersection Types p. 81
+* TypeScript's `|` union types represent the type of a value that coukld be one of two or more different types.
+* In contrast, TS can also represent an *intersection* type using **&**.
+* Intersection types are typically used with aliaased object types to creat a new type that combines multiple existing object types.
+* Example:
+
+```typescript
+type Artwork = {
+	genre: string;
+	name: string;
+};
+
+type Writing = {
+	page: number;
+	name: string;
+};
+
+type Written Art = Artwork & Writing;
+// Equivalent to:
+// {
+//		genre:string;
+//		name:string; 
+//		pages:number;
+// }
+```
+
+* Intersection types can be combined with union types, which is sometimes useful to describe discriminated unions in one type. Example on p. 81-82:
+
 
 ### Dangers of Intersection Types p. 83
 
