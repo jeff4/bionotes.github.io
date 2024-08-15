@@ -826,7 +826,8 @@ type Written Art = Artwork & Writing;
 // }
 ```
 
-* Intersection types can be combined with union types, which is sometimes useful to describe discriminated unions in one type. Example on p. 81-82:
+* Intersection types can be combined with union types, which is sometimes useful to describe discriminated unions in one type. 
+* Consider the following example on p. 81-82. The **ShortPoem** type always has an *author* property; the type is alos a discriminated union on a *type* property.
 
 ```typescript
 /* --------------------------------------------------------------------- */
@@ -849,7 +850,7 @@ const oneArt: ShortPoem = {
 	type: "villanelle",
 };
 
-// Above generates error
+// Above 'oneArt' declaration generates error
 // Error: Type '{ author: string; type: "villanelle"; }'
 // is not assignable to type 'ShortPoem'.
 //   Type '{ author: string; type: "villanelle"; }' is not assignable to 
@@ -858,11 +859,12 @@ const oneArt: ShortPoem = {
 //       but required in type '{ meter: number; type: "villanelle"; }'.
 /* --------------------------------------------------------------------- */
 ```
-
-
-
 ### Dangers of Intersection Types p. 83
-
+* Intersection types are very useful. But it's very easy to use them in ways that confuse yourself, other programmers, or the TS compiler.
+* When using intersection types, **please keep things as simple as possible**.
+* Kinds of problems:
+    1. Long assignability errors p. 83
+    1. `never` p. 84
 
 ### Summary of Chapter 4 p. 84-85
 
