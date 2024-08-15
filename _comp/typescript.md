@@ -667,9 +667,73 @@ const missingRequired: Writers = {};
 * Furthermore, your code might want to be able to type narrow between those object types based on the value of a property.
 
 #### Inferred Object-Type Unions p. 76
+* If a variable is given an initial value that could be one of multiple object types, TS will infer the variable's type to be a **union** of the various possible option types.
+* That union type will have a *constituent* for each of the possible object shapes.
+* Each of the possible properties on the type will be present in each of those constitutents. *However*, there will be `?` optional types on any type that does not have any initial value for them.
 
+```typescript
+const poem = Math.random() > 0.5
+	? { name: "The Double Image", pages: 7 }
+	: { name: "Her Kind", rhymes: true };
+
+	// Type:
+	// {
+	// name: string;
+	// pages: number;
+	// rhymes?: undefined;
+	// }
+	// 	|
+	// {
+	// 	name: string;
+	// 	pages?: undefined;
+	// 	rhymes: boolean;
+	// }
+	// 	
+
+poem.name;  // outputs string
+poem.pages;  // number | undefined
+poem.rhymes;  // booleans | undefined
+```
+
+* In the above code, the *poem* value always has a *name* property (type: *string*), but the *poem* may or may not have *pages* or *rhymes* properties.
 
 #### Explicit Object-Type Unions p. 77
+* Alternately, one can be *explicit* about one's object types by being explicit with declaring a union of object types.
+* Doing so requires writing a bunch more code but comes with the benefit of having more control.
+* See explicit version of **poem** code here:
+
+```typescript
+type PoemWithPages = {
+	name: string;
+	pages: number;
+};
+
+type PoemWithRhymes = {
+	name: string;
+	rhymes: boolean;
+};
+
+type Poem = PoemWithPages | PoemWithRhymes;
+
+const poem: Poem = Math.random() > -.5
+	? { name: "The Double Image", pages: 7 }
+	: { name: "Her Kind", rhymes: true };
+
+poem.name; // ok
+
+// Error for below
+// Property 'pages' does not exist on type 'Poem'.
+// Property'pages'doesnotexistontype'PoemWithRhymes'.
+poem.pages;
+
+
+// Error for below
+// Property 'rhymes' does not exist on type 'Poem'.
+// Property'rhymes'doesnotexistontype'PoemWithPages'.
+poem.rhymes;
+```
+
+
 
 
 #### Narrowing Object Type  p. 78-79
@@ -678,7 +742,7 @@ const missingRequired: Writers = {};
 #### Discriminated Unions p. 78-79
 
 
-### Intersection Types p. 81o
+### Intersection Types p. 81
 
 ### Dangers of Intersection Types p. 83
 
@@ -691,7 +755,7 @@ const missingRequired: Writers = {};
 # Part II Features p. 86
 
 ## Chapter 5: Functions p. 87
-
+* This chapter describes how to annotate the input *parameters* and output *return values* for functions, similar to how Chapter 2 show how one can use type annotations to annotate values of variables.
 
 
 
