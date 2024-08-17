@@ -917,7 +917,7 @@ singTwo("I Will Survive", "Higher Love");
 // Logs: "Go Your Own Way / The Chain"
 // Error: expected 2 arguments, but got 3 input argument
 singTwo("Go Your Own Way", "The Chain", "Dreams");
-``
+```
 
 * **Important Note: *Parameter* refers to a function's declaration of what it expects as input. *Argument* refers to the *value* provided to a parameter in when calling a function.**
 * In the previous example, *first* and *second* are parameters. `I Will Survive` and `Higher Love` and other strings are arguments; the values passed in for required input 'slots' for a function.
