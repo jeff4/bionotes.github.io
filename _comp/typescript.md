@@ -325,6 +325,8 @@ type IdMaybe = Id | undefined | null; // ok even though declared first
 type Id = number | string;
 ```
 
+***
+
 ## Chapter 4: Objects p. 67
 * This chapter examines how TS has a sophisticated way of handling very complex object shapes
 
@@ -897,6 +899,29 @@ function sing(song: string) {
 * Require Parameters p. 88
 * Unlike JS, which allows functions to be called with any number of arguments, TS assumes that *all parameters declared on a function are **required**.*
 * Providing the wrong number of input arguments will raise TS errors. See example p. 88: 
+
+```typescript
+function singTwo( first: string, second: string ) {
+	console.log( `${first} / ${second}` );
+}
+
+// Logs: "Ball and Chain / undefined"
+// Error: expected 2 arguments, but only got 1 input argument
+singTwo("Ball and Chain");
+
+// this is ok
+// Logs: "I Will Survive / Higher Love"
+singTwo("I Will Survive", "Higher Love");
+
+
+// Logs: "Go Your Own Way / The Chain"
+// Error: expected 2 arguments, but got 3 input argument
+singTwo("Go Your Own Way", "The Chain", "Dreams");
+``
+
+* **Important Note: *Parameter* refers to a function's declaration of what it expects as input. *Argument* refers to the *value* provided to a parameter in when calling a function.**
+* In the previous example, *first* and *second* are parameters. `I Will Survive` and `Higher Love` and other strings are arguments; the values passed in for required input 'slots' for a function.
+
 
 ***
 
