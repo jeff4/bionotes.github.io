@@ -1007,7 +1007,31 @@ singAllTheSongs("Ella Fitzgerald", 2000);
 * In the above example, the **singAllTheSongs()** function is allowed to take zero or more arguments of type *string*, but raises and error when a *number* like `2000` is input.
 
 ### Return Types p. 92
+* TypeScript is smart--if it understands all the possible values returned by a function, TS will generally understand what *type* the function returns.
+* Example on p. 92:
 
+```typescript
+
+// Type: (songs: string[]) ==> number
+
+function singSongs( songs: string[] ) {
+	for ( const song of songs) {
+		console.log(`${song}`);
+	}
+	return songs.length;
+
+}
+```
+
+* the function **singSongs()** is understood by TS to return a *number*.
+* If a function contains multiple *return* statements that each have different values, TS will infer the return type to be a **union* of all the possible returned types.
+* Example:
+
+```typescript
+
+
+
+```
 
 
 
