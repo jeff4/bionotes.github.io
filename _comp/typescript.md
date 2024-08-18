@@ -1099,6 +1099,71 @@ runOnSongs(logSong);
 
 ### Function Type Parentheses p. 96
 
+### Parameter Type Inferences p. 96
+* TS can infer the types of parameters in a function provided by to a location with a declared type.
+* This is nice b/c it allows us to avoid the cumbersome chore of declaring parameter types for every function we write.
+* Example p. 96 - 97:
+
+```typescript
+let singer: (song: string) => string;
+
+singer = function (song) {
+	// Type of song: string
+	return `Singing: ${ song.toUpperCase() }!` ; // ok
+};
+```
+
+* The above **singer** variable is known to be a function that takes in as a parameter that takes in an parameter of type *string*.
+* So the *song* parameter in the function later assigned to *singer()* is known to be a *string*.
+* Functions passed as arguments to parameters with function parameters types will have their parameter types inferred as well.
+
+```typescript
+const songs = ["Call Me", "Jolene", "The Chain"];
+
+// song: string
+// index: number
+songs.forEach( (song, index) => {
+	console.log( `${song} is at index ${index}` );
+});
+```
+
+### Function Type Aliases p. 97
+* Remember type aliases from Chapter 3 on Unions and Literals? They can be used for function types as well.
+* Example p. 97
+
+```typescript
+type StringToNumber = (input: string) => number;
+let stringToNumber: StringToNumber;
+stringToNumber = (input) => input.length; // ok
+
+// Error: type 'string' is not assignable to
+// type 'number
+stringtoNumber = (input) => input.toUpperCase();
+                                  ^^^^^^^^^^^^^
+```
+
+* Similarly, function parameters can be themselves be typed with aliases that refer to a function type. See Example p. 98. 
+
+```typescript
+type NumberToString = (input: number) => string;
+function usesNumberToString( numberToString: NumberToString ) {
+	console.log( `The string is: ${numberToString(1234)}`);
+}
+
+useNumberToString( (input) => `${input}! Hooray!` ); // ok
+
+// error
+// Type 'number' is not assignable to type 'string'.
+useNumberToString( (input) => input * 2 );
+                              ^^^^^^^^
+```
+
+## More Return Types p. 98
+
+### Void Returns p. 98
+
+### Never Returns p. 100
+
 
 ***
 ## register info
