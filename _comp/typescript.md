@@ -1029,11 +1029,65 @@ function singSongs( songs: string[] ) {
 
 ```typescript
 
-
-
+function getSongAt( songs: string[], index: number ) {
+	return index < songs.length
+		? songs[index]
+		: undefined;
+}
 ```
 
+* Above **getSongAt()** function would be inferred to return the union `string | undefined` because its two possible returned values are type *string* or *undefined*.
 
+### Explicit Return Values p. 93
+* As with variables, LTS recommends not bothering to explicitly declare return types of functions using annotations.
+* However, there are a few cases where it can be helpful. See p. 93-94
+
+### Function Types p. 94
+* JavaScript allows us to pass functions around as values. This means we need a way to declare the type of a parameter or variable meant to hold a function.
+* **Function type** syntax looks similar to an *arrow function*but using a *type* instead of a body.
+* This **nothingInGivesString** variable has a type which describes a function with zero parameters and returns a *string* value:
+
+```typescript
+let nothingInGivesString: () => string;
+```
+
+* Next
+
+
+```typescript
+let inputAndOutput: ( songs: string[], count?: number ) => number;
+```
+
+* Function types are frequently used to describe **callback parameters** (aka *parameters meant to be called as functions*).
+* Example on p. 94-95
+
+```typescript
+const songs = ["Juice", "Shake It Off", "What's Up"];
+
+function runOnSongs( getSongAt: ( index: number ) => string ) {
+	for ( let i = 0; i < songs.length; i += 1 ) {
+		console.log( getSongAt(i) );
+	}
+}
+
+function getSongAt( index: number ) {
+	return `${ songs[index] }`;
+}
+
+runOnSongs(getSongAt);
+
+function logSong( song: string ) {
+	return `${ song }`;
+}
+
+// Error: Argument of type '(song: string) => string' 
+// is not assignable to parameter of type 
+// '(index: number) => string'. 
+// Types of parameters 'song' and 'index' are incompatible. 
+// Type 'number' is not assignable to type 'string'.
+runOnSongs(logSong);
+           ^^^^^^^
+```
 
 
 
