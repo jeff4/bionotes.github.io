@@ -1064,6 +1064,8 @@ let inputAndOutput: ( songs: string[], count?: number ) => number;
 ```typescript
 const songs = ["Juice", "Shake It Off", "What's Up"];
 
+/* ------------------------------------- */
+
 function runOnSongs( getSongAt: ( index: number ) => string ) {
 	for ( let i = 0; i < songs.length; i += 1 ) {
 		console.log( getSongAt(i) );
@@ -1074,7 +1076,9 @@ function getSongAt( index: number ) {
 	return `${ songs[index] }`;
 }
 
-runOnSongs(getSongAt);
+runOnSongs(getSongAt); // ok
+
+/* ------------------------------------- */
 
 function logSong( song: string ) {
 	return `${ song }`;
@@ -1088,7 +1092,12 @@ function logSong( song: string ) {
 runOnSongs(logSong);
            ^^^^^^^
 ```
+* Consider the above code example. the **runOnSongs** snippet declares the type of its **getSongAt()** parameter to be a fucntion that accepts as input an *index: number* and returns as output a *string*.
+* Passing a **getSongAt** matches that type, but *logSong* fails for taking in a *string* as its parameter instead of a *number*.
+* The error message for **runOnSongs( *logSong()* )** is an example of an assignability error that includes a few levels of details.
+* When complaining that two function types aren't assignable to each other, TS will typically give 3 levels of detail with increasing levels of specificity (see p. 95).
 
+### Function Type Parentheses p. 96
 
 
 ***
