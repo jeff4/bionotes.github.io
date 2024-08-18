@@ -1157,12 +1157,19 @@ useNumberToString( (input) => `${input}! Hooray!` ); // ok
 useNumberToString( (input) => input * 2 );
                               ^^^^^^^^
 ```
-
+***
 ## More Return Types p. 98
 
 ### Void Returns p. 98
 
 ### Never Returns p. 100
+
+***
+## 8/19/2024
+
+### Function Overloads p. 101
+* Some JS functions are able to be called with drastically different sets of parameters that can't be represented just by optional and/or rest parameters.
+* These functions can be described in TS by **overload signatures**.
 
 
 ***
