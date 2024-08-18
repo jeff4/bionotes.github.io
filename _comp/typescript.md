@@ -928,7 +928,33 @@ singTwo("Go Your Own Way", "The Chain", "Dreams");
 
 ### Optional Parameters p. 89
 * Recall that in JS, if a function parameter is not provicded, its argument value inside the function defaults to `undefined`. 
-* Sometimes 
+* Sometimes function parameters are not necessary to provide, and the intended use of the function is for that 'undefined' value. 
+* We would not want TS to report type errors for failing to provide arguments to those optional parameers. 
+* That is the purpose of **optional parameters**--this is similar to *optional object type properties*.
+* Optional params don't need to be provided to function calls. Their types therefore always have a `| undefined` added as a union type by default.
+* Example on p. 89-90:
+
+```typescript
+
+function announceSong( song: string, singer?: string ) {
+	console.log( `Song: ${song}` );
+
+	if (singer) {
+		console.log( `Singer: ${singer}` );
+	}
+}
+
+announceSong("Greensleeves"); // ok
+announceSong("Greensleeves", undefined); // also ok
+announceSong("Chandelier", "Sia"); // ok
+```
+
+* In the above example, the *singer* parameter for the **announceSong()** function is marked **optional**. 
+	* The type is `string | undefined`, and the *singer* parameter does not need to be provided by callers of the funciton.
+	* If *singer* argument is provided to announceSong(), it may be of type *string* or just *undefined*.
+* Above optional parameters are always implicitly able to be *undefined*
+
+
 
 ***
 
