@@ -35,9 +35,10 @@ sitemap: false
 	1. Chapter 14: Syntax Extensions
 	1. Chapter 15: Type Operations
 
-
+***
 ## 8/04/2024
-### Chapter 2: The Type System p. 37
+
+## Chapter 2: The Type System p. 37
 * Syntax Errors vs Type Errors
 * Assignability p. 42
 	* It's ok to change the value as long as it is the same type within a strongly typed system
@@ -81,6 +82,7 @@ let firstName: string = 42;
 ### Modules p. 47-49
 * Mostly straightforward
 
+***
 ## Chapter 3: Unions and Literals p. 51
 * *Unions* expand a value's allowed type to **two or more possible types**
 * *Narrowing* reduces a value's allowed type to ** *not* be one ore more possible types**.
@@ -1170,6 +1172,106 @@ useNumberToString( (input) => input * 2 );
 ### Function Overloads p. 101
 * Some JS functions are able to be called with drastically different sets of parameters that can't be represented just by optional and/or rest parameters.
 * These functions can be described in TS by **overload signatures**.
+* Example p. 101:
+
+```typescript
+
+function createDate( timestamp: number): Date;
+
+function createDate( month: number, day: number, year: number): Date;
+
+function createDate( monthOrTimestamp: number, day?: number, year?: number ) {
+	return day === undefined || year === undefined
+		? new Date( monthOrTimestamp )
+		: new Date( year, monthOrTimestamp, day );
+}
+
+createDate(554356800); // ok
+createDate( 7, 27, 1987); // ok
+
+// Error: No overload expects exactly 2 arguments
+// but overloads *do* exist that expect 1 or 3 arguments.
+createDate( 4, 1);
+```
+
+* Pretty intesting. notes on p. 101
+* Overload signatures are erased when transpiling TypeScript to output vanilla JS. The above code snippet would be output to roughly this vanilla JS:
+
+```javascript
+function createDate ( monthOrTimestamp, day, year ) {
+	return day === undefined || year === undefined
+		? new Date( monthOrTimestamp )
+		: new Date( year, monthOrTimestamp, day );
+}
+```
+
+* **WARNING: Function overloads are generally used as a last resort for complex, difficult-to-describe function types. It’s generally better to keep functions simple and avoid using function overloads when possible.**
+
+### Call-Signature Compatibility p. 102
+* The implementation signature used for an overloaded function's implementation is what the function's implementation uses for parameter types and return type.
+* Thus, the return type and each parameter in a function's overload singature must be assignable to the parameter at the same index in its implementation signature.
+* i.e., the implementation signature has to be compatible with all the overload signatures.
+
+```typesccript
+function format( data: string) : string; // ok
+function format( data: string, needle: string, haystack: string ): string; // ok
+
+function format( getData: () => string ): string;
+         ^^^^^^
+// Error this overload signature is *not* compatible with its
+// implementation signature.
+
+function format( data: string, needle?: string, haystack?: string ) {
+	return needle && haystack ? data.replace( needle, haystack ): data;
+}
+```
+
+***
+
+## Chapter 6: Arrays p. 104
+* TypeScript supports the JS best practice of only using one datatype of the values within an array.
+
+```typescript
+const warriors = ["Artemisia", "Boudica"];
+
+warriors.push("Zenobia"); // OK bc new input item is a string
+
+// Error b/c input value is type 'boolean'
+warriors.push(true);
+```
+
+* One can think of TS inference of an array's type from its initial embers as similar to how TS understands variable types from their initial values.
+
+### Array Types p. 105
+* Variable meant to store arrays do *not* ned to have an initial value.
+* The variables can start off as `undefined` and then receive an array value later.
+
+```typescript
+let arrayOfNumbers: number[];
+arrayOfNumbers = [4, 8, 15, 16, 23, 42];
+```
+
+### Array and Function Types p. 105
+* Array types are an example of a syntax container where function types may need parentheses to distinguis what's in the function type or not.
+* Parentheses may be used to indicate which part of an annotation is the function return or the surrounding array type.
+* The **createStrings** type here--it is a *function* type--is *not* the same as **stringCreators** which is an array type (Ex on p. 105-106):
+
+```typescript
+
+let createStrings: () => string[];
+
+let stringCreators: ( ()=> string )[];
+```
+
+### Union-Type Arrays p. 106
+
+
+### Evolving Any Arrays p. 106
+
+
+### Multi-Dimensional Arrays p. 107
+
+### Array Members p. 108
 
 
 ***
