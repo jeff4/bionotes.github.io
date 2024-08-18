@@ -922,6 +922,13 @@ singTwo("Go Your Own Way", "The Chain", "Dreams");
 * **Important Note: *Parameter* refers to a function's declaration of what it expects as input. *Argument* refers to the *value* provided to a parameter in when calling a function.**
 * In the previous example, **first** and **second** are parameters. `I Will Survive` and `Higher Love` and other strings are arguments; the values passed in for required input 'slots' for a function.
 
+***
+
+## 8/17/2024
+
+### Optional Parameters p. 89
+* Recall that in JS, if a function parameter is not provicded, its argument value inside the function defaults to `undefined`. 
+* Sometimes 
 
 ***
 
