@@ -954,10 +954,6 @@ announceSong("Chandelier", "Sia"); // ok
 	* If *singer* argument is provided to announceSong(), it may be of type *string* or just *undefined*.
 * Above optional parameters are always implicitly able to be *undefined*.
 * In the above example, **singer** starts off as being of type `string | undefined` and then it is narrowed to just `string` by the **if statement**.
-
-***
-
-## 8/18/2024
 * Optional parameters are not thes ame as parameters that have union types that happen to include `| undefined`. 
 * Parameters that are *not* marked as optional with a **`?`** must *always* be provided, even if the value is explicitly *undefined*.
 * Example p. 90:
@@ -978,7 +974,7 @@ announceSongBy("Chandelier", "Sia"); // ok
 * **Placing an optional parameter before a required parameter triggers a TypeScript syntax error.
 
 ***
-
+## 8/18/2024
 ### Default Parameters p. 90
 * Optional parameters in JS may be given a default value with the `=` operator and a value in their declaration.
 * TS's type inference works similarly for for **default function parameter** values, just as it does for initial variable values.
@@ -992,8 +988,25 @@ announceSongBy("Chandelier", "Sia"); // ok
 * **Except** with a `[]` bracket syntax added at the end to indicate that it is an array of arguments.
 * Example on p. 91-92:
 
+```typescript
+function singAllTheSongs( singer: string, ...songs: string[] ) {
+	for (const song of songs) {
+		console.log( `${song}, by ${singer}`);
+	}
+}
 
+singAllTheSongs("Alicia Keys"); // ok
+singAllTheSongs("Lady Gaga", "Bad Romance", "Telephone", "Poker Face"); // ok
 
+// Error!
+// Argument of type 'number' is not assignable
+// to parameter of type 'string'.
+singAllTheSongs("Ella Fitzgerald", 2000); 
+```
+
+* In the above example, the **singAllTheSongs()** function is allowed to take zero or more arguments of type *string*, but raises and error when a *number* like `2000` is input.
+
+### Return Types p. 92
 
 
 
