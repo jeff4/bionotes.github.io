@@ -952,13 +952,55 @@ announceSong("Chandelier", "Sia"); // ok
 * In the above example, the *singer* parameter for the **announceSong()** function is marked **optional**. 
 	* The type is `string | undefined`, and the *singer* parameter does not need to be provided by callers of the funciton.
 	* If *singer* argument is provided to announceSong(), it may be of type *string* or just *undefined*.
-* Above optional parameters are always implicitly able to be *undefined*
+* Above optional parameters are always implicitly able to be *undefined*.
+* In the above example, **singer** starts off as being of type `string | undefined` and then it is narrowed to just `string` by the **if statement**.
+
+***
+
+## 8/18/2024
+* Optional parameters are not thes ame as parameters that have union types that happen to include `| undefined`. 
+* Parameters that are *not* marked as optional with a **`?`** must *always* be provided, even if the value is explicitly *undefined*.
+* Example p. 90:
+
+```typescript
+function announceSongBy( song: string, singer: string | undefined) {
+/* ... */
+}
+
+announceSongBy("Greensleeves");
+//Error: Expected 2 arguments, got 1
+
+announceSongBy("Greensleeves", undefined); // ok
+announceSongBy("Chandelier", "Sia"); // ok
+```
+
+* Any optional parameters for a function must be the *last parameters in sequence*.
+* **Placing an optional parameter before a required parameter triggers a TypeScript syntax error.
+
+***
+
+### Default Parameters p. 90
+* Optional parameters in JS may be given a default value with the `=` operator and a value in their declaration.
+* TS's type inference works similarly for for **default function parameter** values, just as it does for initial variable values.
+* If a parameter has a default value and does *not* have a type anotation, TS will infer that the parameter's type based on that default value.
+
+### Rest Parameters p. 91
+* Some functions in JS are made to be called with any number of arguments.
+* The `...` spread operator may be placed in the position of the last parameter of a function declaration. 
+	* This indicates that any **rest** arguments passed to the function starting at that parameter should all be stored in a single array.
+* TS allows declaring the types of these rest parameters similarly to regular parameters.
+* **Except** with a `[]` bracket syntax added at the end to indicate that it is an array of arguments.
+* Example on p. 91-92:
+
+
+
+
+
+
 
 
 
 ***
-
-
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
 * to paste *`<script>`* from the register **k**, type `"kp`.
