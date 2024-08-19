@@ -563,12 +563,12 @@ body {
 * **The box will be as *wide* as the browser window or other containing block element**.
 * **The box will be as *tall* as necessary to fit the content.**
 
-### Two Methods: Content Box (old/default) vs. Border Box (CSS3)
+## Two Methods: Content Box (old/default) vs. Border Box (CSS3)
 * There are two ways to specify the size of an element.
 	1. Default method: applies width and height values to the **content box**.
 	1. New method introduced in CSS3: use the **box-sizing** property which applies to the **border box**.
 
-#### Method 1: Default--Sizing the Content Box p. 357 - 358
+### Method 1: Default--Sizing the Content Box p. 357 - 358
 
 * Content Box example p. 358:
 
@@ -584,7 +584,7 @@ p {
 ```
 
 
-#### Method 2: Sizing the Border Box p. 358 - 360
+### Method 2: Sizing the Border Box p. 358 - 360
 * The other way to specify the size of an element is to apply height and width dimensions to the *entire* visible **border box**, which includes the padding ahnd border.
 * **Note: b/c this is *not* the default browser behavior, one must *explicitly* set `box-sizing: border-box` as a property.** p. 358
 * Rewriting the previous (default) Content Box example from p. 358 using Method 2 **Border Box**:
