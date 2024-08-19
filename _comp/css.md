@@ -569,7 +569,8 @@ body {
 	1. New method introduced in CSS3: use the **box-sizing** property which applies to the **border box**.
 
 ### Method 1: Default--Sizing the Content Box p. 357 - 358
-
+* Although this is default browser behavior, one can (optionally) specify using the content box model *explicitly* like so: `box-sizing: content-box`. (p. 357).
+* See pictures and calculations for Content Box on p. 358.
 * Content Box example p. 358:
 
 ```css
@@ -582,8 +583,6 @@ p {
   margin: 20px
 }
 ```
-
-
 ### Method 2: Sizing the Border Box p. 358 - 360
 * The other way to specify the size of an element is to apply height and width dimensions to the *entire* visible **border box**, which includes the padding ahnd border.
 * **Note: b/c this is *not* the default browser behavior, one must *explicitly* set `box-sizing: border-box` as a property.** p. 358
@@ -598,8 +597,20 @@ p {
 }
 ```
 
+* Many devs and designers find the *border-box* method to be more intuitive. p. 359
+* In fact, many devs simply set **everything** (*all* elements) in an HTML doc to use **border-box** by setting it at the root `html` element, then setting all other elements to inherit using the universal selector `*`. Code for this is on p. 360:
+
+```html
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+```
+
+### Specifying Height
+
+### Handling Overflow
 
 
+### Padding p. 361
 
 ***
 
