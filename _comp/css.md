@@ -449,6 +449,13 @@ p.warning::after {
 ```html
 <p class="warning">We are required to warn you that undercooked food is a health risk.</p>
 ```
+***
+
+### Attribute Selectors p. 323
+* Attribute selectors target elements based on attribute names or values. 
+* In fact, ***class selectors* and *ID selectors* are just special cases of the broader category of *attribute selectors***. (text box on the right rail of p. 323)
+
+
 
 ***
 ### Finally, External Style Sheets p. 348 - 351
