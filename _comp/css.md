@@ -455,13 +455,20 @@ p.warning::after {
 * Attribute selectors target elements based on attribute names or values. 
 * In fact, ***class selectors* and *ID selectors* are just special cases of the broader category of *attribute selectors***. (text box on the right rail of p. 323)
 * List of Attribute Selector Syntax p. 323 - 324
-	1. Simple attribute selector - example: `img[title] {border: 3px solid;}`
-	2. Exact attribute selector - example: `img[title="soccer-team"] {border: 3px solid;}`
-	3. Partial attribute value selector - example: `img[title~="team"] {border: 3px solid;}` -- to find *any* string with team
-	4. Hyphen-separated attribute value selector - uses vertical bar `|` to search for multiple variations, e.g., for English-US, English-UK, English-Australian, we might do something like `text[lang|="en"] {border: 3px}` which would target **en-us**, **en-uk**, and **en-au-tas**, respectively.
-	5. beginning substring attribute value selector - example: `img[src^="/images/icons"] {border: 3px solid;}`
-	6. ending substring attribute value selector - example: `img[filetype$=".pdf"] {border: 3px solid;}`
-	7. arbitrary substring attribute value selector - example: `img[title*="February"] {border: 3px solid;}`
+	1. **Simple attribute selector** - example: `img[title] {border: 3px solid;}`
+	2. **Exact attribute selector** - example: `img[title="soccer-team"] {border: 3px solid;}`
+	3. **Partial attribute value selector** - example: `img[title~="team"] {border: 3px solid;}` -- to find *any* string with team
+	4. **Hyphen-separated attribute value selector** - uses vertical bar `|` to search for multiple variations, e.g., for English-US, English-UK, English-Australian, we might do something like `text[lang|="en"] {border: 3px}` which would target **en-us**, **en-uk**, and **en-au-tas**, respectively.
+	5. **Beginning substring attribute value selector** - example: `img[src^="/images/icons"] {border: 3px solid;}`
+	6. **Ending substring attribute value selector** - example: `img[filetype$=".pdf"] {border: 3px solid;}`
+	7. **Arbitrary substring attribute value selector** - example: `img[title*="February"] {border: 3px solid;}`
+
+***
+### Background Images p. 324
+#### Adding a Background Image p. 324
+
+
+
 
 ***
 ### Finally, External Style Sheets p. 348 - 351
