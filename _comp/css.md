@@ -257,7 +257,7 @@ p#3 { text-indent: -35px; } /* hanging indent */
 
 # Chapter 13: Colors and Backgrounds p. 303
 * Color names p. 304. There are 140 standard colornames, per JNR as well as per the [HTMLColorCodes](https://htmlcolorcodes.com/color-names/) site: "Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value."
-* Handy table listing all 140 colors, with associated RGB and hex values on p. 305 of JNR.
+* **Handy color table listing** all 140 colors, with associated RGB and hex values on p. 305 of JNR.
 * Intro to RGB and Hex Colors p. 306-308.
 
 ### RGBa Color p. 309
@@ -536,6 +536,7 @@ body {
 ## 8/19/2024
 ### Introducing the Element Box p. 355
 * Every element in an HTML document generates a **rectangular element box**, both block-level and inline.
+* **Important Diagram Fig 14-1** on p. 355, indicating content area, padding area, margin area, inner edge, border, and outer edge.
 
 
 
