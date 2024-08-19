@@ -467,6 +467,12 @@ p.warning::after {
 ### Background Images p. 324
 #### Adding a Background Image p. 324
 
+* property name: **background-image**
+* values: url(*location of image*) | none
+* default value: none
+* applies to: all elements
+
+ 
 
 
 
