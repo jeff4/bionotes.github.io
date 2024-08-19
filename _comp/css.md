@@ -5,12 +5,14 @@ sitemap: false
 ---
 
 # Learning Web Design, 5d, Jennifer N. Robbins
+***
+# Chapter 11: Introducing CSS p. 239
 ## 7/28/2024
-### Chapter 11: Introducing CSS p. 239
 * Book arrived in mail on Friday 7/26.
 * Up to p. 242
 * JNR = shorthand for *Learning Web Design* by Jennifer N. Robbins
 
+***
 ## 7/30/2024
 * Three ways of attaching styles to a document
 	1. Inline styles (most primitive, less modular/scalable, not recommended). e.g. `<h1 style="color : dark-grey">Chapter 1 </h1>`.
