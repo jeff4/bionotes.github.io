@@ -538,6 +538,42 @@ body {
 * Every element in an HTML document generates a **rectangular element box**, both block-level and inline.
 * **Important Diagram Fig 14-1** on p. 355, indicating content area, padding area, margin area, inner edge, border, and outer edge.
 
+### Specifying Box Dimensions p. 356
+#### Width
+* Property Name: width
+* Values: length \| percentage \| auto
+* Default: auto
+* Applies to: block-level elements and replaced in-line elements (such as images)
+
+#### Height
+* Property Name: height
+* Values: length \| percentage \| auto
+* Default: auto
+* Applies to: block-level elements and replaced in-line elements (such as images)
+
+#### Box-Sizing
+* Property Name: box-sizing
+* Values: content-box \| border-box
+* Default: auto
+* Applies to: all elements
+
+### Specifying Box Dimensions
+#### Notes on width, height, box-sizing p. 357
+* By default, the width and height of a block element are calculated automatically by the browser--the default auto values.
+* **The box will be as *wide* as the browser window or other containing block element**.
+* **The box will be as *tall* as necessary to fit the content.
+* There are two ways to specify the size of an element.
+	1. Default method: applies width and height values to the **content box**.
+	1. New method introduced in CSS3: use the **box-sizing** property which applies to the **border box**.
+
+#### Method 1: Default--Sizing the Content Box p. 357
+
+
+
+
+
+#### Method 2: Sizing the Border Box p. 357
+
 
 
 ***
