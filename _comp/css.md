@@ -392,6 +392,7 @@ a:hover {
 
 * See also box on using Hover on Touch Devices on p. 318. Hover doesn't really work the same way on mobile and other touch devices.
 
+## 8/18/2024
 ### Putting it all together p. 318
 * When one applies styles to an **a** element with all five *pseudo-classes*, the order in which these pseudo-classes appear is IMPORTANT.
 * Example: if one puts **:link** or **:visited** last, they will *override* the states listed before them.
@@ -402,7 +403,54 @@ a:hover {
 	4. **:hover**
 	5. **:active**
 * It is recommended that one provides a *:focus* style for users who use the keyboard to tab through the links on a page. p. 319
+* See visual example Fig 13-14 on p. 319 which demonstrates the result of this css:
 
+```css
+a { text-decoration: none; }
+a:link { color: maroon; }
+a:visited { color: gray; }
+a:focus { color: maroon; background-color: #ffd9d9; }
+a:hover { color: maroon; background-color: #ffd9d9; }
+a:active { color: red; background-color: #ffd9d9; }
+```
+***
+
+### Pseudo-Element Selectors p. 320
+* There are *four pseudo-elements* that act as though they are inserting ficional elements into the document structure.
+* **In CSS3, Pseudo-elements are indicated by a `::` double-colon.** p. 320 (However, many browsers support the single-colon `:` syntax used for pseudo-elements in CSS2 for backward compatibility.)
+
+#### First Letter, First Line p. 320
+* See Fig 13-15 on p. 321 to see visually how this css code renders:
+
+```css
+p::first-line { letter-spacing: 9px; }
+p::first-letter { font-size: 300%; color: orange; }
+```
+
+#### Generated content with ::before and ::after p. 321
+* Bullets and list numbers are examples of *generated content* which is not included in the HTML source.
+* Generated content can include icons before list icons, to display URLs next to links when a web document is printed into hard copy, to add language appropriate quotation marks around a quote, and much more.
+* See Figure 13-16 on p. 322 to see how the below CSS + HTML renders:
+
+##### CSS
+```css
+p.warning::before {
+	content: url(exclamation.png);
+	margin-right: 6px;
+}
+
+p.warning::after {
+	content: " Thank you.";
+	color: red;
+}
+```
+
+##### HTML
+```html
+<p class="warning">We are required to warn you that undercooked food is a health risk.</p>
+```
+
+***
 ### Finally, External Style Sheets p. 348 - 351
 
 
