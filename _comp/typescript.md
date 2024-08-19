@@ -16,29 +16,30 @@ sitemap: false
 	* **Part II: Features**
 	* **Part III: Usage**
 	* **Part IV: Extra Credit**
-* **Section I: Concepts**
+* **Part I: Concepts**
 	1. Chapter 2: Type System overview
 	1. Chapter 3: **Unions** to expand type possibilities and **Narrowing** to reduce type possibilities. Also *literal types* are a more advanced, specific version of *primitive types* like strings, arrays, etc.
 	1. Chapter 4: **Objects**
-* **Section II: Features**
+* **Part II: Features**
 	1. Chapter 5: Functions
 	1. Chapter 6: Arrays
 	1. Chapter 7: Interfaces
 	1. Chapter 8: Classes
 	1. Chapter 9: Type Modifiers
 	1. Chapter 10: Generics
-* **Section III: Usage**
+* **Part III: Usage**
 	1. Chapter 11: Declaration Files
 	1. Chapter 12: Using IDE Features
 	1. Chapter 13: Configuration Options
-* **Section IV: Extra Credit**
+* **Part IV: Extra Credit**
 	1. Chapter 14: Syntax Extensions
 	1. Chapter 15: Type Operations
 
 ***
 ## 8/04/2024
 
-## Chapter 2: The Type System p. 37
+# Part I: Concepts
+# Chapter 2: The Type System p. 37
 * Syntax Errors vs Type Errors
 * Assignability p. 42
 	* It's ok to change the value as long as it is the same type within a strongly typed system
@@ -83,7 +84,7 @@ let firstName: string = 42;
 * Mostly straightforward
 
 ***
-## Chapter 3: Unions and Literals p. 51
+# Chapter 3: Unions and Literals p. 51
 * *Unions* expand a value's allowed type to **two or more possible types**
 * *Narrowing* reduces a value's allowed type to ** *not* be one ore more possible types**.
 
@@ -329,7 +330,7 @@ type Id = number | string;
 
 ***
 
-## Chapter 4: Objects p. 67
+# Chapter 4: Objects p. 67
 * This chapter examines how TS has a sophisticated way of handling very complex object shapes
 
 ### Object Types
@@ -877,7 +878,7 @@ const oneArt: ShortPoem = {
 
 # Part II Features p. 86
 
-## Chapter 5: Functions p. 87
+# Chapter 5: Functions p. 87
 * This chapter describes how to annotate the input *parameters* and output *return values* for functions, similar to how Chapter 2 show how one can use type annotations to annotate values of variables.
 
 ### Function Parameters p. 87
@@ -1228,7 +1229,7 @@ function format( data: string, needle?: string, haystack?: string ) {
 
 ***
 
-## Chapter 6: Arrays p. 104
+# Chapter 6: Arrays p. 104
 * TypeScript supports the JS best practice of only using one datatype of the values within an array.
 
 ```typescript
