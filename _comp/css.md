@@ -530,6 +530,14 @@ body {
 ### Finally, External Style Sheets p. 348 - 351
 * External style sheets are by far the most powerful way to use CSS. p. 348
 
+***
+# Chapter 14: Thinking Inside The Box p. 355
+
+## 8/19/2024
+### Introducing the Element Box p. 355
+* Every element in an HTML document generates a **rectangular element box**, both block-level and inline.
+
+
 
 ***
 
