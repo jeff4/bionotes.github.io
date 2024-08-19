@@ -569,13 +569,23 @@ body {
 #### Method 1: Default--Sizing the Content Box p. 357
 
 
+* Content Box example p. 358:
 
+```css
+p {
+  background: #f2f5d5;
+  width: 500px;
+  height: 150px;
+  padding: 20px;
+  border: 5px solid gray;
+  margin: 20px
+}
 
 
 #### Method 2: Sizing the Border Box p. 358 - 360
 * The other way to specify the size of an element is to apply height and width dimensions to the *entire* visible **border box**, which includes the padding ahnd border.
 * **Note: b/c this is *not* the default browser behavior, one must *explicitly* set `box-sizing: border-box` as a property.** p. 358
-* Rewriting the previous Content Box example using Border Box:
+* Rewriting the previous (default) Content Box example from p. 358 using Method 2 **Border Box**:
 
 ```css
 p {
