@@ -467,13 +467,13 @@ p.warning::after {
 ### Background Images p. 324
 #### Adding a Background Image p. 324
 * property name: **background-image**
-* values: url(*location of image*) | none
+* values: url(*location of image*) \| none
 * default value: none
 * applies to: all elements
 
 #### Repeated, tiled background p. 328
 * property name: **background-repeat**
-* values: repeat | no-repeat | repeat-x | repeat-y | space | round
+* values: repeat \| no-repeat \| repeat-x \| repeat-y \| space \| round
 * default value: repeat
 * applies to: all elements
 * Additional notes:
