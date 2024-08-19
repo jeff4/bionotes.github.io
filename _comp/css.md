@@ -561,7 +561,7 @@ body {
 #### Notes on width, height, box-sizing p. 357
 * By default, the width and height of a block element are calculated automatically by the browser--the default auto values.
 * **The box will be as *wide* as the browser window or other containing block element**.
-* **The box will be as *tall* as necessary to fit the content.
+* **The box will be as *tall* as necessary to fit the content.**
 * There are two ways to specify the size of an element.
 	1. Default method: applies width and height values to the **content box**.
 	1. New method introduced in CSS3: use the **box-sizing** property which applies to the **border box**.
