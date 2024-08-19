@@ -572,7 +572,20 @@ body {
 
 
 
-#### Method 2: Sizing the Border Box p. 357
+#### Method 2: Sizing the Border Box p. 358 - 360
+* The other way to specify the size of an element is to apply height and width dimensions to the *entire* visible **border box**, which includes the padding ahnd border.
+* **Note: b/c this is *not* the default browser behavior, one must *explicitly* set `box-sizing: border-box` as a property.** p. 358
+* Rewriting the previous Content Box example using Border Box:
+
+```css
+p {
+  ...
+  box-sizing: border-box;
+  width: 500px;
+  height: 150px;
+}
+```
+
 
 
 
