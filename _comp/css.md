@@ -345,6 +345,7 @@ Every variety of cabbage had their origin in the wild cabbage of Europe (
 ### Pseudo-Class Selectors p.316-320
 * Note: A text-box in the left side column of page 316 summarizes the selectors JNR has covered so far.
 * The concept of pseudo-class selectors refers to dynamic states of various potential classes, like whether a hyperlink `<a>` has been clicked, whether something has `focus` right now or not, or if there is a pointer `onHover` at the moment.
+* **Pseudo-classes are denoted by the `:` colon prefix before the desired pseudo-class**. p. 316
 
 #### Example: `<a>` HyperLink Pseudo-Class p. 316
 * This css makes sure that unclicked links are colored *crimson* while links that have been clicked are colored *silver*:
@@ -391,9 +392,16 @@ a:hover {
 
 * See also box on using Hover on Touch Devices on p. 318. Hover doesn't really work the same way on mobile and other touch devices.
 
-	
-
-
+### Putting it all together p. 318
+* When one applies styles to an **a** element with all five *pseudo-classes*, the order in which these pseudo-classes appear is IMPORTANT.
+* Example: if one puts **:link** or **:visited** last, they will *override* the states listed before them.
+* The required order for link pseudo-classes is:
+	1. **:link**
+	2. **:visited**
+	3. **:focus**
+	4. **:hover**
+	5. **:active**
+* It is recommended that one provides a *:focus* style for users who use the keyboard to tab through the links on a page. p. 319
 
 ### Finally, External Style Sheets p. 348 - 351
 
