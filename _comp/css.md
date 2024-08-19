@@ -476,12 +476,57 @@ p.warning::after {
 * values: repeat | no-repeat | repeat-x | repeat-y | space | round
 * default value: repeat
 * applies to: all elements
- 
+* Additional notes:
+	* **repeat-x**: repeat horizontally only 
+	* **repeat-y**: repeat vertically only 
+	* **space**: browser calculates how many background images an fit aross the width and height of the background area and adds equal amounts of space between the image. Leads to cropped images on the edges.
+	* **round**: browser makes sure repeated image ends at the right location on the edge but distortions. see pictures in Fig 13-21 on p. 329. 
 
+#### Position of background image p. 331
+* See also textbox on left side of p. 332 - *background image **offset***.
+* Background Position Origin on p. 333
+* **Background Attachment** allows the image to *"float"* such that it stays in the center of the visible browser window even when the user scrolls up/down the page.
+* *Background Size* sets the desired size of the background image. Without invoking this property, bg-images will always render at original dimensions/size of the source image. p. 336
 
+### Shorthand Background Property p. 338
+* Handy property that can specify *all* background styles in one shot
+* property name: **background**
+* values: background-color, background-image, background-repeat, background-attachment, background-position,  background-origin, background-size
+* default value: *see individual properties for their respective defaults*
+* applies to: all elements
+* Example on p. 338 -- concise version
+
+```css
+body {
+  background: white 
+              url(source.png)
+              no-repeat
+              right
+              top
+              fixed;
+}
+```              
+
+* Replaces this wordy version on p. 338 with same output
+
+```css
+body {
+  background-color: white;
+  background-image: url(source.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+```
+
+* All of the property values for background are optional and may appear *in any order*. 
+* To place multiple different background source images on the same viewport, see **multiple backgrounds** on p. 339.
+
+### Gradients p. 340 - 348
 
 ***
 ### Finally, External Style Sheets p. 348 - 351
+* External style sheets are by far the most powerful way to use CSS. p. 348
 
 
 ***
