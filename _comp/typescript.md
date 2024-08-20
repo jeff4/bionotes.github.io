@@ -1265,9 +1265,25 @@ let stringCreators: ( ()=> string )[];
 ```
 
 ### Union-Type Arrays p. 106
+* One can use a union type to indicate that each element in an array can be one of multiple select types.
+* When using array types with unions, *parentheses* may need to be used to indicate which part of an annotation is the **contents of the array** or the **surrounding union type**.
+* Using parentheses in array 
 
+```typescript
+// This means that type is 
+// either a *number* or an *array of strings*
+let stringOrArrayOfNumbers: string | number[];
+
+// This means that type is an array of elements
+// that are *each* either a number or a string
+let stringOrArrayOfNumbers: (string | number)[];
+```
 
 ### Evolving Any Arrays p. 106
+* If one does not include any type annotation on a variable initally set to an empty array, TS will treat this new array as *evolving `any[]`*.
+	* Evolving `any[]` means that this array can receive any type of content.
+* Just like with evolving *any* variables, this is **not good**. * The whole point of TS is to have clearly defined static types.o
+* Example on p. 107
 
 ## 8/19/2024
 ### Multi-Dimensional Arrays p. 107
@@ -1299,7 +1315,6 @@ let 3dArray: number[][][];
   ],
 ];
 ```
-
 
 ## Array Members p. 108
 
