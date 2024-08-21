@@ -654,6 +654,60 @@ blockquote {
 
 ## Exercise 14-1
 * p. 364-365
+* completed on 8/20/2024
+
+## 8/21/2024
+### Borders p. 366
+* A border is simply a line you draw around the current area (and *optionally* any padding).
+* In addition to "no border", there are 8 border styles: solid, double, dotted, dashed, groove, ridge, inset, and outset. (see diagram Fig 14-8 on p. 367)
+
+
+#### Border Style Property (Full) p. 366
+* Property Name: border-top-style, border-right-style, border-bottom-style, border-left-style
+* Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
+* Default: none
+* Applies to: all elements
+* Value of **hidden** equates to **none**
+* If no width is specified, default medium width will be used.
+* If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
+
+
+#### Border Style Property (shorthand) p. 366
+* Property Name: border-style
+* Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
+* Default: none
+* Applies to: all elements
+* Value of **hidden** equates to **none**
+* If no width is specified, default medium width will be used.
+* If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
+
+#### Example p. 367
+
+```css
+div#silly {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  width: 300px;
+  height: 100px;
+}
+```
+
+* p. 367--The **border-style** shorthand property works on the clockwase (TRouBle) mneumonic described for padding (see p. 362).
+
+#### Border Style Property (shorthand) p. 366
+* Property Name: border-style
+* Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
+* Default: none
+* Applies to: all elements
+* Value of **hidden** equates to **none**
+* If no width is specified, default medium width will be used.
+* If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
+
+
+
+
 
 ***
 
