@@ -648,14 +648,12 @@ blockquote {
 * Default: 0
 * Applies to: all elements
 
-i
+### More on the Shorthand padding Property p. 362-363
+* The shorthand *padding* property is handy, but it uses order to specify which border (top, right, bottom, or left) are being referred to.
+* See explanation on p. 362-363.
 
-
-
-
-
-
-
+## Exercise 14-1
+* p. 364-365
 
 ***
 
