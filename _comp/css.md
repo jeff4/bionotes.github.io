@@ -538,6 +538,8 @@ body {
 * Every element in an HTML document generates a **rectangular element box**, both block-level and inline.
 * **Important Diagram Fig 14-1** on p. 355, indicating content area, padding area, margin area, inner edge, border, and outer edge.
 
+***
+
 ### Specifying Box Dimensions p. 356
 #### Width
 * Property Name: width
@@ -656,9 +658,11 @@ blockquote {
 * The shorthand *padding* property is handy, but it uses order to specify which border (top, right, bottom, or left) are being referred to.
 * See explanation on p. 362-363.
 
-## Exercise 14-1
+### Exercise 14-1
 * p. 364-365
 * completed on 8/20/2024
+
+***
 
 ## 8/21/2024
 ### Borders p. 366
