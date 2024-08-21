@@ -710,8 +710,22 @@ div#silly {
 #### Applies to Border Width (both full and shorthand) above
 * The most common way to specify the width of borders is using **pixel** or **em** measurements.
 * One can also use the default values set by the browser for the values: *thin*, *medium*, and *thick*.
+* See Fig 14-10 for output of this css example on p. 368:
 
+```css
+/* using Full syntax */
+div#help {
+  border-top-width: thin;
+  border-right-width: medium;
+  border-bottom-width: thick;
+  border-left-width: 12px;
+  border-style: solid;
+  width: 300px;
+  height: 100px;
+}
 
+/* Using Shorthand syntax for same exact output */
+div#help {
 
 
 
