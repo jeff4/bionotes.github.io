@@ -1507,7 +1507,7 @@ const [firstChar, size] = firstCharAndSize("Gudit");
 ```
 
 * There are two common ways in TS to indiciate that a vlaue should be a more specific tuple type instead of a general array type:
-	1. using explicit tuple types; and
+	1. using **explicit tuple types**; and
 	1. using **const** assertions.
 
 #### 6.4.2.1 Explicit tuple types p. 115
