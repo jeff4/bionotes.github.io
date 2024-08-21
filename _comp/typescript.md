@@ -1371,14 +1371,14 @@ let [ year, warrior ] = Math.random() > 0.5
 ### 6.4.1 Tuple Assignability p. 111
 
 
-### 6.4.2 Tuple as Rest Parameters p. 113
+#### 6.4.1.1 Tuple as Rest Parameters p. 113
 
 
-### 6.4.3 Tuple Inferences p. 114
+### 6.4.2 Tuple Inferences p. 114
 
-#### 6.4.3.1 Explicit tuple types p. 115
+#### 6.4.2.1 Explicit tuple types p. 115
 
-#### 6.4.3.2 Const asserted tuples p. 115
+#### 6.4.2.2 Const asserted tuples p. 115
 
 ***
 
