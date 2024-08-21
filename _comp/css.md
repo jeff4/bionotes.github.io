@@ -671,7 +671,6 @@ blockquote {
 * If no width is specified, default medium width will be used.
 * If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
 
-
 #### Border Style Property (shorthand) p. 366
 * Property Name: border-style
 * Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
@@ -696,14 +695,21 @@ div#silly {
 
 * p. 367--The **border-style** shorthand property works on the clockwase (TRouBle) mneumonic described for padding (see p. 362).
 
-#### Border Style Property (shorthand) p. 366
-* Property Name: border-style
-* Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
-* Default: none
+#### Border Width Property (Full) *aka* thickness of border p. 368
+* Property Name: border-top-width, border-right-width, border-bottom-width, border-left-width
+* Values: *length* \| thin \| medium \| thick
+* Default: medium
 * Applies to: all elements
-* Value of **hidden** equates to **none**
-* If no width is specified, default medium width will be used.
-* If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
+
+#### Border Width Property (shorthand) p. 368
+* Property Name: border-width
+* Values: *length* \| thin \| medium \| thick
+* Default: medium
+* Applies to: all elements
+
+#### Applies to Border Width (both full and shorthand) above
+* The most common way to specify the width of borders is using **pixel** or **em** measurements.
+* One can also use the default values set by the browser for the values: *thin*, *medium*, and *thick*.
 
 
 
