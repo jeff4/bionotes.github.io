@@ -1520,10 +1520,93 @@ const [firstChar, size] = firstCharAndSize("Gudit");
 # Chapter 7: Interfaces p. 118
 
 ## 7.1 Type Aliases vs. Interfaces p. 118
+* In general, it's better to use **interfaces** versus **aliased object types**.
+* Quick comparison of aliased object type vs. interface
+
+```typescript
+
+// Aliased Object Type
+type Poet = {
+	born: number;
+	name: string;
+}
+
+// Equivalent syntax for interface
+interface Poet {
+	born: number;
+	name: string;
+}
+// Note: that interfaces preferentially do *not* have terminating semicolons
+// whereas aliased object types.
+```
+
+* TS's assignability checking and error messages for interfaces also work and look just about the same as they do for object types.
+* The following assignability errors for assigning to the **valueLater** variable would be roughly the same if *Poet* was an interface or type alias:
+
+```typescript
+let valueLater: Poet;
+
+// ok
+valueLater = {
+	born: 1935,
+	name: 'Sara Teasdale',
+};
+
+// Error: Type 'string' is not assignable to 'Poet'
+valueLater = "Emily Dickinson";
+
+// Error: Type 'boolean' is not assignable to type 'number'
+valueLater = {
+	born: true,
+	name: 'Sappho'
+};
+```
+
+* Differences between interfaces and type aliases that will be covered.
+* Interfaces can *merge* together to be augmented--a feature particularly useful when working with 3rd-party code such as built-in globals or npm packages.
+* In Chapter 8, we'll see that interfaces can be used to type check the structure of class declarations while type aliases cannot.
+* Interfaces are generally speedier for the TS type checker to work with: they declare a named type that can be cached more easily interally, rather than a dynamic copy-and-paste of a new object literal the way type aliases do.
+* B/c interfaces are considered *named objects* rather than an alias for an unnamed object literal, their error messages are more likely to be readable in hard edge cases.
+* **In general, it's best to use interfaces whenever possible.** p. 120
 
 ## 7.2 Types of Properties p. 120
+* JS objects can be wild and wacky in real-world usage, (see p. 120 for examples). 
+* TS interfaces provide a system of tools that help us model that wackiness.
+
 ### 7.2.1 Optional Properties p. 120
+* As with object types, interface properties don't all have to be required in the object.
+* One can indicate that an interface's property is optional by including a `?` before the `:` in its type annotation.
+* This **Book** interface requires only a *required* property and optionally allows an *optional*.
+* Objects adhering to it may provide *optional* or leave it out as long as they provide required. Example p. 121:
+* The same caveats around optional vs. regular properties when a type happens to include an **undefined** in a type union apply to interfaces and object types. see more on p. 121
+
+```typescript
+interface Book {
+	author?: string; // '?' indicates that this interface property is optional
+	pages: number;
+};
+
+// ok
+const ok: Book = {
+	author: "Rita Dove",
+	pages: 80,
+};
+
+// Error: Property 'author' is missing in type 
+// '{ pages: number; }' but required in type 'Book'.
+
+const missing: Book = {
+	pages: 80,
+};
+```
+
 ### 7.2.2 Read-Only Properties p. 121
+* You may sometimes wish to block users of your interface from reassigning properties of objects adhering to an interface.
+* TS 
+
+
+
+
 ### 7.2.3 Functions and Methods p. 122
 ### 7.2.4 Call Signatures p. 124
 ### 7.2.5 Index Signatures p. 126
