@@ -605,11 +605,20 @@ html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 ```
 
-### Specifying Height
+### Specifying Height -- same as Width
+* Height is less common than Width. Width was covered in previous 2 sections on Content Box and Border Box (methods 1 and 2). p. 360
 
 ### Handling Overflow
+* When an element is sized too small for its contents, one can specify what to do with the content that doesn't fit using the **overflow** property.
 
+#### Overflow
+* Property Name: Overflow
+* Values: visible \| hidden \| scroll \| auto
+* Default: visible
+* Applies to: block-level elements and replaced in-line elements (such as images)
+* See Fig 14-4 p. 361 for examples on what happens when you use *visible*, *hidden*, *scroll*, etc.
 
+## 8/20/2024
 ### Padding p. 361
 
 ***
