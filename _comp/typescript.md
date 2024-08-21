@@ -1406,10 +1406,26 @@ yearAndWarrior = [ 508 ];
 
 let [ year, warrior ] = Math.random() > 0.5
 	? [340, "Archidamia"]
-	: [1828, "Rani 0f Jhansi"];
+	: [1828, "Rani of Jhansi"];
 ```
 
 ### 6.4.1 Tuple Assignability p. 111
+* **Tuple types** are treated by TS as more specific than variable length array types.
+* That means variable length array types aren't assignable to tuple types.
+* Example p. 112:
+
+```typescript
+
+// Type: (boolean | number)[]
+const pairLoose = [ false, 123 ];
+
+const pairTupleLoose: [ boolean, number ] = pairLoose;
+//    ^^^^^^^^^^^^^^
+// Error: Type '( number | boolean )[]' is not
+// assignable to type '[boolean, number]'
+// Target requires 2 elements but source may have fewer
+```
+ 
 
 
 #### 6.4.1.1 Tuple as Rest Parameters p. 113
