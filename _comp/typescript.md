@@ -1282,8 +1282,9 @@ let stringOrArrayOfNumbers: (string | number)[];
 ### Evolving Any Arrays p. 106
 * If one does not include any type annotation on a variable initally set to an empty array, TS will treat this new array as *evolving `any[]`*.
 	* Evolving `any[]` means that this array can receive any type of content.
-* Just like with evolving *any* variables, this is **not good**. * The whole point of TS is to have clearly defined static types.o
-* Example on p. 107
+* Just like with evolving *any* variables, this is **not good**.
+* The whole point of TS is to have clearly defined static types.o
+* There are some times this may be useful--but **be careful**. see p. 107 for brief examples and more.
 
 ## 8/19/2024
 ### Multi-Dimensional Arrays p. 107
@@ -1315,8 +1316,21 @@ let 3dArray: number[][][];
   ],
 ];
 ```
+* See TS example on p. 108:
 
-## Array Members p. 108
+```typescript
+let arrayOfArraysOfNumbers: ( number[] )[];
+
+```
+
+## 8/20/2024
+### Array Members p. 108
+* TS understands typical index-based access for retrieving members of an array to give back an element of that array's type.
+
+#### Caveat: Unsound Members p. 108
+* The TypeScript type system is known to be **technically unsound** b/c although TS gets most types right, TS *can* get types of values incorrect.
+* In particular, **arrays are a source of unsoundness** in TS's type system.
+
 
 
 ***
