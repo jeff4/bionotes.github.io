@@ -620,6 +620,42 @@ html { box-sizing: border-box; }
 
 ## 8/20/2024
 ### Padding p. 361
+* Padding is the space between the content area and the border (see diagram again on p. 355).
+
+#### Padding for each side of an element
+* Property Name: padding-top, padding-right, padding-bottom, padding-left
+* Values: length \| percentage
+* Default: 0
+* Applies to: all elements
+* Example p. 362:
+
+```css
+blockquote {
+  padding-top: 2em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+  padding-left: 4em;
+  background-color: #D098D4 /* light green */
+}
+
+```
+* To see results of above css padding, see Fig 14-5 on p. 362.
+
+
+#### Shorthand *Padding* property
+* Property Name: padding
+* Values: length \| percentage
+* Default: 0
+* Applies to: all elements
+
+i
+
+
+
+
+
+
+
 
 ***
 
