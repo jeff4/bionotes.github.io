@@ -1243,7 +1243,7 @@ warriors.push(true);
 
 * One can think of TS inference of an array's type from its initial embers as similar to how TS understands variable types from their initial values.
 
-### Array Types p. 105
+## 6.1 Array Types p. 105
 * Variable meant to store arrays do *not* ned to have an initial value.
 * The variables can start off as `undefined` and then receive an array value later.
 
@@ -1252,7 +1252,7 @@ let arrayOfNumbers: number[];
 arrayOfNumbers = [4, 8, 15, 16, 23, 42];
 ```
 
-### Array and Function Types p. 105
+### 6.1.1 Array and Function Types p. 105
 * Array types are an example of a syntax container where function types may need parentheses to distinguis what's in the function type or not.
 * Parentheses may be used to indicate which part of an annotation is the function return or the surrounding array type.
 * The **createStrings** type here--it is a *function* type--is *not* the same as **stringCreators** which is an array type (Ex on p. 105-106):
@@ -1264,7 +1264,7 @@ let createStrings: () => string[];
 let stringCreators: ( ()=> string )[];
 ```
 
-### Union-Type Arrays p. 106
+### 6.1.2 Union-Type Arrays p. 106
 * One can use a union type to indicate that each element in an array can be one of multiple select types.
 * When using array types with unions, *parentheses* may need to be used to indicate which part of an annotation is the **contents of the array** or the **surrounding union type**.
 * Using parentheses in array 
@@ -1279,7 +1279,7 @@ let stringOrArrayOfNumbers: string | number[];
 let stringOrArrayOfNumbers: (string | number)[];
 ```
 
-### Evolving Any Arrays p. 106
+### 6.1.3 Evolving Any Arrays p. 106
 * If one does not include any type annotation on a variable initally set to an empty array, TS will treat this new array as *evolving `any[]`*.
 	* Evolving `any[]` means that this array can receive any type of content.
 * Just like with evolving *any* variables, this is **not good**.
@@ -1287,7 +1287,7 @@ let stringOrArrayOfNumbers: (string | number)[];
 * There are some times this may be useful--but **be careful**. see p. 107 for brief examples and more.
 
 ## 8/19/2024
-### Multi-Dimensional Arrays p. 107
+### 6.1.4 Multi-Dimensional Arrays p. 107
 * A 2D array *aka* an *array of arrays* will have two `[]` like so p. 107:
 
 ```typescript
@@ -1324,10 +1324,10 @@ let arrayOfArraysOfNumbers: ( number[] )[];
 ```
 
 ## 8/20/2024
-### Array Members p. 108
+## 6.2 Array Members p. 108
 * TS understands typical index-based access for retrieving members of an array to give back an element of that array's type.
 
-#### Caveat: Unsound Members p. 108
+### 6.2.1 Caveat: Unsound Members p. 108
 * The TypeScript type system is known to be **technically unsound** b/c although TS gets most types right, TS *can* get types of values incorrect.
 * In particular, **arrays are a source of unsoundness** in TS's type system.
 
