@@ -563,6 +563,8 @@ body {
 * **The box will be as *wide* as the browser window or other containing block element**.
 * **The box will be as *tall* as necessary to fit the content.**
 
+***
+
 ## Two Methods: Content Box (old/default) vs. Border Box (CSS3)
 * There are two ways to specify the size of an element.
 	1. Default method: applies width and height values to the **content box**.
@@ -607,6 +609,8 @@ html { box-sizing: border-box; }
 
 ### Specifying Height -- same as Width
 * Height is less common than Width. Width was covered in previous 2 sections on Content Box and Border Box (methods 1 and 2). p. 360
+
+***
 
 ### Handling Overflow
 * When an element is sized too small for its contents, one can specify what to do with the content that doesn't fit using the **overflow** property.
@@ -661,7 +665,7 @@ blockquote {
 * A border is simply a line you draw around the current area (and *optionally* any padding).
 * In addition to "no border", there are 8 border styles: solid, double, dotted, dashed, groove, ridge, inset, and outset. (see diagram Fig 14-8 on p. 367)
 
-
+### Border Style
 #### Border Style Property (Full) p. 366
 * Property Name: border-top-style, border-right-style, border-bottom-style, border-left-style
 * Values: see list of 8 types of borders above (aka table Fig 14-8 on p. 367)
@@ -693,6 +697,9 @@ div#silly {
 ```
 * p. 367--The **border-style** shorthand property works on the clockwase (TRouBle) mneumonic described for padding (see p. 362).
 
+***
+
+### Border Width
 #### Border Width Property (Full) *aka* thickness of border p. 368
 * Property Name: border-top-width, border-right-width, border-bottom-width, border-left-width
 * Values: *length* \| thin \| medium \| thick
@@ -724,8 +731,23 @@ div#help {
 
 /* Using Shorthand syntax for same exact output */
 div#help {
+  border-width: thin medium thick 12 px;
+  border-style: solid;
+  width: 300px;
+  height: 100px;
+}
 ```
+***
 
+### Border Color
+#### Border Color Property (Full) *aka* thickness of border p. 368
+* Property Name: border-top-width, border-right-width, border-bottom-width, border-left-width
+* Values: *length* \| thin \| medium \| thick
+* Default: medium
+* Applies to: all elements
+
+#### Border Color Property (shorthand) p. 368
+* Property Name: border-width
 
 ***
 
