@@ -1251,7 +1251,7 @@ warriors.push(true);
 let arrayOfNumbers: number[];
 arrayOfNumbers = [4, 8, 15, 16, 23, 42];
 ```
-
+## 8/19/2024
 ### 6.1.1 Array and Function Types p. 105
 * Array types are an example of a syntax container where function types may need parentheses to distinguis what's in the function type or not.
 * Parentheses may be used to indicate which part of an annotation is the function return or the surrounding array type.
@@ -1286,7 +1286,6 @@ let stringOrArrayOfNumbers: (string | number)[];
 * The whole point of TS is to have clearly defined static types.o
 * There are some times this may be useful--but **be careful**. see p. 107 for brief examples and more.
 
-## 8/19/2024
 ### 6.1.4 Multi-Dimensional Arrays p. 107
 * A 2D array *aka* an *array of arrays* will have two `[]` like so p. 107:
 
