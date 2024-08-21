@@ -744,14 +744,35 @@ div#help {
 ***
 
 ### Border Color
-#### Border Color Property (Full) *aka* thickness of border p. 368
-* Property Name: border-top-width, border-right-width, border-bottom-width, border-left-width
-* Values: *length* \| thin \| medium \| thick
-* Default: medium
+#### Border Color Property (Full) p. 369
+* Property Name: border-top-color, border-right-color, border-bottom-color, border-left-color
+* Values: *color name* or *RGB/HSL* *value* \| transparent
+* Default: the value of the color property for the element
 * Applies to: all elements
 
-#### Border Color Property (shorthand) p. 368
-* Property Name: border-width
+#### Border Color Property (shorthand) p. 369
+* Property Name: border-color
+* Values: *color name* or *RGB/HSL* *value* \| transparent
+* Default: the value of the color property for the element
+* Applies to: all elements
+
+#### Shorthand Color Example from Fig 14-11 p. 369
+
+```css
+div#special {
+  border-color: maroon aqua;
+  border-style: solid;
+  border-width: 6px;
+  width: 300px;
+  height: 100px;
+}
+```
+
+### Outlines optional but good for testing 
+* See large textbox on p. 370.
+
+### Combining Style, Width, and Color p. 371
+
 
 ***
 
