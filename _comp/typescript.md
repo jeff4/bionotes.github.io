@@ -1496,21 +1496,22 @@ trios.forEach(logTrio);
 * Example p. 114:
 
 ```typescript
-
-// Return type:  (string \| number )[]
-
+// Return type:  (string | number )[]
 function firstCharAndSize( input: string ) {
 	return [input[0], input.length);
 }
 
 // firstChar type: string | number
-
+// size type: string | number
+const [firstChar, size] = firstCharAndSize("Gudit");
 ```
 
-* There are two common ways in TS to indiciate that a vlaue should be a more specific tuple type instead of a general array type...
-
+* There are two common ways in TS to indiciate that a vlaue should be a more specific tuple type instead of a general array type:
+	1. using explicit tuple types; and
+	1. using **const** assertions.
 
 #### 6.4.2.1 Explicit tuple types p. 115
+* Tuple types may be used in type annotations such as return type annotation for a function...
 
 #### 6.4.2.2 Const asserted tuples p. 115
 
