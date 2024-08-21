@@ -1330,7 +1330,59 @@ let arrayOfArraysOfNumbers: ( number[] )[];
 ### 6.2.1 Caveat: Unsound Members p. 108
 * The TypeScript type system is known to be **technically unsound** b/c although TS gets most types right, TS *can* get types of values incorrect.
 * In particular, **arrays are a source of unsoundness** in TS's type system.
+* See example on p. 108-109
 
+## 6.3 Spreads and Rests p. 109
+
+## 6.4 Tuples p. 109
+* Although JS arrays can be any size, we can also make JS arrays a fixed size--which is called a **tuple**.
+* Tuple arrays have a specific known type at each index that may be more specific than a union type of all possible members of the array.
+* The syntax to declare a tuple type looks like an aray literal but with **types** instead of **elements**.
+* Example p. 111
+
+```typescript
+
+let yearAndWarrior: [ number, string ];
+
+yearAndWarrior = [ 508, "Tomyris" ]; // ok
+
+yearAndWarrior = [ false, "Tomyris" ]; 
+//                 ^^^^^
+// Error: Type 'boolean' is not assignable to type 'number'
+
+yearAndWarrior = [ 508 ]; 
+//                 ^^^
+// Error: Type '[number]' is not assignable to 
+// type '[number, string]'. Source has 1 element
+// but target requires 2.
+```
+
+* Tuples are often used in JS alongside array destructuring to be able to assign multiple values at once, such as setting 2 variables to initial values based on a single condition.
+* For example, TS recognizes here that **year** is always going to be a *number* and **warrior** is always going to be a *string*.
+* Example p. 111:
+
+```typescript
+
+let [ year, warrior ] = Math.random() > 0.5
+	? [340, "Archidamia"]
+	: [1828, "Rani 0f Jhansi"];
+```
+
+### 6.4.1 Tuple Assignability p. 111
+
+
+### 6.4.2 Tuple as Rest Parameters p. 113
+
+
+### 6.4.3 Tuple Inferences p. 114
+
+#### 6.4.3.1 Explicit tuple types p. 115
+
+#### 6.4.3.2 Const asserted tuples p. 115
+
+***
+
+# Chapter 7: Interfaces p. 118
 
 
 ***
