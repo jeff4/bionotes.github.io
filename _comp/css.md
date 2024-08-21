@@ -669,6 +669,7 @@ blockquote {
 * A border is simply a line you draw around the current area (and *optionally* any padding).
 * In addition to "no border", there are 8 border styles: solid, double, dotted, dashed, groove, ridge, inset, and outset. (see diagram Fig 14-8 on p. 367)
 
+***
 ### Border Style
 #### Border Style Property (Full) p. 366
 * Property Name: border-top-style, border-right-style, border-bottom-style, border-left-style
