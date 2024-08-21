@@ -681,7 +681,6 @@ blockquote {
 * If no color is specified, default will be the foreground color of the element (aka same as the text in that element).
 
 #### Example p. 367
-
 ```css
 div#silly {
   border-top-style: solid;
@@ -692,7 +691,6 @@ div#silly {
   height: 100px;
 }
 ```
-
 * p. 367--The **border-style** shorthand property works on the clockwase (TRouBle) mneumonic described for padding (see p. 362).
 
 #### Border Width Property (Full) *aka* thickness of border p. 368
@@ -726,7 +724,7 @@ div#help {
 
 /* Using Shorthand syntax for same exact output */
 div#help {
-
+```
 
 
 ***
