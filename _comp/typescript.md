@@ -1415,7 +1415,6 @@ let [ year, warrior ] = Math.random() > 0.5
 * Example p. 112:
 
 ```typescript
-
 // Type: (boolean | number)[]
 const pairLoose = [ false, 123 ];
 
@@ -1425,10 +1424,40 @@ const pairTupleLoose: [ boolean, number ] = pairLoose;
 // assignable to type '[boolean, number]'
 // Target requires 2 elements but source may have fewer
 ```
- 
+* In above example, although we as humans see **pairLoose** as having **[boolean, number]** inside, TS infers it to be the more general **(boolean | number)[]** type.
+* If **pairLoose** had been declared as a **[boolean, number]** itself, the assignment of its value to *pairTuple* would have been permitted.
+* Tuples of different lengths are also *not* assignable to each other.
+* As TS includes knowing how many members are in the tuple in tuple types. 
+* Consider this example p. 112:
 
+```typescript
+const tupleThree: [boolean, number, string] = [false, 1583, "Nzinga"];
+
+const tupleTwoExact: [boolean, number] = [tupleThree[0], tupleThree[1]];
+
+const tupleTwoExtra: [boolean, number] = tupleThree;
+//    ^^^^^^^^^^^^^
+// Error: Type '[boolean, number, string]' is not assignable
+// to type '[boolean, number]'.
+// Source has **3** elements but target only allows 2.
+```
 
 #### 6.4.1.1 Tuple as Rest Parameters p. 113
+* B/c tuples are seen as arrays with more specific type information on length and element types, they can be particularly useful for storing arguments to be passed to a function.
+* TS is able to provide accurate type checking for tuples passed as `...` rest parameters.
+* Here, the **logPair** function's parameters are typed string and number.
+* Trying to pass in a value of type *( string | number)[]* as arguments wouldn't be type safe as the contents might not match up: they could both be the same type, or one of each type in the wrong order.
+* However, if TS knows the value to be a *[string, number]* tuple, it understands the values match up:
+
+```typescript
+function logPair()
+
+
+const pairArray = ["Amage", i];
+
+```
+
+* If you really want to go wild with your rest parameter tuples p. 113
 
 
 ### 6.4.2 Tuple Inferences p. 114
