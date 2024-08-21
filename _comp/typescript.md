@@ -1333,6 +1333,48 @@ let arrayOfArraysOfNumbers: ( number[] )[];
 * See example on p. 108-109
 
 ## 6.3 Spreads and Rests p. 109
+### 6.3.1 Spreads p. 109
+* Arrays can be joined together using the `...` spread operator.
+* TypeScript understands the result array will contain values that can be either of the input arrays.
+* If the input arrays are the same type, the output array will be that same type.
+* If two arrays of *different* types are spread together to create a new array will be understood as an **union type** array of elements that either of the two original types.
+* Example p. 110:
+
+```typescript
+// Type: string[]
+const soldiers = [ "Harriet Tubman", "Joan of Arc", "Khutulun" ];
+
+// Type: number[]
+const soldierAges = [ 90, 19, 45 ];
+
+// Type: ( string | number)[]
+const conjoined = [...soldiers, ...soldierAges];
+```
+
+### 6.3.2 Spreading Rest Parameters p. 110
+* TS recognizes and will perform type checking on the JS practie of using the `...` **spreading an array** as a rest parameter.
+* Arrays used as arguments for rest parameters must have the same array type as the rest parameter.
+* The **logWarriors()** function below takes in only *string* values for its `...names` rest parameter.
+* Spreading an array of type **string[]** is allowed, but a **number[]** is *not*.
+
+```typescript
+function logWarriors( greeting: string, ...names: string[] ) {
+	for ( const name of names ) {
+		console.log( `${ greeting }, ${ name }!` );
+	}
+}
+
+const warriors = [ "Cathay Williams", "Lozen", "Nzinga" ];
+
+logWarriors( "Hello", ...warriors );
+
+const birthYears = [ 1844, 1840, 1583 ];
+
+logWarriors( "Born in", ...birthYears );
+//                      ^^^^^^^^^^^^^
+// Error: Argument of type 'number' is not assignable
+// to parameter of type 'string'.
+```
 
 ## 6.4 Tuples p. 109
 * Although JS arrays can be any size, we can also make JS arrays a fixed size--which is called a **tuple**.
