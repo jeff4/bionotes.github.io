@@ -1446,21 +1446,69 @@ const tupleTwoExtra: [boolean, number] = tupleThree;
 * B/c tuples are seen as arrays with more specific type information on length and element types, they can be particularly useful for storing arguments to be passed to a function.
 * TS is able to provide accurate type checking for tuples passed as `...` rest parameters.
 * Here, the **logPair** function's parameters are typed string and number.
-* Trying to pass in a value of type *( string | number)[]* as arguments wouldn't be type safe as the contents might not match up: they could both be the same type, or one of each type in the wrong order.
+* Trying to pass in a value of type *( string \| number)[]* as arguments wouldn't be type safe as the contents might not match up: they could both be the same type, or one of each type in the wrong order.
 * However, if TS knows the value to be a *[string, number]* tuple, it understands the values match up:
 
 ```typescript
-function logPair()
+function logPair( name: string, value: number) {
+	console.log(`${name} has ${value}`);
+}
 
+const pairArray = ["Amage", 1];
 
-const pairArray = ["Amage", i];
+logPair(...pairArray);
+// Error: A spread argument must either have a tuple type
+// or be passed to a rest operator.
+
+const pairTupleIncorrect: [number, string] = [1, "Amage"];
+
+logPair(...pairTupleIncorrect);
+// Error: Argument of type 'number' is not assignable
+// to parameter of type 'string'.
+
+const pairTupleCorrect: [string, number] = ["Amage", 1];
+
+logPair(...pairTupleCorrect); // ok
+```
+
+* If you really want to go wild with your rest parameter tuples, you can mix them with arrays to store a *list of arguments* for **multiple function calls**. Example p. 113-114:
+
+```typescript
+function logTrio (name: string, value: [number, boolean]) {
+	console.log( `${name} has ${value[0]} ${value[1]}` ); 
+}
+
+const trios: [ string, [number, boolean] ][] = [
+  ["Amanitore", [1, true]],
+  ["Aethelflaed", [2, false]],
+  ["Ann E. Dunwoody", [3, false]]
+];
+
+trios.forEach( trio => logTrio(...trio) ); //ok
+
+// Error -- see p. 114
+trios.forEach(logTrio);
+```
+
+### 6.4.2 Tuple Inferences p. 114
+* TS generally treats created arrays as variable length arrays, not tuples. 
+* If TS sees an array being used as a vairable's initial value or the returned value for a function, TS will then assume a *flexible sized* array rather than a fixed-sized tuple.
+* Example p. 114:
+
+```typescript
+
+// Return type:  (string \| number )[]
+
+function firstCharAndSize( input: string ) {
+	return [input[0], input.length);
+}
+
+// firstChar type: string | number
 
 ```
 
-* If you really want to go wild with your rest parameter tuples p. 113
+* There are two common ways in TS to indiciate that a vlaue should be a more specific tuple type instead of a general array type...
 
-
-### 6.4.2 Tuple Inferences p. 114
 
 #### 6.4.2.1 Explicit tuple types p. 115
 
