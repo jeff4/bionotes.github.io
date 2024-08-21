@@ -1602,7 +1602,7 @@ const missing: Book = {
 
 ### 7.2.2 Read-Only Properties p. 121
 * You may sometimes wish to block users of your interface from reassigning properties of objects adhering to an interface.
-* TS 
+* TypeScript allows you to add a **readonly** modifier before a property name to indicate that once set, that property should not be set to a different value.
 
 
 
