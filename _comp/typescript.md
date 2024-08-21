@@ -1519,6 +1519,24 @@ const [firstChar, size] = firstCharAndSize("Gudit");
 
 # Chapter 7: Interfaces p. 118
 
+## 7.1 Type Aliases vs. Interfaces p. 118
+
+## 7.2 Types of Properties p. 120
+### 7.2.1 Optional Properties p. 120
+### 7.2.2 Read-Only Properties p. 121
+### 7.2.3 Functions and Methods p. 122
+### 7.2.4 Call Signatures p. 124
+### 7.2.5 Index Signatures p. 126
+### 7.2.6 Nested Interfaces p. 129
+
+## 7.3 Interface Extensions p. 130
+### 7.3.1 Overriden Properties p. 132
+### 7.3.2 Extending Multiple Interfaces p. 132
+
+## 7.4 Interface Merging p. 133
+### 7.4.1 Member Naming Conflicts p. 135
+
+
 
 ***
 ## register info
