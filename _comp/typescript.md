@@ -1686,15 +1686,71 @@ interface OptionalReadonlyFunctions {
 ```typescript
 type FunctionAlias = ( input: string ) => number;
 
-...MORE...
+interface CallSignature {
+	( input: string ): number;
+}
+
+// Type: ( input: string ) => number
+const typedFunctionAlias: FunctionAlias = (input) => input.length; // ok
+
+// Type: ( input: string ) => number
+const typedCallSignature: CallSignature = (input) => input.length; // ok
+```
+* Call signatures can be used to describe functions that additionally have some user-defined property on them.
+* TS will recognize a property added to a function declaration as adding to that function declaration's type.
+* Example p. 125:
+
+```typescript
+interface FunctionWithCount {
+	count: number;
+	(): void;
+}
+
+let hasCallCount: FunctionWithCount;
+
+function keepsTrackOfCalls() {
+	keepsTrackOfCalls.count += 1;
+	console.log( `I've been called ${ keepsTrackOfCalls.count } times!` );
+}
+
+keepsTrackOfCalls.count = 0;
+
+hasCallCount = keepsTrackOfCalls; //ok
+
+function doesNotHaveCount() {
+	console.log( "No idea!" );
+}
+
+// Error: property 'count' is missing in type
+// '() => void' but required in type 'FunctionWithCalls'
+hasCallCount = doesNotHaveCount;
+```
+* The above example has a **keepTrackOfCalls** function declaration which is given a **count** property of type *number*. It's assignable using the FunctionWithCount interface.
+* The error on the last line is caused b/c it was *not* given a **count**.
+
+***
+
+### 7.2.5 Index Signatures p. 126
+* This makes *"container"* objects practical in JS projects that store values that are referenced using an arbitrary *string* primary key.
+* TS provides a syntax called **index signature** to indicate that an interface's objects are allowed to take in *any* key and return a certain type under that key.
+* They're most commonly used with string keys b/c JS object property lookcups convert keys to string implicitly.
+* An index signature looks like a regular property definition but with a type after the key like so:
+```typescript
+{
+	[ i: string]: ...
+}
+```
+* Example with **WordCounts** p. 126:
+```typescript
+interface WordCounts {
+
+}
 
 ```
 
 
 
 
-
-### 7.2.5 Index Signatures p. 126
 ### 7.2.6 Nested Interfaces p. 129
 
 ## 7.3 Interface Extensions p. 130
