@@ -1521,7 +1521,7 @@ const [firstChar, size] = firstCharAndSize("Gudit");
 
 ## 7.1 Type Aliases vs. Interfaces p. 118
 * In general, it's better to use **interfaces** versus **aliased object types**.
-	* For more on **aliased object types**, see p. 69. More concise syntax than *vanilla object type* which is sematntically the same.
+	* For more on **aliased object types**, see p. 69. More concise syntax than *vanilla object type* which is semantically the same.
 	* See initial example of vanilla *object type* declaration on p. 68: `let PoetLater { born:number; name:string }`.
 	* Compare with *aliased object type* declaration on p. 69: `type Poet { born:number; name:string }; let poetLater: Poet;`.
 * Quick comparison of aliased object type vs. interface
@@ -1565,12 +1565,14 @@ valueLater = {
 };
 ```
 
-* Differences between interfaces and type aliases that will be covered.
+### 7.1.1 Differences between interfaces and type aliases in this chapter
 * Interfaces can *merge* together to be augmented--a feature particularly useful when working with 3rd-party code such as built-in globals or npm packages.
 * In Chapter 8, we'll see that interfaces can be used to type check the structure of class declarations while type aliases cannot.
 * Interfaces are generally speedier for the TS type checker to work with: they declare a named type that can be cached more easily interally, rather than a dynamic copy-and-paste of a new object literal the way type aliases do.
 * B/c interfaces are considered *named objects* rather than an alias for an unnamed object literal, their error messages are more likely to be readable in hard edge cases.
 * **In general, it's best to use interfaces whenever possible.** p. 120
+
+***
 
 ## 7.2 Types of Properties p. 120
 * JS objects can be wild and wacky in real-world usage, (see p. 120 for examples). 
@@ -1606,11 +1608,41 @@ const missing: Book = {
 ### 7.2.2 Read-Only Properties p. 121
 * You may sometimes wish to block users of your interface from reassigning properties of objects adhering to an interface.
 * TypeScript allows you to add a **readonly** modifier before a property name to indicate that once set, that property should not be set to a different value.
+* Example p. 121, the **text** property in the below **Page** interface returns a string when accessed.
+	* But TS raises a type error if the *text* property is assigned a new value:
 
+```typescript
+interface Page {
+	readonly text: string;
+}
 
+function read( pageObject: Page ) {
+	
+	// this is ok: just accessing the 'text' property 
+	// doesn't try to modify it
+	console.log( pageObject.text );
 
+	// this will cause an error b/c are trying to 
+	// assign a new value to the 'text' property
+	pageObject.text += "!";
+}
+```
+* More on usage of **readonly** modifiers and how they only exist in the type system / interfaces p. 122.
+
+***
 
 ### 7.2.3 Functions and Methods p. 122
+* It is very common in JS for object members to be functions.
+* TS allows declaring interface members to be function types--covered in Chapter 5: Functions.
+
+#### 7.2.3.1 Two ways of declaring interface members as functions
+1. **Method Syntax**: declaring that a member of the interface is a function like...
+1. **Property Syntax**: declaring that a member of the interface is a function like...
+
+
+
+***
+
 ### 7.2.4 Call Signatures p. 124
 ### 7.2.5 Index Signatures p. 126
 ### 7.2.6 Nested Interfaces p. 129
