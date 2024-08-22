@@ -1521,7 +1521,7 @@ const [firstChar, size] = firstCharAndSize("Gudit");
 
 ## 7.1 Type Aliases vs. Interfaces p. 118
 * In general, it's better to use **interfaces** versus **aliased object types**.
-	* For more on aliased object types, see p. 69. It's a convenient and shorter way of declaring object types (previous section, p. 68). 
+	* For more on **aliased object types**, see p. 69. More concise syntax than *vanilla object type* which is sematntically the same.
 	* See initial example of vanilla *object type* declaration on p. 68: `let PoetLater { born:number; name:string }`.
 	* Compare with *aliased object type* declaration on p. 69: `type Poet { born:number; name:string }; let poetLater: Poet;`.
 * Quick comparison of aliased object type vs. interface
