@@ -665,7 +665,7 @@ blockquote {
 ***
 
 ## 8/21/2024
-### Borders p. 366
+## Borders p. 366
 * A border is simply a line you draw around the current area (and *optionally* any padding).
 * In addition to "no border", there are 8 border styles: solid, double, dotted, dashed, groove, ridge, inset, and outset. (see diagram Fig 14-8 on p. 367)
 
@@ -809,7 +809,30 @@ p.example {
 
 ### Rounded Corners with border-radius
 
-####o
+#### Border Radius (full) p. 371
+* Property Name: border-top-left-radius, border-top-right-radius, border-bottom-right-radius, border-bottom-left-radius
+* Values: length \| percentage values
+* Default: 0
+* Applies to: all elements
+
+#### Notes on border-radius to create Rounded Rects p. 372
+* Keep in mind, these rounded corners for an element if that element has an actively colored border or actively background-color.
+* Values typically provided in **em**'s or **pixels**.
+* Percentages are allowed and are useful for keeping the curve proportional to the box.
+* If using the 'full' individual corner version, the order is clockwise starting from upper left. p. 372
+
+
+
+
+
+#### Border Radius (shorthand) p. 371
+* Property Name: border-radius
+* Values: 1, 2, 3, or 4 length \| percentage values
+* Default: 0
+* Applies to: all elements
+
+
+
 
 
 ***
