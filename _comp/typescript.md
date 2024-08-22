@@ -1635,11 +1635,11 @@ function read( pageObject: Page ) {
 * It is very common in JS for object members to be functions.
 * TS allows declaring interface members to be function types--covered in Chapter 5: Functions.
 
-#### 7.2.3.1 Two ways of declaring interface members as functions p.123
+### 7.2.3.1 Two ways of declaring interface members as functions p.123
 1. **Method Syntax**: declaring that a member of the interface is a function intended to be called as a member of the object, e.g., **member(): void**.
 1. **Property Syntax**: declaring that a member of the interface is equal to a *standalone function*, e.g., **member: () => void**.
 
-#### More notes and an example  p. 123
+#### More notes and an example of Way 1 + Way 2  p. 123
 * The two declaration forms are an analog for the two ways you can declare a JS object as having a function.
 
 ```typescript
