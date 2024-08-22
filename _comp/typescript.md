@@ -1737,7 +1737,7 @@ hasCallCount = doesNotHaveCount;
 * An index signature looks like a regular property definition but with a type after the key like so:
 ```typescript
 {
-	[ i: string]: ...
+  [ i: string]: ...
 }
 ```
 * Example with **WordCounts** p. 126:
