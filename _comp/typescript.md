@@ -1670,12 +1670,11 @@ interface OptionalReadonlyFunctions {
 }
 ```
 * Method and property declarations can mostly be used interchangeably. Three main differences
-	1. Only Way 2: **properties** can be declared **readonly**. Way 1: *method* cannot be declared readonly.
-	1. Interface merging is treated differently between Way 2 and Way 1.
-Some of the operations performed on types treat them differently--see Chapter 15 on Type Operations.
+	1. Only **Way 2: properties** can be declared **readonly**. **Way 1: method** cannot be declared readonly.
+	1. Interface merging is treated differently between **Way 2** and **Way 1**. Some of the operations performed on types treat them differently--see Chapter 15 on Type Operations.
 * For now, the general style guide LTS recommends is:
-	* Use *Way 1: Method function declaration* if one knows the underlying function may refer to keyword **this** (See Chapter 8 on Classes).
-	* Use *Way 2: Property function declaration* otherwise.
+	* Use **Way 1: Method function declaration** if one knows the underlying function may refer to keyword **this** (See Chapter 8 on Classes).
+	* Use **Way 2: Property function declaration** otherwise.
 
 ***
 
@@ -1685,7 +1684,7 @@ Some of the operations performed on types treat them differently--see Chapter 15
 * Example p. 124-125:
 
 ```typescript
-type FunctionAlias = ( input: string _ => number;
+type FunctionAlias = ( input: string ) => number;
 
 ...MORE...
 
