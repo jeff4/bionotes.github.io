@@ -772,7 +772,50 @@ div#special {
 ### Outlines optional but good for testing 
 * See large textbox on p. 370.
 
+***
+
 ### Combining Style, Width, and Color p. 371
+* Just as CSS provides shorthands for individual properties, CSS3 also lets one specify style, width, and color all in a *single* declaration.
+
+#### Combined Border (full) p. 371
+* Property Name: border-top, border-right, border-bottom, border-left
+* Values: border-style, border-width, border-color
+* Default: defaults for each property 
+* Applies to: all elements
+
+#### Combined Border (shorthand) p. 371
+* Property Name: border
+* Values: border-style, border-width, border-color
+* Default: defaults for each property 
+* Applies to: all elements
+
+#### Notes for combined border
+* The values for **border** and the side-specific border properties may include style, width, color values in *any order.
+* You do not need to declare all three; but if the border style value is omitted, **no border will render**.
+* The **border** shorthand property works a bit differently than other shorthand properties that wev'e covered.
+	* It covers all 4 sides simultaneously.
+	* Therefore, one need not ust the TRouBLe (TRBL) framework.
+	* Example p. 371:
+```css
+h1 { border-left: red 0.5em solid; }   /* left border only */
+h2 { border-bottom: 1px solid; }       /* bottom border only */
+
+/* all four sides */
+p.example {
+  border: 2px dotted #663;
+}
+```
+***
+
+### Rounded Corners with border-radius
+
+####o
+
+
+***
+
+## Margins p. 376
+
 
 
 ***
