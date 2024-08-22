@@ -1661,12 +1661,40 @@ hasBoth.method(); //ok
 ```
 
 * Both ways can receive the **? optional modifier** to indicate that a *function is not needed** as part of the interface.
+* Example p. 123
 
-
+```typescript
+interface OptionalReadonlyFunctions {
+  optionalProperty?: () => string;
+  optionalMethod?(): string;
+}
+```
+* Method and property declarations can mostly be used interchangeably. Three main differences
+	1. Only Way 2: **properties** can be declared **readonly**. Way 1: *method* cannot be declared readonly.
+	1. Interface merging is treated differently between Way 2 and Way 1.
+Some of the operations performed on types treat them differently--see Chapter 15 on Type Operations.
+* For now, the general style guide LTS recommends is:
+	* Use *Way 1: Method function declaration* if one knows the underlying function may refer to keyword **this** (See Chapter 8 on Classes).
+	* Use *Way 2: Property function declaration* otherwise.
 
 ***
 
 ### 7.2.4 Call Signatures p. 124
+* Both interfaces and object types can declare **call signatures**.
+* *Call Signatures* are a type system description of how a value may be called like a function.
+* Example p. 124-125:
+
+```typescript
+type FunctionAlias = ( input: string _ => number;
+
+...MORE...
+
+```
+
+
+
+
+
 ### 7.2.5 Index Signatures p. 126
 ### 7.2.6 Nested Interfaces p. 129
 
