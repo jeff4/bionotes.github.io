@@ -1973,25 +1973,47 @@ let extraProperty: Novella = {
 
 #### 7.3.1.1 Example p. 132
 * For example, this **WithNullableName** type is properly made non-nullable in **WithNonNullableName**.
-* In contrast...
+* However, **WithNumericName** is *not* allowed as `number | string` and is not assignable to `string | null`:
 
 ```typescript
 inteface WithNullableName {
-...
-
+  name: string | null;
 }
 
+// ok
+interface WithNonNullableName extends WithNullableName {
+  name: string;
+}
+
+// Error: Interface 'WithNumericName' incorrectly extends
+// extends interface 'WithNullableName'.
+// Type of property 'name' are incompatible.
+// Type 'string | number' is not assignable to type 'string | null'.
+// Type 'number' is not assignable to type 'string'.
+interface WithNumericName extends WithNullableName {
+  name: number | string;
+}
 ```
-
-
-
-
 ***
 
 ### 7.3.2 Extending Multiple Interfaces p. 132
+* An interface in TS is allowed to be declared as extending multiple other interfaces at once.
+* Any number of **base interface** names separated by commas may be used after the `extends` keyword following the **derived interface's** name.
+* *The derived interface will receive **all** members from every parent/base interface.*
 
-## 7.4 Interface Merging p. 133
-### 7.4.1 Member Naming Conflicts p. 135
+#### 7.3.2.1 Example p. 132-133
+* Here, the **GivesBothAndEither** has 3 methods:
+	1. One on its own
+	1. One from **GivesNumber**
+	1. One from **GivesString**
+
+```typescript
+interface GivesNumber {
+
+
+interface GivesString {
+```
+
 
 
 
