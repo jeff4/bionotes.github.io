@@ -547,9 +547,8 @@ const extraPropertyButOk: Poet = existingObject;
 ### Nested Object Types p. 73
 * Just as JS objects can be nested as members within other objects, TS's object types must also be able to represent nested object types in the type system.
 * The syntax to do this is the same as before--but with a `{...}` object type instead of just a primitive name.
-i
-```typescript
 
+```typescript
 type Poem = {
 
 	author: {
