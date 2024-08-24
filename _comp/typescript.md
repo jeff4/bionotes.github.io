@@ -2071,6 +2071,21 @@ window.myEnvironmentalVariable; // Type: string
 ### 7.4.2 Member Naming Conflicts p. 134
 * Note that merged interfaces may not declare the same name of a property multiple times with **different types**. i.e., when you use the same property name, it *must be the same type for each occurrence!
 
+#### 7.4.2.1 Examples of naming conflict p. 134-135
+
+
+
+
+
+
+## 7.5 Summary
+
+***
+
+# Chapter 8: Classes
+## 8/24/2024
+
+
 ***
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
