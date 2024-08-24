@@ -1738,7 +1738,7 @@ hasCallCount = doesNotHaveCount;
 * An index signature looks like a regular property definition but with a type after the key like so:
 ```typescript
 {
-  [ i: string]: ...
+	[ i: string]: ...
 }
 ```
 
@@ -1746,6 +1746,7 @@ hasCallCount = doesNotHaveCount;
 
 * The below **WordCounts** interface example is declared as allowing *any* **string** key with a number value.
 * Objects of that type aren't bound to receiving any particular key--as long as the value is a **number** p. 126:
+
 ```typescript
 interface WordCounts {
 	[i: string]: number;
@@ -1760,6 +1761,7 @@ counts.cherry = false; // error
 // Error: Type 'boolean' is not assignable 
 // to type 'number'.
 ```
+
 * Index signatures are convenient for assigning values to an object but aren't completely type safe.
 * Index signatures indicate that an object shoukd give back a value no matter what property is being accessed.
 
