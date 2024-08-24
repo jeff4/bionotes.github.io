@@ -2033,7 +2033,44 @@ function useGivesBoth( instance: GivesBothAndEither ) {
 ## 7.4 Interface Merging p. 133
 
 * One of the important features of interfaces is their ability to **merge** with each other.
+* Interface merging means that if 2 interfaces are declared within the same scope with the *same name*, they will join into one bigger interface under that name using all the fields of both base interfaces.
 
+### 7.4.1 Merged interface examples p. 133-134
+* Interface merging is not used a lot in regular TypeScript and LTS recommends avoiding it.
+* However, merging interfaces *can* be useful when augmenting interfaces from **external packages**.
+* This snippet declares a **Merged** interface with 2 properties: *fromFirst* and *fromSecond*.
+
+```typescript
+interface Merged {
+  fromFirst: string;
+}
+
+interface Merged {
+  fromSecond: number;
+}
+```
+* which is equivalent to...
+
+```typescript
+interface Merged {
+  fromFirst: string;
+  fromSecond: number;
+}
+```
+
+* Example of good use case for merged interface on p. 134. Consider the built-in global JS interface **Window**. You can do this (explained more in Chapter 11 / Chapter 13):
+
+```typescript
+interface Window {
+  myEnvironmentVariable: string;
+}
+
+window.myEnvironmentalVariable; // Type: string 
+```
+
+
+### 7.4.2 Member Naming Conflicts p. 134
+* Note that merged interfaces may not declare the same name of a property multiple times with **different types**. i.e., when you use the same property name, it *must be the same type for each occurrence!
 
 ***
 ## register info
