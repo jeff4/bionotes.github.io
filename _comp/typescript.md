@@ -1761,7 +1761,6 @@ counts.cherry = false; // error
 // Error: Type 'boolean' is not assignable 
 // to type 'number'.
 ```
-
 * Index signatures are convenient for assigning values to an object but aren't completely type safe.
 * Index signatures indicate that an object shoukd give back a value no matter what property is being accessed.
 
