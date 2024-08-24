@@ -2110,9 +2110,73 @@ interface MergedMethods {
 
 ***
 
-# Chapter 8: Classes
+# Chapter 8: Classes p. 137
 ## 8/24/2024
 
+
+## 7.1 Class Methods p. 137
+
+### 7.1.1 Introduction
+
+### 7.1.2 Example
+
+***
+## 7.2 Class Properties
+
+### 7.2.1 Introduction
+
+#### 7.2.1.1 Example
+
+***
+### 7.2.2 Function Properties p. 139
+
+*** 
+### 7.2.3 Initialization Checking p. 141
+
+
+
+***
+### 7.2.4 Optional Properties 
+
+
+***
+### 7.2.5 Read-Only Properties
+
+
+***
+
+## 7.3 Classes as Types
+
+
+***
+
+## 7.4 Classes and Interfaces p. 147
+
+
+***
+
+## 7.5 Extending a Class p. 151
+
+### 7.5.1 Extension Assignability 
+
+### 7.5.2 Overridden Constructors
+
+### 7.5.3 Overridden Methods
+
+### 7.5.4 Overridden Properties
+
+***
+
+
+## 7.6 Abstract Classes p. 157
+
+***
+
+## 7.7 Member Visibility p. 158
+
+***
+
+## 7.8 Summary of Chapter 8
 
 ***
 ## register info
