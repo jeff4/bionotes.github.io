@@ -2182,12 +2182,20 @@ class FieldTrip {
 * Later, when class instances are in use, TS uses that understanding to give a type error if code attempts to access a member of a class instance not known to exist, such as with this continuation's **trip.nonexistent**:
 
 ```typescript
+const trip = new FieldTrip( "planetarium" );
 
+//ok
+trip.destination; 
 
+//Error -- Property 'nonexistent' does not exist on type 'FieldTrip'.
+trip.nonexistent;
 ```
 
 ***
 ### 7.2.2 Function Properties p. 139
+#### 7.2.2.1 Introduction
+* Let's recap the fundamentals of JS method scoping and syntax.
+* JS contains 2 syntaxes for declaring a member on a class is callable function: **method** and **property**.
 
 *** 
 ### 7.2.3 Initialization Checking p. 141
