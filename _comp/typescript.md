@@ -2072,13 +2072,41 @@ window.myEnvironmentalVariable; // Type: string
 * Note that merged interfaces may not declare the same name of a property multiple times with **different types**. i.e., when you use the same property name, it *must be the same type for each occurrence!
 
 #### 7.4.2.1 Examples of naming conflict p. 134-135
+* In the below **MergedProperties** interface, the **same** property is allowed because it has the same type in both decclarations.
+* But the **different** property raises an error b/c of a difference in type in the 2 declarations.
 
+```typescript
 
+interface MergedProperties {
+  same: ( input: boolean ) => string;
+  different: ( input: string ) => string;
+}
 
+interface MergedProperties {
+  same: ( input: boolean ) => string; //ok
+  
+  different: ( input: number ) => string; //ok
+  // Error: subsequent property declarations must have the same type
+  // Property 'different' must be of type '(input: string) => string', 
+  // but here has type '(input: number) => string'.
 
+}
+```
+* Merged interfaces may, however, define a method of the same name and a different signature. Doing so creates a function overload for the method.
+* The following example p. 135 has a **MergedMethods** interface which creates a *different* method that has 2 overloads:
 
+```typescript
 
+interface MergedMethods {
+  different( input: string ): string;
+}
+
+interface MergedMethods {
+   different( input: number): string; // ok
+}
+```
 ## 7.5 Summary
+* Next chapter on **classes** will show how to set up multiple objects that have the same properties.
 
 ***
 
