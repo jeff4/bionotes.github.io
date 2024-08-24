@@ -1749,7 +1749,7 @@ hasCallCount = doesNotHaveCount;
 
 ```typescript
 interface WordCounts {
-	[i: string]: number;
+  [i: string]: number;
 }
 
 const counts: WordCounts = {};
