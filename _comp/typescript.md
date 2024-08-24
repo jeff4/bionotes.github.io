@@ -2139,18 +2139,51 @@ new Greeter().greet(); // Error
 
 ```typescript
 class Greeted {
-  constructor()
+  constructor( message: string ) {
+    console.log( `As I always say: ${message}!` );
+  }
+}
 
+new Greeted( "take chances, make mistakes, get messy" );
 
+new Greeted();
+// Error: expected 1 argument, received 0 arguments
 ```
 
 ***
 
 ## 7.2 Class Properties
+### 7.2.1 Introduction p. 138
+* In TS, to read from or write to a property in a class, one must explicitly declare it in the class.
+* Class properties are declared using the same syntax as interfaces: their name followed optionally by a type annotation.
+* TS will not attempt to deduce what members may exist on a class from their assignments in a constructor.
 
-### 7.2.1 Introduction
+#### 7.2.1.1 Examples p. 139
+* In this example, **destination** is allowed to be assigned to and accessed on instances of the **FieldTrip** class because it is explicitly declared as a *string*.
+* The *this.nonexistent* assignment in the constructor is not allowed because the class does not declare a *nonexistent* property:
 
-#### 7.2.1.1 Example
+```typescript
+class FieldTrip {
+  destination string;
+
+  constructor( destination: string ) {
+    this.destination = destination; // ok
+    console.log( `We're going to ${this.destination}!` );
+
+    this.nonexistent = destination;
+    //   ^^^^^^^^^^^
+    //  Error: Property 'nonexistent' does not exist on
+    //  type 'FieldTrip'
+  }
+}
+```
+* Explicitly declaring class properties allows TS to quickly understand what is or is not allowed to exist on instances of classes.
+* Later, when class instances are in use, TS uses that understanding to give a type error if code attempts to access a member of a class instance not known to exist, such as with this continuation's **trip.nonexistent**:
+
+```typescript
+
+
+```
 
 ***
 ### 7.2.2 Function Properties p. 139
