@@ -1916,7 +1916,7 @@ myNovel = {
 ## 8/23/2024
 ## 7.3 Interface Extensions p. 130
 
-### 7.3.0 Intro
+### 7.3.1 Intro
 * Sometimes, you end up with multiple interfaces that look similar.
 * Let's reduce keyboard-typing and complexity by using the **extends** keyword to let one interface extend another interface.
 * The parent/original interface is called the **base interface**. 
@@ -1924,7 +1924,7 @@ myNovel = {
 	* A *derived interface* tells TS that all objects adhering to that derivd interface must also have all the same members of the base interface.
 * **Interface extensions** are a nifty way to represt that one type of entity in your project is a *superset* of another entity.	* **Interface extensions** allow programmers to avoid having to type out the same code repeatedly across multiple interfaces. p. 131
 
-#### 7.3.0.1 Example p. 130-131
+#### 7.3.1.1 Example p. 130-131
 * In this example, the **Novella** interface extends from **Writing**.
 * Thus, the **Novella** interface requires objects to have members that belong to both **Novella.pages** and **Writing.title**.
 
@@ -1966,12 +1966,12 @@ let extraProperty: Novella = {
 ```
 ***
 
-### 7.3.1 Overriden Properties p. 131
+### 7.3.2 Overriden Properties p. 131
 * Derived interfaces may *override* properties from their base interface by declaring the property again with a different type.
 * TS's type checker will enforce that an overridden property must be assignable to its base property.
 * Most derived interfaces that redeclare properties do so either to make thos properties a more specific subset of a type union or to make the properties a type that extends from the base interface's type. 
 
-#### 7.3.1.1 Example p. 132
+#### 7.3.2.1 Example p. 132
 * For example, this **WithNullableName** type is properly made non-nullable in **WithNonNullableName**.
 * However, **WithNumericName** is *not* allowed as `number | string` and is not assignable to `string | null`:
 
@@ -1996,12 +1996,12 @@ interface WithNumericName extends WithNullableName {
 ```
 ***
 
-### 7.3.2 Extending Multiple Interfaces p. 132
+### 7.3.3 Extending Multiple Interfaces p. 132
 * An interface in TS is allowed to be declared as extending multiple other interfaces at once.
 * Any number of **base interface** names separated by commas may be used after the `extends` keyword following the **derived interface's** name.
 * *The derived interface will receive **all** members from every parent/base interface.*
 
-#### 7.3.2.1 Example p. 132-133
+#### 7.3.3.1 Example p. 132-133
 * Here, the **GivesBothAndEither** has 3 methods:
 	1. One on its own
 	1. One from **GivesNumber**
