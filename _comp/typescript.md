@@ -1732,18 +1732,251 @@ hasCallCount = doesNotHaveCount;
 ***
 
 ### 7.2.5 Index Signatures p. 126
-* This makes *"container"* objects practical in JS projects that store values that are referenced using an arbitrary *string* primary key.
 * TS provides a syntax called **index signature** to indicate that an interface's objects are allowed to take in *any* key and return a certain type under that key.
-* They're most commonly used with string keys b/c JS object property lookcups convert keys to string implicitly.
+* This makes *"container"* objects practical in JS projects that store values that are referenced using an arbitrary *string* primary key.
+* **Index Signatures** are most commonly used with string keys b/c JS object property lookcups convert keys to string implicitly.
 * An index signature looks like a regular property definition but with a type after the key like so:
 ```typescript
 {
   [ i: string]: ...
 }
 ```
-* Example with **WordCounts** p. 126:
+
+#### 7.2.5.1 Example 1
+
+* The below **WordCounts** interface example is declared as allowing *any* **string** key with a number value.
+* Objects of that type aren't bound to receiving any particular key--as long as the value is a **number** p. 126:
 ```typescript
 interface WordCounts {
+	[i: string]: number;
+}
+
+const counts: WordCounts = {};
+
+counts.apple = 0; // ok this is a *number*
+counts.banana = 1; // ok this is a *number*
+
+counts.cherry = false; // error
+// Error: Type 'boolean' is not assignable 
+// to type 'number'.
+```
+* Index signatures are convenient for assigning values to an object but aren't completely type safe.
+* Index signatures indicate that an object shoukd give back a value no matter what property is being accessed.
+
+#### 7.2.5.2 Example 2
+
+* Consider this example (p. 126-127). The **publishDates** value safely returns a **Frankenstein** object as a **Date** type--but *tricks* TS into thinking its **Beloved** is defined.
+	* Even though **Beloved** is in fact *not* defined.
+
+```typescript
+interface DatesByName {
+  [i: string]: Date;
+}
+
+const publishDates: DatesByName = {
+  Frankenstein: new Date( "1 January 1818" ),
+};
+
+publishDates.Frankenstein; // Type: Date
+console.log( publishDates.Frankenstein.toString() ); // ok
+
+publishDates.Beloved; // Type: Date--but runtime value is undefined!
+
+// OK in the type system, but it causes a runtime error
+// Runtime Error: Cannot read property 'toString'
+// of undefined (reading publishDates.Beloved)
+console.log( publishDates.Beloved.toString() ); 
+```
+* When possible, if one is looking to store key-value pairs and the keys are *not* known ahead of time, it is generally better to use **Map** instead.
+* The **.get()** method of Maps always returns a type with a `| undefined` to indicate that the key might not exist.
+* See more in Chapter 9 on working with generic container classes such as **Map** and **Set**.
+
+#### 7.2.5.3 Mixing properties and index signatures p. 127
+* Interfaces are able to include explicitly named properties and catchall *string* index signatures...
+* ...but there is *one* catch.
+* Each named property's type must be assignable to its catchall index signature's type.
+* One can think of mixing them as telling TS that named properties give a more specific type, and any other property falls back to the index signature's type.
+* Example on p. 127-128, where **HistoricalNovels** declares that all properties are type *number*. Additionally, the *Oroonoko* property must exist to begin with:
+
+```typescript
+interface Historical Novels {
+  Oroonoko: number;
+  [i: string]: number;
+}
+
+// Ok
+const novels: HistoricalNovels = {
+  Outlander: 1991,
+  Oroonoko: 1688,
+};
+
+// Error: Property 'Oroonoko' is missing in type
+// '{ Outlander: number; }' but required in type
+// 'HistoricalNovels'.
+const missingOroonoko: HistoricalNovels = {
+  Outlander: 1991,
+};
+```
+* One common type system trick with mixed properties and index signatures is to use a more specific property type literal for the named property than an index signature's primitive.
+* As long as the named property's type is assignble to the index ssignature's--which is true for a literal and a primitive, respectively--TS will allow it.
+* Consider this example p. 128. The **ChapterStarts** interface declares that a property under **preface** must be *0* and all other properties have the more general **number**.
+* That means any object adhering to **ChapterStarts** must have a *preface* property equal to *0*.
+
+```typescript
+interface ChatperStarts {
+  preface: 0;
+  [i: string]: number;
+}
+
+const correctPreface: ChapterStarts = {
+  preface: 0,
+  night: 1,
+  shopping; 5
+};
+
+const wrongPreface: ChapterStarts = {
+  preface: 1,
+  // Error: Type '1' is not assignable to type '0'
+};
+```
+
+#### 7.2.5.4 Numeric Index Signatures p. 128
+* Although JS implicitly converts object property lookup keys to strings, it is sometimes desirable to only allow **numbers as keys**.
+* TS index signatures can use a *number* type instead of a *string* but with the same catch as *named properties*--that their types must be assignable to the catchall *string* index signatures.
+* Example p. 128-129
+
+```typescript
+// Ok
+interface MoreNarrowNumbers {
+  [i: number]: string;
+  [i: string]: string | undefined;
+}
+
+//ok
+const mixesNumbersAndStrings: MoreNarrowNumbers = {
+  0: '',
+  key1: '',
+  key2: undefined,
+}
+
+interface MoreNarrowStrings {
+  // Error: 'number' index type 'string | undefined' 
+  // is not assignable to 'string' index type 'string'.
+  [i: number]: string | undefined;
+  
+  [i: string]: string;
+}
+```
+***
+### 7.2.6 Nested Interfaces p. 129
+* Just like object types can be nested as properties of other object types, interface types can also have properties that are themselves interface types (or object types).
+#### 7.2.6.1 Example of nested interfaces p. 129-130
+* This **Novel** interfae contains an **author** property that must satisfy an inline object type and a **setting** property that must satisfy the **Setting** interface:
+
+```typescript
+interface Novel {
+  author: {
+    name: string;
+  };
+  setting: Setting;
+}
+
+interface Setting {
+  place: string;
+  year: number;
+}
+
+let myNovel: Novel;
+
+// OK
+myNovel = {
+  author: {
+    name: 'Jane Austen',
+  },
+  setting: {
+    place: 'England',
+    year: 1812,
+  }
+};
+
+// Error: Property 'year' is missing in type
+// '{ place: string; }' but required in type 'Setting'.
+myNovel = {
+  author: {
+    name: 'Emily Bronte',
+  },
+  setting: {
+    place: 'West Yorkshire',
+  },
+};
+```
+
+***
+## 8/23/2024
+## 7.3 Interface Extensions p. 130
+
+### 7.3.0 Intro
+* Sometimes, you end up with multiple interfaces that look similar.
+* Let's reduce keyboard-typing and complexity by using the **extends** keyword to let one interface extend another interface.
+* The parent/original interface is called the **base interface**. 
+* One may *extend* from the base interface to a child **derived interface**. p. 130
+	* A *derived interface* tells TS that all objects adhering to that derivd interface must also have all the same members of the base interface.
+* **Interface extensions** are a nifty way to represt that one type of entity in your project is a *superset* of another entity.	* **Interface extensions** allow programmers to avoid having to type out the same code repeatedly across multiple interfaces. p. 131
+
+#### 7.3.0.1 Example p. 130-131
+* In this example, the **Novella** interface extends from **Writing**.
+* Thus, the **Novella** interface requires objects to have members that belong to both **Novella.pages** and **Writing.title**.
+
+```typescript
+interface Writing {
+  title: string;
+}
+
+interface Novella extends Writing {
+  pages: number;
+}
+
+// ok
+let myNovella: Novella = {
+  pages: 195,
+  title: "Ethan Frome",
+};
+
+let missingPages: Novella = {
+  //^^^^^^^^^^^^
+
+  // Error: Property 'pages' is missing in type
+  // '{ title: string; }' but required in type 'Novella'
+  title: "The Awakening",
+}
+
+let extraProperty: Novella = {
+  //^^^^^^^^^^^^^
+
+  // Error: Type '{ genre: string; name: string; strategy: string;}'
+  // is not assignable to type 'Novella'.
+  //   Object literal may only specify known properties,
+  //   and 'genre' does not exist in type 'Novella'
+  pages: 300,
+  strategy: "baseline",
+  style: "Naturalism",
+
+};
+```
+***
+
+### 7.3.1 Overriden Properties p. 131
+* Derived interfaces may *override* properties from their base interface by declaring the property again with a different type.
+* TS's type checker will enforce that an overridden property must be assignable to its base property.
+* Most derived interfaces that redeclare properties do so either to make thos properties a more specific subset of a type union or to make the properties a type that extends from the base interface's type. 
+
+#### 7.3.1.1 Example p. 132
+* For example, this **WithNullableName** type is properly made non-nullable in **WithNonNullableName**.
+* In contrast...
+
+```typescript
+inteface WithNullableName {
+...
 
 }
 
@@ -1752,10 +1985,8 @@ interface WordCounts {
 
 
 
-### 7.2.6 Nested Interfaces p. 129
+***
 
-## 7.3 Interface Extensions p. 130
-### 7.3.1 Overriden Properties p. 132
 ### 7.3.2 Extending Multiple Interfaces p. 132
 
 ## 7.4 Interface Merging p. 133
