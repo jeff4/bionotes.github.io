@@ -2126,12 +2126,12 @@ class Greeter {
     console.log( `${name}, do your stuff!`);
   }
 }
-
-new Greeter().greet("Miss Frisby"); //ok
-
-new Greeter().greet(); // Error
+// Ok
+new Greeter().greet("Miss Frisby");
 
 // Error: expected 1 argument, received 0 arguments
+new Greeter().greet();
+
 ```
 * Class Constructors are treated like typical class methods wrt their parameters.
 * TS will perform type checking to make sure a correct number of arguments with correct types are provided to method calls.
@@ -2144,10 +2144,11 @@ class Greeted {
   }
 }
 
+// ok
 new Greeted( "take chances, make mistakes, get messy" );
 
-new Greeted();
 // Error: expected 1 argument, received 0 arguments
+new Greeted();
 ```
 
 ***
