@@ -2000,6 +2000,7 @@ interface WithNumericName extends WithNullableName {
 * An interface in TS is allowed to be declared as extending multiple other interfaces at once.
 * Any number of **base interface** names separated by commas may be used after the `extends` keyword following the **derived interface's** name.
 * *The derived interface will receive **all** members from every parent/base interface.*
+* By marking an interface as extending multiple other base interfaces, one can both reduce code duplications and make it easier for object shapes to be reused across different areas of code. p. 133
 
 #### 7.3.3.1 Example p. 132-133
 * Here, the **GivesBothAndEither** has 3 methods:
@@ -2009,12 +2010,29 @@ interface WithNumericName extends WithNullableName {
 
 ```typescript
 interface GivesNumber {
-
+  givesNumber(): number;
+}
 
 interface GivesString {
+  givesString(): string;
+}
+
+interface GivesBothAndEither extends GivesNumber, GivesString {
+  giveEither(): number | string;
+}
+
+function useGivesBoth( instance: GivesBothAndEither ) {
+  instance.giveEither(); // Type: number | string
+  instance.giveNumber(); // Type: number 
+  instance.giveString(); // Type: string
+}
 ```
 
+***
 
+## 7.4 Interface Merging p. 133
+
+* One of the important features of interfaces is their ability to **merge** with each other.
 
 
 ***
