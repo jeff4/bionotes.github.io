@@ -2112,15 +2112,40 @@ interface MergedMethods {
 
 # Chapter 8: Classes p. 137
 ## 8/24/2024
-
-
 ## 7.1 Class Methods p. 137
-
 ### 7.1.1 Introduction
+* TS generally understands methods the same way it understands standalone functions. 
+* Parameter types default to *any* unless given a type or default value; calling a method requires an acceptable number of argumetns; return types can generally be inferred if the function is not recursive.
 
-### 7.1.2 Example
+### 7.1.2 Example p. 137-138
+* This code snippet defines a **Greeter** class with a *greet()* class method that takes in a single required parameter of type *number*:
+
+```typescript
+class Greeter {
+  greet( name: string) {
+    console.log( `${name}, do your stuff!`);
+  }
+}
+
+new Greeter().greet("Miss Frisby"); //ok
+
+new Greeter().greet(); // Error
+
+// Error: expected 1 argument, received 0 arguments
+```
+* Class Constructors are treated like typical class methods wrt their parameters.
+* TS will perform type checking to make sure a correct number of arguments with correct types are provided to method calls.
+* This **Greeted** constructor example also expects its *message: string* parameter to be provided (p. 138)
+
+```typescript
+class Greeted {
+  constructor()
+
+
+```
 
 ***
+
 ## 7.2 Class Properties
 
 ### 7.2.1 Introduction
