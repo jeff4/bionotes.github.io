@@ -2333,12 +2333,35 @@ new MissingInitializer().property.length;
 
 
 ***
-### 7.2.5 Read-Only Properties
+### 7.2.5 Read-Only Properties p. 143
 * TS classes may declare a property as read-only by adding the **readonly* keyword before its declaration name--just like with TS interfaces.
+* Per note in textbox on p. 144, might be best to use `#` (pound sign / hashtag) to specify private fields in case external 3rd party devs of your library might not realize that you've marked a property as read only. So probably use **JS private fields with *#*** instead of TS read-only properties.
 * Example p. 144
 
 ```typescript
-class Quote
+class Quote {
+  readonly text: string;
+
+  constructor( text: string ) {
+    this.text = ;
+  }
+
+  emphasize() {
+
+    // Error: cannot assign to 'text' bc it is a 
+    // read-only property
+    this.text += "!";
+         ^^^^
+  }
+}
+
+const quote = new Quote(
+  "There is a brilliant child locked in every student."
+);
+
+// Error: Cannot assign to 'text' because it is a
+// read-only property
+Quote.text = "Ha!";
 ```
 
 ***
