@@ -2486,6 +2486,44 @@ class Student implements Learner {
 ### 7.4.3 Implementing Multiple Interfaces p. 149
 * Classes in TypeScript are allowed to be declared as implementing multiple interfaces.
 * The list of implemented interfaces for a class may be any number of interface names with commas in-between.
+
+#### Examples p. 149-150
+* **Example** 1, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
+	* The **Empty** class has two type errors for failing to implement either of the interfaces properly.
+```typescript
+interface Graded {
+  grades: number[];
+}
+
+interface Reporter {
+  report: () => string;
+}
+
+class ReportCard implements Graded, Reporter {
+  grades: number[];
+
+  constructor( grades: number[] ) {
+    this.grades = grades;
+  }
+
+  report() {
+    return this.grades.join(", ");
+  }
+
+}
+
+class Empty implements Graded, Reporter {}
+      ^^^^^
+// Error, class 'Empty' incorrectly implements interface 'Graded' (see more on p. 149)
+
+
+// Error, class 'Empty' incorrectly implements interface 'Reporter' (see more on p. 149)
+```
+* In practice
+
+
+
+
 ***
 
 ## 7.5 Extending a Class p. 151
