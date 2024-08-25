@@ -2315,11 +2315,31 @@ activities.next();
 
 ***
 ### 7.2.4 Optional Properties p. 143
+* Classes in TS may declare a property as optional with a `?` question mark after its declaration name, just like with TS interfaces.
+* In this Example (p. 143), the optional **property** property is not allowed to be assigned in the class constructor regardless of strict property initialization checking:
+
+```typescript
+class MissingInitializer {
+  property?: string;
+}
+
+//ok
+new MissingInitializer().property?.length; 
+
+// Error: Object is possibly 'undefined'
+new MissingInitializer().property.length;
+```
+
 
 
 ***
 ### 7.2.5 Read-Only Properties
+* TS classes may declare a property as read-only by adding the **readonly* keyword before its declaration name--just like with TS interfaces.
+* Example p. 144
 
+```typescript
+class Quote
+```
 
 ***
 
