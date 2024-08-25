@@ -2374,11 +2374,60 @@ Quote.text = "Ha!";
 	* This tells TS that it should be assigned *only* values that are assignable to the **Teacher** class--including instances of the **Teacher** class itself!
 
 ```typescript
+class Teacher {
+  sayHello() {
+    console.log("Take chances, make mistakes, get messy!");
+  }
+}
+
+let teacher: Teacher;
+
+teacher = new Teacher(); //ok
+
+// Error: type 'string' is not assignable to 
+// type 'Teacher'
+teacher = "Wahoo!";
+```
+* Interestingly, TS will consider any object type that happens to include all the same members of a class to be assignable to the class.
+* This is bc TS's structural typing cares *only* about the shape of the objects--*not* how the object is declared.
+* Example (p. 146), **withSchoolBus** takes in a parameter of type **SchoolBus**. That can be satisfied by *any* object that happens to have a **getAbilities** property of type `() => string[]`, such as an instance of the **SchoolBus** class.
+
+```typescript
+class SchoolBus {
+  getAbilities() {
+    return [ "magic", "shapeshifting" ];
+  }
+}
+
+function withSchoolBus( bus: SchoolBus ) {
+  console.log( bus.getAbilities() );
+}
+
+// ok
+withSchoolBus( new SchoolBus() );
+
+// ok
+withSchoolBus(
+  {
+    getAbilities: () => [ "transmogrification" ],
+  }
+);
+
+withSchoolBus( {
+
+  // Error: Type 'number' is not assignable to type
+  // 'string[]'
+  getAbilities: () => 123,
+
+});
 ```
 
 ***
 
 ## 7.4 Classes and Interfaces p. 147
+* Back in Chapter 7: Interfaces, I showed you how interfaces allow TS developers to set up expectations for object shapes in code.
+* TS allows a class to declare its instances as adhering to an interface by adding the **implements** keyword after the class name, followed by the name of an interface.
+
 
 
 ***
