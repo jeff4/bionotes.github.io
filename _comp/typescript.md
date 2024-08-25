@@ -2429,13 +2429,63 @@ withSchoolBus( {
 * Back in Chapter 7: Interfaces, I showed you how interfaces allow TS developers to set up expectations for object shapes in code.
 * TS allows a class to declare its instances as adhering to an interface by adding the **implements** keyword after the class name, followed by the name of an interface.
 
-
 ### 7.4.2 Examples p. 147-148
+* In this example, the **Student** class correctly implements the **Learner** interface by including its property *name* and its method *study()*, but the **Slacker** is missing a *study()* and thus results in a type error.
 
+```typescript
+interface Learner {
+  name: string;
+  study( hours: number ): void;
+}
+
+class Student implements Learner {
+  name: string;
+
+  constructor( name: string ) {
+    this.name = name;
+  }
+
+  study( hours: number ) {
+    for ( let i=0; i < hours; i += 1 ) {
+      console.log( "...studying..." );
+    }
+  }
+}
+
+// Error: Class Slacker doesn't implement interface 
+// 'Learner' properly b/c Property 'study' is missing 
+class Slacker implements Learner {
+  name = "Rocky";
+}
+```
+* Marking a class as implementing an interface does not change anything about how the class is used.
+* If the class already happened to match up to the interface, TS's type checker would have allowed its instances to be used in places where an instance of the interface is required anyways.
+* TS won't even infer the types of methods/properties on the class from teh interface: if we had added a **study( hours ) {}** method to the **Slacker** example, TS would consider the **hours** parameter an implicit **any** unless we gave it a type annotation.
+* Consider this new version (p. 148) of the **Student** class created in the previous example
+
+```typescript
+class Student implements Learner {
+  // error: Member 'name' implicitly has 
+  // type 'any' which is not allowable
+  name;
+
+  study( hours) {
+    // Error: Parameter 'hours' implicitly
+    // has an 'any' type
+  }
+}
+```
+* This is raising type errors with the *any* type.
+* Implementing an interface is purely a safety check.
+* It does not copy any interface members onto the class definition for you.
+* Rather, implementing an interface signals your intention to the type checker and raises type errors int he class definition--rather than later on where class instances are used.
+* It's similar in purpose to adding a type annotation to a variable even though it has an initial value.
 
 ***
-### 7.4.3 Implementing Multiple Interfaces p. 149
 
+### 7.4.3 Implementing Multiple Interfaces p. 149
+* Classes in TypeScript are allowed to be declared as implementing multiple interfaces.
+* The list of implemented interfaces for a class may be any number of interface names with commas in-between.
 ***
 
 ## 7.5 Extending a Class p. 151
