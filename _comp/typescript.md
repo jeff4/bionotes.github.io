@@ -2246,7 +2246,47 @@ instance.takesParameters( 123 );
 
 *** 
 ### 7.2.3 Initialization Checking p. 141
-* With strict compiler settings enabled, TS will check that each property declared whose type does not include *undefined* is assinged a value in the constructore.
+* With strict compiler settings enabled, TS will check that each property declared--whose type does not include *undefined*--is assinged a value in the constructore.
+* This strict initialization checking is useful b/c it prevents code from accidentally forgetting to assign a value to a class property.
+
+#### 7.2.3.1 Intialization Examples p. 141-142
+* The following **WithValue** class does not assign a value to its *unused* property; TS recognizes this as an error:
+
+```typescript
+
+class WithValue {
+
+  //ok
+  immediate = 0;
+  
+  // ok -- set in the constructor
+  later: number;
+  
+  // ok -- allowed to be undefined
+  mayBeUndefined: number | undefined;
+  
+  //Error: property 'unused' has no intializer
+  // and is not definitely assigned in the constructor
+  constructor() {
+    this.later = 1;
+  }
+}
+```
+* Without strict initialization checking, a class instance could be allowed to access a value that might be *undefined* even though the type system says it *can't be*.
+* This following example (p. 142) would compile happily *if strict initialization checking didn't happen; but the resultant JS would crash at runtime:
+
+```typescript
+class MissingInitializer {
+  property: string;
+}
+
+// TypeError: Cannot read property 'length' of undefined
+new MissingInitializer().property.length;
+```
+* The billion-dollar mistake strikes again!
+* See Chapter 12 on Using IDE features for more on the *strictPropertyInitialization* compiler option.
+
+
 
 
 
