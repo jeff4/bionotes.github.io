@@ -2196,6 +2196,32 @@ trip.nonexistent;
 #### 7.2.2.1 Introduction
 * Let's recap the fundamentals of JS method scoping and syntax.
 * JS contains 2 syntaxes for declaring a member on a class is callable function: **method** and **property**.
+* LTS has already illustrated the method of approach: `myFunction() {...}`.
+* Example p. 140:
+
+```typescript
+class WithMethod {
+  myMethod() {...}
+}
+
+new WithMethod().myMethod === new WithMethod().MyMethod; // true
+```
+* The other syntax is to declare a property whose value happens to be a function.
+* This creates a new function *per instance* of the class. This can be useful with the `() =>` arrow functions. whose **this** scope should always point to the class instance.
+* This **WithProperty** class contains a single property of name **myProperty** and `type() => void` that will be recreated for each class instance:
+
+```typescript
+class WithProperty {
+  myProperty: () => {...}
+}
+
+new WithMethod().myProperty === new WithMethod().MyProperty; // false
+```
+* Function properties can be given parameters and return types using the same syntax as class methods and standalone functions. p. 140...
+
+
+
+
 
 *** 
 ### 7.2.3 Initialization Checking p. 141
