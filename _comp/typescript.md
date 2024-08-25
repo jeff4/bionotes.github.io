@@ -2286,12 +2286,35 @@ new MissingInitializer().property.length;
 * The billion-dollar mistake strikes again!
 * See Chapter 12 on Using IDE features for more on the *strictPropertyInitialization* compiler option.
 
+***
 
+### 7.2.3.2 Definitely assigned properties p. 142
+* Although strict initialization checking is useful most of the time, one may comr across some cases where a class property is *intentionally* able to stay unassigned after the class constructor.
+* One may use a `!` exclaimation point (bang) after the name of a property to disable it's initialization check.
+* This tells TS that the peropty will be assigned a value other than *undefined* before its first usage.
+* Example p. 142-143:
 
+```typescript
+class ActivitiesQueue {
+  pending!: string[]; //ok
 
+  initialize( pending: string[] ) {
+    this.pending = pending;
+  }
+
+  next() {
+    return this.pending.pop();
+  }
+}
+
+const activities = new ActivitiesQueue();
+
+activities.initialize( ['eat', 'sleep', 'learn'])
+activities.next();
+```
 
 ***
-### 7.2.4 Optional Properties 
+### 7.2.4 Optional Properties p. 143
 
 
 ***
