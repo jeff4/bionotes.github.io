@@ -2681,16 +2681,70 @@ class FailingAnnouncer extends GradeAnnouncer {
 }
 ```
 * Per JS rules, the constructor of a subclass must call the base constructor before accessing **this** or **super**.
-* TS will report a type error if it sees.
+* TS will report a type error if it sees a *this* or a *super* bbeing accessed before **super()**.
+* **Example 2**, the following **ContinuedGradesTully** class erroneously refers to *this.grades* in its constructor **before** calling to *super()*.
 
+```typescript
+class GradesTally {
+  grades: number[] = [];
 
+  addGrades( ...grades; number[] ) {
+    this.grades.push(...grades);
+    return this.grades.length;
+  }
+}
 
+class ContinuedGradesTally extends GradesTally {
+  constructor( previousGrades: number[] ) {
 
+    // Error b/c this is called *before* super()
+    this.grades = [...previousGrades]:
+
+    super();
+
+    // ok b/c this is called *after* super()
+    console.log("Starting with length", this.grades.length);
+  }
+}
+```
 
 ***
 ### 7.5.4 Overridden Methods p. 154
+* Subclasses may redeclare new methods with the same names as the base class.
+* Remember, since subclasses can be used wherever the original class is used, the types of the new methods must be usable in place of the original methods.
+* Example on p 155:
 
-### 7.5.? Overridden Properties p. 155
+```typescript
+class GradeCounter {
+  countGrades( grades: string[], letter: string ) {
+    return grades.filter( grade => grade === letter ).length;
+  }
+}
+
+class FailureCounter extends GradeCounter {
+  countGrades( grades: string[] ) {
+    return super.countGrades( grades, "F" );
+  }
+}
+
+class AnyFailureChecker extends GradeCounter {
+  countGrades( grades: string[] ) {
+
+    // Error see full text on p. 155
+    return super.countGrades( grades, "F" ) !== 0;
+  }
+}
+
+const counter: GradeCounter = new AnyFailureChecker();
+
+// Expected type: number
+// Actual number: boolean
+
+const count = counter.countGrades( ["A", "C", "F"] );
+```
+***
+
+### 7.5.5 Overridden Properties p. 155
 
 ***
 
