@@ -2515,10 +2515,12 @@ class ReportCard implements Graded, Reporter {
 
 class Empty implements Graded, Reporter {}
       ^^^^^
-// Error, class 'Empty' incorrectly implements interface 'Graded' (see more on p. 149)
+// Error, class 'Empty' incorrectly implements 
+// interface 'Graded' (see more on p. 149)
 
 
-// Error, class 'Empty' incorrectly implements interface 'Reporter' (see more on p. 149)
+// Error, class 'Empty' incorrectly implements 
+// interface 'Reporter' (see more on p. 149)
 ```
 
 * In practice, there may be some interfaces whose definitions make it impossible to have a class that implements both interfaces.
@@ -2625,17 +2627,68 @@ online = new OnlineLesson( "coding", "oreilly.com" ); // ok
 online = new Lesson( "coding" );
 ```
 
-* Per TS' structural typing, if all members on a subclass already exist on its base class with the same type...
+* Per TS' structural typing, if all members on a subclass already exist on its base class with the same type, then instances of the base class are still allowed to be used in place of the subclass.
+* **Example 2**, p. 152, has **LabeledPastGrades** only adds an optional property to **PastGrades**, so instances of the base class may be used in place of the subclass:
 
+```typescript
+class PastGrades {
+  grades: number[] = [];
+}
+
+class LabeledPastGrades extends PastGrades {
+  label?: string;
+}
+
+let subClass: LabeledPastGrades;
+
+subClass = new LabeledPastGrades(); // ok
+subClass = new PastGrades(); //ok
+```
+***
+
+### 7.5.3 Overridden Constructors p. 153
+#### 7.5.3.1 Intro
+* As with vanilla JS, subclasses are not required by TS to define their own constructor. 
+* Subclasses (aka derived classes) without their own constructor implicitly use the constructor of their base class (aka superclass) using the *super* keyword.
+
+#### 7.5.3.2 Examples p. 153-154
+* **Example 1**, the constructor for the **PassingAnnouncer** derived class correctly calls the constructor fromt eh base class using a *number* argument, while the **FailingAnnouncer** gets a type error.
+
+```typescript
+class GradeAnnouncer {
+  message: string;
+  
+  constructor( grade: number ) {
+    this.number = grade >= 65
+    ?
+      "Maybe next time..."
+    :
+      "You pass!";
+  }
+}
+
+class PassingAnnouncer extends GradeAnnouncer {
+  constructor() {
+    super( 100 );
+  }
+}
+
+class FailingAnnouncer extends GradeAnnouncer {
+  constructor() {}
+
+  // Error: constructors for subclasses must contain
+  // a 'super' keyword call.
+}
+```
+* Per JS rules, the constructor of a subclass must call the base constructor before accessing **this** or **super**.
+* TS will report a type error if it sees.
 
 
 
 
 
 ***
-### 7.5.3 Overridden Constructors p. 153
-
-### 7.5.? Overridden Methods p. 154
+### 7.5.4 Overridden Methods p. 154
 
 ### 7.5.? Overridden Properties p. 155
 
