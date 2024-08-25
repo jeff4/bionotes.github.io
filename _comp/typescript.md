@@ -2363,11 +2363,18 @@ const quote = new Quote(
 // read-only property
 Quote.text = "Ha!";
 ```
+* Additional more complicated corner-case example on p. 144-145.
 
 ***
 
-## 7.3 Classes as Types
+## 7.3 Classes as Types p. 145
+* Classes are relatively unique in the type system in that a class declaration creates both a runtime value--the class *itself*--as well as a **type** that can be used in type annotations.
+* Consider Example (p. 145-146). 
+	* The name of the *Teacher** class is used to annotate a **teacher** variable. 
+	* This tells TS that it should be assigned *only* values that are assignable to the **Teacher** class--including instances of the **Teacher** class itself!
 
+```typescript
+```
 
 ***
 
