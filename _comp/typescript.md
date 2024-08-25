@@ -2487,7 +2487,7 @@ class Student implements Learner {
 * Classes in TypeScript are allowed to be declared as implementing multiple interfaces.
 * The list of implemented interfaces for a class may be any number of interface names with commas in-between.
 
-#### Examples p. 149-150
+#### 7.4.3.1 Examples p. 149-150
 * **Example 1**, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
 	* The **Empty** class has two type errors for failing to implement either of the interfaces properly.
 
@@ -2581,10 +2581,59 @@ teacher.learn();
 // on type 'StudentTeacher'
 teacher.otherFunction();
 ```
+***
 
 ### 7.5.2 Extension Assignability p. 151
+* Subclasses inherit members from their base class much like derived interfaces extend base interfaces.
+* Instances of subclasses have all the members of their base class and thus may be used wherever an instance of the base is required.
+* If a base class doesn't have all the members of a subclass does, then it can't be used when the more specific subclass is required.
 
-### 7.5.? Overridden Constructors p. 153
+#### 7.5.2.1 Examples 
+* **Example 1** p. 151-152: instances of the following **Lesson** class may not be used where instances of its derived **OnlineLesson** are required, but derived instances may be used to satisfy either the base class or the subclass:
+
+```typescript
+class Lesson {
+  subject: string;
+
+  constructor( subject: string ) {
+    this.subject = subject;
+  }
+}
+
+class OnlineLesson extends Lesson {
+  url: string;
+
+  constructor( subject: string, url: string ) {
+    super( subject );
+    this.url = url;
+  }
+}
+
+let lesson: Lesson;
+
+// ok
+lesson = new Lesson( "coding" );
+
+// ok
+lesson = new OnlineLesson( "coding", "oreilly.com");
+
+let online: OnlineLesson;
+online = new OnlineLesson( "coding", "oreilly.com" ); // ok
+
+// error: property 'url' is missing in type 'Lesson'
+// but required in type 'OnlineLesson'
+online = new Lesson( "coding" );
+```
+
+* Per TS' structural typing, if all members on a subclass already exist on its base class with the same type...
+
+
+
+
+
+
+***
+### 7.5.3 Overridden Constructors p. 153
 
 ### 7.5.? Overridden Methods p. 154
 
