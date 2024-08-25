@@ -2217,14 +2217,36 @@ class WithProperty {
 
 new WithMethod().myProperty === new WithMethod().MyProperty; // false
 ```
-* Function properties can be given parameters and return types using the same syntax as class methods and standalone functions. p. 140...
 
 
 
+#### 7.2.2.2 Passing a function as an argument to a class *WithPropertyParameters*
 
+* Function properties can be given parameters and return types using the same syntax as class methods and standalone functions. p. 140
+* After all, they're a value assigned to a class member; the value just happens to be a function.
+* The following example (p. 140-141) has a **WithPropertyParameters** class which has a *takesParameters* property.
+* The *takesParameters* property is of type: `( input: string ) => number`, which is an arrow function.
+
+```typescript
+class WithPropertyParameters {
+  takesParameters = ( input: boolean ) => input ? "Yes" : "No";
+}
+
+const instance = new WithPropertyParameters();
+
+//ok
+instance.takesParameters( true );
+
+// Error: Argument of type 'number' is not
+// Assignable to parameter of type 'boolean'
+instance.takesParameters( 123 );
+                          ^^^
+
+```
 
 *** 
 ### 7.2.3 Initialization Checking p. 141
+* With strict compiler settings enabled, TS will check that each property declared whose type does not include *undefined* is assinged a value in the constructore.
 
 
 
