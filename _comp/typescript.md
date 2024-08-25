@@ -2745,6 +2745,12 @@ const count = counter.countGrades( ["A", "C", "F"] );
 ***
 
 ### 7.5.5 Overridden Properties p. 155
+* Subclasses may be explicitly redeclare properties of their base class with the same name...
+
+#### 7.5.5.1 Examples p. 155-156
+* **Example 1**
+
+* **Example 2**
 
 ***
 
