@@ -2425,10 +2425,16 @@ withSchoolBus( {
 ***
 
 ## 7.4 Classes and Interfaces p. 147
+### 7.4.1 Introduction
 * Back in Chapter 7: Interfaces, I showed you how interfaces allow TS developers to set up expectations for object shapes in code.
 * TS allows a class to declare its instances as adhering to an interface by adding the **implements** keyword after the class name, followed by the name of an interface.
 
 
+### 7.4.2 Examples p. 147-148
+
+
+***
+### 7.4.3 Implementing Multiple Interfaces p. 149
 
 ***
 
