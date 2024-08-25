@@ -2490,6 +2490,7 @@ class Student implements Learner {
 #### Examples p. 149-150
 * **Example** 1, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
 	* The **Empty** class has two type errors for failing to implement either of the interfaces properly.
+
 ```typescript
 interface Graded {
   grades: number[];
