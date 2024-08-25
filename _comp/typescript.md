@@ -2488,7 +2488,7 @@ class Student implements Learner {
 * The list of implemented interfaces for a class may be any number of interface names with commas in-between.
 
 #### Examples p. 149-150
-* **Example** 1, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
+* **Example 1**, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
 	* The **Empty** class has two type errors for failing to implement either of the interfaces properly.
 
 ```typescript
@@ -2520,6 +2520,7 @@ class Empty implements Graded, Reporter {}
 
 // Error, class 'Empty' incorrectly implements interface 'Reporter' (see more on p. 149)
 ```
+
 * In practice, there may be some interfaces whose definitions make it impossible to have a class that implements both interfaces.
 * Attempting to declare a class implementing two conflicting interfaces will result in at least one type error on the class.
 * **Example 2**, p. 150, has two interfaces: (a) **AgeIsANumber**; and (b) **AgeIsNotANumber**. Neither the **AsNumber** class nor the **NotAsNumber** class properly implements both interfaces.
@@ -2546,17 +2547,48 @@ class NotAsNumber implements AgeIsNumber, AgeIsNotANumber {
   age() { return ""; }
 }
 ```
+
 ***
 
 ## 7.5 Extending a Class p. 151
 
-### 7.5.1 Extension Assignability 
+### 7.5.1 Intro p. 151
+* When one extends a class in JS, one can add type checking to the derived class using TS.
+* Example on p. 151:
 
-### 7.5.2 Overridden Constructors
+```typescript
+class Teacher {
+  teach() {
+    console.log( "The surest test of discipline..." );
+  }
+}
 
-### 7.5.3 Overridden Methods
+class StudentTeacher extends Teacher {
+  learn() {
+    console.log( "I cannot afford the luxury of a closed mind." );
+  }
+}
 
-### 7.5.4 Overridden Properties
+const teacher = new StudentTeacher();
+
+// OK (defined on base class)
+teacher.teach();
+
+// OK (defined on subclass aka derived class)
+teacher.learn();
+
+// Error: Property 'otherFunction' does not exist 
+// on type 'StudentTeacher'
+teacher.otherFunction();
+```
+
+### 7.5.2 Extension Assignability p. 151
+
+### 7.5.? Overridden Constructors p. 153
+
+### 7.5.? Overridden Methods p. 154
+
+### 7.5.? Overridden Properties p. 155
 
 ***
 
