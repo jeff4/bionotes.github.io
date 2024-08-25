@@ -2519,11 +2519,32 @@ class Empty implements Graded, Reporter {}
 
 // Error, class 'Empty' incorrectly implements interface 'Reporter' (see more on p. 149)
 ```
-* In practice
+* In practice, there may be some interfaces whose definitions make it impossible to have a class that implements both interfaces.
+* Attempting to declare a class implementing two conflicting interfaces will result in at least one type error on the class.
+* **Example 2**, p. 150, has two interfaces: (a) **AgeIsANumber**; and (b) **AgeIsNotANumber**. Neither the **AsNumber** class nor the **NotAsNumber** class properly implements both interfaces.
+
+```typescript
+interface AgeIsANumber {
+  age: number;
+}
+
+interface AgeIsNotANumber {
+  age:() => string;
+}
+
+// Error: Property 'age' in type 'AsNumber' is not assignable
+// to the same property in base type 'AgeIsNotANumber'
+class AsNumber implements AgeIsNumber, AgeIsNotANumber {
+  age = 0;
+}
 
 
-
-
+// Error: Property 'age' in type 'NotAsNumber' is not assignable
+// to the same property in base type 'AgeIsANumber'
+class NotAsNumber implements AgeIsNumber, AgeIsNotANumber {
+  age() { return ""; }
+}
+```
 ***
 
 ## 7.5 Extending a Class p. 151
