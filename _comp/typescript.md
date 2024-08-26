@@ -2798,11 +2798,14 @@ instance.value;
 
 ## 7.6 Abstract Classes p. 156
 
-## 7.6.1 Intro p. 156-158
+## 8/26/2024
+### 7.6.1 Intro p. 156-158
 * Sometimes, it's useful to create a base class that does not declare any methods; instead, it must rely on derived subclasses to provide methods.
 * These are called **abstract classes**, and created using the *abstract* keyword in front of the class name and in front of any method intended to be abstract.
 
-## 7.6.1.1 Examples p. 157-158
+#### 7.6.1.1 Examples p. 157-158
+* In this example, the **School** class and its **getStudentTypes** method are marked as *abstract*.
+* Its subclasses--**Preschool** and **Absence**--are therefore expected to implement *getStudentStypes()*.
 
 ***
 
