@@ -830,7 +830,7 @@ p.example {
 #### More on Borders?
 * or just move on...
 
-
+### Exercise 14-2 Border tricks p. 373
 
 ***
 ## 8/23/2024
