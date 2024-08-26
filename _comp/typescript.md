@@ -2745,10 +2745,20 @@ const count = counter.countGrades( ["A", "C", "F"] );
 ***
 
 ### 7.5.5 Overridden Properties p. 155
-* Subclasses may be explicitly redeclare properties of their base class with the same name...
+* Subclasses may explicitly redeclare properties of their base class with the same name, as long as the new type is assignable to the type on the base class.
+* As with overridden methods, subclasses must structurally match up with base classes.
 
 #### 7.5.5.1 Examples p. 155-156
-* **Example 1**
+* **Example 1**, the base class **Assignment** declares its *grade* to be of type `number | undefined`.
+	* Meanwhile, the subclass **GradedAssignment** declares it as a `number` that must always exist.
+
+```typescript
+class Assignment {
+  grade?: number;
+}
+
+...
+```
 
 * **Example 2**
 
