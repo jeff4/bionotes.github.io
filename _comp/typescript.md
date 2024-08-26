@@ -2803,17 +2803,70 @@ instance.value;
 * Sometimes, it's useful to create a base class that does not declare any methods; instead, it must rely on derived subclasses to provide methods.
 * These are called **abstract classes**, and created using the *abstract* keyword in front of the class name and in front of any method intended to be abstract.
 
-#### 7.6.1.1 Examples p. 157-158
+### 7.6.2 Examples p. 157-158
 * In this example, the **School** class and its **getStudentTypes** method are marked as *abstract*.
 * Its subclasses--**Preschool** and **Absence**--are therefore expected to implement *getStudentStypes()*.
+
+```typescript
+abstract class School {
+  readonly name: string;
+
+  constructor( name: string ) {
+    this.name = name;
+  }
+
+  abstract getStudentTypes(): string[];
+
+}
+
+class Preschool extends School {
+  getStudentTypes() {
+    return ["preschooler"];
+  }
+}
+
+// Error: nonabstract class 'Absence' does not
+// implement inherited abstract member 'getStudentTypes'
+// from class 'School'
+class Absence extends School { }
+```
+* **An abstract class *cannot* be instantiated directly.**
+	* This is because that abstract class does not have definitions for some methods that its implementation may assume do exist.
+* Only nonabstract classes (aka **concrete class**) can be instantiated.
+* Continuing the previous example, attempting to call a new **School** results in a TS type error b/c *School* is an abstract class:
+
+```typescript
+let school: School;
+
+school = new Preschool("Signal Hill Day Care"); //ok
+
+// Error!
+school = new School("Burr's Lane Jr. High");
+```
+* Abstract classes are often used in frameworks where consumers are expected to fill out details of a class.
+* The class may be used as a type annotation to indicate values must adhere to the class--as with the earlier example of **school: School**--but creating new instances must be done with subclasses.
 
 ***
 
 ## 7.7 Member Visibility p. 158
+### 7.7.1 Intro p. 158
+
+### 7.7.2 Example 1 p. 159
+
+
+
+
+### 7.7.3 Example 2 p. 160
+
+
+
+### 7.7.4 Static Field Modifiers p. 161
+
+
 
 ***
 
-## 7.8 Summary of Chapter 8
+## 7.8 Summary of Chapter 8 p. 161
 
 ***
 ## register info
