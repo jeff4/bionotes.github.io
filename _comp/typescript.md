@@ -2757,15 +2757,52 @@ class Assignment {
   grade?: number;
 }
 
-...
-```
+class GradedAssignment extends Assignment {
+  grade: number;
 
-* **Example 2**
+  constructor( grade: number ) {
+    super();
+    this.grade = grade;
+  }
+}
+```
+* Expanding the allowed set of values of a property's union type is not allowed, as doing so would make the subclass property no longer assignable to the base class property's type.
+* **Example 2**  (p. 156), **VagueGrade**'s *value* tries to add `| string` on top of the base class **NumericGrade**'s number type, causing a type error:
+
+``typescript
+class NumericGrade {
+  value = 0;
+}
+
+class VagueGrade extends NumericGrade {
+
+  // Error: Property 'value' in type 'NumberOrString'
+  // is not assignable to the same property in base 
+  // type 'JustNumber'.
+  // Type 'string | number' is not assignable to type
+  // 'number'. Type 'string' is not assignable to
+  // type 'number'.
+
+  value = Math.random() > 0.5
+    ? 1: "...";
+}
+
+const instance: NumericGrade = new VagueGrade();
+
+// Expected type: number
+// Actual type: number | string
+instance.value;
+```
 
 ***
 
+## 7.6 Abstract Classes p. 156
 
-## 7.6 Abstract Classes p. 157
+## 7.6.1 Intro p. 156-158
+* Sometimes, it's useful to create a base class that does not declare any methods; instead, it must rely on derived subclasses to provide methods.
+* These are called **abstract classes**, and created using the *abstract* keyword in front of the class name and in front of any method intended to be abstract.
+
+## 7.6.1.1 Examples p. 157-158
 
 ***
 
