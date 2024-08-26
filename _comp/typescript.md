@@ -2899,8 +2899,8 @@ new Subclass().isPrivate; //Error
 ```
 * The key difference between TS's member visibilities and JS's true private declarations is that TS's exist only in the type system whereas JS's private declarations persist in the JS runtime.
 * A TS class member declared as *protected* or *private* will compile to the same JS as if it were declared *public* explicitly or implicitly.
-* As with interfaces and type annotations, **visibility keywords are erased when outputting JS.
-* **Only `#private` fields are truly private in runtime JS.** 
+* As with interfaces and type annotations, **visibility keywords are erased when outputting JS.**
+* *Only `#private` field*s are truly private in runtime JS.
 
 ***
 ### 8.7.3 Example 2 p. 160
