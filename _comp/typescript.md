@@ -2928,7 +2928,7 @@ const two = new TwoKeywords();
 // it is a read-only property
 two.name = "Savitribai Phule";
 ```
-* Note that it is *not* permitted to mix the old TS member visibility keywords (**public**, **protected**, **private**) and the official ES2022 **#private** fields.
+* Note that it is *not* permitted to mix the *old TS member visibility keywords* (**public**, **protected**, **private**) and the *newer official ES2022* **#private** fields.
 	* Private fields are always private by default--so there is no need to additionally mark them with the old TS **private** keyword.
 
 ### 8.7.4 Static Field Modifiers p. 161
