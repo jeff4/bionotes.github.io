@@ -2769,7 +2769,7 @@ class GradedAssignment extends Assignment {
 * Expanding the allowed set of values of a property's union type is not allowed, as doing so would make the subclass property no longer assignable to the base class property's type.
 * **Example 2**  (p. 156), **VagueGrade**'s *value* tries to add `| string` on top of the base class **NumericGrade**'s number type, causing a type error:
 
-``typescript
+```typescript
 class NumericGrade {
   value = 0;
 }
