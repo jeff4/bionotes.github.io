@@ -2423,7 +2423,7 @@ withSchoolBus( {
 ```
 
 ***
-
+## 8/25/2024
 ## 8.4 Classes and Interfaces p. 147
 ### 8.4.1 Introduction
 * Back in Chapter 7: Interfaces, I showed you how interfaces allow TS developers to set up expectations for object shapes in code.
