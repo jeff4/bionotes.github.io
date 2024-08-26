@@ -2751,6 +2751,7 @@ const count = counter.countGrades( ["A", "C", "F"] );
 #### 7.5.5.1 Examples p. 155-156
 * **Example 1**, the base class **Assignment** declares its *grade* to be of type `number | undefined`.
 	* Meanwhile, the subclass **GradedAssignment** declares it as a `number` that must always exist.
+	* Expanding the allowed set of values of a property's union type is not allowed, as doing so would make the subclass property no longer assignable to the base class property's type.
 
 ```typescript
 class Assignment {
@@ -2766,7 +2767,6 @@ class GradedAssignment extends Assignment {
   }
 }
 ```
-* Expanding the allowed set of values of a property's union type is not allowed, as doing so would make the subclass property no longer assignable to the base class property's type.
 * **Example 2**  (p. 156), **VagueGrade**'s *value* tries to add `| string` on top of the base class **NumericGrade**'s number type, causing a type error:
 
 ```typescript
