@@ -809,7 +809,7 @@ p.example {
 
 ### Rounded Corners with border-radius
 
-#### Border Radius (full) p. 371
+#### Border Radius (full/individual) p. 371
 * Property Name: border-top-left-radius, border-top-right-radius, border-bottom-right-radius, border-bottom-left-radius
 * Values: length \| percentage values
 * Default: 0
@@ -819,11 +819,7 @@ p.example {
 * Keep in mind, these rounded corners for an element if that element has an actively colored border or actively background-color.
 * Values typically provided in **em**'s or **pixels**.
 * Percentages are allowed and are useful for keeping the curve proportional to the box.
-* If using the 'full' individual corner version, the order is clockwise starting from upper left. p. 372
-
-
-
-
+* If using the 'full/individual' corner version, the order is clockwise starting from upper left. p. 372
 
 #### Border Radius (shorthand) p. 371
 * Property Name: border-radius
@@ -831,12 +827,13 @@ p.example {
 * Default: 0
 * Applies to: all elements
 
-
+#### More on Borders?
+* or just move on...
 
 
 
 ***
-
+## 8/23/2024
 ## Margins p. 376
 
 
