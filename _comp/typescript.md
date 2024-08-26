@@ -2941,16 +2941,73 @@ two.name = "Savitribai Phule";
 
 ```typescript
 class Question {
+  protected static readonly answer: "bash";
+  protected static readonly prompt = 
+    "What's an ogre's favorite programming language?";
 
+  guess( getAnswer: (prompt: string) => string ) {
+    const answer = getAnswer(Question.prompt);
+
+    //ok
+    if ( answer === Question.answer ) {
+      console.log( "You got it!" );
+    } else {
+      console.log( "Try again..." )
+    }
+  }
+}
+
+// Error: Property 'answer' is protected and only
+// accessible within class 'HasStatic' and its subclasses
+Question.answer;
+```
+
+* Using read-only and/or visibility modifiers for static class fields is useful for restricting those fields from being accessed or modified outside their class.
+***
+
+## 8.8 Summary of Chapter 8: Topics covered p. 161
+1. Declaring and using class methods and properties
+1. Marking properties *read-only* and/or *optional*
+1. Using class names as **types** in type annotations
+1. Interfaces to enforce class instance shapes
+1. Extending base classes to create derived/subclasses
+1. Abstract Classes
+1. Adding Type System modifiers to class fields 
 
 ***
 
-## 8.8 Summary of Chapter 8 p. 161
+# Chapter 9: Generics p. 163
+
+## 9.1 Top Types 
+* Recall the concept of a *bottom type* from Chapter 4; it is a type that can have no possible values and can't be reached.
+* The opposite is a **top type** aka a **universal type**.
+	* This is type that can represent *any* possible value in a system.
+* Values of all other types can be provided to a location whose type is a top type.
+* i.e., *all* types are assingable to a top type. 
+
+### 9.1.1 any, Again p. 163
+### 9.1.2 Unknown p. 164
+
+
+***
+## 9.2 Type Predicates
+
+
+***
+## 9.3 Type Operators
+
+***
+## 9.4 Type Assertions
+
+***
+## 9.5 Const Assertions
+
+***
+## 9.6 Summary of Chapter 9
 
 ***
 
-# Chapter 9: Generics
-
+# Chapter 10: Generics p. 183
 
 
 
