@@ -2862,10 +2862,45 @@ school = new School("Burr's Lane Jr. High");
 * The keywords are *removed* along with other type system syntax when TS code is transpiled to pure JS.
 
 ### 8.7.2 Example 1 p. 159
-* Here, the **Base** class declares two *private* members, one *protected* and one *private*.
+* Here, the **Base** class declares two *private* members, one *protected* and one *private*. It also has one 'true' private member using ES2022 native JS syntax **#truePrivate**.
+* **Subclass** is allowed to access the *private* and *protected* members but not the **private** or **#truePrivate** members.
 
+```typescript
 
+class Base {
+  isPublicImplicit = 0;
+  public isPublicExplicit = 1;
+  protected isProtected = 2;
+  private isPrivate = 3;
+  #truePrivate = 4;
+}
 
+class Subclass extends Base {
+  examples() {
+    this.isPublicImplicit; // ok
+    this.isPublicExplicit; // ok
+    this.isProtected; // ok
+
+    // Error: Property 'isPrivate' is private
+    // and only accessible within class 'Base'
+    this.isPrivate;
+    
+    // Error: Property '#truePrivate' is private
+    // and only accessible within class 'Base'
+    this.#truePrivate;
+  }
+}
+
+new Subclass().isPublicImplicit; //ok
+new Subclass().isPublicExplicit; //ok
+
+new Subclass().isProtected; //Error
+new Subclass().isPrivate; //Error
+```
+* The key difference between TS's member visibilities and JS's true private declarations is that TS's exist only in the type system whereas JS's private declarations persist in the JS runtime.
+* A TS class member declared as *protected* or *private*..
+
+***
 ### 8.7.3 Example 2 p. 160
 
 
@@ -2877,6 +2912,13 @@ school = new School("Burr's Lane Jr. High");
 ***
 
 ## 8.8 Summary of Chapter 8 p. 161
+
+***
+
+# Chapter 9: Generics
+
+
+
 
 ***
 ## register info
