@@ -2112,12 +2112,12 @@ interface MergedMethods {
 
 # Chapter 8: Classes p. 137
 ## 8/24/2024
-## 7.1 Class Methods p. 137
-### 7.1.1 Introduction
+## 8.1 Class Methods p. 137
+### 8.1.1 Introduction
 * TS generally understands methods the same way it understands standalone functions. 
 * Parameter types default to *any* unless given a type or default value; calling a method requires an acceptable number of argumetns; return types can generally be inferred if the function is not recursive.
 
-### 7.1.2 Example p. 137-138
+### 8.1.2 Example p. 137-138
 * This code snippet defines a **Greeter** class with a *greet()* class method that takes in a single required parameter of type *number*:
 
 ```typescript
@@ -2153,13 +2153,13 @@ new Greeted();
 
 ***
 
-## 7.2 Class Properties
-### 7.2.1 Introduction p. 138
+## 8.2 Class Properties
+### 8.2.1 Introduction p. 138
 * In TS, to read from or write to a property in a class, one must explicitly declare it in the class.
 * Class properties are declared using the same syntax as interfaces: their name followed optionally by a type annotation.
 * TS will not attempt to deduce what members may exist on a class from their assignments in a constructor.
 
-#### 7.2.1.1 Examples p. 139
+#### 8.2.1.1 Examples p. 139
 * In this example, **destination** is allowed to be assigned to and accessed on instances of the **FieldTrip** class because it is explicitly declared as a *string*.
 * The *this.nonexistent* assignment in the constructor is not allowed because the class does not declare a *nonexistent* property:
 
@@ -2192,8 +2192,8 @@ trip.nonexistent;
 ```
 
 ***
-### 7.2.2 Function Properties p. 139
-#### 7.2.2.1 Introduction
+### 8.2.2 Function Properties p. 139
+#### 8.2.2.1 Introduction
 * Let's recap the fundamentals of JS method scoping and syntax.
 * JS contains 2 syntaxes for declaring a member on a class is callable function: **method** and **property**.
 * LTS has already illustrated the method of approach: `myFunction() {...}`.
@@ -2220,7 +2220,7 @@ new WithMethod().myProperty === new WithMethod().MyProperty; // false
 
 
 
-#### 7.2.2.2 Passing a function as an argument to a class *WithPropertyParameters*
+#### 8.2.2.2 Passing a function as an argument to a class *WithPropertyParameters*
 
 * Function properties can be given parameters and return types using the same syntax as class methods and standalone functions. p. 140
 * After all, they're a value assigned to a class member; the value just happens to be a function.
@@ -2245,11 +2245,11 @@ instance.takesParameters( 123 );
 ```
 
 *** 
-### 7.2.3 Initialization Checking p. 141
+### 8.2.3 Initialization Checking p. 141
 * With strict compiler settings enabled, TS will check that each property declared--whose type does not include *undefined*--is assinged a value in the constructore.
 * This strict initialization checking is useful b/c it prevents code from accidentally forgetting to assign a value to a class property.
 
-#### 7.2.3.1 Intialization Examples p. 141-142
+#### 8.2.3.1 Intialization Examples p. 141-142
 * The following **WithValue** class does not assign a value to its *unused* property; TS recognizes this as an error:
 
 ```typescript
@@ -2288,7 +2288,7 @@ new MissingInitializer().property.length;
 
 ***
 
-### 7.2.3.2 Definitely assigned properties p. 142
+### 8.2.3.2 Definitely assigned properties p. 142
 * Although strict initialization checking is useful most of the time, one may comr across some cases where a class property is *intentionally* able to stay unassigned after the class constructor.
 * One may use a `!` exclaimation point (bang) after the name of a property to disable it's initialization check.
 * This tells TS that the peropty will be assigned a value other than *undefined* before its first usage.
@@ -2314,7 +2314,7 @@ activities.next();
 ```
 
 ***
-### 7.2.4 Optional Properties p. 143
+### 8.2.4 Optional Properties p. 143
 * Classes in TS may declare a property as optional with a `?` question mark after its declaration name, just like with TS interfaces.
 * In this Example (p. 143), the optional **property** property is not allowed to be assigned in the class constructor regardless of strict property initialization checking:
 
@@ -2333,7 +2333,7 @@ new MissingInitializer().property.length;
 
 
 ***
-### 7.2.5 Read-Only Properties p. 143
+### 8.2.5 Read-Only Properties p. 143
 * TS classes may declare a property as read-only by adding the **readonly* keyword before its declaration name--just like with TS interfaces.
 * Per note in textbox on p. 144, might be best to use `#` (pound sign / hashtag) to specify private fields in case external 3rd party devs of your library might not realize that you've marked a property as read only. So probably use **JS private fields with *#*** instead of TS read-only properties.
 * Example p. 144
@@ -2367,7 +2367,7 @@ Quote.text = "Ha!";
 
 ***
 
-## 7.3 Classes as Types p. 145
+## 8.3 Classes as Types p. 145
 * Classes are relatively unique in the type system in that a class declaration creates both a runtime value--the class *itself*--as well as a **type** that can be used in type annotations.
 * Consider Example (p. 145-146). 
 	* The name of the *Teacher** class is used to annotate a **teacher** variable. 
@@ -2424,12 +2424,12 @@ withSchoolBus( {
 
 ***
 
-## 7.4 Classes and Interfaces p. 147
-### 7.4.1 Introduction
+## 8.4 Classes and Interfaces p. 147
+### 8.4.1 Introduction
 * Back in Chapter 7: Interfaces, I showed you how interfaces allow TS developers to set up expectations for object shapes in code.
 * TS allows a class to declare its instances as adhering to an interface by adding the **implements** keyword after the class name, followed by the name of an interface.
 
-### 7.4.2 Examples p. 147-148
+### 8.4.2 Examples p. 147-148
 * In this example, the **Student** class correctly implements the **Learner** interface by including its property *name* and its method *study()*, but the **Slacker** is missing a *study()* and thus results in a type error.
 
 ```typescript
@@ -2483,11 +2483,11 @@ class Student implements Learner {
 
 ***
 
-### 7.4.3 Implementing Multiple Interfaces p. 149
+### 8.4.3 Implementing Multiple Interfaces p. 149
 * Classes in TypeScript are allowed to be declared as implementing multiple interfaces.
 * The list of implemented interfaces for a class may be any number of interface names with commas in-between.
 
-#### 7.4.3.1 Examples p. 149-150
+#### 8.4.3.1 Examples p. 149-150
 * **Example 1**, p. 149, both classes are required to have a least a *grades* property to implement the **Graded** interface and a *report* property to implement the **Reporter** interface.
 	* The **Empty** class has two type errors for failing to implement either of the interfaces properly.
 
@@ -2552,9 +2552,9 @@ class NotAsNumber implements AgeIsNumber, AgeIsNotANumber {
 
 ***
 
-## 7.5 Extending a Class p. 151
+## 8.5 Extending a Class p. 151
 
-### 7.5.1 Intro p. 151
+### 8.5.1 Intro p. 151
 * When one extends a class in JS, one can add type checking to the derived class using TS.
 * Example on p. 151:
 
@@ -2585,12 +2585,12 @@ teacher.otherFunction();
 ```
 ***
 
-### 7.5.2 Extension Assignability p. 151
+### 8.5.2 Extension Assignability p. 151
 * Subclasses inherit members from their base class much like derived interfaces extend base interfaces.
 * Instances of subclasses have all the members of their base class and thus may be used wherever an instance of the base is required.
 * If a base class doesn't have all the members of a subclass does, then it can't be used when the more specific subclass is required.
 
-#### 7.5.2.1 Examples 
+#### 8.5.2.1 Examples 
 * **Example 1** p. 151-152: instances of the following **Lesson** class may not be used where instances of its derived **OnlineLesson** are required, but derived instances may be used to satisfy either the base class or the subclass:
 
 ```typescript
@@ -2646,12 +2646,12 @@ subClass = new PastGrades(); //ok
 ```
 ***
 
-### 7.5.3 Overridden Constructors p. 153
-#### 7.5.3.1 Intro
+### 8.5.3 Overridden Constructors p. 153
+#### 8.5.3.1 Intro
 * As with vanilla JS, subclasses are not required by TS to define their own constructor. 
 * Subclasses (aka derived classes) without their own constructor implicitly use the constructor of their base class (aka superclass) using the *super* keyword.
 
-#### 7.5.3.2 Examples p. 153-154
+#### 8.5.3.2 Examples p. 153-154
 * **Example 1**, the constructor for the **PassingAnnouncer** derived class correctly calls the constructor fromt eh base class using a *number* argument, while the **FailingAnnouncer** gets a type error.
 
 ```typescript
@@ -2709,7 +2709,7 @@ class ContinuedGradesTally extends GradesTally {
 ```
 
 ***
-### 7.5.4 Overridden Methods p. 154
+### 8.5.4 Overridden Methods p. 154
 * Subclasses may redeclare new methods with the same names as the base class.
 * Remember, since subclasses can be used wherever the original class is used, the types of the new methods must be usable in place of the original methods.
 * Example on p 155:
@@ -2744,11 +2744,11 @@ const count = counter.countGrades( ["A", "C", "F"] );
 ```
 ***
 
-### 7.5.5 Overridden Properties p. 155
+### 8.5.5 Overridden Properties p. 155
 * Subclasses may explicitly redeclare properties of their base class with the same name, as long as the new type is assignable to the type on the base class.
 * As with overridden methods, subclasses must structurally match up with base classes.
 
-#### 7.5.5.1 Examples p. 155-156
+#### 8.5.5.1 Examples p. 155-156
 * **Example 1**, the base class **Assignment** declares its *grade* to be of type `number | undefined`.
 	* Meanwhile, the subclass **GradedAssignment** declares it as a `number` that must always exist.
 	* Expanding the allowed set of values of a property's union type is not allowed, as doing so would make the subclass property no longer assignable to the base class property's type.
@@ -2797,12 +2797,12 @@ instance.value;
 ***
 
 ## 8/26/2024
-## 7.6 Abstract Classes p. 156
-### 7.6.1 Intro p. 156-158
+## 8.6 Abstract Classes p. 156
+### 8.6.1 Intro p. 156-158
 * Sometimes, it's useful to create a base class that does not declare any methods; instead, it must rely on derived subclasses to provide methods.
 * These are called **abstract classes**, and created using the *abstract* keyword in front of the class name and in front of any method intended to be abstract.
 
-### 7.6.2 Examples p. 157-158
+### 8.6.2 Examples p. 157-158
 * In this example, the **School** class and its **getStudentTypes** method are marked as *abstract*.
 * Its subclasses--**Preschool** and **Absence**--are therefore expected to implement *getStudentStypes()*.
 
@@ -2847,8 +2847,8 @@ school = new School("Burr's Lane Jr. High");
 
 ***
 
-## 7.7 Member Visibility p. 158
-### 7.7.1 JS Intro and TS History p. 158
+## 8.7 Member Visibility p. 158
+### 8.7.1 JS Intro and TS History p. 158
 * JS includes the ability to start the name of a class member with the `#` pound sign to mark it as a **private** class member.
 * Private class members may *only* be accessed by instances of that class.
 * JS runtimes enforce that privacy by throwing an error if an area of code outside the class tries to access the private method or property.
@@ -2861,22 +2861,22 @@ school = new School("Burr's Lane Jr. High");
 * The above keywords exist purely within the type system.
 * The keywords are *removed* along with other type system syntax when TS code is transpiled to pure JS.
 
-### 7.7.2 Example 1 p. 159
+### 8.7.2 Example 1 p. 159
 * Here, the **Base** class declares two *private* members, one *protected* and one *private*.
 
 
 
-### 7.7.3 Example 2 p. 160
+### 8.7.3 Example 2 p. 160
 
 
 
-### 7.7.4 Static Field Modifiers p. 161
+### 8.7.4 Static Field Modifiers p. 161
 
 
 
 ***
 
-## 7.8 Summary of Chapter 8 p. 161
+## 8.8 Summary of Chapter 8 p. 161
 
 ***
 ## register info
