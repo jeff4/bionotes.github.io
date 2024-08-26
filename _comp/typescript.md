@@ -2796,9 +2796,8 @@ instance.value;
 
 ***
 
-## 7.6 Abstract Classes p. 156
-
 ## 8/26/2024
+## 7.6 Abstract Classes p. 156
 ### 7.6.1 Intro p. 156-158
 * Sometimes, it's useful to create a base class that does not declare any methods; instead, it must rely on derived subclasses to provide methods.
 * These are called **abstract classes**, and created using the *abstract* keyword in front of the class name and in front of any method intended to be abstract.
@@ -2849,10 +2848,21 @@ school = new School("Burr's Lane Jr. High");
 ***
 
 ## 7.7 Member Visibility p. 158
-### 7.7.1 Intro p. 158
+### 7.7.1 JS Intro and TS History p. 158
+* JS includes the ability to start the name of a class member with the `#` pound sign to mark it as a **private** class member.
+* Private class members may *only* be accessed by instances of that class.
+* JS runtimes enforce that privacy by throwing an error if an area of code outside the class tries to access the private method or property.
+* TS's class support predates the introduction of *true `#` privacy* by JS in [ES2022](https://www.w3schools.com/js/js_2022.asp#mark_private_methods).
+* While TS supports private class members, it also allows a more nuanced set of privacy definitions on class methods and class properties.
+* TS's member visibilities are achieved by adding one fo the following keywords before the declaration name of a class member:
+	1. **public** (default)-- allowed to be accessed by anybody, anywhere
+	1. **protected** -- allowed to be accessed only by the class itself and its subclasses
+	1. **private** -- allowed to be accessed *only* by the class itself
+* The above keywords exist purely within the type system.
+* The keywords are *removed* along with other type system syntax when TS code is transpiled to pure JS.
 
 ### 7.7.2 Example 1 p. 159
-
+* Here, the **Base** class declares two *private* members, one *protected* and one *private*.
 
 
 
