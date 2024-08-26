@@ -2932,7 +2932,15 @@ two.name = "Savitribai Phule";
 	* Private fields are always private by default--so there is no need to additionally mark them with the old TS **private** keyword.
 
 ### 8.7.4 Static Field Modifiers p. 161
+* JS allows declaring members on a class itself--rather than on its instances.
+* Declaring members on a class *itself* is accomplished with the **static** keyword.
+* TS supports using the *static* keyword both on its own and with readonly and/or with visibility keywords.
+* **Note the order:** (1) First the visibility keywords; (2) then *static*; and (3) finally, *readonly*. 
 
+#### 8.7.4.1 Static field example p. 161
+
+```typescript
+class Question {
 
 
 ***
