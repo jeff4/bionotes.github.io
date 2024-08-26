@@ -2852,7 +2852,7 @@ school = new School("Burr's Lane Jr. High");
 * JS includes the ability to start the name of a class member with the `#` pound sign to mark it as a **private** class member.
 * Private class members may *only* be accessed by instances of that class.
 * JS runtimes enforce that privacy by throwing an error if an area of code outside the class tries to access the private method or property.
-* TS's class support predates the introduction of *true `#` privacy* by JS in [ES2022](https://www.w3schools.com/js/js_2022.asp#mark_private_methods).
+* TS's class support predates the introduction of ***true* # privacy** by JS in [ES2022](https://www.w3schools.com/js/js_2022.asp#mark_private_methods).
 * While TS supports private class members, it also allows a more nuanced set of privacy definitions on class methods and class properties.
 * TS's member visibilities are achieved by adding one fo the following keywords before the declaration name of a class member:
 	1. **public** (default)-- allowed to be accessed by anybody, anywhere
