@@ -2976,7 +2976,7 @@ Question.answer;
 
 ***
 
-# Chapter 9: Generics p. 163
+# Chapter 9: Type Modifiers p. 163
 
 ## 9.1 Top Types 
 * Recall the concept of a *bottom type* from Chapter 4; it is a type that can have no possible values and can't be reached.
