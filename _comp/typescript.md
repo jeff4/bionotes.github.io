@@ -2852,7 +2852,7 @@ school = new School("Burr's Lane Jr. High");
 * JS includes the ability to start the name of a class member with the `#` pound sign to mark it as a **private** class member.
 * Private class members may *only* be accessed by instances of that class.
 * JS runtimes enforce that privacy by throwing an error if an area of code outside the class tries to access the private method or property.
-* TS's class support predates the introduction of ***true* # privacy** by JS in [ES2022](https://www.w3schools.com/js/js_2022.asp#mark_private_methods).
+* TS's class support predates the introduction of **'officially supported *true*' privacy by # prefix** by JS in [ES2022](https://www.w3schools.com/js/js_2022.asp#mark_private_methods).
 * While TS supports private class members, it also allows a more nuanced set of privacy definitions on class methods and class properties.
 * TS's member visibilities are achieved by adding one fo the following keywords before the declaration name of a class member:
 	1. **public** (default)-- allowed to be accessed by anybody, anywhere
@@ -2898,11 +2898,36 @@ new Subclass().isProtected; //Error
 new Subclass().isPrivate; //Error
 ```
 * The key difference between TS's member visibilities and JS's true private declarations is that TS's exist only in the type system whereas JS's private declarations persist in the JS runtime.
-* A TS class member declared as *protected* or *private*..
+* A TS class member declared as *protected* or *private* will compile to the same JS as if it were declared *public* explicitly or implicitly.
+* As with interfaces and type annotations, **visibility keywords are erased when outputting JS.
+* **Only `#private` fields are truly private in runtime JS.** 
 
 ***
 ### 8.7.3 Example 2 p. 160
+* Visibility modifiers may be marked along with *readonly*. To declare a member both as *readonly* and with an explicit visibility, the visibility comes **first**.
+* This **TwoKeywords** class declares its *name* member as both *private* and *readonly*.
 
+```typescript
+class TwoKeywords {
+  private readonly name: string;
+
+  constructor() {
+    this.name = "Anne Sullivan"; // ok
+  }
+
+  log() {
+    console.log( this.name ); // ok
+  }
+}
+
+const two = new TwoKeywords();
+
+// Error: Property 'name' is private and
+// only accessible within class 'TwoKeywords'
+// Error: Cannot assign to 'name' bc
+// it is a read-only property
+two.name = "Savitribai Phule";
+```
 
 
 ### 8.7.4 Static Field Modifiers p. 161
