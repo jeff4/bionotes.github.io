@@ -3191,11 +3191,33 @@ function workWithText( text: string | undefined ) {
 
 ***
 ### 9.3.3 keyof typeof p. 171
+* *typeof* retrieves the type of a value; *keyof* retrieves the allowed keys on a type.
+* TS allows the 2 keywords to be chained together to succinctly retrieve the allowed keys on a value's type.
+* Putting them together, the *typeof* operator becomes wonderfully useful for working with *keyof* operations.
 #### 9.3.3.1 logRating example p. 171-172
+* In this example, the **logRating** function is meant to take in one of the keys of the *ratings* value.
+* Instead of creating an interface, this code uses **keyof typeof** to indicate that *key* must be one of the keys on the type of the *ratings* value:
 
+```typescript
+const ratings = {
+  imdb: 8.4,
+  metacritic: 82,
+};
 
+function logRating( key: keyof typeof ratings ) {
+  console.log( ratings[key] );
+}
+
+logRating( "imdb" ); //ok
+
+// error: Argument of type 'missing' is not assignable
+// to the parameter of type ' imdb | metacritic '
+logRating( "invalid" );
+```
+* By combining *typeof* and *keyof*, we get to save ourselves the pain of writing out--and having to update--types representing the allowed keys on objects that don't have an explicit interface type.
 
 ***
+
 ## 9.4 Type Assertions
 
 ***
