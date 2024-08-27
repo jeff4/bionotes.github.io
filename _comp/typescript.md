@@ -2977,15 +2977,44 @@ Question.answer;
 ***
 
 # Chapter 9: Type Modifiers p. 163
+* JH: I believe the point of this chapter is to show how one can *change* types, called *casting* and *coercion* in other languages.
 
 ## 9.1 Top Types 
 * Recall the concept of a *bottom type* from Chapter 4; it is a type that can have no possible values and can't be reached.
 * The opposite is a **top type** aka a **universal type**.
 	* This is type that can represent *any* possible value in a system.
 * Values of all other types can be provided to a location whose type is a top type.
-* i.e., *all* types are assingable to a top type. 
+* i.e., *all* types are assignable to a top type. 
 
 ### 9.1.1 any, Again p. 163
+* The **any** type can act as a *top type*--b/c a value of any type can be assigned into that variable.
+* **any** is generally used when a location is allowed to accept data of any type, such as parameters being captured by `console.log()`.
+
+```typescript
+let anyValue: any;
+anyValue = "Lucille Ball"; //ok
+anyValue = 123; //ok
+
+console.log( anyValue ); // ok
+```
+
+* However, the problem with **any* is that it explicitly tells TS *not* to perform the usual type checking on that variable's *assignability* or *members*.
+* That evades the entire point of TS's type safety! 
+* Example p. 164, the **name.toUpperCase()** call definitely will not crash. But b/c *name* is declared as type **any**, TS will not register a type complaint.
+
+```typescript
+function greetComedian( name: any ) {
+  // No type error...
+  console.log( 'Announcing ${name.toUpperCase()}!` );
+}
+
+greetComedian( { name: "Bea Arthur" } );
+  // No compiler typechecking error--Passes!
+  // But! runtime error: name.toUpperCase() is not a legit function
+```
+* The **unknown** type is much safer than **any**.
+
+
 ### 9.1.2 Unknown p. 164
 
 
