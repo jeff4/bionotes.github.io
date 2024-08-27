@@ -3005,7 +3005,7 @@ console.log( anyValue ); // ok
 ```typescript
 function greetComedian( name: any ) {
   // No type error...
-  console.log( 'Announcing ${name.toUpperCase()}!` );
+  console.log( `Announcing ${name.toUpperCase()}!` );
 }
 
 // No compiler typechecking error--Passes!
