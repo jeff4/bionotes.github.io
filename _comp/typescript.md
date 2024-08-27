@@ -3313,6 +3313,24 @@ logRating( "invalid" );
 
 ## 9.4 Type Assertions
 
+### 9.4.1 Introduction
+
+### 9.4.2 Asserting Caught Error Types p. 174
+
+### 9.4.3 Non-null Assertions  p. 175
+
+### 9.4.2 Type Assertion Caveats p. 176
+
+#### 9.4.2.1 Assertions versus declarations p. 176
+
+#### 9.4.2.2 Assertion assignability p. 176
+
+
+
+
+
+
+***
 ***
 ## 9.5 Const Assertions
 
