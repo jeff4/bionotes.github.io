@@ -29,4 +29,5 @@ sitemap: false
 	1. Styling -- CSS in the `/* style */` section
 * of course, a regular HTML document has *script* and *style* sections to hold onto parts 1 and 3 respectively. So as we can see, SFC / *.vue files are very similar to `*.html` files.
 * Per my reading of this [Composition API FAQ](https://vuejs.org/guide/extras/composition-api-faq), i believe i'll just go with the classic **Options API** for now b/c i'm mostly doing small and simple projects for now. However, at some point, I may learn the **Composition API** as well. Or go directly to React. That article also has a nice comparison of the Vue Composition API vs. React Hooks.
-
+* Sped through the [vue.js tutorial](https://vuejs.org/tutorial/#step-1)
+* Built my own vue app with the [quick start](https://vuejs.org/guide/quick-start.html)
