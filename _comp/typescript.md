@@ -3034,13 +3034,127 @@ function greetComedian( name: unknown ) {
 
 ```typescript
 function greetComedianSafety( name: unknown ) {
+  if ( typeof value === "string" ) {
 
+    // ok
+    console.log( `Announcing ${ name.toUpperCase() }!` ); 
+  } else {
+    console.log( "Well, I'm off!" );
+  }
+}
+
+greetComedianSafety( "Betty White" ); // Logs: 4 (why??)
+greetComedianSafety( {} ); // Does not log
+```
+* Those two restrictions make **unknown** a much safer type to use than **any**.
+* **Note: one should generally prefer to use *unknown* instead of *any* when possible.**
+
+***
+## 9.2 Type Predicates
+* We've previously seen how JS constructs like *instanceof* and *typeof* can be used to narrow types. But this may get lost within the logic of a function().
+
+### 9.2.1 Examples 1 + 2, p. 165 - 166
+
+
+```typescript
+function isNumberOrString( value: unknown ) {
+  return [ 'number', 'string' ].includes( typeof value );
+}
+
+function logValueIfExists( value: number | string | null | undefined ) {
+  if( isNumberOrString( value ) ) {
+
+    // Type of value: number | string | null | undefined
+    // Error: Object is possibly undefined
+    value.toString();
+
+  } else {
+    console.log( "Value does not exist: ", value);
+  }
+}
+```
+
+* TS has a special syntax for functions that return a boolena meant to indicate whether an argument is a particular type.
+* This is referred to as a **type predicate**, also sometimes called a 'user-defined type guard': you the developer are creating your own type guard akin to **instanceof** or **typeof**.
+* Type predicats are commonly used to indicate whether an argument passed in as a parameter is a more specific type than the parameter's.
+* Type predicate's return types can be declared as the name of a parameter, the **is** keyword, and the type:
+
+```typescript
+function typePredicate( input: WideType ): input is NarrowType;
+```
+
+
+### 9.2.2 Example 3 p. 166 - 167
+* We can change the previous example's helper function to ahve an explicit return type that explicitly states `value is number | string`.
+* TS will then be able to infer that blocks of code...
+
+
+```typescript
+function isNumberOrString( value: unknown ): value is number | string {
+  return ['number', 'string'].includes(typeof value);
+}
+
+function logValueIfExists( value: number | string | null | undefined ) {
+  if ( isNumberOrString(value) ) {
+    
+    // Type of value: number | string
+    value.toString(); //ok
+
+  } else {
+
+    // Type of value: null | undefined
+    console.log( "value does not exist: ", value );
+  }
+}
+```
+
+* You can think of a type predicate as returning not just a boolean, but also an indication that the argument was that more specific type.
+* Type predicates are often used...
+
+
+
+
+```
+
+### 9.2.3 Example 4
+
+```typescript
+interface Comedian {
+  funny: boolean;
+}
+
+interface StandupComedian extends Comedian {
+  routine: string;
+}
+
+function isStandupComedian( value: Comedian ): value is StandupComedian {
+  return 'routine' in value;
+}
+
+function workWithComedian ( value: Comedian ) {
+  if ( isStandupComedian(value) ) {
+
+    // Type of value: StandupComedian
+    console.log( value.routine ); // ok
+  }
+
+  // Type of value: Comedian
+  // Error: Property 'routine' does not exist on type 'Comedian'
+  console.log( value.routine );
+                     ^^^^^^^
 }
 ```
 
 
-***
-## 9.2 Type Predicates
+### 9.2.4 Example 5
+
+```typescript
+function isLongString( input: string | undefined ): input is string {
+  return !!
+
+
+
+```
 
 
 ***
