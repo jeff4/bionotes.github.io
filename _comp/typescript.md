@@ -3118,7 +3118,7 @@ function logValueIfExists( value: number | string | null | undefined ) {
 
 ***
 
-### 9.2.3 Example 4
+### 9.2.3 Example 4 p. 167
 ```typescript
 
 interface Comedian {
@@ -3148,7 +3148,7 @@ function workWithComedian ( value: Comedian ) {
 ```
 ***
 
-### 9.2.4 Example 5
+### 9.2.4 Example 5 p. 168
 
 ```typescript
 function isLongString( input: string | undefined ): input is string {
@@ -3179,7 +3179,19 @@ function workWithText( text: string | undefined ) {
 * Not all types can be represented using only a keyword or a name of an existing type.
 * It can sometimes be necessary to create a new type that *combines* both keyword *and* an existing type, performing some transformation on the properties of an existing type.
 
+***
+### 9.3.1 keyof p. 169
 
+#### 9.3.1.1 keyof Examples 1, 2, and 3 p. 169-170
+
+
+***
+### 9.3.2 typeof p. 170
+#### 9.3.2.1 typeof Example
+
+***
+### 9.3.3 keyof typeof p. 171
+#### 9.3.3.1 logRating example p. 171-172
 
 
 
