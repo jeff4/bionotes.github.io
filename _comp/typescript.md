@@ -3181,13 +3181,41 @@ function workWithText( text: string | undefined ) {
 
 ***
 ### 9.3.1 keyof p. 169
+* JS objects can have members retrieved using dynamic values...
 
 #### 9.3.1.1 keyof Examples 1, 2, and 3 p. 169-170
 
 
 ***
 ### 9.3.2 typeof p. 170
-#### 9.3.2.1 typeof Example
+* Another type operator provided by TS is *typeof*.
+* This keyword returns the type of a provided value.
+* This can be useful if the value's type would be annoyingly complex to write manually.
+
+#### 9.3.2.1 typeof example p. 171
+* In this example, the **adaptation** variable is declared as being the same type as **original**:
+
+```typescript
+const original = {
+  medium = "movie",
+  title = "Mean Girls",
+};
+
+let adaptation: typeof original;
+
+if (Math.random() > 0.5 ) {
+  adaptation = {...original, medium: "play"}; // ok
+} else {
+
+  // error: type 'number' is not assignable to type 'string'
+  adaptation = {...original, medium: 2 };
+                             ^^^^^^
+
+}
+```
+* Although the **typeof type operator** visually looks like the ***runtime* typeof operator** used to return a string description of the value's type, the **two are different**!
+* the JS operator is a *runtime* operator that returns the string of a type.
+* in contrast, the TS version can *only* be used in types and *won't* appear in compiled code. B/c the TS version is a type operator!
 
 ***
 ### 9.3.3 keyof typeof p. 171
