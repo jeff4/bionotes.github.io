@@ -3008,10 +3008,11 @@ function greetComedian( name: any ) {
   console.log( 'Announcing ${name.toUpperCase()}!` );
 }
 
+// No compiler typechecking error--Passes!
+// But! runtime error: name.toUpperCase() is not a legit function
 greetComedian( { name: "Bea Arthur" } );
-  // No compiler typechecking error--Passes!
-  // But! runtime error: name.toUpperCase() is not a legit function
 ```
+
 * The **unknown** type is much safer than **any**.
 
 ### 9.1.2 Unknown p. 164
@@ -3052,6 +3053,8 @@ greetComedianSafety( {} ); // Does not log
 ***
 ## 9.2 Type Predicates
 * We've previously seen how JS constructs like *instanceof* and *typeof* can be used to narrow types. But this may get lost within the logic of a function().
+
+***
 
 ### 9.2.1 Examples 1 + 2, p. 165 - 166
 
