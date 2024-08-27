@@ -15,7 +15,18 @@ sitemap: false
 
 ***
 ## 8/26/2024
-* get started with Beginning Vue
+* get started with GVU book.
 * Up to location 117/3051
 * Also began watching the 3-hour [Vue.js Crash Course 2024](https://www.youtube.com/watch?v=VeNfHj6MhgA) by Traversy Media. Up to 17:17 rn.
+* Began going through [Vue Intro docs](https://vuejs.org/guide/introduction.html)
+
+## Notes on Vue.JS docs
+### Single-File Components
+* A `*.vue` file is a SFC (Single-File Component) file that is similar to HTML.
+* It must consist of three parts:
+	1. Logic -- Javascript in the `/* script */` section
+	1. Content -- HTML in the `/* template */` section
+	1. Styling -- CSS in the `/* style */` section
+* of course, a regular HTML document has *script* and *style* sections to hold onto parts 1 and 3 respectively. So as we can see, SFC / *.vue files are very similar to `*.html` files.
+
 
