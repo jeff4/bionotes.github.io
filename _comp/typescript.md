@@ -3014,8 +3014,29 @@ greetComedian( { name: "Bea Arthur" } );
 ```
 * The **unknown** type is much safer than **any**.
 
-
 ### 9.1.2 Unknown p. 164
+* The **unknown** type in TS is its true *top type*.
+* **unknown** is similar to *any* in that all objects may be passed to variables of type **unknown**.
+* The key differene with **unknown** is that TypeScript is much more restrictive about values of type **unknown**
+	* TS does not allow directly accessig properties of **unknown** typed values
+	* **unknown** is not assignable to types that are *not* a top type (i.e., *any* or *unknown*)
+* Attempting to access a property of any *unknown* typed value will cause a TS type error, per this Example p. 164 - 165:
+
+```typescript
+function greetComedian( name: unknown ) {
+
+  // Error: Object is of type 'unknown'
+  console.log( `Announcing ${ name.toUpperCase() }!` );
+}
+```
+* The only way TS will allow code to access members on a variable of type **unknown** is if the value's type is *narrowed*, such as using type assertion, or using *instanceof*, or using *typeof*.
+* Example, p. 165
+
+```typescript
+function greetComedianSafety( name: unknown ) {
+
+}
+```
 
 
 ***
