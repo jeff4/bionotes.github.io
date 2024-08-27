@@ -3148,15 +3148,36 @@ function workWithComedian ( value: Comedian ) {
 
 ```typescript
 function isLongString( input: string | undefined ): input is string {
-  return !!
+  return !!( input && input.length >= 7 );
+}
 
+function workWithText( text: string | undefined ) {
+  if( isLongString(text) ) {
 
+    // Type of text: string
+    console.log( "Long text: ", text.length );
 
+  } else {
+    
+    // Type of text: undefined
+    // Error: Property 'length' does not exist on type 'never'
+    console.log( "Short text: ", text?.length);
+                                       ^^^^^^
+  }
+}
 ```
-
+* Type predicates that do more than verify the tyep of a property or value are easy to misuse.
+* LTS generally recommends avoiding them when possible.
+* *Simpler* type predicates are sufficient for most cases. 
 
 ***
 ## 9.3 Type Operators
+* Not all types can be represented using only a keyword or a name of an existing type.
+* It can sometimes be necessary to create a new type that *combines* both keyword *and* an existing type, performing some transformation on the properties of an existing type.
+
+
+
+
 
 ***
 ## 9.4 Type Assertions
