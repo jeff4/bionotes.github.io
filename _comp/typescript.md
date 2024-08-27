@@ -3216,8 +3216,40 @@ getRating( ratings, 'not valid' ); // Ok, but *shouldn't* be
 * That would be more accurate in properly restricting to only the keys that exist on the container value:
 
 ```typescript
-```
+function getRating( ratings: Ratings, key: 'audience' | 'critic' ): number {
+  return ratings[key]; // ok
+}
 
+const ratings: Ratings = { audience: 66, critic: 84 };
+
+getCountLiteral(ratings, 'audience'); // ok
+
+// Error: Argument of type 'not valid' is not assignable
+// to parameter of type 'audience | critic'
+getCountLiteral(ratings, 'not valid');
+                          ^^^^^^^^^
+```
+* However, what if the interface has dozens or more members?
+* you would have to type out each of those members' keys into the union type and keep them up-to-date. What a pain!
+* Instead, TS provides the **keyof** operator that takes in an existing type and gives back a union of all the keys allowed on that type, such as a type annotation.
+* Here, **keyof Ratings** is equivalent to 'audience | critic' but is much quicker to write out and won't need to be manually updated if the **Ratings** interface ever changes.
+
+```typescript
+function getCountKeyof( ratings: Ratings, key: keyof Ratings ): number {
+  return ratings[key]; // ok
+}
+
+const ratings: Ratings = { audience: 66, critic: 84 };
+
+getCountKeyof( ratings, 'audience' ); // ok
+
+// Error: Argument of type 'not valid' is not assignable
+// to parameter of type 'keyof Ratings'.
+getCountKeyof( ratings, 'not valid' );
+                        ^^^^^^^^^^^
+```
+* **keyof** is a great feature for creating union types based on the keys of existing types.
+* It also combines well with other type operators in TS, allowing for some very nifty patterns you'll see later in this chapter an in Chapter 15.
 
 ***
 ### 9.3.2 typeof p. 170
