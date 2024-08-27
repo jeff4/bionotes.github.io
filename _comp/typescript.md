@@ -3182,9 +3182,41 @@ function workWithText( text: string | undefined ) {
 
 ***
 ### 9.3.1 keyof p. 169
-* JS objects can have members retrieved using dynamic values...
+* JS objects can have members retrieved using dynamic values, which are commonly (but not necessarily) *string* typed.
+* Representing these keys in the type system can be tricky.
+* Using a catchall primitive such as *string* would allow invalid keys for the container value.
+* That's why TS when using stricter configuration settings--covered in Chapter 13--would report an error on the **ratings[key]** as seen in the next example.
+* Type *string* allows values not allowed as properties on the **Ratings** interface and **Ratings** doesn't declare an index signature to allow any *string* keys.
 
 #### 9.3.1.1 keyof Examples 1, 2, and 3 p. 169-170
+```typescript
+interface Ratings {
+  audience: number;
+  critics: number;
+}
+
+function getRatings( ratings: Ratings, key: string ): number {
+  
+  // Error: Element implicitly has an 'any' type because 
+  // expression of type 'string' can't be used to index
+  // type 'Ratings'.
+  // No index signature with a parameter of type 'string'
+  // was found on type 'Ratings'.
+  return ratings[key];
+         ^^^^^^^^^^^^
+}
+
+const ratings: Ratings = { audience: 66, critic: 84 };
+
+getRating( ratings, 'audience' ); // ok
+
+getRating( ratings, 'not valid' ); // Ok, but *shouldn't* be
+```
+* Another option would be to use a type union of literals for the allowed keys.
+* That would be more accurate in properly restricting to only the keys that exist on the container value:
+
+```typescript
+```
 
 
 ***
