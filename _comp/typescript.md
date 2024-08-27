@@ -3176,6 +3176,7 @@ function workWithText( text: string | undefined ) {
 
 ***
 ## 9.3 Type Operators
+### 9.3.0 Introduction
 * Not all types can be represented using only a keyword or a name of an existing type.
 * It can sometimes be necessary to create a new type that *combines* both keyword *and* an existing type, performing some transformation on the properties of an existing type.
 
