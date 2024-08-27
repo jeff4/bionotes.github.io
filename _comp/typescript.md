@@ -2986,6 +2986,8 @@ Question.answer;
 * Values of all other types can be provided to a location whose type is a top type.
 * i.e., *all* types are assignable to a top type. 
 
+***
+
 ### 9.1.1 any, Again p. 163
 * The **any** type can act as a *top type*--b/c a value of any type can be assigned into that variable.
 * **any** is generally used when a location is allowed to accept data of any type, such as parameters being captured by `console.log()`.
@@ -3014,6 +3016,8 @@ greetComedian( { name: "Bea Arthur" } );
 ```
 
 * The **unknown** type is much safer than **any**.
+
+***
 
 ### 9.1.2 Unknown p. 164
 * The **unknown** type in TS is its true *top type*.
