@@ -31,3 +31,9 @@ sitemap: false
 * Per my reading of this [Composition API FAQ](https://vuejs.org/guide/extras/composition-api-faq), i believe i'll just go with the classic **Options API** for now b/c i'm mostly doing small and simple projects for now. However, at some point, I may learn the **Composition API** as well. Or go directly to React. That article also has a nice comparison of the Vue Composition API vs. React Hooks.
 * Sped through the [vue.js tutorial](https://vuejs.org/tutorial/#step-1)
 * Built my own vue app with the [quick start](https://vuejs.org/guide/quick-start.html)
+
+### Next steps
+1. Install coc using :PlugInstall using [these instructions](https://dev.to/rajikaimal/vim-auto-completion-with-coc-nvim-ie3)
+2. See also [IDE support page](https://vuejs.org/guide/scaling-up/tooling.html#ide-support)
+3. install coc-volar
+4. continue with [vue core docs](https://vuejs.org/guide/essentials/application.html)
