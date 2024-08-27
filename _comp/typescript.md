@@ -3055,7 +3055,6 @@ greetComedianSafety( {} ); // Does not log
 
 ### 9.2.1 Examples 1 + 2, p. 165 - 166
 
-
 ```typescript
 function isNumberOrString( value: unknown ) {
   return [ 'number', 'string' ].includes( typeof value );
@@ -3082,7 +3081,7 @@ function logValueIfExists( value: number | string | null | undefined ) {
 ```typescript
 function typePredicate( input: WideType ): input is NarrowType;
 ```
-
+***
 
 ### 9.2.2 Example 3 p. 166 - 167
 * We can change the previous example's helper function to ahve an explicit return type that explicitly states `value is number | string`.
@@ -3107,18 +3106,14 @@ function logValueIfExists( value: number | string | null | undefined ) {
   }
 }
 ```
-
 * You can think of a type predicate as returning not just a boolean, but also an indication that the argument was that more specific type.
 * Type predicates are often used...
 
-
-
-
-```
+***
 
 ### 9.2.3 Example 4
-
 ```typescript
+
 interface Comedian {
   funny: boolean;
 }
@@ -3144,7 +3139,7 @@ function workWithComedian ( value: Comedian ) {
                      ^^^^^^^
 }
 ```
-
+***
 
 ### 9.2.4 Example 5
 
