@@ -3769,6 +3769,7 @@ logWrapper<string>( (input: string) => { /* ... */ } );
 ```
 
 * The **Name<Type>** syntax for specifying a type argument will be the same for other generic constructs throughout this chapter.
+
 ***
 
 ### 10.2.3 Multiple Function Type Parameters p. 187
