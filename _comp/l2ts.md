@@ -2683,6 +2683,7 @@ interface Array<T> {
 * It can even report a type error when an inferred type argument does not match the type of a value.
 * Providing **getLast()** with an object that doesn't include **next**--*or* whose inferred **Value** type argument is the same type--is allowed.
 * Mismatching the provided object's **value** and **next.value**, though is a type error: p. 190
+
 ```typescript
 interface LinkedNode<Value> {
   next?: LinkedNode<Value>;
