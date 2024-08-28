@@ -3587,9 +3587,26 @@ const wideObject = {
 // type '"story" | "one-liner"'.
 tellJoke( wideObject );
 ```
-
 ***
 ### 9.5.3 Read-Only Objects p. 180
+#### 9.5.3.1 Intro
+* Object literals such as those used as the initial value of a variable generally widen the types of properties the sam way the initial values of **let** variables widen.
+* String values such as **'apple'** become primitives such as **string**, arrays are typed as tuples, etc.
+* This can be inconvenient when some or all of those values are meant to later be used in a place that requires their specific literal type.
+* Asserting a value literal with **as const**, however, switches the inferred type to be specific as possible.
+* All member properties become **readonly**, literals are considered their own literal type instead of their general primitive type, arrays become read-only tuples, etc.
+* In other words, applying a const assertion to a value literal makes that value literal *immutable* and recursively applies the same const assertion logic to all its members.
+
+#### 9.5.3.2 Example p. 181
+* As an example, the **preferencesMutable** value that follows is declared *without* an **as const**.
+* So its names are the primitive type **string** and it's allowed to be modified.
+* In contrast, **favoritesConst** is declared with an **as const** so its member values are literals and are not allowed to be modified.
+
+```typescript
+function describePreference( preference: )
+
+
+```
 
 ***
 ## 9.6 Summary of Chapter 9
