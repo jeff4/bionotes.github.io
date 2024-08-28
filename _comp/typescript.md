@@ -1225,7 +1225,8 @@ function format( data: string, needle?: string, haystack?: string ) {
 	return needle && haystack ? data.replace( needle, haystack ): data;
 }
 ```
-
+## End of Chapter 5: Functions
+***
 ***
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
