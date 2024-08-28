@@ -2684,11 +2684,45 @@ interface Array<T> {
 * Providing **getLast()** with an object that doesn't include **next**--*or* whose inferred **Value** type argument is the same type--is allowed.
 * Mismatching the provided object's **value** and **next.value**, though is a type error: p. 190
 ```typescript
+interface LinkedNode<Value> {
+  next?: LinkedNode<Value>;
+  value: Value;
+}
+
+function getLzst<Value> ( node: LinkedNode<Value> ): Value {
+  return node.next ? getLast( node.next ) : node.value;
+}
+
+
+// Inferred Value type argument: Date
+let lastDate = getLast( {
+  value:new Date( "09-13-1993" ),
+} );
+
+// 
+
+
+
+
+
+
+
+
 ```
 
+
+
+
+
+
+
+
+
+
+* Later in this chapter, I'll show how to provide default values for type parameters to get around this requirement
 ***
 
-## 10.4 Generic Classes
+## 10.4 Generic Classes p. 191
 ***
 
 ## 10.5 Generic Type Aliases
