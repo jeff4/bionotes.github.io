@@ -2646,11 +2646,31 @@ let incorrectBox: Box<number> = {
 
 }
 ```
-* Fun fact: the built-in **Array**
+* Fun fact: the built-in **Array** methods are defined in TS as a generic interface!
+* **Array** uses a type parameter **T** to represent the data storedwithin an array.
+* Therefore, its **pop()** and **push()** methods look roughly like this:
 
+```typescript
+interface Array<T> {
+  // ...
 
+  /*
+   * Remooves the last element from an array and returns it
+   * If the array is empty, *undefined* is returned and the array
+   * is not modified.
+   */
+   pop(): T | undefined;
 
+  /*
+   * Appends new elements to the end of an array,
+   * and returns the new length of the array
+   * @param items new elements to add to the array.
+   */
+   push( ...items: T[] ): number;
 
+   // ...
+}
+```
 ***
 
 ### 10.3.3 Inferred Generic Types p. 189
