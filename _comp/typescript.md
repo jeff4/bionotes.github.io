@@ -3359,7 +3359,8 @@ JSON.parse(rawData);
 // Type: ["grace", "frankie"]
 JSON.parse(rawData);
 ```
-* **Note: there is an older casting syntax in the textbox at the bottom of p. 173. it should not be used b/c it conflicts with JSX syntax.*** TS best practice is generally to **avoid using type assertions when possible.**
+* **Note: there is an older casting syntax in the textbox at the bottom of p. 173. it should not be used b/c it conflicts with JSX syntax.** 
+* TS best practice is generally to **avoid using type assertions when possible.**
 * It's best for your code to be fully typed and to not need to interfere with TS' understanding of its types using assertions.
 * But occasionally there will be cases where type assertions are useful, even necessary.
 
@@ -3392,6 +3393,49 @@ try {
 ***
 
 ### 9.4.3 Non-null Assertions  p. 175
+* Another common use case for type assertions is to remove *null* and/or *defined* from a variable that only theoretically, not practically, might include them.
+* That situation is so common that TS includes a shorthand for it.
+* Instead of writing out **as** and the full type of whatever a value is excluding **null** and **undefined**, you can use a **!** to signify the same thing.
+* In other words, the **!** non-null assertion asserts that the variable *cannot* be of type *null* or *undefined*.
+* The following two type assertions are identical in that they both result in **Date** and not **Date | undefined**.
+* The following two type assertions are identical in that they both result in **Date** and not **Date | undefined**:
+
+```typescript
+
+// Inferred type: Date | undefined
+let maybeDate = Math.random() > 0.5
+  ? undefined
+  : new Date();
+
+// Asserted type: Date
+maybeDate as Date;
+
+// Asserted type: Date
+maybeDate!;
+```
+* Non-null assertions are particularly useful with APIs such as **Map.get** that return a value or **undefined** if it doesn't exist.
+* Here, **seasonCounts** is a general **Map<string, number>**.
+* We know that it contains an `"I Love Lucy"` key so the **knownValue** variable can use a **!** to remove `| undefined` from its type:
+
+```typescript
+const seasonCounts = new Map([
+  ["I Love Lucy", 6],
+  ["The Golden Girls", 7],
+]);
+
+// Type: string | undefined
+const maybeValue = seasonCounts.get("I Love Lucy");
+
+
+// Error: Object is possibly 'undefined'
+// Type: string
+console.log( maybeValue.toUpperCase() );
+             ^^^^^^^^^^
+
+const knownValue = seasonCounts.get("I Love Lucy")!;
+
+console.log( knownValue.toUpperCase() ); // ok
+```
 
 ***
 
