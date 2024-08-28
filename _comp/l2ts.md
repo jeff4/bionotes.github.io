@@ -2581,7 +2581,7 @@ logWrapper<string>( (input: string) => { /* ... */ } );
 ### 10.2.3 Multiple Function Type Parameters p. 187
 * Functions may define any number of type parameters, separated by commas.
 * Each call of the generic function may resolve its own set of values for each of the type parameters.
-* **Example** p. 187-188, **makeTuple()** declares two type parameters and returns a value typed as a read-only tuple with one, then the other:
+* **Example 1** p. 187-188, **makeTuple()** declares two type parameters and returns a value typed as a read-only tuple with one, then the other:
 
 ```typescript
 function makeTuple<First, Second> ( first: First, second: Second ) {
@@ -2590,13 +2590,30 @@ function makeTuple<First, Second> ( first: First, second: Second ) {
 
 let tuple = makeTuple( true, "abc" ); // Type of value; readonly [boolean, string]
 ```
-* Note that if a function declares multiple type parameters...
+#### 10.2.3.1 Different types for different parameters all input to the same function p. 187-188
+* Note that if a function declares multipe type parameters, calls to that function must explicitly declare either *none* of the generic types or *all* of the generic types.
+* TS does not yet support inferring only *some* of the types of a generic call.
+* **Example 2** p. 188, the **makePair()** also accepts two type parameters. So either *neither* of the parameters are explicitly specified or *both* of them are explicitly specified
+
+```typescript
+function makePair<Key, Value>( key: Key, value: Value ) {
+  return { key, value };
+}
+
+// OK bc neither type argument is provided
+// Type: { key: string; value: number }
+makePair( "abc", 123 );
 
 
+// OK bc both type arguments are provided
+makePair<string, number>( "abc", 123 ); // Type: { key: string; value: number }
+makePair<"abc", 123>( "abc", 123 ); // Type: { key: "abc"; value:   123 }
 
-
-
-
+// Error: Expected 2 type arguments, only received one
+// TS currently only supports *all* parameters with types specified..
+// ...or *none* specified. Can't just have *some* specified.
+makePair<string>( "abc", 123 );
+```
 
 
 
