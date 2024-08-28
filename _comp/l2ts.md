@@ -2728,13 +2728,15 @@ interface CrateLike<T> {
   contents: T;
 }
 
-let missingGeneric: Cratelike {
+let missingGeneric: Cratelike = {
                     ^^^^^^^^^
-
   // Error: Generic type 'Crate<T>' requires 1 type argument inside : ??
+  inside: "??"
+};
 ```
 
-* Later in this chapter, I'll show how to provide default values for type parameters to get around this requirement
+* Later in this chapter, I'll show how to provide default values for type parameters to get around this requirement.
+
 ***
 
 ## 10.4 Generic Classes p. 191
