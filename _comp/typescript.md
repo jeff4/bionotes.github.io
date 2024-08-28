@@ -3397,7 +3397,7 @@ try {
 * That situation is so common that TS includes a shorthand for it.
 * Instead of writing out **as** and the full type of whatever a value is excluding **null** and **undefined**, you can use a **!** to signify the same thing.
 * In other words, the **!** non-null assertion asserts that the variable *cannot* be of type *null* or *undefined*.
-* The following two type assertions are identical in that they both result in **Date** and not **Date \| undefined**.
+* The following two type assertions are identical in that they both result in **Date** and *not* **Date \| undefined**.
 
 ```typescript
 
@@ -3439,8 +3439,34 @@ console.log( knownValue.toUpperCase() ); // ok
 ***
 
 ### 9.4.4 Type Assertion Caveats p. 176
+* Type assertions, like the *any* type, are a necessary escape hatch for TS's type system.
+* Therefore, also like the *any* type, they should be avoided whenever reasonably possible.
+* It is often better to have more accurate types representing your code than it is to make it easier to assert on a value's type.
+* Those assertions are often wrong--either already so at the time of writing, or they become wrong later on as the codebase changes.
+* For example, suppose the **seasonCounts** example were to change over time to have different values in the map.
+* Its non-null assertion might still make the code pass TypeScript type checking, but there might be a runtime error:
+
+```typescript
+const seasonCounts = new Map([
+  ["Broad City", 5],
+  ["Community", 6],
+]);
+
+// Type: string
+const knownValue = seasonCounts.get("I Love Lucy")!;
+
+// No compile-time type error, but...
+// Runtime TypeError: Cannot read property 'toUpperCase' of undefined
+console.log( knownValue.toUpperCase() ); 
+```
+* Type assertions should generally be used sparingly, an donly when you're absolutely certain it is safe to do so.
 
 #### 9.4.4.1 Assertions versus declarations p. 176
+* There is a difference between using a **type annotation** to declare a variable's type *versus* using a **type assertion** to change the type of a variable with an initial value. end of p. 176
+
+
+
+
 
 #### 9.4.4.2 Assertion assignability p. 176
 
