@@ -2723,14 +2723,16 @@ let lastMismatch = getLst( {
 * Note that if an interface declares type parameters, any *type annotations* referring to that interface must provie corresponding type arguments.
 * **Example 3** p. 190-191, the usage of **CrateLike** is *incorrect* for not including a type argument:
 
+```typescript
+interface CrateLike<T> {
+  contents: T;
+}
 
+let missingGeneric: Cratelike {
+                    ^^^^^^^^^
 
-
-
-
-
-
-
+  // Error: Generic type 'Crate<T>' requires 1 type argument inside : ??
+```
 
 * Later in this chapter, I'll show how to provide default values for type parameters to get around this requirement
 ***
