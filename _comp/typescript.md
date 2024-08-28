@@ -3758,17 +3758,32 @@ logWrapper<string> ( (input: boolean) => {
 
 });
 ```
-* Much like explicit type annotations on variables, explicit type arguments
+* Much like explicit type annotations on variables, explicit type arguments may always be specified on a generic function but often aren't necessary.
+* In fact, many TS developers generally only specify them when needed.
+* Example p. 187. The following **logWrapper()** usage explicitly specifies **string** both as a type argument and as a function parameter type. *Either* can be omitted.
 
+```typescript
 
+// Type: (input: string) => void
+logWrapper<string>( (input: string) => { /* ... */ } );
+```
 
-
-
-
+* The **Name<Type>** syntax for specifying a type argument will be the same for other generic constructs throughout this chapter.
 ***
 
-### 10.2.3 Multiple Function Type Parameters
+### 10.2.3 Multiple Function Type Parameters p. 187
+* Functions may define any number of type parameters, separated by commas.
+* Each call of the generic function may resolve its own set of values for each of the type parameters.
+* **Example** p. 187-188, **makeTuple()** declares two type parameters and returns a value typed as a read-only tuple with one, then the other:
 
+```typescript
+function makeTuple<First, Second> ( first: First, second: Second ) {
+  return [first, second] as const;
+}
+
+let tuple = makeTuple( true, "abc" ); // Type of value; readonly [boolean, string]
+```
+* Note that if a function declares multiple type parameters...
 
 
 
