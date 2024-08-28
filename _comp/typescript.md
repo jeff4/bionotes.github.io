@@ -3521,8 +3521,17 @@ let myValueDouble = "1337" as unknown as number; //Ok but... ummmm
 * Using them as an escape hatch from the type system means the type system may not be able to save you when changes to surrounding code would cause an issue with previously working code.
 
 ***
+## 9.5 Const Assertions p. 178
+* Back in Chapter 4, 
+
+
+### 9.5.1 Introduction
+
+**
+### 9.5.2 Literals to Primitives p. 179
+
 ***
-## 9.5 Const Assertions
+### 9.5.3 Read-Only Objects p. 180
 
 ***
 ## 9.6 Summary of Chapter 9
