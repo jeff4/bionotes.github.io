@@ -3463,13 +3463,62 @@ console.log( knownValue.toUpperCase() );
 
 #### 9.4.4.1 Assertions versus declarations p. 176
 * There is a difference between using a **type annotation** to declare a variable's type *versus* using a **type assertion** to change the type of a variable with an initial value. end of p. 176
+* TS's type checker performs assignability checking on a variable's initial value against the variable's type annotation when both exist.
+* **A type assertion *explicitly* tells TS to skip some of its type checking**!
+* The following code creates two objects of type **Entertainer** with the same flaw: a missing *acts* member.
+* TypeScript is able to catch the error in the **declared** variable because of its `: Entertainer` type annotation.
+* It is not able to catch the error on the **asserted** variable because of the type assertion:
 
+```typescript
+interface Entertainer {
+  acts: string[];
+  name: string;
+}
 
+// Error: Property 'acts' is missing in type
+// '{ one: number; }' but required in type
+// 'Entertainer'
+const declare: Entertainer = {
+  name: "Moms Mabley",
+};
 
+const asserted = {
+  name: "Moms Mabley",
+} as Entertainer; // ok, but...
 
+// Both of these statements would fail at runtime with:
+// Runtime TypeError: Cannot read properties of undefined
+// (reading 'toPrecision')
+console.log( declared.acts.join(", ") );
+console.log( asserted.acts.join(", ") );
+```
+* It is therefore strongly preferable to either use a type annotation or allow TS to infer a variable's type from its initial value.
+
+***
 
 #### 9.4.4.2 Assertion assignability p. 176
+* Type assertions are meant to be only a small escape hatch, for situations where some value's type is slightly incorrect.
+* TS will only allow type assertions between two types if one of the types is assignable to the other.
+* If the type assertion is between two completely unrelated types, then TS will notice and report a type error.
 
+* Example p. 177-178
+
+```typescript
+// Error: Conversion of type 'string' to type 
+// 'number' may be a mistake because neither 
+// type sufficiently overlaps with the other. 
+// If this was intentional, convert the 
+// expression to 'unknown' first.
+let myValue = "Stella!" as number;
+```
+* If one absolutely must switch a value from one type to a totally unrelated type, you can use a double type assertion.
+* First cast the value to a top type--**any** or **unknown**--and then cast that result to the unrelated type:
+
+```typescript
+let myValueDouble = "1337" as unknown as number; //Ok but... ummmm
+```
+* `as unknown as...` double type assertions are dangerous and almost always a sign of something incorrect in the types of the surrounding code.
+* Using them as an escape hatch from the type system means the type system may not be able to save you when changes to surrounding code would cause an issue with previously working code.
 
 ***
 ***
