@@ -2699,16 +2699,28 @@ let lastDate = getLast( {
   value:new Date( "09-13-1993" ),
 } );
 
-// 
+// Inferred Value type argument: string
+let lastFruit = getLast( {
+  next: {
+    value: "banana",
+  },
+  value: "apple",
+} );
 
+// Inferred Value type argument: number
+let lastMismatch = getLst( {
+  next: {
+    value: 123
+  },
 
-
-
-
-
-
-
+  // Error: type 'boolean' is not assignable to type 'number'
+  value: false
+  ^^^^^
+} );
 ```
+
+* Note that if an interface declares type parameters, any *type annotations* referring to that interface must provie corresponding type arguments.
+* **Example 3** p. 190-191, the usage of **CrateLike** is *incorrect* for not including a type argument:
 
 
 
