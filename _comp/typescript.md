@@ -3055,6 +3055,7 @@ greetComedianSafety( {} ); // Does not log
 * **Note: one should generally prefer to use *unknown* instead of *any* when possible.**
 
 ***
+## 8/27/2024
 ## 9.2 Type Predicates
 * We've previously seen how JS constructs like *instanceof* and *typeof* can be used to narrow types. But this may get lost within the logic of a function().
 
@@ -3522,13 +3523,40 @@ let myValueDouble = "1337" as unknown as number; //Ok but... ummmm
 
 ***
 ## 9.5 Const Assertions p. 178
-* Back in Chapter 4, 
-
-
 ### 9.5.1 Introduction
+* Back in Chapter 4, we introduced the **as const** syntax for changing a mutable array type into a read-only tuple type.
+* Now let's use something similar!
+* **Const assertions** can generally be used to indicate that any value (e.g., array, primitive, value, etc.) should be treated as a constant, immutable version of itself.
+* Here are the 3 rules that **as const** applies to any type it's applied to:
+	1. Arrays are treated ad **readonly tuples**, *not* mutable arrays.
+	1. Literals are treated as literals, *not* as their general primitive equivalents.
+	1. Properties on objects are considered **readonly**.
+* We've already seen arrays become tuples (see example on p. 179) in Chapter 4. Let's see rules 2 and 3 now.
 
-**
+***
 ### 9.5.2 Literals to Primitives p. 179
+* It can be useful for the type system to understand a literal value to be that specific value, rather than *widening* it to its general primtive.
+* **Example 1**, p. 179. It might be useful for a fuction to be known to produce a specific literal instead of a general primtive.
+	* These functions also return values that can be made more specific.
+	* Here, **getNameConst()**'s return type is the more specific "Maria Bamford" rather than the more general **string**.
+
+```typescript
+
+// Type: () => string
+const getName = () => "Maria Bamford";
+
+// Type: () => "Maria Bamford"
+const getNameConst = () => "Maria Bamford" as const;
+```
+* It may also be useful to have specific fields on a value be more specific literals.
+* Many popular libraries ask that a discriminant field on a value be a specific literal so the types of their code can more specifically make inferences on the value.
+* **Example 2**, p. 179-180, the **narrowJoke** variable has a *style* of type **"one-liner"** instead of **string**. so it can be provided in a location that needs a type **Joke**.
+
+```typescript
+interface Joke {
+
+}
+```
 
 ***
 ### 9.5.3 Read-Only Objects p. 180
