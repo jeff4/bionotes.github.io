@@ -3603,7 +3603,38 @@ tellJoke( wideObject );
 * In contrast, **favoritesConst** is declared with an **as const** so its member values are literals and are not allowed to be modified.
 
 ```typescript
-function describePreference( preference: )
+function describePreference( preference: "maybe" | "no" | "yes" ) {
+  switch(preference) {
+    case "maybe":
+      return "I suppose...";
+    case "no":
+      return "No thanks.";
+    case "yes":
+      return "Yes please!";
+  }
+}
+
+// Type: { movie: string, standup: string )
+const preferencesMutable = {
+  movie: "maybe"
+  standup: "yes",
+};
+
+// Error: Argument of type 'string' is not assignable 
+// to parameter of type '"maybe" | "no" | "yes"'.
+describePreference( perferencesMutable.movie);
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+preferencesMutable.movie= "no"
+
+
+
+
+
+
+
+
 
 
 ```
