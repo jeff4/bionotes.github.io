@@ -3397,8 +3397,7 @@ try {
 * That situation is so common that TS includes a shorthand for it.
 * Instead of writing out **as** and the full type of whatever a value is excluding **null** and **undefined**, you can use a **!** to signify the same thing.
 * In other words, the **!** non-null assertion asserts that the variable *cannot* be of type *null* or *undefined*.
-* The following two type assertions are identical in that they both result in **Date** and not **Date | undefined**.
-* The following two type assertions are identical in that they both result in **Date** and not **Date | undefined**:
+* The following two type assertions are identical in that they both result in **Date** and not **Date \| undefined**.
 
 ```typescript
 
