@@ -2614,14 +2614,24 @@ makePair<"abc", 123>( "abc", 123 ); // Type: { key: "abc"; value:   123 }
 // ...or *none* specified. Can't just have *some* specified.
 makePair<string>( "abc", 123 );
 ```
-
-
-
-
-***
 ***
 
 ## 10.3 Generic Interfaces p. 188
+### 10.3.1 Intro to Generic Interfaces
+
+### 10.3.2 Examples p. 188-189
+
+***
+
+### 10.3.4 Inferred Generic Types p. 189
+* As with generic functions, generic interface type arguments may be inferred from usage. 
+* TS will do its best to infer type arguments from the type of values provided to a location declared as taking in a generic type.
+
+
+#### 10.3.4.1 Examples p. 189 - 191
+* This **getLast()** function declares a type parameter **Value** that is then used for its **node** parameter.
+* TS can then infer **Value** based on the type of whatever value is passed in as an argument.
+
 ***
 
 ## 10.4 Generic Classes
