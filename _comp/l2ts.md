@@ -2618,16 +2618,46 @@ makePair<string>( "abc", 123 );
 
 ## 10.3 Generic Interfaces p. 188
 ### 10.3.1 Intro to Generic Interfaces
+* Interfaces may be declared as generic as well.
+* Similar rules as generic functions. Generic functions may have any number of type parameters declared between angle brackets `<` and `>` after the name of the interface.
+* That generic type may later be used elsewhere in their declaration, such as on member types.
 
 ### 10.3.2 Examples p. 188-189
+* The following **Box** declaration has a **T** type parameter for a property.
+* Creating an objct declared to be a **Box** with a type argument enforces that the **inside: T** property matches that type argument
+
+```typescript
+interface Box<T> {
+  inside: T;
+}
+
+let stringyBox: Box<string> = {
+  inside: "abc",
+};
+
+let numberBox: Box<number> = {
+  inside: 123,
+}
+
+let incorrectBox: Box<number> = {
+
+  //Error: type 'boolean' is not assignable to type 'number'
+  inside: false,
+
+}
+```
+* Fun fact: the built-in **Array**
+
+
+
 
 ***
 
-### 10.3.4 Inferred Generic Types p. 189
+### 10.3.3 Inferred Generic Types p. 189
 * As with generic functions, generic interface type arguments may be inferred from usage. 
 * TS will do its best to infer type arguments from the type of values provided to a location declared as taking in a generic type.
 
-#### 10.3.4.1 Examples p. 189 - 191
+#### 10.3.3.1 Examples p. 189 - 191
 * This **getLast()** function declares a type parameter **Value** that is then used for its **node** parameter.
 * TS can then infer **Value** based on the type of whatever value is passed in as an argument.
 * It can even report a type error when an inferred type argument does not match the type of a value.
