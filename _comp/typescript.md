@@ -3768,7 +3768,7 @@ logWrapper<string> ( (input: boolean) => {
 logWrapper<string>( (input: string) => { /* ... */ } );
 ```
 
-* The **Name<Type>** syntax for specifying a type argument will be the same for other generic constructs throughout this chapter.
+* The **Name\<Type\>** syntax for specifying a type argument will be the same for other generic constructs throughout this chapter.
 
 ***
 
