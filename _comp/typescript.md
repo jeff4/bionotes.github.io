@@ -3616,27 +3616,28 @@ function describePreference( preference: "maybe" | "no" | "yes" ) {
 
 // Type: { movie: string, standup: string )
 const preferencesMutable = {
-  movie: "maybe"
+  movie: "maybe",
   standup: "yes",
 };
 
 // Error: Argument of type 'string' is not assignable 
 // to parameter of type '"maybe" | "no" | "yes"'.
-describePreference( perferencesMutable.movie);
+describePreference( preferencesMutable.movie);
                     ^^^^^^^^^^^^^^^^^^^^^^^^
 
+preferencesMutable.movie= "no"; // ok
 
-preferencesMutable.movie= "no"
+// Type: readonly { readonly movie: "maybe", readonly standup: "yes" }
+const preferencesReadonly = {
+  movie: "maybe",
+  standup: "yes",
+} as const;
 
+describePreference( preferencesReadonly.movie ); // ok
 
-
-
-
-
-
-
-
-
+// Error: Cannot assign to 'movie' because it is a read-only property.
+preferencesReadonly.movie = "no";
+                    ^^^^^
 ```
 
 ***
