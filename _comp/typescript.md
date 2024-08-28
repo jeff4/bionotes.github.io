@@ -3680,13 +3680,59 @@ let value = identity(42); // Type of value: any
 * In all of the constructs covered in this chapter, generics may be declared using angle brackets like `<` and `>`, like so: `someFunction<T>` and `SomeInterface<T>`.
 ***
 
-## 10.2 Generic Functions
+## 10.2 Generic Functions p. 184
+### 10.2.1 Intro
+* A function may be made generic by placing an alias for a type parameter, wrapped in angle brackets `<>`, immediately before the parameters parentheses.
+* That type parameter will then be available for usage in parameter type annotations, return type annotations, and type annotations inside the function's body.
+
+#### 10.2.1 Examples p. 184 - 185
+* The following version of **identity()** declares a type parameter **T** for its **input** parameter, which allows TS to infer that the return type of the function is **T**.
+* TS can then infer a different type for **T** every time **identity()** is called.
+
+```typescript
+function identity<T>( input: T ) {
+  return input;
+}
+
+const numeric = identity( "me" ); // Type: me
+const stringy = identity( 123 ); // Type: 123
+```
+* Arrow functions can also be generic. 
+* Their generic declarations are also placed immediately before the **(** before their list of parameters.
+* The following arrow function is functionally the same as the previous declaration:
+
+```typescript
+const identity = <T>( input: T ) => input;
+identity(123); // Type: 123
+```
+* Warning about syntax clashes in *.tsx and JSX files p. 185
+
+***
+
+### 10.2.2 Explicit Generic Call Types
+* Most of the time when calling generic functions, TS will be able to infer type arguments based on how the functgion is being called.
+* e.g., in the **identity()** functions in the most recent examples above, TS's type checker use an argument provided to **identity()** to infer the corresponding function parameter's type argument.
+* Unfortunately, as with class members and variable types, sometimes there isn't enough information from a function's call to inform TS what its type argument should resolve to.
+* This will commonly happen if a generic construct is provided another generic construct whose type arguments aren't known... p. 185
+
+***
+
+### 10.2.3 Multiple Function Type Parameters
+
+
+
+
+
+
+
+
 
 
 
 ***
+***
 
-## 10.3 Generic Interfaces
+## 10.3 Generic Interfaces p. 188
 ***
 
 ## 10.4 Generic Classes
