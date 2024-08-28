@@ -3639,13 +3639,84 @@ describePreference( preferencesReadonly.movie ); // ok
 preferencesReadonly.movie = "no";
                     ^^^^^
 ```
-
-***
 ## 9.6 Summary of Chapter 9
 
 ***
 
 # Chapter 10: Generics p. 183
+## 8/28/2024
+## 10.1 Introduction p. 183 - 184
+* All the type syntaxes we've learned so far are meant to be used with types that are completely known when they're being written.
+* Someties, however, a piece of code may be intended to work with various different types depending on how it's called.
+
+### 10.1.1 Examples p. 183
+* Consider the below **identity()** function in JS meant to receive an input of any possible type and return that same inpute as output.
+* How would you describe its parameter type and return type?
+
+```typescript
+function identity( input ) {
+  return input;
+}
+
+identity( "abc" );
+identity( 123 );
+identity( {quote: "I think your self emerges more clearly over time."} );
+```
+* We could declare **input** as type **any**. But then the return type of the function would *also* be **any**.
+
+```typescript
+function identity( input: any ) {
+  return input;
+}
+
+let value = identity(42); // Type of value: any
+```
+* Given that **input** is allowed to be any input, we need a way to say that there is a relationship btween the **input** type and the type the function returns.
+* TS captures this kind of relationship between types using **generics**.
+* In TS, constructs such as functions may declare any number of generic **type parameters**: types that are determined for each usage of the generic construct.
+* These *type parameters* are used as types in the construct to represent some type that can be different in each instance of the construct.
+* Type parameters may be provided with different types, referred to as **type arguments**, for each instance of the construct but will remain consistent within that instance.
+* Type Parameters typically have single-letter names like **T** and **U** or PascalCase names like **Key** and **Value**.
+* In all of the constructs covered in this chapter, generics may be declared using angle brackets like `<` and `>`, like so: `someFunction<T>` and `SomeInterface<T>`.
+***
+
+## 10.2 Generic Functions
+
+
+
+***
+
+## 10.3 Generic Interfaces
+***
+
+## 10.4 Generic Classes
+***
+
+## 10.5 Generic Type Aliases
+***
+
+## 10.6 Generic Modifiers
+***
+
+## 10.7 Constrained Generic Types
+***
+
+## 10.8 Promises
+***
+
+## 10.9 Using Generics Right
+***
+
+## 10.10 Summary of Chapter 10
+***
+
+
+
+
+
+
+
+
 
 
 
