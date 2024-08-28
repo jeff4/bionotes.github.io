@@ -3312,22 +3312,70 @@ logRating( "invalid" );
 ***
 
 ## 9.4 Type Assertions
-
 ### 9.4.1 Introduction
+* TS works best when your code is *strongly typed* aka all the values in your code have precisely known types.
+* Features such as top types and type guards provide ways to wrangle complex code into being understood by TS's type checker.
+* However, sometimes it's not reasonably possible to be 100% accurate in telling the type system how your code is meant to work.
+* For example, **JSON.parse** intentionally returns the top type **any**.
+* There's no way to safely inform the type system that a particular string value given to **JSON.parse** should return any particular value type.
+* TS provides a syntax for overriding the type system's understanding of a value's type: a 'type assertion', also known as a **type cast**.
+* On a value that is meant to be a different type, you can place the **as** keyword followed by a type.
+* TypeScript will defer to your assertion and treat the value *as that type*.
+
+#### 9.4.1.1 Example p. 174
+* In this snippet, it is possible that the returned result from **JSON.parse** is meant to be a type such as *string[]*, *[string, string]*, or `["grace", "frankie"]`.
+* The snippet uses type assertions for 3 of the lines of the code to switch the type from **any** to one of these:
+
+```typescript
+const rawData = `["grace", "frankie"]`;
+
+// Type: any
+JSON.parse(rawData);
+
+// Type: string[]
+JSON.parse(rawData) as string[];
+
+// Type: [string, string]
+JSON.parse(rawData) as [string, string];
+
+// Type: ["grace", "frankie"]
+JSON.parse(rawData) as ["grace", "frankie"];
+```
+* Type assertions exist only in the TS type system. As usual, they are removed when transpiled into JS and are not available during runtime.
+* The previous code would like like **this** when compiled:
+
+```typescript
+const rawData = `["grace", "frankie"]`;
+
+// Type: any
+JSON.parse(rawData);
+
+// Type: string[]
+JSON.parse(rawData);
+
+// Type: [string, string]
+JSON.parse(rawData);
+
+// Type: ["grace", "frankie"]
+JSON.parse(rawData);
+```
+* **Note: there is an older casting syntax in the textbox at the bottom of p. 173. it should not be used b/c it conflicts with JSX syntax.*** TS best practice is generally to **avoid using type assertions when possible.**
+* It's best for your code to be fully typed and to not need to interfere with TS' understanding of its types using assertions.
+* But occasionally there will be cases where type assertions are useful, even necessary.
 
 ### 9.4.2 Asserting Caught Error Types p. 174
 
+***
+
 ### 9.4.3 Non-null Assertions  p. 175
 
-### 9.4.2 Type Assertion Caveats p. 176
+***
 
-#### 9.4.2.1 Assertions versus declarations p. 176
+### 9.4.4 Type Assertion Caveats p. 176
 
-#### 9.4.2.2 Assertion assignability p. 176
+#### 9.4.4.1 Assertions versus declarations p. 176
 
-
-
-
+#### 9.4.4.2 Assertion assignability p. 176
 
 
 ***
