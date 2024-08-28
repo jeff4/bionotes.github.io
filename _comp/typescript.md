@@ -3697,7 +3697,7 @@ function identity<T>( input: T ) {
 const numeric = identity( "me" ); // Type: me
 const stringy = identity( 123 ); // Type: 123
 ```
-* Arrow functions can also be generic. 
+* **Arrow functions** can also be generic. 
 * Their generic declarations are also placed immediately before the **(** before their list of parameters.
 * The following arrow function is functionally the same as the previous declaration:
 
@@ -3713,7 +3713,57 @@ identity(123); // Type: 123
 * Most of the time when calling generic functions, TS will be able to infer type arguments based on how the functgion is being called.
 * e.g., in the **identity()** functions in the most recent examples above, TS's type checker use an argument provided to **identity()** to infer the corresponding function parameter's type argument.
 * Unfortunately, as with class members and variable types, sometimes there isn't enough information from a function's call to inform TS what its type argument should resolve to.
-* This will commonly happen if a generic construct is provided another generic construct whose type arguments aren't known... p. 185
+* This will commonly happen if a generic construct is provided another generic construct whose type arguments aren't known.
+* TS will default to assuming the **unknown** type for any type argument it cannot infer.
+* For example, the following **logWrapper** function takes in a callback with a parameter type set to **logWrapper's** type parameter **Input**.
+* TS can infer the type argument if **logWrapper** is called with a callback that explicitly declares its parameter type.
+* If the parameter type is implicit, however, TS has no way of knowing what **Input** should be:
+
+```typescript
+function logWrapper<Input> ( callback: (input: Input) => void ) {
+  return (input: Input) => {
+    console.log("Input: ", input);
+    callback(input);
+  };
+}
+
+// Type: (input: string) => void
+logWrapper( (input: string) => {
+  console.log(input.length);
+});
+
+// Type: (input: unknown) => void
+logWrapper( (input) => {
+
+  // Error: Property 'length' does not exist on type 'unknown'
+  console.log( input.length );
+});
+```
+* To avoid defaulting to **unknown**, functions may be called with an explicit generic type argument that explicitly tells TS what that type argument should be instead.
+* TS will perform type checking on the generic call to make sure the parameter being requested matches up to what's provided as a type argument.
+* In the next example p. 186, the **logWrapper()** seen previously is provided with an explicit **string** for its **Input** generic.
+* TS can then infer that the callback's **input** parameter of generic type **Input** resolves to type **string**:
+
+```typescript
+logWrapper<string> ( (input) => {
+  console.log( input.length );
+});
+
+logWrapper<string> ( (input: boolean) => {
+
+  // Argument of type '(input: boolean) => void' is not
+  // assignable to parameter of type '(input: string) => void'. 
+  // Typesofparameters'input'and'input'areincompatible.
+  // Type 'string' is not assignable to type 'boolean'.
+
+});
+```
+* Much like explicit type annotations on variables, explicit type arguments
+
+
+
+
+
 
 ***
 
