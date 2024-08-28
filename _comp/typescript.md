@@ -3363,7 +3363,31 @@ JSON.parse(rawData);
 * It's best for your code to be fully typed and to not need to interfere with TS' understanding of its types using assertions.
 * But occasionally there will be cases where type assertions are useful, even necessary.
 
+***
 ### 9.4.2 Asserting Caught Error Types p. 174
+* Error handling is another place where type assertions may come in handy.
+* It is generally impossible to know what type a caught error in a **catch** block will be bc the code in the **try** block will be bc the code in the *try* block may unexpectedly throw any object different from what you expect.
+* Furthermore, although JS best practic is to always throw an instance of the **Error** class, some projects instead throw string literals aor other surprising values.
+* If you are *absolutely* confiden that an area of code will only throw an instance of the **Error** class you can use a type assertion to treat a caught assertion as an **Error**.
+* This snippet accesses the *message* property of a caught *error* that it assumes is an instance of the **Error** class:
+
+```typescript
+try  {
+  // ... code may the throw an error ...
+} catch (error) {
+  console.warn( "Oh no!", (error as Error).message );
+}
+```
+* It is generally safer to use a form of type narrowing such as an *instanceof* check to ensure the thrown error is the expected error type.
+* This snippet checks whether the thrown error is an instance of the **Error** class to know whether to log that message or the error itself:
+
+```typescript
+try {
+  // ... code may the throw an error ...
+} catch(error) {
+  console.warn( "Oh no!", (error instanceof Error ? error.message: error);
+}
+```
 
 ***
 
