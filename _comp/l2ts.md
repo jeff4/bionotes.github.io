@@ -3095,15 +3095,51 @@ let implicit: Quote = { value: "Be yourself. The world worships the original."
 let mismatch: Quote = { value: 123 };
                                ^^^
 ```
-* Type parameters can default to earlier type parameters in the same declaration too...
+* Type parameters can default to earlier type parameters in the same declaration too. Since each type parameter introduces a new type for the declaration, they are available for defaults for later parameters in that declaration.
 
-* **Example 2** p. 200, the **KeyValuePair** type can have different types for its **Key** and **Value** generics but defaults to keeping them the same--though because **Key** doesn't have a default, it does...
+* **Example 2** p. 200, the **KeyValuePair** type can have different types for its **Key** and **Value** generics but defaults to keeping them the same--though because **Key** doesn't have a default, it does still need to be inferrable or provided:
 
 ```typescript
+interface KeyValuePair<Key, Value = Key> {
+  key: Key;
+  value: Value;
+}
+
+// Type: KeyValuePair<string, string>
+let allExplicit: KeyValuePair<string, number> = {
+  key: "rating",
+  value: 10,
+};
+
+
+// Type: KeyValuePair<string>
+let oneDefaulting: KeyValuePair<string> = {
+  key: "rating",
+  value: "ten",
+};
+
+
+// Note ERROR because there was no generic <argument> with either
+// one argument <string>, e.g., KeyValuePair<string> or..
+// two arguments <string, number>, e.g., KeyValuePair<string, number> 
+let firstMissing: KeyValuePair = {
+                  ^^^^^^^^^^^
+  key: "rating",
+  value: 10,
+};
 ```
-* **Example 3** p. 200
+
+* Keep in mind that all default type parameters must come last in their declaration list, similar to default function parameters.
+* Generic types without a default may *not* follow generic types with a default.
+* **Example 3** p. 200. Here, **inTheEnd** is allowed because all generic types without defaults come...
+
 
 ```typescript
+function inTheEnd<First, Second, Third = number, Fourth = string> () {} //ok...
+
+...
+
+
 ```
 
 
