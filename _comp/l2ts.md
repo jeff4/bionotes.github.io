@@ -3185,10 +3185,21 @@ logWithLength( new Date() )
 
 ### 10.7.3 keyof and Constrained Type Parameters p. 202
 * The **keyof** operator introduced in Chapter 9 also works well with constrained type parameters.
-* Using **extends** and **keyof** together
+* Using **extends** and **keyof** together allows a type parameter to be constrained to the keys of a previous type parameter.
+* It is also the **only way to specify the key of a generic type**.
 
 
 #### 10.7.3.1 Examples 1+2
+* **Example 1**, p. 202. Consider this simplified version of the **get()** method from the popular JS library *Lodash*.
+* It takes in a container value, typed as **T**, and a **key** name of one of the keys of **T** to retrieve from **container**.
+* B/c the **Key** type parameter is constrained to be a **keyof T**, TS knows this function is allowed to return **T[Key]**.
+
+```typescript
+function get<T, Key extends keyof T>( container: T, key: Key ) {
+  return container[key];
+}
+
+```
 
 ***
 
