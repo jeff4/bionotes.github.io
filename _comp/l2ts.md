@@ -2830,6 +2830,41 @@ new CurriedCallback<string>( (input: boolean) => {
 ***
 
 ### 10.4.3 Extending Generic Classes p. 193
+#### 10.4.3.1 Intro
+* Generic classes can be used as the base class following an **extends** keyword.
+* TS will not attempt to infer arguments for the base class from usage.
+* Any type arguments *without* defaults will need to be specified using an explicit type annotation.
+
+#### 10.4.3.1 Examples
+* **Example 1** p. 193-194, the following **SpokenQuote** class provides **string** as the **T** type argument for its base class **Quote<T>**:
+
+```typescript
+class Quote<T> {
+  lines: T;
+
+  constructor( lines: T ) {
+    this.lines = lines;
+  }
+}
+
+class SpokenQuote extends Quote<string[]> {
+  speak() {
+    console.log( this.lines.join("\n") );
+  }
+}
+
+// Type: string
+new Quote( "The only real failure is the failure to try." ).lines; 
+
+// Type: number[]
+new Quote( [4,8,15,16,23,42] ).lines; 
+
+new SpokenQuote(
+}
+
+
+```
+
 
 ***
 
