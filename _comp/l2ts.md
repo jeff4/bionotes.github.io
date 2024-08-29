@@ -3238,11 +3238,23 @@ const found = get( roles, "favorite" );
 
 ## 10.8 Promises p. 203
 ### 10.8.1 Intro
-
+* Promises are a core fature of modern JS--and they rely on some of what generics in TS offer!
+* To review, a **Promise** in JS represents something that might still be pending, such as a network request.
+* Each Promise provides methods to register *callbacks* in case the pending action **resolves** (aka completes successfully) or **rejects** (throws an error).
+* A Promise's ability to represent similar actions on any arbitrary value types is a natural fit for TS's generics.
+* Promises are repesented in the TS type system as a **Promise class** with a single type parameter representing the the eventual resolved value.
 ***
 
 ### 10.8.2 Creating Promises p. 203
+* The *Promise* constructor is typed in TS as taking in a *single* parameter.
+* That parameter's type type relies on a type parameter declared on the generic **Promise** class.
 #### 10.8.2.1 Example 2 p. 204
+* A reduced form would look something like this:
+
+```typescript
+  class PromiseLike<Value> {
+
+```
 
 ***
 
