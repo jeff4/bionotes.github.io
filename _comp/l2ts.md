@@ -2859,13 +2859,37 @@ new Quote( "The only real failure is the failure to try." ).lines;
 // Type: number[]
 new Quote( [4,8,15,16,23,42] ).lines; 
 
-new SpokenQuote(
+// Type: string[]
+new SpokenQuote([
+  "Greed is so destructive.",
+  "It destroys everything",
+]).lines; 
+
+// Error: Argument of type 'number' is not 
+// assignable to parameter of type 'string'.
+new SpokenQuote( [4,8,15,16,23,42] );
+                 ^^^^^^^^^^^^^^^^^
+```
+* Generic derived classes can alternately pass their own type argument through to their base class.
+* The type names don't have to match. Just for fun, see **Example 2**, p. 194 below
+
+```typescript
+class AttributedQuote<Value> extends Quote<Value> {
+  speaker: string
+
+  constructor( value: Value, speaker: string ) {
+    super(value);
+    this.speaker = speaker;
+  }
 }
 
-
+// Type: AttributedQuote<string>
+// (extending Quote<string>)
+new AttributedQuote( 
+  "The road to success is always under construction.",
+  "Lily Tomlin",
+);
 ```
-
-
 ***
 
 ### 10.4.4 Implementing Generic Interfaces p. 194
