@@ -3029,7 +3029,42 @@ creator = text => text.toUpperCase();
 * My favorite use of discriminated unions is to add a type argument to create a generic "result" type that represents eitehr a successful result (with data) or a failure (with an error).
  
 #### 10.5.2.1 Example p. 198
-* This **Result** generic type...
+* This **Result** generic type features a **succeeded** discriminant that must be used to narrow a result to whether its a success or failure.
+* This means any operation that returns a **Result** can indicate an error or data result, and be assured that any consumers will need to check whether the result succeed.
+
+```typescript
+
+type Result<Data> = FailureResult | SuccessfulResult<Data>;
+
+interface FailureResult {
+  error: Error;
+  succeeded: false;
+}
+
+interface SuccessfulResult<Data> {
+  data: Data;
+  succeeded: true;
+}
+
+function handleResult( result: Result<string> ) {
+  if (result.succeeded) {
+
+    // Type of result: SuccessfulResult<string>
+    console.log( `We did it! ${result.data}` );
+
+  } else {
+
+    // Type of result: FailureResult
+    console.error(`Awww... ${result.error}`);
+  }
+
+  // Error: Property 'data' does not exist on type 'Result<string>'. 
+  // Property 'data' does not exist on type 'FailureResult'.
+  result.data;
+         ^^^^
+}
+```
+* Put together, generic types and discriminated types provide a wonderful way to model reusable types like **Result**.
 
 ***
 
