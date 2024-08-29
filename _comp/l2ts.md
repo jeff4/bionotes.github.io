@@ -3199,6 +3199,28 @@ function get<T, Key extends keyof T>( container: T, key: Key ) {
   return container[key];
 }
 
+const roles = {
+  favorite: "Fargo",
+  others: ["Almost Famous", "Burn After Reading", "Nomadland"], 
+};
+
+// Type: string
+const favorite = get( roles, "favorite" );
+
+// Type: string[]
+const others = get( roles, "others" ); 
+
+// Error: Argument of type '"extras"' is not assignable 
+// to parameter of type '"favorite" | "others"'.
+const missing = get( roles, "extra" );
+                            ^^^^^^^
+```
+* Without **keyof**, there would have been no way to correctly type the generic **key** parameter.
+* Note the importance of the **Key** type parameter in the previous example.
+* If only **T** is provided as a type parameter, and the **key** parameter is allowed to be any **keyof T**, then the return type will be the union type of all property values in **Container**.
+* **Example 2** p. 202-203, this less-specific function declaration doesn't indicate to TS that each call can have a specific **key** via a type argument:
+
+```typescript
 ```
 
 ***
