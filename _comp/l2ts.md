@@ -2969,22 +2969,63 @@ const stringPair = factory.createPair("Sophie");
 * The static method is not able to access the instance **OnInstance** b/c **OnInstance** is declared for class instances.
 
 ```typescript
+class BothLogger<OnInstance> {
+  instanceLog( value: OnInstance ) {
+    console.log(value);
+    return value;
+  }
+
+  static staticLog<OnStatic>( value: OnStatic ) {
+
+    // Error: Static members cannot reference class type arguments
+    let fromInstance: OnInstance;
+                      ^^^^^^^^^^
+    console.log(value);
+    return value;
+  }
+}
+
+const logger = new BothLogger<number[]>;
+
+// Type: number[] 
+logger.instanceLog([1, 2, 3]); 
+
+// Inferred OnStatic type argument: boolean[]
+BothLogger.staticLog([false, true]);
+
+// Explicit OnStatic type argument: string
+BothLogger.staticLog<string>("You can't change the music of your soul.");
 ```
 
 ***
 
-
-
-
-
-
-
-***
-
 ## 10.5 Generic Type Aliases p. 197
+
+### 10.5.1 Intro
+
+### 10.5.2 Generic Discriminated Unions p. 198
+
 ***
 
 ## 10.6 Generic Modifiers
+* TS includes syntax that allows you to modify the behavior of generic type parameters.
+
+### 10.6.1 Generic Defaults
+#### 10.6.1.1 Intro
+* I've stated so far that if a generic type is used in a type annotation or as the base of a class that *extends* or *implements*, it must provide a type argument for *each* type parameter.
+* One can avoid explicitly providing type arguments by placing an `=` equals sign followed by a default type after the type parameter's declaration.
+* The default will be used in any subsequent type where the type argument isn't explicitly declared and can't be inferred.
+
+#### 10.6.1.2 Examples 1, 2, 3 p. 199-200
+* **Example 1** p. 199
+
+* **Example 2** p. 200
+
+* **Example 3** p. 200
+
+
+
+
 ***
 
 ## 10.7 Constrained Generic Types
