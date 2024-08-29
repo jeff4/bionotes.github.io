@@ -3221,11 +3221,35 @@ const missing = get( roles, "extra" );
 * **Example 2** p. 202-203, this less-specific function declaration doesn't indicate to TS that each call can have a specific **key** via a type argument:
 
 ```typescript
+function get<T>( container: T, key: keyof T ) {
+  return container[key];
+}
+
+const roles = {
+  favorite: "Fargo",
+  others: [ "Almost Famous", "Burn After Reading", "Nomadland" ],
+};
+
+// Type: string | string[]
+const found = get( roles, "favorite" );
 ```
 
 ***
 
 ## 10.8 Promises p. 203
+### 10.8.1 Intro
+
+***
+
+### 10.8.2 Creating Promises p. 203
+#### 10.8.2.1 Example 2 p. 204
+
+***
+
+### 10.8.3 Async Functions p. 204-205
+#### 10.8.3.1 Examples 1+2, p. 205
+
+
 ***
 
 ## 10.9 Using Generics Right p. 206 - 209
