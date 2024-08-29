@@ -3078,9 +3078,27 @@ function handleResult( result: Result<string> ) {
 * The default will be used in any subsequent type where the type argument isn't explicitly declared and can't be inferred.
 
 #### 10.6.1.2 Examples 1, 2, 3 p. 199-200
-* **Example 1** p. 199
+* **Example 1** p. 199, here the **Quote** interface takes in a **T** type parameter that defaults to **string** if not provided.
+* The **explicit** variable explicitly sets **T** to a **number** while **implicit** and **mismatch** both resolve to **string**.
 
-* **Example 2** p. 200
+```typescript
+interface Quote<T = string> {
+  value: T;
+}
+
+let explicit: Quote<number> = { value: 123 };
+
+let implicit: Quote = { value: "Be yourself. The world worships the original."
+};
+
+// Error: Type 'number' is not assignable to type 'string'.
+let mismatch: Quote = { value: 123 };
+                               ^^^
+```
+* Type parameters can default to earlier type parameters in the same declaration too...
+
+* **Example 2** p. 200, the **KeyValuePair** type can have different types for its **Key** and **Value** generics but defaults to keeping them the same--though because **Key** doesn't have a default, it does...
+
 
 * **Example 3** p. 200
 
