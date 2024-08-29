@@ -3000,10 +3000,36 @@ BothLogger.staticLog<string>("You can't change the music of your soul.");
 ***
 
 ## 10.5 Generic Type Aliases p. 197
-
 ### 10.5.1 Intro
+* One last construct in TS that can be made generic is **type aliases**.
+* Each type alias may be given any number of type parameters, such as this **Nullish** type receiving a **T**:
+
+```typescript
+type Nullish<T> = T | null | undefined;
+```
+
+* Generic type aliases are commonly used with functions to describe the type of a generic function.
+
+```typescript
+type CreatesValue<Input, Output> = (input: Input) => Output; 
+
+// Type: (input: string) => number
+let creator: CreatesValue<string, number>; 
+
+creator = text => text.length; // Ok
+
+// Error: Type 'string' is not assignable to type 'number'.
+creator = text => text.toUpperCase();
+                  ^^^^^^^^^^^^^^^^^^
+```
 
 ### 10.5.2 Generic Discriminated Unions p. 198
+* I mentioned back in Chapter 4 that discriminated unions are my favorite feature in all of TS.
+* Discriminated unions beautifully combine a common elegant JS pattern with TS's type narrowing.
+* My favorite use of discriminated unions is to add a type argument to create a generic "result" type that represents eitehr a successful result (with data) or a failure (with an error).
+ 
+#### 10.5.2.1 Example p. 198
+* This **Result** generic type...
 
 ***
 
