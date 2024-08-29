@@ -2767,12 +2767,66 @@ const storage = new Secret( 1234, "luggage" ); // Type: Secret<number, string>
 
 storage.getValue(1987); // Type: string | undefined
 ``` 
-* As with Generic interfaces, type annotations using a class must indicate to TS what any generic types on that class are.3
+* As with Generic interfaces, **type annotations** using a class must indicate to TS what any generic types on that class are.
 
 ***
 
 ### 10.4.2 Explicit Generic Class Types p. 192
+* Instantiating generic classes goes by the same type arguments inference rules as calling generic functions.
+* If the type argument can be inferred from the type of a parameter to the class constructor, such as the **new Secret( 12345, "luggage" )** earlier, TS will used the inferred type.
+* Otherwise, if a class type argument can't be inferred from the arguments passed to its constructor, the type argument will default to **unknown**.
 
+#### 10.4.2.1 Examples p. 192-193
+* **Example 1** p. 192 below **CurriedCallback** class declares a constructor that takes in a generic function.
+* If the generic function has a known type--such as from an explicit type argument type annotation--then the class instance's **Input** type argument can be informed by it.
+* Otherwise, the class instance's **Input** type argument will default to **unknown**.
+
+```typescript
+class CurriedCallback<Input> {
+  #callback: ( input: Input ) => void;
+
+  constructor( callback: (input: Input) => void ) {
+    this.#callback = ( input: Input ) => {
+      console.log( "Input: ", input);
+      callback( input );
+    };
+  }
+
+  call( input: Input ) {
+    this.#callback( input );
+  }
+}
+
+// Type: CurriedCallback<string>
+new CurriedCallback( (input: string) => {
+  console.log( input.length );
+});
+
+// Type: CurriedCallback<unknown>
+new CurriedCallback( (input) => {
+  // Error: Property 'length' does not exist on type 'unknown'
+  console.log( input.length );
+                     ^^^^^^
+});
+```
+* Class instances may also avoid defaulting to **unknown** by providing explicit type argument(s) the same way other generic function calls do.
+* **Example 2** p. 193, **CurriedCallback** from before is now being provided with an explicit **string** for its **Input** type argument, so TS can infer that the callback's **Input** type parameter resolves to **string**:
+
+```typescript
+
+// Type: CurriedCallback<string>
+new CurriedCallback<string>( (input) => {
+  console.log( input.length );
+});
+
+// Argument of type '(input: boolean) => void' is not
+// assignable to parameter of type '(input: string) => void'. 
+// Types of parameters 'input' and 'input' are incompatible. 
+// Type 'string' is not assignable to type 'boolean'.
+new CurriedCallback<string>( (input: boolean) => {
+  ...
+}
+```
 ***
 
 ### 10.4.3 Extending Generic Classes p. 193
