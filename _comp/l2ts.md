@@ -2937,12 +2937,39 @@ class IncorrectExtension implements ActingCredit<string> {
 * The return type for **createPair()** is then inferred to be **{ key: Key, value: Value }**.
 
 ```typescript
+class CreatePairFactory<Key> {
+  key: Key;
 
+  constructor( key: Key ) {
+    this.key = key;
+  }
+
+  createPair<Value>( value: Value ) {
+    return { key: this.key, value };
+  }
+}
+
+ // Type: CreatePairFactory<string>
+const factory = new CreatePairFactory("role"); 
+
+// Type: { key: string, value: number }
+const numberPair = factory.createPair(10); 
+
+// Type: { key: string, value: string }
+const stringPair = factory.createPair("Sophie");
 ```
 
 ***
 
 ### 10.4.6 Static Class Generics p. 197
+* Static members of a class are separate from instance members and aren't associated with any particular instance of the class.
+* They dont' have access to any class instances or type information specific to any class instance.
+* As a result, while static class methods can declare their own type parameters, they cannot access any type parameters declared on a class.
+* **Example** p. 196-197, a **BothLogger** class declares an **OnInstance** type parameter for its **instanceLog()** method and a separate **OnStatic** type parameter for its static **staticLog()** method.
+* The static method is not able to access the instance **OnInstance** b/c **OnInstance** is declared for class instances.
+
+```typescript
+```
 
 ***
 
