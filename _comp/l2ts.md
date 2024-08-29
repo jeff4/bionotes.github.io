@@ -2740,9 +2740,66 @@ let missingGeneric: Cratelike = {
 ***
 
 ## 10.4 Generic Classes p. 191
+* Classes, like interfaces, can also declare several type parameters that will apply to members.
+* Each instance of the class may have a **different set of type arguments** for its type parameters.
+
+### 10.4.1 Example p. 191
+* This **Secret** class declares **Key** and **Value** type parameters, then uses them for member properties, constructor parameter types, and a method's parameter and return types:
+
+```typescript
+class Secret<Key, Value> {
+  key: Key;
+  value: Value;
+
+  constructor( key: Key, value: Value ) {
+    this.key = key;
+    this.value = value;
+  }
+
+  getValue( key: Key ): Value | undefined {
+    return this.key === key
+      ? this.value
+      : undefined;
+  }
+}
+
+const storage = new Secret( 1234, "luggage" ); // Type: Secret<number, string>
+
+storage.getValue(1987); // Type: string | undefined
+``` 
+* As with Generic interfaces, type annotations using a class must indicate to TS what any generic types on that class are.3
+
 ***
 
-## 10.5 Generic Type Aliases
+### 10.4.2 Explicit Generic Class Types p. 192
+
+***
+
+### 10.4.3 Extending Generic Classes p. 193
+
+***
+
+### 10.4.4 Implementing Generic Interfaces p. 194
+
+***
+
+### 10.4.5 Method Generics p. 196
+
+***
+
+### 10.4.6 Static Class Generics p. 197
+
+***
+
+
+
+
+
+
+
+***
+
+## 10.5 Generic Type Aliases p. 197
 ***
 
 ## 10.6 Generic Modifiers
