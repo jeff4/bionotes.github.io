@@ -3131,31 +3131,74 @@ let firstMissing: KeyValuePair = {
 
 * Keep in mind that all default type parameters must come last in their declaration list, similar to default function parameters.
 * Generic types without a default may *not* follow generic types with a default.
-* **Example 3** p. 200. Here, **inTheEnd** is allowed because all generic types without defaults come...
-
+* **Example 3** p. 200. Here, **inTheEnd** is allowed because all generic types without defaults come before generic types without defaults.
+* **inTheMiddle** is a problem because a generic type without a default follows types with defaults
 
 ```typescript
-function inTheEnd<First, Second, Third = number, Fourth = string> () {} //ok...
+function inTheEnd<First, Second, Third = number, Fourth = string> () {} //ok
 
-...
+// Error: Required type parameters may not follow optional type parameters
+function inTheMiddle<First, Second = boolean, Third = number, Fourth>() { }
+                                                              ^^^^^^
+```
+***
 
+## 10.7 Constrained Generic Types p. 201
+### 10.7.1 Intro
+* Generic types by default can be given any type in the world: classes, interfaces, primitives, unions, etc.
+* However, some functions are only meant to work for a limited set of types.
+* TS allows for a type parameter to declare itself as needing to *extend* at type: meaning it's only allowed to alias types that are assignable to that type.
+* The syntax to constrain a type parameter is to place the *extends* keyword after the type parameter's name, followed by a type to constrain it to.
 
+### 10.7.2 Example p. 201
+* For example, by creating a **WithLength** interface to describe anything that has a **length: number**, we can then allow our generic functions to take in any type that has a **length** for its **T** generic.
+* Strings, arrayus, and now even objects that just os happen to have a **length: number** are allowed, while type shapes such as **Date** missing that numeric **length** result in a type error.
+
+```typescript
+interface WithLength {
+  length: number;
+}
+
+function logWithLength<T extends WithLength>( input: T ) {
+  console.log( `Length: ${ input.length }` );
+  return input;
+}
+
+// Type: string
+logWithLength( "No one can figure out your worth but you." );
+
+// Type: boolean[]
+logWithLength( [false, true] ); 
+
+// Type: { length: number }
+logWithLength( { length: 123 } );
+
+// Error: Argument of type 'Date' is not
+// assignable to parameter of type 'WithLength'.
+//   Property 'length' is missing in type
+//   'Date' but required in type 'WithLength'.
+logWithLength( new Date() )
+               ^^^^^^^^^
 ```
 
+***
 
+### 10.7.3 keyof and Constrained Type Parameters p. 202
+* The **keyof** operator introduced in Chapter 9 also works well with constrained type parameters.
+* Using **extends** and **keyof** together
+
+
+#### 10.7.3.1 Examples 1+2
 
 ***
 
-## 10.7 Constrained Generic Types
+## 10.8 Promises p. 203
 ***
 
-## 10.8 Promises
+## 10.9 Using Generics Right p. 206 - 209
 ***
 
-## 10.9 Using Generics Right
-***
-
-## 10.10 Summary of Chapter 10
+## 10.10 Summary of Chapter 10 p. 208
 ***
 
 
