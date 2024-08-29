@@ -3099,9 +3099,12 @@ let mismatch: Quote = { value: 123 };
 
 * **Example 2** p. 200, the **KeyValuePair** type can have different types for its **Key** and **Value** generics but defaults to keeping them the same--though because **Key** doesn't have a default, it does...
 
-
+```typescript
+```
 * **Example 3** p. 200
 
+```typescript
+```
 
 
 
