@@ -3243,6 +3243,7 @@ const found = get( roles, "favorite" );
 * Each Promise provides methods to register *callbacks* in case the pending action **resolves** (aka completes successfully) or **rejects** (throws an error).
 * A Promise's ability to represent similar actions on any arbitrary value types is a natural fit for TS's generics.
 * Promises are repesented in the TS type system as a **Promise class** with a single type parameter representing the the eventual resolved value.
+
 ***
 
 ### 10.8.2 Creating Promises p. 203
@@ -3280,11 +3281,23 @@ const resolvesString = new Promise<string>( (resolve) => {
 * A Promise's generic **.then()** method introduces a new type parameter representing the resolved value of the Promise it returns.
 * **Example 3** p. 205
 
+```typescript
+// Type: Promise<string>
+const textEventually = new Promise<string>( (resolve) => {
+  setTimeout( () => resolve( "Done!" ), 1000);
+});
+
+// Type: Promise<number>
+const lengthEventurally = textEventually.then( (text) => text.length );
+```
 
 ***
 
 ### 10.8.3 Async Functions p. 204-205
 #### 10.8.3.1 Examples 1+2, p. 205
+* Any function declared in JS with the **async** keyword returns a **Promise**.
+* If a value returned by an **async** function in JS isn't a *Thenable* (an object with a **.then()** method; in practice almost always a Promise), it will be wrapped in a **Promise** as if **Promise.resolve** was called on it.
+
 
 
 ***
