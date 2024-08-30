@@ -3336,8 +3336,17 @@ async function givesString(): string {
 
 ***
 
-## 10.9 Using Generics Right p. 206 - 209
-### Intro p. 207
+## 10.9 Using Generics Right p. 205 - 209
+### 10.9.1 Intro p. 206
+
+***
+
+### 10.9.2 The Golden Rule of Generics p. 206
+
+***
+
+### 10.9.3 Generic Naming Conventions p. 207
+
 ***
 
 ## 10.10 Summary of Chapter 10 p. 208
