@@ -3294,10 +3294,29 @@ const lengthEventurally = textEventually.then( (text) => text.length );
 ***
 
 ### 10.8.3 Async Functions p. 204-205
-#### 10.8.3.1 Examples 1+2, p. 205
 * Any function declared in JS with the **async** keyword returns a **Promise**.
 * If a value returned by an **async** function in JS isn't a *Thenable* (an object with a **.then()** method; in practice almost always a Promise), it will be wrapped in a **Promise** as if **Promise.resolve** was called on it.
+* TS recognizes tis and will infer the return type of an **async** function to always be a **Promise** for whatever value is returned.
 
+***
+#### 10.8.3.1 Examples 1+2, p. 205
+* **Example 1** p. 205, the **lengthAfterSecond()** returns a **Promise<number>** directly. 
+* while **lengthImmediately()** is inferred a **Promise<number>**, because it is **async** and directly returns a number.
+
+```typescript
+
+// Type: (text: string) => Promise<number>
+async function lengthAfterSecond( text: string ) {
+  await new Promise( (resolve) => setTimeout( resolve, 1000) )
+  return text.length;
+}
+
+// Type: ( text: string ) => Promise<number>
+async function lengthImmediately( text: string ) {
+  return text.length;
+}
+```
+* **Example 2** p. 205--Any manually declared return type
 
 
 ***
