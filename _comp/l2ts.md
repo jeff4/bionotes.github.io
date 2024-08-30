@@ -3248,14 +3248,25 @@ const found = get( roles, "favorite" );
 ### 10.8.2 Creating Promises p. 203
 * The *Promise* constructor is typed in TS as taking in a *single* parameter.
 * That parameter's type type relies on a type parameter declared on the generic **Promise** class.
-#### 10.8.2.1 Example 2 p. 204
-* A reduced form would look something like this:
+#### 10.8.2.1 Example 1,2, and 3 p. 204
+* **Example 1** p. 204 -205 A reduced form would look something like this:
 
 ```typescript
-  class PromiseLike<Value> {
-
+class PromiseLike<Value> {
+  constructor(
+    executor: (
+      resolve: ( value: Value ) => void,
+      reject: ( reason: unknown ) => void,
+      ) => void,
+  ) { /* ... */ }
+}
 ```
+* Creating a Promise intended to eventually resolve with a value generallyl necessitates explicitly declaring the type argument of the Promise.
+* TS would default to assuming the parameter type is **unknown** without that explicit generic type argument.
+* **Example 2** p. 205 Explicitly providing a type argument to the **Promise** constructor would allow TS to understand the resultant Promise instance's resolved type:
 
+```typescript
+```
 ***
 
 ### 10.8.3 Async Functions p. 204-205
