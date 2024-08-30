@@ -3338,10 +3338,39 @@ async function givesString(): string {
 
 ## 10.9 Using Generics Right p. 205 - 209
 ### 10.9.1 Intro p. 206
+* As in the **Promise<Value>** implementations earlier in this chapter, although generics can give us a lot of flexibility in describing types in code, they can become complex quickly.
+* Programmers new to TS frequently go through a phase of **overusing generics** to the point of making code confusing to read and overly complex to work with.
+* TS best practice is generally to use generics only when necessary!
+* **Warning!** Most code one writes in TS should *not* heavily use generics to the point of confusion.
+	* However, **types for utility libraries**, particularly general-use modules, may sometimes need to heavily use them.
+	* **Understanding generics is particularly useful to be able to work with types in *utility libraries*.**
 
 ***
 
 ### 10.9.2 The Golden Rule of Generics p. 206
+* One quick test that can help decide whether a type parameter is necessary for a function is it should be used at least twice.
+* Generics describe relationships between types, so if a generic type parameter only appears in one place, it can't possibly defining a relationship between types.
+* Each function type parameter should be used for a parameter and then also for at least one other parameter and/or the return type of the function.
+
+#### 10.9.2.1 Examples 1+2, p. 206-207
+* **Example 1**, this **logInput()** function uses its **Input** type parameter exactly once, to declare its **input** parameter:
+
+```typescript
+function logInput<Input extends string>( input: Input ) {
+  console.log( "Hello!", input);
+}
+```
+* Unlike the *identify()* functions earlier in Chapter 10, **logInput()** doesn't do anything with its type parameters such as returning or declaring more parameters.
+* There is therefore not much use to declaring that **Input** type parameter.
+* **Example 2** p. 206-207--let's rewrite *logInput()** without it:
+
+```typescript
+function logInput( input: string ) {
+  console.log( "Hello!", input)
+}
+```
+* *Effective Typescript* by Dan Vanderkam (O'Reilly, 2019) contains several..
+
 
 ***
 
