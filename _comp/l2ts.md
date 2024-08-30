@@ -3369,13 +3369,18 @@ function logInput( input: string ) {
   console.log( "Hello!", input)
 }
 ```
-* *Effective Typescript* by Dan Vanderkam (O'Reilly, 2019) contains several..
-
+* ***Effective Typescript** by Dan Vanderkam (O'Reilly, 2019)* contains several excellent tips for how to work with generics.
+* In particular, check out the section titled *The Golden Rule of Generics*. 
 
 ***
 
 ### 10.9.3 Generic Naming Conventions p. 207
+* The standard naming convention for type parameters in many languages, TS, included, is to default to calling a first type argument **T** (i.e., *type* or *template*).
+* The, any subsequent type parameters are named **U**, **V**, **W**, etc.
+* If some contextual information is known...
 
+
+#### 10.9.3.1 Examples 1+2, p. 207
 ***
 
 ## 10.10 Summary of Chapter 10 p. 208
