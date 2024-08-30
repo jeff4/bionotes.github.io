@@ -3316,12 +3316,28 @@ async function lengthImmediately( text: string ) {
   return text.length;
 }
 ```
-* **Example 2** p. 205--Any manually declared return type
+* **Example 2** p. 205--Any manually declared return type on an **async** function therefore must always be a **Promise** type...
+* ...even if the function doesn't explicitly mention Promises in its implementation:
 
+```typescript
+
+//Ok
+async function givesPromiseForString(): Promise<string> {
+  return "Done!";
+}
+
+// Error: The return type of an async function 
+// or method must be the global Promise<T> type.
+async function givesString(): string {
+                              ^^^^^^
+  return "Done!";
+}
+```
 
 ***
 
 ## 10.9 Using Generics Right p. 206 - 209
+### Intro p. 207
 ***
 
 ## 10.10 Summary of Chapter 10 p. 208
