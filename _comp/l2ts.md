@@ -3266,7 +3266,21 @@ class PromiseLike<Value> {
 * **Example 2** p. 205 Explicitly providing a type argument to the **Promise** constructor would allow TS to understand the resultant Promise instance's resolved type:
 
 ```typescript
+// Type: Promise<unknown>
+const resolvesUnknown = new Promise( (resolve) => {
+  setTimeout( () => resolve( "Done!" ), 1000 );
+});
+
+// Type: Promise<string>
+const resolvesString = new Promise<string>( (resolve) => {
+  setTimeout( () => resolve( "Done!" ), 1000);
+});
+
 ```
+* A Promise's generic **.then()** method introduces a new type parameter representing the resolved value of the Promise it returns.
+* **Example 3** p. 205
+
+
 ***
 
 ### 10.8.3 Async Functions p. 204-205
