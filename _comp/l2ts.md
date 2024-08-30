@@ -3351,6 +3351,8 @@ async function givesString(): string {
 * One quick test that can help decide whether a type parameter is necessary for a function is it should be used at least twice.
 * Generics describe relationships between types, so if a generic type parameter only appears in one place, it can't possibly defining a relationship between types.
 * Each function type parameter should be used for a parameter and then also for at least one other parameter and/or the return type of the function.
+* ***Effective Typescript** by Dan Vanderkam (O'Reilly, 2019)* contains several excellent tips for how to work with generics.
+* In particular, check out the section titled *The Golden Rule of Generics*. 
 
 #### 10.9.2.1 Examples 1+2, p. 206-207
 * **Example 1**, this **logInput()** function uses its **Input** type parameter exactly once, to declare its **input** parameter:
@@ -3369,8 +3371,6 @@ function logInput( input: string ) {
   console.log( "Hello!", input)
 }
 ```
-* ***Effective Typescript** by Dan Vanderkam (O'Reilly, 2019)* contains several excellent tips for how to work with generics.
-* In particular, check out the section titled *The Golden Rule of Generics*. 
 
 ***
 
