@@ -139,5 +139,10 @@ Plug 'mattn/vim-lsp-settings'
 ### Neovim tutorials
 1. Feb 2024 - [Ultimate Vim Vue Setup](https://pragmaticpineapple.com/ultimate-vim-vue-setup/). Vim, not neovim
 1. Feb 2024- YouTube by Dreams of Code: [The perfect Neovim setup for Next.js (it's back)](https://www.youtube.com/watch?v=8um8OYwvz3c)
-1. 
+
+
+### Notes on Neovim setup from Dreams of Code tutorial
+Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
+Installed with `brew install neovim`
+Updated .vimrc file for shortcut for nvim commands
 
