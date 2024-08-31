@@ -796,6 +796,7 @@ div#special {
 	* It covers all 4 sides simultaneously.
 	* Therefore, one need not ust the TRouBLe (TRBL) framework.
 	* Example p. 371:
+
 ```css
 h1 { border-left: red 0.5em solid; }   /* left border only */
 h2 { border-bottom: 1px solid; }       /* bottom border only */
