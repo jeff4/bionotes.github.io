@@ -134,3 +134,8 @@ Plug 'mattn/vim-lsp-settings'
 
 ## 8/31/2024
 * Let's try to install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
+* Reran usual brew hygeine commands, see OneNote
+
+### Neovim tutorials
+1. 
+
