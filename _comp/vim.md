@@ -142,7 +142,11 @@ Plug 'mattn/vim-lsp-settings'
 
 
 ### Notes on Neovim setup from Dreams of Code tutorial
-Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
-Installed with `brew install neovim`
-Updated .vimrc file for shortcut for nvim commands
-
+1. Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
+1. Installed with `brew install neovim`
+1. Updated .vimrc file for shortcut for nvim commands
+1. In addition to installing neovim, need to install **git** and **nerdfonts**. Both are installed already.
+1. Next, go with basic config. [DoC](https://youtu.be/8um8OYwvz3c?si=_khivyr_ukthnrER&t=86) recomends NVChad.
+	* config file usually lives at `~/.config/nvim`
+	* command to clone NVCad: `git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
+	* creates **~/.config/nvim** directory.
