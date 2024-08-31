@@ -857,25 +857,60 @@ p.example {
 
 ```css
 p#A {
-
-
+  margin: 4em;
+  border: 2px solid red;
+  background-color: #e2f3f5;
 }
 
-
 p#B {
-
+  margin-top: 2em;
+  margin-right: 250px;
+  margin-bottom: 1em;
+  margin-left: 4em;
+  border: 2px solid red;
+  background-color: #e2f3f5;
+}
 }
 
 body {
   margin: 0 20%;
   border: 3px solid red;
-  background-color: #e2f3f5
+  background-color: #e2f3f5;
 }
 ```
 
 
 ### Browser default margins p. 376
 * Text box
+
+
+***
+
+### Margin Behavior p. 378
+
+#### Collapsing Margins p. 378
+
+
+#### Margins on inline elements p. 378
+
+
+#### Negative margins p. 378
+
+
+***
+
+## Assigning Display Types p. 380
+
+***
+
+## Box Drop Shadows p. 382
+
+***
+
+# Chapter 15: Floating and Positioning p. 387
+
+
+
 
 
 
