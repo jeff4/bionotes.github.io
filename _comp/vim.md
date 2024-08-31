@@ -190,4 +190,29 @@ lspconfig.tsserver.setup({
 	capabilities = capabilities,
 })
 ```
-* asdfa;lj
+1. Now to install the TypeScript lsp server. There are 2 ways of doing this:
+    1. Using brew or other package managers on my local machine to download. Or perhaps use the PlugInstall for vim.
+    1. Use the nvim specific installer **mason.nvim**. Advantage of this method is that this follows our config to another machine. Let's use *mason.nvim*.
+1. So let's edit `.../nvim/lula/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. Here is the complete version of the **plugins.lua** file up to this point:  
+
+```lua
+local plugins = {
+  {
+    "neovim/nvim-lspconfig",
+    config = function()
+      require "plugins.configs.lspconfig"
+    end,
+  },
+  {
+    "williambowman/mason.nvim",
+    opts = {
+      ensure_installed = {
+        "typescript-language-server",
+      }
+    }
+  }
+}
+return plugins
+```
+
+
