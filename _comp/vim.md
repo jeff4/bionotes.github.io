@@ -137,5 +137,7 @@ Plug 'mattn/vim-lsp-settings'
 * Reran usual brew hygeine commands, see OneNote
 
 ### Neovim tutorials
+1. Feb 2024 - [Ultimate Vim Vue Setup](https://pragmaticpineapple.com/ultimate-vim-vue-setup/). Vim, not neovim
+1. Feb 2024- YouTube by Dreams of Code: [The perfect Neovim setup for Next.js (it's back)](https://www.youtube.com/watch?v=8um8OYwvz3c)
 1. 
 
