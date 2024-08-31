@@ -133,7 +133,7 @@ Plug 'mattn/vim-lsp-settings'
 ***
 
 ## 8/31/2024
-* Let's try to install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
+* Let's install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
 * Reran usual brew hygeine commands, see OneNote
 
 ## Some tutorials for today's setup
@@ -141,8 +141,8 @@ Plug 'mattn/vim-lsp-settings'
 1. Feb 2024- YouTube by Dreams of Code: [The perfect Neovim setup for Next.js (it's back)](https://www.youtube.com/watch?v=8um8OYwvz3c)
 
 
-### Notes on Neovim setup from Dreams of Code tutorial
-#### Part 1: Initial setup
+## Notes on Neovim setup from Dreams of Code tutorial
+### Part 1: Initial setup
 1. Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
 1. Installed with `brew install neovim`
 1. Updated .vimrc file for shortcut for nvim commands
@@ -157,5 +157,5 @@ Plug 'mattn/vim-lsp-settings'
 
 
 
-#### Part 2: Configuring for JS and TS
+### Part 2: Configuring for JS and TS
 1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
