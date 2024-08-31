@@ -136,12 +136,13 @@ Plug 'mattn/vim-lsp-settings'
 * Let's try to install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
 * Reran usual brew hygeine commands, see OneNote
 
-### Neovim tutorials
+## Some tutorials for today's setup
 1. Feb 2024 - [Ultimate Vim Vue Setup](https://pragmaticpineapple.com/ultimate-vim-vue-setup/). Vim, not neovim
 1. Feb 2024- YouTube by Dreams of Code: [The perfect Neovim setup for Next.js (it's back)](https://www.youtube.com/watch?v=8um8OYwvz3c)
 
 
 ### Notes on Neovim setup from Dreams of Code tutorial
+#### Part 1: Initial setup
 1. Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
 1. Installed with `brew install neovim`
 1. Updated .vimrc file for shortcut for nvim commands
@@ -150,3 +151,11 @@ Plug 'mattn/vim-lsp-settings'
 	* config file usually lives at `~/.config/nvim`
 	* command to clone NVCad: `git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
 	* creates **~/.config/nvim** directory.
+1. To quickly switch the color theme, in *Cmd* mode, just type `<space>th`
+	* CoD recommends 'catpuccino' theme
+	* Because many themes break my macOS Terminal setup, i chose 'pastelbeans' which seems to work OK in both Alacritty and Terminal.
+
+
+
+#### Part 2: Configuring for JS and TS
+1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
