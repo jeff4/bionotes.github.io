@@ -177,6 +177,7 @@ local plugins = {
 return plugins
 ```
 1. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents:
+
 ```lua
 local base = require("plugins.configs.lspconfig")
 local on_attach = base.on_attach
