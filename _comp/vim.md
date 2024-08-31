@@ -214,5 +214,12 @@ local plugins = {
 }
 return plugins
 ```
+1. Now, let's quit *nvim* and reopen it to reload our plugins.
+1. Type `:MasonInstallAll` and we will see the LSPs for **Lua** and **Typescript** being installed.
+1. After that, autocomplete is ready to go for lua and TS. We can verify this is working by going into any JS or TS file and typing `:LspInfo` which will show that the server is installed. Also, by typing in standard JS/TS keywords will show have autocomplete working.
+
+### Instructions on setting up autocomplete for Tailwind.css
+* Starts at [6:30](https://youtu.be/8um8OYwvz3c?si=-_h0ZbqVgs7tCHfW&t=390)
+
 
 
