@@ -218,8 +218,12 @@ return plugins
 1. Type `:MasonInstallAll` and we will see the LSPs for **Lua** and **Typescript** being installed.
 1. After that, autocomplete is ready to go for lua and TS. We can verify this is working by going into any JS or TS file and typing `:LspInfo` which will show that the server is installed. Also, by typing in standard JS/TS keywords will show have autocomplete working.
 
-### Instructions on setting up autocomplete for Tailwind.css
+### Part 3: Instructions on setting up autocomplete for Tailwind.css
 * Starts at [6:30](https://youtu.be/8um8OYwvz3c?si=-_h0ZbqVgs7tCHfW&t=390)
 
+### Part 4: Instructions for installing ESlint
+* Starts at [7:29](https://youtu.be/8um8OYwvz3c?si=Pdvjjm9IvXNokTmA&t=449)
 
+### Part 5: Instructions for installing Prettier
+* Starts at [10:02](https://www.youtube.com/watch?v=8um8OYwvz3c&t=602s)
 
