@@ -827,14 +827,55 @@ p.example {
 * Default: 0
 * Applies to: all elements
 
-#### More on Borders?
-* or just move on...
-
+#### Elliptical Corners p. 372
 ### Exercise 14-2 Border tricks p. 373
+```
+{................}
+
+```
 
 ***
-## 8/23/2024
+## 8/31/2024
 ## Margins p. 376
+* A margin is an optional amt of space that you can add on the ot he outside of the border. (As usual, see the diagram on p. 355
+
+#### Margins (full / each side separately) p. 376
+* Property Name: margin-top, margin-right, margin-bottom, margin-left
+* Values: length \| percentage \| auto
+* Default: auto
+* Applies to: all elements
+
+#### Margins (shorthand) p. 376
+* Property Name: margin
+* Values: length \| percentage \| auto
+* Default: auto
+* Applies to: all elements
+
+#### More notes about margins
+* The shorthand sequence for margins works just like border order: clockwise TRouBLe: top, right, bottom, left.
+* See output of below css in Fig 14-16 on p. 377
+
+```css
+p#A {
+
+
+}
+
+
+p#B {
+
+}
+
+body {
+  margin: 0 20%;
+  border: 3px solid red;
+  background-color: #e2f3f5
+}
+```
+
+
+### Browser default margins p. 376
+* Text box
 
 
 
