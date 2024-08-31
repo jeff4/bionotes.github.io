@@ -99,6 +99,8 @@ permalink: /vim/
 ## 7/09/2024
 * Equivalent to **Save As...** in macOS / Windows / Office. Type `:w {pathname}/{NEW filename}` will write current file contents into the NEW file. Note that this does *not* save current contents into the current file so you must type `:w` separately to make sure that happens. See more [here](https://stackoverflow.com/a/4980194).
 
+***
+
 ## 8/03/2024
 * Let's install LSP server and relevant plugins for syntax highlighting snd CoC code completion for TypeScript and React
 * Note: `:bd` in vim clears the current buffer (aka closes the window like if you are in PlugInstall) without quitting vim. Before this, I was using `:q` to quit vim entirely to clear away PlugInstall. For more, see [Stack Overflow](https://stackoverflow.com/a/23592407)
@@ -127,3 +129,8 @@ Plug 'mattn/vim-lsp-settings'
 * No need to rerun :PlugInstall, uninstall, etc, it will all be turned off.
 * Also, looks like there is a TypeScript LSP that automatically pops up when I open `*.js` files. But *not* any default JS Lsp's.
 * Ok got all machines working. Can easily toggle on/off lsp functionality by commenting on/off 2 plugins in `.vimrc`.
+
+***
+
+## 8/31/2024
+* Let's try to install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
