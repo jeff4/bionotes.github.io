@@ -227,3 +227,6 @@ return plugins
 ### Part 5: Instructions for installing Prettier
 * Starts at [10:02](https://www.youtube.com/watch?v=8um8OYwvz3c&t=602s)
 
+### Part 6: Instructions for installing HTML auto tag closers
+* Starts at [12:39](https://youtu.be/8um8OYwvz3c?si=d66SdgoShr4wgH4K&t=759)
+
