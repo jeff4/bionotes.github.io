@@ -795,7 +795,8 @@ div#special {
 * The **border** shorthand property works a bit differently than other shorthand properties that wev'e covered.
 	* It covers all 4 sides simultaneously.
 	* Therefore, one need not ust the TRouBLe (TRBL) framework.
-	* Example p. 371:
+
+#### Example p. 371:
 
 ```css
 h1 { border-left: red 0.5em solid; }   /* left border only */
