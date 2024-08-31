@@ -155,7 +155,37 @@ Plug 'mattn/vim-lsp-settings'
 	* CoD recommends 'catpuccino' theme
 	* Because many themes break my macOS Terminal setup, i chose 'pastelbeans' which seems to work OK in both Alacritty and Terminal.
 
-
-
 ### Part 2: Configuring for JS and TS
 1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
+1. LSP install. Naviate to `~/.config/nvim/lua/custom/`
+	* Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
+	* Edit the `.../nvim/lua/custom/chadrc.lua` file. Add these lines below the `M.ui = { theme = 'pastelbeans' }`: 
+	```lua
+	M.plugins = "custom.plugins"
+	return M
+	```
+1. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`:
+```lua
+local plugins = {
+	{
+		"neovim/nvim-lspconfig",
+		config = function()
+			require "plugins.configs.lspconfig"
+		end,
+	}
+}
+return plugins
+```
+1. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents:
+```lua
+local base = require("plugins.configs.lspconfig")
+local on_attach = base.on_attach
+local capabilities = base.capabilities
+
+local lspconfig = require("lspconfig")
+
+lspconfig.tsserver.setup({
+	on_attach = on_attach,
+	capabilities = capabilities,
+})
+```
