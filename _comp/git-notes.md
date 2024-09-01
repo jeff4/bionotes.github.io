@@ -16,7 +16,7 @@ sitemap: false
 * this worked! However, now I have two branches: `main` and `master`. So I had to set `master` as the default branch and delete the old empty `main` branch. Note that `main` branch was created when I used the web ui to create the GH.com repo originally.  
 * OK, deployed successfully to Netlify, and site is live!
 
-## 9/22 Friday
+## 9/22/2023 Friday
 * Next edit `.gitignore` and add `*.swp *.swo` so that git does not track temporary vim files
 
 ### commands to use github webui
@@ -26,11 +26,11 @@ sitemap: false
 	1. `git push --set-upstream origin master` This names the main branch master.
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
 
-## 9/23 Saturday
+## 9/23/2023 Saturday
 * succeeded in transferring domains to Netlify and provisioning ssl certs for domain names.
 
 
-## 9/25 Monday
+## 9/25/2023 Monday
 * In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
 * Edited `.gitignore` file to ignore vim temp files.
 * Followed steps from 9/22 to make sure local and remote branches synch via git. Actually, here are updated instructions. It's four steps:    
@@ -151,11 +151,25 @@ sitemap: false
 		* All files including .git and .gitignore are stored there.
 * Test edited at github.com and used `git pull origin` to verify that files are pulling and pushing properly. All working!
 
-## 3/24
+## 3/24/2024
 * [Instructions](https://stackoverflow.com/a/10510482) on forcing local changes to github (aka forcing from local client to github). Short version: `git push -f origin`
 * [Instructions](https://phoenixnap.com/kb/git-overwrite-local-branch-with-remote) on forcing the local client to accept the current True state from remote (aka from GitHub). Short version has 2 steps:
 	1. `git fetch`
 	1. `git reset --hard @{u}`   Note: '@{u} is a shorthand for the upstream branch that your current branch is tracking. The shorthand is useful if you are not sure of the name of the remote branch, as you don't have to specify it.'
 
+***
+
 ## 9/01/2024
 * Setting up a new repo for `vue1`.
+* Check out chatgpt instructions from this day. 
+
+
+### old instructions from 9/25/2023 a year ago
+* In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
+* Edited `.gitignore` file to ignore vim temp files.
+* Followed steps from 9/22 to make sure local and remote branches synch via git. Actually, here are updated instructions. It's four steps:    
+	1. `git remote add origin git@github.com:jeff4/a3.git` This uses SSH to specify what "origin" refers to...in this case, the repo that lives at github.
+	1. Now, you have to go through usual sequence of: (a) `git add .`; (b) `git commit -m "this is my first commit"`. *Then* you have staged changes on local that allows steps 3 and 4.
+	1. `git push --set-upstream origin master` This names the main branch master.
+	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
+* In the future, I will rewrite the instructions to default naming the origin branch **main** rather than 'master'. 
