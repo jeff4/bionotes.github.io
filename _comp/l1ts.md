@@ -1,5 +1,5 @@
 ---
-title: TypeScript Notes
+title: LTS 1
 permalink: /l1ts/
 sitemap: false
 ---
