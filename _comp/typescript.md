@@ -1,6 +1,6 @@
 ---
 title: LTS 1
-permalink: /l1ts/
+permalink: /typescript/
 sitemap: false
 ---
 
