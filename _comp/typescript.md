@@ -1230,9 +1230,4 @@ function format( data: string, needle?: string, haystack?: string ) {
 ## End of Chapter 5: Functions
 ***
 ***
-## register info
-* to paste *```javascript* from the register **j**, type `"jp`.
-* to paste *`<script>`* from the register **k**, type `"kp`.
-* to yank next 3 words and store in register **a**, type `"ay3w`.
 
-`<script>`
