@@ -163,9 +163,10 @@ Plug 'mattn/vim-lsp-settings'
 	```lua
 	M.plugins = "custom.plugins"
 	return M
-
+    ```
 1. Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
 1. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`. **Note that you must edit this file again below to make sure the TypeScript LSP is installed**
+
 ```lua
 local plugins = {
   {
