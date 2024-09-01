@@ -181,7 +181,7 @@ local plugins = {
 return plugins
 ```
 ***
-1. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents:
+1. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents. **Note that this is *one level down* with a new *configs* subdirectory!**
 
 ```lua
 local base = require("plugins.configs.lspconfig")
@@ -199,7 +199,7 @@ lspconfig.tsserver.setup({
 1. Now to install the TypeScript lsp server. There are 2 ways of doing this:
     1. Using brew or other package managers on my local machine to download. Or perhaps use the PlugInstall for vim.
     1. Use the nvim specific installer **mason.nvim**. Advantage of this method is that this follows our config to another machine. Let's use *mason.nvim*.
-1. So let's edit `.../nvim/lula/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. **Here is the final version of the `plugins.lua` file up to this point:**
+1. So let's edit `.../nvim/lua/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. **Here is the final version of the `plugins.lua` file up to this point:**
 
 ```lua
 local plugins = {
@@ -225,6 +225,32 @@ return plugins
 1. Type `:MasonInstallAll` and we will see the LSPs for **Lua** and **Typescript** being installed.
 1. After that, autocomplete is ready to go for lua and TS. We can verify this is working by going into any JS or TS file and typing `:LspInfo` which will show that the server is installed. Also, by typing in standard JS/TS keywords will show have autocomplete working.
 
+***
+5. Not sure if I need this, but I added `"vue-language-server",` so the complete version of `.../nvim/lua/custom/plugins.lua` is:
+
+```lua
+
+local plugins = {
+  {
+    "neovim/nvim-lspconfig",
+    config = function()
+      require "plugins.configs.lspconfig"
+    end,
+  },
+  {
+    "williambowman/mason.nvim",
+    opts = {
+      ensure_installed = {
+        "typescript-language-server",
+        "vue-language-server",
+      }
+    }
+  }
+}
+return plugins
+```
+
+6. and also within nvim, typed `:MasonInstall vue-language-server`.
 ### Part 3: Instructions on setting up autocomplete for Tailwind.css
 * Starts at [6:30](https://youtu.be/8um8OYwvz3c?si=-_h0ZbqVgs7tCHfW&t=390)
 
