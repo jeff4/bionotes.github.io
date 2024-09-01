@@ -1,5 +1,5 @@
 ---
-title: LTS 1
+title: Legacy TS
 permalink: /typescript/
 sitemap: false
 ---
