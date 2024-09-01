@@ -263,3 +263,8 @@ return plugins
 ### Part 6: Instructions for installing HTML auto tag closers
 * Starts at [12:39](https://youtu.be/8um8OYwvz3c?si=d66SdgoShr4wgH4K&t=759)
 
+## 9/01/2024
+* Commented out legacy LSP plugins from .vimrc because I'm relying on Mason, etc. in NVChad.
+* Tried out various new color themes (see OneN).
+* On champ, installed vue LSP with command `MasonInstall vue-language-server`. Hopefully this handles most cases and I don't need to still install volar or tree-sitter
+
