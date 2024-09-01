@@ -153,11 +153,11 @@ Plug 'mattn/vim-lsp-settings'
 	* creates **~/.config/nvim** directory.
 1. To quickly switch the color theme, in *Cmd* mode, just type `<space>th`
 	* CoD recommends 'catpuccino' theme
-	* Because many themes break my macOS Terminal setup, i chose **pastelbeans** which seems to work OK in both Alacritty and Terminal.
+	* Because many themes break my macOS Terminal setup, i chose **pastelbeans** which seems to work OK in both Alacritty and Terminal. Also don't mind **decay** on iMac display. Note, need to type `:match Error /\t/` to reactivate tab coloring
 
 ### Part 2: Configuring for JS and TS
 1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
-1. LSP install. Naviate to `~/.config/nvim/lua/custom/`
+1. LSP install. Navigate to `~/.config/nvim/lua/custom/`
 	* Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
 	* Edit the `.../nvim/lua/custom/chadrc.lua` file. Add these lines below the `M.ui = { theme = 'pastelbeans' }`: 
 	```lua
