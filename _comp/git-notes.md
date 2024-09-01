@@ -164,6 +164,16 @@ sitemap: false
 * Check out chatgpt instructions from this day. 
 
 
+### Part 1: Create empty repo at GitHub
+* Use GitHub webui.
+
+### Part 2: Initialize local directory with git and make first commit
+1. Navigate into `/vue1` and type `git init`. Although a **.gitignore** file was already there, `git init` had not yet run b/c I received a `fatal: not a git repository (or any of the parent directories): .git` error.
+1. Type `git add .` to add all untracked files into git.
+1. Type `git commit -m "first commit"` to bundle all files and changes into a commit.
+1. When we have connected the local git-aware directory to GitHub, we can push local into remote GitHub.
+
+
 ### old instructions from 9/25/2023 a year ago
 * In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
 * Edited `.gitignore` file to ignore vim temp files.
