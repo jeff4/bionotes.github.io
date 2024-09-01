@@ -149,7 +149,7 @@ Plug 'mattn/vim-lsp-settings'
 1. In addition to installing neovim, need to install **git** and **nerdfonts**. Both are installed already.
 1. Next, go with basic config. [DoC](https://youtu.be/8um8OYwvz3c?si=_khivyr_ukthnrER&t=86) recomends NVChad.
 	* config file usually lives at `~/.config/nvim`
-	* command to clone NVCad: `git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
+	* command to clone NVChad: `git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
 	* creates **~/.config/nvim** directory.
 1. To quickly switch the color theme, in *Cmd* mode, just type `<space>th`
 	* CoD recommends 'catpuccino' theme
