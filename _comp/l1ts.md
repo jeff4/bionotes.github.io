@@ -1,6 +1,6 @@
 ---
 title: TypeScript Notes
-permalink: /typescript/
+permalink: /l1ts/
 sitemap: false
 ---
 
@@ -8,6 +8,9 @@ sitemap: false
 * Josh Goldberg
 * O'Reilly Media, 2022
 * LTS = Learning TypeScript by Josh Goldberg
+* [LTS 1](/l1ts)
+* [LTS 2](/l2ts)
+
 
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
