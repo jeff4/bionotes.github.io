@@ -165,7 +165,11 @@ sitemap: false
 
 
 ### Part 1: Create empty repo at GitHub
-* Use GitHub webui.
+1. Log into GitHub to use the GH webui.
+1. Click the + icon in the top-right corner and select **New repository**.
+1. Fill in the repository name, description (optional), and choose whether it should be public or private.
+1. **Do not initialize** the repository with a README, .gitignore, or license since you’ll be pushing your existing project.
+1. Click **Create repository**.
 
 ### Part 2: Initialize local directory with git and make first commit
 1. Navigate into `/vue1` and type `git init`. Although a **.gitignore** file was already there, `git init` had not yet run b/c I received a `fatal: not a git repository (or any of the parent directories): .git` error.
@@ -182,4 +186,3 @@ sitemap: false
 	1. Now, you have to go through usual sequence of: (a) `git add .`; (b) `git commit -m "this is my first commit"`. *Then* you have staged changes on local that allows steps 3 and 4.
 	1. `git push --set-upstream origin master` This names the main branch master.
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
-* In the future, I will rewrite the instructions to default naming the origin branch **main** rather than 'master'. 
