@@ -178,6 +178,12 @@ sitemap: false
 1. When we have connected the local git-aware directory to GitHub, we can push local into remote GitHub.
 
 
+### Part 3: Synchronize local and remote
+1. `git remote add origin git@github.com:<USERNAME>/vue1.giti`
+1. `git branch -M main`
+1. `git push -u origin main`
+
+
 ### old instructions from 9/25/2023 a year ago
 * In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
 * Edited `.gitignore` file to ignore vim temp files.
