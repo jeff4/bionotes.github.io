@@ -4,12 +4,12 @@ permalink: /l1ts/
 sitemap: false
 ---
 
-# Learning TypeScript
+## Learning TypeScript - legacy notes
+* See [LTS 1](/l1ts) instead
+* [LTS 2](/l2ts)
 * Josh Goldberg
 * O'Reilly Media, 2022
 * LTS = Learning TypeScript by Josh Goldberg
-* [LTS 1](/l1ts)
-* [LTS 2](/l2ts)
 
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
