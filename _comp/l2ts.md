@@ -4,7 +4,7 @@ permalink: /l2ts/
 sitemap: false
 ---
 
-# Learning TypeScript
+# Learning TypeScript, page 2
 * Josh Goldberg
 * O'Reilly Media, 2022
 * LTS = Learning TypeScript by Josh Goldberg
