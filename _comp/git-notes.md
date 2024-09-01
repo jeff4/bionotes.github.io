@@ -157,3 +157,5 @@ sitemap: false
 	1. `git fetch`
 	1. `git reset --hard @{u}`   Note: '@{u} is a shorthand for the upstream branch that your current branch is tracking. The shorthand is useful if you are not sure of the name of the remote branch, as you don't have to specify it.'
 
+## 9/01/2024
+* Setting up a new repo for `vue1`.
