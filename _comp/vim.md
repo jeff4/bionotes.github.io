@@ -159,21 +159,21 @@ Plug 'mattn/vim-lsp-settings'
 ### Part 2: Configuring for JS and TS
 1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
 1. LSP install. Navigate to `~/.config/nvim/lua/custom/`
-	* Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
 	* Edit the `.../nvim/lua/custom/chadrc.lua` file. Add these lines below the `M.ui = { theme = 'pastelbeans' }`: 
 	```lua
 	M.plugins = "custom.plugins"
 	return M
-	```
-1. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`:
+
+1. Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
+1. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`. **Note that you must edit this file again below to make sure the TypeScript LSP is installed**
 ```lua
 local plugins = {
-	{
-		"neovim/nvim-lspconfig",
-		config = function()
-			require "plugins.configs.lspconfig"
-		end,
-	}
+  {
+    "neovim/nvim-lspconfig",
+    config = function()
+      require "plugins.configs.lspconfig"
+    end,
+  }
 }
 return plugins
 ```
@@ -187,14 +187,14 @@ local capabilities = base.capabilities
 local lspconfig = require("lspconfig")
 
 lspconfig.tsserver.setup({
-	on_attach = on_attach,
-	capabilities = capabilities,
+  on_attach = on_attach,
+  capabilities = capabilities,
 })
 ```
 1. Now to install the TypeScript lsp server. There are 2 ways of doing this:
     1. Using brew or other package managers on my local machine to download. Or perhaps use the PlugInstall for vim.
     1. Use the nvim specific installer **mason.nvim**. Advantage of this method is that this follows our config to another machine. Let's use *mason.nvim*.
-1. So let's edit `.../nvim/lula/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. Here is the complete version of the **plugins.lua** file up to this point:  
+1. So let's edit `.../nvim/lula/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. **Here is the final version of the `plugins.lua` file up to this point:**
 
 ```lua
 local plugins = {
