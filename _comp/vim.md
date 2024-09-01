@@ -164,6 +164,8 @@ Plug 'mattn/vim-lsp-settings'
 	M.plugins = "custom.plugins"
 	return M
     ```
+***
+
 1. Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
 1. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`. **Note that you must edit this file again below to make sure the TypeScript LSP is installed**
 
@@ -178,6 +180,7 @@ local plugins = {
 }
 return plugins
 ```
+***
 1. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents:
 
 ```lua
@@ -192,6 +195,7 @@ lspconfig.tsserver.setup({
   capabilities = capabilities,
 })
 ```
+***
 1. Now to install the TypeScript lsp server. There are 2 ways of doing this:
     1. Using brew or other package managers on my local machine to download. Or perhaps use the PlugInstall for vim.
     1. Use the nvim specific installer **mason.nvim**. Advantage of this method is that this follows our config to another machine. Let's use *mason.nvim*.
@@ -216,6 +220,7 @@ local plugins = {
 }
 return plugins
 ```
+***
 1. Now, let's quit *nvim* and reopen it to reload our plugins.
 1. Type `:MasonInstallAll` and we will see the LSPs for **Lua** and **Typescript** being installed.
 1. After that, autocomplete is ready to go for lua and TS. We can verify this is working by going into any JS or TS file and typing `:LspInfo` which will show that the server is installed. Also, by typing in standard JS/TS keywords will show have autocomplete working.
