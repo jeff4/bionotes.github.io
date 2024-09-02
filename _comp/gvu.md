@@ -47,3 +47,15 @@ sitemap: false
 * Another tutorial i'm checking out is the [2-hour crash course](https://www.youtube.com/watch?v=KTFH4P8unUQ) by John Komarnicki
 	* Code is available at his [GH repo](https://github.com/johnkomarnicki/vue-3-crash-course).
 	* His sample app is called [Vue Todos](https://sparkling-platypus-7955f2.netlify.app/)
+
+### Examining HelloWorld.vue
+* Looking at this SFC, John introduces [props](https://youtu.be/KTFH4P8unUQ?si=pfcUFgfnq_mqNoFj&t=978), which is how messages are passed between SFCs. Within the `\<script\>` area, the **defineProps()** function has a list of different properties. In this case, 
+
+```typescript
+defineProps({
+  msg: {
+    type: String,
+    required: true,
+  }
+}) 
+```
