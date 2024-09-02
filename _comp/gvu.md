@@ -116,3 +116,4 @@ defineProps({
 
 ## Section 4
 * Download `Vue_Logo_Black.png` from [Section 4 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-4/src/assets/Vue_Logo_Black.png) which is located in `/src/assets/`. Save it to our own assets directory locally. 
+* Created `TodoHeader.vue` file and placed inside `/src/components` directory.
