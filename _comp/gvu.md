@@ -117,11 +117,13 @@ defineProps({
 ## Section 4
 * Download `Vue_Logo_Black.png` from [Section 4 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-4/src/assets/Vue_Logo_Black.png) which is located in `/src/assets/`. Save it to our own assets directory locally. 
 * Created `TodoHeader.vue` file and placed inside `/src/components` directory.
-* Let's fill stuff into TodoHeader.vue file
-
-
 
 ***
 
 * Btw, i might have chosen to *not* make this project a single page app. So that may be why the router is missing. but Watching Traversy's 3-hour Crash Course 2024 at [21:36](https://youtu.be/VeNfHj6MhgA?si=4MNrgiDzkSjju7oy&t=1296), he also chose no for Vue Router. But he says that he will show us how to set this up by scratch later on.
 	* Viewed up to [22:30](https://youtu.be/VeNfHj6MhgA?si=K8bzyDA06rgeKRLn&t=1350).
+
+***
+
+## 9/02/2024
+## More on Section 4
