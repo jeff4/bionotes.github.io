@@ -270,3 +270,8 @@ return plugins
 * Tried out various new color themes (see OneN).
 * On champ, installed vue LSP with command `MasonInstall vue-language-server`. Hopefully this handles most cases and I don't need to still install volar or tree-sitter
 
+### Vim folding
+* Based on [this article](https://vim.fandom.com/wiki/Folding), one can manually fold with `zf{motion}`.
+	* Handy to use this to automatically make indent aware folding (regardless of tabs or spaces). `:setlocal foldmethod=indent`.
+	* After that, `zo` to open a fold and `zc` to close a fold, for wherever the cursor is.
+	* At some point, perhaps explore folding based on syntax `:setlocal foldmethod=syntax`
