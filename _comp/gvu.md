@@ -74,4 +74,22 @@ defineProps({
 * At [18:36](https://youtu.be/KTFH4P8unUQ?si=Q-iH5DCXJOjNO8bf&t=1116), talk about the index.js file in the router directory. doesn't seem to exist in my copy. 
 * Hm, neither `/router/index.js` nor the `*.vue` files stored in `/src/views/` directory seem to exist. i.e., both the `/router` and `/views` subdirectories are missing.
 
-### 
+### root/package.json
+* interesting seeing the TS, types, vite, and vue-tsc dependencies in here. distinct from whats in [the tutorial at 19:03a](https://youtu.be/KTFH4P8unUQ?si=9pCF5HyJsyZUCzDQ&t=1144).
+
+### root/vite.config.ts
+* At [19:10](https://youtu.be/KTFH4P8unUQ?si=4UN8T0Si7q407nyL&t=1150), we can see how to configure vite. Won't be changing this at all during this tutorial/2-hour crash course.
+
+### Let's start deleting
+* Inside `<root>/src/assets` directory, delete all files: **base.css**, **logo.svg**, **main.css**. 
+* Inside `<root>/src/components`, delete everything, including everyting inside the `/icons` subdirectory.
+* Supposed to delete reference to `TheWelcome.vue` from the `<root>/src/views/HomeView.vue` file. but that file doesn't exist in my copy.
+
+## Edits to /src/App.vue
+* Remove entire header from **template (aka html) section**.
+* delete entire `<style scoped>` section. replace with a vanilla `<style> ... </style>` section.
+
+## Edits to /src/main.ts
+* remove `import './assets/main.css'`.
+
+* Also
