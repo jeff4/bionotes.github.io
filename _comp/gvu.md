@@ -126,4 +126,12 @@ defineProps({
 ***
 
 ## 9/02/2024
+### more on 3-hour course
+* up to 23:07.
+
+
 ## More on Section 4
+
+
+
+
