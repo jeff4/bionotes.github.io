@@ -275,3 +275,27 @@ return plugins
 	* Handy to use this to automatically make indent aware folding (regardless of tabs or spaces). `:setlocal foldmethod=indent`.
 	* After that, `zo` to open a fold and `zc` to close a fold, for wherever the cursor is.
 	* At some point, perhaps explore folding based on syntax `:setlocal foldmethod=syntax`
+
+***
+### Relative line numbering isn't working in Neovim
+* I asked phind and got [this answer](https://www.phind.com/search?cache=tmz8kq336ddce3nz7vyvdiwx)
+* Here is what works in my `~/.vimrc` file:
+
+```
+" Turn on absolute line numbers
+set number
+
+" Turn on relative iine numbers
+set relativenumber
+```
+
+* According to phind, these are the equivalent lines I need to enter into my `~/.config/nvim/init.lua` file:
+
+```
+-- Enable line numbers
+vim.opt.number = true
+
+-- Enable relative line numbers
+vim.opt.relativenumber = true
+```
+
