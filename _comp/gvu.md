@@ -59,3 +59,9 @@ defineProps({
   }
 }) 
 ```
+
+* That `msg` is then passed into the *template* aka *html* section within the 'handlebar moustaches' (double `{{}}`). like so:
+
+```html
+<h1 class="green">{{ msg }}</h1>
+```
