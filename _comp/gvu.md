@@ -44,3 +44,6 @@ sitemap: false
 ## 9/01/2024
 * Made a lot of progress, as can be seen through the [vim](/vim) and [git](/git-notes/) pages. Got neovim working, set up new repo, everything is synching properly. Now to decide which tutorials to use and which initial app to build.
 * Also learned more about Vite. See ChatGPT dialogue from this date.
+* Another tutorial i'm checking out is the [2-hour crash course](https://www.youtube.com/watch?v=KTFH4P8unUQ) by John Komarnicki
+	* Code is available at his [GH repo](https://github.com/johnkomarnicki/vue-3-crash-course).
+	* His sample app is called [Vue Todos](https://sparkling-platypus-7955f2.netlify.app/)
