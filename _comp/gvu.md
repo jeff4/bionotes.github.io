@@ -103,3 +103,10 @@ defineProps({
 ```html
 <style lang="scss">
 ```
+* Now let's import the [Rubrik Google Font](https://fonts.google.com/specimen/Rubik) and use the following import statement:
+
+```
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+</style>
+```
