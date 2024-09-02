@@ -92,11 +92,14 @@ defineProps({
 ## Edits to /src/main.ts
 * remove `import './assets/main.css'`.
 
-### Now, let's add some dependencies
+## Now, let's add some dependencies
 * [20:55](https://youtu.be/KTFH4P8unUQ?si=JhexWofpi3dLBh4F&t=1255): UID to generate unique ids, Iconify-for-Vue for icons, sass as css-preprocesor.
 * from `<root>` directory, type `npm install --save-dev uid @iconify/vue sass`
 	* the **--save-dev** flag means to save this as a developer dependency
 
-
-### Global styling
+## Global styling
 * Usual good practice is to create a `global.css` inside `<root>/src/assets/`. But for a small project like this, we can place the css directly into the main **style** section we just (re-)created within `/src/App.vue`
+* Since we are going to be using a css-preprocessor, let's update the attribute with a `lang="scss"` value:
+```html
+<style lang="scss">
+```
