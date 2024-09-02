@@ -68,3 +68,10 @@ defineProps({
 
 ### Examining TheWelcome.vue
 * At [17:26](https://youtu.be/KTFH4P8unUQ?si=i2cL9uApvAMKX_A7&t=1046), John talks about the `#heading` and `#icon` attributes modifying the **\<template\>** element in *WelcomeItem*.  
+* These are **named slots**. They are references to content contained in the **WelcomeItem.vue** file.
+
+### Examining /src/router/index.js
+* At [18:36](https://youtu.be/KTFH4P8unUQ?si=Q-iH5DCXJOjNO8bf&t=1116), talk about the index.js file in the router directory. doesn't seem to exist in my copy. 
+* Hm, neither `/router/index.js` nor the `*.vue` files stored in `/src/views/` directory seem to exist. i.e., both the `/router` and `/views` subdirectories are missing.
+
+### 
