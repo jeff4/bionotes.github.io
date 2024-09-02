@@ -100,6 +100,7 @@ defineProps({
 ## Global styling
 * Usual good practice is to create a `global.css` inside `<root>/src/assets/`. But for a small project like this, we can place the css directly into the main **style** section we just (re-)created within `/src/App.vue`
 * Since we are going to be using a css-preprocessor, let's update the attribute with a `lang="scss"` value:
+
 ```html
 <style lang="scss">
 ```
