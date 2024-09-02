@@ -97,7 +97,7 @@ defineProps({
 * from `<root>` directory, type `npm install --save-dev uid @iconify/vue sass`
 	* the **--save-dev** flag means to save this as a developer dependency
 
-## Global styling
+## Section 3: Global styling
 * Usual good practice is to create a `global.css` inside `<root>/src/assets/`. But for a small project like this, we can place the css directly into the main **style** section we just (re-)created within `/src/App.vue`
 * Since we are going to be using a css-preprocessor, let's update the attribute with a `lang="scss"` value:
 
@@ -111,3 +111,8 @@ defineProps({
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 </style>
 ```
+
+* Note, that I copied and pasted the updated style code from the [Section 3 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-3/src/App.vue) of his App.vue file. At [23:23](https://youtu.be/KTFH4P8unUQ?si=aWAlGACrIQBetskv&t=1403)
+
+## Section 4
+* Download `Vue_Logo_Black.png` from [Section 4 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-4/src/assets/Vue_Logo_Black.png) which is located in `/src/assets/`. Save it to our own assets directory locally. 
