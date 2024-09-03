@@ -129,7 +129,8 @@ defineProps({
 ### more on 3-hour course by Brad Traversy
 * up to 23:07.
 * At [27:55](https://youtu.be/VeNfHj6MhgA?si=_J4d23dyk2pk0sk6&t=1675), talks about implementing first using the Options API. Later, he will implement the same application using the newer Composition API to show the differences.
-
+* At [29:25](https://youtu.be/VeNfHj6MhgA?si=eEHPIpcYVubNWpIx&t=1765), Brad explains **vue-directives** such as `v-if` which can be placed in the `html/template` section. 
+	* example with `v-else` and `v-else-if`.
 
 
 
