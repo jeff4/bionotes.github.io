@@ -134,8 +134,10 @@ defineProps({
 * Up to 32:12. Had a minor issue with CSS that was resolved with this [phind answer](https://www.phind.com/search?cache=jf8p1m1nk3zrbbjo08p3hfhz).
 * Note, this has all been in the context of Options API using Traversy's 3 hour crash course.
 
-## More on Section 4
+## 2-hour by John: More on Section 4
 
-
+## 9/03/2024
+### Further progress on Greg Lim
+## Lim Chapter 3
 
 
