@@ -126,8 +126,18 @@ defineProps({
 ***
 
 ## 9/02/2024
-### more on 3-hour course
+### more on 3-hour course by Brad Traversy
 * up to 23:07.
+* At [27:55](https://youtu.be/VeNfHj6MhgA?si=_J4d23dyk2pk0sk6&t=1675), talks about implementing first using the Options API. Later, he will implement the same application using the newer Composition API to show the differences.
+
+
+
+
+
+
+
+
+
 
 
 ## More on Section 4
