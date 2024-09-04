@@ -674,4 +674,5 @@ sitemap: false
 	* [Different HN thread about Llama 3.1 itself](https://news.ycombinator.com/item?id=41046540)
 
 
-
+## 04 September 2024
+* Some thoughts on using [Cursor AI Editor](https://www.cursor.com/blog/series-a) which is made by [Anysphere Inc](https://anysphere.inc). [Essay by Juan Stoppa](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/) with associated [HN post](https://news.ycombinator.com/item?id=41429469). And Simon Willison's [HN comment](https://news.ycombinator.com/item?id=41429469) about that same post.
