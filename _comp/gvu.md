@@ -4,7 +4,7 @@ permalink: /gvu/
 sitemap: false
 ---
 
-# Beginning Vue 3 Development
+## Beginning Vue 3 Development
 * Subtitle: Learn Vue.JS 3 Web Development
 * Author: Greg Lim, Twitter: @greglim81
 * Published: November, 2022
@@ -12,6 +12,13 @@ sitemap: false
 * Kindle max location number: 3051
 * JH shorthand = GVU = Greg VUe
 
+## 3-hour Crash Course
+* Traversy Media / Brad Traversy
+* YouTube [link](https://www.youtube.com/watch?v=VeNfHj6MhgA)
+
+## 2-hour Crash Course 
+* John Komarnicki
+* YouTube [link](https://www.youtube.com/watch?v=KTFH4P8unUQ)
 
 ***
 ## 8/26/2024
@@ -134,10 +141,9 @@ defineProps({
 * Up to 32:12. Had a minor issue with CSS that was resolved with this [phind answer](https://www.phind.com/search?cache=jf8p1m1nk3zrbbjo08p3hfhz).
 * Note, this has all been in the context of Options API using Traversy's 3 hour crash course.
 
-## 2-hour by John: More on Section 4
 
 ## 9/03/2024
 ### Further progress on Greg Lim
 ## Lim Chapter 3
-
+* Completed Chapter 3 at Stanford Accelerator after Mike's Bikes visit. Gonna experiment with [git](/git-notes) to branch properly now.
 
