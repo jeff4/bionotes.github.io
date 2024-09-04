@@ -161,8 +161,7 @@ sitemap: false
 
 ## 9/01/2024
 * Setting up a new repo for `vue1`.
-* Check out chatgpt instructions from this day. 
-
+* Check out chatgpt instructions from today's date.
 
 ### Part 1: Create empty repo at GitHub
 1. Log into GitHub to use the GH webui.
@@ -184,7 +183,7 @@ sitemap: false
 1. `git push -u origin main`
 
 
-### old instructions from 9/25/2023 a year ago
+#### old instructions about managing Astro+git from 9/25/2023 a year ago
 * In this case, I created the desired `a4` directory first, navigated to there, and within the astro installer, chose `./` as root directory. In previous installs, I went to `proj-n`, ran `npm create astro` command there, and then inside installer, I defined the root directory = `./a4/`.
 * Edited `.gitignore` file to ignore vim temp files.
 * Followed steps from 9/22 to make sure local and remote branches synch via git. Actually, here are updated instructions. It's four steps:    
@@ -192,3 +191,11 @@ sitemap: false
 	1. Now, you have to go through usual sequence of: (a) `git add .`; (b) `git commit -m "this is my first commit"`. *Then* you have staged changes on local that allows steps 3 and 4.
 	1. `git push --set-upstream origin master` This names the main branch master.
 	1. `git push origin`  If you try to execute this command before the `git push --set-upstream origin master` command, git has a helpful error which tells you to execute --set-upstream first before git push origin.
+
+
+## 9/04/2024
+* Experimenting with using git branches for my work flow.
+* See this [chatgpt answer](https://chatgpt.com/share/b68480ac-7b8d-4830-8220-cee52d317535).
+* Note that I did a bunch of work yesterday related to Chapter 3 of Greg Lim's [Beginning Vue 3 Development](https://www.amazon.com/Beginning-Vue-Development-Vue-js-development/dp/B0BM3PQD36).
+* Rather than commit that to **main** branch as usual, I'm going to create a new branch. Perhaps call new branch **03-greg** for chapter 3. and then create a second new branch for legacy stuff from [Traversky Media's 3-hour YouTube course on Vue](https://youtu.be/VeNfHj6MhgA?si=qGJZC9u1T4GzGHfY&t=1933). Call this second branch **31-tm**. And then make sure **31-tm** exactly equal to the old **main**.
+* And then from now on, work exclusively on **03-greg**. And when I'm satisified with that and I want to move on to Lim Chapter 4, branch from **03** to create a new branch for **04-greg**, and then branch from there to **05-greg** for Lim Chapter 5, and so on...
