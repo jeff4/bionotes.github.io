@@ -199,3 +199,4 @@ sitemap: false
 * Note that I did a bunch of work yesterday related to Chapter 3 of Greg Lim's [Beginning Vue 3 Development](https://www.amazon.com/Beginning-Vue-Development-Vue-js-development/dp/B0BM3PQD36).
 * Rather than commit that to **main** branch as usual, I'm going to create a new branch. Perhaps call new branch **03-greg** for chapter 3. and then create a second new branch for legacy stuff from [Traversky Media's 3-hour YouTube course on Vue](https://youtu.be/VeNfHj6MhgA?si=qGJZC9u1T4GzGHfY&t=1933). Call this second branch **31-tm**. And then make sure **31-tm** exactly equal to the old **main**.
 * And then from now on, work exclusively on **03-greg**. And when I'm satisified with that and I want to move on to Lim Chapter 4, branch from **03** to create a new branch for **04-greg**, and then branch from there to **05-greg** for Lim Chapter 5, and so on...
+* Success! 
