@@ -147,3 +147,9 @@ defineProps({
 ## Lim Chapter 3
 * Completed Chapter 3 at Stanford Accelerator after Mike's Bikes visit. Gonna experiment with [git](/git-notes) to branch properly now.
 * Successfully created git branches and can switch between them. Only running all branches locally, have not saved remotes at github yet.
+
+
+## 9/05/2024
+### Greg Lim
+* At airport and on JetBlue flt to NY, completed Chapters 4 and 5 (forms).
+* On to Chapter 6 on API.
