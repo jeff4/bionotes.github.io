@@ -992,3 +992,8 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 	* [7-minute flexbox tutorial](https://www.youtube.com/watch?v=y_taUkBEouU) from 2022.
 	* [9 Layout Example on Flexbox](https://www.youtube.com/watch?v=xN1BkNItTRk&t=82s) from 2023. 40-minute Crash Course by ByteGrad.
 	* Not from ByteGrad is this tutorial From Feb, 2023 -- [CSS Grid vs. Flexbox](https://www.simplilearn.com/tutorials/css-tutorial/css-grid-vs-flexbox#:~:text=CSS%20Grid%20provides%20two%2Ddimensional,axis%2C%20either%20horizontally%20or%20vertically.)
+
+## 9/06/2024
+* [The Good, The Bad, The Ugly of LSPs](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html) by Michael Peyton Jones, who works on the Haskell LSP. [HN thread](https://news.ycombinator.com/item?id=41440275) 
+
+
