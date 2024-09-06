@@ -1702,7 +1702,9 @@ import { render as renderUI } from "./ui.js";
 ## 8/02/2024
 * Installed typescript on all three machines. See commands and checks in OneNote
 
-
+## 9/06/2024
+* In Dix Hills. Completed 3-4 deep dive on TypeScript. Now about 1-2 weeks into Vue studies.
+* Interesting short [10 minute video](https://youtu.be/Mus_vwhTCq0?si=OXzKp3M1lbH-i41a) from the [Fireship YouTube Channel](https://www.youtube.com/@Fireship)
 
 
 ***
