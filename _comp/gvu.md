@@ -172,7 +172,7 @@ async created() {
 * Fixed problems, page showing everything as expected.
 * Completed everything up to styling.
 
-#### Listing
+#### Chapter 7 branch descriptions
 1. **07gl-1:** Initial table setup, and Bootstrap table styling added
 1. **07gl-2:** Added working red 'Delete to-dos' button
 1. **07gl-3:** Made working blue 'Add new to-dos' button
