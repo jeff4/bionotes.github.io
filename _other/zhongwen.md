@@ -86,7 +86,7 @@ permalink: /zhongwen/
 ## 9/10 - 10/15
 ### Language Log arguments about Chinese characters on Language Log
 * Various 2016 links from Language Log about Chinese characters versus pinyin
-	* https://languagelog.ldc.upenn.edu/nll/?p=25776
+	* [First LL article on topic?](https://languagelog.ldc.upenn.edu/nll/?p=25776)
 	* In FP, ['Chinese is Not a Backward Language'](https://foreignpolicy.com/2016/05/12/chinese-is-a-21st-century-language-ignore-orientalism-2-0-critiques/)
 	* LL ['Backward thinking about orientalism and Chinese characters'](https://languagelog.ldc.upenn.edu/nll/?p=25776)
 	* LL 2010 [Chinese 'character amnesia'](https://languagelog.ldc.upenn.edu/nll/?p=2473)
@@ -784,4 +784,4 @@ Go to [this page](/ch-food/)
 1. 最好 - zuì hǎo (it would be best)
 1. 推 - tuī (to push; to shove)
 1. 牆⧸墻 [墙] - qiáng (wall). 人牆- rén qiáng (human wall).
-1.
+
