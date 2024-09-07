@@ -148,8 +148,18 @@ defineProps({
 * Completed Chapter 3 at Stanford Accelerator after Mike's Bikes visit. Gonna experiment with [git](/git-notes) to branch properly now.
 * Successfully created git branches and can switch between them. Only running all branches locally, have not saved remotes at github yet.
 
-
 ## 9/05/2024
-### Greg Lim
+### Greg Lim, chapters 4, 5, 6
 * At airport and on JetBlue flt to NY, completed Chapters 4 and 5 (forms).
-* On to Chapter 6 on API.
+* Part way through Chapter 6 on API usage. Code in book is wrong, it is stored exactly in branch **06gl-1**.
+* Fed problem and error into ChatGPT and got [this answer](https://chatgpt.com/share/90d0aeaa-0455-46c6-914d-bb3ffd165131). 
+	* As suspected, no **users** object was created in `/src/components/GitHub.vue` component.
+	* New code works, it passes as a prop into the `/src/App.vue`. **However**, even chatgpt was wrong. this code was placed above methods. Needs to be *below* **methods: { ...} ** block:
+
+```javascript
+async created() {
+	this.users = await this.fetchGitHubUsers();
+}
+```
+* Now it works, all stored in branch **06gl-2**.
+
