@@ -166,11 +166,18 @@ async created() {
 * Created branch **06gl-3** that added input form field for custom search queries. Also created spinner icon when we wait for results to load from API request call.
 
 ## 9/06/2024
-### Greg Lim, Chapter 7
+### Greg Lim, Chapter 7, parts 1,2,3
 * Create a CRUD to-do app within `/vue2` directory. Set up new git using `git init`. First commit in **main** branch. Then used `git checkout -b 07gl-1` to copy everything from **main** to into new branch **07gl-1**.
 * Used this [phind answer](https://www.phind.com/search?cache=mo6av6y8btgre8j05wq0vo5n). And errors went away, but nothing is rendering on the screen.
 * Fixed problems, page showing everything as expected.
 * Completed everything up to styling.
-* New changes will be for **07gl-2**.
 
+#### Listing
+1. **07gl-1:** Initial table setup, and Bootstrap table styling added
+1. **07gl-2:** Added working red 'Delete to-dos' button
+1. **07gl-3:** Made working blue 'Add new to-dos' button
+1. **07gl-4:** Make working 'Edit to-dos' button
 
+## 9/07/2024
+### Greg Lim, Chapter 7, parts 4
+* Created branch **07gl-4** to hold Editing to-dos
