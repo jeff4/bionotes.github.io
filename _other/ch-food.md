@@ -31,6 +31,7 @@ permalink: /ch-food/
 1. 紅油龍炒手 - hóngyóu lóng chǎoshǒu. Spicy Pork Wontons. *literal* red oil dragon sauteed hands.  炒手 aka ['crossed hands'](https://en.wikipedia.org/wiki/Wonton#Sichuan_cuisine) is a nickname from Sichuan Cuisine
 1. 水餃 [水饺] - shuǐ jiǎ (boiled dumplings) see also 交 - jiāo (to hand in assignment) from Lesson 14 
 1. 菜單 [菜单] - cài dān (menu) 
+1. 紅燒牛尾麵 [红烧牛尾面]  - hóng shaō niú wěi miàn (Braised Oxtail Noodles)
 
 ### Crouching Tiger lunch with A+A on Wed 26 July 2023
 1. 手工白菜豬肉水餃 - shǒugōng báicài zhūròu shuǐ jiǎo. Literal: handmade (big) white cabbage pork meat dumplings. English: Handmade Pork & Napa Cabbage Dumplings
