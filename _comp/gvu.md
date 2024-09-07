@@ -163,4 +163,8 @@ async created() {
 ```
 * was originally placed above the **methods: { ...}** block. In fact, it needs to be placed *below* that block. Error stopped.
 * Now it works, all stored in branch **06gl-2**.
+* Created branch **06gl-3** that added input form field for custom search queries. Also created spinner icon when we wait for results to load from API request call.
 
+## 9/06/2024
+### Greg Lim, Chapter 7
+* Create a CRUD app
