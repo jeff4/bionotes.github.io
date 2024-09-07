@@ -169,6 +169,8 @@ async created() {
 ### Greg Lim, Chapter 7
 * Create a CRUD to-do app within `/vue2` directory. Set up new git using `git init`. First commit in **main** branch. Then used `git checkout -b 07gl-1` to copy everything from **main** to into new branch **07gl-1**.
 * Used this [phind answer](https://www.phind.com/search?cache=mo6av6y8btgre8j05wq0vo5n). And errors went away, but nothing is rendering on the screen.
+* Fixed problems, page showing everything as expected.
 * Completed everything up to styling.
+* New changes will be for **07gl-2**.
 
 
