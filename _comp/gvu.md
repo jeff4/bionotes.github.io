@@ -213,15 +213,14 @@ async created() {
 1. To rename a branch
 1. To delete a branch
 
-
-
 ### Items to delete / edit
-1. Items to delete from `<ROOT>` directory:
-    * `/src/components/HelloWorld.vue`
-    * `/src/components/TheWelcome.vue`
-    * `/src/components/WelcomeItem.vue`
-    * `/src/views/AboutView.vue`
-    * `/src/views/HomeView.vue`
+1. Items to delete from `<ROOT>/src/components` directory:
+	* HelloWorld.vue
+	* TheWelcome.vue
+	* WelcomeItem.vue
+1. Items to delete from `<root>/src/views` directory:
+	* AboutView.vue
+	* HomeView.vue
 1. Items to edit
     * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
 
