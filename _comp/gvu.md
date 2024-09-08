@@ -177,7 +177,7 @@ async created() {
 1. **07gl-2:** Added working red 'Delete to-dos' button
 1. **07gl-3:** Made working blue 'Add new to-dos' button
 1. **07gl-4:** Make working 'Edit to-dos' button. Everything is working except that the Edit button is not changing state between 'Add' and 'Edit'. Need to review all source code at the end of Chapter 7.
-1. **07gl-5:** No changes yet from 07gl-4. 3.1415
+1. **07gl-5:** No changes yet from 07gl-4. 
 
 
 ## 9/08/2024
@@ -214,13 +214,13 @@ async created() {
 1. To delete a branch
 
 ### Items to delete / edit
-1. Items to delete from `<ROOT>/src/components` directory:
-	* HelloWorld.vue
-	* TheWelcome.vue
-	* WelcomeItem.vue
+1. Items to delete from `<root>/src/components` directory:
+	* **HelloWorld.vue**
+	* **TheWelcome.vue**
+	* **WelcomeItem.vue**
 1. Items to delete from `<root>/src/views` directory:
-	* AboutView.vue
-	* HomeView.vue
+	* **AboutView.vue**
+	* **HomeView.vue**
 1. Items to edit
     * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
 
