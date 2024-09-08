@@ -190,7 +190,7 @@ async created() {
 1. Type **npm init vue@latest**
 1. Options
 	* **Project name:** `<your-project-name`. In our case, we type in **vue3**.
-	* **Add TypeScript:** No for now
+	* **Add TypeScript:** No (for now)
 	* **Add JSX support:** No
 	* **Add Vue Router for SPA development:** Yes
 	* **Add Pinia for state management:** No
