@@ -199,6 +199,7 @@ async created() {
 	* **Add ESLint for code quality:** No
 	* **Add Prettier for code formatting:** No
 1. Navigate into `/demo_files/vue3`
-1. Ensure that latest npm packages and dependencies are installed by typing **pm install**
+1. Ensure that latest npm packages and dependencies are installed by typing **npm install**
 1. Ensure that this directory is git-aware by typing **git init**
+1. Edit *vbp* with desired alias shortcuts.
 1. Everything should be good to go. To run server, type **npm run dev**
