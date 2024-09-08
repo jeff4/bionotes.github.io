@@ -177,7 +177,7 @@ async created() {
 1. **07gl-2:** Added working red 'Delete to-dos' button
 1. **07gl-3:** Made working blue 'Add new to-dos' button
 1. **07gl-4:** Make working 'Edit to-dos' button. Everything is working except that the Edit button is not changing state between 'Add' and 'Edit'. Need to review all source code at the end of Chapter 7.
-1. **07gl-5:** No changes yet from 07gl-4
+1. **07gl-5:** No changes yet from 07gl-4. 3.1415
 
 
 ## 9/08/2024
