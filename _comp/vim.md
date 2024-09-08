@@ -1,323 +1,222 @@
 ---
-title: Notes on vim
-permalink: /vim/
+title: Vue.js Notes
+permalink: /gvu/
+sitemap: false
 ---
 
-## Log
-* 2/18/2023 - Found good reasoning and explanation of syntax highlights for vim [here](https://www.cduan.com/technical/vi/vi-4.shtml) 
-* 2/25/2023 - Great advanced vim resource especially vimscripting [here](https://learnvimscriptthehardway.stevelosh.com/)
-* 3/02/2023 - Cool new tricks in this 14-minute MAKC [Youtube video](https://www.youtube.com/watch?v=B-EPvfxcgl0) titled "My Favorite Vim Tricks". Outline:
-	* Tabs, Custom Workspaces, Multi-language Spell Checking, (auto) completon Ctrl-p/n, File Explorers, Visual Block mode, Macros 
-* 3/03/2023 - From The Valuable Dev. [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) ... part of series. 
-	* First article for beginners is [here](https://thevaluable.dev/vim-commands-beginner/).
-	* Guide for intermediate users is [here](https://thevaluable.dev/vim-intermediate/)
-* 3/03 - [*Vim Tips for the Intermediate Vim User*](https://jemma.dev/blog/intermediate-vim-tips) By Jemma Issroff, starts with talking about mini-golf and then starts goes into interesting examples. 
-* 3/04 - From this Hacker News [comment](https://news.ycombinator.com/item?id=33812893)
-	* Best user manual and [guide with examples](https://vimhelp.org/usr_01.txt.html#usr_01.txt) is built into the editor.
-	* [Table of contents](https://vimhelp.org/usr_toc.txt.html) accessible via *:h user_toc.txt*
-	* [Reference Manual](https://vimhelp.org/#reference_toc) accessible via *:h reference_toc*
-	* [Cheatsheet](https://vimhelp.org/quickref.txt.html) accessible via *:h quickref*
-* 3/05 Famous Stackover Flow [answer from 8/09/2009](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)--epic explanation about how to grok vi.
-	* From same thread is this [answer from 2010](https://stackoverflow.com/a/2559262) which has a ton of shortcuts, a starter .vimrc file etc.
-* 3/10 Figured out proper autocommands to change colorscheme based on Insert or Command mode.
-* 3/11 Decide which new colorschemes to add. Partially inspired by [this YouTube video](https://www.youtube.com/watch?v=7R7LOxOoAw0)
-	* [Gruvbox](https://github.com/morhetz/gruvbox)
-	* [Solarized](https://ethanschoonover.com/solarized/)
-	* [Nord](https://www.nordtheme.com/)
-* 3/12 Successfully followed [these instructions](https://www.cyberciti.biz/programming/vim-plug-a-beautiful-and-minimalist-vim-plugin-manager-for-unix-and-linux-users/) to install vim-plug
-	* Also installed dracula, codedark, and personal favorite: Kolor.
-* 3/21 Lots of progress documented in OneNote. For autocomplete based on other words in the document, go into Insert mode and try Ctrl-n and Ctrl-p. For more, see [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#i_CTRL-N) or [this help doc](https://vimdoc.sourceforge.net/htmldoc/insert.html#ins-completion)
-* 3/23 Delighted by typing ci{ or di{ where i refers to "inside" and you can (c)hange or (d)elete everything inside those curly braces.
-	* Works for ci* where * = parentheses, quotes, brackets, curly braces, any open/closed tokens.
-* 3/25 Need to rewatch this [video](https://www.youtube.com/watch?v=bQfFvExpZDU) on g commands. Off the top of my head:
-	* gj and gk in the context of a long line of text which appears visually as a single paragraph allows one to move up and down *within* that paragraph without going to different lines
-		* Also works by adding movement so g5j will move 5 lines down within the visual block of text
-	* gu [text object] makes everything lowercase. gU [text object] makes everything uppercase.
-		* e.g., gu$ makes everything lowercase to the end of the line.
-		* e.g., gU5w makes the next 5 words uppercase
-* 5/04 [List of vim-friendly apps and utilities](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) and associated [HN thread](https://news.ycombinator.com/item?id=35816361)
-* 7/11 Vim's implementation of grep. Some links discussing various flavors of regex related to perl, vim, Basic Regular Expression (BRE) synatx, Extended Regular Expression (ERE) synatx, etc.
-	* Very short [comparison of regex flavors](http://vimregex.com/#compare) from this [Guide to regex in vim](http://vimregex.com/)
-	* [Stack overflow question from 2010](https://stackoverflow.com/questions/3864467/whats-the-difference-between-vim-regex-and-normal-regex). See this [comment](https://stackoverflow.com/a/14851587) and also use vim *:help perl-patterns*
-	* vim's regex mode, invoked by prepending with \v. See vim *:help /\v*
-	* See also vim *:help pattern*
-* 8/05 - Creator and maintainer of vim [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar) passed away. :( [HN thread with personal anecdotes](https://en.wikipedia.org/wiki/Bram_Moolenaar)
-* 8/27 - Created distinct [page for my sed notes](/sed/)
+## Beginning Vue 3 Development
+* Subtitle: Learn Vue.JS 3 Web Development
+* Author: Greg Lim, Twitter: @greglim81
+* Published: November, 2022
+* 147 Pages
+* Kindle max location number: 3051
+* JH shorthand = GVU = Greg VUe
 
-## 9/16/2023
+## 3-hour Crash Course
+* Traversy Media / Brad Traversy
+* YouTube [link](https://www.youtube.com/watch?v=VeNfHj6MhgA)
 
-* Got back into [vim-plug](https://github.com/junegunn/vim-plug) because I want to have proper \*.astro syntax highlighting. Referencing the [vim-astro plugin](https://github.com/wuelnerdotexe/vim-astro). Adapted instructions from this [Linux vim-plug guide](https://www.linuxfordevices.com/tutorials/linux/vim-plug-install-plugins). Main steps: (1) add a new line to `.vimrc`; (2) start new terminal window; and (3) Open a vim file and type `:PlugInstall`.
-* I also edited my `.gitignore` file within `/proj-4/a2-astro` so that temporary vim files like `*.swp` and `*.swo` are not tracked/pushed by git, per [these instructions](https://stackoverflow.com/questions/4824188/git-ignore-vim-temporary-files#comment28311078_4824199)
-	* Should read more about how [.gitignore works](https://git-scm.com/docs/gitignore)
-* Note. I currently am able to indent pretty effectively with the `ctrl-v`, select how many rows with `j`, `shift-I`, type text or tabs to apply to all lines sequence. However, deletion (aka outdenting) doesn't seem to work to well. Reread section 5 [Blockwise operators](https://vimdoc.sourceforge.net/htmldoc/visual.html#blockwise-operators) to see if I can fix this.
-	* Another potential [resource](https://vim.fandom.com/wiki/Shifting_blocks_visually)
-
-## 9/24/2023
-* to switch immediately to tab number 'n', type `ngt`. e.g, to move to tab 5, type `5gt`.
-* when invoking vim on the command line, typing `vim -p filename1.txt filename2.txt` will automatically open desired files all at once, each in its own tab all in the same instance of vim.
-
-
-## 9/27/2023
-* Very handy way of deleting to a `search string` e.g., 'Nashville'. Instead of typing `dtN`, type `d/Nashville` followed by <CR> or `Enter` key. See [this answer](https://vi.stackexchange.com/questions/14459/delete-to-next-search-result)
-* Note that to search backwards, `Shift-/` aka `?` works just like usual reverse search. e.g., instead of typing `dTN`, type `d?Nashville` followed by <CR> or `Enter` key. 
-
-## 10/11/2023
-* vim has a built in sort utility works very well. If you want to sort all lines `:%sort u`. For more see [this article](https://vim.fandom.com/wiki/Sort_lines#:~:text=Yes%2C%20it%27s%20that%20simple.,%27%3E%20on%20the%20command%20line.)
-
-## 2/05/2024
-* Notes on `qq` macro recordings can be found in a7 > History of Technology section > Pasquinelli Chapter 2 *aka* `54-pas-chap2`.
-* Notes on new `qq` macro recordings can be found in a7 > Eng > Part II Diallectics *aka* `72-p2`.
-
-## 2/06/2024
-* This is how you paste into the `:` command line, officially called the *Ex command line*. Add something to the default register using `y` for yank, e.g., `yl` for 1 letter, `yw` for 1 word.
-	* e.g., `yb` for one word backward
-	* Then, go to ex cmd line by typing <esc> and typing `:`
-	* `<Ctrl> + r` and then type *"* to access the default register
-	* Can type `"a` to access the **a** register
-* For more detailed instructions in how to enter in escape/control characters, see [this comment](https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-the-vim-command-line)
-
-## 2/15/2024
-* Began thinking of transitioning from vim to Neovim. See comparisons in this [Baeldung Linux article](https://www.baeldung.com/linux/vim-vs-neovim)
-
-
-## 6/25/2024
-* When using the `:%s` regex, remember that `\n` refers to the newlines in the search field, and `\r` refers to newlines in the replace field.
-	* So for example, if you want to replace *text* \<newline\> with *text* **;** \<newline\>, you would type `%s|\n|;\r|gc`.
-* Use [this article](https://www.brianstorti.com/vim-registers/) to understand how to add and retrieve characters from registers. For cut and paste. 
-	* For example, to add everyting from the cursor to the end of the line `$` to the register `a`, type `"ay$`. B/c y = (y)ank and $ indicates the end of the current line.
-	* Then, to paste what's in the register `a`, simply type `"ap`.
-
-## 7/07/2024
-* Repeated instructions on how to store and paste with register
-#### Example 1
-* to yank next 3 words and store in register **a**, type `"ay3w`.
-* to paste item in register **a**, type `"ap`.
-#### Example 2
-* to yank from current cursor to end of line and store in register **b**, type `"by$`.
-* to paste item in register **b**, type `"bp`.
-
-## 7/09/2024
-* Equivalent to **Save As...** in macOS / Windows / Office. Type `:w {pathname}/{NEW filename}` will write current file contents into the NEW file. Note that this does *not* save current contents into the current file so you must type `:w` separately to make sure that happens. See more [here](https://stackoverflow.com/a/4980194).
+## 2-hour Crash Course 
+* John Komarnicki
+* YouTube [link](https://www.youtube.com/watch?v=KTFH4P8unUQ)
 
 ***
+## 8/26/2024
+* get started with GVU book.
+* Up to location 117/3051
+* Also began watching the 3-hour [Vue.js Crash Course 2024](https://www.youtube.com/watch?v=VeNfHj6MhgA) by Traversy Media. Up to 17:17 rn.
+* Began going through [Vue Intro docs](https://vuejs.org/guide/introduction.html)
 
-## 8/03/2024
-* Let's install LSP server and relevant plugins for syntax highlighting snd CoC code completion for TypeScript and React
-* Note: `:bd` in vim clears the current buffer (aka closes the window like if you are in PlugInstall) without quitting vim. Before this, I was using `:q` to quit vim entirely to clear away PlugInstall. For more, see [Stack Overflow](https://stackoverflow.com/a/23592407)
+## Notes on Vue.JS docs
+### Single-File Components
+* A `*.vue` file is a SFC (Single-File Component) file that is similar to HTML.
+* It must consist of three parts:
+	1. Logic -- **JavaScript** in the `/* script */` section
+	1. Content -- **HTML** in the `/* template */` section
+	1. Styling -- **CSS** in the `/* style */` section
+* of course, a regular HTML document has *script* and *style* sections to hold onto parts 1 and 3 respectively. So as we can see, SFC / *.vue files are very similar to `*.html` files.
+* Per my reading of this [Composition API FAQ](https://vuejs.org/guide/extras/composition-api-faq), i believe i'll just go with the classic **Options API** for now b/c i'm mostly doing small and simple projects for now. However, at some point, I may learn the **Composition API** as well. Or go directly to React. That article also has a nice comparison of the Vue Composition API vs. React Hooks.
+* Sped through the [vue.js tutorial](https://vuejs.org/tutorial/#step-1)
+* Built my own vue app with the [quick start](https://vuejs.org/guide/quick-start.html)
+    * see ~/champ/proj-3/vue1
 
-### Steps
-1. Watched this YouTube [video](https://youtu.be/n6JEqPuWOxg?si=hI6hUuiYtQym2EFJ&t=51) by [Nir Lichtman](https://www.youtube.com/@nirlichtman) at 51 seconds. You can see his [.vimrc file](https://github.com/nir9/welcome/blob/86d44256e856fede939ba33088f2631b3335cb5e/.vimrc) at GitHub
-1. Edit my own `.vimrc` file
-1. Make sure these plug-ins are included within the `call plug#begin( expand() )` and `call plug#end()` lines. 
-
-```vim
-Plug 'prabirshrestha/vim-lsp'
-Plug 'mattn/vim-lsp-settings'
-```
-1. Hm. Looks like I may need to upgrade my version of vim which is currently at 9.0. But CoC requires 9.0.0438 per [these instructions](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#requirements). 
-1. So I will use brew to update my vim. Currently using default that came with macOS, stored in `/usr/bin/vim`. 
-1. Went through `brew update; doctor; upgrade` cycle for all machines.
-1. Now installing vim using `brew install vim`. For more context, see the [Homebrew vim page](https://formulae.brew.sh/formula/vim)
-1. Success. Now, running updated vim version 9.1 (02 Jan 2024)
-	* On x86, running from the  `/usr/local/bin/vim` directory . 
-	* On arm64 Apple Silicon, running from the  `/opt/homebrew/bin/vim` directory .
-
-### More steps
-* Open up vim, and run plug install with `:PlugInstall` and choose Yes to install the new vim plugins.
-* Next time you open up any particular filetype with a `*.c`, `*.js`, `*.ts`, etc. type **:LspInstallServer** and press `Y` for yes. This will ensure that the desired Language Server is installed.
-* To disable everything, just go to the .vimrc file and comment out the 2 lines for the lsp plugins: prabir.../vim-lisp` and `mattn/vim-lsp-settings`.
-* No need to rerun :PlugInstall, uninstall, etc, it will all be turned off.
-* Also, looks like there is a TypeScript LSP that automatically pops up when I open `*.js` files. But *not* any default JS Lsp's.
-* Ok got all machines working. Can easily toggle on/off lsp functionality by commenting on/off 2 plugins in `.vimrc`.
-
-***
-
-## 8/31/2024
-* Let's install neovim so i can take advantage of code completion etc for TypeScript, Vue, and React projects.
-* Reran usual brew hygeine commands, see OneNote
-
-## Some tutorials for today's setup
-1. Feb 2024 - [Ultimate Vim Vue Setup](https://pragmaticpineapple.com/ultimate-vim-vue-setup/). Vim, not neovim
-1. Feb 2024- YouTube by Dreams of Code: [The perfect Neovim setup for Next.js (it's back)](https://www.youtube.com/watch?v=8um8OYwvz3c)
-
-
-## Notes on Neovim setup from Dreams of Code tutorial
-### Part 1: Initial setup
-1. Installing latest stable build of neovim, release 0.10. In video, they are using 0.9.4.
-1. Installed with `brew install neovim`
-1. Updated .vimrc file for shortcut for nvim commands
-1. In addition to installing neovim, need to install **git** and **nerdfonts**. Both are installed already.
-1. Next, go with basic config. [DoC](https://youtu.be/8um8OYwvz3c?si=_khivyr_ukthnrER&t=86) recomends NVChad.
-	* config file usually lives at `~/.config/nvim`
-	* command to clone NVChad: `git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
-	* creates **~/.config/nvim** directory.
-1. To quickly switch the color theme, in *Cmd* mode, just type `<space>th`
-	* CoD recommends 'catpuccino' theme
-	* Because many themes break my macOS Terminal setup, i chose **pastelbeans** which seems to work OK in both Alacritty and Terminal. 
-	* Also don't mind **decay** on iMac display. Note, need to type `:match Error /\t/` to reactivate tab coloring
-
-### Part 2: Configuring for JS and TS
-1. Starting at 2:27, [CoD](https://youtu.be/8um8OYwvz3c?si=453isFitqTzkH81g&t=147) talks about what's needed.
-1. LSP install. Navigate to `~/.config/nvim/lua/custom/`
-	* Edit the `.../nvim/lua/custom/chadrc.lua` file. Add these lines below the `M.ui = { theme = 'pastelbeans' }`: 
-	```lua
-	M.plugins = "custom.plugins"
-	return M
-    ```
-***
-
-3. Create a new **plugins.lua** file in that location like this: `~/.config/nvim/lua/custom/plugins.lua`
-4. Verify that this is entered into `.../nvim/lua/custom/plugins.lua`. **Note that you must edit this file again below to make sure the TypeScript LSP is installed**
-
-```lua
-local plugins = {
-  {
-    "neovim/nvim-lspconfig",
-    config = function()
-      require "plugins.configs.lspconfig"
-    end,
-  }
-}
-return plugins
-```
-***
-5. Create a file named **lspconfig.lua** and store in `.../nvim/lua/custom/configs/lspconfig.lua` and add these contents. **Note that this is *one level down* with a new *configs* subdirectory!**
-
-```lua
-local base = require("plugins.configs.lspconfig")
-local on_attach = base.on_attach
-local capabilities = base.capabilities
-
-local lspconfig = require("lspconfig")
-
-lspconfig.tsserver.setup({
-  on_attach = on_attach,
-  capabilities = capabilities,
-})
-```
-***
-6. Now to install the TypeScript lsp server. There are 2 ways of doing this:
-    1. Using brew or other package managers on my local machine to download. Or perhaps use the PlugInstall for vim.
-    1. Use the nvim specific installer **mason.nvim**. Advantage of this method is that this follows our config to another machine. Let's use *mason.nvim*.
-7. So let's edit `.../nvim/lua/custom/plugins.lua` and add new lines ensuring that the typescript server is installed. **Here is the final version of the `plugins.lua` file up to this point:**
-
-```lua
-local plugins = {
-  {
-    "neovim/nvim-lspconfig",
-    config = function()
-      require "plugins.configs.lspconfig"
-    end,
-  },
-  {
-    "williambowman/mason.nvim",
-    opts = {
-      ensure_installed = {
-        "typescript-language-server",
-      }
-    }
-  }
-}
-return plugins
-```
-***
-8. Now, let's quit *nvim* and reopen it to reload our plugins.
-9. Type `:MasonInstallAll` and we will see the LSPs for **Lua** and **Typescript** being installed.
-10. After that, autocomplete is ready to go for lua and TS. We can verify this is working by going into any JS or TS file and typing `:LspInfo` which will show that the server is installed. Also, by typing in standard JS/TS keywords will show have autocomplete working.
-
-***
-11. Not sure if I need this, but I added `"vue-language-server",` so the complete version of `.../nvim/lua/custom/plugins.lua` is:
-
-```lua
-
-local plugins = {
-  {
-    "neovim/nvim-lspconfig",
-    config = function()
-      require "plugins.configs.lspconfig"
-    end,
-  },
-  {
-    "williambowman/mason.nvim",
-    opts = {
-      ensure_installed = {
-        "typescript-language-server",
-        "vue-language-server",
-      }
-    }
-  }
-}
-return plugins
-```
-
-12. and also within nvim, typed `:MasonInstall vue-language-server`.
-### Part 3: Instructions on setting up autocomplete for Tailwind.css
-* Starts at [6:30](https://youtu.be/8um8OYwvz3c?si=-_h0ZbqVgs7tCHfW&t=390)
-
-### Part 4: Instructions for installing ESlint
-* Starts at [7:29](https://youtu.be/8um8OYwvz3c?si=Pdvjjm9IvXNokTmA&t=449)
-
-### Part 5: Instructions for installing Prettier
-* Starts at [10:02](https://www.youtube.com/watch?v=8um8OYwvz3c&t=602s)
-
-### Part 6: Instructions for installing HTML auto tag closers
-* Starts at [12:39](https://youtu.be/8um8OYwvz3c?si=d66SdgoShr4wgH4K&t=759)
+### Deprecated next steps
+1. Install coc using :PlugInstall using [these instructions](https://dev.to/rajikaimal/vim-auto-completion-with-coc-nvim-ie3). Not needed anymore b/c I'm using neovim.
+2. See also [IDE support page](https://vuejs.org/guide/scaling-up/tooling.html#ide-support)
+3. install coc-volar
+4. continue with [vue core docs](https://vuejs.org/guide/essentials/application.html)
 
 ***
 
 ## 9/01/2024
-* Commented out legacy LSP plugins from .vimrc because I'm relying on Mason, etc. in NVChad.
-* Tried out various new color themes (see OneN).
-* On champ, installed vue LSP with command `MasonInstall vue-language-server`. Hopefully this handles most cases and I don't need to still install volar or tree-sitter
+* Made a lot of progress, as can be seen through the [vim](/vim) and [git](/git-notes/) pages. Got neovim working, set up new repo, everything is synching properly. Now to decide which tutorials to use and which initial app to build.
+* Also learned more about Vite. See ChatGPT dialogue from this date.
+* Another tutorial i'm checking out is the [2-hour crash course](https://www.youtube.com/watch?v=KTFH4P8unUQ) by John Komarnicki
+	* Code is available at his [GH repo](https://github.com/johnkomarnicki/vue-3-crash-course).
+	* His sample app is called [Vue Todos](https://sparkling-platypus-7955f2.netlify.app/)
 
-### Vim folding
-* Based on [this article](https://vim.fandom.com/wiki/Folding), one can manually fold with `zf{motion}`.
-	* Handy to use this to automatically make indent aware folding (regardless of tabs or spaces). `:setlocal foldmethod=indent`.
-	* After that, `zo` to open a fold and `zc` to close a fold, for wherever the cursor is.
-	* At some point, perhaps explore folding based on syntax `:setlocal foldmethod=syntax`
+### Examining HelloWorld.vue
+* Looking at this SFC, John introduces [props](https://youtu.be/KTFH4P8unUQ?si=pfcUFgfnq_mqNoFj&t=978), which is how messages are passed between SFCs. Within the **\<script\>** area, the **defineProps()** function has a list of different properties. In this case, 
+
+```typescript
+defineProps({
+  msg: {
+    type: String,
+    required: true,
+  }
+}) 
+```
+
+* That **msg** is then passed into the *template* aka *html* section within the 'handlebar moustaches' (double `{{}}`). like so:
+
+```html
+<h1 class="green">{{ msg }}</h1>
+```
+
+### Examining TheWelcome.vue
+* At [17:26](https://youtu.be/KTFH4P8unUQ?si=i2cL9uApvAMKX_A7&t=1046), John talks about the `#heading` and `#icon` attributes modifying the **\<template\>** element in *WelcomeItem*.  
+* These are **named slots**. They are references to content contained in the **WelcomeItem.vue** file.
+
+### Examining /src/router/index.js
+* At [18:36](https://youtu.be/KTFH4P8unUQ?si=Q-iH5DCXJOjNO8bf&t=1116), talk about the index.js file in the router directory. doesn't seem to exist in my copy. 
+* Hm, neither `/router/index.js` nor the `*.vue` files stored in `/src/views/` directory seem to exist. i.e., both the `/router` and `/views` subdirectories are missing.
+
+### root/package.json
+* interesting seeing the TS, types, vite, and vue-tsc dependencies in here. distinct from whats in [the tutorial at 19:03a](https://youtu.be/KTFH4P8unUQ?si=9pCF5HyJsyZUCzDQ&t=1144).
+
+### root/vite.config.ts
+* At [19:10](https://youtu.be/KTFH4P8unUQ?si=4UN8T0Si7q407nyL&t=1150), we can see how to configure vite. Won't be changing this at all during this tutorial/2-hour crash course.
+
+### Let's start deleting
+* Inside `<root>/src/assets` directory, delete all files: **base.css**, **logo.svg**, **main.css**. 
+* Inside `<root>/src/components`, delete everything, including everyting inside the `/icons` subdirectory.
+* Supposed to delete reference to `TheWelcome.vue` from the `<root>/src/views/HomeView.vue` file. but that file doesn't exist in my copy.
+
+## Edits to /src/App.vue
+* Remove entire header from **template (aka html) section**.
+* delete entire `<style scoped>` section. replace with a vanilla `<style> ... </style>` section.
+
+## Edits to /src/main.ts
+* remove `import './assets/main.css'`.
+
+## Now, let's add some dependencies
+* [20:55](https://youtu.be/KTFH4P8unUQ?si=JhexWofpi3dLBh4F&t=1255): UID to generate unique ids, Iconify-for-Vue for icons, sass as css-preprocesor.
+* from `<root>` directory, type `npm install --save-dev uid @iconify/vue sass`
+	* the **--save-dev** flag means to save this as a developer dependency
+
+## Section 3: Global styling
+* Usual good practice is to create a `global.css` inside `<root>/src/assets/`. But for a small project like this, we can place the css directly into the main **style** section we just (re-)created within `/src/App.vue`
+* Since we are going to be using a css-preprocessor, let's update the attribute with a `lang="scss"` value:
+
+```html
+<style lang="scss">
+```
+* Now let's import the [Rubrik Google Font](https://fonts.google.com/specimen/Rubik) and use the following import statement:
+
+```html
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+</style>
+```
+
+* Note, that I copied and pasted the updated style code from the [Section 3 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-3/src/App.vue) of his App.vue file. At [23:23](https://youtu.be/KTFH4P8unUQ?si=aWAlGACrIQBetskv&t=1403)
+
+## Section 4
+* Download `Vue_Logo_Black.png` from [Section 4 branch](https://github.com/johnkomarnicki/vue-3-crash-course/blob/section-4/src/assets/Vue_Logo_Black.png) which is located in `/src/assets/`. Save it to our own assets directory locally. 
+* Created `TodoHeader.vue` file and placed inside `/src/components` directory.
 
 ***
-### Relative line numbering isn't working in Neovim
-* I asked phind and got [this answer](https://www.phind.com/search?cache=tmz8kq336ddce3nz7vyvdiwx)
-* Here is what works in my `~/.vimrc` file:
 
-```
-" Turn on absolute line numbers
-set number
-
-" Turn on relative iine numbers
-set relativenumber
-```
-
-* According to phind, these are the equivalent lines I need to enter into my `~/.config/nvim/init.lua` file:
-
-```
--- Enable line numbers
-vim.opt.number = true
-
--- Enable relative line numbers
-vim.opt.relativenumber = true
-```
+* Btw, i might have chosen to *not* make this project a single page app. So that may be why the router is missing. but Watching Traversy's 3-hour Crash Course 2024 at [21:36](https://youtu.be/VeNfHj6MhgA?si=4MNrgiDzkSjju7oy&t=1296), he also chose no for Vue Router. But he says that he will show us how to set this up by scratch later on.
+	* Viewed up to [22:30](https://youtu.be/VeNfHj6MhgA?si=K8bzyDA06rgeKRLn&t=1350).
 
 ***
+
+## 9/02/2024
+### more on 3-hour course by Brad Traversy
+* up to 23:07.
+* At [27:55](https://youtu.be/VeNfHj6MhgA?si=_J4d23dyk2pk0sk6&t=1675), talks about implementing first using the Options API. Later, he will implement the same application using the newer Composition API to show the differences.
+* At [29:25](https://youtu.be/VeNfHj6MhgA?si=eEHPIpcYVubNWpIx&t=1765), Brad explains **vue-directives** such as `v-if` which can be placed in the `html/template` section. 
+	* example with `v-else` and `v-else-if`.
+* Up to 32:12. Had a minor issue with CSS that was resolved with this [phind answer](https://www.phind.com/search?cache=jf8p1m1nk3zrbbjo08p3hfhz).
+* Note, this has all been in the context of Options API using Traversy's 3 hour crash course.
+
+
+## 9/03/2024
+### Further progress on Greg Lim
+## Lim Chapter 3
+* Completed Chapter 3 at Stanford Accelerator after Mike's Bikes visit. Gonna experiment with [git](/git-notes) to branch properly now.
+* Successfully created git branches and can switch between them. Only running all branches locally, have not saved remotes at github yet.
+
+## 9/05/2024
+### Greg Lim, chapters 4, 5, 6
+* At airport and on JetBlue flt to NY, completed Chapters 4 and 5 (forms).
+* Part way through Chapter 6 on API usage. Code in book is wrong, it is stored exactly in branch **06gl-1**.
+* Fed problem and error into ChatGPT and got [this answer](https://chatgpt.com/share/90d0aeaa-0455-46c6-914d-bb3ffd165131). 
+	* As suspected, no **users** object was created in `/src/components/GitHub.vue` component.
+	* New code works, it passes as a prop into the `/src/App.vue`. **However**, even chatgpt was wrong. In ChatGPT, this code:
+
+```javascript
+async created() {
+	this.users = await this.fetchGitHubUsers();
+}
+```
+* was originally placed above the **methods: { ...}** block. In fact, it needs to be placed *below* that block. Error stopped.
+* Now it works, all stored in branch **06gl-2**.
+* Created branch **06gl-3** that added input form field for custom search queries. Also created spinner icon when we wait for results to load from API request call.
+
+## 9/06/2024
+### Greg Lim, Chapter 7, parts 1,2,3
+* Create a CRUD to-do app within `/vue2` directory. Set up new git using `git init`. First commit in **main** branch. Then used `git checkout -b 07gl-1` to copy everything from **main** to into new branch **07gl-1**.
+* Used this [phind answer](https://www.phind.com/search?cache=mo6av6y8btgre8j05wq0vo5n). And errors went away, but nothing is rendering on the screen.
+* Fixed problems, page showing everything as expected.
+* Completed everything up to styling.
+
+#### Chapter 7 branch descriptions
+1. **07gl-1:** Initial table setup, and Bootstrap table styling added
+1. **07gl-2:** Added working red 'Delete to-dos' button
+1. **07gl-3:** Made working blue 'Add new to-dos' button
+1. **07gl-4:** Make working 'Edit to-dos' button. Everything is working except that the Edit button is not changing state between 'Add' and 'Edit'. Need to review all source code at the end of Chapter 7.
+1. **07gl-5:** No changes yet from 07gl-4
+
 
 ## 9/08/2024
-### vim relative line numbers
-* To toggle between relative line numbers on or off, use **!** at end.
-	* **`set rnu!`** shorthand command
-	* *:set relativenumber!* unabbreviated version
-* To turn off/on directly
-	* **`set rnu`** shorthand to turn on
-	* *:set relativenumber* to turn on (unabbreviated command)
-	* **`set nornu`** shorthand to turn off
-	* *:set norelativenumber* to turn off (unabbreviated command)
+### Greg Lim, Chapter 8
+* Created new directory vue3.
 
-### vim absoluteline numbers
-* To toggle between having line numbers on or off, use **!** at end.
-	* **`set nu!`** shorthand command
-	* *:set number!* unabbreviated version
-* To turn off/on directly
-	* **`set nu`** shorthand to turn on
-	* *:set number* to turn on (unabbreviated command)
-	* **`set nonu`** shorthand to turn off
-	* *:set nonumber* to turn off (unabbreviated command)
+### Review of steps needed
+
+1. Navigate to parent directory that `<ROOT>` will live within. E.g., `demo_files`.
+1. Type **npm init vue@latest**
+1. Options
+	* **Project name:** `<your-project-name`. In our case, we type in **vue3**.
+	* **Add TypeScript:** No (for now)
+	* **Add JSX support:** No
+	* **Add Vue Router for SPA development:** Yes
+	* **Add Pinia for state management:** No
+	* **Add Vitest for Unit Testing:** No
+	* **Add Cypress for both Unit and End-to-End testing:** No
+	* **Add ESLint for code quality:** No
+	* **Add Prettier for code formatting:** No
+1. Navigate into `/demo_files/vue3`
+1. Ensure that latest npm packages and dependencies are installed by typing **npm install**
+1. Ensure that this directory is git-aware by typing **git init**
+1. Edit *vbp* with desired alias shortcuts.
+1. Everything should be good to go. To run server, type **npm run dev**
+
+### Set up git branches
+
+
+
+### Items to delete / edit
+1. Items to delete from `<ROOT>` directory:
+    * `/src/components/HelloWorld.vue`
+    * `/src/components/TheWelcome.vue`
+    * `/src/components/WelcomeItem.vue`
+    * `/src/views/AboutView.vue`
+    * `/src/views/HomeView.vue`
+1. Items to edit
+    * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
+
+##### Edits to /src/App.vue
+
