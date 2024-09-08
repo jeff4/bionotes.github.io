@@ -203,3 +203,13 @@ async created() {
 1. Ensure that this directory is git-aware by typing **git init**
 1. Edit *vbp* with desired alias shortcuts.
 1. Everything should be good to go. To run server, type **npm run dev**
+1. Items to delete from `<ROOT>` directory:
+    * `/src/components/HelloWorld.vue`
+    * `/src/components/TheWelcome.vue`
+    * `/src/components/WelcomeItem.vue`
+    * `/src/views/AboutView.vue`
+    * `/src/views/HomeView.vue`
+1. Items to edit
+`<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
+
+##### Edits to /src/App.vue
