@@ -305,12 +305,12 @@ vim.opt.relativenumber = true
 ### vim relative line numbers
 * To toggle between relative line numbers on or off, use **!** at end.
 	* **`set rnu!`** shorthand
-	* **set relativenumber!**
+	* *set relativenumber!*
 * To turn off/on directly
-	* **set norelativenumber** to turn off
 	* **set nornu** shorthand to turn off
-	* **set relativenumber** to turn on
+	* *`set norelativenumber`* to turn off
 	* **set rnu** shorthand to turn on
+	* *`set relativenumber`* to turn on
 
 ### vim absoluteline numbers
 * To toggle between having line numbers on or off, use **!** at end.
