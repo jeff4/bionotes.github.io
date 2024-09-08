@@ -183,3 +183,22 @@ async created() {
 ## 9/08/2024
 ### Greg Lim, Chapter 8
 * Created new directory vue3.
+
+### Review of steps needed
+
+1. Navigate to parent directory that `<ROOT>` will live within. E.g., `demo_files`.
+1. Type **npm init vue@latest**
+1. Options
+	* **Project name:** `<your-project-name`. In our case, we type in **vue3**.
+	* **Add TypeScript:** No for now
+	* **Add JSX support:** No
+	* **Add Vue Router for SPA development:** Yes
+	* **Add Pinia for state management:** No
+	* **Add Vitest for Unit Testing:** No
+	* **Add Cypress for both Unit and End-to-End testing:** No
+	* **Add ESLint for code quality:** No
+	* **Add Prettier for code formatting:** No
+1. Navigate into `/demo_files/vue3`
+1. Ensure that latest npm packages and dependencies are installed by typing **pm install**
+1. Ensure that this directory is git-aware by typing **git init**
+1. Everything should be good to go. To run server, type **npm run dev**
