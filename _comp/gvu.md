@@ -203,6 +203,19 @@ async created() {
 1. Ensure that this directory is git-aware by typing **git init**
 1. Edit *vbp* with desired alias shortcuts.
 1. Everything should be good to go. To run server, type **npm run dev**
+
+### Set up git branches
+1. **`git branch`** shows all local branches plus which one is currently checked out highlighted in green with a `*` next to it.
+	* *git branch -a* does the same but also shows remote branches.    
+1. **`git checkout -b <new-branch-name>`** creates a new branch based on previously checked out branch.
+1. **`git checkout <branch-to-switch-to>`** switches to exisiting desired branch.
+1. Make sure you are currently in the correct branch (aka you have checked out desired branch) to apply changes to that branch
+1. To rename a branch
+1. To delete a branch
+
+
+
+### Items to delete / edit
 1. Items to delete from `<ROOT>` directory:
     * `/src/components/HelloWorld.vue`
     * `/src/components/TheWelcome.vue`
@@ -210,6 +223,7 @@ async created() {
     * `/src/views/AboutView.vue`
     * `/src/views/HomeView.vue`
 1. Items to edit
-`<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
+    * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
 
 ##### Edits to /src/App.vue
+
