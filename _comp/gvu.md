@@ -243,3 +243,4 @@ async created() {
 * Populate `<root>/backendapp/todos.json` per Greg's instructions with sample data.
 * From the `/backendapp` directory, execute: **`json-server -p 4000 todos.json`**.
 * Completed up to **Delete Request to Remove Todos** section. **08gl-1** has JSON API server working and connected to client. Next is to wire up the async deleteTodo() function. Ready to do that in branch **08gl-2**
+* 0gl-02 is now complete. have rushed through all of chapter 8 and most of chapter 9, but functionality is not quite what i want it to be.
