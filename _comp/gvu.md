@@ -183,8 +183,8 @@ async created() {
 
 ## 9/08/2024
 
-## How to set up a new Vue3 project
-### Part 1: Initial steps
+# How to set up a new Vue3 project
+## Part 1: Initial steps
 1. Navigate to parent directory that `<ROOT>` will live within. E.g., `demo_files`.
 1. Type **npm init vue@latest**
 1. Options
@@ -203,7 +203,7 @@ async created() {
 1. Edit *vbp* with desired alias shortcuts.
 1. Everything should be good to go. To run server, type **npm run dev**
 
-### Part 2: Set up git branches
+## Part 2: Set up git branches
 1. **`git branch`** shows all local branches plus which one is currently checked out highlighted in green with a `*` next to it.
 	* *git branch -a* does the same but also shows remote branches.    
 1. **`git checkout -b <new-branch-name>`** creates a new branch based on previously checked out branch.
@@ -212,8 +212,8 @@ async created() {
 1. To rename a branch from *old-name* to *new-branc-name*: **`git branch -m <old-name> <new-branch-name>`**
 1. To delete a branch with name *branch-name*, **`git branch -d <branch-name>`**
 
-### Part 3: Items to edit / delete after install
-#### 3.1 Items to delete
+## Part 3: Items to edit / delete after install
+### 3.1 Items to delete
 1. Items to delete from `<root>/src/components` directory:
 	* **HelloWorld.vue**
 	* **TheWelcome.vue**
@@ -222,17 +222,17 @@ async created() {
 	* **AboutView.vue**
 	* **HomeView.vue**
 
-#### 3.2 Edit this in /index.html
+### 3.2 Edit this in /index.html
 * Optionally, one change Title (aka text that appears in browser tab) from `Vite App`. 
 
-#### 3.3 Edits to /src/App.vue
+### 3.3 Edits to /src/App.vue
 * Delete `import HelloWorld from './components/HelloWorld.vue'`
 
-#### 3.4 Edits to /src/router/index.js
+### 3.4 Edits to /src/router/index.js
 * Delete `import HomeView from '../views/HomeView.vue'`
 * Comment out sections in `const router...routes: [...]` referring to:
-	1. **path: '/',...,component: HomeView** 
-	1. **path: '/about', 'name: '/about',...component: () => import('.../views/AboutViews.vue')**
+	1. *path: '/',...,component: HomeView* 
+	1. *path: '/about', 'name: '/about',...component: () => import('.../views/AboutViews.vue')*
 
 ***
 
