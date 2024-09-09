@@ -179,10 +179,9 @@ async created() {
 1. **07gl-4:** Make working 'Edit to-dos' button. Everything is working except that the Edit button is not changing state between 'Add' and 'Edit'. Need to review all source code at the end of Chapter 7.
 1. **07gl-5:** No changes yet from 07gl-4. 
 
+***
 
 ## 9/08/2024
-### Greg Lim, Chapter 8
-* Created new directory vue3.
 
 ### Review of steps needed
 
@@ -213,7 +212,7 @@ async created() {
 1. To rename a branch from *old-name* to *new-branc-name*: **`git branch -m <old-name> <new-branch-name>`**
 1. To delete a branch with name *branch-name*, **`git branch -d <branch-name>`**
 
-### Items to delete / edit
+### Items to delete
 1. Items to delete from `<root>/src/components` directory:
 	* **HelloWorld.vue**
 	* **TheWelcome.vue**
@@ -221,12 +220,20 @@ async created() {
 1. Items to delete from `<root>/src/views` directory:
 	* **AboutView.vue**
 	* **HomeView.vue**
-1. Items to edit
-    * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
+
+## Edit this in /index.html
+1. Optionally, one change Title (aka text that appears in browser tab) from `Vite App`. 
 
 ##### Edits to /src/App.vue
 * Delete `import HelloWorld from './components/HelloWorld.vue'`
 
 #### Edits to /src/router/index.js
 * Delete `import HomeView from '../views/HomeView.vue'`
-* Comment out sections in `const router...rouutes: [...]` referring to: (1) **path: '/',...,component: HomeView** and (2) **path: '/about', 'name: '/about',...component: () => import('.../views/AboutViews.vue')**
+* Comment out sections in `const router...routes: [...]` referring to:
+	1. **path: '/',...,component: HomeView** 
+	1. **path: '/about', 'name: '/about',...component: () => import('.../views/AboutViews.vue')**
+
+***
+
+## Greg Lim Vue Chapter 8
+* Next steps
