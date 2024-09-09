@@ -244,3 +244,12 @@ async created() {
 * From the `/backendapp` directory, execute: **`json-server -p 4000 todos.json`**.
 * Completed up to **Delete Request to Remove Todos** section. **08gl-1** has JSON API server working and connected to client. Next is to wire up the async deleteTodo() function. Ready to do that in branch **08gl-2**
 * 0gl-02 is now complete. have rushed through all of chapter 8 and most of chapter 9, but functionality is not quite what i want it to be.
+
+***
+
+## 9/09/2024
+* Summary of each of the directories
+	1. /vue1 = up to end of Chapter 6
+	1. /vue2 = up to end of Chapter 7
+	1. /vue3 = Chapter 8 + Chapter 9
+
