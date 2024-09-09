@@ -225,4 +225,8 @@ async created() {
     * `<root>/index.html` --> can change Title (aka text that appears in browser tab) from *Vite App* 
 
 ##### Edits to /src/App.vue
+* Delete `import HelloWorld from './components/HelloWorld.vue'`
 
+#### Edits to /src/router/index.js
+* Delete `import HomeView from '../views/HomeView.vue'`
+* Comment out sections in `const router...rouutes: [...]` referring to: (1) **path: '/',...,component: HomeView** and (2) **path: '/about', 'name: '/about',...component: () => import('.../views/AboutViews.vue')**
