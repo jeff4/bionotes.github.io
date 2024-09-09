@@ -210,8 +210,8 @@ async created() {
 1. **`git checkout -b <new-branch-name>`** creates a new branch based on previously checked out branch.
 1. **`git checkout <branch-to-switch-to>`** switches to exisiting desired branch.
 1. Make sure you are currently in the correct branch (aka you have checked out desired branch) to apply changes to that branch
-1. To rename a branch
-1. To delete a branch
+1. To rename a branch from *old-name* to *new-branc-name*: **`git branch -m <old-name> <new-branch-name>`**
+1. To delete a branch with name *branch-name*, **`git branch -d <branch-name>`**
 
 ### Items to delete / edit
 1. Items to delete from `<root>/src/components` directory:
