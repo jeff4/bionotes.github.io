@@ -237,9 +237,9 @@ async created() {
 ***
 
 ## Greg Lim Vue Chapter 8
-* First, navigate to root directory of vue project and install a server to serve mock JSON APIs: `npm install -g json-server`
+* First, navigate to root directory of vue project and install a server to serve mock JSON APIs: **`npm install -g json-server`**
 	* I think the **-g** option means that this is available globally, not just from the `/vue3` directory
 * Create a directory off `<root>` called **/backendapp**. Within that directory, create a file named `todos.json`. 
 * Populate `<root>/backendapp/todos.json` per Greg's instructions with sample data.
 * From the `/backendapp` directory, execute: **`json-server -p 4000 todos.json`**.
-k
+
