@@ -283,12 +283,13 @@ async created() {
 
 ### 1.6.2 Options API
 * Hello world example
-```javascript
+```html
 <script>
 export default {
   data() {
     return {_hello: "Hello World" }
   }
+}
 </script>
 ```
 
@@ -296,7 +297,7 @@ export default {
 
 ### 1.6.3 Composition API
 * Hello world example
-```javascript
+```html
 <script>
 import {ref} from "vue"
 export default {
