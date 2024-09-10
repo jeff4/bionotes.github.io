@@ -311,7 +311,7 @@ export default {
 ***
 
 * Composition is a bit verbose compared to Options API. Here is a more concise version using `script setup`
-```javascript
+```html
 <script setup>
   import {ref} from "vue"
   const _hello = ref("Hello World")
