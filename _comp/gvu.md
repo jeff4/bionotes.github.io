@@ -260,3 +260,72 @@ async created() {
 * pdv = Pablo David Vue book.
 * Note down Hello World example to see how Options API syntax and Composition API syntax are different. Both have export(). But Options API goes with export(...data) whereas Composition does import i think.
 
+# PDV Chapter 1: The Vue 3 Framework
+## 1.1 The Vue 3 Framework
+
+## 1.2 The Progressive Framework
+* Difference between **library** and **framework**
+* Examples of React/Next.js and Vue/Nuxt
+* Concept of **reactivity**
+
+## 1.3 Using Vue in your web application
+* Introducing the concept of **SFC** (Single File Components)
+
+## 1.4 The Bundler Way, a Better Way
+* Official Vite3 bundler, addressed more in Chapter 3.
+
+## 1.5 Understanding SFC (Single File Components)
+* In depth discussion in Chapter 4 on UI Composition with Components
+
+## 1.6 Different stroks: difference between Options and Composition APIs
+### 1.6.1 Introduction
+* data, methods, components, computed, props/emits, lifecycle hooks, mixins
+
+### 1.6.2 Options API
+* Hello world example
+```javascript
+<script>
+export default {
+  data() {
+    return {_hello: "Hello World" }
+  }
+</script>
+```
+
+***
+
+### 1.6.3 Composition API
+* Hello world example
+```javascript
+<script>
+import {ref} from "vue"
+export default {
+  setup() {
+    const _hello = ref("Hello World")
+    return {_hello}
+  }
+}
+</script>
+```
+
+***
+
+* Composition is a bit verbose compared to Options API. Here is a more concise version using `script setup`
+```javascript
+<script setup>
+  import {ref} from "vue"
+  const _hello = ref("Hello World")
+</script>
+```
+* 
+
+## 1.7 Exploring built-in directives in Vue 3
+* v-bind **`<img v-bind:src="my_profile_pic">`**
+  * abbreviated `":"` so abbreviated version is  **`<img :src="my_profile_pic">`**
+* v-show
+* v-if, v-else, v-else-if
+* v-for (aka `:key`)
+* v-model
+* v-on: e.g., **`<button v-on:click="printPage()">Print</button>`**
+  * abbreviation `@` so abbreviated version looks like this: **`<button @click="printPage()">Print</button>`**
+
