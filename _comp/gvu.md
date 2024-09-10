@@ -253,3 +253,10 @@ async created() {
 	1. /vue2 = up to end of Chapter 7
 	1. /vue3 = Chapter 8 + Chapter 9
 
+***
+
+## 9/10/2024
+* Bought new book by Pablo David Garuso [Vue.js 3 Design Patterns and Best Practices: Develop scalable and robust applications with Vite, Pinia, and Vue Router](https://www.amazon.com/Vue-js-Design-Patterns-Best-Practices/dp/1803238070), published May 2023.
+* pdv = Pablo David Vue book.
+
+
