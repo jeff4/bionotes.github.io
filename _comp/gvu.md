@@ -258,5 +258,5 @@ async created() {
 ## 9/10/2024
 * Bought new book by Pablo David Garuso [Vue.js 3 Design Patterns and Best Practices: Develop scalable and robust applications with Vite, Pinia, and Vue Router](https://www.amazon.com/Vue-js-Design-Patterns-Best-Practices/dp/1803238070), published May 2023.
 * pdv = Pablo David Vue book.
-
+* Note down Hello World example to see how Options API syntax and Composition API syntax are different. Both have export(). But Options API goes with export(...data) whereas Composition does import i think.
 
