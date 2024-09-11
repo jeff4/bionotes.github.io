@@ -330,13 +330,26 @@ export default {
 * v-on: e.g., **`<button v-on:click="printPage()">Print</button>`**
   * abbreviation `@` so abbreviated version looks like this: **`<button @click="printPage()">Print</button>`**
 
-
 ***
 
 ## 1.7 Built-in Components
+* Vue also provides several built-in components that can be used without *explicit import* at the top of a SFC vue file.
+* See complete documentation on [built-ins here](https://vuejs.org/api/built-in-components.html).
+
+### 1.7.1 Transition and Transition Group
+### 1.7.2 KeepAlive
+### 1.7.3 Teleport
+### 1.7.4 Suspense
+### 1.7.5 Component-is
+
+***
 
 ## 1.8 Code conventions used in this book
-
+### 1.8.1 Variables and props
+### 1.8.2 Constants
+### 1.8.3 Classes and component names
+### 1.8.4 Functions, methods, events, and filenames
+### 1.8.5 Instances
 
 ***
 
