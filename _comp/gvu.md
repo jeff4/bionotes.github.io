@@ -353,4 +353,83 @@ export default {
 
 ***
 
-# Chapter 2
+# Chapter 2: Software Design Principles and Patterns
+## 2.1 Introduction
+* **Principles:** Separation of concerns, Composition over inheritance, Single responsbility, Encapsulation, KIC - keep it clean, DRY - don't repeat yourself, KISS - keep it simple stupid, Code for the next
+* **Patterns:** Singleton, Dependency injectio, Observer, Command, Proxy, Decorator, Facade, Callbacks, Promises
+
+## 2.2 What are the principles of software design?
+
+## 2.3 List of design principles
+
+### 2.3.1 Separation of concerns
+### 2.3.2 Composition over inheritance
+### 2.3.3 Single responsibilty principle
+### 2.3.4 Encapsulation
+### 2.3.5 KIC - keep it clean
+### 2.3.7 DRY - don't repeat yourself
+### 2.3.8 KISS - keep it simple and short
+### 2.3.9 Code for the next
+
+## 2.4 What is a software design pattern?
+
+## 2.5 A Quick Reference List of Patterns
+### 2.5.1 The singleton pattern
+### 2.5.2 The dependency injection pattern
+### 2.5.3 The factory pattern
+### 2.5.4 The observer pattern
+### 2.5.5 The command pattern
+### 2.5.6 The proxy pattern
+### 2.5.7 The decorator pattern
+### 2.5.8 The facade pattern
+### 2.5.9 The callback pattern
+### 2.5.10 The promise pattern
+
+***
+
+# Chapter 3: Setting up a working project
+## 3.1 Introduction
+## 3.x The To Do app
+
+***
+
+# Chapter 4: UI Composition with Components
+## 4.1 Introduction
+## 4.2 Technical requirements
+## 4.3 Page composition with components
+### 4.3.1 Step 1
+### 4.3.2 Step 2
+### 4.3.3 Step 3
+### 4.3.4 Step 4
+
+***
+
+## 4.4 Components in depth
+### 4.4.1 Local and global components
+### 4.4.2 Static, asynchronous, and dynamic imports
+### 4.4.3 Props, events, and the v-model directive
+### 4.4.4 Custom input controllers
+### 4.4.5 Dependency injection with 'Provide' and 'Inject'
+
+***
+
+## 4.5 Special components
+### 4.5.1 Slots, slots, slots
+### 4.5.2 Composables and mixins
+### 4.5.3 Dynamic component with 'component:is'
+
+***
+
+## 4.6 A real-world example - a modals plugin
+### 4.6.1 Setting up our dev environment
+### 4.6.2 The design
+### 4.6.3 The implementation
+
+***
+
+## 4.7 Implementing our new To-Do application
+## 4.8 A small critique of our to-do app
+
+***
+
+Chapter 5: SPA - Single Page Applications
