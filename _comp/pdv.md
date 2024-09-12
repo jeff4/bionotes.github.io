@@ -187,5 +187,5 @@ export default {
 ***
 
 # Chapter 5: SPA - Single Page Applications
-## 9/11/2024
+## 9/12/2024
 
