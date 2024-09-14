@@ -130,6 +130,83 @@ export default {
 ## 2.5 A Quick Reference List of Patterns
 ### 2.5.1 The singleton pattern
 ### 2.5.2 The dependency injection pattern
+* This pattern simply states that the dependencies for a class or function are provided as input.
+* For example, as parameters, properties, or other types of implementations.
+* This simple statment opens a very wide range of possibilities.
+
+#### 2.5.2.1 First example of DepInj
+* Let's take, for example, a class that works with the browser's **Indexed DB API** through an abstraction class.
+	* We will learn more about the IndexedDB API in *Chapter 7: Data Flow Mgt*.
+	* For now, let's concentrate on the dependency part.
+	* Consider that the **dbManager.js** file xposes an object that handles the operations with the database.
+	* The **projects** object deals with CRUD operations for the projects table (or projects table).
+	*Without using dependency injection, you will have something like this:
+```javascript
+import dbManager from "dbManager"
+const projects = {
+  getAllProjects() {
+    return dbManager.getAll("projects")
+  }
+}
+export default projects;
+```
+* The preceding code shows a 'normal' approahc, where we import the dependencies at the beginning of the file, then use them in our code.
+* In contrast, let's see the **dependency ihjection** approach**:
+
+```javascript
+const projects = {
+  getAllProjects( dbManager ){
+    return dbManager.getAll("projects")
+  }
+}
+export default projects;
+```
+* the main difference between the two approahces above is the DepInj approach means that **dbManager** is now passed as **a parameter to the function**.
+* That's what we call an injection.
+* This opens up many new ways to manage dependencies.
+* Also, DepInj pushes the hardcoding of dependencies up the implementation tree.
+* This makes the class signficantly more reusable.
+#### 2.5.2.2 Another way of doing DepInj
+* We could also assign it to a property for the object's internal use.
+* For example, if the **projects.js** file was implemented using the property approach it might look like
+
+```javascript
+const projects = {
+  dbManager,
+  getAllProjects() {
+    return this.dbManager.getAll( "projects" ) 
+  }
+}
+
+export default projects;
+```
+* In this case, the invoker of the objct (a singleton, by the way), neeeds to be aware of the property *and* assign it before calling on any of its functions.
+* For example, this approach is **NOT recommended**:
+
+```javascript
+
+import projects from "projects.js"
+import dbManager from "dbManager.js"
+
+projects.dbManager = dbManager;
+projects.getAllProjects();
+
+```
+
+* This approach is **NOT recommended** b/c it clearly breaks the principle of encapsulation; we are directly assigning a property for the object.
+* Also, it doesn't feel like clean code even if it validates.
+* So what is the better approach? It depends on the implmentation.
+	* In a class, it is convenient to require the dependencies in the constructor (and if not found, throw an Error).
+	* IN a plain JSON object, it is convenient to provide a function to set the dependency explicitly and let the object decide how to use internally.
+* This Last approach is recommended for passing a dependency **after** the instantiation of an object; when the dependencty at the time of implementation. 
+* Exampe
+
+```javascript
+class Projects {
+  constructor ( dbManager= null )  {
+    if(
+```
+
 ### 2.5.3 The factory pattern
 ### 2.5.4 The observer pattern
 ### 2.5.5 The command pattern
@@ -186,6 +263,4 @@ export default {
 
 ***
 
-# Chapter 5: SPA - Single Page Applications
-## 9/12/2024
-
+Chapter 5: SPA - Single Page Applications
