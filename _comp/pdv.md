@@ -199,13 +199,15 @@ projects.getAllProjects();
 	* In a class, it is convenient to require the dependencies in the constructor (and if not found, throw an Error).
 	* IN a plain JSON object, it is convenient to provide a function to set the dependency explicitly and let the object decide how to use internally.
 * This Last approach is recommended for passing a dependency **after** the instantiation of an object; when the dependencty at the time of implementation. 
-* Exampe
+* Example
 
 ```javascript
 class Projects {
   constructor ( dbManager= null )  {
     if(
 ```
+
+## 9/14/2024
 
 ### 2.5.3 The factory pattern
 ### 2.5.4 The observer pattern
