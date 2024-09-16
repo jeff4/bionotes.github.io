@@ -266,3 +266,6 @@ class Projects {
 ***
 
 Chapter 5: SPA - Single Page Applications
+
+9/16
+9
