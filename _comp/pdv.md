@@ -166,6 +166,7 @@ export default projects;
 * This opens up many new ways to manage dependencies.
 * Also, DepInj pushes the hardcoding of dependencies up the implementation tree.
 * This makes the class signficantly more reusable.
+
 #### 2.5.2.2 Another way of doing DepInj
 * We could also assign it to a property for the object's internal use.
 * For example, if the **projects.js** file was implemented using the property approach it might look like
@@ -203,11 +204,72 @@ projects.getAllProjects();
 
 ```javascript
 class Projects {
-  constructor ( dbManager= null )  {
-    if(
+  constructor ( dbManager = null )  {
+    if( !dbManager ) {
+      throw "Dependency missing"
+    } else {
+      this.dbManager = dbManager;
+    }
+  }
+}
+```
+* In the constructor, we declare the expected parameter with a default value. If the dependency is not provided, we throw an error. Otherwise, we assign it to an internal private attribute for the use of the instance. 
+* In the following case, the invoker should look something like this:
+
+```javascript
+// Projects are a class
+import Projects from "projects.js"
+import dbManager from "dbManager.js"
+try {
+  const projects=new Projects(dbManager);
+} catch {
+  // Error handler here
+}
 ```
 
-## 9/14/2024
+* In an alternate implementation, we could have a function that basically does the same by receiving the dependency and assigning it to a private attribute:
+
+```javascript
+import projects from "projects.js"
+import dbManager from "dbManager.js"
+projects.setDBManager(dbManager);
+```
+
+* This approach is better than direclty assigning the internal attribute, but you still need to remember to do the assignment before using any of the methods in the object. 
+* **Best Practice Note:** Whichever approach one uses for dependency injection, remain constant throughout the codebase.
+* You may have noticed that we have been mainly focusing on objects.
+* As on may already have guessed, passing a dependency to a function is just the same as passing another parameter, so it does not deserve special attention.
+* This example has just moved the dependency implementation responsibility up to another class in the hierarchy.
+* But what if we implement a singleton pattern to handle all or most of the dependencies in our application? This way, we could just delegate the loading of the dependencies to one class or objectat at a determined point in our application life cycle.
+* But how do we implement such a thing? We will need:
+    1. A method to register the dependency
+    1. A method to retrieve the dependency by name
+    1. A structure to keep the reference to each dependency
+* Let's put this into action and create a *naive* implementation of such a singleton.
+* **Please keep in mind this is an academic exercise, so we are not considering error checking, d-registration, or other considerations.**
+
+```javascript
+// from './chapter-2/dependency-injection-6.js'
+
+const dependencyService = {                     // 1
+  dependencies: {},                             // 2
+  provide( name, dependency ) {                 // 3
+    this.dependencies[name] = dependency        // 4
+    return this;                                // 5
+  };
+  inject(name) {                                // 6
+    return this.dependencies[name]??null;       // 7
+  }
+}
+
+export default dependencyService;
+```
+
+* With this bare minimum implmentation, let's look at each line by the line comments...
+
+
+
+
 
 ### 2.5.3 The factory pattern
 ### 2.5.4 The observer pattern
@@ -266,6 +328,3 @@ class Projects {
 ***
 
 Chapter 5: SPA - Single Page Applications
-
-9/17
-9
