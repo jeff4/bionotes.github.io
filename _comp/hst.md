@@ -19,3 +19,8 @@ sitemap: false
 
 # HST Chapter 1
 
+***
+
+# Setting up Haskell environment
+* Recent [reddit link](https://www.reddit.com/r/haskell/comments/1aoaqxw/q_advantages_of_using_stack_vs_ghcup/) with good info from early 2024
+
