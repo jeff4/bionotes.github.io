@@ -54,3 +54,7 @@ main = print (fac 20)
 fac 0 = 1
 fac n = n * fac (n-1)
 ```
+
+## Other notes
+* To quit *GHCi*, type `<ctrl>-D`.
+
