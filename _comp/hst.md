@@ -46,6 +46,7 @@ sitemap: false
 	* **A** to append ghcup to **.bashrc** file
 	* **N** to decline install of HLS language server for now
 	* **Y** to install *Haskell Stack* for better integration with GHCup
+1. Installer completed. Tested result with [these GHCi instructions](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html#introduction-to-ghci)
 1. Changed `~/demo-files/proj-1/` to main haskell directory. Added this:
 
 ```haskell
