@@ -18,7 +18,6 @@ sitemap: false
 ***
 
 # HST Chapter 1
-9/21/2024
 
 ***
 
@@ -39,3 +38,18 @@ sitemap: false
 * **haskell-platform is *No Longer Supported*. DO NOT USE.** And do not use brew generally for haskell looks like. Brew is not really the best option as of 2022. Best to go with GHCup. Read this [important 2022 answer](https://stackoverflow.com/questions/22499433/how-to-install-haskell-on-mac-os#comment130239140_73173644)
 * **brew install haskell-stack** from [this May 2020 Stack Overflow answer](https://stackoverflow.com/a/29247096).
 * Update that ghc version 9.2.4 or later is best for Apple Silicon per [this comment](https://stackoverflow.com/questions/22499433/how-to-install-haskell-on-mac-os#comment131204054_73173644)
+
+
+## 9/22 installs
+1. Used this [Initial install](https://www.haskell.org/ghcup/install/) of GHCup and this command `curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh`.
+1. Options I selected:
+	* **A** to append ghcup to **.bashrc** file
+	* **N** to decline install of HLS language server for now
+	* **Y** to install *Haskell Stack* for better integration with GHCup
+1. Changed `~/demo-files/proj-1/` to main haskell directory. Added this:
+
+```haskell
+main = print (fac 20)
+fac 0 = 1
+fac n = n * fac (n-1)
+```
