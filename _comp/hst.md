@@ -58,3 +58,6 @@ fac n = n * fac (n-1)
 ## Other notes
 * To quit *GHCi*, type `<ctrl>-D`.
 
+
+## 9/24
+
