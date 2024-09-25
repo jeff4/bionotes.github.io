@@ -60,5 +60,5 @@ fac n = n * fac (n-1)
 
 ## 9/25
 ## Section 1.7 Definitions p. 9 - 11
-* Here is how you define a function named **addOneToThisNumber** that outputs a result of type **Integer: `addOneToThisNumber :: Integer`
+* Here is how you define a function named **addOneToThisNumber** that outputs a result of type **Integer:** `addOneToThisNumber :: Integer`
 * Note that function names like **addOneToThisNumber** begin with a lowercase letter while the type of the output is capitalized. In languages with C-derived syntax, we might call this function *addOneToThisNumber()*.
