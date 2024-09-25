@@ -72,7 +72,7 @@ square :: Integer -> Integer
 square n = n*n
 ```
 * p. 12. Note that in Haskell, we call a parameter (aka the box that contains the value of a desired input variable) a **"formal parameter"**.
-	* in contrast, what in JS we would call the argument, aka the **value** that is being passed into a particular parameter location, is called in Haskell the **"actual parameter"**.
+	* in contrast, what in JS we would call the **argument**, aka the *value* that is being passed into a particular parameter location, is called in Haskell the **"actual parameter"**.
 * Here is an exxample of me running `square.hs`
 
 ```
@@ -86,3 +86,8 @@ ghci> square 6
 ghci>
 ```
 * Note that the file `square.hs` was stored in the same directory where invoked **ghci**.
+* When there are multiple input parameters (aka haskell *formal parameters*), we list them all first and reserve the final place for the output. 
+* For example, if we have a function called **scale()** that increases the size of an input *Image* by some *Integer*, we need two input parameters and one output which is also an image. So the function signature (aka function declaration)  look like this: `scale :: Image -> Integer -> Image`. 
+	* Where the first instance of Image is an input parameters
+
+
