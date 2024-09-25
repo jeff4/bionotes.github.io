@@ -85,4 +85,4 @@ ghci> square 6
 36
 ghci>
 ```
-* More to come
+* Note that the file `square.hs` was stored in the same directory where invoked **ghci**.
