@@ -97,3 +97,4 @@ ghci>
 
 ### Function composition
 * Now let's use something similar to the chain rule to chain multiple functions **f<sub>1</sub>**, **f<sub>2</sub>**, **f<sub>3</sub>**, **...**, **f<sub>k</sub>** together.
+* Let's compose a function that flips the horizontal (**flipHorizontal()** aka **flipH**) with one that flips the vertical (**flipVertical()** aka **flipV**)
