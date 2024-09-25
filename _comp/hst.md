@@ -95,3 +95,5 @@ ghci>
 		**functionName() ::** **p<sub>1</sub>** -> **p<sub>2</sub>** -> **p<sub>3</sub>** -> ... -> **p<sub>n</sub> ->** **outputType**
 * Note that all the **p<sub>*i*</sub>** and the **outputType** are all *types* as defined by Haskell.
 
+### Function composition
+* Now let's use something similar to the chain rule to chain multiple functions **f<sub>1</sub>**, **f<sub>2</sub>**, **f<sub>3</sub>**, **...**, **f<sub>k</sub>** together.
