@@ -62,3 +62,14 @@ fac n = n * fac (n-1)
 ## Section 1.7 Definitions p. 9 - 11
 * Here is how you define a function named **addOneToThisNumber** that outputs a result of type **Integer:** `addOneToThisNumber :: Integer`
 * Note that function names like **addOneToThisNumber** begin with a lowercase letter while the type of the output is capitalized. In languages with C-derived syntax, we might call this function *addOneToThisNumber()*.
+
+## Section 1.8 Function Definitions p. 11
+* Let's define a function, say something that accepts an *integer* as input and outputs *integer^2*. Let's call this function **square()**. 
+* In Haskell, we would define this function like so, by indicatig the required datatype of the input as well as the required datatype of the output. And then we'd have a se3cond line that specifies how things work inside the black box. Line 1 is the function signature with input parameters and output type. Line 2 is the algorithm about how the function will operate.
+
+```haskell
+square :: Integer -> Integer
+square n = n*n
+```
+* p. 12. Note that in Haskell, we call a parameter (aka the box that contains the value of a desired input variable) a **"formal parameter"**.
+	* in contrast, what in JS we would call the argument, aka the **value** that is being passed into a particular parameter location, is called in Haskell the **"actual parameter"**.
