@@ -90,4 +90,10 @@ ghci>
 * For example, if we have a function called **scale()** that increases the size of an input *Image* by some *Integer*, we need two input parameters and one output which is also an image. So the function signature (aka function declaration)  look like this: `scale :: Image -> Integer -> Image`. 
 	* Where the first instance of Image is an input parameters
 
+## 9/25/2024
+* In the general case, for **1 to n** input parameters **p<sub>*i*</sub>**, with an output of type **outputType**, a function signature looks like this:
+```
+functionName() :: p<sub>1<s/sub> -> p<sub>2<s/sub> -> p<sub>3<s/sub> -> ... -> p<sub>n<s/sub> -> **outputType**
+```
+* Note that all the **p<sub>*i*</sub> and the **outputType** are all *types* as defined by Haskell.
 
