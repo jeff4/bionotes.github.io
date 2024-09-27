@@ -127,3 +127,5 @@ rotate inputPhoto = flipH . flipV
 
 ## 1.11 The essence of Haskell programming p. 16
 * Let's now compare Haskell to OO and other imperative languages.
+
+## 9/26
