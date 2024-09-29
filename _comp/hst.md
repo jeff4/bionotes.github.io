@@ -125,7 +125,46 @@ rotate inputPhoto = flipH . flipV
 
 ## 1.10 Calculation and evaluation p. 15
 
+## 9/27/2024
+
 ## 1.11 The essence of Haskell programming p. 16
 * Let's now compare Haskell to OO and other imperative languages.
 
-## 9/28
+### Key aspects of Haskell and functional programming p. 16-17
+1. Working in Haskell, we concentrate on using a rich collection of data types--including functions themselves, as well as types as defined by the user--to model the objects in the problem domain.
+1. Programming over these is done by writing functions. Functions are defined by equations like:
+	```haskell
+	rotate :: Image -> Image
+	rotate pic = flipH (flipV pic)
+	-- above line could be expressed with dot notation
+	rotate pic = flipH . flipV
+	{- multi-line comment -}
+	```
+1. Finally, computing with these functions is done by calculating (aka *evaluating*) using definitions to calculate a result.
+	* In an equation like the `rotate` function above, **pic** is a variable in the mathematical sense of something that stands for an *arbitrary* Image.
+
+### Difference between functional and OO/imperative languages
+* One needs to understand that Haskell variables are *very different* from variables in languages like Java, C, C++. etc.
+* **A Java variable is like a box**. The value stored within that box changes by making an assignment.
+	* In Java, one computes by changing the contents in those boxes (aka *variables*). 
+	* The status of a variable's contents is also called the **state**.
+	* Methods which change state are said to have **side-effects**.
+* **A Haskell variable does *not* vary**. The way one programs in haskell is to write functions which describe how particular data values are **related to each other**.
+* There is no state maintained in Haskell, and Haskell functions do *not* have **side-effects**.
+
+### Summary of Haskell advantages p. 17
+1. Haskell programs are **higher-level**
+1. Functions in Haskell can themselves be passed around just like any other **data** (JH: aka functions can just act as parameters?).
+1. Haskell functions are without side-effecs. But using **monads**, one can perform I/O, interact with filesystems, interoperate with other languagest, etc.
+1. Easy parallellization because imperative languages like Java must maintain consistency of state between multiple threads/cores. Since Haskell has no state, this problem is elminated.
+1. Easier to refactor because there are no side-effects
+1. Properties and proofs are much easier to do in Haskell vs in other languages.
+
+## 1.12 DSL Domain Specific Languages
+* Although Haskell is a general purpose language, it can a powerful place within which to embed *DSLs* (Domain Specific Languages). DSLs aka *little languages* can be stand alone such as LaTeX, Verilog, Excel/R.
+* Examples of eDSLs using Haskell include:
+	1. **Lava** for circuit simulation and layout (1998)
+	1. **Paradise** for pricing financial products (2008)
+	1. **Orc** for orchestrating computations in science (2010)
+
+## 1.13 Two models of Pictures
