@@ -209,3 +209,9 @@ rotate inputPhoto = flipH . flipV
 # Chapter 2
 ## 9/29/2024
 * the `it` keyword only works [within the GHCi interpreter](https://www.quora.com/What-does-the-it-keyword-do-in-Haskell/answer/Tikhon-Jelvis). It is bound to the result of the last expression typed into GHCi. Just typing `it` into the ghci will just echo the previous result, i think?
+* p. 32 list of standard ghci commands
+## 2.4 The standard Prelude and the Haskell libraries p. 33
+* Definitions of the standard Haskell types are contained in the **Preulde.hs** file.
+* When Haskell is used, the default is to load the standard prelude.
+* Standard Hasell types include integers, lists, functions over the same, arithmetic functions, list functions **map** and **++**.
+* p. 33 see `:browse Prelude` command.
