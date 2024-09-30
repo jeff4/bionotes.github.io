@@ -168,3 +168,24 @@ rotate inputPhoto = flipH . flipV
 	1. **Orc** for orchestrating computations in science (2010)
 
 ## 1.13 Two models of Pictures
+* Example of a horse-based DSL
+
+## 1.14 Tests, properties, and proofs p. 22
+### 1.14.1 Tests and properties
+* Let's look at the previous example about *Pictures* from section 1.13. How do we test it? One method: write a test of the form: **apply this function() to this input...and then verify the output which should looke like this**.* See Figure 1.4 on p. 23.
+* The tests in Fig 1.4  can be defined with the equality operator **`==`** in Haskell, returning **`True`** or **`False`** 
+* Tests like the above can work for a single input. 
+* **Property-based testing** in the the GHC-compatible Haskell testing library [QuickCheck](https://en.wikipedia.org/wiki/QuickCheck) allows us to check whether a property holds for a whole collection of randomly generated inputs.
+
+### 1.14.2 What do we mean by property p. 24
+* Informally, it's like the earlier line *'If we flip an **image** twice in a mirror we expect to get back the **original image** where any **image** refers to any bitmap/raster 2d set of pixels.
+* Let's formalize this as a set of 4 haskell functions:
+	1. prop_rotate :: Picture -> Bool
+	1. prop_flipV :: Picture -> Bool
+	1. prop_flipH :: Picture -> Bool
+* These are the tests using the above 3 functions
+```haskell
+prop_rotate pic = flipV (flipH pic) === flipH (flipV pic)
+prop_flipV pic = flipV (flipV pic) == pic
+rop_flipH pic = flipH (flipV pic) == pic
+```
