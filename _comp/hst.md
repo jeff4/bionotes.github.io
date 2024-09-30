@@ -187,13 +187,13 @@ rotate inputPhoto = flipH . flipV
 	1. prop_flipH :: Picture -> Bool
 * These are tests using the above 3 functions:
 ```haskell
--- Test 1 --
+{- Test 1 -}
 prop_rotate pic = flipV (flipH pic) === flipH (flipV pic)
 
--- Test 2 -- 
+{- Test 2 -}
 prop_flipV pic = flipV (flipV pic) == pic
 
--- Test 3 -- 
+{- Test 3 -}
 rop_flipH pic = flipH (flipV pic) == pic
 ```
 * If we use **QuickCheck** to these properties and evaluate in Haskell, we get the result: `+++ OK, passed 100 tests.` for Test 1 and Test 2.
