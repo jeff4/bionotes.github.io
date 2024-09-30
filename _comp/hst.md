@@ -208,3 +208,4 @@ rotate inputPhoto = flipH . flipV
 
 # Chapter 2
 ## 9/29/2024
+* the `it` keyword only works [within the GHCi interpreter](https://www.quora.com/What-does-the-it-keyword-do-in-Haskell/answer/Tikhon-Jelvis). It is bound to the result of the last expression typed into GHCi. Just typing `it` into the ghci will just echo the previous result, i think?
