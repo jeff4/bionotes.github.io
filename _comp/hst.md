@@ -170,14 +170,16 @@ rotate inputPhoto = flipH . flipV
 ## 1.13 Two models of Pictures
 * Example of a horse-based DSL
 
+***
+
 ## 1.14 Tests, properties, and proofs p. 22
-### 1.14.1 Tests and properties
+### 1.14.1 Tests and properties p. 22
 * Let's look at the previous example about *Pictures* from section 1.13. How do we test it? One method: write a test of the form: **apply this function() to this input...and then verify the output which should looke like this**.* See Figure 1.4 on p. 23.
 * The tests in Fig 1.4  can be defined with the equality operator **`==`** in Haskell, returning **`True`** or **`False`** 
 * Tests like the above can work for a single input. 
 * **Property-based testing** in the the GHC-compatible Haskell testing library [QuickCheck](https://en.wikipedia.org/wiki/QuickCheck) allows us to check whether a property holds for a whole collection of randomly generated inputs.
 
-### 1.14.2 What do we mean by property p. 24
+### 1.14.2 What do we mean by property? p. 24
 * Informally, it's like the earlier line *'If we flip an **image** twice in a mirror we expect to get back the **original image** where any **image** refers to any bitmap/raster 2d set of pixels.
 * Let's formalize this as a set of 4 haskell functions:
 	1. prop_rotate :: Picture -> Bool
@@ -196,4 +198,19 @@ rop_flipH pic = flipH (flipV pic) == pic
 ```
 * If we use **QuickCheck** to these properties and evaluate in Haskell, we get the result: `+++ OK, passed 100 tests.` for Test 1 and Test 2.
 * For Test 3, we get this output: `*** Failed! Falsifiable (after 3 tests and 3 shrinks): ["ab"]`
+* The above failure tells us that the property is not always true and gives us an example of when it goes wrong.
+* The testing is automatic: once we have written the properties to test, the data are generated randomly from *type: **Picture***. 
+* Through the rest of the book, we will see more complex examples of property based testing and how to adjust the controls of Quick Check
 
+***
+
+### 1.14.3 Coverage and Proof p.24-25
+* Whereas property-based testing simplifies automated testing, it's not formally proven. Proofs can cover *all* cases, with **zero exceptions**.
+* Example of Pythagoras' Theorem.
+* Proofs are possible for most programming languages, but is substantially easier for functional languages than any other programming paradigm.
+* We will explore proofs more in Chapter 9: List Processing Functions.
+
+***
+
+# Chapter 2
+## 9/29/2024
