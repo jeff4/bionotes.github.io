@@ -109,7 +109,7 @@ rotate :: Image -> Image
 rotate inputPhoto = flipH . flipV
 ```
 * p. 14 The direct combination of functions illustrates the power of functional programming.
-* We are able to combine fnctions using an operator like **.** juast as we can combine numbers using a binary operator like **+**.
+* We are able to combine functions using an operator like **`.`** just as we can combine numbers using a binary operator like **+**.
 * We use the term **operator** because **.** is written *in-between* its arguments rather than *before* its arguments.
 * We discuss operators in more detail in Section 3.7.
 * The direct combination of functions using the operator **.** is not possible in other programming paradigms. Or at least, that would be considered an "advanced" aspect of those other programming languages.
