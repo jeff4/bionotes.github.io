@@ -207,11 +207,41 @@ rotate inputPhoto = flipH . flipV
 ***
 
 # Chapter 2
-## 9/30/2024
+## 9/29/2024
 * the `it` keyword only works [within the GHCi interpreter](https://www.quora.com/What-does-the-it-keyword-do-in-Haskell/answer/Tikhon-Jelvis). It is bound to the result of the last expression typed into GHCi. Just typing `it` into the ghci will just echo the previous result, i think?
 * p. 32 list of standard ghci commands
+
+## 9/30/2024
+## Using GHCI p. 29
+* p. 33. **Task 3**. Steps:
+	1. Invoke ghci
+	1. Load first script module by typing **`:load FirstScript.hs`**
+	1. Type following commands: `double 2 3`**,** `double square`**,** `2 double`**,**.
+* Note that all of the above 3 commands leads to an error. B/c the function **double** expects a single input parameter that comes *after* the function. All of the above do not follow that structure.
+	* Command 1 includes both **2** and **3** as *two* integer parameters whereas function **double** expects one integer parameter.
+	* Command 2 provides the function **square** as a parameter. But the function **double** expects an integer parameter.
+	* Command 3 provides an integer *before* the function **double**; but the parameter needs to enter *after* the function.
+
+
 ## 2.4 The standard Prelude and the Haskell libraries p. 33
 * Definitions of the standard Haskell types are contained in the **Preulde.hs** file.
 * When Haskell is used, the default is to load the standard prelude.
 * Standard Hasell types include integers, lists, functions over the same, arithmetic functions, list functions **map** and **++**.
 * p. 33 see `:browse Prelude` command.
+* As Hasell has developed, the **prelude** has grown. In order to make the prelude smaller and to free up some keywords/names from it, many of the definitions have been moved *from* the Haskell Prelude *to* the Haskell Standard Libraries.
+* In addition to the standard libraries, the Haskell Platform includes various contributed libraries which support concurrency, functional animations, etc. 
+
+## 2.5 Haskell Modules p. 34
+* A typical piece of software will contain thousands of lines of source code. We can structure this by breaking the code into subcomponents called **modules** in Haskell, of the form `module <ModuleName> where...`
+* A module may **import** definitions from other modules, e.g., 
+```haskell
+module Ant where
+import Insect
+...
+```
+* The import statement means that we can use all the definitions in **Insect** when making definitions in **Ant**.
+* in this text, we use the conventions:
+	1. There is exactly one module per file
+	1. The file **Blah.hs** contains a module named **Blah**.
+* See Figure 2.5 on p. 34 to understand how a GHCi session works wrt Prelude, modules, libraries, etc.
+
