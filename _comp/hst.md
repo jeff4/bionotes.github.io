@@ -245,4 +245,4 @@ import Insect
 	1. The file **Blah.hs** contains a module named **Blah**.
 * See Figure 2.5 on p. 34 to understand how a GHCi session works wrt Prelude, modules, libraries, etc.
 
-## 10/01/2024
+## 10/02/2024
