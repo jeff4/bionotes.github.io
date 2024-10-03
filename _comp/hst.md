@@ -245,4 +245,11 @@ import Insect
 	1. The file **Blah.hs** contains a module named **Blah**.
 * See Figure 2.5 on p. 34 to understand how a GHCi session works wrt Prelude, modules, libraries, etc.
 
-## 10/02/2024
+***
+
+10/02/2024
+
+## 2.6 A Second Example: Pictures p. 35
+* A running example in Chapter 1 was of pictures, and we saw two implementations of these functions, one in **Pictures.hs** giving an *ASCII art* version. 
+* And the other in *PicturesSVG.hs* has rendering pictures in a web browser.
+* Copied source code from p. 36 into cdp1 
