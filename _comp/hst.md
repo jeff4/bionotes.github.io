@@ -247,9 +247,24 @@ import Insect
 
 ***
 
-10/03/2024
+## 10/02/2024
 
 ## 2.6 A Second Example: Pictures p. 35
 * A running example in Chapter 1 was of pictures, and we saw two implementations of these functions, one in **Pictures.hs** giving an *ASCII art* version. 
 * And the other in *PicturesSVG.hs* has rendering pictures in a web browser.
 * Copied source code from p. 36 into cdp1 
+
+***
+
+## 10/04/2024
+* A few more links.
+* [Basic Haskell Examples](https://www.haskellforall.com/2015/10/basic-haskell-examples.html) at Haskell for All:
+
+```
+The Haskell community self-selects for people interested in unique things that Haskell can do that other languages cannot do. Consequently, a large chunk of Haskell example code in the wild uses advanced idioms (and I'm guilty of that, too).
+
+So I would like to swing the pendulum in the other direction by just writing five small but useful programs without any imports, language extensions, or advanced features. These are programs that you could write in any other language and that's the point: you can use Haskell in the same way that you use other languages.
+```
+* From [reddit](https://www.reddit.com/r/haskell/comments/ksct8f/simple_elegant_code_examples_to_demonstrate/)
+* [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+
