@@ -247,7 +247,7 @@ import Insect
 
 ***
 
-10/02/2024
+10/03/2024
 
 ## 2.6 A Second Example: Pictures p. 35
 * A running example in Chapter 1 was of pictures, and we saw two implementations of these functions, one in **Pictures.hs** giving an *ASCII art* version. 
