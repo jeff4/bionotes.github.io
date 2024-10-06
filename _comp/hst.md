@@ -256,7 +256,7 @@ import Insect
 
 ***
 
-## 10/03/2024
+## 10/06/2024
 * A few more links.
 * [Basic Haskell Examples](https://www.haskellforall.com/2015/10/basic-haskell-examples.html) at Haskell for All:
 	* The Haskell community self-selects for people interested in unique things that Haskell can do that other languages cannot do. 
