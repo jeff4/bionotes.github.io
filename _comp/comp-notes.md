@@ -996,4 +996,7 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 ## 9/06/2024
 * [The Good, The Bad, The Ugly of LSPs](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html) by Michael Peyton Jones, who works on the Haskell LSP. [HN thread](https://news.ycombinator.com/item?id=41440275) 
 
-
+## 10/09/2024
+* During Dinner with Melih in Brooklyn (Buffalo Wild Wings nr the Barclay's Center) earlier this week (Monday 7 Oct), I was reminded of this [presentation by Maggie Appleton](https://maggieappleton.com/home-cooked-software) about Home-Cooked Software and Barefoot Programmers.
+    * First saw this on [HN news](https://news.ycombinator.com/item?id=40633029) back in June, 2024 but i guess I never linked it. 
+    * Saving here to make it easier to find local first software content.
