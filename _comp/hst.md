@@ -266,4 +266,4 @@ import Insect
 * From [reddit](https://www.reddit.com/r/haskell/comments/ksct8f/simple_elegant_code_examples_to_demonstrate/)
 * [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
-## 10/08
+## 10/09
