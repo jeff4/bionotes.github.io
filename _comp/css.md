@@ -882,7 +882,7 @@ body {
 ```
 
 
-## 10/10/2024
+## 10/12/2024
 Back to CSS after 5-6 weeks
 ### Browser default margins p. 376
 * Text box
