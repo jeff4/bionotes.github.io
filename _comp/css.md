@@ -881,12 +881,9 @@ body {
 }
 ```
 
-
-## 10/13/2024
-Back to CSS after 5-6 weeks
 ### Browser default margins p. 376
 * Text box
-
+* You may have noticed that space is added automatically
 
 ***
 
