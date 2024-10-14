@@ -885,11 +885,14 @@ body {
 ## 10/14/2024
 
 ### Browser default margins p. 376
-* Text box
+* content below from JNR textbox on the left hand of page 376
 * You may have noticed that space is added automatically around headings, paragraphs, and other block elements.
 * That's the browser's default style sheet at work, applying margin amts above and below those elements.
 * It's good to keep in mind that the browser is applying its own values for margins and padding behind the scenes.
 * These values will be used unless one *specifically* overrides them with one's own style rules.
+* If one is working on a design and coming across mysterious amts of space that one did not specifcially add, the browser's default styles are probably the culprit.
+* To troubleshoot, it's best to use the brower's Web inspector tool.
+* Alternately, one can reset the padding and margins for all elements to zero, as discussed in **Chapter 19 More CSS Techniques**.
 
 ***
 
