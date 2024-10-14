@@ -855,9 +855,9 @@ p.example {
 
 #### More notes about margins
 * The shorthand sequence for margins works just like border order: clockwise TRouBLe: top, right, bottom, left.
-* See output of below css in Fig 14-16 on p. 377
 * As with most web measurements, **em**s, **pixels**, and **percentages** are the most common ways to specify margins.
 * Be aware however that if one specifies a percentage value, it is *calculated based on the **width** of the parent element*.
+* **Very Useful Example** See output of below css in Fig 14-16 on p. 377
 
 ```css
 p#A {
@@ -899,14 +899,25 @@ body {
 ***
 
 ### Margin Behavior p. 378
+* Quirks of margins
 
 #### Collapsing Margins p. 378
-
+* The most common quirk is *collapsing margins*-- when the top and bottom margins of neighboring elements **overlap** instead of **accumulating as expected**.
+* Adapting the previous example in Fig 14-17 (p. 376), let's examine the below example Fig 14-17 (p. 378).
+	* **What we expect:** The bottom margin of paragraph 1 **(4 em)** *and* the top margin of paragraph 2 **(2 em)**should together sum up to **6em** of margin between para1 and para2.
+	* **What we actually get:** **4em** because the browser *collapses* and simply takes the larger of the two inputs.
+* Note that margins on the left and right never collapse.
+* Floated or absolutely positioned elements *do not collapse*. See Chapter 15 on Floating and Positioning for more.
+* See Further Reading on Collapsing Margins sidebar on JNR p. 378 with links to further reading
 
 #### Margins on inline elements p. 378
-
+* One can apply top and bottom margins to inline text elements but it won't add vertical space above/below the elemnt and the height of the line will not change.
+* However, when one applies left and right margins to inline text elements, margin space **will** be held clear before and after the text in the flow of the element--even if the element flows over severa lines.
 
 #### Negative margins p. 378
+* It is possible to specify **negative margins**.
+* Now let's examine margin space around elements in Exercise 14-3
+
 
 
 ***
