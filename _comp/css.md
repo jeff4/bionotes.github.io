@@ -881,9 +881,15 @@ body {
 }
 ```
 
+
+## 10/14/2024
+
 ### Browser default margins p. 376
 * Text box
-* You may have noticed that space is added automatically
+* You may have noticed that space is added automatically around headings, paragraphs, and other block elements.
+* That's the browser's default style sheet at work, applying margin amts above and below those elements.
+* It's good to keep in mind that the browser is applying its own values for margins and padding behind the scenes.
+* These values will be used unless one *specifically* overrides them with one's own style rules.
 
 ***
 
