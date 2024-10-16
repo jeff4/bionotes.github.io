@@ -919,10 +919,22 @@ body {
 * Now let's examine margin space around elements in Exercise 14-3
 
 
-
 ***
 
 ## Assigning Display Types p. 380
+* Let's introduce the **display** properties.
+* The **display** property deinfes the type of element box an element generates in the layout.
+* In addition to the familiar *inline* and *block* display types, one can make elements display as list items or the various parts of a table.
+
+
+
+
+
+
+
+
+
+
 
 ***
 
