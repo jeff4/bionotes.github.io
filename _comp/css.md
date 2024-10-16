@@ -926,42 +926,42 @@ body {
 * The **display** property deinfes the type of element box an element generates in the layout. p. 382
 * In addition to the familiar *inline* and *block* display types, one can make elements display as list items or the various parts of a table.
 
-###
 ### display property p. 380
-* Property Name: display 
-* Values: inline \| block \| run-in \| flex \| grid \| flow \| flow-root \| list-item \| table \| table-row-group \| table-header-group \| table-footer-group \| table-row \| table-cell \| table-column-group \| table-column \| table-caption \| ruby \| ruby-base \| ruby-text \| ruby-base-container \| ruby-text-container \| inline-block \| inline-table \| inline-flex \| inline-grid \| contents \| none
-* Default: inline
-* Applies to: all elements
+* **Property Name**: display 
+* **Values**: inline \| block \| run-in \| flex \| grid \| flow \| flow-root \| list-item \| table \| table-row-group \| table-header-group \| table-footer-group \| table-row \| table-cell \| table-column-group \| table-column \| table-caption \| ruby \| ruby-base \| ruby-text \| ruby-base-container \| ruby-text-container \| inline-block \| inline-table \| inline-flex \| inline-grid \| contents \| none
+* **Default**: inline
+* **Applies to**: all elements
 
-
-
-
-
-
-
-
-
-
-
-#### Margins (shorthand) p. 376
-* Property Name: margin
-* Values: length \| percentage \| auto
-* Default: auto
-* Applies to: all elements
-
-
-
-
-
-
-
-
-
+### More notes on display types aka "display behavior"
+* **ruby** refers to *ruby annotation* for East Asian langauges.
+* Display type assignment is useful for achieving layout effects while keeping the semantics of the HTML source intact.
+* For example, it is common practice to make **li** elements (which usually display with the characteristics of block elements) display as inline elements to turn a list inot a horizaontal nav bar.
+* One may also make an otherwiuse inline **a** (anchor, e.g., for a hyperlink) element display as a block in order to give it a specific width and height:
+```css
+ul.navigation li { display; inline; }
+ul.navigation li a { display; block; }
+```
+* Another useful value for the display property is **none**, which romves the content from the normal flow entirely. p. 382
+	* Unlike **visibility: hidden**, which hides the element but still keeps the space it would have occupied *blank*, **display: none** removes the content *and* closes up the missing space.
+	* One popular use of **display: none** is to prevent certain content in the source doc from displaying in specific form factor (aka **media**). e.g., responsive design for when the same doc is displayed on a desktop computer display versus a mobile display.
+	* Alternately, one may display URLs for hyperlinks in a printed document, while simply making them links (with no visible URL) in a clickable computer presentation.
+* **Key Point**: Note that while **display: none** may make the document look smaller, the browser still downloads *the entire document*. So using **display: none** will reduce visual page size but *not* improve download speed.
 
 
 ***
 
 ## Box Drop Shadows p. 382
+* The **box-shadow** property adds a drop shadow ot the entire visible element *excluding the margin*. This is equivalent to the **text-shadow** property covered on p. 293.
+
+### box-shadow
+* **Property Name**: box-shadow
+* **Values**: 'horizontal offset' 'vertical offset' 'blur distance' 'spread distance' color \| inset \| none 
+* **Default**: none
+* **Applies to**: all elements
+
+### More notes on box shadow p. 383
+* The value of the box-shadow property should seem amiliar to you after your working with the text-shadow. 
+
 
 ***
 
