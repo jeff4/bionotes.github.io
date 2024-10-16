@@ -923,8 +923,31 @@ body {
 
 ## Assigning Display Types p. 380
 * Let's introduce the **display** properties.
-* The **display** property deinfes the type of element box an element generates in the layout.
+* The **display** property deinfes the type of element box an element generates in the layout. p. 382
 * In addition to the familiar *inline* and *block* display types, one can make elements display as list items or the various parts of a table.
+
+###
+### display property p. 380
+* Property Name: display 
+* Values: inline \| block \| run-in \| flex \| grid \| flow \| flow-root \| list-item \| table \| table-row-group \| table-header-group \| table-footer-group \| table-row \| table-cell \| table-column-group \| table-column \| table-caption \| ruby \| ruby-base \| ruby-text \| ruby-base-container \| ruby-text-container \| inline-block \| inline-table \| inline-flex \| inline-grid \| contents \| none
+* Default: inline
+* Applies to: all elements
+
+
+
+
+
+
+
+
+
+
+
+#### Margins (shorthand) p. 376
+* Property Name: margin
+* Values: length \| percentage \| auto
+* Default: auto
+* Applies to: all elements
 
 
 
