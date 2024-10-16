@@ -961,11 +961,16 @@ ul.navigation li a { display; block; }
 
 ### More notes on box shadow p. 383
 * The value of the box-shadow property should seem amiliar to you after your working with the text-shadow. 
+* Specify the vertical and horizontal offset distances, the amount of blur in the shadow, and a color.
+* Box shadows also have a *spread* amount (with both positive and negative values) for how big or small the shadow might be.
+* By default, the shadow color = foreground color of the element but when you specify a color that overrides the default.
+* p. 383 just as with **text-shadow**, box shadows allow multiple box shadows on the same element by providing the alues in a comma-separated list.
 
 
 ***
 
 # Chapter 15: Floating and Positioning p. 387
+## 10/16/2024
 
 
 
