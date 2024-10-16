@@ -971,7 +971,12 @@ ul.navigation li a { display; block; }
 
 # Chapter 15: Floating and Positioning p. 387
 ## 10/16/2024
+* Chapter 15 is about breaking out of the normal flow of a document and arranging elements on the page.
+* **Floating** an element moves it ot the left or right and allows text to wrap around itd.
+* **Positioning** is a way to specify the location of an element anywhere on the page with pixel precision.
 
+## Normal Flow p. 387
+* Let's do a refresher on normal flow. In the CSS Layout model, texgt elements are laid out from top to bottom  in teh order in which they appear in the source.
 
 
 
