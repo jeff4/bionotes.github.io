@@ -954,10 +954,10 @@ ul.navigation li a { display; block; }
 * The **box-shadow** property adds a drop shadow ot the entire visible element *excluding the margin*. This is equivalent to the **text-shadow** property covered on p. 293.
 
 ### box-shadow
-* **Property Name**: box-shadow
-* **Values**: 'horizontal offset' 'vertical offset' 'blur distance' 'spread distance' color \| inset \| none 
-* **Default**: none
-* **Applies to**: all elements
+* **Property Name:** box-shadow
+* **Values:** 'horizontal offset' 'vertical offset' 'blur distance' 'spread distance' color \| inset \| none 
+* **Default:** none
+* **Applies to:** all elements
 
 ### More notes on box shadow p. 383
 * The value of the box-shadow property should seem amiliar to you after your working with the text-shadow. 
@@ -976,7 +976,28 @@ ul.navigation li a { display; block; }
 * **Positioning** is a way to specify the location of an element anywhere on the page with pixel precision.
 
 ## Normal Flow p. 387
-* Let's do a refresher on normal flow. In the CSS Layout model, texgt elements are laid out from top to bottom  in teh order in which they appear in the source.
+* Let's do a refresher on normal flow. In the CSS Layout model, texgt elements are laid out from top to bottom in the order in which they appear in the source. For left-to-right languages like English and French, it also flows from left to right (whereas for languages like Arabic and Hebrew, it flows right to left).
+* Block elements stack up on top of one another and fill the available width of the browser window or other containing elements.
+* Inline elements and text characters line up next to one another to fill the block elements.
+* When the window or containing element resizes, the block eleemtns expand or contract to the new width;
+	* and the inline content reflows to fit as shwon in Fig 15-1 (p. 388)
+* Objects in the normal flow affect the layout o the objects around them.
+	* This is the *expected normal* behavior of web pages--**elements do *not* overlap or bunch up**.
+
+## Floating p. 388
+* Simply stated, the **float** property moves an element as far as possible to the left or right, allowing the content below it to wrap around it.
+* This is a unique feature built into CSS.
+
+### float
+* **Property Name:** float
+* **Values:** left \| right \| none
+* **Default:** none
+* **Applies To:** all elements
+
+### More on float
+* The best way to explain floating is a demo.
+* Consider the example in Fig 15-2 (p. 389)
+
 
 
 
