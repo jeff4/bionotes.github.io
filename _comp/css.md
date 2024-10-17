@@ -1016,6 +1016,24 @@ image {
 * p. 390 - 392 contain several examples of how just about any element can b e floated.
 
 #### 15.3.2.1 Floating an inline text element
+##### HTML markup
+```HTML
+<p><span class = "tip">TIP: Make sure that your packing tub or bucket has a hole below the top fo the mold so the water will drain off</span>After teh cream is frozen rather stiff, prepare a tub or bucket of...</p>
+```
+##### CSS
+```css
+span.tip {
+  float: right;
+  margin: 1 em;
+  width: 200px;
+  color: #fff;
+  background-color: lightseagreen;
+  padding: 1 em;
+
+}
+```
+
+
 ##### Notes on 15.3.2.1
 1. Always provie a width for floated text elements
 1. Floated inline elements behave as block elements
