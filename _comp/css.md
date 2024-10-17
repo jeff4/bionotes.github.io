@@ -1013,6 +1013,19 @@ image {
 	1. Margins are maintained
 
 ### 15.3.2 Floating Inline and Block elements p. 390
+* p. 390 - 392 contain several examples of how just about any element can b e floated.
+
+#### 15.3.2.1 Floating an inline text element
+##### Notes on 15.3.2.1
+1. Always provie a width for floated text elements
+1. Floated inline elements behave as block elements
+1. Margins on floated elements do not collapse
+
+#### 15.3.2.2 Floating block elements p. 391
+##### Notes on 15.3.2.2 p. 393
+1. You must provide a width for floated block elements
+1. Elements do not float higher than their reference in the source
+1. Non-floated elements maintain the normal flow
 
 ### 15.3.3 Clearing Floated Elements p. 393
 
