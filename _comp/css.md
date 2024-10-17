@@ -971,11 +971,12 @@ ul.navigation li a { display; block; }
 
 # Chapter 15: Floating and Positioning p. 387
 ## 10/16/2024
+## 15.1 Introduction
 * Chapter 15 is about breaking out of the normal flow of a document and arranging elements on the page.
 * **Floating** an element moves it ot the left or right and allows text to wrap around itd.
 * **Positioning** is a way to specify the location of an element anywhere on the page with pixel precision.
 
-## Normal Flow p. 387
+## 15.2 Normal Flow p. 387
 * Let's do a refresher on normal flow. In the CSS Layout model, texgt elements are laid out from top to bottom in the order in which they appear in the source. For left-to-right languages like English and French, it also flows from left to right (whereas for languages like Arabic and Hebrew, it flows right to left).
 * Block elements stack up on top of one another and fill the available width of the browser window or other containing elements.
 * Inline elements and text characters line up next to one another to fill the block elements.
@@ -984,7 +985,7 @@ ul.navigation li a { display; block; }
 * Objects in the normal flow affect the layout o the objects around them.
 	* This is the *expected normal* behavior of web pages--**elements do *not* overlap or bunch up**.
 
-## Floating p. 388
+## 15.3 Floating p. 388
 * Simply stated, the **float** property moves an element as far as possible to the left or right, allowing the content below it to wrap around it.
 * This is a unique feature built into CSS.
 
@@ -994,10 +995,62 @@ ul.navigation li a { display; block; }
 * **Default:** none
 * **Applies To:** all elements
 
-### More on float
+### 15.3.1 More on float
 * The best way to explain floating is a demo.
-* Consider the example in Fig 15-2 (p. 389)
+* Consider the examples in Fig 15-2 and 15-3 (p. 389)
+* Note how it looks better, esp. if one adds a **1 em** margin around the image:
 
+```css
+image {
+  float: right;
+  margin: 1em;
+}
+```
+
+* Figures 15-2 and 15-3 illustrate some lessons:
+	1. A floated element is like an island in a stream
+	1. Floats stay in the content area of the *containing element*
+	1. Margins are maintained
+
+### 15.3.2 Floating Inline and Block elements p. 390
+
+### 15.3.3 Clearing Floated Elements p. 393
+
+### 15.3.4 Floating Multiple Elements p. 394
+
+### 15.3.5 Containing Floats p. 397
+
+***
+
+## 15.4 Fancy Text Wrap With CSS Shapes p. 399
+
+### 15.4.1 Using a Transparent Image p. 400
+
+### 15.4.2 Using a Path p. 401
+
+### 15.4.3 CSS Shape Resources p. 403
+
+***
+
+## 15.5 Positioning Basics p. 405
+### 15.5.1 Types of Positioning
+
+### 15.5.2 Specifying Position
+
+***
+
+## 15.6 Relative Positioning p. 407
+
+***
+
+## 15.7 Absolute Positioning p. 408
+### 15.7.1 Containing Blocks p. 409
+### 15.7.2 Specifying Position p. 411
+### 15.7.3 Stacking Order p. 414
+
+***
+
+## 15.8 Fixed Positioning p. 416
 
 
 
