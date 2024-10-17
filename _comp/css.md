@@ -1018,7 +1018,7 @@ image {
 #### 15.3.2.1 Floating an inline text element
 ##### HTML markup
 ```HTML
-<p><span class = "tip">TIP: Make sure that your packing tub or bucket has a hole below the top fo the mold so the water will drain off</span>After teh cream is frozen rather stiff, prepare a tub or bucket of...</p>
+<p><span class = "tip">TIP: Make sure that your packing tub or bucket has a hole below the top fo the mold so the water will drain off</span>After the cream is frozen rather stiff, prepare a tub or bucket of coarsely chopped ice, with one-half less salt than you use for freezing. To each ten pounds of ice, allow one quart of rock salt...</p>
 ```
 ##### CSS
 ```css
@@ -1029,21 +1029,45 @@ span.tip {
   color: #fff;
   background-color: lightseagreen;
   padding: 1 em;
-
 }
 ```
-
-
 ##### Notes on 15.3.2.1
 1. Always provie a width for floated text elements
 1. Floated inline elements behave as block elements
 1. Margins on floated elements do not collapse
 
+***
+
 #### 15.3.2.2 Floating block elements p. 391
+
+##### HTML markup
+```HTML
+<p>If you wish to pack ice cream...</p>
+<p id="float">After the cream is frozen rather stiff, prepare a tub or bucket of coarsely chopped ice, with one-half less salt than you use for freezing. To each ten pounds of ice, allow one quart of rock salt...</p>
+<p>Remove the lid from the mold, and pack in the cream,...</p>
+<p>Make sure that your packing tub or bucket has a hole at the top of the mold...</p>
+<p>As cold water is warmer than the ordinary freezing mixture...</p>
+```
+##### CSS
+```css
+p {
+  border: 2px red solid;
+}
+.
+#float {
+  float: left;
+  width: 300 px;
+  margin: 1 em;
+  background: white;
+}
+```
+
 ##### Notes on 15.3.2.2 p. 393
 1. You must provide a width for floated block elements
 1. Elements do not float higher than their reference in the source
 1. Non-floated elements maintain the normal flow
+
+***
 
 ### 15.3.3 Clearing Floated Elements p. 393
 
