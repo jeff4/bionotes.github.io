@@ -1035,6 +1035,8 @@ span.tip {
 1. Always provie a width for floated text elements
 1. Floated inline elements behave as block elements
 1. Margins on floated elements do not collapse
+##### More notes
+* For picture, see Fig 15-4 on p. 391
 
 ***
 
@@ -1067,11 +1069,29 @@ p {
 1. Elements do not float higher than their reference in the source
 1. Non-floated elements maintain the normal flow
 
+##### More notes
+* For 2 pictures, see Fig 15-5 on p. 392
 ***
 
 ### 15.3.3 Clearing Floated Elements p. 393
+* If you're going to be floating elements, it is also important to know how to turn off floating.
+* You do this by **clearing** the element that you want to start below the float.
+* Applying the **clear** property to an element prevents it from appearng next to a floated element and forces it to start against the next available "clear" space below the float.
+* keep in mind that you apply the **clear** property to the element you want to start *below* the floated element; **not the floated element *itself***.
+* The **left value** starts the element below any elements that have been floated to the left.
+* Similarly, the **right value** starts the element below any elements that have been floated to the right.
+* If therer are multiple floated elements to the left and the right, use the **both value** to clear floats on both sides.
+
+#### clear
+* **Property Name:** clear
+* **Values:** left \| right \| both \| none
+* **Default:** none
+* **Applies to:** block-level elements only
+
+***
 
 ### 15.3.4 Floating Multiple Elements p. 394
+* It's perfectly fine to float multiple elements on a page or even within a single element.
 
 ### 15.3.5 Containing Floats p. 397
 
