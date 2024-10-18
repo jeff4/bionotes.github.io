@@ -1071,6 +1071,7 @@ p {
 
 ##### More notes
 * For 2 pictures, see Fig 15-5 on p. 392
+
 ***
 
 ### 15.3.3 Clearing Floated Elements p. 393
