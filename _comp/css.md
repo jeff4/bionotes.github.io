@@ -1202,6 +1202,7 @@ img.wrap {
 
 ***
 
+10/22
 ## 15.6 Relative Positioning p. 407
 * As mentioned previously, rel positioning moves an element relative to its ogirinal spot in the flow.
 
