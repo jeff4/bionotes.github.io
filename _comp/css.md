@@ -1201,8 +1201,9 @@ img.wrap {
 * **Applies to:** positioned elements (where position value is relative, absolute, or fixed).
 
 ***
+## 10/22/2024
+* **NOTE: to see previous Black Goose Bakery files, go to `~/Dropbox/proj-3/css-jnr`.**
 
-10/22
 ## 15.6 Relative Positioning p. 407
 * As mentioned previously, rel positioning moves an element relative to its ogirinal spot in the flow.
 
