@@ -269,9 +269,19 @@ import Insect
 ***
 
 ## 10/22/2024
-* Let's get back to Haskell! Let's install on minipro-23
+
+### Install on minipro-23
 * Simple, single line install, per [these instructions](https://www.haskell.org/ghcup/install/):
-* Went through steps as discussed on 9/22/2024 for laptop. Got this message `Note: On OS X, in the course of running ghcup you will be given a dialog box to install the command line tools. Accept and the requirements will be installed for you. You will then need to run the command again. On Darwin M1 you might also need a working llvm installed (e.g. via brew) and have the toolchain exposed in PATH.`:w
+```
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+```
+* Went through steps as discussed on 9/22/2024 for laptop. 
+1. Options I selected:
+	* **A** to append ghcup to **.bashrc** file
+	* **N** to decline install of HLS language server for now
+	* **Y** to install *Haskell Stack* for better integration with GHCup
+
+* Got this message `Note: On OS X, in the course of running ghcup you will be given a dialog box to install the command line tools. Accept and the requirements will be installed for you. You will then need to run the command again. On Darwin M1 you might also need a working llvm installed (e.g. via brew) and have the toolchain exposed in PATH.`:w
 * Since minipro-23 has already been upgraded to Mac OS Sequoia (v. 15.0.1), I figured Xcode cmdline tools (CLT) is lalready upgraded to latest version.
 	* Verified version of CLT by typing: `brew config` at terminal. Returned `CLT: 16.0.0.0.1.1724870825`.
 * Went back to terminal window with GHCup install and pressed **`<ENTER>`**
@@ -290,3 +300,6 @@ Leaving GHCi.
 (base) [15:30:10 ~]:
 ```
 
+### Install on imac-2018
+* Simple, single line install, per [these instructions](https://www.haskell.org/ghcup/install/):
+* Everything was same as minipro-23 above. Working as expected.
