@@ -1167,6 +1167,23 @@ img.wrap {
 * Many ways of positioning: relative, absolute on the page, relatvie to the viewport, etc. 
 ### 15.5.1 Types of Positioning
 
+#### position
+* **Property Name:** position
+* **Values:** static \| relative \| absolute \| fixed \| sticky
+* **Default:** static
+* **Applies to:** all elements
+
+#### More notes on position p. 405-406
+* The **position** property indicates that an element is to be positioned and specifies which positioning method to use. 
+* More details in future sections; this is just a brief introduction.
+
+##### 1. static
+##### 2. relative
+##### 3. absolute
+##### 4. fixed
+##### 5. sticky
+
+
 ### 15.5.2 Specifying Position
 
 ***
