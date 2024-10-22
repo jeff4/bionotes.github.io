@@ -1122,7 +1122,33 @@ p {
 * **Default:** none
 * **Applies to:** floats
 
+***
+
 ### 15.4.2 Using a Transparent Image p. 400
+* Let's show how a transparent shape to define the way text wraps closely around the ice cream sundae's irregular shape.
+* Note that the wrapped text is now bumping right into the image. So next we need to give extra space with property **shape-margin**
+
+#### HTML markup
+```html
+<p><img src="sundae.png" class="wrap" alt=""> In places where neither cream not condensed milk can be purchased...</p>
+```
+
+#### CSS
+```css
+img.wrap {
+  float: left;
+  width: 300px;
+  height: 300px;
+  shape-outside: url(sundae.png);
+```
+
+## shape-margin
+* **Property Name:** shape-margin
+* **Values:** length \| percentage
+* **Default:** 0
+* **Applies to:** floats
+
+***
 
 ### 15.4.3 Using a Path p. 401
 
