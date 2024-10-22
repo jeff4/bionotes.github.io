@@ -1151,12 +1151,20 @@ img.wrap {
 ***
 
 ### 15.4.3 Using a Path p. 401
+* Instead of using a transparent image, we can wrap text by using a *path keywords:* **circle()**, **ellipse()**, **polygon()**.
+* See Fig 15-14, 15-15, 15-16, 15-17 on p. 401-403 to see examples.
+* This can become quite annoying quite quickly. see all the pixel points on pg. 403! They had to be manually gathered by opening the image in Photoshop.
 
 ### 15.4.4 CSS Shape Resources p. 403
+* There are some finer points regarding CSS Shapes that don't fit in the JNR book.
+* See p. 403 for more resources.
+* Exercise 15-2 on p. 404 applies shapes around floats for the Black Goose Bakery.
 
 ***
 
+## 10/22/2024
 ## 15.5 Positioning Basics p. 405
+* Many ways of positioning: relative, absolute on the page, relatvie to the viewport, etc. 
 ### 15.5.1 Types of Positioning
 
 ### 15.5.2 Specifying Position
