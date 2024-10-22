@@ -1178,17 +1178,32 @@ img.wrap {
 * More details in future sections; this is just a brief introduction.
 
 ##### 1. static
+* The default value, which is the normal positioning scheme; elements occurfrom top to bottom as normal.
 ##### 2. relative
+* Movs the element box relative to the *original position* the element would have been placed in in the normal flow.
 ##### 3. absolute
+* Removed completely from regular document flow
+* Positioned with respect to the viewport **or** the containing element.
+* No influence on any other surrounding elements' layout.
 ##### 4. fixed
+* Stays in the same position in the viewport even when the document scrolls.
 ##### 5. sticky
+* Combination of relative and fixed positioning.
+* Starts as relative when a user begins scrolling; after cursor reaches specified point, the element then becomes *fixed*.
+* See quote from MDN on p. 406.
 
+***
 
-### 15.5.2 Specifying Position
+### 15.5.2 Specifying Position - four offset positions
+* **Property Names:** top, right, bottom, and/or left
+* **Values:** length \| percentage \| auto
+* **Default:** auto
+* **Applies to:** positioned elements (where position value is relative, absolute, or fixed).
 
 ***
 
 ## 15.6 Relative Positioning p. 407
+* As mentioned previously, rel positioning moves an element relative to its ogirinal spot in the flow.
 
 ***
 
