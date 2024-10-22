@@ -47,7 +47,7 @@ sitemap: false
 	* **N** to decline install of HLS language server for now
 	* **Y** to install *Haskell Stack* for better integration with GHCup
 1. Installer completed. Tested result with [these GHCi instructions](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html#introduction-to-ghci)
-1. Changed `~/demo-files/proj-1/` to main haskell directory. Added this:
+1. Changed `~/Dropbox/proj-1/` to main haskell directory. Added this:
 
 ```haskell
 main = print (fac 20)
@@ -303,3 +303,4 @@ Leaving GHCi.
 ### Install on imac-2018
 * Simple, single line install, per [these instructions](https://www.haskell.org/ghcup/install/):
 * Everything was same as minipro-23 above. Working as expected.
+* For some reason, this rebooted my `.bashrc` file such that the earlier command `eval "$(starship init bash)"` now seems to work for both Terminal and Alacritty.
