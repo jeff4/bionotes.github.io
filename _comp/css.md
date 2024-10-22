@@ -1091,20 +1091,42 @@ p {
 
 ***
 
+## 10/21/2024
+
 ### 15.3.4 Floating Multiple Elements p. 394
 * It's perfectly fine to float multiple elements on a page or even within a single element.
+	* In fact, for many years, float-based layouts were the primary way to line up elements like nav menus.
+	* Per the sidebar on p. 394 **Float-Based Layouts**, new tools in CSS3 like **Flexbox** and **Grid** have now *superceded* the old float-based techniques.
+* There is a complex set of interlocking rules that keep floated elements from overlapping. The upshot is that floated elements will be placed as far left or far right and high up as space allows. 
+* See Fig 15-8 on p. 396 to understand how multiple elements float.
 
 ### 15.3.5 Containing Floats p. 397
+* This is a good time to talk about a CSS quirk: **float containment**.
+* Problem illustrated on p. 397, Fig 15-9, 15-10.
+* Old solution: **clearfix** and **:after** psuedo-element.
+* New solution: **flow-root** in sidebar on p. 398.
 
 ***
 
 ## 15.4 Fancy Text Wrap With CSS Shapes p. 399
 
-### 15.4.1 Using a Transparent Image p. 400
+## 15.14.1 Introduction
+* In the previous *float* examples, the text always wraps in a rectangular shape around a floated image or element box.
+* This is sort of boring.
+* By using the **shape-outside** property, one can change the shape of the wrapped text into a circle, ellipse, polygon, or any image shape.
+* See ice cream sundae example on p. 399, Fig 15-12.
 
-### 15.4.2 Using a Path p. 401
+## shape-outside
+* **Property Name:** shape-outside
+* **Values:** none \| circle() \| ellipse() \| polygon() \| url() \| [margin box \| padding-box \| content-box]
+* **Default:** none
+* **Applies to:** floats
 
-### 15.4.3 CSS Shape Resources p. 403
+### 15.4.2 Using a Transparent Image p. 400
+
+### 15.4.3 Using a Path p. 401
+
+### 15.4.4 CSS Shape Resources p. 403
 
 ***
 
@@ -1129,7 +1151,7 @@ p {
 ## 15.8 Fixed Positioning p. 416
 
 
-10/21
+
 
 
 ***
