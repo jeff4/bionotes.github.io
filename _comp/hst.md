@@ -299,8 +299,15 @@ ghci> [CTRL-D]
 Leaving GHCi.
 (base) [15:30:10 ~]:
 ```
+***
 
 ### Install on imac-2018
 * Simple, single line install, per [these instructions](https://www.haskell.org/ghcup/install/):
 * Everything was same as minipro-23 above. Working as expected.
 * For some reason, this rebooted my `.bashrc` file such that the earlier command `eval "$(starship init bash)"` now seems to work for both Terminal and Alacritty.
+
+***
+
+## 10/23/2024
+* Let's build a simple TSV to CSV converter in Haskell. Example #2 from 2015[article on Basic Haskell Examples](https://www.haskellforall.com/2015/10/basic-haskell-examples.html)
+
