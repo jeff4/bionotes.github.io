@@ -303,6 +303,9 @@ Leaving GHCi.
 
 ### Install on imac-2018
 * Simple, single line install, per [these instructions](https://www.haskell.org/ghcup/install/):
+```
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+```
 * Everything was same as minipro-23 above. Working as expected.
 * For some reason, this rebooted my `.bashrc` file such that the earlier command `eval "$(starship init bash)"` now seems to work for both Terminal and Alacritty.
 
