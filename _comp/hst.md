@@ -309,7 +309,7 @@ Leaving GHCi.
 ***
 
 ## 10/23/2024
-* Let's build a simple TSV to CSV converter in Haskell. Example #2 from 2015[article on Basic Haskell Examples](https://www.haskellforall.com/2015/10/basic-haskell-examples.html)
+* Let's build a simple TSV to CSV converter in Haskell. Example #2 from 2015 [article on Basic Haskell Examples](https://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * Hm, didn't work.
 * Let's try [lecture course](https://haskell.mooc.fi/) that comes in 2 parts. Here is [Part 1](https://haskell.mooc.fi/part1#lecture-1-and-so-it-begins)
 	* Found on this [reddit comment from 2022](https://www.reddit.com/r/haskell/comments/yftmbm/comment/iu8suis/)
