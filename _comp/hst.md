@@ -313,3 +313,13 @@ Leaving GHCi.
 * Hm, didn't work.
 * Let's try [lecture course](https://haskell.mooc.fi/) that comes in 2 parts. Here is [Part 1](https://haskell.mooc.fi/part1#lecture-1-and-so-it-begins)
 	* Found on this [reddit comment from 2022](https://www.reddit.com/r/haskell/comments/yftmbm/comment/iu8suis/)
+* Also, consider the [Haskell Wiki Book](https://en.wikibooks.org/wiki/Haskell)
+
+# Haskell mooc
+## Lecture 1
+### From 1.3.3 Uses of Haskell
+* Examples of where Haskell is used can be found on [The Haskell Wiki](https://wiki.haskell.org/Haskell_in_industry) and [this 2022 blog post](https://serokell.io/blog/top-software-written-in-haskell)
+
+### 1.6 Expressions and Types
+* **Expressions** and **Types** are core to Haskell. Unlike Python, Java, C, etc., there are *no statements*.
+* An expresssion must have a **value** and a **type**.
