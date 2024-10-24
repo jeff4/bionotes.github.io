@@ -378,3 +378,4 @@ price = if product == "milk" then 1 else 2
 	* **<=** less than or equal to
 	* **>** greater than
 	* **>=** greater than or equal to
+* One oddity is that Haskell uses **`/=`** rather than the more commonly used **`!=`** operator for the *not-equals* operator.
