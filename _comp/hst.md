@@ -326,3 +326,16 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 ### 1.6 Expressions and Types
 * **Expressions** and **Types** are core to Haskell. Unlike Python, Java, C, etc., there are *no statements*.
 * An expresssion must have a **value** and a **type**.
+* From 1.6.1 Syntax of Expressions. Note how `function()` calls in C/Java/... assume input arguments. Whereas in Haskell, one simply uses spaces to separate a function and it's following list of parameters. 
+	* C: `f(1)`; Haskell equivalent: `f 1`.
+	* C: `f(1,2)`; Haskell equivalent: `f 1 2`.
+* Example of how function calls bind tighter than operators; aka functions take precedence over operators, like how multiplication binds tighter than addition in algebra.
+	* C: `a+b`; Haskell: `a+b`
+	* C: `f(a) + f(b)`; Haskell: `f a + f b`
+	* C: `f( a + g(b))` ; Haskell: `f( a + g(b) )`
+* **NOTE:** function application *associates left*. 
+* 1.6.2 Syntax of Types
+	* **Int** is a signed 64bit number; **Integer** is an unbounded number type
+	* **Double** is a floating point number
+	* **Bool** true/false
+	* **String** is an array of chars **[Char]**. In Section 1.6.3, they poit out that **String** and **[Char]** are synonyms and can be used interchangeably.
