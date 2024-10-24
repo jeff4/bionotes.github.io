@@ -319,11 +319,11 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 * Also, consider the [Haskell Wiki Book](https://en.wikibooks.org/wiki/Haskell)
 
 # Haskell mooc
-## Lecture 1
-### From 1.3.3 Uses of Haskell
+# Lecture 1
+## From 1.3.3 Uses of Haskell
 * Examples of where Haskell is used can be found on [The Haskell Wiki](https://wiki.haskell.org/Haskell_in_industry) and [this 2022 blog post](https://serokell.io/blog/top-software-written-in-haskell)
 
-### 1.6 Expressions and Types
+## 1.6 Expressions and Types
 * **Expressions** and **Types** are core to Haskell. Unlike Python, Java, C, etc., there are *no statements*.
 * An expresssion must have a **value** and a **type**.
 * From 1.6.1 Syntax of Expressions. Note how `function()` calls in C/Java/... assume input arguments. Whereas in Haskell, one simply uses spaces to separate a function and it's following list of parameters. 
@@ -339,3 +339,33 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 	* **Double** is a floating point number
 	* **Bool** true/false
 	* **String** is an array of chars **[Char]**. In Section 1.6.3, they poit out that **String** and **[Char]** are synonyms and can be used interchangeably.
+
+## 1.7 Golden Ratio Exercise (Structure of a Haskell Program)
+* Created **Gold** module stored in `Gold.hs` file. Ran with both `runghc Gold.hs` and `stack runhaskell Gold.hs` and verified it works.
+	* Note that executing the `stack` command kicked off an install process to the latest version of GHC.
+
+## 1.8 Working with Examples
+* For a simple one-line command, you can just paste it into **ghci** (Glasgow Haskell Compiler - Interactive).
+* If one wants to cut and paste in multiple lines into **ghci**, use the `:{` and `:}` syntax and paste in between.
+* Of course, one can use `:load` aka `:l` to load a file to run within **ghci**.
+* Note there are two types of *division* operators: `/` and `div`, connected to `Num` and `Fractional`. More explanation of this when they discuss **type classes**.
+
+## 1.9 Basic Structures
+### 1.9.1 Conditionals instead of `if` statement.
+* In languages like Java, **if** is a *statement*. If it doesn't have a value, it just *conditionally* executes other statements.
+* In Haskell, **if** is an expression; it must have a value. It must select between 2 other expressions. It corresponds to the `?:` operator in C or Java. Let's express this in 3 languages
+
+#### 1.9.1a Java
+```java
+int price = product.equals("milk") ? 1 : 2;
+```
+
+#### 1.9.1b Python
+```python
+price = 1 if product == "milk" else 2
+```
+
+#### 1.9.1c Haskell
+```haskell
+price = if product -- "milk" then 1 else 2
+```
