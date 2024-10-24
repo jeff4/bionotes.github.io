@@ -369,3 +369,7 @@ price = 1 if product == "milk" else 2
 ```haskell
 price = if product == "milk" then 1 else 2
 ```
+
+#### 1.9.1.1 Functions returning Bool
+* In order to write **if** expressions in Haskell, one needs to know how to get values of type **Bool**. 
+* The most common way is binary comparison operators (take 2 arguments) like **==** (equal to), **<** (less than), **<=** (less than or equal to), **>** (greater than), **>=** (greater than or equal to).
