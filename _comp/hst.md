@@ -420,3 +420,23 @@ myObj.address.city = "Los Angeles"; // This will have no effect.
 * **It is best to always choose new names for local variables so that shadowing never happens.** This way, the reader of the code will understand where the variables are used in an expression come from. See example.
 
 ### 1.9.4 Pattern Matching
+* The definition of a function can consist of multiple **equations**.
+* The equations are matched in order against the arguments until a suitable one is found.
+* This is called *pattern matching*.
+* Consider this example:
+```haskell
+greet:: String -> String -> String
+greet "Finland" name = "Hei, " ++ name
+greet "Italy"   name = "Ciao, " ++ name
+greet "England" name = "How do you do, " ++ name
+greet _         name = "Hello, " ++ name
+```
+* The function `greet` generates a greeting given a country and name (which are both strings). 
+* There is a special case for 3 countries: Finland, Italy, and England, and default case for everywhere else.
+* I had to modify this code to work via `runghc Hello.hst` with a `main = doprint` construct because I wasn't using Prelude. Probably works better if I modify this to work in ghci.
+
+#### 1.9.4a the _ pattern
+* In any case, the **`_`** is a special pattern that matches anything. Be careful to place it as the **last case** b/c it will search for everything. Which can be a problem if you use this as one of the early/middle cases.
+
+#### 1.9.4b the SHOW function from the standard library
+* e.g., show True
