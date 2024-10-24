@@ -379,3 +379,10 @@ price = if product == "milk" then 1 else 2
 	* **>** greater than
 	* **>=** greater than or equal to
 * One oddity is that Haskell uses **`/=`** rather than the more commonly used **`!=`** operator for the *not-equals* operator.
+* And of course, one can get **Bool** output values as a result of these operators:
+	* **`&&`** logical *and*
+	* **`||`** logical *or*
+	* **`not`** function
+
+### 1.9.2 Local Definitions
+* For now, both the `let...in` and `where` constructs can be used interchangeably for small local variables.
