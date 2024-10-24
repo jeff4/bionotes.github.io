@@ -386,3 +386,28 @@ price = if product == "milk" then 1 else 2
 
 ### 1.9.2 Local Definitions
 * For now, both the `let...in` and `where` constructs can be used interchangeably for small local variables.
+
+### 1.9.3 A Word about Immutability
+* Note that all "variables" in Haskell are more properly called **defintions** because they are immutable. 
+* They are *not* just like a box that can contain some value like in many other programming languages.
+* This is why idioms like **`i++`** will **not** work in Haskell.
+* JH: I think Haskell "variables" (really, definitions), are similar to modern JavaScript variables declared by the **`const`** keyword. although that only prevents reassignment of the variable, but the value itself is changeable. Perhaps from the `Object.freeze()` and a created function like:
+```javascript
+function deepFreeze(obj) {
+  Object.freeze(obj);
+  for (const key in obj) {
+    if (typeof obj[key] === "object" && obj[key] !== null) {
+      deepFreeze(obj[key]);
+    }
+  }
+  return obj;
+}
+
+const myObj = {
+  name: "Alice",
+  address: { city: "New York" },
+};
+
+deepFreeze(myObj);
+myObj.address.city = "Los Angeles"; // This will have no effect.
+```
