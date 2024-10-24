@@ -367,5 +367,5 @@ price = 1 if product == "milk" else 2
 
 #### 1.9.1c Haskell
 ```haskell
-price = if product -- "milk" then 1 else 2
+price = if product == "milk" then 1 else 2
 ```
