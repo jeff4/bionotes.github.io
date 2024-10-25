@@ -419,6 +419,10 @@ myObj.address.city = "Los Angeles"; // This will have no effect.
 * Shadowing creates a new variable within a more restricted scope that uses the same name as some variable in the outer scope. See here for an example.
 * **It is best to always choose new names for local variables so that shadowing never happens.** This way, the reader of the code will understand where the variables are used in an expression come from. See example.
 
+***
+
+## 10/25/2024
+
 ### 1.9.4 Pattern Matching
 * The definition of a function can consist of multiple **equations**.
 * The equations are matched in order against the arguments until a suitable one is found.
