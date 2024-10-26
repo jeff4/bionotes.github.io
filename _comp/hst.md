@@ -472,5 +472,13 @@ ghci> describe 82432
 "82432"
 ```
 
+#### 1.9.4c Reimplementation of the unicorn73 login password from before
+* More efficient using pattern matching and the (**`_`**) pattern.
 
+***
+
+## 10/25/2024
+### 1.9.5 Recursion
+* In Haskell, many loops are implemented with recursion rather than the `for-loop` and `do-while` loops from Python, C/Java/similar languages.
+* Here is the first recursive function which computes a factorial.
 
