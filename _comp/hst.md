@@ -396,6 +396,7 @@ price = if product == "milk" then 1 else 2
 * They are *not* just like a box that can contain some value like in many other programming languages.
 * This is why idioms like **`i++`** will **not** work in Haskell.
 * JH: I think Haskell "variables" (really, definitions), are similar to modern JavaScript variables declared by the **`const`** keyword. although that only prevents reassignment of the variable, but the value itself is changeable. Perhaps from the `Object.freeze()` and a recursive function like the below invented **`deepFreeze()`** function which is a recursive version of `Object.freeze()`:
+
 ```javascript
 function deepFreeze(obj) {
   Object.freeze(obj);
@@ -415,6 +416,7 @@ const myObj = {
 deepFreeze(myObj);
 myObj.address.city = "Los Angeles"; // This will have no effect.
 ```
+
 * Note that **shadowing** is when local definitions 'shadow' the names of variables defined elsewhere.
 * Shadowing creates a new variable within a more restricted scope that uses the same name as some variable in the outer scope. See here for an example.
 * **It is best to always choose new names for local variables so that shadowing never happens.** This way, the reader of the code will understand where the variables are used in an expression come from. See example.
