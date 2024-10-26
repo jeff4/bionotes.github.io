@@ -477,8 +477,33 @@ ghci> describe 82432
 
 ***
 
-## 10/25/2024
+## 10/26/2024
 ### 1.9.5 Recursion
+* [Link to section of the lecture](https://haskell.mooc.fi/part1#how-do-i-get-anything-done)
 * In Haskell, many loops are implemented with recursion rather than the `for-loop` and `do-while` loops from Python, C/Java/similar languages.
 * Here is the first recursive function which computes a factorial.
+```haskell
+factorial :: Int -> Int
+factorial 1 = 1
+factorial n = n * factorial (n-1)
+```
+* Paste this into **ghci**, where **==>** indicates what the expected output to be. Internal logic of what's happening:
+```
+factorial 3 becomes
+3 * factorial (3-1)
+3 * factorial (2)
+3 * 2 * factorial (1)
+3 * 2 * 1
+FINAL OUTPUT: 6
+```
+* When one tries to evaluate `factorial(-1)`, get this error:
+```
+<interactive>:8:11: error:
+    • No instance for (Num (Int -> Int)) arising from a use of ‘-’
+        (maybe you haven't applied a function to enough arguments?)
+    • In the expression: factorial - 1
+      In an equation for ‘it’: it = factorial - 1
+```
+* Next
+
 
