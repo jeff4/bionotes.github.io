@@ -443,4 +443,32 @@ greet _         name = "Hello, " ++ name
 * In any case, the **`_`** is a special pattern that matches anything. Be careful to place it as the **last case** b/c it will search for everything. Which can be a problem if you use this as one of the early/middle cases.
 
 #### 1.9.4b the SHOW function from the standard library
-* e.g., show True
+* `show True` echoes back a variable value which is the bool **True**.
+* Similarly `show 3` prints the number type **3**.
+* Consider this simple example:
+```haskell
+describe :: Integer -> String
+describe 0 = "zero"
+describe 1 = "one"
+describe 2 = "an even prime"
+describe n = "the number " ++ show n
+``` 
+* Let's try running the above interactively in ghci: 
+	1. Invoke ghci
+	1. Use the multiple line command **`:{`** 
+	1. Paste in the above commands 
+	1. Close the block with **`:}`**. 
+* Now, you can invoke the `describe` function as shown below, which should return the following output interactively.
+```
+ghci> describe 0
+"zero"
+ghci> describe 1
+"one"
+ghci> describe 2
+"an even prime"
+ghci> describe 82432
+"82432"
+```
+
+
+
