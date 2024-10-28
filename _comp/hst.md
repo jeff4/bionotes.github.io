@@ -504,6 +504,6 @@ FINAL OUTPUT: 6
     • In the expression: factorial - 1
       In an equation for ‘it’: it = factorial - 1
 ```
-* Next
+* Nexton 10/28
 
 
