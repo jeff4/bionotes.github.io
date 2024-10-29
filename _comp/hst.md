@@ -496,6 +496,25 @@ factorial 3 becomes
 3 * 2 * 1
 FINAL OUTPUT: 6
 ```
+#### 1.9.5a JH Explanation of factorial code
+1. There is a case statement asking: Is the input argument **n** an integer that equals 1? 
+	* If yes, then output = 1.
+	* If no, then output = **n** times recursive function factorial(**n** - 1).
+2. In the above case, **n = 3**. This means:
+	* **n = 3**, which is *not* equal to 1. So therefore...
+	* factorial 3 = **n** times factorial (**n minus 1**)
+1. This simplifies to **3** times factorial (**3 - 1**) 
+1. Which simplifies to **3** times factorial (**2**) 
+1. Which simplifies to **3** times [ **2** times factorial (**2 minus 1**) ]
+1. Which simplifies to **3** times [ **2** times factorial (**1**) ]
+1. Now note that `factorial (1)` in the above expression is a case statement where if n=1, then output of factorial(1) = 1. So we can rewrite the above as:
+	* **3** times [ **2** times **1** ].
+1. 3 * 2 * 1 = **`Final answer = 1`**.
+
+
+
+
+
 * When one tries to evaluate `factorial(-1)`, get this error:
 ```
 <interactive>:8:11: error:
@@ -508,4 +527,4 @@ FINAL OUTPUT: 6
 
 10/28/2024
 * Used pen and paper to work out the *internal logic* steps listed above from 10/26. Very interesting. In contrast, this is the implementation in JavaScript...
-
+* 
