@@ -533,4 +533,19 @@ FINAL OUTPUT: 6
 squareSum 0 = 0
 squareSum n = n^2 + squareSum (n-1)
 ```
+* Output is:
 
+```
+ghci> squareSum 1
+1
+ghci> squareSum 2
+5
+ghci> squareSum 3
+14
+ghci> squareSum 4
+30
+ghci> squareSum 5
+55
+```
+
+#### 1.9.5c Fibonacci Sequence
