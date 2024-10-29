@@ -585,4 +585,44 @@ fibonacci 2 = 1
 fibonacci n = fibonacci ( n-2 ) + fibonacci ( n-1 ) 
 ```
 
+#### 1.9.5e Fib Sequence in JavaScript
+* From [this page](https://www.geeksforgeeks.org/javascript-program-to-print-fibonacci-series/), there are multiple ways of implementing the Fibonacci sequence in JS.
+* Here is the implementation using a for-loop
+```javascript
+function fibonacci(num) {
+  let num1 = 0;
+  let num2 = 1;
+  let sum;
+  if (num === 1) {
+    return num1;
+  } else if (num === 2) {
+    return num2;
+  } else {
+    for (let i = 3; i <= num; i++) {
+      sum = num1 + num2;
+      num1 = num2;
+      num2 = sum;
+    }
+      return num2;
+    }
+}
+
+console.log("Fibonacci(5): " + fibonacci(5));
+console.log("Fibonacci(8): " + fibonacci(8));
+```
+* A more apples-to-apples comparison uses recursion in JS:
+
+```javascript
+function fibonacci(num) {
+  if (num == 1)
+    return 0;
+  if (num == 2)
+    return 1;
+  return fibonacci(num - 1) + fibonacci(num - 2);
+}
+
+console.log("Fibonacci(5): " + fibonacci(5));
+console.log("Fibonacci(8): " + fibonacci(8));
+```
+
 
