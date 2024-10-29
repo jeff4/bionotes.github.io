@@ -570,4 +570,4 @@ ghci> squareSum 5
 
 #### 1.9.5c Fibonacci Sequence
 * **Definition:** *The Fibonacci Sequence starts with `1,1`. To get the next element of the sequence, sum the previous two elements of the sequence.*
-* First several elements: **1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...*
+* First several elements: **1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...**
