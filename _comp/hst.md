@@ -527,8 +527,9 @@ FINAL OUTPUT: 6
 * Used pen and paper to work out the *internal logic* steps listed above from 10/26. Very interesting. In contrast, this is the implementation in JavaScript...
 
 #### 1.9.5b SquareSum example
-* Compute 1 squared + 2 squared + 3 squared + ... + n squared *aka*
-1<sup>2</sup> + 2<sup>2</sup> + ... + n<sup>2</sup>. 
+* **squareSum** is a function that calculates: 1 squared + 2 squared + 3 squared + ... + n squared 
+	* *aka*
+**1<sup>2</sup> + 2<sup>2</sup> + ... + n<sup>2</sup>**.
 ```haskell
 squareSum 0 = 0
 squareSum n = n^2 + squareSum (n-1)
