@@ -545,6 +545,8 @@ function factorial(n) {
 console.log(factorial(5)); // Output: 120
 ```
 
+***
+
 #### 1.9.5b SquareSum example
 * **squareSum** is a function that calculates: **1 squared** + **2 squared** + **3 squared** + **...** + **n squared** 
 	* *aka*
@@ -568,6 +570,19 @@ ghci> squareSum 5
 55
 ```
 
-#### 1.9.5c Fibonacci Sequence
+***
+
+#### 1.9.5c Fibonacci Sequence Intro
 * **Definition:** *The Fibonacci Sequence starts with `1,1`. To get the next element of the sequence, sum the previous two elements of the sequence.*
 * First several elements: **1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...**
+
+***
+
+#### 1.9.5d Fibonacci Sequence 1.0: Slow version
+```haskell
+fibonacci 1 = 1
+fibonacci 2 = 1
+fibonacci n = fibonacci ( n-2 ) + fibonacci ( n-1 ) 
+```
+
+
