@@ -526,6 +526,25 @@ FINAL OUTPUT: 6
 ## 10/28/2024
 * Used pen and paper to work out the *internal logic* steps listed above from 10/26. Very interesting. In contrast, this is the implementation in JavaScript...
 
+```javascript
+function factorial(n) {
+  // Check for invalid input
+  if (n < 0) {
+    return "Factorial is not defined for negative numbers";
+  }
+
+  // Base case
+  if (n === 0 || n === 1) {
+    return 1;
+  }
+
+  // Recursive case
+  return n * factorial(n - 1);
+}
+
+console.log(factorial(5)); // Output: 120
+```
+
 #### 1.9.5b SquareSum example
 * **squareSum** is a function that calculates: **1 squared** + **2 squared** + **3 squared** + **...** + **n squared** 
 	* *aka*
