@@ -507,15 +507,12 @@ FINAL OUTPUT: 6
 1. Which simplifies to **3** times factorial (**2**) 
 1. Which simplifies to **3** times [ **2** times factorial (**2 minus 1**) ]
 1. Which simplifies to **3** times [ **2** times factorial (**1**) ]
-1. Now note that `factorial (1)` in the above expression is a case statement where if n=1, then output of factorial(1) = 1. So we can rewrite the above as:
+1. Now note that `factorial (1)` in the above expression is a case statement where if n=1, then output of factorial(1) = 1. So we can rewrite Step 6 above as:
 	* **3** times [ **2** times **1** ].
 1. 3 * 2 * 1 = **`Final answer = 1`**.
 
-
-
-
-
 * When one tries to evaluate `factorial(-1)`, get this error:
+
 ```
 <interactive>:8:11: error:
     • No instance for (Num (Int -> Int)) arising from a use of ‘-’
@@ -523,8 +520,9 @@ FINAL OUTPUT: 6
     • In the expression: factorial - 1
       In an equation for ‘it’: it = factorial - 1
 ```
+
 ***
 
 10/28/2024
 * Used pen and paper to work out the *internal logic* steps listed above from 10/26. Very interesting. In contrast, this is the implementation in JavaScript...
-* 
+*
