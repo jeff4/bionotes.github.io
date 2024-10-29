@@ -504,6 +504,8 @@ FINAL OUTPUT: 6
     • In the expression: factorial - 1
       In an equation for ‘it’: it = factorial - 1
 ```
-* Nexton 10/28
+***
 
+10/28/2024
+* Used pen and paper to work out the *internal logic* steps listed above from 10/26. Very interesting. In contrast, this is the implementation in JavaScript...
 
