@@ -706,6 +706,7 @@ f4_longest' number maxlength n =
 ### General thoughts
 * Indentation definitely matters, like in Python.
 * Best to use spaces.
+* If one can't get indentation to work at first, try putting everything onton one long line
 
 ***
 
@@ -738,7 +739,6 @@ l = a + b
 
 ***
 
-
 ### Example 3: bad
 ```haskell
 -- indentation not increased even though
@@ -746,5 +746,51 @@ l = a + b
 i x = let y = x+x+x+x+x+x
 in div y 5
 ```
+
+***
+
+### Example 4: bad
+```haskell
+-- indentation not increased even though
+-- expression is split
+j x = let y = x+x+x
+      +x+x+x
+      in div y 5
+```
+
+***
+
+### Example 5: bad
+```haskell
+-- grouped things are not aligned
+k = a + b
+  where a = 1
+    b = 1
+```
+
+***
+
+### Example 6: bad
+```haskell
+-- grouped things are not aligned
+l = a + b
+  where
+    a = 1
+      b = 1
+
+```
+
+***
+
+### Example 7: bad
+```haskell
+-- where is part of the equation, so indentation needs to increase
+l = a + b
+where
+  a = 1
+  b = 1
+
+```
+***
 
 
