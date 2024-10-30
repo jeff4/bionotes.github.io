@@ -676,21 +676,21 @@ f2_collatz x = 1 + f2_collatz (f1_step x)
 -- Function f3_longest() finds the number with the longest Collatz sequence for
 -- initial values between 0 and upperBound
 f3_longest :: Integer -> Integer
-f3_longest upperBound = longest' 0 0 upperBound
+f3_longest upperBound = f4_longest' 0 0 upperBound
 
 
 -- Helper function for Function longest()
-longest' :: Integer -> Integer -> Integer -> Integer 
+f4_longest' :: Integer -> Integer -> Integer -> Integer 
 
 -- end of recursion, return longest length found
-longest' number _ 0 = number
+f4_longest' number _ 0 = number
 
 -- recursion step: check if n has a longer Collatz sequence than the 
 -- current known longest
-longest' number maxlength n = 
+f4_longest' number maxlength n = 
   if len > maxlength
-  then longest' n len ( n-1 )
-  else longest' number maxlength (n-1)
+  then f4_longest' n len ( n-1 )
+  else f4_longest' number maxlength (n-1)
   where len = f2_collatz n
 
 ```
