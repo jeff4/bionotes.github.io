@@ -649,6 +649,7 @@ console.log("Fibonacci(8): " + fibonacci(8));
 		* The largest stopping time for numbers below **1000** is *871* which requires 178 steps.
 		* The largest stopping time for numbers below **10,00** is *6171* which requires 261 steps.
 * Here is the program itself, using JH notation
+
 ```haskell
 
 module Collatz_b where
@@ -693,8 +694,6 @@ longest' number maxlength n =
   where len = f2_collatz n
 
 ```
-
-
 
 ***
 
