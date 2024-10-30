@@ -697,6 +697,54 @@ f4_longest' number maxlength n =
 
 ***
 
-## 10/30
+## 10/30/2024
 ## 1.11 Indentation
+### Two main rules
+1. Things that are grouped together start at the same column (depth in tabs/spaces).
+1. if an expression or equation needs to be split into multiple lines, increase the indentation.
+
+### General thoughts
+* Indentation definitely matters, like in Python.
+* Best to use spaces.
+
+***
+
+### Example 1
+```haskell
+-- this is ok
+i x = let y = x+x+x+x in div y 5
+
+-- but this is better
+j x = let y =  x+x
+               x+x
+      in div y 5
+```
+
+***
+
+### Example 2
+```haskell
+-- this is ok
+k = a + b
+  where a = 1
+        b = 1
+
+-- but this is better
+l = a + b
+  where
+    a = 1
+    b = 1
+```
+
+***
+
+
+### Example 3: bad
+```haskell
+-- indentation not increased even though
+-- expression split on many lines
+i x = let y = x+x+x+x+x+x
+in div y 5
+```
+
 
