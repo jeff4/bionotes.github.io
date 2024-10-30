@@ -644,10 +644,10 @@ console.log("Fibonacci(8): " + fibonacci(8));
 	1. **f2_collatz:** Given a positive integer as input, this function will output the number of steps needed to turn that postive integer into 1 using the Collatz sequence. e.g., **f2_collatz 20** outputs **`10`** which means there are 10 numbers from 20...1. Specifically, 20, 10, **5**, 16, 8, 4, 2, 1. (Odd members of the sequence are listed in **bold**. In this case, only **5** is bold; every other member leads to x/2 in the next step.) If we count that how many numbers are in that sequence (including 20 at the beginning and 1 and the end), we get **10**.
 		* Similarly, **f2_collatz 97** outputs **`118`** because it takes 118 steps to get from 97 to 1. 
 	1. **f3_longest:** Given a positive integer as an input, this function returns the positive integer below that input that produces the longest Colltaz sequence, aka the *largest stopping time*, per [this section of the Wikipdia article](https://en.wikipedia.org/wiki/Collatz_conjecture#Empirical_data).
-		* The largest stopping time for numbers below **10** is *9* which requires 19 steps.
-		* The largest stopping time for numbers below **100** is *97* which requires 118 steps.
-		* The largest stopping time for numbers below **1000** is *871* which requires 178 steps.
-		* The largest stopping time for numbers below **10,00** is *6171* which requires 261 steps.
+		* The largest stopping time for numbers below **10** is *9* which requires **19 steps**.
+		* The largest stopping time for numbers below **100** is *97* which requires **118 steps**.
+		* The largest stopping time for numbers below **1000** is *871* which requires **178 steps**.
+		* The largest stopping time for numbers below **10,00** is *6171* which requires **261 steps**.
 * Here is the program itself, using JH notation
 
 ```haskell
