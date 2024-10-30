@@ -636,7 +636,9 @@ console.log("Fibonacci(8): " + fibonacci(8));
 ## 1.10 All Together Now!
 * Finally, here is a complete Haskell Module that uses **if**s, **pattern matching**, **local definitions**, and **recursion**.
 * This module concerns the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
-* Played around with using **f_** as a prefix denoting functions. Initial digits and initial underscore don't work.
+	* From 2017, [Numberphile video](https://youtu.be/5mFpVDpKX70?si=1mX4OHXAAtwb6BRJ). About 10 minutes long.
+	* 2021 YouTube video (22:00 long) by [Veritasium](https://youtu.be/094y1Z2wpJg?si=5reUvOalF71cBhY4)
+* Played around with using **f_** as a prefix denoting functions. Initial digits and initial underscore don't work. Also, initial capitalization like **F_function** doesn't seem to work.
 
 ***
 
