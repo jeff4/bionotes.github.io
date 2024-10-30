@@ -650,9 +650,49 @@ console.log("Fibonacci(8): " + fibonacci(8));
 		* The largest stopping time for numbers below **10,00** is *6171* which requires 261 steps.
 * Here is the program itself, using JH notation
 ```haskell
+
+module Collatz_b where
+
+-- Original program found at https://haskell.mooc.fi/part1#all-together-now
+-- Modified to clarify Functions F- and Variables V-
+
+-- Function f1_step() accepts any positive integer as input. And then outputs the next step
+-- in the Collatz sequence. e.g., next step of 10 --> 5. Next step of 5 --> 16. Next step 
+-- of 16 --> 8, which leads to the usual 4 -> 2 -> 1 -> 4 loop. 
+f1_step :: Integer -> Integer
+f1_step x = if even x then down else up
+  where 
+    down = div x 2
+    up = 3*x + 1
+
+-- Function 'f2_collatz(x)' computes how many steps it takes for the Collatz sequence
+-- to reach 1 when starting from x
+f2_collatz :: Integer -> Integer
+f2_collatz 1 = 0
+f2_collatz x = 1 + f2_collatz (f1_step x)
+
+
+-- Function f3_longest() finds the number with the longest Collatz sequence for
+-- initial values between 0 and upperBound
+f3_longest :: Integer -> Integer
+f3_longest upperBound = longest' 0 0 upperBound
+
+
+-- Helper function for Function longest()
+longest' :: Integer -> Integer -> Integer -> Integer 
+
+-- end of recursion, return longest length found
+longest' number _ 0 = number
+
+-- recursion step: check if n has a longer Collatz sequence than the 
+-- current known longest
+longest' number maxlength n = 
+  if len > maxlength
+  then longest' n len ( n-1 )
+  else longest' number maxlength (n-1)
+  where len = f2_collatz n
+
 ```
-
-
 
 
 
