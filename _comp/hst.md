@@ -655,7 +655,7 @@ console.log("Fibonacci(8): " + fibonacci(8));
 module Collatz_b where
 
 -- Original program found at https://haskell.mooc.fi/part1#all-together-now
--- Modified to clarify Functions F- and Variables V-
+-- Modified to clarify functions with a f1_prefix
 
 -- Function f1_step() accepts any positive integer as input. And then outputs the next step
 -- in the Collatz sequence. e.g., next step of 10 --> 5. Next step of 5 --> 16. Next step 
