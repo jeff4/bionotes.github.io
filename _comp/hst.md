@@ -835,9 +835,9 @@ def repeatString( n, str ):
 ```haskell
 repeatString n str = repeatHelper n str ""
 
-repeatString n str = result = if ( n==0 )
+repeatHelper n str result = if ( n==0 )
                               then result
-                              else repeat Helper (n-1) str (result ++ str )
+                              else repeatHelper (n-1) str ( result ++ str )
 ```
 
 #### 2.1.1d More notes
