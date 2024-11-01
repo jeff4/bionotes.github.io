@@ -807,7 +807,13 @@ where
 
 ```Java
 public String repeat String( int n, String str) {
-  String reusult = "";
+  String result = "";
+  while (n>0) {
+    result = result + str;
+    n = n-1;
+  }
+  return result;
+}
 
 ```
 
@@ -819,13 +825,20 @@ public String repeat String( int n, String str) {
 def repeatString( n, str ):
   result = ""
   while n > 0:
-    result = result+star
+    result = result + star
     n = n-1
   return result
 ```
 
-
 #### 2.1.1c Haskell version 1
+
+```haskell
+repeatString n str = repeatHelper n str ""
+
+repeatString n str = result = if ( n==0 )
+                              then result
+                              else repeat Helper (n-1) str (result ++ str )
+```
 
 #### 2.1.1d More notes
 * You might have noticed that the above implementations in Java and Python look a bit weird because they use `do-while` loops instead of `for` loops.
