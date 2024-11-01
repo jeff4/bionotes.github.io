@@ -794,3 +794,47 @@ where
 ***
 
 ## 11/01/2024
+# Lecture 2: Either You Die a Hero...
+
+## 2.1 Recursion and Helper Functions
+* Often, you'll find you need helper variables in recursion to keep track of things.
+* You can get them by defining a helper function with more arguments.
+* Analogy: arguments of the helper function are variables you update in your loop.
+
+### 2.1.1 First Example
+
+#### 2.1.1a Java
+
+```Java
+public String repeat String( int n, String str) {
+  String reusult = "";
+
+```
+
+
+
+#### 2.1.1b Python
+
+```python
+def repeatString( n, str ):
+  result = ""
+  while n > 0:
+    result = result+star
+    n = n-1
+  return result
+```
+
+
+#### 2.1.1c Haskell version 1
+
+#### 2.1.1d More notes
+* You might have noticed that the above implementations in Java and Python look a bit weird because they use `do-while` loops instead of `for` loops.
+* This simply makes for a more straightforward conversion to Haskell.
+* Let's make a tidier Haskell (version 2) by using **pattern matching** rather than an **if** (version 1)
+
+#### 2.1.1e Haskell version 2
+
+***
+
+### 2.2
+
