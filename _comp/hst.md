@@ -830,6 +830,9 @@ def repeatString( n, str ):
   return result
 ```
 
+* Validated that it works. To execute, copy and paste above into `repeat.py` file. Then invoke interactive python environment with this script loaded with **`python -i repeat.py`**.
+* To execute, type something like **`repeatString(3, "Hello! ")`** which outputs `'Hello! Hello! Hello! '`.
+
 #### 2.1.1c Haskell version 1
 
 ```haskell
