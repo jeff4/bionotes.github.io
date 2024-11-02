@@ -848,7 +848,44 @@ repeatHelper n str result = if ( n==0 )
 
 #### 2.1.1e Haskell version 2
 
+```haskell
+repeatString n str = repeatHelper n str ""
+
+repeatHelper 0 _   result = result
+repeatHelper n str result = repeatHelper ( n-1 ) str ( result ++ str )
+```
+
 ***
 
-### 2.2
+### 2.1.2 Second Example: Fibonacci Numbers
+
+#### 2.1.2a Java implementation
+
+```Java
+
+
+```
+
+
+#### 2.1.2b Python implementation
+
+```Python
+
+```
+
+#### 2.1.2c Haskell implementation
+* Fast version of Fibonacci numbers
+```Haskell
+fib :: Integer -> Integer
+fib n = fib' 0 1 n
+
+fib' :: Integer -> Integer -> Integer -> Integer
+fib' a b 1 = b
+fib' a b n = fib' b (a+b) (n-1)
+```
+
+***
+
+## 2.2 Guards
+
 
