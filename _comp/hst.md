@@ -825,7 +825,7 @@ public String repeat String( int n, String str) {
 def repeatString( n, str ):
   result = ""
   while n > 0:
-    result = result + star
+    result = result + str
     n = n-1
   return result
 ```
