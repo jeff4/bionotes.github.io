@@ -890,6 +890,8 @@ def fibonacci(n):
     n = n-1
   return b
 ```
+* Validated that it works. To execute, copy and paste above into `fib.py` file. Then invoke interactive python environment with this script loaded with **`python -i fib.py`**.
+* Within the python environment, enter sample commands like **`fibonacci(n)`** where **n** is an integer input. Will return the corresponding Fib number, e.g., for `n = 1, 2, 3, 4, 5, 6`, the output will respectively be **1, 1, 2, 3, 5, 8**.
 
 ***
 
