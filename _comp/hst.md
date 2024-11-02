@@ -910,8 +910,10 @@ fib' a b 1 = b
 fib' a b n = fib' b (a+b) (n-1)
 ```
 
+* next, pen and paper to walk through algorithm
 ***
 
+## 11/02
 ## 2.2 Guards
 
 
