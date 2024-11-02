@@ -900,6 +900,7 @@ def fibonacci(n):
 
 #### 2.1.2c Haskell implementation
 * Fast version of Fibonacci numbers
+
 ```Haskell
 fib :: Integer -> Integer
 fib n = fib' 0 1 n
