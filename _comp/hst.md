@@ -862,16 +862,36 @@ repeatHelper n str result = repeatHelper ( n-1 ) str ( result ++ str )
 #### 2.1.2a Java implementation
 
 ```Java
-
-
+public int fibonacci( int n ) {
+  int a = 0;
+  int b = 1;
+  while ( n>1 ) {
+    int c = a+b
+    a = b;
+    b = c;
+    n--;
+  }
+  return b;
+}
 ```
 
+***
 
 #### 2.1.2b Python implementation
 
 ```Python
-
+def fibonacci(n):
+  a = 0
+  b = 1
+  while n>1:
+    c = a+b
+    a = b
+    b = c
+    n = n-1
+  return b
 ```
+
+***
 
 #### 2.1.2c Haskell implementation
 * Fast version of Fibonacci numbers
