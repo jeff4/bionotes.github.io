@@ -841,6 +841,7 @@ repeatHelper n str result = if ( n==0 )
 ```
 
 #### 2.1.1d More notes
+* Verified that the above works. Example usage: **`ghci> repeatString 5 "Abc"`** generates output `"AbcAbcAbcAbcAbc"`.
 * You might have noticed that the above implementations in Java and Python look a bit weird because they use `do-while` loops instead of `for` loops.
 * This simply makes for a more straightforward conversion to Haskell.
 * Let's make a tidier Haskell (version 2) by using **pattern matching** rather than an **if** (version 1)
