@@ -7,7 +7,9 @@ sitemap: false
 
 ***
 ## General Haskell Notes
-* 11/03/2024 [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner](https://github.com/Gandalf-).
+* 11/03/2024 [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner Austin](https://github.com/Gandalf-).
+	* Austin has some [posts](https://www.anardil.net/tag/coreutils.html) on his blog discussing his work.
+	* Austin is [answering questions](https://news.ycombinator.com/item?id=42032718) in the HN thread.
 
 ***
 
