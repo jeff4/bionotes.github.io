@@ -4,6 +4,11 @@ permalink: /hst/
 sitemap: false
 ---
 
+
+***
+## General Haskell Notes
+* 11/03/2024 [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner](https://github.com/Gandalf-).
+
 ***
 
 ## 9/20/2024
@@ -910,10 +915,8 @@ fib' a b 1 = b
 fib' a b n = fib' b (a+b) (n-1)
 ```
 
-* next, pen and paper to walk through algorithm
 ***
 
-## 11/02
 ## 2.2 Guards
 
 
