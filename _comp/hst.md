@@ -585,7 +585,10 @@ ghci> squareSum 5
 
 ***
 
-#### 1.9.5d Fibonacci Sequence 1.0: Slow version
+#### 1.9.5d Fibonacci Sequence (Slow Version)
+* Compare to **2.1.2c Fibonacci Sequence (Fast Version)** below.
+* **`fib`** is a recursively called function in the below.
+
 ```haskell
 fibonacci 1 = 1
 fibonacci 2 = 1
@@ -905,8 +908,11 @@ def fibonacci(n):
 
 ***
 
-#### 2.1.2c Haskell implementation
+#### 2.1.2c Fibonacci Sequence (Fast Version)
 * Fast version of Fibonacci numbers
+* Compare to **1.9.5d Fibonacci (Slow Version)** above.
+* Primary function: **`fib`**
+* Helper function: **`fib'`**
 
 ```Haskell
 fib :: Integer -> Integer
