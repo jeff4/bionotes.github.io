@@ -923,9 +923,19 @@ fib' a b 1 = b
 fib' a b n = fib' b (a+b) (n-1)
 ```
 
+```Haskell
+f1_fib :: Integer -> Integer
+f1_fib n = f2_helper 0 1 n
+
+f2_helper :: Integer -> Integer -> Integer -> Integer
+f2_helper a b 1 = b
+f2_helper a b n = f2_helper b (a+b) (n-1)
+```
+
+
 ***
 
-## 11/09/2024
+## 11/04/2024
 ## 2.2 Guards
 
 
