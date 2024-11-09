@@ -911,17 +911,8 @@ def fibonacci(n):
 #### 2.1.2c Fibonacci Sequence (Fast Version)
 * Fast version of Fibonacci numbers
 * Compare to **1.9.5d Fibonacci (Slow Version)** above.
-* Primary function: **`fib`**
-* Helper function: **`fib'`**
-
-```Haskell
-fib :: Integer -> Integer
-fib n = fib' 0 1 n
-
-fib' :: Integer -> Integer -> Integer -> Integer
-fib' a b 1 = b
-fib' a b n = fib' b (a+b) (n-1)
-```
+* Primary function: **`f1_fib`**
+* Helper function: **`f2_helper'`**
 
 ```Haskell
 f1_fib :: Integer -> Integer
