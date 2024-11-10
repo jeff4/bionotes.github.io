@@ -912,7 +912,7 @@ def fibonacci(n):
 * Fast version of Fibonacci numbers
 * Compare to **1.9.5d Fibonacci (Slow Version)** above.
 * Primary function: **`f1_fib`**
-* Helper function: **`f2_helper'`**
+* Helper function: **`f2_helper`**
 
 ```Haskell
 f1_fib :: Integer -> Integer
