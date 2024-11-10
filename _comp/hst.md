@@ -662,45 +662,44 @@ console.log("Fibonacci(8): " + fibonacci(8));
 
 ```haskell
 
-module Collatz_b where
+module Collatz_d where
 
 -- Original program found at https://haskell.mooc.fi/part1#all-together-now
--- Modified to clarify functions with a f1_prefix
+-- Modified to clarify functions with f1_ prefix
+-- and clarify variables with a v1_ prefix
 
--- Function f1_step() accepts any positive integer as input. And then outputs the next step
--- in the Collatz sequence. e.g., next step of 10 --> 5. Next step of 5 --> 16. Next step 
--- of 16 --> 8, which leads to the usual 4 -> 2 -> 1 -> 4 loop. 
+-- Function 'f1_step()' generates the next step in the Collatz sequence
 f1_step :: Integer -> Integer
-f1_step x = if even x then down else up
+f1_step x = if even x then v_down else v_up
   where 
-    down = div x 2
-    up = 3*x + 1
+    v_down = div x 2
+    v_up = 3*x + 1
 
--- Function 'f2_collatz(x)' computes how many steps it takes for the Collatz sequence
+-- Function 'collatz(x)' computes how many steps it takes for the Collatz sequence
 -- to reach 1 when starting from x
 f2_collatz :: Integer -> Integer
 f2_collatz 1 = 0
 f2_collatz x = 1 + f2_collatz (f1_step x)
 
 
--- Function f3_longest() finds the number with the longest Collatz sequence for
+-- Function longest() finds the number with the longest Collatz sequence for
 -- initial values between 0 and upperBound
 f3_longest :: Integer -> Integer
-f3_longest upperBound = f4_longest' 0 0 upperBound
+f3_longest upperBound = f4_longest_helper 0 0 upperBound
 
 
--- Helper function for Function longest()
-f4_longest' :: Integer -> Integer -> Integer -> Integer 
+-- helper function for Function longest()
+f4_longest_helper :: Integer -> Integer -> Integer -> Integer 
 
 -- end of recursion, return longest length found
-f4_longest' number _ 0 = number
+f4_longest_helper number _ 0 = number
 
 -- recursion step: check if n has a longer Collatz sequence than the 
 -- current known longest
-f4_longest' number maxlength n = 
+f4_longest_helper number maxlength n = 
   if len > maxlength
-  then f4_longest' n len ( n-1 )
-  else f4_longest' number maxlength (n-1)
+  then f4_longest_helper n len ( n-1 )
+  else f4_longest_helper number maxlength (n-1)
   where len = f2_collatz n
 
 ```
