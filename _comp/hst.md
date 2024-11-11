@@ -927,5 +927,16 @@ f2_helper a b n = f2_helper b (a+b) (n-1)
 
 ## 11/10/2024
 ## 2.2 Guards
+* One more piece of syntax
+* Instead of the usual **`if...then...else`** syntax, esp. if there are multiple cases, we can use the **conditional definition** aka **guarded definition** structure.
+* This is somewhat like pattern matching in that there are multiple equations.
+* *But*, one can have arbitrary code which decides which equation to use. Exmple:
+```haskell
+f x y z
+  | condition1 = result1
+  | condition2 = result2
+  | otherwise = miscellaneous_result
+```
+* Note that: *otherwise* is a haskell keyword.
 
 
