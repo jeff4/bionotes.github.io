@@ -80,7 +80,7 @@ square n = n*n
 ```
 * p. 12. Note that in Haskell, we call a parameter (aka the box that contains the value of a desired input variable) a **"formal parameter"**.
 	* in contrast, what in JS we would call the **argument**, aka the *value* that is being passed into a particular parameter location, is called in Haskell the **"actual parameter"**.
-* Here is an exxample of me running `square.hs`
+* Here is an example of me running `square.hs`
 
 ```
 [01:44:43 ~/Dropbox/proj-1]:ghci
