@@ -925,7 +925,7 @@ f2_helper a b n = f2_helper b (a+b) (n-1)
 
 ***
 
-## 11/10/2024
+## 11/11/2024
 ## 2.2 Guards
 * One more piece of syntax
 * Instead of the usual **`if...then...else`** syntax, esp. if there are multiple cases, we can use the **conditional definition** aka **guarded definition** structure.
