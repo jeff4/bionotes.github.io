@@ -925,7 +925,7 @@ f2_helper a b n = f2_helper b (a+b) (n-1)
 
 ***
 
-## 11/14/2024
+## 11/15/2024
 ## 2.2 Guards
 * One more piece of syntax
 * Instead of the usual **`if...then...else`** syntax, esp. if there are multiple cases, we can use the **conditional definition** aka **guarded definition** structure.
@@ -939,4 +939,7 @@ f x y z
 ```
 * Note that: *otherwise* is a haskell keyword.
 
-
+### 2.2.1 Examples
+* Here are some examples using guards.
+* First off, we have a function that describes the given number.
+	* Note how important it is ot have the **`Two`** case before the **`Even`** case.
