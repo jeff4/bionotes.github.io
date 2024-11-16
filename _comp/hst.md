@@ -951,7 +951,7 @@ describe n
   | even n      = "Even"
   | n==3        = "Three"
   | n>100       = "Big!!"
-  | otherwise   = "The number "++show n
+  | otherwise   = "The number "++show n++" is odd and below 100."
 ```
 * Here is a factorial, implemented with guards instead of pattern matching.
 * Unlike the above pattern-matching version, this one does not loop forever when given negative inputs.
