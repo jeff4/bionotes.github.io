@@ -943,3 +943,35 @@ f x y z
 * Here are some examples using guards.
 * First off, we have a function that describes the given number.
 	* Note how important it is ot have the **`Two`** case before the **`Even`** case.
+
+```haskell
+describe :: Int -> String
+describe n
+  | n==2        = "Two"
+  | even n      = "Even"
+  | n==3        = "Three"
+  | n>100       = "Big!!"
+  | otherwise   = "The number "++show n
+```
+* Here is a factorial, implemented with guards instead of pattern matching.
+* Unlike the above pattern-matching version, this one does not loop forever when given negative inputs.
+```haskell
+factorial n
+  | n<0         = -1
+  | n==0        = 1
+  | otherwise   = n * factorial (n-1)
+```
+* You can even combine guards with pattern matching.
+* Here's an implementation of a simple age guessing game:
+```haskell
+guessAge :: String -> Int -> String
+guessAge "Griselda" age
+    | age < 47 = "Too low!"
+    | age > 47 = "Too high!"
+    | otherwise = "Correct!"
+guessAge "Hansel" age
+    | age < 12 = "Too low!"
+    | age > 12 = "Too high!"
+    | otherwise = "Correct!"
+guessAge name age = "Wrong name!" 
+```haskell
