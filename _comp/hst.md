@@ -973,5 +973,5 @@ guessAge "Hansel" age
     | age < 12 = "Too low!"
     | age > 12 = "Too high!"
     | otherwise = "Correct!"
-guessAge name age = "Wrong name!" 
+guessAge name age = "Sorry, please guess another name and age." 
 ```
