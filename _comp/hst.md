@@ -974,4 +974,4 @@ guessAge "Hansel" age
     | age > 12 = "Too high!"
     | otherwise = "Correct!"
 guessAge name age = "Wrong name!" 
-```haskell
+```
