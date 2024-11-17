@@ -939,6 +939,7 @@ f x y z
 ```
 * Note that: *otherwise* is a haskell keyword.
 
+## 11/16/2024
 ### 2.2.1 Examples
 * Here are some examples using guards.
 * First off, we have a function that describes the given number.
