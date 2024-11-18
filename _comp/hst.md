@@ -1089,6 +1089,7 @@ tail [True, False] :: [Bool]
 * If types don't match, we get a type error.
 * Consider the operator **`++`**, which requires 2 list of the same type, as we can see from its type `[a] -> [a] -> [a]`.
 * If we try to apply `++` to: (1) a list of booleans, plus (2) a list of chracters; we will get an error. See console output here:
+
 ```
 ghci> "What, " ++ "moi?"
 "What, moi?"
