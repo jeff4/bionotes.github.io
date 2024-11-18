@@ -1107,5 +1107,14 @@ ghci> [True, False] ++ "moi?"
 ghci>
 ``` 
 
+* Type inference is really powerful. It uses the simple process of **unification** to get us types for practically any Haskell expression.
+* Consider the following two functions:
+
+```haskell
+f xs ys = [head xs, head ys]
+g zs = f "Moi" zs
+```
+* We can ask GHCi for their types and see that tyupe inference has figured out that the two arguments to **`f`** must have the same type, because...
+
 
 
