@@ -1072,4 +1072,39 @@ ghci> list
 
 ### 2.5.0a Examples of Type Inference
 * Let's look at some examples.
+* If we apply `head` to a list of booleans, type inference will compare the type of head's input argument `[a]`, with the type of the actual argument `[Bool]` and deduce that the `a` must be a `Bool`.
+* This means that the return type of `head` will in this case also be a `Bool`.
+
+```haskell
+head :: [a] -> a
+head [True, False] :: Bool
+```
+* The function `tail` takes a list, and returns a list of the same type.
+* If we apply `tail` to a list of booleans, the return value will also be a **list** of booleans.
+
+```haskell
+tail :: [a] -> [a]
+tail [True, False] :: [Bool]
+```
+* If types don't match, we get a type error.
+* Consider the operator **`++`**, which requires 2 list of the same type, as we can see from its type `[a] -> [a] -> [a]`.
+* If we try to apply `++` to: (1) a list of booleans, plus (2) a list of chracters; we will get an error. See console output here:
+```
+ghci> "What, " ++ "moi?"
+"What, moi?"
+ghci> [True, False] ++ [True, False]
+[True,False,True,False]
+ghci> [True, False] ++ "moi?"
+
+<interactive>:3:18: error:
+    • Couldn't match type ‘Char’ with ‘Bool’
+      Expected: [Bool]
+        Actual: String
+    • In the second argument of ‘(++)’, namely ‘"moi?"’
+      In the expression: [True, False] ++ "moi?"
+      In an equation for ‘it’: it = [True, False] ++ "moi?"
+ghci>
+``` 
+
+
 
