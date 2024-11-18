@@ -1003,3 +1003,4 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 
 ## tab clean up
 * [HN thread](https://news.ycombinator.com/item?id=41717543) about [What is P vs. NP about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
+* [2024 HN thread](https://news.ycombinator.com/item?id=41684082) about this 2022 post about how [too much efficiency makes things worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) 
