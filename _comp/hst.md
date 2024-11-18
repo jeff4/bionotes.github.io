@@ -925,7 +925,7 @@ f2_helper a b n = f2_helper b (a+b) (n-1)
 
 ***
 
-## 11/15/2024
+## 11/14/2024
 ## 2.2 Guards
 * One more piece of syntax
 * Instead of the usual **`if...then...else`** syntax, esp. if there are multiple cases, we can use the **conditional definition** aka **guarded definition** structure.
@@ -939,7 +939,6 @@ f x y z
 ```
 * Note that: *otherwise* is a haskell keyword.
 
-## 11/16/2024
 ### 2.2.1 Examples
 * Here are some examples using guards.
 * First off, we have a function that describes the given number.
@@ -976,3 +975,101 @@ guessAge "Hansel" age
     | otherwise = "Correct!"
 guessAge name age = "Sorry, please guess another name and age." 
 ```
+
+***
+
+## 11/15/2024
+## 2.3 List
+
+* So far, we've only worked with singleton values like numbers and booleans. 
+* Minor exception of strings which contain multiple characters.
+* However, we need to handle *data structures*.
+* The basic Haskell data structure is the **list**.
+* Lists are used to store multiple values of the same type; aka they are **homogenous**.
+* Example of a list literal: `[0,3,4,1+1]`.
+* A list *type* is written as `[Element]`, where *Element* is the type of the list elements. 
+* Haskell lists are implemented as singly-linked lists. More on this topic later.
+* More examples:
+```haskell
+[True,True,False] :: [Bool]
+["Oui", "moi"] :: [String]
+[] :: [a]       -- more about this later
+[[1,2],[3,4]] :: [[Int]]    -- a list of lists
+[1..5] :: [Int]             -- uses range syntax
+                            -- value is [1,2,3,4,5]
+```
+
+### 2.3.1 List Operations
+* The Haskell Standard Library comes with lots of functions that operate on lists.
+* Here are some of the most important ones together with their types. (For now, imagine **a** represents *any list*.)
+```haskell
+head :: [a] -> a        -- returns the first element
+last :: [a] -> a        -- returns the last element
+tail :: [a] -> [a]      -- returns everything except the first element
+init :: [a] -> [a]      -- returns everything except the last element
+take :: Int -> [a] -> [a]   -- returns the n first elements
+drop :: Int -> [a] -> [a]   -- returns everything except the n first elements
+(++) :: [a] -> [a] -> [a]   -- lists are concatenated with the ++ operator
+(!!) :: [a] -> Int -> [a]   -- lists are indexed with the !! operator
+reverse :: [a] -> [a]       -- reverse a list
+null :: [a] -> Bool         -- is this list empty?
+length :: [a] -> Int        -- the length of a list
+```
+* Note: the last two operations (**`null`** and **`length`**) actually jave more generic types, but for now we are pretending that we can only use them on lists.
+* Lists can be compared with the **`==`** operator.
+* **String** is just an alisa for **`[Char]`** which means string is a list of characters. This means you can use all list operators on strings!
+```
+ghci> :t "testString"
+output... "testString" :: [Char]
+```
+* Some list operations come from the module **`Data.List`**. You can import a module in code or in GHCi with the **import Data.List** syntax. Example
+```
+ghci> import Data.List
+ghci Data.List> sort[1,0,5,3]
+output... [0,1,3,5]
+```
+
+### 2.3.2 Examples
+* Here are some examples of working with lists. In this case, instead of showing you output from GHCi, we just use the **`==>`** to illustrate what the expression evaluates to.
+
+#### 2.3.2.1 Indexing a List
+
+#### 2.3.2.2 Define a function that discards the 3rd and 4th elements using 'take' and 'drop'
+
+#### 2.3.2.3 Rotating a list by taking the first element and moving it to the end
+
+#### 2.3.2.4 Reversing a list with 'range' syntax
+
+## 2.4 A Word About Immutability
+* Because Haskell is pure, it means that a function cannot change (aka *change*) their inputs.
+* Mutation is a side effect; Haskell functions are only allowed output via their return value.
+* This means that Haskell list functions always return a new list.
+* Consider this...
+
+```
+GHCi, version 9.4.8: https://www.haskell.org/ghc/  :? for help
+ghci> list = [1,2,3,4]
+ghci> reverse list
+[4,3,2,1]
+ghci> list
+[1,2,3,4]
+ghci> drop 2 list
+[3,4]
+ghci> list
+[1,2,3,4]
+```
+* The above immutabiity of lists (and variables) in Haskell amy seem inefficient. But it turns out to be both performant and useful. More on this later.
+
+***
+## 11/17/2024
+## 2.5 A Word About Type Inference and Polymorphism
+* So what does a type like `head :: [a] -> a` mean?
+* It means that given a list that contains elements of any type **a**, the return value will be of the same type **a**.
+* In this type, *a* is called a *type variable*.
+* Type variables are types that start with a lowercase letter like `a`, `b`, `newTypeVariable`. 
+* A type variable means **a type that is not yet known**; aka *a type that could be **anything***.
+* Through the process of *type inference* (aka *unification*), *type variables* can be transformed into **concrete types** (where *Int*, *Bool*, etc. are concrete types).
+
+### 2.5.0a Examples of Type Inference
+* Let's look at some examples.
+
