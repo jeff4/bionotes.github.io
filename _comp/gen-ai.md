@@ -343,3 +343,6 @@ G
 
 ## 08 April 2024
 * Paper last week on how undifferentiated / unstructured large volume of AI Agents are all you need. Title: 'More Agents Is All You Need' -- [arXiv link](https://arxiv.org/abs/2402.05120) and [HN thread](https://news.ycombinator.com/item?id=39955725)
+
+## 18 November 2024
+* LoRA versus Full Fine Tuning: An Illusion of Equivalence. [arXiv](https://arxiv.org/abs/2410.21228) and [HN thread](https://news.ycombinator.com/item?id=42085665)
