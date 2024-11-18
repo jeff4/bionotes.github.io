@@ -1000,3 +1000,6 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 * During Dinner with Melih in Brooklyn (Buffalo Wild Wings nr the Barclay's Center) earlier this week (Monday 7 Oct), I was reminded of this [presentation by Maggie Appleton](https://maggieappleton.com/home-cooked-software) about Home-Cooked Software and Barefoot Programmers.
     * First saw this on [HN news](https://news.ycombinator.com/item?id=40633029) back in June, 2024 but i guess I never linked it. 
     * Saving here to make it easier to find local first software content.
+
+## tab clean up
+* [HN thread](https://news.ycombinator.com/item?id=41717543) about [What is P vs. NP about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
