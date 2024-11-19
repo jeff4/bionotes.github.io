@@ -1252,3 +1252,52 @@ flyTo countryCode = case parseCountry countryCode of Just country -> "You're fly
                                                      Nothing -> "Sorry, you're not flying anywhere"
 ```
 * console output
+
+```
+ghci> flyTo "FI"
+"You're flying to Finland"
+ghci> flyTo "DE"
+"Sorry, you're not flying anywhere"
+ghci>
+```
+
+* One could write the **flyTo** function using a helper function for pattern matching instead of using the case-of expression.
+
+```haskell
+flyTo :: String -> String
+flyTo countryCode = handleResult (parseCountry countryCode)
+  where handleResult (Just country) = "You're flying to " ++ country
+        handleResult Nothing        = "Sorry, you're not flying anywhere."
+```
+
+* In fact, a case-of expression can always be replaced by a helper function. Variant #1. Given a sentence, decide whether it is a statement, question, or exclamation
+
+```haskell
+sentenceType :: String -> String
+sentenceType sentence = case last sentence of '.' -> "statement"
+                                              '?' -> "question"
+                                              '!' -> "exclamation"
+                                              _   -> "not a sentence"
+```
+
+* Variant #2 which is like Variant #1 before but uses a helper function instead of case-of syntax:
+
+```haskell
+sentenceType sentence = classify (last sentence)
+  where classify '.' = "statement"
+        classify '?' = "question"
+        classify '!' = "exclamation"
+        classify _   = "not a sentence"
+```
+
+* Sample console output for either version of the **sentenceType** function.
+
+### 2.9.1 When to Use Case Expressions
+* You might be asking "What is the point of having another pattern matching syntax?"
+* Let's discuss some pros and cons
+* First and most importantly, **case** expressions enable us to pattern match against *function outputs*. We might want to write an early morning motivational messages to get lazy Haskellers going:
+
+```haskell
+motivate :: String -> String
+
+```
