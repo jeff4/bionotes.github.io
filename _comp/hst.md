@@ -1247,7 +1247,7 @@ parseCountry "FI" = Just "Finland"
 parseCountry "SE" = Just "Sweden"
 parseCountry _ = Nothing
 
-flyTo :: String ->
+flyTo :: String -> String
 flyTo countryCode = case parseCountry countryCode of Just country -> "You're flying to " ++ country
                                                      Nothing -> "Sorry, you're not flying anywhere"
 ```
