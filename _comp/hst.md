@@ -1114,7 +1114,36 @@ ghci>
 f xs ys = [head xs, head ys]
 g zs = f "Moi" zs
 ```
-* We can ask GHCi for their types and see that tyupe inference has figured out that the two arguments to **`f`** must have the same type, because...
+* We can ask GHCi for their types and see that what Haskell understands about the types for functions **f** and **g**.
+* See console output from GHCi below:
+
+```
+ghci> :{
+ghci| f xs ys = [head xs, head ys]
+ghci| g zs = f "Moi" zs
+ghci| :}
+ghci> :tail f
+unknown command ':tail'
+use :? for help.
+ghci> :t f
+f :: [a] -> [a] -> [a]
+ghci> :t g
+g :: [Char] -> [Char]
+ghci>
+```
+* Through type inference, Haskell has figured out that the two arguments to **`f`** must have the same type, since their heads get put into the same list.
+* The function **g**, which fixed one of the arguments of **f** to a stringgets a *narrower* type.
+	* Type inference has decided that the argument **zs** for **g** must *also* have a type **`[Char]`** (i.e., a list of *Char*'s).
+	* Because otherwise, the type of **f** would *not* match the call to **f**.
+
+### 2.5.1 Sidenote: Some Terminology
+* In a type like **`[Char]`**, we call **Char** a *type parameter*.
+* A type like the list type that needs a type parameter is called a *parameterized type*.
+* The fact that a function like **head** can be used with  many different types of arguments is called *polymorphism*. 
+* The **head** function is said to be *polymorphic*.
+* Note: there are many forms of polymorphism, and this Haskell form--which uses **type variables**--is called **parametric polymorphism**.
+
+     
 
 
 
