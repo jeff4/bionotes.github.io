@@ -1177,4 +1177,15 @@ ghci>
 
 ## 2.8 The Either Type
 * Sometimes it would be nice if one could add an error message or something to **Nothing**.
+* This is why we have the **Either** type. The **Either** type takes two type arguments. The type **Either a b** has 2 consturctors: **`Left`** and **`Right`**.
+* Both take an argument; **`Left`** takes **a** and **`Right`** takes **b** 
+* See examples in table in [Section 2.8](https://haskell.mooc.fi/part1#the-either-type).
+* **Note: Haskell has a convention where `Left` is for errors and `Right` is for success**.
+* Example here where the **readInt** function only knows a few numbers; it returns a descriptive error for all other numbers.
 
+```haskell
+readInt :: String -> Either String Int
+readInt "0" = Right 0
+readInt "1" = Right 1
+readInt s = Left ("Unsupported string: " ++ s)
+```
