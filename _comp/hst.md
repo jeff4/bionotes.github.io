@@ -1292,6 +1292,10 @@ sentenceType sentence = classify (last sentence)
 
 * Sample console output for either version of the **sentenceType** function.
 
+***
+
+## 11/19/2024
+
 ### 2.9.1 When to Use Case Expressions
 * You might be asking "What is the point of having another pattern matching syntax?"
 * Let's discuss some pros and cons
