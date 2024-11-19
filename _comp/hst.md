@@ -1189,3 +1189,54 @@ readInt "0" = Right 0
 readInt "1" = Right 1
 readInt s = Left ("Unsupported string: " ++ s)
 ```
+
+* Note: the constructors of `Either` are called `Left` and `Right` because they refer to the left and right *type arguments* of `Either`.
+	* Notice how in **`Either a b`**, **a** is the left argument and **b** is the right argument.
+	* Thus, `Left` contains a value of type `a` and likewise `Right` of type `b`.
+* Another example:
+
+```haskell
+iWantAString :: Either Int String -> String
+iWantAString (Right str)        = str
+iWantAString (Left number)      = show number
+```
+
+* As you recall, Haskell lists can only contain elements of the same type. You can't have a list like: `[1, "foo", 2]`.
+* However, one can use `Either` to represent lists that can contain two different types of values.
+* Example, where we track the number of people in a lecture, with the possibility of adding an explanation if a value is missing:
+
+```haskell
+lectureParticipants :: [Either String Int]
+lectureParticipants = [Right 10, Right 13, Left "lecturer was sick", Right 3]
+```
+
+## 2.9 The case-of Expression
+* We've seen pattern matching in function arguments.
+* But there's also a way to pattern match in an expression. e.g.,
+
+```haskell
+case <value> of <pattern> -> <expression>
+             of <pattern> -> <expression>
+```
+
+* As an example, let's rewrite the **describe** example from lecture one using **case**.
+
+```haskell
+describe :: Integer -> String
+describe 0 = "zero" 
+describe 1 = "one" 
+describe 2 = "an even prime" 
+describe n = "the number " ++ show n 
+```
+
+* Can be reimplemented as:
+
+```haskell
+describe :: Integer -> String
+describe n = case n of 0 -> "zero"
+                       1 -> "one"
+                       2 -> "an even prime"
+                       n -> "the number " ++ show n
+```
+
+* A more interesting example is when the value we are pattern matching on is not a function argument. Example:
