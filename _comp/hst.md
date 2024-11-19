@@ -1143,7 +1143,38 @@ ghci>
 * The **head** function is said to be *polymorphic*.
 * Note: there are many forms of polymorphism, and this Haskell form--which uses **type variables**--is called **parametric polymorphism**.
 
-     
+### 2.5.2 Sidenote: Type Annotations
+* Since Haskell has type inference, you don't need to give any type annotations.
+* However, even though type annotations aren't strictly required, there are good reasons to add them:
+	1. Type annotations act as documentation. 
+	1. Type annotations act as assertions that the compiler checks to help you spot mistakes
+	1. Type annotations let us give a narrower type to a function than Haskell might infer.
+* A good rule of thumb is to give top-level definitions type annotations.
 
+## 2.6 The Maybe Type
+* In addition to the list type, Haskell has other parameterized types too.
+* Let's look at a very common and useful one: the **`Maybe`** type.
+* Sometimes, an operation doesn't have a valid return value (e.g., division by zero). We have a few options:
+	* We can use an error value, like **`-1`**. This is a bit ugly, but not always possible.
+	* We can throw an exception. This is impure.
+	* In some other languages, we would return a special null value that exists in (almost) all types. However, Haskell does not have a `null` built into the language.
+* The solution Haskell offers us instead is to change our return type to a **`Maybe`** type.
+* This is pure, safe, and neat.
+* The type **`Maybe a`** has two *constructors*: **Nothing** and **Just**.
+* **Nothing is simply a constant.
+* **Just** takes a parameter. See table in the [Mooc course, Section 2.6](https://haskell.mooc.fi/part1#the-maybe-type).
+* We can think of **`Maybe a`** as being a bit like **`[a]`** except there can only be 0 or 1 elements, not more.
+* Alternatively, one can think of **`Maybe a`** as introducing a null value to the type **`a`**.
+	* On can analogize **`Maybe Integer`** as Haskell's equivalent to Java's **`Optional <Integer>`**.
+* One can create **Maybe** values by either specifying **Nothing** or **Just someOtherVlaue**. For more, see console output in the [Section 2.6](https://haskell.mooc.fi/part1#the-maybe-type).
 
+## 2.7 Sidenote: Constructors
+* As you can see above, we can pattern match on **Just** and **Nothing**--which are the constructors of **`Maybe`**. 
+* Other constructors include constructors for **Bool**--which are **True** and **False**.
+* The next lecture introduces constructors for the list type.
+* Constructors can be used just like Haskell values.
+* **Note: constructors that have no input arguments are *simply constants*.** Examples: **Nothing** and **False** are just constants.
+
+## 2.8 The Either Type
+* Sometimes it would be nice if one could add an error message or something to **Nothing**.
 
