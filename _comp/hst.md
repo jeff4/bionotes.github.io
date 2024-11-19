@@ -1239,4 +1239,16 @@ describe n = case n of 0 -> "zero"
                        n -> "the number " ++ show n
 ```
 
-* A more interesting example is when the value we are pattern matching on is not a function argument. Example:
+* A more interesting example is when the value we are pattern matching on is not a function argument. Parse country code into a country name; return 'Nothing' if code not recognized in this example:
+
+```haskell
+parseCountry :: String -> Maybe String
+parseCountry "FI" = Just "Finland"
+parseCountry "SE" = Just "Sweden"
+parseCountry _ = Nothing
+
+flyTo :: String ->
+flyTo countryCode = case parseCountry countryCode of Just country -> "You're flying to " ++ country
+                                                     Nothing -> "Sorry, you're not flying anywhere"
+```
+* console output
