@@ -1043,7 +1043,51 @@ area "circle" x = pi * square x
 
 ```haskell
 area :: String -> Double -> Double
-area shape
+area shape x = case shape of
+  "square" -> square x
+  "circle" -> pi * square x
+  where square x = x*x
+
 ```
 
-* Third, **case** expressions may help to write more concise code in a situation where a (long) function name would have to be repeated multipe times using equations.
+* Third, **case** expressions may help to write more concise code in a situation where a (long) function name would have to be repeated multipe times using equations. 
+* Consider this naive, wordy implementation:
+
+```haskell
+distanceToSunday :: String -> Int
+distanceToSunday "Monday"       = 6
+distanceToSunday "Tuesday"      = 5
+distanceToSunday "Wednesday"    = 4
+distanceToSunday "Thursday"     = 3
+distanceToSunday "Friday"       = 2
+distanceToSunday "Saturday"     = 1
+distanceToSunday "Sunday"       = 0
+```
+
+* Compare with this more concise implementation using **case** isyntax:
+
+```haskell
+distanceToSunday :: String -> Int
+distanceToSunday d = case d of
+  "Monday"      -> 6
+  "Tuesday"     -> 5
+  "Wednesday"   -> 4
+  "Thursday"    -> 3
+  "Friday"      -> 2
+  "Saturday"    -> 1
+  "Sunday"      -> 0
+```
+* The above 3 benefits make the **case** expression a versatile tool in the Haskeller's toolbox.
+
+## 2.10 Recap: Pattern Matching
+
+## 2.11 Quiz
+
+***
+## 11/20/2024
+# Lecture 3: Catamorphic
+## 3.1 Functional Programming, At Last!
+* In Haskell, a function is a value, just like a number or a list is. 
+
+***
+
