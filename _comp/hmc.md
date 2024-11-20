@@ -996,5 +996,54 @@ sentenceType sentence = classify (last sentence)
 
 ```haskell
 motivate :: String -> String
-
+motivate "Monday"       = "Have a nice week at work!" 
+motivate "Tuesday"      = "You're one day closer to weekend!" 
+motivate "Wednesday"    = "3 more day(s) until the weekend!" 
+motivate "Thursday"     = "2 more day(s) until the weekend!" 
+motivate "Friday"       = "1 more day(s) until the weekend!" 
+motivate _              = "Relax! You don't need to work today. :)" 
 ```
+
+* Using a **case** expression, we can run a helper function against the argument and pattern match on the result:
+
+```haskell
+motivate :: String -> String
+motivate day = case distanceToSunday day of
+  6 -> "Have a nice week at work!"
+  5 -> "You're one day closer to the weekend!"
+  n -> if n > 1
+       then show (n - 1) ++ " more day(s) until the weekend!"
+       else "Relax! You don't need to work today!"
+```
+
+* Btw, here is a 3rd implementation using guards:
+
+```haskell
+motivate :: String -> String
+motivate day
+  | n == 6 = "Have a nice week at work!"
+  | n == 6 = "You're one day closer to the weekend!"
+  | n > 1 = show (n - 1) ++ " more day(s) until the weekend!"
+  | otherwise = "Relax! You don't need to work today!"
+  where n = distanceToSunday day
+```
+
+* Soon, we will see how to define **distanceToSunday** using equations and **case** expressions.
+* Secondly, if a helper function needs to be shared among many patterns, then equations won't work. e.g.:
+
+```haskell
+area :: String -> Double -> Double
+area "square" x = square x
+area "circle" x = pi * square x
+  where square x = x * x
+```
+
+* This won't compile because the **where** clause only appends in the **`circle`** case; so the **square** helper function is not available in the **`square`** case.
+* On the other hand, we can write:
+
+```haskell
+area :: String -> Double -> Double
+area shape
+```
+
+* Third, **case** expressions may help to write more concise code in a situation where a (long) function name would have to be repeated multipe times using equations.
