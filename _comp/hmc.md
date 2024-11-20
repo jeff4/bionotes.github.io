@@ -1088,6 +1088,42 @@ distanceToSunday d = case d of
 # Lecture 3: Catamorphic
 ## 3.1 Functional Programming, At Last!
 * In Haskell, a function is a value, just like a number or a list is. 
+* Functions can be passed as parameters (arguments) just like 'regular variable' can be. 
+* Consider this simple example, with function **applyTo1** which accepts as input a function of type **`(Int->Int)`**, applies it to the number **1**, and returns the result:
+
+```haskell
+applyTo1 :: (Int -> Int) -> Int
+applyTo1 f = f 1
+```
+
+* Let's define a simple function of type `Int->Int` and see the function **applyTo1** i action.
+
+```haskell
+addThree :: Int -> Int
+addThree x = x + 3
+
+applyTo1 addThree
+  ==> addThree 1
+  ==> 1 + 3
+  ==> 4
+```
+
+* Let's go back to the type annotation for `applyTo1`
 
 ***
 
+* Let's look at a slightly more interesting example. This time, we'll impelemnt a polymorphic function `doTwice`.
+* Note how we can use it various types of values and functions.
+
+
+```haskell
+doTwice :: (a -> a) -> a -> a
+doTwicer f x = f(f x)
+``` 
+
+
+...
+
+###
+
+3.1.1. Functioal Programming on LIsts.
