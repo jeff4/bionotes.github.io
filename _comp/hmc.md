@@ -7,7 +7,7 @@ sitemap: false
 
 ***
 
-# New page HMC
+# HMC - New Page
 * [Haskell Mooc Course](https://haskell.mooc.fi/)
 
 ***
