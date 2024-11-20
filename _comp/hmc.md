@@ -1110,20 +1110,135 @@ applyTo1 addThree
 
 * Let's go back to the type annotation for `applyTo1`
 
+```haskell
+applyTo1 :: (Int -> Int) -> Int
+```
+
+* The parentheses are needed because the type **Int -> Int -> Int** would be the type of a function taking two **Int** arguments. More on this later.
+
 ***
 
-* Let's look at a slightly more interesting example. This time, we'll impelemnt a polymorphic function `doTwice`.
+* Let's look at a slightly more interesting example. This time, we'll implement a polymorphic function `doTwice`.
 * Note how we can use it various types of values and functions.
 
 
 ```haskell
 doTwice :: (a -> a) -> a -> a
-doTwicer f x = f(f x)
-``` 
+doTwice f x = f(f x)
 
+doTwice addThree 1
+  ==> addThree (addThree 1)
+  ==> 7
+doTwice tail "abcd"
+  ==> tail (tail "abcd")
+  ==> "cd"
+```
 
-...
+* More
 
-###
+```haskell
+makeCool :: String -> String
+makeCool str = "WOW" ++ str ++ "!"
 
-3.1.1. Functioal Programming on LIsts.
+doTwice makeCool "Haskell"
+  ==> "WOW WOW Haskell!!"
+```
+
+***
+
+### 3.1.1. Functioal Programming on LIsts.
+* That was a bit boring. Luckily there are many useful list functions that take functions as arguments.
+* By the way, functions that take functions as arguments (or return functions) are often called *higher-order functions*.
+* The most famous of these list-processing higher-order functions is *map*.
+* It gives you a new list by applying the given function to all elements of a list.
+
+```haskell
+map :: (a -> b) -> [a] -> [b]
+map addThree [1,2,3]
+  ==> [4,5,6]
+```
+* The partner in crime for *map* is *filter*.
+* Instead of transforming all elements of a list, *filter* drops some elements of a list and keeps others.
+* In other words, *filter* selects the elements from a list that fulfill a condition:
+
+```haskell
+filter :: (a -> Bool) -> [a] -> [a]
+```
+
+* Here's an example: selecting the positive elements from a list:
+
+```haskell
+positive :: Int -> Bool
+positive x = x>0
+
+filter positive [0,1,-1,3,-3]
+  ==> [1,3]
+```
+
+* Note how both the type signatures of *map* and *filter* use polymorphism.
+* They work on all kinds of lists.
+* The type of *map* even uses two type parameters!
+* Here are some examples of type inference using *map* and *filter*. 
+
+```haskell
+onlyPositive xs = filter positive xs
+mapBooleans f = map f [False,True]
+```
+
+* Console output... `:t onlyPositive...`
+* One more thing: remember how constructors are just functions? That means you can pass them as arguments to other functions!
+
+```haskell
+wrapJust xs = map Just xs
+```
+
+* Console output...
+
+***
+
+### 3.1.2 Examples of Functional Programming on Lists
+
+* How many "palindrome numbers" are between 1 and n?
+
+```haskell
+-- a predicate that checks if a string is a palindrome
+palindrome :: String -> Bool
+palindrome str = str == reverse str
+
+-- palindromes n takes all numbers from 1 to n, converts them to strings using show, and keeps only palindromes
+palindromes :: Int -> [String]
+palindromes n = filter palindrome (map show [1..n])
+
+palindrome "1331" ==> True
+palindromes 150 ==>
+  ["1", "2", "3", "4", "5", "6", "7", "8", ... "141"]
+length (palindromes 9999) ==> 198
+```
+* How many words in a string start with the letter "a"?
+* This uses the function *words* from tme module **Data.List** that splits a string into words.
+
+```haskell
+countAWords :: String -> Int
+countAWords string = length (filter startsWithA (words string))
+  where startsWithA s = head s == 'a'
+
+countAWords "does anyone want an apple?"
+  ==> 3
+```
+
+* The function *tails* from *Data.List* returns the list of all suffixes ("tails") of a list.
+* We can use *tails* for many string processing tasks.
+* Here's how *tails* works:
+
+```haskell
+tails "echo"
+  ==> ["echo", "cho", "ho", "o", ""]
+```
+* Here's an example where we find what characters come after a given character in a string.
+* First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
+
+```haskell
+substringsOfLength ...
+```
+* There are some shorter substrings...
+
