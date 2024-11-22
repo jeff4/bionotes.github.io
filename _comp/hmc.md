@@ -1103,9 +1103,9 @@ addThree :: Int -> Int
 addThree x = x + 3
 
 applyTo1 addThree
-  ==> addThree 1
-  ==> 1 + 3
-  ==> 4
+  ==> addThree 1 -- output
+  ==> 1 + 3 -- output
+  ==> 4 -- output
 ```
 
 * Let's go back to the type annotation for `applyTo1`
@@ -1127,11 +1127,11 @@ doTwice :: (a -> a) -> a -> a
 doTwice f x = f(f x)
 
 doTwice addThree 1
-  ==> addThree (addThree 1)
-  ==> 7
+  ==> addThree (addThree 1) -- output
+  ==> 7 -- output
 doTwice tail "abcd"
-  ==> tail (tail "abcd")
-  ==> "cd"
+  ==> tail (tail "abcd") -- output
+  ==> "cd" -- output
 ```
 
 * More
@@ -1141,11 +1141,11 @@ makeCool :: String -> String
 makeCool str = "WOW" ++ str ++ "!"
 
 doTwice makeCool "Haskell"
-  ==> "WOW WOW Haskell!!"
+  ==> "WOW WOW Haskell!!" -- output
 ```
 
 ***
-
+## 11/21/2024
 ### 3.1.1. Functioal Programming on LIsts.
 * That was a bit boring. Luckily there are many useful list functions that take functions as arguments.
 * By the way, functions that take functions as arguments (or return functions) are often called *higher-order functions*.
@@ -1155,7 +1155,7 @@ doTwice makeCool "Haskell"
 ```haskell
 map :: (a -> b) -> [a] -> [b]
 map addThree [1,2,3]
-  ==> [4,5,6]
+  ==> [4,5,6] -- output
 ```
 * The partner in crime for *map* is *filter*.
 * Instead of transforming all elements of a list, *filter* drops some elements of a list and keeps others.
@@ -1172,7 +1172,7 @@ positive :: Int -> Bool
 positive x = x>0
 
 filter positive [0,1,-1,3,-3]
-  ==> [1,3]
+  ==> [1,3] -- output
 ```
 
 * Note how both the type signatures of *map* and *filter* use polymorphism.
@@ -1186,6 +1186,15 @@ mapBooleans f = map f [False,True]
 ```
 
 * Console output... `:t onlyPositive...`
+```
+ghci> :t onlyPositive
+onlyPositive :: [Int] -> [Int]
+ghci> :t mapBooleans
+mapBooleans :: (Bool -> b) -> [b]
+ghci> :t mapBooleans not
+mapBooleans not :: [Bool]
+```
+
 * One more thing: remember how constructors are just functions? That means you can pass them as arguments to other functions!
 
 ```haskell
@@ -1193,6 +1202,13 @@ wrapJust xs = map Just xs
 ```
 
 * Console output...
+
+```
+ghci> :t wrapJust
+wrapJust :: [a] -> [Maybe a]
+ghci> wrapJust [1,2,3]
+[Just 1, Just 2, Just 3] 
+```
 
 ***
 
@@ -1223,7 +1239,7 @@ countAWords string = length (filter startsWithA (words string))
   where startsWithA s = head s == 'a'
 
 countAWords "does anyone want an apple?"
-  ==> 3
+  ==> 3 -- output
 ```
 
 * The function *tails* from *Data.List* returns the list of all suffixes ("tails") of a list.
@@ -1232,7 +1248,7 @@ countAWords "does anyone want an apple?"
 
 ```haskell
 tails "echo"
-  ==> ["echo", "cho", "ho", "o", ""]
+  ==> ["echo", "cho", "ho", "o", ""] -- output
 ```
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
@@ -1241,9 +1257,4 @@ tails "echo"
 substringsOfLength ...
 ```
 * There are some shorter substrings...
- 
-***
-
-## 11/20/2024
-
 
