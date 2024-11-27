@@ -1001,6 +1001,9 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
     * First saw this on [HN news](https://news.ycombinator.com/item?id=40633029) back in June, 2024 but i guess I never linked it. 
     * Saving here to make it easier to find local first software content.
 
-## tab clean up
+## 11/2024
 * [HN thread](https://news.ycombinator.com/item?id=41717543) about [What is P vs. NP about](https://vasekrozhon.wordpress.com/2024/08/18/what-p-vs-np-is-actually-about/)
 * [2024 HN thread](https://news.ycombinator.com/item?id=41684082) about this 2022 post about how [too much efficiency makes things worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) 
+
+## 11/27/2024
+* Refound this old resource that uses GPT-3 to summarize arXiv papers. Hasn't been updated since March 2023, looks like. [arXiv-summary](https://www.arxiv-summary.com/archive/)
