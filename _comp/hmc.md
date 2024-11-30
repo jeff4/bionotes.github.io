@@ -1138,6 +1138,7 @@ doTwice tail "abcd"
 * Additional experiments. 
 * **Note: Need to use the `tail` and `init` functions b/c they return arrays rather than singleton elements. Otherwise, `addTwice` will choke because it expects the same array input and output.**
 * Console output
+
 ```
 ghci> doTwice init "abcd"
 "ab"
@@ -1154,6 +1155,20 @@ ghci> doTwice doTwice tail "abcdefg"
 ghci> doTwice doTwice tail "abcdefg"
 ```
 
+* **JH note:** In GHCi, one can reuse the same `x` variable in the same ghci block under different function declarations, *aka* `x` is reused in addThree() and doTwice().
+
+```haskell
+:{
+applyTo1 :: (Int -> Int) -> Int
+applyTo1 f = f 1
+
+addThree :: Int -> Int
+addThree x = x + 3
+
+doTwice :: (a -> a) -> a -> a
+doTwice f x = f (f x)
+:}
+```
 
 * More
 
