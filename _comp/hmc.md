@@ -1103,9 +1103,9 @@ addThree :: Int -> Int
 addThree x = x + 3
 
 applyTo1 addThree
-  ==> addThree 1 -- output
-  ==> 1 + 3 -- output
-  ==> 4 -- output
+  ==> addThree 1 -- Step 1  
+  ==> 1 + 3 -- Step 2
+  ==> 4 -- Step 3: final output
 ```
 
 * Let's go back to the type annotation for `applyTo1`
@@ -1257,4 +1257,4 @@ tails "echo"
 substringsOfLength ...
 ```
 * There are some shorter substrings...
-* more  
+* more 
