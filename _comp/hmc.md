@@ -1134,6 +1134,27 @@ doTwice tail "abcd"
   ==> "cd" -- output
 ```
 
+## 11/30/2024
+* Additional experiments. 
+* **Note: Need to use the `tail` and `init` functions b/c they return arrays rather than singleton elements. Otherwise, `addTwice` will choke because it expects the same array input and output.**
+* Console output
+```
+ghci> doTwice init "abcd"
+"ab"
+ghci> init "abcd"
+"abc"
+ghci> tail "abcd"
+"bcd"
+ghci> tail "abcdefg"
+"bcdefg"
+ghci> doTwice tail "abcdefg"
+"cdefg"
+ghci> doTwice doTwice tail "abcdefg"
+"efg"
+ghci> doTwice doTwice tail "abcdefg"
+```
+
+
 * More
 
 ```haskell
