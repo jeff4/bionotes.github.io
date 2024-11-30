@@ -1146,7 +1146,7 @@ doTwice makeCool "Haskell"
 
 ***
 ## 11/21/2024
-### 3.1.1. Functioal Programming on LIsts.
+### 3.1.1. Functional Programming on LIsts.
 * That was a bit boring. Luckily there are many useful list functions that take functions as arguments.
 * By the way, functions that take functions as arguments (or return functions) are often called *higher-order functions*.
 * The most famous of these list-processing higher-order functions is *map*.
@@ -1257,9 +1257,4 @@ tails "echo"
 substringsOfLength ...
 ```
 * There are some shorter substrings...
-* more more 
-
-
-## 11/30/2024
-
-***
+* more  
