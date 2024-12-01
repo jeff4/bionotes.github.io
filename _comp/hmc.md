@@ -1267,7 +1267,8 @@ palindromes 150 ==>
 length (palindromes 9999) ==> 198
 ```
 
-* Here is my version which renames the 2 functions for easier reading (f1_, f2_,...)
+* Here is my version which renames the 2 functions for easier reading (f1_, f2_,...).
+* Like so:
 
 
 ```haskell
