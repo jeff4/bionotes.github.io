@@ -1268,7 +1268,7 @@ length (palindromes 9999) ==> 198
 ```
 
 * Here is my version which renames the 2 functions for easier reading (f1_, f2_,...).
-* See chatgpt to examine each part of above functions.
+* See chatgpt log for granular explanation.
 
 ```haskell
 -- f1_check -- a predicate that checks if a string is a palindrome
