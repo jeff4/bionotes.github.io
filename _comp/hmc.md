@@ -1268,6 +1268,8 @@ length (palindromes 9999) ==> 198
 ```
 
 * Here is my version which renames the 2 functions for easier reading (f1_, f2_,...)
+
+
 ```haskell
 -- f1_check -- a predicate that checks if a string is a palindrome
 f1_check :: String -> Bool
