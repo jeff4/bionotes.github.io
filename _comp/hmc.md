@@ -1266,6 +1266,7 @@ palindromes 150 ==>
   ["1", "2", "3", "4", "5", "6", "7", "8", ... "141"]
 length (palindromes 9999) ==> 198
 ```
+
 * Here is my version which renames the 2 functions for easier reading (f1_, f2_,...)
 ```haskell
 -- f1_check -- a predicate that checks if a string is a palindrome
@@ -1276,6 +1277,7 @@ f1_check str = str == reverse str
 f2_palindromes :: Int -> [String]
 f2_palindromes n = filter f1_check (map show [1..n])
 ```
+
 * See chatgpt to examine each part of above functions.
 
 ***
