@@ -1294,18 +1294,21 @@ function isPalindrome(str) {
 
   return result;
 }
-```
-* I then queried ChatGPT about idiomatic Haskell. Do I need to have an equivalent to JS's intermediate variables and `return result;` statement?
-	* The answer is No, because the result of the expressions is constantly 'coming' out of the function in Haskell.
-	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
-	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
 
-
+//--------
 
 // Some simple tests
 console.log(isPalindrome("aba")); // true
 console.log("--- ");
 console.log(isPalindrome("abac")); // false
+
+
+```
+
+* I then queried ChatGPT about idiomatic Haskell. Do I need to have an equivalent to JS's intermediate variables and `return result;` statement?
+	* The answer is No, because the result of the expressions is constantly 'coming' out of the function in Haskell.
+	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
+	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
 
 
 
