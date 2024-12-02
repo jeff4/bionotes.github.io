@@ -1279,6 +1279,35 @@ f1_check str = str == reverse str
 f2_palindromes :: Int -> [String]
 f2_palindromes n = filter f1_check (map show [1..n])
 ```
+***
+## 12/01/2024
+* To refresh myself on how Haskell's expressions based language works, I used ChatGPT to help me write a simple JS equivalent:
+
+```javascript
+function isPalindrome(str) {
+
+  // Convert the string to lowercase and remove non-alphanumeric characters
+  const cleanStr = str.toLowerCase().replace(/[^a-z0-9]/g, '');
+
+  // Compare the string with its reversed version
+  var result = cleanStr === cleanStr.split('').reverse().join('');
+
+  return result;
+}
+```
+* I then queried ChatGPT about idiomatic Haskell. Do I need to have an equivalent to JS's intermediate variables and `return result;` statement?
+	* The answer is No, because the result of the expressions is constantly 'coming' out of the function in Haskell.
+	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
+	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
+
+
+
+// Some simple tests
+console.log(isPalindrome("aba")); // true
+console.log("--- ");
+console.log(isPalindrome("abac")); // false
+
+
 
 ***
 * How many words in a string start with the letter "a"?
