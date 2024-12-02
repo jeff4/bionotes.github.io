@@ -1281,7 +1281,7 @@ f2_palindromes n = filter f1_check (map show [1..n])
 ```
 ***
 ## 12/01/2024
-* To refresh myself on how Haskell's expressions based language works, I used ChatGPT to help me write a simple JS equivalent:
+* To refresh myself on how Haskell's expressions based language works, I used ChatGPT to help me write a simple JS equivalent of the `f1_check` haskell helper function above.
 
 ```javascript
 function isPalindrome(str) {
