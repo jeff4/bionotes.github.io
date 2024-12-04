@@ -1251,6 +1251,7 @@ ghci> wrapJust [1,2,3]
 
 ### 3.1.2 Examples of Functional Programming on Lists
 
+#### 3.1.2.1a Palindromes function
 * How many "palindrome numbers" are between 1 and n?
 
 ```haskell
@@ -1268,6 +1269,8 @@ palindromes 150 ==>
 length (palindromes 9999) ==> 198
 ```
 
+#### 3.1.2.1b JH version of Palindromes function
+
 * Here is my version which renames the 2 functions for easier reading (f1_, f2_,...).
 * See chatgpt log for granular explanation.
 
@@ -1281,7 +1284,9 @@ f2_palindromes :: Int -> [String]
 f2_palindromes n = filter f1_check (map show [1..n])
 ```
 ***
+
 ## 12/01/2024
+#### 3.1.2.1c JS implementation of Palindromes function
 * To refresh myself on how Haskell's expressions based language works, I used ChatGPT to help me write a simple JS equivalent of the `f1_check` haskell helper function above.
 
 ```javascript
@@ -1313,10 +1318,12 @@ console.log(isPalindrome("abac")); // false
 
 ***
 ## 12/03/2024
+
+#### 3.1.2.1d using 'map' and 'filter' in f2_palindromes
 * I used [this ChatGPT dialogue](https://chatgpt.com/share/674fd63a-2288-8013-a5be-8febb3c28121) to break down the `f2_palindromes` function. Let's dive in deeper
 * From the same ChatGPT page: 
-	* **map *f* list** applies the **f()** function to each element of the *list.* 
-	* **filter *pred* list** keeps elements `x` in **list** such that `pred x == True`.
+	* **map *f()* list** applies the **f()** function to each element of the *list.* 
+	* **filter *pred* list** keeps elements `x` in **list** such that `pred x == True` for each element `x` in the **list**.
 
 ### Re-examining f2_palindromes()
 * How does this work in Haskell? `f2_palindromes n = filter f1_check (map show [1..n])` 
@@ -1327,6 +1334,8 @@ console.log(isPalindrome("abac")); // false
 
 
 ***
+
+#### 3.1.2.2a Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
 * This uses the function *words* from tme module **Data.List** that splits a string into words.
 
