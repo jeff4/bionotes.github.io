@@ -1318,9 +1318,8 @@ console.log(isPalindrome("abac")); // false
 ### Re-examining f2_palindromes()
 * How does this work in Haskell? `f2_palindromes n = filter f1_check (map show [1..n])` 
 1. We construct a **range** of integers with this syntax **`[1..n]`**.
-1. the *show()* function converts an input into a string representation. Meanwhile, **map()** applies that function to every element to a list. So `map show [1,2,3]` converts each element into the string equivalent. The output:
-	* ["1", "2", "3"]
-1. *f1_check()* as discussed earlier, returns *True* if the input is a string palindrome; *False* otherwise. Meanwhile, the *filter()* function *only* keeps the elements of the list for which the input evaluates to true.
+1. The **show()** function converts an input into a string representation. Meanwhile, **map()** applies that function to every element to a list. So `map show [1,2,3]` converts each element into the string equivalent. The output: **["1", "2", "3"]**
+1. *f1_check()* as discussed earlier, returns *True* if the input is a string palindrome; *False* otherwise. Meanwhile, the **filter()** function *only* keeps the elements of the list for which the input evaluates to true.
 	* Therefore `filter f1_check [ *list of numbers represented as strings* ]`, outputs a new list that *only* has elements which are palindromes.
 
 
