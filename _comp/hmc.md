@@ -1310,6 +1310,9 @@ console.log(isPalindrome("abac")); // false
 	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
 	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
 
+***
+## 12/03/2024
+* Ok, used [this ChatGPT dialogue](https://chatgpt.com/share/674fd63a-2288-8013-a5be-8febb3c28121) to break down the `f2_palindromes` function.
 
 
 ***
@@ -1340,4 +1343,4 @@ tails "echo"
 substringsOfLength ...
 ```
 * There are some shorter substrings...
-* 12/3
+* more 
