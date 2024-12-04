@@ -1334,7 +1334,7 @@ console.log(isPalindrome("abac")); // false
 
 
 ***
-
+## 12/04/2024
 #### 3.1.2.2a Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
 * This uses the function *words* from tme module **Data.List** that splits a string into words.
