@@ -1314,6 +1314,9 @@ console.log(isPalindrome("abac")); // false
 ***
 ## 12/03/2024
 * I used [this ChatGPT dialogue](https://chatgpt.com/share/674fd63a-2288-8013-a5be-8febb3c28121) to break down the `f2_palindromes` function. Let's dive in deeper
+* From the same ChatGPT page: 
+	* **map *f* list** applies the **f()** function to each element of the *list.* 
+	* **filter *pred* list** keeps elements `x` in **list** such that `pred x == True`.
 
 ### Re-examining f2_palindromes()
 * How does this work in Haskell? `f2_palindromes n = filter f1_check (map show [1..n])` 
