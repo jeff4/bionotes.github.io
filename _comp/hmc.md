@@ -1251,6 +1251,7 @@ ghci> wrapJust [1,2,3]
 
 ### 3.1.2 Examples of Functional Programming on Lists
 
+### 3.1.2.1 Palindromes
 #### 3.1.2.1a Palindromes function
 * How many "palindrome numbers" are between 1 and n?
 
