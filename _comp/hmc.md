@@ -1362,8 +1362,15 @@ main = do
   print (show p)  -- Converts a Point value to a String; output: "Point 3 4"
 ```
 
-
 #### Example 4: show() and IO
+
+```haskell
+main :: IO ()
+main = do
+  let x = 5
+  putStrLn ("JH says the value of x is: " ++ show x ++ "!")
+  -- Output in console: JH says the value of x is: 5!
+```
 
 ***
 
