@@ -1342,10 +1342,25 @@ main = do
   print (show True) -- Converts a Bool to a String, output "True"
 ```
 
-
-
 #### Example 2: show() and lists
+```haskell
+main :: IO ()
+main = do
+  print (show [1, 2, 3]) -- Converts a list of Ints to a String; output "[1,2,3]"
+  print (show "Hello") -- Converts a String (already a list of Char) to a String representation; output "\"Hello\""
+```
+
 #### Example 3: show() and custom data types
+```haskell
+data Point = Point Int Int deriving Show
+
+main :: IO ()
+main = do
+  let p = Point 3 4
+  print (show p)  -- Converts a Point value to a String; output: "Point 3 4"
+```
+
+
 #### Example 4: show() and IO
 
 ***
