@@ -1343,6 +1343,7 @@ console.log(isPalindrome("abac")); // false
 #### Example 3: show() and custom data types
 #### Example 4: show() and IO
 
+***
 
 #### 3.1.2.2a Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
