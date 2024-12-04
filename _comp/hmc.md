@@ -1337,9 +1337,9 @@ console.log(isPalindrome("abac")); // false
 ```haskell
 main :: IO ()
 main = do
-  print (show 42)  ==> Converts Int to String, output "42"
-  print (show 3.14) ==> Converts a Float to a String, output "3.14"
-  print (show True) ==> Converts a Bool to a String, output "True"
+  print (show 42)  -- Converts Int to String, output "42"
+  print (show 3.14) -- Converts a Float to a String, output "3.14"
+  print (show True) -- Converts a Bool to a String, output "True"
 ```
 
 
