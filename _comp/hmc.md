@@ -1333,6 +1333,17 @@ console.log(isPalindrome("abac")); // false
 ### JH Interlude: learning more about the show() function
 * From this [ChatGPT answer](https://chatgpt.com/share/6750e2fa-53b0-8013-abc9-b2f2bd82998c)
 #### Example 1: show() and basic data types 
+
+```haskell
+main :: IO ()
+main = do
+  print (show 42)  ==> Converts Int to String, output "42"
+  print (show 3.14) ==> Converts a Float to a String, output "3.14"
+  print (show True) ==> Converts a Bool to a String, output "True"
+```
+
+
+
 #### Example 2: show() and lists
 #### Example 3: show() and custom data types
 #### Example 4: show() and IO
