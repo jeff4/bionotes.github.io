@@ -16,6 +16,7 @@ sitemap: false
 * 11/03/2024 [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner Austin](https://github.com/Gandalf-).
 	* Austin has some [posts](https://www.anardil.net/tag/coreutils.html) on his blog discussing his work.
 	* Austin is [answering questions](https://news.ycombinator.com/item?id=42032718) in the HN thread.
+* 12/02/2024 Discussion about [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html) blog post and related [HN thread](https://news.ycombinator.com/item?id=42302426).
 
 ***
 
