@@ -1251,6 +1251,7 @@ ghci> wrapJust [1,2,3]
 
 ### 3.1.2 Examples of Functional Programming on Lists
 
+## 12/01 - 12/03
 ### 3.1.2.1 Palindromes
 #### 3.1.2.1a Palindromes function
 * How many "palindrome numbers" are between 1 and n?
@@ -1284,9 +1285,7 @@ f1_check str = str == reverse str
 f2_palindromes :: Int -> [String]
 f2_palindromes n = filter f1_check (map show [1..n])
 ```
-***
 
-## 12/01/2024
 #### 3.1.2.1c JS implementation of Palindromes function
 * To refresh myself on how Haskell's expressions based language works, I used ChatGPT to help me write a simple JS equivalent of the `f1_check` haskell helper function above.
 
@@ -1309,16 +1308,12 @@ console.log(isPalindrome("aba")); // true
 console.log("--- ");
 console.log(isPalindrome("abac")); // false
 
-
 ```
 
 * I then queried ChatGPT about idiomatic Haskell. Do I need to have an equivalent to JS's intermediate variables and `return result;` statement?
 	* The answer is No, because the result of the expressions is constantly 'coming' out of the function in Haskell.
 	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
 	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
-
-***
-## 12/03/2024
 
 #### 3.1.2.1d using 'map' and 'filter' in f2_palindromes
 * I used [this ChatGPT dialogue](https://chatgpt.com/share/674fd63a-2288-8013-a5be-8febb3c28121) to break down the `f2_palindromes` function. Let's dive in deeper
@@ -1331,7 +1326,6 @@ console.log(isPalindrome("abac")); // false
 1. The **show()** function converts an input into a string representation. Meanwhile, **map()** applies that function to every element to a list. So `map show [1,2,3]` converts each element into the string equivalent. The output: **["1", "2", "3"]**
 1. *f1_check()* as discussed earlier, returns *True* if the input is a string palindrome; *False* otherwise. Meanwhile, the **filter()** function *only* keeps the elements of the list for which the input evaluates to true.
 	* Therefore `filter f1_check [ *list of numbers represented as strings* ]`, outputs a new list that *only* has elements which are palindromes.
-
 
 ***
 ## 12/04/2024
