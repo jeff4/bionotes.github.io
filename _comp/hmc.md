@@ -1249,7 +1249,7 @@ ghci> wrapJust [1,2,3]
 
 ***
 
-### 3.1.2 Examples of Functional Programming on Lists
+# 3.1.2 Examples of Functional Programming on Lists
 
 ## 12/01 - 12/03
 ### 3.1.2.1 Palindromes
