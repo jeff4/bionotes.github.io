@@ -1353,6 +1353,7 @@ main = do
 
 #### Example 3: show() and custom data types
 * Note, below example is an example of *automatically deriving* **show()**. See [ChatGPT](https://chatgpt.com/share/6750e2fa-53b0-8013-abc9-b2f2bd82998c) for additional example on *manually deriving* **show()**.
+ 
 ```haskell
 data Point = Point Int Int deriving Show
 
