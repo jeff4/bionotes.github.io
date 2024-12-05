@@ -1377,7 +1377,7 @@ main = do
 
 
 ***
-## 12/05/2024
+## 12/04/2024
 ### 3.1.2.2 Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
 * This uses the function *words* from tme module **Data.List** that splits a string into words.
@@ -1420,7 +1420,7 @@ main = print (tails [1, 2, 3])
 ```
 
 ***
-
+## 12/05/2024
 ### 3.1.2.3 tails(), map(), and take() together
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
