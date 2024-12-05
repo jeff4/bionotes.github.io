@@ -1378,7 +1378,7 @@ main = do
 
 ***
 ## 12/05/2024
-### 3.1.2.2a Counting words that start with 'a'
+### 3.1.2.2 Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
 * This uses the function *words* from tme module **Data.List** that splits a string into words.
 
@@ -1390,6 +1390,7 @@ countAWords string = length (filter startsWithA (words string))
 countAWords "does anyone want an apple?"
   ==> 3 -- output
 ```
+### 3.1.2.3 tails() from the Data.List library
 
 * The function *tails* from *Data.List* returns the list of all suffixes ("tails") of a list.
 * We can use *tails* for many string processing tasks.
@@ -1420,6 +1421,7 @@ main = print (tails [1, 2, 3])
 
 ***
 
+### 3.1.2.3 tails(), map(), and take() together
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
 
