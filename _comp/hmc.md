@@ -1467,5 +1467,23 @@ between lo high x = x < high && x > lo
 * Sample usage:
 
 ```haskell
+ghci> between 3 7 5
+True
+ghci> between 3 6 8
+False
+ghci> between 5 50 23
+True
+ghci> between 5 50 87
+False
 ```
+* now consider this composite aka higher-order function:
 
+```haskell
+ghci> map (between 1 8) [2, 3, 4, 7, 11]
+[True,True,True,True,False]
+ghci> 
+```
+* More exploration...
+
+***
+## 3.3 Prefix and Infix Notations
