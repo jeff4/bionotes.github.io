@@ -1377,7 +1377,7 @@ main = do
 
 
 ***
-
+## 12/05/2024
 ### 3.1.2.2a Counting words that start with 'a'
 * How many words in a string start with the letter "a"?
 * This uses the function *words* from tme module **Data.List** that splits a string into words.
@@ -1393,12 +1393,24 @@ countAWords "does anyone want an apple?"
 
 * The function *tails* from *Data.List* returns the list of all suffixes ("tails") of a list.
 * We can use *tails* for many string processing tasks.
-* Here's how *tails* works:
+* Here is sample program and output from GHCi. Note that we need to import *Data.List* first b/c that contains **tails()** (not to be confused with *tail()*).
 
 ```haskell
-tails "echo"
-  ==> ["echo", "cho", "ho", "o", ""] -- output
+ghci> :{
+ghci| import Data.List
+ghci| main :: IO ()
+ghci| main = do
+ghci|   let x = tails "echo"
+ghci|   putStrLn("Output is: " ++ show x)
+ghci| :}
+ghci> 
+ghci> main
+
+*Output is: ["echo","cho","ho","o",""]*
+
 ```
+
+
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
 
