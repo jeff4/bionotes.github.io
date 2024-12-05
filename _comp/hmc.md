@@ -1425,4 +1425,10 @@ main = print (tails [1, 2, 3])
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
 
-* There are some shorter substrings...
+```haskell
+import Data.List (tails)
+
+substringsOfLength :: Int -> String -> [String]
+substringsOfLength n string = map shorten (tails string)
+  where shorten s = take n s
+```
