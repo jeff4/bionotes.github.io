@@ -1332,6 +1332,7 @@ console.log(isPalindrome("abac")); // false
 
 ### JH Interlude: learning more about the show() function
 * From this [ChatGPT answer](https://chatgpt.com/share/6750e2fa-53b0-8013-abc9-b2f2bd82998c)
+* To execute any of the following examples commands in GHCi, just enter in the code surrounded by the  usual `:{`and `:}` and then, in the ghci cmd prompt, type "main".
 
 #### Example 1: show() and basic data types 
 
@@ -1373,7 +1374,6 @@ main = do
   -- Output in console: JH says the value of x is: 5!
   -- To execute command at the GHCi prompt, just type "main"
 ```
-* To execute any of the above commands in GHCi, just type "main" in the ghci cmd prompt.
 
 
 ***
