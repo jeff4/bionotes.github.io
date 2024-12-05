@@ -1370,7 +1370,10 @@ main = do
   let x = 5
   putStrLn ("JH says the value of x is: " ++ show x ++ "!")
   -- Output in console: JH says the value of x is: 5!
+  -- To execute command at the GHCi prompt, just type "main"
 ```
+* To execute any of the above commands in GHCi, just type "main" in the ghci cmd prompt.
+
 
 ***
 
