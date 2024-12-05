@@ -1456,6 +1456,10 @@ ghci> whatFollows 'a' 2 "abracadabra"
 * ...
 
 ***
+***
+***
+
+
 
 ## 3.2 Partial Application
 * When using higher-order functions, you can find yourself defining lots of small helper functions, like **addThree** or **shorten** from the previous examples.
