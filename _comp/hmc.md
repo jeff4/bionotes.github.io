@@ -1441,7 +1441,7 @@ substringsOfLength n string = map shorten (tails string)
 
 ```haskell
 whatFollows :: Char -> Int -> String -> [String]
-whatFollows c k string = map tail (filter match (subStringsOfLength (k+1) string))
+whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string))
   where match sub = take 1 sub == [c]
 ```
 
