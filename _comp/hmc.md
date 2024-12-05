@@ -1444,7 +1444,6 @@ whatFollows :: Char -> Int -> String -> [String]
 whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string))
   where match sub = take 1 sub == [c]
 ```
-
 * See execution here:
 
 ```haskell
@@ -1452,13 +1451,17 @@ ghci> whatFollows 'a' 2 "abracadabra"
 ["br","ca","da","br",""]
 ```
 
+#### 3.1.2.3d Explanation from ChatGPT
+* Link to [ChatGPT answer](https://chatgpt.com/share/67514f9e-61d8-8013-bc70-75137ff20ab3)
+* ...
+
 ***
 
 ## 3.2 Partial Application
 * When using higher-order functions, you can find yourself defining lots of small helper functions, like **addThree** or **shorten** from the previous examples.
 * Rather than laboriously defining all these functions, the concept of **partial application** simplifies our task. This works for all functions in Haskell.
 
-### 3.2.1 Example 1
+### 3.2.1 Example 1 -- between()
 ```haskell
 between :: Integer -> Integer -> Integer -> Bool
 between lo high x = x < high && x > lo
@@ -1483,7 +1486,8 @@ ghci> map (between 1 8) [2, 3, 4, 7, 11]
 [True,True,True,True,False]
 ghci> 
 ```
-* More exploration...
+
+* We can give **`between`** fewer arguments and still get back new functions, just like in the example with **`add`** above.
 
 ***
 ## 3.3 Prefix and Infix Notations
