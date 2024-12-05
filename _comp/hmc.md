@@ -1409,12 +1409,18 @@ ghci> main
 Output is: ["echo","cho","ho","o",""]
 
 ```
+* Note, per this [ChatGPT](https://chatgpt.com/share/6751210c-e3d8-8013-af4e-a1991646089c), this alternate implementation also works (invoke in GHCi with `main` like above):
 
+```haskell
+import Data.List (tails)
+
+main :: IO ()
+main = print (tails [1, 2, 3])
+```
+
+***
 
 * Here's an example where we find what characters come after a given character in a string.
 * First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
 
-```haskell
-substringsOfLength ...
-```
 * There are some shorter substrings...
