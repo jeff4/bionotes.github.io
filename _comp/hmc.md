@@ -1395,7 +1395,7 @@ countAWords "does anyone want an apple?"
 * We can use *tails* for many string processing tasks.
 * Here is sample program and output from GHCi. Note that we need to import *Data.List* first b/c that contains **tails()** (not to be confused with *tail()*).
 
-```
+```haskell
 ghci> :{
 ghci| import Data.List
 ghci| main :: IO ()
