@@ -1445,4 +1445,27 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
   where match sub = take 1 sub == [c]
 ```
 
+* See execution here:
+
+```haskell
+ghci> whatFollows 'a' 2 "abracadabra"
+["br","ca","da","br",""]
+```
+
+***
+
+## 3.2 Partial Application
+* When using higher-order functions, you can find yourself defining lots of small helper functions, like **addThree** or **shorten** from the previous examples.
+* Rather than laboriously defining all these functions, the concept of **partial application** simplifies our task. This works for all functions in Haskell.
+
+### 3.2.1 Example 1
+```haskell
+between :: Integer -> Integer -> Integer -> Bool
+between lo high x = x < high && x > lo
+```
+
+* Sample usage:
+
+```haskell
+```
 
