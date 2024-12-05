@@ -1421,9 +1421,11 @@ main = print (tails [1, 2, 3])
 
 ***
 ## 12/05/2024
-### 3.1.2.3 tails(), map(), and take() together
+### 3.1.2.3 substringsOfLength() using tails(), map(), and take() 
+
+#### 3.1.2.3a Preliminaries
 * Here's an example where we find what characters come after a given character in a string.
-* First of all, we use *tails*, *map* and *take* to get all substrings of a certain length.
+* We use *tails*, *map* and *take* to get all substrings of a certain length.
 
 ```haskell
 import Data.List (tails)
@@ -1432,3 +1434,15 @@ substringsOfLength :: Int -> String -> [String]
 substringsOfLength n string = map shorten (tails string)
   where shorten s = take n s
 ```
+
+#### 3.1.2.3b whatFollows()
+* Now that the helper function substringsOfLength() is completed, we can find all occurrences of character **`c`** in the string **`s`**, and then output the **`k`** letters that come after these occurrences.
+* Paste this code *after* the above substringsOfLength code above:
+
+```haskell
+whatFollows :: Char -> Int -> String -> [String]
+whatFollows c k string = map tail (filter match (subStringsOf (k+1) string))
+  where match sub = take 1 sub == [c]
+```
+
+
