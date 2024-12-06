@@ -1453,7 +1453,33 @@ ghci> whatFollows 'a' 2 "abracadabra"
 
 #### 3.1.2.3d Explanation from ChatGPT
 * Link to [ChatGPT answer](https://chatgpt.com/share/67514f9e-61d8-8013-bc70-75137ff20ab3)
-* ...
+
+#### 3.1.2.3e JS implementation
+
+```javascript
+
+// Function to generate all substrings of a given length
+function substringsOfLength(n, string) {
+  const result = [];
+  for (let i = 0; i <= string.length - n; i++) {
+    result.push(string.slice(i, i + n));
+  }
+  return result;
+}
+
+// Function to find substrings of length `k` that follow the character `c`
+function whatFollows(c, k, string) {
+  const substrings = substringsOfLength(k + 1, string); // Generate substrings of length `k + 1`
+  return substrings
+    .filter(sub => sub[0] === c) // Keep only substrings that start with `c`
+    .map(sub => sub.slice(1));  // Remove the first character (`c`)
+}
+
+// Example usage
+const result = whatFollows('a', 2, 'abracadabra');
+console.log(result); // Output: ['br', 'ca', 'da', 'br']
+```
+
 
 ***
 ***
@@ -1495,4 +1521,3 @@ ghci>
 
 ***
 ## 3.3 Prefix and Infix Notations
-* 12/06
