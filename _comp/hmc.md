@@ -1495,3 +1495,4 @@ ghci>
 
 ***
 ## 3.3 Prefix and Infix Notations
+* 12/06
