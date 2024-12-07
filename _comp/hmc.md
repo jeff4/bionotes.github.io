@@ -1480,7 +1480,7 @@ const result = whatFollows('a', 2, 'abracadabra');
 console.log(result); // Output: ['br', 'ca', 'da', 'br']
 ```
 
-### 3.1.2.3f explanation of JS function chaining coding style
+#### 3.1.2.3f explanation of JS function chaining coding style
 * Spent some time with [ChatGPT](https://chatgpt.com/share/67514f9e-61d8-8013-bc70-75137ff20ab3) understanding the syntax of chaining 2 functions. Final `return substrings` statements with **.filter** and **.map** is just a stylistic choice for bettern JS readability. Functionally the same as:
 
 ```javascript
