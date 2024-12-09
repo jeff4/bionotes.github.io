@@ -1602,3 +1602,8 @@ ghci>
 * In contrast, operators are applied with **infix notation**; aka the name of the function occurs *between* the arguments.
 * An infix operator can be changed to a prefix function by adding parenthese around it, e.g., `1+2` is infix. To change that to prefix, rewrite it as `(+) 1 2`.
 * This is useful when an operator needs to be passed as an argument to another function.
+
+### 3.3.1 Example zipWidth()
+* Consider the function zipWidth which accepts 2 lists, a binary function, and joins the lists using that function.
+* We can use `zipWith (+)` to add the elements pf **List A** with the elements of **List B**, element-by-element.
+
