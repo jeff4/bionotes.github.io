@@ -1599,3 +1599,6 @@ ghci>
 ## 12/09/2024
 ## 3.3 Prefix and Infix Notations
 * Normal Haskell operators are applied with **prefix notation**, which is just a fancy way of sayhing that the function name comes before the arguments.
+* In contrast, operators are applied with **infix notation**; aka the name of the function occurs *between* the arguments.
+* An infix operator can be changed to a prefix function by adding parenthese around it, e.g., `1+2` is infix. To change that to prefix, rewrite it as `(+) 1 2`.
+* This is useful when an operator needs to be passed as an argument to another function.
