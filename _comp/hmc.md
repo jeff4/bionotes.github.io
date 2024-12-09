@@ -1579,13 +1579,23 @@ ghci> map ( drop 3 ) ["Jeff", "Hwang" ]
 ["f","ng"]
 ```
 
+### 3.2.5 Operator Sections aka Partially Applied Operators
+* In addition to normal functions, partial application also works with operators.
+* These *partially applied operators* are also called **operator sections** aka **sections**. 
+* With operators you can choose whether you apply **the left** or the **right argument**. See left example **`(*2)`** and right example **`(2*)`** below.
 
-
-
-***
-
+```haskell
+ghci> map (*2) [1,2,3]
+[2,4,6]
+ghci> map (2*) [1,2,3]
+[2,4,6]
+ghci> map (1/) [1,2,3,4,5,6]
+[1.0,0.5,0.3333333333333333,0.25,0.2,0.16666666666666666]
+ghci>
+```
 
 
 ***
 ## 12/09/2024
 ## 3.3 Prefix and Infix Notations
+* Normal Haskell operators are applied with **prefix notation**, which is just a fancy way of sayhing that the function name comes before the arguments.
