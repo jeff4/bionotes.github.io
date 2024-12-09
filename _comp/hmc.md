@@ -1596,7 +1596,7 @@ ghci>
 
 
 ***
-## 12/09/2024
+## 12/08/2024
 ## 3.3 Prefix and Infix Notations
 * Normal Haskell operators are applied with **prefix notation**, which is just a fancy way of sayhing that the function name comes before the arguments.
 * In contrast, operators are applied with **infix notation**; aka the name of the function occurs *between* the arguments.
