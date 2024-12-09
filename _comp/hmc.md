@@ -1563,10 +1563,22 @@ ghci>
 * Another example using a partial application with `map`:
 
 ```haskell
-map (drop 1) ["Hello", "World!"] -- output: 
+map (drop 1) ["Hello", "World!"]
 ```
 
-* Output: 
+* Sample output: 
+
+```haskell
+ghci> map ( drop 1 ) ["Hello", "World!" ]
+["ello","orld!"]
+ghci> map ( drop 1 ) ["Jeff", "Hwang" ]
+["eff","wang"]
+ghci> map ( drop 2 ) ["Jeff", "Hwang" ]
+["ff","ang"]
+ghci> map ( drop 3 ) ["Jeff", "Hwang" ]
+["f","ng"]
+```
+
 
 
 
