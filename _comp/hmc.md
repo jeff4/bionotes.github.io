@@ -1518,7 +1518,8 @@ True
 ghci> between 5 50 87
 False
 ```
-* now consider this composite aka higher-order function:
+### 3.2.2 Example 2 -- map() . between()
+* Now consider this composite aka higher-order function:
 
 ```haskell
 ghci> map (between 1 8) [2, 3, 4, 7, 11]
@@ -1526,8 +1527,9 @@ ghci> map (between 1 8) [2, 3, 4, 7, 11]
 ghci> 
 ```
 
-## 12/08/2024
 * We can give **`between`** fewer arguments and still get back new functions, just like in the example with **`add`** above.
+
+### 3.2.3 Currying
 * To examine this more carefully, consider this console output:
 
 ```haskell
@@ -1556,6 +1558,20 @@ ghci>
 * Actually, passing multiple input arguments to a function is really happening via *multiple* single-argument calls.
 * As mentioned above, [currying](https://en.wikipedia.org/wiki/Currying) is what makes partial applications possible.
 * Named after logician, mathematician, and namesake [Haskell B. Curry](https://en.wikipedia.org/wiki/Haskell_Curry).
+
+### 3.2.4 Example 3 -- map() . drop()
+* Another example using a partial application with `map`:
+
+```haskell
+map (drop 1) ["Hello", "World!"] -- output: 
+```
+
+* Output: 
+
+
+
+***
+
 
 
 ***
