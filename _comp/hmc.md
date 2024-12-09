@@ -1550,6 +1550,14 @@ between 1 2 3 :: Bool
 ghci> 
 ```
 * As you can see, the process of [currying](https://en.wikipedia.org/wiki/Currying) allows us to incrementally reduce the multiple input mapping into a **single input** function.
+* What's really happening is that when one writes `Int -> Int -> Int -> Bool`, it really means `Int -> [Int -> (Int -> Bool)]`.
+* That is, a multi-argument function is just a function that returns a function.
+* Similarly, an expression like `betweeen 1 2 3` can be thought of as `[(between 1) 2] 3`.
+* Actually, passing multiple input arguments to a function is really happening via *multiple* single-argument calls.
+* As mentioned above, [currying](https://en.wikipedia.org/wiki/Currying) is what makes partial applications possible.
+* Named after logician, mathematician, and namesake [Haskell B. Curry](https://en.wikipedia.org/wiki/Haskell_Curry).
+
 
 ***
+## 12/09/2024
 ## 3.3 Prefix and Infix Notations
