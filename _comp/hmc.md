@@ -1604,6 +1604,15 @@ ghci>
 * This is useful when an operator needs to be passed as an argument to another function.
 
 ### 3.3.1 Example zipWidth()
-* Consider the function zipWidth which accepts 2 lists, a binary function, and joins the lists using that function.
+* Consider the function zipWith which accepts 2 lists, a binary function, and joins the lists using that function.
 * We can use `zipWith (+)` to add the elements pf **List A** with the elements of **List B**, element-by-element.
 
+```haskell
+ghci> :t zipWith
+zipWith :: (a -> b -> c) -> [a] -> [b] -> [c]
+ghci> zipWith (+) [1,2,3] [9,10,12]
+[10,12,15]
+ghci>
+```
+* Without the ability to change an infix operator like **+** into a prefix function **`(+)`**, we'd have to use a helper function like **add()**.
+* Note thaty omitting the parentheses leads to a type error.
