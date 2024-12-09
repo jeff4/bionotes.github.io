@@ -1529,5 +1529,5 @@ ghci>
 * We can give **`between`** fewer arguments and still get back new functions, just like in the example with **`add`** above.
 
 ***
-## 12/07
+## 12/08
 ## 3.3 Prefix and Infix Notations
