@@ -1526,8 +1526,30 @@ ghci> map (between 1 8) [2, 3, 4, 7, 11]
 ghci> 
 ```
 
+## 12/08/2024
 * We can give **`between`** fewer arguments and still get back new functions, just like in the example with **`add`** above.
+* To examine this more carefully, consider this console output:
+
+```haskell
+ghci> :{
+ghci| between :: Integer -> Integer -> Integer -> Bool
+ghci| between low high x = x < high && x > low
+ghci| :}
+ghci> between 3 10 6
+True
+ghci> between 3 10 11
+False
+ghci> :t between
+between :: Integer -> Integer -> Integer -> Bool
+ghci> :t between 1
+between 1 :: Integer -> Integer -> Bool
+ghci> :t between 1 2
+between 1 2 :: Integer -> Bool
+ghci> :t between 1 2 3
+between 1 2 3 :: Bool
+ghci> 
+```
+* As you can see, the process of [currying](https://en.wikipedia.org/wiki/Currying) allows us to incrementally reduce the multiple input mapping into a **single input** function.
 
 ***
-## 12/08
 ## 3.3 Prefix and Infix Notations
