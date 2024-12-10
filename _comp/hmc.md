@@ -1644,7 +1644,7 @@ ghci>
 6 `div` 2 -- output: 3
 ```
 
-* Another example. Consider these map expressions and output
+* Another example. Consider these **`map`** expressions and output
 
 ```haskell
 ghci> map (+1) [1,2,3]
@@ -1660,7 +1660,7 @@ ghci> map (3*) [1,2,3]
 ghci> 
 ```
 
-* This alternate syntax using backticks converts the `map` function into an operator that does the same thing:
+* The following syntax uses **backticks** to convert the **`map`** function into an operator that does the same thing:
 
 ```haskell
 ghci> (+1) `map` [1,2,3]
