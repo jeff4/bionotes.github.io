@@ -1644,9 +1644,41 @@ ghci>
 6 `div` 2 -- output: 3
 ```
 
-* Another example. These two expressions are equivalent:
+* Another example. Consider these map expressions and output
 
 ```haskell
-map (+1) [1,2,3]
+ghci> map (+1) [1,2,3]
+[2,3,4]
+ghci> map (+2) [1,2,3]
+[3,4,5]
+ghci> map (*2) [1,2,3]
+[2,4,6]
+ghci> map (2*) [1,2,3]
+[2,4,6]
+ghci> map (3*) [1,2,3]
+[3,6,9]
+ghci> 
 ```
+
+* This alternate syntax using backticks converts the `map` function into an operator that does the same thing:
+
+```haskell
+ghci> (+1) `map` [1,2,3]
+[2,3,4]
+ghci> (+2) `map` [1,2,3]
+[3,4,5]
+ghci> (*2) `map` [1,2,3]
+[2,4,6]
+ghci> (2*) `map` [1,2,3]
+[2,4,6]
+ghci> (3*) `map` [1,2,3]
+[3,6,9]
+ghci>
+```
+
+***
+
+## 12/09/2024
+## 3.4 Lambdas
+
 
