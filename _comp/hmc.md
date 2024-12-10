@@ -1698,5 +1698,5 @@ filter (\x -> x>7) [1,10,100]
 
 * In other words, we don't need to name or define the helper function (e.g., **`let big x = ...`**) 
 
-* Note that in Haskell, the **backslash character (\\)** represents the lambda (&#955;).
-* The Haskell expression *`\x -> x + 1`* is trying to mimic the mathematical notation **`&#955;x . x+1`**
+* Note that in Haskell, the **backslash character (\\)** represents the **lambda (&#955;)**.
+* The Haskell expression *`\x -> x + 1`* is trying to mimic the mathematical notation **&#955;x . x+1**
