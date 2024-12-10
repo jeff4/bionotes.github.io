@@ -1705,3 +1705,4 @@ filter (\x -> x>7) [1,10,100]
 * Python equivalent is `lambda x: x+1`.
 * For more on arrow functions within JS, see David Flanagan, Chapter 8, section 8.1.3 Arrow Functions. P. 344 of 1245.
 	* See also prelim on p. 339. ES6 introduced arrow functions to JS.
+* JH: It seems to me that only a small part of JS 'arrow functions' is the syntatic sugar of writing a concise function quickly and anonymously (no name to function in function declaration). The bigger aspect is ability to compose functions, pass functions as arguments / input parameters into other functions to make JS accept a functional programming paradigm. Note the *bind()* aspect of JS programming.
