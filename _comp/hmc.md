@@ -1596,7 +1596,7 @@ ghci>
 
 
 ***
-## 12/08/2024
+## 12/09/2024
 ## 3.3 Prefix and Infix Notations
 * Normal Haskell operators are applied with **prefix notation**, which is just a fancy way of sayhing that the function name comes before the arguments.
 * In contrast, operators are applied with **infix notation**; aka the name of the function occurs *between* the arguments.
@@ -1615,4 +1615,24 @@ ghci> zipWith (+) [1,2,3] [9,10,12]
 ghci>
 ```
 * Without the ability to change an infix operator like **+** into a prefix function **`(+)`**, we'd have to use a helper function like **add()**.
-* Note thaty omitting the parentheses leads to a type error.
+* Note that omitting the parentheses leads to a type error.
+
+```haskell
+ghci> zipWith (+) [0,0,0] [1,2,3]
+[1,2,3]
+ghci> zipWith + [0,0,0] [1,2,3]
+
+<interactive>:3:11: error:
+    • Couldn't match expected type: [a1]
+                                    -> (a -> b -> c) -> [a] -> [b] -> [c]
+                  with actual type: [a0]
+    • The function ‘[0, 0, 0]’ is applied to one value argument,
+        but its type ‘[a0]’ has none
+      In the second argument of ‘(+)’, namely ‘[0, 0, 0] [1, 2, 3]’
+      In the expression: zipWith + [0, 0, 0] [1, 2, 3]
+    • Relevant bindings include
+        it :: (a -> b -> c) -> [a] -> [b] -> [c]
+          (bound at <interactive>:3:1)
+ghci> 
+```
+
