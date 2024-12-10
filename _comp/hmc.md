@@ -1700,3 +1700,6 @@ filter (\x -> x>7) [1,10,100]
 
 * Note that in Haskell, the **backslash character (\\)** represents the **lambda (&#955;)**.
 * The Haskell expression *`\x -> x + 1`* is trying to mimic the mathematical notation **&#955;x . x+1**
+* Note! You never *need* to use a lambda expression. You always have the option of defining a function normally using **let** or **where**.
+* JavaScript equivalent is the **arrow function** `x => x+1`.
+* Python equivalent is `lambda x: x+1`.
