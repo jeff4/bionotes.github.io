@@ -1636,7 +1636,7 @@ ghci> zipWith + [0,0,0] [1,2,3]
 ghci> 
 ```
 
-### 3.3.2 Backticks (/`) turn prefix functions into infix operators
+### 3.3.2 Backticks (`) turn prefix functions into infix operators
 * **`div 6 2`** means "Divide 6 by 2" with result: **`3`**
 * Backticks mean we can turn that prefix functions like **div** into infix operators as long as these *functions are binary -- aka they require/accept 2 arguments as input*:
 
