@@ -1680,5 +1680,21 @@ ghci>
 
 ## 12/09/2024
 ## 3.4 Lambdas
+* The last "spanner" we need in our functional programming toolbox is the **lambda (&#955;)**.
+* Lambda expressions are *anonymous functions*.
+* Lambdas let us rewrite a function like:
+
+```haskell
+let big x = x>7 in filter big [1,10,100]
+```
+
+* into this:
+
+```haskell
+filter (\x -> x>7) [1,10,100]
+```
+
+***
+
 
 
