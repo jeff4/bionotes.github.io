@@ -1696,5 +1696,5 @@ filter (\x -> x>7) [1,10,100]
 
 ***
 
-
+* In other words, we don't need to name or define the helper function (e.g., **`let big x = ...`**) 
 
