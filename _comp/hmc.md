@@ -1678,7 +1678,7 @@ ghci>
 
 ***
 
-## 12/09/2024
+## 12/08/2024
 ## 3.4 Lambdas
 * The last "spanner" we need in our functional programming toolbox is the **lambda (&#955;)**.
 * Lambda expressions are *anonymous functions*.
