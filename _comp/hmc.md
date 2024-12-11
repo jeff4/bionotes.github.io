@@ -1678,7 +1678,7 @@ ghci>
 
 ***
 
-## 12/08/2024
+## 12/09/2024
 ## 3.4 Lambdas
 * The last "spanner" we need in our functional programming toolbox is the **lambda (&#955;)**.
 * Lambda expressions are *anonymous functions*.
@@ -1706,3 +1706,11 @@ filter (\x -> x>7) [1,10,100]
 * For more on arrow functions within JS, see David Flanagan, Chapter 8, section 8.1.3 Arrow Functions. P. 344 of 1245.
 	* See also prelim on p. 339. ES6 introduced arrow functions to JS.
 * JH: It seems to me that only a small part of JS 'arrow functions' is the syntatic sugar of writing a concise function quickly and anonymously (no name to function in function declaration). The bigger aspect is ability to compose functions, pass functions as arguments / input parameters into other functions to make JS accept a functional programming paradigm. Note the *bind()* aspect of JS programming.
+* Mooc says 'lambda expressions are quite powerful constructs which have a deep theory of their own, known as [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus).'
+	* Some even consider purely functional programming languages such as Haskell to simply be typed extensions of lambda calculus with extra syntax.
+
+***
+
+## 12/11/2024
+## Sidenode: The . and $ operators
+* The two most common operators in Haskell codebases are **`.`** and **`$`**.
