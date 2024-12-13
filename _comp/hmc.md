@@ -1737,3 +1737,6 @@ g = (+1) . quadruple        -- computes 4*x + 1
 third = head . tail . tail  -- fetches the third element of a list
 ```
 
+***
+
+12/13/2024
