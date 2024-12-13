@@ -1721,7 +1721,7 @@ filter (\x -> x>7) [1,10,100]
 (.) :: (b -> c) -> (a -> b) -> a -> c
 ```
 
-And this is what it does:
+* And this is what it does:
 
 ```haskell
 (f.g) x -- output: f (g x)
