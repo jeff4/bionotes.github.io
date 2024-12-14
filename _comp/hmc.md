@@ -1769,5 +1769,12 @@ in filter notEmpty [[1,2,3],[],[4]]
 filter ( not . null ) [[1,2,3],[],[4]]
 ```
 
+### 3.5.2 The $ operator more details
+* Type: 
 
+```haskell
+ghci> :t ($)
+($) :: (a -> b) -> a -> b
+```
 
+* It takes as an input/argument something of type **`(a->b)`**
