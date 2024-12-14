@@ -1712,7 +1712,7 @@ filter (\x -> x>7) [1,10,100]
 ***
 
 ## 12/11/2024
-## Sidenode: The . and $ operators
+## 3.5 Sidenote: The . and $ operators
 * The two most common operators in Haskell codebases are **`.`** and **`$`**.
 
 ### 3.5.1 The . operator -- Function Composition
@@ -1739,4 +1739,5 @@ third = head . tail . tail  -- fetches the third element of a list
 
 ***
 
-12/13/2024
+## 12/13/2024
+#### 3.5.1.2 Reimplementing doTwice() with `.`
