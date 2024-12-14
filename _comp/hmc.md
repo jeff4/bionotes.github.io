@@ -1741,3 +1741,33 @@ third = head . tail . tail  -- fetches the third element of a list
 
 ## 12/13/2024
 #### 3.5.1.2 Reimplementing doTwice() with `.`
+* Note that one can use the **`doTwice`** both as an *applied only to a fucnction*, or as *applied to a function* + *applied as a value*. 
+
+```haskell
+doTwice :: (a -> a) -> a -> a
+doTwice f = f . f
+```
+
+***
+
+```haskell
+let ttail - doTwice tail
+in ttail [ 1, 2, 3, 4 ] -- output [3,4]
+
+(doTwice tail) [1,2,3,4] -- output: [3,4]
+doTwice tail [1,2,3,4] -- output: [3,4]  
+```
+
+***
+* Often function composition is not used when defining a new function; but instead to avoid defining a helper fnction.
+* Consider the difference between these 2 expressions:
+
+```haskell
+let notEmpty x = not (null x)
+in filter notEmpty [[1,2,3],[],[4]]
+
+filter ( not . null ) [[1,2,3],[],[4]]
+```
+
+
+
