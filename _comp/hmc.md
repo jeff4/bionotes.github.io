@@ -1779,4 +1779,4 @@ ghci> :t ($)
 
 * It takes as an input/argument something of type **`(a->b)`**
 
-## 12/15/2024
+## 12/16/2024
