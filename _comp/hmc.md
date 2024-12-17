@@ -1183,7 +1183,7 @@ doTwice makeCool "Haskell"
 
 ***
 ## 11/21/2024
-### 3.1.1. Functional Programming on LIsts.
+### 3.1.1. Functional Programming on Lists.
 * That was a bit boring. Luckily there are many useful list functions that take functions as arguments.
 * By the way, functions that take functions as arguments (or return functions) are often called **higher-order functions**.
 	* 12/16/2024 update. Review: basic functions accept simple types. If a Special_Function accepts "nested" or multiple levels of "sub-nested" functions, that Special_Function is called a **higher-order** function.
