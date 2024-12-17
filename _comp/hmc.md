@@ -1765,18 +1765,21 @@ doTwice tail [1,2,3,4] -- output: [3,4]
 ```haskell
 let notEmpty x = not (null x)
 in filter notEmpty [[1,2,3],[],[4]]
+--output: [[1,2,3],[4]] 
 
 filter ( not . null ) [[1,2,3],[],[4]]
+--output: [[1,2,3],[4]] 
 ```
 
 ### 3.5.2 The $ operator more details
-* Type: 
+* Consider it's type: 
 
 ```haskell
 ghci> :t ($)
 ($) :: (a -> b) -> a -> b
 ```
 
-* It takes as an input/argument something of type **`(a->b)`**
-
-## 12/16/2024
+* It takes as an input/argument something of type **`(a->b)`** and returns a value of type **b**.
+* In other words, **$** is a function application operator.
+* The expression **`f $ x`** is the same as **`f x`**.
+* This seems pretty useless, but it means that the **$** operator can be used to eliminate parentheses!
