@@ -856,7 +856,7 @@ ghci>
 * The solution Haskell offers us instead is to change our return type to a **`Maybe`** type.
 * This is pure, safe, and neat.
 * The type **`Maybe a`** has two *constructors*: **Nothing** and **Just**.
-* **Nothing is simply a constant.
+* **Nothing** is simply a constant.
 * **Just** takes a parameter. See table in the [Mooc course, Section 2.6](https://haskell.mooc.fi/part1#the-maybe-type).
 * We can think of **`Maybe a`** as being a bit like **`[a]`** except there can only be 0 or 1 elements, not more.
 * Alternatively, one can think of **`Maybe a`** as introducing a null value to the type **`a`**.
