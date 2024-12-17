@@ -1247,7 +1247,9 @@ wrapJust :: [a] -> [Maybe a]
 ghci> wrapJust [1,2,3]
 [Just 1, Just 2, Just 3] 
 ```
+***
 
+## Interlude
 * **12/16/2024 update**. Note that it's just a programming convention to use **`xs`** to indicate a list of values instead of the simpler **x**. But per [this ChatGPT dialogue](https://chatgpt.com/share/676108eb-373c-8013-bc39-858a2f05c7d9), it's the *map* function in the function declaration `wrapJust xs = map Just xs` that makes haskell expect a list as input. 
 
 ```haskell
