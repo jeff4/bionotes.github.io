@@ -1797,3 +1797,6 @@ ghci> :t ($)
 * In other words, **$** is a function application operator.
 * The expression **`f $ x`** is the same as **`f x`**.
 * This seems pretty useless, but it means that the **$** operator can be used to eliminate parentheses!
+
+
+## 12/17
