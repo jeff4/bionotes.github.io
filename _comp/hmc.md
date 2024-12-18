@@ -1325,7 +1325,7 @@ console.log(isPalindrome("abac")); // false
 ```
 
 * I then queried ChatGPT about idiomatic Haskell. Do I need to have an equivalent to JS's intermediate variables and `return result;` statement?
-	* The answer is No, because the result of the expressions is constantly 'coming' out of the function in Haskell.
+	* The answer is No, because the result of the expressions is constantly 'coming out' of the function in Haskell.
 	* For more complex functions or expressions, it's ok to use **`let` bindings** or **`where` clauses** to clarify intent. This is proper idiomatic Haskell.
 	* For more, see this [chatgpt convo](https://chatgpt.com/share/674d1314-f04c-8013-ac14-697bbeb509c0) 
 
@@ -1773,7 +1773,7 @@ doTwice tail [1,2,3,4] -- output: [3,4]
 ```
 
 ***
-* Often function composition is not used when defining a new function; but instead to avoid defining a helper fnction.
+* Often function composition is not used when defining a new function; but instead to avoid defining a helper function.
 * Consider the difference between these 2 expressions:
 
 ```haskell
@@ -1785,6 +1785,8 @@ filter ( not . null ) [[1,2,3],[],[4]]
 --output: [[1,2,3],[4]] 
 ```
 
+***
+## 12/18/2024
 ### 3.5.2 The $ operator more details
 * Consider it's type: 
 
@@ -1797,6 +1799,19 @@ ghci> :t ($)
 * In other words, **$** is a function application operator.
 * The expression **`f $ x`** is the same as **`f x`**.
 * This seems pretty useless, but it means that the **$** operator can be used to eliminate parentheses!
+* These 2 expressions are the same:
+
+```haskell
+head (reverse "abcd") -- Expression 1
+head $ reverse "abcd" -- Expression 2
+```
+
+* A more impressive example:
+
+```haskell
+-- Using parens instead of $
+
+reverse (map head (map reverse (["Haskell", "pro"] ++ ["dodo", "lyric"])))
+```
 
 
-## 12/17
