@@ -1819,6 +1819,8 @@ reverse (map head (map reverse (["Haskell", "pro"] ++ ["dodo", "lyric"])))
 reverse . map head . map reverse $ ["Haskell","pro"] ++ ["dodo","lyric"]
 ```
 
+***
+
 * Sometimes the operators **`.`** and **`$`** are useful as fnctions in their own right.
 * For example, a list of functions can be applied to an argument using a map and a section of `$`:
 
