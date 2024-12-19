@@ -1823,3 +1823,17 @@ reverse . map head . map reverse $ ["Haskell","pro"] ++ ["dodo","lyric"]
 * For example, a list of functions can be applied to an argument using a map and a section of `$`:
 
 
+```haskell
+--Expression 1
+map ($"string") [reverse, take 2, drop 2]
+
+--Expression 2
+[reverse $ "string", take 2 $ "string", drop 2 $ "string"]
+
+--Expression 3
+[reverse "string", take 2 "string", drop 2 "string"]
+  
+```
+* See this [ChatGPT](https://chatgpt.com/share/67639e82-b2fc-8013-81b8-5b6e3ec8c32d) to understand how/why the above three expressions are identical.
+
+
