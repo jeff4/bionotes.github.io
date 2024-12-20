@@ -1838,4 +1838,4 @@ map ($"string") [reverse, take 2, drop 2]
 ```
 * See this [ChatGPT](https://chatgpt.com/share/67639e82-b2fc-8013-81b8-5b6e3ec8c32d) to understand how/why the above three expressions are identical.
 
-12/20
+12/21
