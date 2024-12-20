@@ -403,6 +403,7 @@ f4_longest_helper number maxlength n =
 ## Update on 12/20/2024
 * Used this [ChatGPT dialogue](https://chatgpt.com/share/67653088-2f10-8013-a7d9-a5522f266fcb) to convert the Haskell Collatz functions into JS equivalents.
 * Same dialogue examines comuptational efficiency of Haskell vs. JS here.
+* JS code exists in `proj-2/_js-haskell/09...` js file. Tested and runs fine using node.
 
 
 
