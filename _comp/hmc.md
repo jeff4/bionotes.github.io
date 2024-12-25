@@ -1773,7 +1773,7 @@ doTwice f = f . f
 ***
 
 ```haskell
-let ttail - doTwice tail
+let ttail = doTwice tail
 in ttail [ 1, 2, 3, 4 ] -- output [3,4]
 
 (doTwice tail) [1,2,3,4] -- output: [3,4]
@@ -1845,7 +1845,23 @@ map ($"string") [reverse, take 2, drop 2]
   
 ```
 * See this [ChatGPT](https://chatgpt.com/share/67639e82-b2fc-8013-81b8-5b6e3ec8c32d) to understand how/why the above three expressions are identical.
+* If this seems complicated, don't worry. You don't need to use `.` or `$` in your own code until you are comfortable with these infix operators.
+* For more on reading other people's Haskell that uses `.` and `$`, check out this [article](https://typeclasses.com/featured/dollar)
 
-## 12/23
+***
 
+## 3.6 Example: Rewriting whatFollows()
+* Now let's rewrite **`whatFollows`** example using these tools. The original version:
+
+```haskell
+substringsOfLength :: Int -> String -> [String]
+substringsOfLength n string = map shorten (tails string)
+  where shorten s = take n s
+
+whatFollows :: Char -> Int -> String -> [String]
+whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string))
+  where match sub = take 1 sub == [c]
+```
+
+* To get started, let's get rid of the helper function **`substringsOfLength`** and move all the code to `whatFollows`.
 
