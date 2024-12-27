@@ -1865,4 +1865,4 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 
 * To get started, let's get rid of the helper function **`substringsOfLength`** and move all the code to `whatFollows`.
 
-## 12/25
+## 12/26
