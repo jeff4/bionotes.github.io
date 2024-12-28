@@ -22,4 +22,8 @@ sitemap: false
 * **8:30** Two models for programming: Turing Machines and Lambda Calculus.
 	* They can accomplish all the sam things, but operate very differently. 
 * **9:15** A lot of people think of Scheme as a functional programming language. That's technically *not* true because functional programming languages do not allow assignments but Scheme does.
-* Updated reports
+	* Most Scheme programmers try to mostly avoid using assignments but it is not completely forbidden.
+* Scheme is standardized through **R*n*RS** where *n* refers to an integer. Full name is Revised<sup>n</sup> Report on the Algorithmic Language Scheme.
+	* For more, see the [Standardization section](https://en.wikipedia.org/wiki/History_of_the_Scheme_programming_language#Standardization) of the [wiki page](https://en.wikipedia.org/wiki/History_of_the_Scheme_programming_language) on the history of SCheme.
+	* The latest large standard is R6RS, ratified in 2007.
+	* From 2022, the [homepage](https://r7rs.org) and [small language report with corrected errata](https://standards.scheme.org/corrected-r7rs/r7rs.html) for R7RS.
