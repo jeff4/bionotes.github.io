@@ -25,6 +25,6 @@ sitemap: false
 	* Most Scheme programmers try to mostly avoid using assignments but it is not completely forbidden.
 * Scheme is standardized through **R*n*RS** where *n* refers to an integer. Full name is Revised<sup>n</sup> Report on the Algorithmic Language Scheme.
 	* For more, see the [Standardization section](https://en.wikipedia.org/wiki/History_of_the_Scheme_programming_language#Standardization) of the [wiki page](https://en.wikipedia.org/wiki/History_of_the_Scheme_programming_language) on the history of SCheme.
-	* The latest large standard is [R6RS](https://www.r6rs.org), ratified in 2007.
+	* The latest large standard is [R<sup>6</sup>RS](https://www.r6rs.org), ratified in 2007.
 	* The latest small revision is called [R7RS](https://r7rs.org) from 2022. The [website](https://www.r6rs.org) contains PDF and [html versions](https://standards.scheme.org/corrected-r7rs/r7rs.html) for the R7RS spec.
 f th
