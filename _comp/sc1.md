@@ -37,3 +37,7 @@ sitemap: false
 ## Scheme Syntax
 * **13:08**
 * Goal of Scheme is to have as minimal syntax as possible. 
+* Basic procedure call uses *prefix'd* **function** followed by *n* number of *arguments*.
+	* Procedures can have dashes inside
+	* There are no in-fix operators like simple math operators **+**, **-**, **x**, **/**, etc. Or more accurately, these operators exist but only as prefix operators that come *first* before the arguments
+    * Benefit is that this is that [Polish Notation](https://en.wikipedia.org/wiki/Polish_notation) means that one can have unary, binary, ternary, or arbitrarily large number of arguments without getting tangeled up with how does one wrangle with the syntax of binary operators like **+**.
