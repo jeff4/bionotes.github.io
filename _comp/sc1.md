@@ -41,3 +41,23 @@ sitemap: false
 	* Procedures can have dashes inside
 	* There are no in-fix operators like simple math operators **+**, **-**, **x**, **/**, etc. Or more accurately, these operators exist but only as prefix operators that come *first* before the arguments
     * Benefit is that this is that [Polish Notation](https://en.wikipedia.org/wiki/Polish_notation) means that one can have unary, binary, ternary, or arbitrarily large number of arguments without getting tangeled up with how does one wrangle with the syntax of binary operators like **+**.
+* If statements.
+
+```scheme
+(if
+  condition-check-procedure
+  then-procedure
+  else-procedure
+)
+```
+
+### Example
+```scheme
+(if (< x 3)
+  (display "I am a number less than 3")
+  (display "I am a number that is 3 or greater")
+)
+``` 
+
+
+
