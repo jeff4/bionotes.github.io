@@ -109,3 +109,9 @@ sitemap: false
 
 ## Recursion. 
 * **20:35** Scheme really wants you to use recursion instead of iteration.
+	* All routines can be written nested of the same procedure (aka **recursively**) *or* using the `while` loop (aka iteratively/procedurely)
+* Procedural routines talk about the *method* of how something is done
+* In contrast, recursive routines talk about the *logic* of how something is done
+* Scheme emphasizes the focus on logic and makes everything recursive.
+* **21:15**
+
