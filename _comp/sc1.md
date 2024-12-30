@@ -83,6 +83,29 @@ sitemap: false
 * `cons` used to *construct* lists, e.g. this single line `(cons 1 (cons 2 (cons 3 '())))` outputs this: **(1 2 3)**.
 	* Note that one must first *create* an empty list with `()`, and then add elements (starting with 3, then 2, then 1) to that empty list.
 * Local variables are generated with the **`let`** command. 
-* **18:10** There are many types of let commmands, the most common is **`let*`**
+* **18:10** There are many types of **`let`** commmands, the most common is **`let*`**
+	* Other variants: vanilla **let**, **letrec**, etc.
 
+## Basic Syntax: Creating a function with Lambda
 
+```scheme
+(lambda
+  parameter-list
+  function-body
+  more-function-body
+  ...
+)
+```
+* The last expression evaluated is the return value of the function.
+* Lamdbda functions are *'born anonymous*, but can be assigned names using *let*, *set!*, or *define*.
+* Examples of procedures that multiply by 2x, using *define*, *let*`+ local variable, etc.
+* 
+
+## Misc Synatax
+* Empty list `'()`
+* Booleans `#t` for **true**; `#f` for **false**
+* Functions that yield side-effects are marked with a **`!`**, e.g,. `set!` modifies a variable.
+* single line comments begins and goes through EOL using the semicolon **`;`**.
+
+## Recursion. 
+* **20:35** Scheme really wants you to use recursion instead of iteration.
