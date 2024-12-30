@@ -60,7 +60,12 @@ sitemap: false
 )
 ``` 
 
+* Note: **`<`** is a procedure call, it is *not* an infix operator, followed by arguments **`x`** **`3`**
+
 ***
 
 ## 12/29/2024
-
+## Basic Syntax: Lists of Values
+* **15:18** Everything in Scheme is a list, even the code.
+* Use a quote in front of a group of values to specify that it is a list instead of a procedure call. 
+	* Note that Scheme refers exclusively to functions as **procedures**. For more on this plus similarities/differences with Haskell, see [ChatGPT](https://chatgpt.com/share/6771e4ba-6388-8013-a730-2a23f4244dc5)
