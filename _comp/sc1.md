@@ -110,8 +110,21 @@ sitemap: false
 ## Recursion. 
 * **20:35** Scheme really wants you to use recursion instead of iteration.
 	* All routines can be written nested of the same procedure (aka **recursively**) *or* using the `while` loop (aka iteratively/procedurely)
+	* Maybe better way of thinking about recursion is saying *a function calls itself*.
 * Procedural routines talk about the *method* of how something is done
 * In contrast, recursive routines talk about the *logic* of how something is done
 * Scheme emphasizes the focus on logic and makes everything recursive.
-* **21:15**
-
+* **21:20** A Scheme program usually does 3 things:
+	1. Check to see if you are done
+	1. Perform a single task well
+	1. Narrow a bigger task to a smaller task
+* **22:00** By encapsulating into a recursive programs, we can:
+	1. Eliminate problems with variables that we left or forgot to set
+	1. Explicitly mark **control-handling** vs. **task-handling** even for non-standard flows
+	1. Create a function which is more easily proven to be correct, since all in-flows and out-flows are marked
+* **22:37** Example of a program that eats 100 apples. Comparison of procedural vs. recursive implementation 
+* **24:33** Tail Call elimination and why recursion in Scheme is *not* expensive
+	* scheme was the first programming language to introduce tail-call elimination
+	* TC-elimination does **not** eat stack space. Stops the explosion in the call stack that comes from repeated resursive calls. The recursive version of the 100 apples program has a *constant* stack size
+	* eliminates many tradeoffs between writing elegant code (well-structured, easy to understand) versus optimized code (performant/efficient)
+* **26:06** Poorly formatted table that shows programming languages that support tail calls (scheme, scala, f#, lua, **JS *after* ES6** and for Safari only), those that don't (C#, Java, Python, JS *before* ES6). And it depends for Lisp overall, C, and Obj-C.
