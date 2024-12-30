@@ -80,5 +80,9 @@ sitemap: false
 * Legacies of developing LISP on the [IBM 704](https://en.wikipedia.org/wiki/IBM_704)
 * `car` = Contents of Address part of the Register
 * `cdr` = Contents of Decrement of the Register
+* `cons` used to *construct* lists, e.g. this single line `(cons 1 (cons 2 (cons 3 '())))` outputs this: **(1 2 3)**.
+	* Note that one must first *create* an empty list with `()`, and then add elements (starting with 3, then 2, then 1) to that empty list.
+* Local variables are generated with the **`let`** command. 
+* **18:10** There are many types of let commmands, the most common is **`let*`**
 
 
