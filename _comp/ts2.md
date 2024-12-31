@@ -1,6 +1,6 @@
 ---
 title: LTS 2
-permalink: /l2ts/
+permalink: /ts2/
 sitemap: false
 ---
 
