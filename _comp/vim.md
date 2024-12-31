@@ -327,5 +327,5 @@ vim.opt.relativenumber = true
 ## 12/30/2024
 * While playing around with tabs/spaces/indents in a Scheme program, two simple commands. 
 	* **`:set ruler`** to turn on column/line number display in bottom right.
-	* **`xx |`** (pipe) jumps the cursor to the xx column. e.g., to jump to the 24th column on the current line, type **234 |`**.
+	* **`xx |`** (pipe) jumps the cursor to the xx column. e.g., to jump to the 24th column on the current line, type **`23 |`**.
 	* Note that column numbers are 1-indexed rather than zero-indexed. So if each tab is 2 spaces, the proper indent for each successive indent is `1, 3, 5, 7, etc.`.
