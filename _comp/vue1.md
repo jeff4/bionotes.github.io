@@ -4,6 +4,7 @@ permalink: /vue1/
 sitemap: false
 ---
 
+### Note: Although page title is `vue1`, all content is focused on Vue Version 3
 ## Beginning Vue 3 Development
 * Subtitle: Learn Vue.JS 3 Web Development
 * Author: Greg Lim, Twitter: @greglim81
