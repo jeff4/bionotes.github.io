@@ -1,16 +1,15 @@
 ---
-title: LTS 1
-permalink: /l1ts/
+title: TypeScript 1 
+permalink: /ts1/
 sitemap: false
 ---
 
 # Learning TypeScript, page 1
 * Josh Goldberg
 * O'Reilly Media, 2022
-* LTS = Learning TypeScript by Josh Goldberg
-* [LTS 1](/l1ts)
-* [LTS 2](/l2ts)
-
+* TypeScript Notes. LTS = Learning TypeScript by Josh Goldberg
+* [LTS aka TS1 aka TypeScript 1](/ts1)
+* [LTS aka TS2 aka TypeScript 2](/ts2)
 
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
@@ -1228,7 +1227,8 @@ function format( data: string, needle?: string, haystack?: string ) {
 	return needle && haystack ? data.replace( needle, haystack ): data;
 }
 ```
-
+## End of Chapter 5: Functions
+***
 ***
 ## register info
 * to paste *```javascript* from the register **j**, type `"jp`.
