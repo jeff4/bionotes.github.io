@@ -1,5 +1,5 @@
 ---
-title: LTS 2
+title: TypeScript 2
 permalink: /ts2/
 sitemap: false
 ---
@@ -7,9 +7,10 @@ sitemap: false
 # Learning TypeScript, page 2
 * Josh Goldberg
 * O'Reilly Media, 2022
-* LTS = Learning TypeScript by Josh Goldberg
-* [LTS 1](/l1ts)
-* [LTS 2](/l2ts)
+* TypeScript Notes. LTS = Learning TypeScript by Josh Goldberg
+* [LTS aka TS1 aka TypeScript 1](/ts1)
+* [LTS aka TS2 aka TypeScript 2](/ts2)
+
 
 ## 8/02/2024
 ### Conceptual overview of various chapters to follow.
@@ -3377,13 +3378,27 @@ function logInput( input: string ) {
 ### 10.9.3 Generic Naming Conventions p. 207
 * The standard naming convention for type parameters in many languages, TS, included, is to default to calling a first type argument **T** (i.e., *type* or *template*).
 * The, any subsequent type parameters are named **U**, **V**, **W**, etc.
-* If some contextual information is known...
-
+* If some contextual information is known about how the type argument is supposed to be used, the convention sometimes extends to using the first letter of the term for that usage, e.g., **K** = 'key', **V** = 'value', etc.
 
 #### 10.9.3.1 Examples 1+2, p. 207
+* Unfortunately, naming a type argument with just 1 letter can be confusing. For example, what the hell do **L** and **V** refer to below?
+
+```typescript
+function labelBox<L, V>( l: L, v: V ) { /*...*/ }
+```
+
+* When the intent of a generic isn'g clear from a single-letter **T**, it's best to use descriptive names for generic types to indicate what it is used for. Rewriting the above **labelBox()** function like this is much clearer:
+
+```typescript
+function labelBox<Label, Value>( label: Label, value: Value ) {...}
+```
+
+* Whenever a construct has multiple type parameters--or the purpose of a single type argument is not immediately clear--consider using fully written names for readability. Instead of single-letter abbreviations!
+
 ***
 
 ## 10.10 Summary of Chapter 10 p. 208
+* In this chapter we made generics out of: classes, functions, interfaces, and type aliases by allowing them to work with type parameters.
 ***
 
 
