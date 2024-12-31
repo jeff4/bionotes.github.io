@@ -153,7 +153,7 @@ sitemap: false
 )
 ```
 
-* And some sample commands
+* And some sample commands:
 
 ```scheme
 (define counter1 (make-counter 10))
@@ -163,3 +163,6 @@ sitemap: false
 (counter2)    ; output 102
 (counter1)    ; output 12
 ```
+### Objects
+* **31:16** Objects are just advanced closures.
+
