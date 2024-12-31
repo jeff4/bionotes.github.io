@@ -1,4 +1,3 @@
-
 ---
 title: Scheme 3 - SICP Notes
 permalink: /sc3/
