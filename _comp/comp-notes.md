@@ -1007,3 +1007,6 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 
 ## 11/27/2024
 * Refound this old resource that uses GPT-3 to summarize arXiv papers. Hasn't been updated since March 2023, looks like. [arXiv-summary](https://www.arxiv-summary.com/archive/)
+
+## 12/30/2024
+* [Beginner article on SQLite](https://avi.im/blag/2024/sqlite-facts/) with history, overview, and significance. [HN thread](https://news.ycombinator.com/item?id=42549807) and [PDF of SQLite: Past, Present, Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf) by Gaffney, D. Richard Hipp (aka *DRH* co-creator), et al. from 2022.
