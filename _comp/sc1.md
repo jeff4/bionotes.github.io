@@ -101,13 +101,13 @@ sitemap: false
 * Examples of procedures that multiply by 2x, using *define*, *let*`+ local variable, etc.
 * 
 
-## Misc Synatax
+## Misc Syntax
 * Empty list `'()`
 * Booleans `#t` for **true**; `#f` for **false**
 * Functions that yield side-effects are marked with a **`!`**, e.g,. `set!` modifies a variable.
 * single line comments begins and goes through EOL using the semicolon **`;`**.
 
-## Recursion. 
+## Recursion 
 * **20:35** Scheme really wants you to use recursion instead of iteration.
 	* All routines can be written nested of the same procedure (aka **recursively**) *or* using the `while` loop (aka iteratively/procedurely)
 	* Maybe better way of thinking about recursion is saying *a function calls itself*.
@@ -128,3 +128,38 @@ sitemap: false
 	* TC-elimination does **not** eat stack space. Stops the explosion in the call stack that comes from repeated resursive calls. The recursive version of the 100 apples program has a *constant* stack size
 	* eliminates many tradeoffs between writing elegant code (well-structured, easy to understand) versus optimized code (performant/efficient)
 * **26:06** Poorly formatted table that shows programming languages that support tail calls (scheme, scala, f#, lua, **JS *after* ES6** and for Safari only), those that don't (C#, Java, Python, JS *before* ES6). And it depends for Lisp overall, C, and Obj-C.
+
+## Closures
+* **27:30** Closures allow for function-generating functions
+* If a function is created in a local context, all calls (present and future) to that function will be performed in the same local context
+	* this is true even if that context has been returned from!
+* Essentially, a function retains a pointer to the stack frame that originally created it
+* **28:40** Example: Counter
+
+```scheme
+(define make-counter
+  (lambda (starting-number)
+    (let (
+           (next-value
+             (lambda ()
+               (set! starting-number (+ starting-number 1))
+               starting-number
+             )
+           )
+         )
+         next-value
+    )
+  )
+)
+```
+
+* And some sample commands
+
+```scheme
+(define counter1 (make-counter 10))
+(define counter2 (make-counter 100))
+(counter1)    ; output 11
+(counter2)    ; output 101
+(counter2)    ; output 102
+(counter1)    ; output 12
+```
