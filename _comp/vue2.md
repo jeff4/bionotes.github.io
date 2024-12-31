@@ -4,6 +4,7 @@ permalink: /vue2/
 sitemap: false
 ---
 
+### Note: Although page title is `vue2`, all content is focused on Vue Version 3
 ***
 
 ## 9/10/2024
