@@ -1,5 +1,5 @@
 ---
-title: GVU - Greg Lim Vue.js 
+title: Vue1 - Vue.js Greg Lim Book
 permalink: /vue1/
 sitemap: false
 ---
