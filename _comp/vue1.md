@@ -1,6 +1,6 @@
 ---
 title: GVU - Greg Lim Vue.js 
-permalink: /gvu/
+permalink: /vue1/
 sitemap: false
 ---
 
