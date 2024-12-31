@@ -1,6 +1,6 @@
 ---
 title: PDV notes on Vue Design Practices
-permalink: /pdv/
+permalink: /vue2/
 sitemap: false
 ---
 
