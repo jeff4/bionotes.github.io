@@ -1,5 +1,5 @@
 ---
-title: PDV notes on Vue Design Practices
+title: Vue2 - Vue.js notes Pablo David Garuso book 
 permalink: /vue2/
 sitemap: false
 ---
@@ -9,7 +9,7 @@ sitemap: false
 ## 9/10/2024
 
 * Pablo David Garuso [Vue.js 3 Design Patterns and Best Practices: Develop scalable and robust applications with Vite, Pinia, and Vue Router](https://www.amazon.com/Vue-js-Design-Patterns-Best-Practices/dp/1803238070), published May 2023.
-* pdv = Pablo David Vue book.
+* **PDV** = Pablo David Vue book.
 * Note down Hello World example to see how Options API syntax and Composition API syntax are different. Both have export(). But Options API goes with export(...data) whereas Composition does import i think.
 
 ***
@@ -328,4 +328,3 @@ export default dependencyService;
 ***
 
 Chapter 5: SPA - Single Page Applications
-9/18
