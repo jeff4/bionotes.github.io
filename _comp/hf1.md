@@ -1,13 +1,14 @@
 ---
-title: HST notes on Haskell
-permalink: /hst/
+title: Haskell Notes 1
+permalink: /hf1/
 sitemap: false
 ---
 
 ***
 # Older notes on Simon Thompson book
 *  Simon Thompson,  [Haskell: The Craft of Functional Programming](https://www.haskellcraft.com/craft3e/Home.html), 3rd edition.
-* **hst** = **H**askell book by **S**imon **T**hompson
+* **HF1** = **H**askell **F**unctional programming book by Simon Thompson
+* **HST** = Haskell book by Simon Thompson
 * Published by Pearson
 * First edition published in August, 1996 
 * Second edition published in 1999
