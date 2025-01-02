@@ -1,5 +1,5 @@
 ---
-title: HF2 - first page of Haskell Mooc Notes
+title: HF2 - Notes on Haskell Mooc
 permalink: /hf2/
 sitemap: false
 ---
@@ -8,7 +8,7 @@ sitemap: false
 ***
 
 # Haskell Notes, page 2
-* [Haskell Mooc Course](https://haskell.mooc.fi/)
+* [Haskell Mooc Course](https://haskell.mooc.fi/), First page of notes
 
 ***
 
