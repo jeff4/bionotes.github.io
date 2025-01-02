@@ -1,13 +1,13 @@
 ---
-title: HMC - Haskell MooC
-permalink: /hmc/
+title: HF2 - first page of Haskell Mooc Notes
+permalink: /hf2/
 sitemap: false
 ---
 
 
 ***
 
-# HMC - New Page
+# Haskell Notes, page 2
 * [Haskell Mooc Course](https://haskell.mooc.fi/)
 
 ***
@@ -1865,4 +1865,3 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 
 * To get started, let's get rid of the helper function **`substringsOfLength`** and move all the code to `whatFollows`.
 
-## 12/26
