@@ -9,8 +9,9 @@ sitemap: false
 
 
 ## General Lisp Notes
-* YouTube 2019 Linux Conf.Au lecture ["Lets LISP like it's 1999"](https://youtu.be/hGY3uBHVVr4?si=zyiLMY61npZlMcgW&t=1950)
+* YouTube 2019 Linux Conf.Au lecture ["Lets LISP like it's 1999"](https://youtu.be/hGY3uBHVVr4?si=zyiLMY61npZlMcgW&t=1950). Completed on 12/31/2024
 * 2018 BP Learning ["Intro to Scheme Programming"](https://youtu.be/6k78c8EctXI?si=-d467ZmuYGpqPkVr)
+* See also BP Learning's [Continuations Video](https://www.youtube.com/watch?v=Ju3KKu_mthg)
 
 ***
 
@@ -191,3 +192,12 @@ sitemap: false
 
 ## Macros
 * **33:00**
+
+
+
+***
+
+## Video: Continuations
+* Also by BP Learning, Jonathan Bartlett
+* URL: https://www.youtube.com/watch?v=Ju3KKu_mthg
+* Introduction to the Stack and Stack Frames starts at [8:22](https://youtu.be/Ju3KKu_mthg?si=M8MscRgMouzrFwyD&t=502)
