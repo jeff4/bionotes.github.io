@@ -1867,4 +1867,5 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 
 ***
 
+## 1/04/2025
 ## 4.1 types and classes
