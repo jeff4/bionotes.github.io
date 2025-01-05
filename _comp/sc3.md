@@ -34,3 +34,4 @@ sitemap: false
 * The most common way is to use Newton's method of successive approximations which says that whenever we have a guess *y* for the value of the square root of a number *x*, we can perform a simple manipulation to get a better guess (one closer to the actual square root) by averaging *y* with *x/y*.
 * For example, we can compute the square root of 2 as follows. 
 * Suppose our initial guess is 1 using a less general version of Newton's Method (it's actually Heron of Alexandria's method from the first century A.D.)
+* up to p. 29 rn.
