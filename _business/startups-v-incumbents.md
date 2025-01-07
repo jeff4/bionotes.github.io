@@ -679,5 +679,8 @@ sitemap: false
 * Startup Letta from UC Berkeley comes out of stealth. [TC article](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/)
 
 ## 06 January 2025
-* [TC summary](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) of shutdown of accounting/bookkeeping SaaS company Bench. 
-	* Interesting quote: '*One reason for the company’s struggles was a push to embrace AI and other automation tools in recent years, according to some staffers. It turns out that it’s simpler to automate accounting tasks, like categorizing expenses, in theory than in practice, former staff told TechCrunch. One former employee claimed the only way Bench could scale was AI, but its execution was flawed and the tools it built didn’t work properly. Overreliance on these tools, sometimes at the expense of human bookkeepers, caused delays, with books passed around different teams instead of staying with one staffer.*'
+* [TC summary](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) of shutdown of accounting/bookkeeping SaaS company Bench. Interesting quote:
+	* *'One reason for the company’s struggles was a push to embrace AI and other automation tools in recent years, according to some staffers.*
+	* *'It turns out that it’s simpler to automate accounting tasks, like categorizing expenses, in theory than in practice, former staff told TechCrunch.* 
+	* *'One former employee claimed the only way Bench could scale was AI, but its execution was flawed and the tools it built didn’t work properly.* 
+	* *'Overreliance on these tools, sometimes at the expense of human bookkeepers, caused delays, with books passed around different teams instead of staying with one staffer.*'
