@@ -32,6 +32,63 @@ sitemap: false
 * In math, we are usually concerned with a declarative (*what is*) description; in CS, we are usually concerned with the imperative (*how to*) descriptions.
 * How does one compute square roots?
 * The most common way is to use Newton's method of successive approximations which says that whenever we have a guess *y* for the value of the square root of a number *x*, we can perform a simple manipulation to get a better guess (one closer to the actual square root) by averaging *y* with *x/y*.
-* For example, we can compute the square root of 2 as follows. 
+* For example, we can compute the square root of 2 as follows. (See table on p. 29)
 * Suppose our initial guess is 1 using a less general version of Newton's Method (it's actually Heron of Alexandria's method from the first century A.D.)
-* up to p. 29 rn.
+
+## 1/06/2025
+* Let's formalize Newton's method for finding sq. roots using procedures.
+
+```scheme
+(define (sqrt-iter guess x)
+  (if (good-enough? guess x)
+    guess
+    (sqrt-iter (improve guess x)
+      x
+    )
+  )
+)
+```
+* A guess is improved by averaging it with the quotient of the radicand and the old guess:
+
+```scheme
+(define (improve guess x)
+  (average guess (/ x guess)
+  )
+)
+
+;where
+
+(define (average x y)
+  (/ (+ x y) 2)
+)
+```
+* We also have to say what we mean by *good enough*. Let's try this below but we should see Exercise 1.7 for a better version.
+
+```scheme
+(define (good-enough? guess x)
+  (< (abs
+       (- (square guess) x))
+       0.001
+  )
+)
+```
+* Finally, we need a way to get started. What is the seed/initial value or initial guess? This is the code if intial **guess = `1.0`**:
+
+```scheme
+(define (sqrt x)
+  (sqrt-iter 1.0
+    x)
+)
+```
+
+* If we type these definitions to the interpreter, we can use **sqrt** just as we use any procedure. Examples calling the **sqrt** function:
+
+```scheme
+
+(sqrt 9)
+; output: 3.00009155413138
+```
+
+* more examples on p. 31
+
+
