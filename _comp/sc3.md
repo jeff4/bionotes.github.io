@@ -90,5 +90,5 @@ sitemap: false
 ```
 
 * more examples on p. 31
-
+* See [ChatGPT explanation of this code](https://chatgpt.com/share/677cd1e0-4878-8013-bcd6-1976bda93702), generated on 1/06/2025
 
