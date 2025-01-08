@@ -177,4 +177,6 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 * To get started, let's get rid of the helper function **`substringsOfLength`** and move all the code to `whatFollows`.
 
 ***
-## 1/05/2025
+## 1/08/2025
+* Next, paste in output from rewritten version with f1, f2, ...
+* and then reimplement in Haskell
