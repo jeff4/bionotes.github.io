@@ -209,3 +209,10 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 			* f4-good-enough
 				* square()
 				* abs()
+
+#### 1.1.8.1 Local Names
+* Importance of having local variable names that don't "bleed" into other contexts (aka *scopes*).
+* p. 36 'A formal parameter of a procedure has a very special role in the procedure definition, in that it doesn't matter what the name the formal parameter has.
+	* 'Such a name is called a **bound variable**; the procedure definition **binds** its formal parameters.
+	* 'The meaning of a procedure definition is unchanged if a bound variable is consistently renamed throughout the defintion.'
+* p. 37 'If a variable is *not* bound, we call that a **free variable**.' 
