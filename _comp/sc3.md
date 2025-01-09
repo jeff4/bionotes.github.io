@@ -167,3 +167,29 @@ sitemap: false
 ```
 
 * Let's reimplement these functions in Haskell:
+
+```haskell
+-- function f1
+f1_sqrtIter :: Double -> Double -> Double
+f1_sqrtIter guess x
+  | f4_goodEnough guess x = guess
+  | otherwise             = f1_sqrtIter (f2_improve guess x) x
+
+-- function f2
+f2_improve :: Double -> Double -> Double
+f2_improve guess x = f3_average guess (x / guess)
+
+-- function f3
+f3_average :: Double -> Double -> Double
+f3_average x y = (x + y) / 2
+
+-- function f4
+f4_goodEnough :: Double -> Double -> Bool
+f4_goodEnough guess x = abs ((guess * guess) - x) < 0.0001
+
+-- function f5 -- main function
+f5_sqrt :: Double -> Double
+f5_sqrt x = f1_sqrtIter 1.0 x
+```
+* Call the program by entering into GHCi: `f5_sqrt x` where *x* = input number. e.g `f5_sqrt 49` gives output `7.000000141269659`.
+
