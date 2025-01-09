@@ -193,3 +193,11 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 ```
 * Call the program by entering into GHCi: `f5_sqrt x` where *x* = input number. e.g `f5_sqrt 49` gives output `7.000000141269659`.
 
+***
+
+## 1/09/2025
+### 1.1.8 Procedures as Black-Box Abstractions
+* p. 33 **sqrt** is our first example of a process defined bya  set of mutually defined procedures.
+* Note that the definition of **f1-sqrt-iter** is recursive (in Haskell version, **f1_sqrtIter**).
+* The idea of recursion is a bit alien/disturbing. See Section 1.2 for more.
+* See Figure 1.2 on p. 34 for decomposition / analysis of the parts of the **f5-sqrt** program.
