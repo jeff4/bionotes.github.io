@@ -216,3 +216,6 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 	* 'Such a name is called a **bound variable**; the procedure definition **binds** its formal parameters.
 	* 'The meaning of a procedure definition is unchanged if a bound variable is consistently renamed throughout the defintion.'
 * p. 37 'If a variable is *not* bound, we call that a **free variable**.' 
+
+### up to page 55
+* Big O Notation, aka capital Theta notation.
