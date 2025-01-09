@@ -201,3 +201,11 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 * Note that the definition of **f1-sqrt-iter** is recursive (in Haskell version, **f1_sqrtIter**).
 * The idea of recursion is a bit alien/disturbing. See Section 1.2 for more.
 * See Figure 1.2 on p. 34 for decomposition / analysis of the parts of the **f5-sqrt** program.
+	* Note that **square()** and **abs()** are procedures that come for free with Scheme. The rest are marked with new custom procedures, reading from top to bottom.
+	* f5-sqrt
+		* f1-sqrt-iter
+			* f2-improve
+				* f3-average
+			* f4-good-enough
+				* square()
+				* abs()
