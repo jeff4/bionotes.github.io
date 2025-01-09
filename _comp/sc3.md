@@ -92,3 +92,78 @@ sitemap: false
 * more examples on p. 31
 * See [ChatGPT explanation of this code](https://chatgpt.com/share/677cd1e0-4878-8013-bcd6-1976bda93702), generated on 1/06/2025
 
+***
+
+## 1/08/2025
+* Refactored with clearer procedure/function names:
+
+```scheme
+; function f1
+(define (f1-sqrt-iter guess x)
+  (if (f4-good-enough? guess x)
+    guess
+    (f1-sqrt-iter (f2-improve guess x)
+      x
+    )
+  )
+)
+
+; function f2
+(define (f2-improve guess x)
+  (f3-average guess (/ x guess)
+  )
+)
+
+; function f3
+(define (f3-average x y)
+  (/ (+ x y) 2)
+)
+
+; function f4
+(define (f4-good-enough? guess x)
+  (< (abs
+       (- (square guess) x))
+       0.0001
+  )
+)
+
+
+; function f5 -- main() function
+(define (f5-sqrt x)
+  (f1-sqrt-iter 1.0
+    x)
+)
+```
+
+* Verified program output using https://try.scheme.org --
+
+```scheme
+(f5-sqrt 2)
+1.4142156862745097
+
+(f5-sqrt 3)
+1.7320508100147274
+
+(f5-sqrt 4)
+2.0000000929222947
+
+(f5-sqrt 5)
+2.2360688956433634
+
+(f5-sqrt 6)
+2.4494943716069653
+
+(f5-sqrt 7)
+2.64576704419029
+
+(f5-sqrt 8)
+2.8284271250498643
+
+(f5-sqrt 9)
+3.000000001396984
+
+(f5-sqrt 10)
+3.162277665175675
+```
+
+* Let's reimplement these functions in Haskell:
