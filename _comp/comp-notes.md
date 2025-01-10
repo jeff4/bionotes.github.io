@@ -1016,5 +1016,6 @@ AttributeError: st.session_state has no attribute "show_results". Did you forget
 	* [Part 1](https://newsletter.pragmaticengineer.com/p/ai-tooling-2024)
 	* [Part 2](https://newsletter.pragmaticengineer.com/p/ai-tooling-part-2)
 	* [Part 3](https://newsletter.pragmaticengineer.com/p/ai-tooling-part-3)
-* Interesting conversation with the first developer for Apple's v2 of [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) that was released in 2020 to help transition from Intel to Apple Silicon. Dev is [cwzwarich](https://news.ycombinator.com/item?id=42484409), who wrote most of the first version of Rosetta 2. Thread on reading SICP starting [here](https://news.ycombinator.com/item?id=42488464) from the [HN article](https://news.ycombinator.com/item?id=42483895) about Cameron Zwarich leaving Apple to go work at the [Lean FRO](https://lean-fro.org/about/). 
+* Interesting conversation with the first developer for Apple's v2 of [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) that was released in 2020 to help transition from Intel to Apple Silicon. Dev is [cwzwarich](https://news.ycombinator.com/item?id=42484409), who wrote most of the first version of Rosetta 2. 
+	* **Thread on reading SICP** starting [here](https://news.ycombinator.com/item?id=42488464) from the [HN article](https://news.ycombinator.com/item?id=42483895) about Cameron Zwarich leaving Apple to go work at the [Lean FRO](https://lean-fro.org/about/). 
     
