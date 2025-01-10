@@ -700,4 +700,6 @@ sitemap: false
 * From YC's November 22, 2024 Lightcone podcast, ['Vertical AI Agents Could Be 10X Bigger Than SaaS'](https://www.youtube.com/watch?v=ASABxNenD_U), learned from Diana Hu about this interesting startup that uses LLMs to supercharge and hyper-customize developer relations [Kapa.ai](https://www.kapa.ai). 
 	* [YC profile](https://www.ycombinator.com/companies/kapa-ai). customers include Prisma, Docker, Next.js, Mapbox, Docker, OpenAI. funded by some OpenAI folks and one of the authors of the RAG paper.
     * For detailed JH notes on this podcast, see a7 post on agents.
+* November, 2024 announcement of $56m seed round at $500m valuation for [/dev/agents](https://sdsa.ai) who is trying to build the 'Android OS to simplify use of AI Agents'. [TC article](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/) and announcement on [Capital G](https://capitalg.com/insights/dev-agents-the-operating-system-for-ai-agents/) blog. Founders include CEO David Singleton (former CTO of Stripe) and CPO Hugo Barra (formerly Meta, Xiaomi). Funders include Index, CapitalG, Andrej Karpathy, Andy Rubin, CEO of Scale AI Alexandr Wang, etc.
+
 
