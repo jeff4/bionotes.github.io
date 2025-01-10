@@ -123,4 +123,7 @@ permalink: /eigen/
 * 6/18 - More youtube links:
 	* [Overview of the Minimal Polynomial](https://www.youtube.com/watch?v=FshxASI95rs) from MathDoctorBob
 	* [Visual Math 'What are...minimal polynomials?'](https://www.youtube.com/watch?v=rCIjgX98jnw)
-* 6/20
+
+## 2025
+* Late 2024 [HN post](https://news.ycombinator.com/item?id=42289913) about this [2007 article](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/) about Heaviside ignoring the objections of contemporary mathematicians and using calc derivatives and calc integrals in the form of **operators** which can be manipulated algebriacally.
+
