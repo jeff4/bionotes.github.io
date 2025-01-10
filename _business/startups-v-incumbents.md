@@ -678,9 +678,26 @@ sitemap: false
 * Some thoughts on using [Cursor AI Editor](https://www.cursor.com/blog/series-a) which is made by [Anysphere Inc](https://anysphere.inc). [Essay by Juan Stoppa](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/) with associated [HN post](https://news.ycombinator.com/item?id=41429469). And Simon Willison's [HN comment](https://news.ycombinator.com/item?id=41429469) about that same post.
 * Startup Letta from UC Berkeley comes out of stealth. [TC article](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/)
 
+## 05 December 2024
+* YC company [Circlemind](https://circlemind.co) announced Fast GraphRAG. [HN post](https://news.ycombinator.com/item?id=42174829). Quote from post:
+	* *'Hey there HN! We’re Antonio, Luca, and Yuhang, and we’re excited to introduce Fast GraphRAG, an open-source RAG approach that leverages knowledge graphs and the 25 years old PageRank for better information retrieval and reasoning. Building a good RAG pipeline these days takes a lot of manual optimizations.* 
+	* *'Most engineers intuitively start from naive RAG: throw everything in a vector database and hope that semantic search is powerful enough. This can work for use cases where accuracy isn’t too important and hallucinations are tolerable, but it doesn’t work for more difficult queries that involve multi-hop reasoning or more advanced domain understanding.* 
+	* *'Also, it’s impossible to debug it.* 
+	* *'To address these limitations, many engineers find themselves adding extra layers like agent-based preprocessing, custom embeddings, reranking mechanisms, and hybrid search strategies.* 
+	* *'Much like the early days of machine learning when we manually crafted feature vectors to squeeze out marginal gains, building an effective RAG system often becomes an exercise in crafting engineering “hacks.”* 
+	* *'Earlier this year, Microsoft seeded the idea of using Knowledge Graphs for RAG and published GraphRAG - i.e. RAG with Knowledge Graphs.* 
+	* *'We believe that there is an incredible potential in this idea, but existing implementations are naive in the way they create and explore the graph.* 
+	* *'That’s why we developed Fast GraphRAG with a new algorithmic approach using good old PageRank.*'
+
 ## 06 January 2025
 * [TC summary](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/) of shutdown of accounting/bookkeeping SaaS company Bench. Interesting quote:
 	* *'One reason for the company’s struggles was a push to embrace AI and other automation tools in recent years, according to some staffers.*
 	* *'It turns out that it’s simpler to automate accounting tasks, like categorizing expenses, in theory than in practice, former staff told TechCrunch.* 
 	* *'One former employee claimed the only way Bench could scale was AI, but its execution was flawed and the tools it built didn’t work properly.* 
 	* *'Overreliance on these tools, sometimes at the expense of human bookkeepers, caused delays, with books passed around different teams instead of staying with one staffer.*'
+
+## 10 January 2025
+* From YC's November 22, 2024 Lightcone podcast, ['Vertical AI Agents Could Be 10X Bigger Than SaaS'](https://www.youtube.com/watch?v=ASABxNenD_U), learned from Diana Hu about this interesting startup that uses LLMs to supercharge and hyper-customize developer relations [Kapa.ai](https://www.kapa.ai). 
+	* [YC profile](https://www.ycombinator.com/companies/kapa-ai). customers include Prisma, Docker, Next.js, Mapbox, Docker, OpenAI. funded by some OpenAI folks and one of the authors of the RAG paper.
+    * For detailed JH notes on this podcast, see a7 post on agents.
+
