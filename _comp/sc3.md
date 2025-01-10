@@ -219,3 +219,4 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 ### up to page 55
 * Big O Notation, aka capital Theta notation.
+* 1/11/2025
