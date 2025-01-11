@@ -1706,6 +1706,10 @@ import { render as renderUI } from "./ui.js";
 * In Dix Hills. Completed 3-4 deep dive on TypeScript. Now about 1-2 weeks into Vue studies.
 * Interesting short [10 minute video](https://youtu.be/Mus_vwhTCq0?si=OXzKp3M1lbH-i41a) from the [Fireship YouTube Channel](https://www.youtube.com/@Fireship)
 
+***
+## 1/10/2025
+* Installed v4.0 version of Astro. Install instructions from Astro 3 [blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
+
 
 ***
 
