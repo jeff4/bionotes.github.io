@@ -9,7 +9,7 @@ sitemap: false
 ### 6/19/2024
 * See dialog in ChatGPT with suggested Astro code.
 
-### 6/20/2024
+### 6/20/2024 - intro to JavaScript before Astro
 * Created dev.to account and found this April, 2024 [article](https://dev.to/snikidev/astrojs-as-an-alternative-to-nextjs-pushing-the-limits-30ga) by Nikita Kakuev on how the Astro approach (if not necessarily the Astro framework) is the future. "The future is simple, vanilla JS because simplicity always wins."
 
 #### datastructures
@@ -20,7 +20,7 @@ sitemap: false
 | **JavaScript** | array        | map              | set           |
 | **Python**     | list         | dict             | set           |
 | **Java**       | Array / ArrayList | HashMap          | HashSet       |
-| **CS**         | Dynamic Array | Hash Table / Associative Array / Dictionary | Hash-Set      |
+| **Computer Science**         | Dynamic Array | Hash Table / Associative Array / Dictionary | Hash-Set      |
 
 #### explanation of differences between JS and Python for arrays, maps, and sets
 Here are the definitions for the specified items along with their equivalent data structures or objects in Python, including differences:
