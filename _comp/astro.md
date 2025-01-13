@@ -9,7 +9,9 @@ sitemap: false
 ### 6/19/2024
 * See dialog in ChatGPT with suggested Astro code.
 
-### 6/20/2024 - intro to JavaScript before Astro
+### 1/12/2025 
+* Edits to original content and table created 6/20/204
+* See this Claude Sonnet 3.5 dialogue for updated table adding Scheme and Haskell
 * Created dev.to account and found this April, 2024 [article](https://dev.to/snikidev/astrojs-as-an-alternative-to-nextjs-pushing-the-limits-30ga) by Nikita Kakuev on how the Astro approach (if not necessarily the Astro framework) is the future. "The future is simple, vanilla JS because simplicity always wins."
 
 #### datastructures
@@ -87,4 +89,4 @@ Here are the definitions for the specified items along with their equivalent dat
 # AstroPaper 2025 Log
 ## 1/11/2025
 * Installed v4.0 version of Astro. Install instructions from Astro 3 [blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
-
+* Cmd line instructions are on main [AstroPaper github page](https://github.com/satnaing/astro-paper?tab=readme-ov-file) in the [*Running Locally* section](https://github.com/satnaing/astro-paper?tab=readme-ov-file#-running-locally)
