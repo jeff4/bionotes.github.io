@@ -90,5 +90,6 @@ Here are the definitions for the specified items along with their equivalent dat
 ## 1/12/2025
 * Began trying to install v4.0 version of AstroPaper. Install instructions from AstroPaper 3 [blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
 * Cmd line instructions are on [main AstroPaper github page](https://github.com/satnaing/astro-paper?tab=readme-ov-file) in the [*Running Locally* section](https://github.com/satnaing/astro-paper?tab=readme-ov-file#-running-locally)j
-* Before I could run the astro install command, I had to upgrade node via homebrew, then upgrade npm. Optionally, since i ran `brew upgrade`, my **Alacritty** terminal was also updated so i had to migrate that. See OneNote for detailed notes
+* Before I could run the astro install command, I had to upgrade node via homebrew, then upgrade npm. 
+	* Also, since i ran `brew upgrade`, my **Alacritty** terminal was also updated so i had to migrate that. See OneNote for detailed notes
 * Hmm, per [Issue #435](https://github.com/satnaing/astro-paper/issues/435), as of Jan 12, 2025, AstroPaper is still pinned to Astro version 4.16.3. And we are requesting that install can be updated to use Astro 5.1. So maybe I'll just hold off on the Astro/AstroPaper migration for now until Astro 5 is supported by AstroPaper/SatNaing.
