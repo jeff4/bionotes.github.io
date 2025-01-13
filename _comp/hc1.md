@@ -7,7 +7,7 @@ sitemap: false
 ***
 # Older notes on Simon Thompson book
 *  Simon Thompson,  [Haskell: The Craft of Functional Programming](https://www.haskellcraft.com/craft3e/Home.html), 3rd edition.
-* **HF1** = **H**askell **C**urry
+* **HC1** = **H**askell **C**urry
 * **HST** = Haskell book by Simon Thompson
 * Published by Pearson
 * First edition published in August, 1996 
