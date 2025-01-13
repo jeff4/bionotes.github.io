@@ -1,6 +1,6 @@
 ---
 title: Haskell Notes 1
-permalink: /hf1/
+permalink: /hc1/
 sitemap: false
 ---
 
@@ -13,7 +13,6 @@ sitemap: false
 * First edition published in August, 1996 
 * Second edition published in 1999
 * Third and most current edition published in 2011
-
 
 ***
 ## General Haskell Notes
