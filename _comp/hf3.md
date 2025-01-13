@@ -180,3 +180,6 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 ## 1/08/2025
 * Next, paste in output from rewritten version with f1, f2, ...
 * and then reimplement in Haskell
+
+## 1/13/2025
+* Furthermore, Haskell Types are going to look a lot like Classes in Java/C++ or other OO-languages. But **don't be fooled** they are not classes. Probably Types are most similar to Interfaces.
