@@ -1,6 +1,6 @@
 ---
 title: HF2 - Notes on Haskell Mooc
-permalink: /hf2/
+permalink: /hc2/
 sitemap: false
 ---
 
