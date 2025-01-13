@@ -1,5 +1,5 @@
 ---
-title: HF3 - Notes on Haskell Mooc
+title: HC3 - Notes on Haskell Mooc
 permalink: /hc3/
 sitemap: false
 ---
