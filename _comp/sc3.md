@@ -220,3 +220,4 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 ### up to page 55
 * Big O Notation, aka capital Theta notation.
 * 1/10/2025
+* 1/14 - Look at examples of Fermat's Little Theorem on primes. Implement in Scheme, Haskell, Javascript
