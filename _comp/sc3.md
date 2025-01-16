@@ -266,7 +266,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 )
 
 (define (divides? a b)
-  (= (reminder b a) 0)
+  (= (remainder b a) 0)
 )
 ```
 
