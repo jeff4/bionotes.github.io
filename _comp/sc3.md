@@ -217,7 +217,14 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 	* 'The meaning of a procedure definition is unchanged if a bound variable is consistently renamed throughout the defintion.'
 * p. 37 'If a variable is *not* bound, we call that a **free variable**.' 
 
-### up to page 55
+### 1.2.3 Orders of Growth / Big O Notation
 * Big O Notation, aka capital Theta notation.
-* 1/10/2025
-* 1/14 - Look at examples of Fermat's Little Theorem on primes. Implement in Scheme, Haskell, Javascript
+* p. 54-57
+
+### More Big O Notation
+* 1.2.4 Exponentiation p. 57-62
+* 1.2.5 Greatest Common Divisors (GCD) p. 62-65
+
+### 1.2.6 Fermat's Little Theorem and Testing for Primality
+* p. 65
+
