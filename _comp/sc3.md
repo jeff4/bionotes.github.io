@@ -228,31 +228,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 ### 1.2.6 Fermat's Little Theorem and Testing for Primality
 * p. 65
 
-### v1 of code
-```scheme
-(define (f1-smallest-divisor n) (f2-find-divisor n 2))
-
-(define (f2-divisor n test-divisor)
-  (cond ( (> (square test-divisor) n) n)
-    ((divides? test-divisor n) test-divisor)
-    (else (find-divisor n (+ test-divisor 1)))
-  )
-
-(define (divides? a b ) (= (remainder b a) 0))
-```
-
-
-```scheme
-(define (prime? n)
-  (
-    = n (smallest-divisor n)
-  )
-)
-```
-
-***
-
-### v0 of code (exact copy from book)
+#### v0 of code (exact copy from book)
 
 ```scheme
 (define (smallest-divisor n) 
@@ -269,5 +245,43 @@ f5_sqrt x = f1_sqrtIter 1.0 x
   (= (remainder b a) 0)
 )
 ```
+* Verified in [Scheme playground](https://try.scheme.org). 
+
+#### v1 well-formatted for beginners
+
+```scheme
+(define (smallest-divisor n) 
+  (find-divisor n 2))
+
+(define (find-divisor n test-divisor)
+  (cond 
+    ((> (square test-divisor) n) n)
+    ((divides? test-divisor n) test-divisor)
+    (else (find-divisor n (+ test-divisor 1)))))
+
+(define (divides? a b)
+  (= (remainder b a) 0))
+```
+
+#### v2 well-formatted with more explicit breaks for control flow / conditionals
+
+```scheme
+(define (smallest-divisor n) 
+  (find-divisor n 2))
+
+(define (find-divisor n test-divisor)
+  (cond 
+    ((> (square test-divisor) n) 
+     n)
+    ((divides? test-divisor n) 
+     test-divisor)
+    (else 
+     (find-divisor n (+ test-divisor 1)))))
+
+(define (divides? a b)
+  (= (remainder b a) 0))
+```
+
+* For more, see this [ChatGPT](https://chatgpt.com/share/67887198-0b5c-8013-8296-c79e96664b6d).
 
 
