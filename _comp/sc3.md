@@ -283,5 +283,5 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 ```
 
 * For more, see this [ChatGPT](https://chatgpt.com/share/67887198-0b5c-8013-8296-c79e96664b6d).
-
+* Next step is to manually type out the generated Haskell and JavaScript versions.
 
