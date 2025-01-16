@@ -228,3 +228,22 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 ### 1.2.6 Fermat's Little Theorem and Testing for Primality
 * p. 65
 
+
+```scheme
+(define (f1-smallest-divisor n) (f2-find-divisor n 2))
+
+(define (f2-divisor n test-divisor)
+  (cond ( (> (square test-divisor) n) n)
+    ((divides? test-divisor n) test-divisor)
+    (else (find-divisor n (+ test-divisor 1)))
+  )
+
+(define (divides? a b ) (= (remainder b a) 0))
+
+(define (prime? n)
+  (
+    = n (smallest-divisor n)
+  )
+)
+```
+
