@@ -93,3 +93,6 @@ Here are the definitions for the specified items along with their equivalent dat
 * Before I could run the astro install command, I had to upgrade node via homebrew, then upgrade npm. 
 	* Also, since i ran `brew upgrade`, my **Alacritty** terminal was also updated so i had to migrate that. See OneNote for detailed notes
 * Hmm, per [Issue #435](https://github.com/satnaing/astro-paper/issues/435), as of Jan 12, 2025, AstroPaper is still pinned to Astro version 4.16.3. And we are requesting that install can be updated to use Astro 5.1. So maybe I'll just hold off on the Astro/AstroPaper migration for now until Astro 5 is supported by AstroPaper/SatNaing.
+
+## 1/16/2025
+* Still waiting for Sat Naing to update AstroPaper to fully support Astro v5.
