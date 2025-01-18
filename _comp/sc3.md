@@ -302,7 +302,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 
 
-#### v3 well-formatted with preferred JH linebreaks 
+#### v3 well-formatted with preferred JH linebreaks and clearer 'Prime' / 'Not Prime' output
 
 ```scheme
 (define (smallest-divisor n) 
@@ -327,5 +327,11 @@ f5_sqrt x = f1_sqrtIter 1.0 x
   (= n (smallest-divisor n))
 )
 
+(define (prime n)
+  (if (prime? n)
+    (display "Prime") 
+    (display "Not prime") 
+  )
+)
 ```
 
