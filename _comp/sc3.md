@@ -369,3 +369,51 @@ f6_prime n =
     then putStrLn "Prime"
     else putStrLn "Not prime"
 ```
+
+#### JS implementation of v3 of Prime/Not Prime 
+
+```javascript
+// Function 1: Output smallest divisor
+function f1_smallestDivisor(n) {
+  return f2_findDivisor(n, 2);
+}
+
+// Function 2: Find Divisor
+function f2_findDivisor(n, testDivisor) {
+  if (f4_square(testDivisor) > n) {
+    return n;
+  } else if (f3_divides(testDivisor, n)) {
+    return testDivisor;
+  } else {
+    return f2_findDivisor(n, testDivisor + 1);
+  }
+}
+
+// Function 3: Checks division, returns true/false
+function f3_divides(a, b) {
+  return b % a === 0;
+}
+
+// Function 4: Output x^2
+function f4_square(x) {
+  return x * x;
+}
+
+// Function 5: Check if input is prime, returns true/false
+function f5_isPrime(n) {
+  return n === f1_smallestDivisor(n);
+}
+
+// Function 6: Pretty output of whether input is prime
+function f6_prime(n) {
+  if (f5_isPrime(n)) {
+    console.log("Prime");
+  } else {
+    console.log("Not prime");
+  }
+}
+
+// Example Usage
+f6_prime(47); // Output: Prime
+f6_prime(50); // Output: Not prime
+```
