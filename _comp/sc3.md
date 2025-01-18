@@ -417,3 +417,6 @@ function f6_prime(n) {
 f6_prime(47); // Output: Prime
 f6_prime(50); // Output: Not prime
 ```
+
+## 1/18/2025
+* Began testing code explanations of `prime / not prime` progams in Claude vs. ChatGPT.
