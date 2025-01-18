@@ -302,7 +302,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 ## 1/17/2025
 
-#### v3 well-formatted with preferred JH linebreaks and clearer 'Prime' / 'Not Prime' output
+#### v3 well-formatted Scheme with preferred JH linebreaks and clearer 'Prime' / 'Not Prime' output
 
 ```scheme
 (define (smallest-divisor n) 
