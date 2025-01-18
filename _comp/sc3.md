@@ -300,7 +300,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 * Note the code convention that appending a `?` at the end of Scheme procedure indicates that the output will be a TRUE **`#t`** or FALSE **`#f`**.
 * Also, strange error occured b/c when I ran procedures, i forgot to invoke `prime? 50` command without parenthesis. In the [Scheme playground](https://try.scheme.org), you need to type `(prime? 50)`.
 
-
+## 1/17/2025
 
 #### v3 well-formatted with preferred JH linebreaks and clearer 'Prime' / 'Not Prime' output
 
