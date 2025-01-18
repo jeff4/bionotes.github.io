@@ -329,8 +329,8 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 (define (prime n)
   (if (prime? n)
-    (display "Prime") 
-    (display "Not prime") 
+    (display "Prime \n") 
+    (display "Not prime \n") 
   )
 )
 ```
