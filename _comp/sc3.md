@@ -346,7 +346,7 @@ f1_smallest_divisor n = f2_find_divisor n 2
 -- Function 2: Find Divisor
 f2_find_divisor :: Integer -> Integer -> Integer
 f2_find_divisor n testDivisor
-  | f4_square testDivisor > = n = n 
+  | f4_square testDivisor > n = n 
   | f3_divides testDivisor n    = testDivisor
   | otherwise                   = f2_find_divisor n (testDivisor + 1)
 
