@@ -268,8 +268,7 @@ f5_sqrt x = f1_sqrtIter 1.0 x
   (= (remainder b a) 0))
 
 (define (prime? n)
-  (= n (smallest-divisor n))
-)
+  (= n (smallest-divisor n)))
 
 ```
 
@@ -290,8 +289,43 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 (define (divides? a b)
   (= (remainder b a) 0))
+
+(define (prime? n)
+  (= n (smallest-divisor n)))
+
 ```
 
 * For more, see this [ChatGPT](https://chatgpt.com/share/67887198-0b5c-8013-8296-c79e96664b6d).
 * Next step is to manually type out the generated Haskell and JavaScript versions.
+* Note the code convention that appending a `?` at the end of Scheme procedure indicates that the output will be a TRUE **`#t`** or FALSE **`#f`**.
+* Also, strange error occured b/c when I ran procedures, i forgot to invoke `prime? 50` command without parenthesis. In the [Scheme playground](https://try.scheme.org), you need to type `(prime? 50)`.
+
+
+
+#### v3 well-formatted with preferred JH linebreaks 
+
+```scheme
+(define (smallest-divisor n) 
+  (find-divisor n 2)
+)
+
+(define (find-divisor n test-divisor)
+  (cond 
+    ((> (square test-divisor) n) 
+     n)
+    ((divides? test-divisor n) 
+     test-divisor)
+    (else 
+     (find-divisor n (+ test-divisor 1))))
+)
+
+(define (divides? a b)
+  (= (remainder b a) 0)
+)
+
+(define (prime? n)
+  (= n (smallest-divisor n))
+)
+
+```
 
