@@ -244,6 +244,11 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 (define (divides? a b)
   (= (remainder b a) 0)
 )
+
+(define (prime? n)
+  (= n (smallest-divisor n))
+)
+
 ```
 * Verified in [Scheme playground](https://try.scheme.org). 
 
@@ -261,6 +266,11 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 
 (define (divides? a b)
   (= (remainder b a) 0))
+
+(define (prime? n)
+  (= n (smallest-divisor n))
+)
+
 ```
 
 #### v2 well-formatted with more explicit breaks for control flow / conditionals
