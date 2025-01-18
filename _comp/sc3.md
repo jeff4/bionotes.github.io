@@ -335,3 +335,37 @@ f5_sqrt x = f1_sqrtIter 1.0 x
 )
 ```
 
+#### Haskell implementation of v3 above for Prime / Not Prime
+
+```haskell
+
+-- Function 1: Output smallest divisor
+f1_smallest_divisor :: Integer -> Integer
+f1_smallest_divisor n = f2_find_divisor n 2
+
+-- Function 2: Find Divisor
+f2_find_divisor :: Integer -> Integer -> Integer
+f2_find_divisor n testDivisor
+  | f4_square testDivisor > = n = n 
+  | f3_divides testDivisor n    = testDivisor
+  | otherwise                   = f2_find_divisor n (testDivisor + 1)
+
+-- Function 3: Checks division, returns true/false
+f3_divides :: Integer -> Integer -> Bool
+f3_divides a b = b `mod` a == 0
+
+-- Function 4: Output x^2
+f4_square :: Integer -> Integer
+f4_square x = x * x
+
+-- Function 5: Check if input is prime, returns t/f
+f5_prime_check :: Integer -> Bool
+f5_prime_check n = n == f1_smallest_divisor n
+
+-- Function 6: Pretty output of whether input is prime 
+f6_prime :: Integer -> IO ()
+f6_prime n = 
+  if f5_prime_check n
+    then putStrLn "Prime"
+    else putStrLn "Not prime"
+```
