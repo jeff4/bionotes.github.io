@@ -96,3 +96,6 @@ Here are the definitions for the specified items along with their equivalent dat
 
 ## 1/16/2025
 * Still waiting for Sat Naing to update AstroPaper to fully support Astro v5.
+
+## 1/20/2025
+* No update on [Issue #435](https://github.com/satnaing/astro-paper/issues/435)
