@@ -184,4 +184,5 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 ## 1/13/2025
 * Furthermore, Haskell Types are going to look a lot like Classes in Java/C++ or other OO-languages. But **don't be fooled** they are not classes. Probably Types are most similar to Interfaces.
 
-## 1/20/2025
+## 1/22/2025
+* Let's re-examine the original implementation of helper function `substringsOfLength()` and original version of `whatFollows()` from 12/05/2024. There was a JS implementation from that date as well as [this ChatGPT](https://chatgpt.com/share/67514f9e-61d8-8013-bc70-75137ff20ab3) explanation.
