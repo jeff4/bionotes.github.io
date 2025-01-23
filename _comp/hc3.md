@@ -186,3 +186,6 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 
 ## 1/22/2025
 * Let's re-examine the original implementation of helper function `substringsOfLength()` and original version of `whatFollows()` from 12/05/2024. There was a JS implementation from that date as well as [this ChatGPT](https://chatgpt.com/share/67514f9e-61d8-8013-bc70-75137ff20ab3) explanation.
+
+## 1/23/2025
+* starting from section 3.6, note that the Mooc has a copy of the original whatFollows(). see `3whatFollows.hs`.
