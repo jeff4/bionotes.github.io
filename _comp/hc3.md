@@ -189,3 +189,5 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 
 ## 1/23/2025
 * starting from section 3.6, note that the Mooc has a copy of the original whatFollows(). see `3whatFollows.hs`.
+* With some help from Claude, got verion 0 working. remember to use single quotes (***`'`**) for individual characters and double quotes (**`"`**) for strings. 
+	* e.g., the proper way to call the function in GHCi is `whatFollows 'u' 4 "superman"`. Which outputs `perm`.
