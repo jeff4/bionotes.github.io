@@ -15,10 +15,18 @@ sitemap: false
 * Third and most current edition published in 2011
 
 ***
-## General Haskell Notes
-* 11/03/2024 [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner Austin](https://github.com/Gandalf-).
+# General Haskell Notes
+## 11/03/2024
+* [Reimplementation of unix core utilities](https://github.com/Gandalf-/coreutils) in Haskell. [HN thread](https://news.ycombinator.com/item?id=41992270) with comments by [repo owner Austin](https://github.com/Gandalf-).
 	* Austin has some [posts](https://www.anardil.net/tag/coreutils.html) on his blog discussing his work.
 	* Austin is [answering questions](https://news.ycombinator.com/item?id=42032718) in the HN thread.
+
+## 1/22/2025
+* Random old links from HN
+* From May, 2024, a [Wired article](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/) about the 'Cult of the Haskell Programmer'. a bit of hyperbole from a former programmer who had some difficulty with Haskell. [HN thread](https://news.ycombinator.com/item?id=40349970)
+* From Jan, 2025. Article about benefits of avoiding side effects; how Haskell starts off as very pure and then adds some affordances like IO, etc. [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming) and [HN thread](https://news.ycombinator.com/item?id=42754098)
+* New server-side web framework using Haskell called [Hyperbole](https://hackage.haskell.org/package/hyperbole-0.4.2/docs/Web-Hyperbole.html#g:1). [HN thread](https://news.ycombinator.com/item?id=42785641) but no comments from Jan 2025.
+*
 
 ***
 
