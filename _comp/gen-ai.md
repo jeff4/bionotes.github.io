@@ -355,3 +355,8 @@ G
 	1. ['There Was No First AI Winter'](https://cacm.acm.org/opinion/there-was-no-first-ai-winter/)
 	1. ['How the AI Boom Went Bust'](https://cacm.acm.org/opinion/how-the-ai-boom-went-bust/) 
 	1. ['Between the Booms: AI in Winter'](https://cacm.acm.org/opinion/between-the-booms-ai-in-winter/)
+* [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747) and [HN thread](https://news.ycombinator.com/item?id=42286397)
+
+## 23 January 2025
+* Antropic AI announces [Citations API](https://www.anthropic.com/news/introducing-citations-api). [HN thread](https://news.ycombinator.com/item?id=42807173) has some interesting comments about grounding prompts when looking for scientific/medical paper annotations, including some debate involving Simon Willison.
+* [Thoughts on Using AI Coding Assistant Devin for a Month](https://www.answer.ai/posts/2025-01-08-devin.html) and [HN thread](https://news.ycombinator.com/item?id=42734681)
