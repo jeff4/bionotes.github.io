@@ -666,7 +666,7 @@ sitemap: false
 * Launch of [Figma Slides](https://www.figma.com/blog/figma-slides/) and [HN thread](https://news.ycombinator.com/item?id=40802676)
 
 ## 29 June 2024
-* Rodney Brook's [skepticism about gen AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
+* Rodney Brooks' [skepticism about gen AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 
 ## 23 July 2024
 * Meta announces Llama version 3.1. Zuckerberg's [blog post](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) about how "Open Source AI is the Path Forward".
@@ -704,3 +704,5 @@ sitemap: false
 * Dec, 2024 announcement of startup Boon building agentic AI tools for fleets, logistics, goods carriers, etc. [TC article on funding](https://techcrunch.com/2024/12/19/boon-raises-20-5m-to-build-agentic-ai-tools-for-fleets/)
 * Sorta weird [HN post](https://news.ycombinator.com/item?id=42469284) from Dec 2024 about teaching AI to Product Managers at the blog for [ProductMe.Org](https://productme.org/posts/ai-for-product-managers) which is a community for product managers.
 
+## 23 January 2025
+* Rodney Brooks' review of 2024 and [Predictions for 2025](https://rodneybrooks.com/predictions-scorecard-2025-january-01/) and [HN thread](https://news.ycombinator.com/item?id=42651275)
