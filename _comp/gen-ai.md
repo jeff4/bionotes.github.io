@@ -360,3 +360,4 @@ G
 ## 23 January 2025
 * Antropic AI announces [Citations API](https://www.anthropic.com/news/introducing-citations-api). [HN thread](https://news.ycombinator.com/item?id=42807173) has some interesting comments about grounding prompts when looking for scientific/medical paper annotations, including some debate involving Simon Willison.
 * [Thoughts on Using AI Coding Assistant Devin for a Month](https://www.answer.ai/posts/2025-01-08-devin.html) and [HN thread](https://news.ycombinator.com/item?id=42734681)
+* Simon Willison's round up of [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/). Long, linked, thoughtful list. [HN thread](https://news.ycombinator.com/item?id=42560558)
