@@ -329,3 +329,9 @@ vim.opt.relativenumber = true
 	* **`:set ruler`** to turn on column/line number display in bottom right.
 	* **`xx |`** (pipe) jumps the cursor to the xx column. e.g., to jump to the 24th column on the current line, type **`23 |`**.
 	* Note that column numbers are 1-indexed rather than zero-indexed. So if each tab is 2 spaces, the proper indent for each successive indent is `1, 3, 5, 7, etc.`.
+
+***
+
+## 1/25/2025
+* Vim / NeoVim plugin by [Georgi Gerganov](https://ggerganov.com), creator of llama.cpp, whisper.cpp, and many other projects. [HN thread](https://news.ycombinator.com/item?id=42806328), [legacy about page](https://github.com/ggml-org/llama.vim) which has helpful intro. [Latest llama.vim page](https://github.com/ggml-org/llama.vim)
+	* [December 2024 paper](https://arxiv.org/abs/2412.16589) explaining code completion, benchmarking Fill-In-the-Middle (FIM). FIM gathers context both before and after where the cursor is, in contrast to older methods that only have context of the stuff before the cursor (aka "left to right" prefix-only completion). 
