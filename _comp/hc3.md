@@ -194,3 +194,6 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 * Now going through v0 line by line.
 * After some more Claude dialogue, learned more about how the `string` and `n` work together in the subStringsOfLength function. 
 	* **`shorten`** is a generic function and it doesn't necessarily key off of `s`. Instead of `s`, one can place any parameter there, it doesn't need to be a string. It's a higher order function (I think).
+
+
+## 1/24/2025
