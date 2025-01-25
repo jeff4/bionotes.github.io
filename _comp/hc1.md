@@ -26,7 +26,7 @@ sitemap: false
 * From May, 2024, a [Wired article](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/) about the 'Cult of the Haskell Programmer'. a bit of hyperbole from a former programmer who had some difficulty with Haskell. [HN thread](https://news.ycombinator.com/item?id=40349970)
 * From Jan, 2025. Article about benefits of avoiding side effects; how Haskell starts off as very pure and then adds some affordances like IO, etc. [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming) and [HN thread](https://news.ycombinator.com/item?id=42754098)
 * New server-side web framework using Haskell called [Hyperbole](https://hackage.haskell.org/package/hyperbole-0.4.2/docs/Web-Hyperbole.html#g:1). [HN thread](https://news.ycombinator.com/item?id=42785641) but no comments from Jan 2025.
-*
+* Old August, 2023 article [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind) and [HN thread](https://news.ycombinator.com/item?id=37246932)
 
 ***
 
