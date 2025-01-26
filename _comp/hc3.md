@@ -208,3 +208,41 @@ f1_whatFollows :: Char -> Int -> String -> [String]
 f1_whatFollows c k string = map tail (filter f4_match (f2_substringsOfLength (k+1) string))
   where f4_match sub = take 1 sub == [c]
 ```
+***
+* After a dialogue with Claude, decided there are:
+#### Five ways to declare a function in Haskell
+
+# Haskell Function Declaration Methods
+
+1. **Top-Level Declaration**
+```haskell
+functionName :: Type1 -> Type2 -> OutputType
+functionName arg1 arg2 = expression
+```
+
+2. **Where Clause**
+```haskell
+mainFunction args = expression
+  where helperFunction args = helperExpression
+```
+
+3. **Let Binding**
+```haskell
+mainFunction = let localFunction args = expression
+               in localFunction args
+```
+
+4. **Case Expression**
+```haskell
+function args = case expression of
+    pattern1 -> result1
+    pattern2 -> result2
+```
+
+5. **Lambda/Anonymous Function**
+```haskell
+\arg1 arg2 -> expression
+-- Example usage:
+map (\x -> x + 1) [1,2,3]
+```
+***
