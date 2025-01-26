@@ -212,8 +212,6 @@ f1_whatFollows c k string = map tail (filter f4_match (f2_substringsOfLength (k+
 * After a dialogue with Claude, decided there are:
 #### Five ways to declare a function in Haskell
 
-# Haskell Function Declaration Methods
-
 1. **Top-Level Declaration**
 ```haskell
 functionName :: Type1 -> Type2 -> OutputType
