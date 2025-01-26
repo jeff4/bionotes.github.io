@@ -195,5 +195,16 @@ whatFollows c k string = map tail (filter match (substringsOfLength (k+1) string
 * After some more Claude dialogue, learned more about how the `string` and `n` work together in the subStringsOfLength function. 
 	* **`shorten`** is a generic function and it doesn't necessarily key off of `s`. Instead of `s`, one can place any parameter there, it doesn't need to be a string. It's a higher order function (I think).
 
+## 1/25/2025
+* Rewriting v0 with function names:
 
-## 1/24/2025
+```haskell
+import Data.List
+f2_substringsOfLength :: Int -> String -> [String]
+f2_substringsOfLength n string = map f3_shorten (tails string)
+  where f3_shorten s = take n s
+
+f1_whatFollows :: Char -> Int -> String -> [String]
+f1_whatFollows c k string = map tail (filter f4_match (f2_substringsOfLength (k+1) string))
+  where f4_match sub = take 1 sub == [c]
+```
