@@ -706,3 +706,6 @@ sitemap: false
 
 ## 23 January 2025
 * Rodney Brooks' review of 2024 and [Predictions for 2025](https://rodneybrooks.com/predictions-scorecard-2025-january-01/) and [HN thread](https://news.ycombinator.com/item?id=42651275)
+
+## 31 January 2025
+* Obviously release of DeepSeek R1 etc in the last few weeks.
